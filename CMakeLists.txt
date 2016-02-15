@@ -22,10 +22,19 @@ set (
 
 ######## Windows
 
-#if (WIN32)
+if (WIN32)
 #	set(CMAKE_SHARED_LIBRARY_PREFIX ${CMAKE_INSTALL_PREFIX})
 #	set(CMAKE_STATIC_LIBRARY_PREFIX ${CMAKE_INSTALL_PREFIX})
-#endif (WIN32)
+    add_definitions(-wd4100)  # unreferenced formal parameter
+    add_definitions(-wd4820)  # end of struct padding
+    add_definitions(-wd4996)  # posix name deprecated
+    add_definitions(-wd4510)  # default constructor could not be generated
+    add_definitions(-wd4512)  # assignment operator could not be generated
+    add_definitions(-wd4514)  # unreferenced inline function removed
+    add_definitions(-wd4610)  # struct can never be instantiated
+    add_definitions(-wd4710)  # function not inlined
+    add_definitions(-wd4711)  # function selected for automatic inlining
+endif (WIN32)
 
 ######## Directory
 

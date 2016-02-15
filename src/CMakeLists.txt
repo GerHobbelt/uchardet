@@ -87,12 +87,12 @@ if (BUILD_STATIC)
     )
 endif (BUILD_STATIC)
 
-if (CMAKE_BUILD_TYPE MATCHES Debug)
-	add_definitions(
-		-O0
-		-g3
-	)
-endif (CMAKE_BUILD_TYPE MATCHES Debug)
+#if (CMAKE_BUILD_TYPE MATCHES Debug)
+#	add_definitions(
+#		-O0
+#		-g3
+#	)
+#endif (CMAKE_BUILD_TYPE MATCHES Debug)
 
 if (NOT WIN32)
 install(
