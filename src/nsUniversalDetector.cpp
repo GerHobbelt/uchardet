@@ -253,8 +253,6 @@ nsresult nsUniversalDetector::HandleData(const char* aBuf, PRUint32 aLen)
     break;
 
   default:
-    /* Pure ASCII */
-    mDetectedCharset = "ASCII";
     break;
   }
   return NS_OK;
@@ -304,6 +302,9 @@ void nsUniversalDetector::DataEnd()
     }
     break;
   case eEscAscii:
+    /* Pure ASCII */
+    mDetectedCharset = "ASCII";
+    Report(mDetectedCharset);
     break;
   default:
     ;
