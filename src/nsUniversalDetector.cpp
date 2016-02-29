@@ -301,6 +301,7 @@ void nsUniversalDetector::DataEnd()
         Report(mCharSetProbers[maxProber]->GetCharSetName());
     }
     break;
+  case ePureAscii:
   case eEscAscii:
     /* Pure ASCII */
     mDetectedCharset = "ASCII";
