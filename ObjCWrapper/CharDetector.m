@@ -74,7 +74,7 @@
 }
 -(CharDetectObject*)detect:(char*)str{
     DetectObj * obj;
-    detect_reset (&detector);
+//    detect_reset (&detector);
     obj = detect_obj_init ();
     NSInteger errorCode = detect_handledata_r (&detector, str, strlen (str), &obj);
     switch (errorCode) {
@@ -87,6 +87,24 @@
             break;
     }
     return [[CharDetectObject alloc] initWithRawObject: obj];
+}
+-(void)dataend{
+    detect_dataend(&detector);
+}
+
+-(void)reset{
+    detect_reset (&detector);
+}
+
++(NSString*)detector_version{
+    return [NSString stringWithCString:detect_version() encoding:NSASCIIStringEncoding];
+}
++(NSString*)detector_uversion{
+    return [NSString stringWithCString:detect_uversion() encoding:NSASCIIStringEncoding];
+}
+
+-(NSArray<NSString*>*)listOfEncodings{
+    return nil;
 }
 @end
 

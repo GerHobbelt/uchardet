@@ -47,7 +47,9 @@ Pod::Spec.new do |s|
   # ――― Publich Headers ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.public_header_files = ["include/nscore.h","include/prmem.h", "include/version.h",
-                           "ObjCWrapper/CharDetector.h", "project/chardet/libchardet.h", "src/chardet.h"]
+                           "ObjCWrapper/CharDetector.h", "project/chardet/libchardet.h", "src/chardet.h",
+                           "ObjCWrapper/NSString+chardet.h"
+                         ]
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
