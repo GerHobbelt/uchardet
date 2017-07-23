@@ -8,6 +8,7 @@
 
 #import "CharDetector.h"
 #import "chardet.h"
+#import "NSString+chardet.h"
 
 @interface CharDetectObject(){
     DetectObj * detectObj;
@@ -54,6 +55,12 @@
     NSInteger errorCode = detect_r (str, strlen (str), &detectObj);
     return errorCode;
 }
+
++(NSString*)stringForCStr:(char*)str{
+    CharDetectObject * instance = [[self alloc] initFor:str];
+    NSString * string = [[NSString alloc] initWithCString:str withDetectObject:instance];
+    return string;
+}
 @end
 
 
@@ -88,6 +95,13 @@
     }
     return [[CharDetectObject alloc] initWithRawObject: obj];
 }
+
+-(NSString*)stringForCStr:(char*)str{
+    CharDetectObject * obj = [self detect:str];
+    NSString * string = [[NSString alloc] initWithCString:str withDetectObject:obj];
+    return string;
+}
+
 -(void)dataend{
     detect_dataend(&detector);
 }

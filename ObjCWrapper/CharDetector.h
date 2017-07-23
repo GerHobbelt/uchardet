@@ -13,12 +13,17 @@
 -(instancetype)initFor:(char*)str;
 -(NSString*)encoding;
 -(float)confidence;
+
++(NSString*)stringForCStr:(char*)str;
+
 @end
 
 
 
 @interface CharDetector : NSObject
 -(CharDetectObject*)detect:(char*)str;
+
+-(NSString*)stringForCStr:(char*)str;
 @end
 
 

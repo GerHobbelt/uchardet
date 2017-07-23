@@ -50,10 +50,14 @@ const NSUInteger encodings[] = {
 };
 
 @implementation NSString (chardet)
--(instancetype)initWithCString:(const char *)nullTerminatedCString {
-    self = [super init];
+
+
+-(instancetype)initWithCString:(const char *)nullTerminatedCString withDetectObject:(CharDetectObject *)detect{
+    self = [self init];
     if (self) {
-        CharDetectObject * detect = [[CharDetectObject alloc] initFor:(char *)nullTerminatedCString];
+        if (detect == nil) {
+            detect = [[CharDetectObject alloc] initFor:(char *)nullTerminatedCString];
+        }
         
         if ( [detect.encoding isEqualToString:@"ASCII"] ) {
             self = [self initWithCString:nullTerminatedCString encoding:NSASCIIStringEncoding];
@@ -85,7 +89,7 @@ const NSUInteger encodings[] = {
             self = [self tryOtherEncoding:nullTerminatedCString];
         }
     }
-    return nsString;
+    return self;
 }
 
 -(NSString*)tryOtherEncoding:(const char *)nullTerminatedCString{
