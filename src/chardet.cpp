@@ -32,9 +32,9 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
-#include <prmem.h>
-#include <nscore.h>
-#include <nsUniversalDetector.h>
+#include "prmem.h"
+#include "nscore.h"
+#include "nsUniversalDetector.h"
 
 class Detector: public nsUniversalDetector {
 	public:
@@ -52,7 +52,7 @@ typedef struct Detect_t {
 	Detector *detect;
 } Detect;
 
-#include <chardet.h>
+#include "chardet.h"
 
 CHARDET_API char * detect_version (void) {
 	return (char *) LIBCHARDET_VERSION;
