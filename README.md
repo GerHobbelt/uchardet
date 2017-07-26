@@ -12,6 +12,11 @@ Copyright (c) 2017 JoungKyun.Kim <http://oops.org> All rights reserved.
 This program is under MPL 1.1 or LGPL 2.1
 
 ## Description
+this fork is small addition for Objective-C wrapper support
+you can also use this by cocoapod.
+pod 'libchardet', :git => 'https://github.com/albert-qjinp-queuez/libchardet.git'
+yea, too lazy to set podspec
+
 libchardet is based on Mozilla Universal Charset Detector library and, detects
 the character set used to encode data.
 
