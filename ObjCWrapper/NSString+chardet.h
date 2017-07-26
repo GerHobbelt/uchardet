@@ -10,5 +10,6 @@
 @class CharDetectObject;
 
 @interface NSString (chardet)
--(instancetype)initWithCString:(const char *)nullTerminatedCString withDetectObject:(CharDetectObject *)detect;
++(instancetype)stringWithCString:(const char *)nullTerminatedCString withDetectObject:(CharDetectObject *)detect;
+
 @end

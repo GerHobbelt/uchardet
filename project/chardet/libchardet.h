@@ -15,5 +15,6 @@ FOUNDATION_EXPORT double chardetVersionNumber;
 FOUNDATION_EXPORT const unsigned char chardetVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <chardet/PublicHeader.h>
-#import <chardet/chardet.h>
-#import <chardet/CharDetector.h>
+#import <libchardet/chardet.h>
+#import <libchardet/CharDetector.h>
+#import <libchardet/NSString+chardet.h>

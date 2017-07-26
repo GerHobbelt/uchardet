@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   # ―――  Spec Metadata  ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.name         = "chardet"
+  s.name         = "libchardet"
   s.version      = "1.0.5"
   s.summary      = "adding Objective-C wrapper to libchardet"
 
@@ -41,15 +41,15 @@ Pod::Spec.new do |s|
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
-  s.source_files  = "include/*.{h,m}", "src/*.{h,m,tab,cpp}", "src/**/*.{h,m,tab,cpp}", "ObjCWrapper/*.{h,m}", "project/chardet/*.{h}"
+  s.source_files  = "include/*.{h,m}", "src/*.{h,m,tab,cpp}", "src/**/*.{h,m,tab,cpp}",
+                    "ObjCWrapper/*.{h,m}", "project/chardet/*.{h}"
 
 
   # ――― Publich Headers ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 
   s.public_header_files = ["include/nscore.h","include/prmem.h", "include/version.h",
-                           "ObjCWrapper/CharDetector.h", "project/chardet/libchardet.h", "src/chardet.h",
-                           "ObjCWrapper/NSString+chardet.h"
-                         ]
+                           "ObjCWrapper/CharDetector.h", "project/chardet/libchardet.h", 
+                           "src/chardet.h", "ObjCWrapper/NSString+chardet.h"]
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

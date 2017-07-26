@@ -45,7 +45,7 @@
     detect_obj_free (&detectObj);
 }
 -(NSString*)encoding{
-    return [NSString stringWithCString:detectObj->encoding encoding:NSASCIIStringEncoding];
+    return [NSString stringWithCString:detectObj->encoding encoding:NSUTF8StringEncoding];
 }
 -(float)confidence{
     return detectObj->confidence;
@@ -58,7 +58,7 @@
 
 +(NSString*)stringForCStr:(char*)str{
     CharDetectObject * instance = [[self alloc] initFor:str];
-    NSString * string = [[NSString alloc] initWithCString:str withDetectObject:instance];
+    NSString * string = [NSString stringWithCString:str withDetectObject:instance];
     return string;
 }
 @end
@@ -96,9 +96,9 @@
     return [[CharDetectObject alloc] initWithRawObject: obj];
 }
 
--(NSString*)stringForCStr:(char*)str{
-    CharDetectObject * obj = [self detect:str];
-    NSString * string = [[NSString alloc] initWithCString:str withDetectObject:obj];
+-(NSString*)stringForCStr:(char*)c_str{
+    CharDetectObject * obj = [self detect:c_str];
+    NSString * string = [NSString stringWithCString:c_str withDetectObject:obj];
     return string;
 }
 
@@ -111,10 +111,10 @@
 }
 
 +(NSString*)detector_version{
-    return [NSString stringWithCString:detect_version() encoding:NSASCIIStringEncoding];
+    return [NSString stringWithCString:detect_version() encoding:NSUTF8StringEncoding];
 }
 +(NSString*)detector_uversion{
-    return [NSString stringWithCString:detect_uversion() encoding:NSASCIIStringEncoding];
+    return [NSString stringWithCString:detect_uversion() encoding:NSUTF8StringEncoding];
 }
 
 -(NSArray<NSString*>*)listOfEncodings{

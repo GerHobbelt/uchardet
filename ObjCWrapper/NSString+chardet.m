@@ -51,52 +51,50 @@ const NSUInteger encodings[] = {
 
 @implementation NSString (chardet)
 
-
--(instancetype)initWithCString:(const char *)nullTerminatedCString withDetectObject:(CharDetectObject *)detect{
-    self = [self init];
-    if (self) {
-        if (detect == nil) {
-            detect = [[CharDetectObject alloc] initFor:(char *)nullTerminatedCString];
-        }
-        
-        if ( [detect.encoding isEqualToString:@"ASCII"] ) {
-            self = [self initWithCString:nullTerminatedCString encoding:NSASCIIStringEncoding];
-        }else if( [detect.encoding isEqualToString:@"ISO-8859-1"] ){
-            self = [self initWithCString:nullTerminatedCString encoding:kCFStringEncodingISOLatin1];
-        }else if( [detect.encoding isEqualToString:@"UTF-16LE"] ){
-            self = [self initWithCString:nullTerminatedCString encoding:kCFStringEncodingUTF16LE];
-        }else if( [detect.encoding isEqualToString:@"UTF-32LE"] ){
-            self = [self initWithCString:nullTerminatedCString encoding:kCFStringEncodingUTF32LE];
-        }else if( [detect.encoding isEqualToString:@"X-ISO-10646-UCS-4-2143"] ){// non of matchign
-            self = [self initWithCString:nullTerminatedCString encoding:NSASCIIStringEncoding];
-        }else if( [detect.encoding isEqualToString:@"UTF-32BE"] ){
-            self = [self initWithCString:nullTerminatedCString encoding:kCFStringEncodingUTF32BE];
-        }else if( [detect.encoding isEqualToString:@"UTF-16BE"] ){
-            self = [self initWithCString:nullTerminatedCString encoding:kCFStringEncodingUTF16BE];
-        }else if( [detect.encoding isEqualToString:@"X-ISO-10646-UCS-4-3412"] ){// non of matchign
-            self = [self initWithCString:nullTerminatedCString encoding:NSASCIIStringEncoding];
-        }else if( [detect.encoding isEqualToString:@"UTF-8"] ){
-            self = [self initWithCString:nullTerminatedCString encoding:NSUTF8StringEncoding];
-        }else if( [detect.encoding isEqualToString:@"EUC-JP"] ){
-            self = [self initWithCString:nullTerminatedCString encoding:NSJapaneseEUCStringEncoding];
-        }else if( [detect.encoding isEqualToString:@"EUC-KR"] ){// non of matchign
-            self = [self initWithCString:nullTerminatedCString encoding:NSASCIIStringEncoding];
-        }else if( [detect.encoding isEqualToString:@"EUC-TW"] ){// non of matchign
-            self = [self initWithCString:nullTerminatedCString encoding:NSASCIIStringEncoding];
-        }
-        
-        if (self == nil) {
-            self = [self tryOtherEncoding:nullTerminatedCString];
-        }
++(instancetype)stringWithCString:(const char *)nullTerminatedCString withDetectObject:(CharDetectObject *)detect{
+    
+    NSString * stringObject = nil;
+    if (detect == nil) {
+        detect = [[CharDetectObject alloc] initFor:(char *)nullTerminatedCString];
     }
-    return self;
+    
+    if ( [detect.encoding isEqualToString:@"ASCII"] ) {
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:NSASCIIStringEncoding];
+    }else if( [detect.encoding isEqualToString:@"ISO-8859-1"] ){
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:kCFStringEncodingISOLatin1];
+    }else if( [detect.encoding isEqualToString:@"UTF-16LE"] ){
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:kCFStringEncodingUTF16LE];
+    }else if( [detect.encoding isEqualToString:@"UTF-32LE"] ){
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:kCFStringEncodingUTF32LE];
+    }else if( [detect.encoding isEqualToString:@"X-ISO-10646-UCS-4-2143"] ){// non of matchign
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:NSUTF8StringEncoding];
+    }else if( [detect.encoding isEqualToString:@"UTF-32BE"] ){
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:kCFStringEncodingUTF32BE];
+    }else if( [detect.encoding isEqualToString:@"UTF-16BE"] ){
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:kCFStringEncodingUTF16BE];
+    }else if( [detect.encoding isEqualToString:@"X-ISO-10646-UCS-4-3412"] ){// non of matchign
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:NSUTF8StringEncoding];
+    }else if( [detect.encoding isEqualToString:@"UTF-8"] ){
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:NSUTF8StringEncoding];
+    }else if( [detect.encoding isEqualToString:@"EUC-JP"] ){
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:NSJapaneseEUCStringEncoding];
+    }else if( [detect.encoding isEqualToString:@"EUC-KR"] ){// non of matchign
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:NSUTF8StringEncoding];
+    }else if( [detect.encoding isEqualToString:@"EUC-TW"] ){// non of matchign
+        stringObject = [self stringWithCString:nullTerminatedCString encoding:NSUTF8StringEncoding];
+    }
+    
+    if (stringObject == nil) {
+        stringObject = [self tryOtherEncoding:nullTerminatedCString];
+    }
+    return stringObject;
 }
 
--(NSString*)tryOtherEncoding:(const char *)nullTerminatedCString{
++(NSString*)tryOtherEncoding:(const char *)nullTerminatedCString{
     int count = sizeof(encodings)/sizeof(NSUInteger);
     NSString * encoding = nil;
     for(int i = 0; i < count; i++){
-        encoding = [self initWithCString:nullTerminatedCString encoding:i];
+        encoding = [self stringWithCString:nullTerminatedCString encoding:i];
         if (encoding != nil) {
             break;
         }
