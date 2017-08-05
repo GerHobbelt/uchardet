@@ -108,7 +108,7 @@ CHARDET_API short detect_handledata (Detect ** det, const char * buf, DetectObj 
 CHARDET_API short detect_handledata_r (Detect ** det, const char * buf, size_t buflen, DetectObj ** obj) {
 	const char * ret;
 
-	if ( (*det)->detect->HandleData (buf, buflen) == NS_ERROR_OUT_OF_MEMORY )
+	if ( (*det)->detect->HandleData (buf, (unsigned int)buflen) == NS_ERROR_OUT_OF_MEMORY )
 		return CHARDET_OUT_OF_MEMORY;
 	(*det)->detect->DataEnd ();
 
@@ -140,7 +140,7 @@ CHARDET_API short detect_r (const char *buf, size_t buflen, DetectObj ** obj) {
 
 	det = new Detector;
 	det->Reset ();
-	if ( det->HandleData (buf, buflen) == NS_ERROR_OUT_OF_MEMORY ) {
+	if ( det->HandleData (buf, (unsigned int)buflen) == NS_ERROR_OUT_OF_MEMORY ) {
 		delete det;
 		return CHARDET_OUT_OF_MEMORY;
 	}
