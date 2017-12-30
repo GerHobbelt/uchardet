@@ -79,7 +79,9 @@ const NSUInteger encodings[] = {
     }else if( [detect.encoding isEqualToString:@"EUC-JP"] ){
         stringObject = [self stringWithCString:nullTerminatedCString encoding:NSJapaneseEUCStringEncoding];
     }else if( [detect.encoding isEqualToString:@"EUC-KR"] ){// non of matchign
-        stringObject = [self stringWithCString:nullTerminatedCString encoding:NSUTF8StringEncoding];
+      NSUInteger encoding = CFStringConvertEncodingToNSStringEncoding(kCFStringEncodingEUC_KR);
+      stringObject = [self stringWithCString:nullTerminatedCString encoding:encoding];
+      
     }else if( [detect.encoding isEqualToString:@"EUC-TW"] ){// non of matchign
         stringObject = [self stringWithCString:nullTerminatedCString encoding:NSUTF8StringEncoding];
     }
@@ -92,13 +94,13 @@ const NSUInteger encodings[] = {
 
 +(NSString*)tryOtherEncoding:(const char *)nullTerminatedCString{
     int count = sizeof(encodings)/sizeof(NSUInteger);
-    NSString * encoding = nil;
+    NSString * encodedString = nil;
     for(int i = 0; i < count; i++){
-        encoding = [self stringWithCString:nullTerminatedCString encoding:i];
-        if (encoding != nil) {
+        encodedString = [self stringWithCString:nullTerminatedCString encoding:i];
+        if (encodedString != nil) {
             break;
         }
     }
-    return encoding;
+    return encodedString;
 }
 @end

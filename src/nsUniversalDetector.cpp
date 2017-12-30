@@ -316,7 +316,7 @@ void nsUniversalDetector::DataEnd()
       }
       mDetectedConfidence = maxProberConfidence;
       //do not report anything because we are not confident of it, that's in fact a negative answer
-      if (maxProberConfidence > MINIMUM_THRESHOLD) {
+      if (maxProberConfidence > MINIMUM_THRESHOLD && mCharSetProbers[maxProber] != nullptr) {
         Report(mCharSetProbers[maxProber]->GetCharSetName());
         mDetectedConfidence = mCharSetProbers[maxProber]->GetConfidence();
       }
