@@ -78,18 +78,23 @@ const NSUInteger encodings[] = {
         stringObject = [self stringWithCString:nullTerminatedCString encoding:NSUTF8StringEncoding];
     }else if( [detect.encoding isEqualToString:@"EUC-JP"] ){
         stringObject = [self stringWithCString:nullTerminatedCString encoding:NSJapaneseEUCStringEncoding];
-    }else if( [detect.encoding isEqualToString:@"EUC-KR"] ){// non of matchign
-      NSUInteger encoding = CFStringConvertEncodingToNSStringEncoding(kCFStringEncodingEUC_KR);
-      stringObject = [self stringWithCString:nullTerminatedCString encoding:encoding];
-      
-    }else if( [detect.encoding isEqualToString:@"EUC-TW"] ){// non of matchign
-        stringObject = [self stringWithCString:nullTerminatedCString encoding:NSUTF8StringEncoding];
+    }else if( [detect.encoding isEqualToString:@"EUC-KR"] ){
+      stringObject = [self stringWithCString:nullTerminatedCString CFEncoding:kCFStringEncodingEUC_KR];
+    }else if( [detect.encoding isEqualToString:@"EUC-TW"] ){
+      stringObject = [self stringWithCString:nullTerminatedCString CFEncoding:kCFStringEncodingEUC_TW];
     }
     
     if (stringObject == nil) {
         stringObject = [self tryOtherEncoding:nullTerminatedCString];
     }
     return stringObject;
+}
+
++(NSString*)stringWithCString:(const char *)nullTerminatedCString
+                   CFEncoding:(CFStringEncoding)encoding{
+  NSUInteger nsEncoding = CFStringConvertEncodingToNSStringEncoding(encoding);
+  NSString * stringObject = [self stringWithCString:nullTerminatedCString encoding:nsEncoding];
+  return stringObject;
 }
 
 +(NSString*)tryOtherEncoding:(const char *)nullTerminatedCString{
