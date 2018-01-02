@@ -10,7 +10,6 @@
 		BD4995F119F84868000945BC /* CharDistribution.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD4995B819F84868000945BC /* CharDistribution.cpp */; };
 		BD4995F219F84868000945BC /* JpCntx.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD4995BF19F84868000945BC /* JpCntx.cpp */; };
 		BD4995F319F84868000945BC /* LangBulgarianModel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD4995C119F84868000945BC /* LangBulgarianModel.cpp */; };
-		BD4995F419F84868000945BC /* LangCyrillicModel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD4995C219F84868000945BC /* LangCyrillicModel.cpp */; };
 		BD4995F519F84868000945BC /* LangGreekModel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD4995C319F84868000945BC /* LangGreekModel.cpp */; };
 		BD4995F619F84868000945BC /* LangHebrewModel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD4995C419F84868000945BC /* LangHebrewModel.cpp */; };
 		BD4995F719F84868000945BC /* LangHungarianModel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD4995C519F84868000945BC /* LangHungarianModel.cpp */; };
@@ -36,7 +35,6 @@
 		BD49960F19F848DC000945BC /* uchardet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD49960D19F848DC000945BC /* uchardet.cpp */; };
 		BD49961019F849E1000945BC /* uchardet.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = BD4995F019F84868000945BC /* uchardet.h */; };
 		BD49961319FC04E8000945BC /* nsMBCSGroupProber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD4995DC19F84868000945BC /* nsMBCSGroupProber.cpp */; };
-		BD49961419FC04E8000945BC /* LangCyrillicModel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD4995C219F84868000945BC /* LangCyrillicModel.cpp */; };
 		BD49961519FC04E8000945BC /* uchardet.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD49960D19F848DC000945BC /* uchardet.cpp */; };
 		BD49961619FC04E8000945BC /* nsSJISProber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD4995E419F84868000945BC /* nsSJISProber.cpp */; };
 		BD49961719FC04E8000945BC /* nsHebrewProber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BD4995D819F84868000945BC /* nsHebrewProber.cpp */; };
@@ -99,12 +97,11 @@
 		BD4995BE19F84868000945BC /* JISFreq.tab */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = JISFreq.tab; sourceTree = "<group>"; };
 		BD4995BF19F84868000945BC /* JpCntx.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = JpCntx.cpp; sourceTree = "<group>"; };
 		BD4995C019F84868000945BC /* JpCntx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JpCntx.h; sourceTree = "<group>"; };
-		BD4995C119F84868000945BC /* LangBulgarianModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LangBulgarianModel.cpp; sourceTree = "<group>"; };
-		BD4995C219F84868000945BC /* LangCyrillicModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LangCyrillicModel.cpp; sourceTree = "<group>"; };
-		BD4995C319F84868000945BC /* LangGreekModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LangGreekModel.cpp; sourceTree = "<group>"; };
-		BD4995C419F84868000945BC /* LangHebrewModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LangHebrewModel.cpp; sourceTree = "<group>"; };
-		BD4995C519F84868000945BC /* LangHungarianModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LangHungarianModel.cpp; sourceTree = "<group>"; };
-		BD4995C619F84868000945BC /* LangThaiModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = LangThaiModel.cpp; sourceTree = "<group>"; };
+		BD4995C119F84868000945BC /* LangBulgarianModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = LangBulgarianModel.cpp; path = LangModels/LangBulgarianModel.cpp; sourceTree = "<group>"; };
+		BD4995C319F84868000945BC /* LangGreekModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = LangGreekModel.cpp; path = LangModels/LangGreekModel.cpp; sourceTree = "<group>"; };
+		BD4995C419F84868000945BC /* LangHebrewModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = LangHebrewModel.cpp; path = LangModels/LangHebrewModel.cpp; sourceTree = "<group>"; };
+		BD4995C519F84868000945BC /* LangHungarianModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = LangHungarianModel.cpp; path = LangModels/LangHungarianModel.cpp; sourceTree = "<group>"; };
+		BD4995C619F84868000945BC /* LangThaiModel.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = LangThaiModel.cpp; path = LangModels/LangThaiModel.cpp; sourceTree = "<group>"; };
 		BD4995C719F84868000945BC /* nsBig5Prober.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = nsBig5Prober.cpp; sourceTree = "<group>"; };
 		BD4995C819F84868000945BC /* nsBig5Prober.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = nsBig5Prober.h; sourceTree = "<group>"; };
 		BD4995C919F84868000945BC /* nsCharSetProber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = nsCharSetProber.cpp; sourceTree = "<group>"; };
@@ -196,7 +193,6 @@
 				BD4995BF19F84868000945BC /* JpCntx.cpp */,
 				BD4995C019F84868000945BC /* JpCntx.h */,
 				BD4995C119F84868000945BC /* LangBulgarianModel.cpp */,
-				BD4995C219F84868000945BC /* LangCyrillicModel.cpp */,
 				BD4995C319F84868000945BC /* LangGreekModel.cpp */,
 				BD4995C419F84868000945BC /* LangHebrewModel.cpp */,
 				BD4995C519F84868000945BC /* LangHungarianModel.cpp */,
@@ -295,7 +291,7 @@
 		BD49959419F84840000945BC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = "Hoa Dinh";
 				TargetAttributes = {
 					BD49959B19F84840000945BC = {
@@ -327,7 +323,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD49960319F84868000945BC /* nsMBCSGroupProber.cpp in Sources */,
-				BD4995F419F84868000945BC /* LangCyrillicModel.cpp in Sources */,
 				BD49960F19F848DC000945BC /* uchardet.cpp in Sources */,
 				BD49960719F84868000945BC /* nsSJISProber.cpp in Sources */,
 				BD49960119F84868000945BC /* nsHebrewProber.cpp in Sources */,
@@ -361,7 +356,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD49961319FC04E8000945BC /* nsMBCSGroupProber.cpp in Sources */,
-				BD49961419FC04E8000945BC /* LangCyrillicModel.cpp in Sources */,
 				BD49961519FC04E8000945BC /* uchardet.cpp in Sources */,
 				BD49961619FC04E8000945BC /* nsSJISProber.cpp in Sources */,
 				BD49961719FC04E8000945BC /* nsHebrewProber.cpp in Sources */,
@@ -401,19 +395,29 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -441,19 +445,28 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
