@@ -45,7 +45,10 @@
     detect_obj_free (&detectObj);
 }
 -(NSString*)encoding{
-    return [NSString stringWithCString:detectObj->encoding encoding:NSUTF8StringEncoding];
+  if (detectObj->encoding == NULL) {
+    return @"ASCII";
+  }
+  return [NSString stringWithCString:detectObj->encoding encoding:NSUTF8StringEncoding];
 }
 -(float)confidence{
     return detectObj->confidence;
