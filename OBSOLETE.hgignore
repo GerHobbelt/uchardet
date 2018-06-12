@@ -1,3 +1,0 @@
-syntax: glob
-build-nmake2008-win32
-build-nmake2008-win64
