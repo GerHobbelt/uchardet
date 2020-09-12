@@ -488,7 +488,7 @@ PCK4BITS(eError,eError,eError,eError,     7,     7,eError,eError),//60-67
 PCK4BITS(eError,eError,eError,eError,eError,eError,eError,eError),//68-6f 
 PCK4BITS(eError,eError,     9,     9,     9,     9,eError,eError),//70-77 
 PCK4BITS(eError,eError,eError,eError,eError,eError,eError,eError),//78-7f 
-PCK4BITS(eError,eError,eError,eError,eError,     9,eError,eError),//80-87 
+PCK4BITS(eError,eError,eError,eError,      9,     9,eError,eError),//80-87 
 PCK4BITS(eError,eError,eError,eError,eError,eError,eError,eError),//88-8f 
 PCK4BITS(eError,eError,     12,     12,     12,     12,eError,eError),//90-97 
 PCK4BITS(eError,eError,eError,eError,eError,eError,eError,eError),//98-9f 
