@@ -58,6 +58,9 @@ protected:
   nsCodingStateMachine* mCodingSM;
   nsProbingState mState;
   PRUint32 mNumOfMBChar;
+  PRUint32 mMBCharLen;
+  PRUint32 mFullLen;
+  PRUint32 mBasicAsciiLen;
 };
 
 #endif /* nsUTF8Prober_h__ */

@@ -36,30 +36,48 @@
  * ***** END LICENSE BLOCK ***** */
 
 #include "nsUTF8Prober.h"
+#include <cmath>
 
 void  nsUTF8Prober::Reset(void)
 {
   mCodingSM->Reset(); 
-  mNumOfMBChar = 0;
   mState = eDetecting;
+  mNumOfMBChar = 0;
+  mMBCharLen = 0;
+  mFullLen = 0;
+  mBasicAsciiLen = 0;
 }
 
 nsProbingState nsUTF8Prober::HandleData(const char* aBuf, PRUint32 aLen)
 {
   PRUint32 codingState;
 
+  mFullLen += aLen;
   for (PRUint32 i = 0; i < aLen; i++)
   {
-    codingState = mCodingSM->NextState(aBuf[i]);
-    if (codingState == eItsMe)
+	char c = aBuf[i];
+    codingState = mCodingSM->NextState(c);
+	if (codingState == eError)
+	{
+	  mState = eNotMe;
+	  break;
+	}
+    else if (codingState == eItsMe)
     {
       mState = eFoundIt;
       break;
     }
     if (codingState == eStart)
     {
-      if (mCodingSM->GetCurrentCharLen() >= 2)
-        mNumOfMBChar++;
+	  if (mCodingSM->GetCurrentCharLen() >= 2)
+	  {
+		mNumOfMBChar++;
+		mMBCharLen += mCodingSM->GetCurrentCharLen();
+	  }
+	  else if (c < 128) // codes higher than 127 are extended ASCII
+	  {
+		mBasicAsciiLen++;
+	  }
     }
   }
 
@@ -74,11 +92,17 @@ nsProbingState nsUTF8Prober::HandleData(const char* aBuf, PRUint32 aLen)
 float nsUTF8Prober::GetConfidence(void)
 {
   float unlike = (float)0.99;
+  float mbCharRatio = (float)0;
+  PRUint32 nonBasciAsciiLen = mFullLen - mBasicAsciiLen;
+  if (nonBasciAsciiLen > 0)
+  {
+	mbCharRatio = float(mMBCharLen / nonBasciAsciiLen);
+  }
 
-  if (mNumOfMBChar < 6)
+  if (mNumOfMBChar < 6 && mbCharRatio <= 0.6f)
   {
     for (PRUint32 i = 0; i < mNumOfMBChar; i++)
-      unlike *= ONE_CHAR_PROB;
+      unlike *= std::pow(ONE_CHAR_PROB, mNumOfMBChar);
     return (float)1.0 - unlike;
   }
   else
