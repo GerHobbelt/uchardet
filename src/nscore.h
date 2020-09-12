@@ -39,6 +39,7 @@
 
 typedef bool PRBool;
 typedef int PRInt32;
+typedef unsigned int PRUint64;
 typedef unsigned int PRUint32;
 typedef short PRInt16;
 typedef unsigned short PRUint16;

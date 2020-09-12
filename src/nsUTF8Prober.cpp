@@ -102,7 +102,7 @@ float nsUTF8Prober::GetConfidence(void)
   if (mNumOfMBChar < 6 && mbCharRatio <= 0.6f)
   {
     for (PRUint32 i = 0; i < mNumOfMBChar; i++)
-      unlike *= std::pow(ONE_CHAR_PROB, mNumOfMBChar);
+      unlike *= std::powf(ONE_CHAR_PROB, (float)mNumOfMBChar);
     return (float)1.0 - unlike;
   }
   else
