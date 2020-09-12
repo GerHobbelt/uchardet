@@ -215,7 +215,7 @@ protected:
     else
       return -1;
     order += (unsigned char)*(str+1) - 0x40;
-	if ((unsigned char)str[1] < 0x40 || (unsigned char)str[1] == 0x7F || (unsigned char)str[1] > 0xFC)
+	if ((unsigned char)str[1] < 0x40 || (unsigned char)str[1] == 0x7f || (unsigned char)str[1] > 0xfc)
       order--;
     return order;
   }
