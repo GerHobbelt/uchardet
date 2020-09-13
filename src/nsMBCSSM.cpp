@@ -97,6 +97,64 @@ SMModel const Big5SMModel = {
   "BIG5",
 };
 
+// CP949
+static const PRUint32 CP949_cls[256 / 8] = {
+	PCK4BITS(1,1,1,1,1,1,1,1), // 00 - 07
+	PCK4BITS(1,1,1,1,1,1,0,0), // 08 - 0f 
+	PCK4BITS(1,1,1,1,1,1,1,1), // 10 - 17
+	PCK4BITS(1,1,1,0,1,1,1,1), // 18 - 1f 
+	PCK4BITS(1,1,1,1,1,1,1,1), // 20 - 27
+	PCK4BITS(1,1,1,1,1,1,1,1), // 28 - 2f 
+	PCK4BITS(1,1,1,1,1,1,1,1), // 30 - 37
+	PCK4BITS(1,1,1,1,1,1,1,1), // 38 - 3f 
+	PCK4BITS(1,4,4,4,4,4,4,4), // 40 - 47
+	PCK4BITS(4,4,4,4,4,4,4,4), // 48 - 4f 
+	PCK4BITS(4,4,5,5,5,5,5,5), // 50 - 57
+	PCK4BITS(5,5,5,1,1,1,1,1), // 58 - 5f 
+	PCK4BITS(1,5,5,5,5,5,5,5), // 60 - 67
+	PCK4BITS(5,5,5,5,5,5,5,5), // 68 - 6f 
+	PCK4BITS(5,5,5,5,5,5,5,5), // 70 - 77
+	PCK4BITS(5,5,5,1,1,1,1,1), // 78 - 7f 
+	PCK4BITS(0,6,6,6,6,6,6,6), // 80 - 87
+	PCK4BITS(6,6,6,6,6,6,6,6), // 88 - 8f 
+	PCK4BITS(6,6,6,6,6,6,6,6), // 90 - 97
+	PCK4BITS(6,6,6,6,6,6,6,6), // 98 - 9f 
+	PCK4BITS(6,7,7,7,7,7,7,7), // a0 - a7
+	PCK4BITS(7,7,7,7,7,8,8,8), // a8 - af 
+	PCK4BITS(7,7,7,7,7,7,7,7), // b0 - b7
+	PCK4BITS(7,7,7,7,7,7,7,7), // b8 - bf
+	PCK4BITS(7,7,7,7,7,7,9,2), // c0 - c7
+	PCK4BITS(2,3,2,2,2,2,2,2), // c8 - cf 
+	PCK4BITS(2,2,2,2,2,2,2,2), // d0 - d7
+	PCK4BITS(2,2,2,2,2,2,2,2), // d8 - df
+	PCK4BITS(2,2,2,2,2,2,2,2), // e0 - e7
+	PCK4BITS(2,2,2,2,2,2,2,2), // e8 - ef 
+	PCK4BITS(2,2,2,2,2,2,2,2), // f0 - f7 
+	PCK4BITS(2,2,2,2,2,2,2,0)  // f8 - ff 
+};
+
+static const PRUint32 CP949_st[9] = {
+	PCK4BITS(eError,eStart,       3,eError,eStart, eStart,      4,      5),		// 00 - 07
+	PCK4BITS(eError,      6,eError,eError,eError,eError,eError,eError),		// 08 - 0f 
+	PCK4BITS(eError,eError,eError,eError,eItsMe,eItsMe,eItsMe,eItsMe),		// 10 - 17
+	PCK4BITS(eItsMe,eItsMe,eItsMe,eItsMe,eItsMe,eItsMe,eError,eError),	// 18 - 1f 
+	PCK4BITS(eStart,eStart,eError,eError,eError,eStart,eStart,eStart),			// 20 - 27
+	PCK4BITS(eError,eError,eStart,eStart,eStart,eStart,eStart,eStart),			// 28 - 2f 
+	PCK4BITS(eStart,eStart,eError,eStart,eStart,eStart,eStart,eStart),			// 30 - 37
+	PCK4BITS(eStart,eStart,eStart,eStart,eError,eStart,eStart,eStart),			// 38 - 3f 
+	PCK4BITS(eStart,eError,eError,eStart,eStart,eStart,eStart,eStart)			// 40 - 47
+};
+
+static const PRUint32 CP949CharLenTable[] = { 0, 1, 2, 0, 1, 1, 2, 2, 0, 2 };
+
+const SMModel CP949SMModel = {
+  {eIdxSft4bits, eSftMsk4bits, eBitSft4bits, eUnitMsk4bits, CP949_cls },
+   10,
+  {eIdxSft4bits, eSftMsk4bits, eBitSft4bits, eUnitMsk4bits, CP949_st },
+  CP949CharLenTable,
+  "CP949",
+};
+
 static const PRUint32 EUCJP_cls [ 256 / 8 ] = {
 //PCK4BITS(5,4,4,4,4,4,4,4),  // 00 - 07 
 PCK4BITS(4,4,4,4,4,4,4,4),  // 00 - 07 
