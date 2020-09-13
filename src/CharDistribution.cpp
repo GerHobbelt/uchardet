@@ -65,6 +65,13 @@ float CharDistributionAnalysis::GetConfidence(void)
   return SURE_YES;
 }
 
+CP949DistributionAnalysis::CP949DistributionAnalysis()
+{
+	mCharToFreqOrder = EUCKRCharToFreqOrder;
+	mTableSize = EUCKR_TABLE_SIZE;
+	mTypicalDistributionRatio = EUCKR_TYPICAL_DISTRIBUTION_RATIO;
+}
+
 EUCTWDistributionAnalysis::EUCTWDistributionAnalysis()
 {
   mCharToFreqOrder = EUCTWCharToFreqOrder;

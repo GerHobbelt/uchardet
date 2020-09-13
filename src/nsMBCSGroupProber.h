@@ -46,8 +46,9 @@
 #include "nsEUCKRProber.h"
 #include "nsBig5Prober.h"
 #include "nsEUCTWProber.h"
+#include "nsCP949Prober.h"
 
-#define NUM_OF_PROBERS    7
+#define NUM_OF_PROBERS    8
 
 class nsMBCSGroupProber: public nsCharSetProber {
 public:
