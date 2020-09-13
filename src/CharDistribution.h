@@ -42,7 +42,7 @@
 
 #define ENOUGH_DATA_THRESHOLD 1024
  
-#define MINIMUM_DATA_THRESHOLD  4
+#define MINIMUM_DATA_THRESHOLD 3
 
 class CharDistributionAnalysis
 {
