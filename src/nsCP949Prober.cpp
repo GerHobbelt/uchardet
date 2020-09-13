@@ -5,7 +5,6 @@ void  nsCP949Prober::Reset(void)
 	mCodingSM->Reset();
 	mState = eDetecting;
 	mDistributionAnalyser.Reset(mIsPreferredLanguage);
-	//mContextAnalyser.Reset();
 }
 
 nsProbingState nsCP949Prober::HandleData(const char* aBuf, PRUint32 aLen)

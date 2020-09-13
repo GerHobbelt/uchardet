@@ -26,7 +26,6 @@ protected:
 	nsCodingStateMachine* mCodingSM;
 	nsProbingState mState;
 
-	//EUCKRContextAnalysis mContextAnalyser;
 	CP949DistributionAnalysis mDistributionAnalyser;
 	char mLastChar[2];
 	PRBool mIsPreferredLanguage;

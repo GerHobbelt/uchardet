@@ -67,7 +67,7 @@ float CharDistributionAnalysis::GetConfidence(void)
 
 CP949DistributionAnalysis::CP949DistributionAnalysis()
 {
-	mCharToFreqOrder = EUCKRCharToFreqOrder;
+	mCharToFreqOrder = EUCKRCharToFreqOrder;	// TODO: extend EUCKRFreq to CP949Freq
 	mTableSize = EUCKR_TABLE_SIZE;
 	mTypicalDistributionRatio = EUCKR_TYPICAL_DISTRIBUTION_RATIO;
 }
