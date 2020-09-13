@@ -174,12 +174,13 @@ public:
   EUCKRDistributionAnalysis();
 protected:
   //for euc-KR encoding, we are interested 
-  //  first  byte range: 0xb0 -- 0xfe
-  //  second byte range: 0xa1 -- 0xfe
+  //  first  byte range: 0xa1 -- 0xfe
+  //  second byte range: 0xa1 -- 0xfe 
   //no validation needed here. State machine has done that
   PRInt32 GetOrder(const char* str) 
-  { if ((unsigned char)*str >= (unsigned char)0xb0)  
-      return 94*((unsigned char)str[0]-(unsigned char)0xb0) + (unsigned char)str[1] - (unsigned char)0xa1;
+  { 
+	if ((unsigned char)*str >= (unsigned char)0xa1)
+      return 94*((unsigned char)str[0]-(unsigned char)0xa1) + (unsigned char)str[1] - (unsigned char)0xa1;
     else
       return -1;
   }
