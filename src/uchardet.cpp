@@ -62,11 +62,7 @@ public:
     {
         if (m_charset)
             free(m_charset);
-#if defined(_MSC_VER)
-        m_charset = _strdup(charset);
-#else
-		m_charset = strdup(charset);
-#endif
+        m_charset = strdup(charset);
     }
 
     virtual void Reset()
@@ -74,11 +70,7 @@ public:
         nsUniversalDetector::Reset();
         if (m_charset)
             free(m_charset);
-#if defined(_MSC_VER)
-		m_charset = _strdup("");
-#else
         m_charset = strdup("");
-#endif
     }
 
     const char* GetCharset() const

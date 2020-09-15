@@ -42,7 +42,7 @@
 
 #define ENOUGH_DATA_THRESHOLD 1024
  
-#define MINIMUM_DATA_THRESHOLD 3
+#define MINIMUM_DATA_THRESHOLD  4
 
 class CharDistributionAnalysis
 {
@@ -50,7 +50,7 @@ public:
   CharDistributionAnalysis() {Reset(PR_FALSE);}
 
   //feed a block of data and do distribution analysis
-  void HandleData(const char* /*aBuf*/, PRUint32 /*aLen*/) {}
+  void HandleData(const char* aBuf, PRUint32 aLen) {}
   
   //Feed a character with known length
   void HandleOneChar(const char* aStr, PRUint32 aCharLen)
@@ -67,7 +67,7 @@ public:
       if ((PRUint32)order < mTableSize)
       {
         if (512 > mCharToFreqOrder[order])
-           mFreqChars++;
+          mFreqChars++;
       }
     }
   }
@@ -81,7 +81,7 @@ public:
     mDone = PR_FALSE;
     mTotalChars = 0;
     mFreqChars = 0;
-    mDataThreshold = aIsPreferredLanguage ? 0 : (PRUint32)MINIMUM_DATA_THRESHOLD;
+    mDataThreshold = aIsPreferredLanguage ? 0 : MINIMUM_DATA_THRESHOLD;
   }
 
   //This function is for future extension. Caller can use this function to control
@@ -96,7 +96,7 @@ protected:
   //we do not handle character base on its original encoding string, but 
   //convert this encoding string to a number, here called order.
   //This allow multiple encoding of a language to share one frequency table 
-  virtual PRInt32 GetOrder(const char* /*str*/) {return -1;}
+  virtual PRInt32 GetOrder(const char* str) {return -1;}
   
   //If this flag is set to PR_TRUE, detection is done and conclusion has been made
   PRBool   mDone;
@@ -122,33 +122,6 @@ protected:
 };
 
 
-class CP949DistributionAnalysis : public CharDistributionAnalysis
-{
-public:
-  CP949DistributionAnalysis();
-
-protected:
-  // first byte			0x81~0xC6
-  // second byte		0x41~0x5A, 0x61~0x7A, 0x81~0xFE
-  PRInt32 GetOrder(const char* str)
-  {
-	if ((unsigned char)*str >= (unsigned char)0x81 && (unsigned char)*str <= (unsigned char)0xc6)
-	{
-	  // In order to avoid conflict with EUC-KR, if the first byte is 0xA1 or more, the second byte is limited so that it does not exceed 0xA0.
-	  if ((unsigned char)str[0] >= 0xa1 && (unsigned char)str[1] > 0xa0)
-	    return -1;
-
-	  if((unsigned char)str[1] >= 0x41 && (unsigned char)str[1] <= 0x5a)			// upper A~Z
-		return 94 * ((unsigned char)str[0] - (unsigned char)0x81) + (unsigned char)str[1] - (unsigned char)0x41;
-	  else if ((unsigned char)str[1] >= 0x61 && (unsigned char)str[1] <= 0x7a)	// lower a~z
-		return 94 * ((unsigned char)str[0] - (unsigned char)0x81) + (unsigned char)str[1] - (unsigned char)0x61;
-	  else if ((unsigned char)str[1] >= 0x81)
-		return 94 * ((unsigned char)str[0] - (unsigned char)0x81) + (unsigned char)str[1] - (unsigned char)0x81;
-	}
-	return -1;
-  }
-};
-
 class EUCTWDistributionAnalysis: public CharDistributionAnalysis
 {
 public:
@@ -160,10 +133,10 @@ protected:
   //  second byte range: 0xa1 -- 0xfe
   //no validation needed here. State machine has done that
   PRInt32 GetOrder(const char* str) 
-  { 
-	if ((unsigned char)*str >= (unsigned char)0xc4)  
+  { if ((unsigned char)*str >= (unsigned char)0xc4)  
       return 94*((unsigned char)str[0]-(unsigned char)0xc4) + (unsigned char)str[1] - (unsigned char)0xa1;
-    return -1;
+    else
+      return -1;
   }
 };
 
@@ -174,21 +147,16 @@ public:
   EUCKRDistributionAnalysis();
 protected:
   //for euc-KR encoding, we are interested 
-  //  first  byte range:  0xa1 -- 0xfe
-  //  second byte range: 0xa1 -- 0xfe 
+  //  first  byte range: 0xb0 -- 0xfe
+  //  second byte range: 0xa1 -- 0xfe
   //no validation needed here. State machine has done that
   PRInt32 GetOrder(const char* str) 
-  { 
-	if ((unsigned char)*str >= (unsigned char)0xa1)
-	{
-	  unsigned char first = ((unsigned char)str[0] - (unsigned char)0xa1);
-	  unsigned char second = (unsigned char)str[1] - (unsigned char)0xa1;
-	  return (94 * first) + second - 2;
-	}
-    return -1;
+  { if ((unsigned char)*str >= (unsigned char)0xb0)  
+      return 94*((unsigned char)str[0]-(unsigned char)0xb0) + (unsigned char)str[1] - (unsigned char)0xa1;
+    else
+      return -1;
   }
 };
-
 
 class GB2312DistributionAnalysis : public CharDistributionAnalysis
 {
@@ -218,13 +186,13 @@ protected:
   //  second byte range: 0x40 -- 0x7e , 0xa1 -- 0xfe
   //no validation needed here. State machine has done that
   PRInt32 GetOrder(const char* str) 
-  {
-	if ((unsigned char)*str >= (unsigned char)0xa4)  
+  { if ((unsigned char)*str >= (unsigned char)0xa4)  
       if ((unsigned char)str[1] >= (unsigned char)0xa1)
         return 157*((unsigned char)str[0]-(unsigned char)0xa4) + (unsigned char)str[1] - (unsigned char)0xa1 +63;
       else
         return 157*((unsigned char)str[0]-(unsigned char)0xa4) + (unsigned char)str[1] - (unsigned char)0x40;
-    return -1;
+    else
+      return -1;
   }
 };
 
@@ -246,7 +214,7 @@ protected:
       order = 188 * ((unsigned char)str[0]-(unsigned char)0xe0 + 31);
     else
       return -1;
-    order += (unsigned char)str[1] - 0x40;
+    order += (unsigned char)*(str+1) - 0x40;
 	if ((unsigned char)str[1] < 0x40 || (unsigned char)str[1] == 0x7f || (unsigned char)str[1] > 0xfc)
       order--;
     return order;
@@ -263,10 +231,10 @@ protected:
   //  second byte range: 0xa1 -- 0xfe
   //no validation needed here. State machine has done that
   PRInt32 GetOrder(const char* str) 
-  { 
-	if ((unsigned char)*str >= (unsigned char)0xa0)  
+  { if ((unsigned char)*str >= (unsigned char)0xa0)  
       return 94*((unsigned char)str[0]-(unsigned char)0xa1) + (unsigned char)str[1] - (unsigned char)0xa1;
-    return -1;
+    else
+      return -1;
   }
 };
 

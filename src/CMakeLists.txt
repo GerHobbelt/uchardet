@@ -39,7 +39,6 @@ set(
 	nsHebrewProber.cpp
 	nsCharSetProber.cpp
 	nsBig5Prober.cpp
-	nsCP949Prober.cpp
 	nsEUCJPProber.cpp
 	nsEUCKRProber.cpp
 	nsEUCTWProber.cpp

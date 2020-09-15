@@ -178,7 +178,7 @@ void JapaneseContextAnalysis::Reset(PRBool aIsPreferredLanguage)
   mNeedToSkipCharNum = 0;
   mLastCharOrder = -1;
   mDone = PR_FALSE;
-  mDataThreshold = aIsPreferredLanguage ? 0 : (PRUint32)MINIMUM_DATA_THRESHOLD;
+  mDataThreshold = aIsPreferredLanguage ? 0 : MINIMUM_DATA_THRESHOLD;
 }
 #define DONT_KNOW (float)-1
 
