@@ -45,6 +45,7 @@ set(
 	nsEscCharsetProber.cpp
 	nsEscSM.cpp
 	nsGB2312Prober.cpp
+	nsJohabProber.cpp
 	nsMBCSGroupProber.cpp
 	nsMBCSSM.cpp
 	nsSBCSGroupProber.cpp
