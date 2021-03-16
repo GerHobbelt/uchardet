@@ -51,6 +51,7 @@ set(
 	nsSBCharSetProber.cpp
 	nsSJISProber.cpp
 	nsUTF8Prober.cpp
+	nsLanguageDetector.cpp
 	nsLatin1Prober.cpp
 	nsUniversalDetector.cpp
 	uchardet.cpp
