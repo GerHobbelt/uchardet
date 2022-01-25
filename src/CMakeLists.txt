@@ -9,14 +9,29 @@ set(
 	JpCntx.cpp
 	LangModels/LangArabicModel.cpp
 	LangModels/LangBulgarianModel.cpp
-	LangModels/LangRussianModel.cpp
+    LangModels/LangCroatianModel.cpp
+    LangModels/LangCzechModel.cpp
 	LangModels/LangEsperantoModel.cpp
+	LangModels/LangEstonianModel.cpp
+	LangModels/LangFinnishModel.cpp
 	LangModels/LangFrenchModel.cpp
 	LangModels/LangDanishModel.cpp
 	LangModels/LangGermanModel.cpp
 	LangModels/LangGreekModel.cpp
 	LangModels/LangHungarianModel.cpp
 	LangModels/LangHebrewModel.cpp
+	LangModels/LangIrishModel.cpp
+	LangModels/LangItalianModel.cpp
+    LangModels/LangLithuanianModel.cpp
+    LangModels/LangLatvianModel.cpp
+    LangModels/LangMalteseModel.cpp
+    LangModels/LangPolishModel.cpp
+    LangModels/LangPortugueseModel.cpp
+	LangModels/LangRomanianModel.cpp
+	LangModels/LangRussianModel.cpp
+	LangModels/LangSlovakModel.cpp
+    LangModels/LangSloveneModel.cpp
+    LangModels/LangSwedishModel.cpp
 	LangModels/LangSpanishModel.cpp
 	LangModels/LangThaiModel.cpp
 	LangModels/LangTurkishModel.cpp
@@ -64,12 +79,29 @@ add_library(
 	${UCHARDET_LIBRARY}
 	${UCHARDET_SOURCES}
 )
+target_compile_definitions("${UCHARDET_LIBRARY}" PRIVATE BUILDING_UCHARDET)
+if(BUILD_SHARED_LIBS)
+	target_compile_definitions("${UCHARDET_LIBRARY}" PUBLIC UCHARDET_SHARED)
+endif()
+
+target_include_directories(${UCHARDET_LIBRARY}
+	PUBLIC
+		"$<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}>"
+		"$<INSTALL_INTERFACE:${CMAKE_INSTALL_INCLUDEDIR}/${PACKAGE_NAME}>"
+)
 
 if (UCHARDET_STATIC_LIBRARY)
 	add_library(
 		${UCHARDET_STATIC_LIBRARY}
 		STATIC
 		${UCHARDET_SOURCES}
+	)
+	target_compile_definitions("${UCHARDET_STATIC_LIBRARY}" PRIVATE BUILDING_UCHARDET)
+
+	target_include_directories(${UCHARDET_STATIC_LIBRARY}
+		PUBLIC
+			"$<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}>"
+			"$<INSTALL_INTERFACE:${CMAKE_INSTALL_INCLUDEDIR}/${PACKAGE_NAME}>"
 	)
 endif (UCHARDET_STATIC_LIBRARY)
 
@@ -101,6 +133,8 @@ if (NOT WIN32)
 	install(
 		TARGETS
 			${UCHARDET_LIBRARY}
+		EXPORT
+			UchardetTargets
 		LIBRARY DESTINATION
 			${CMAKE_INSTALL_LIBDIR}
 		ARCHIVE DESTINATION
@@ -110,6 +144,8 @@ else (NOT WIN32)
 	install(
 		TARGETS
 			${UCHARDET_LIBRARY}
+		EXPORT
+			UchardetTargets
 		RUNTIME DESTINATION
 			${CMAKE_INSTALL_BINDIR}
 		ARCHIVE DESTINATION
@@ -121,6 +157,8 @@ if (UCHARDET_STATIC_LIBRARY)
 	install(
 		TARGETS
 			${UCHARDET_STATIC_LIBRARY}
+		EXPORT
+			UchardetTargets
 		ARCHIVE DESTINATION
 			${CMAKE_INSTALL_LIBDIR}
 	)
