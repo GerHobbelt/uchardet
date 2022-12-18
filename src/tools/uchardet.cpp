@@ -51,9 +51,11 @@ void detect(uchardet_t  handle,
             FILE       *fp,
             bool        verbose)
 {
-    while (!feof(fp))
+    while (1)
     {
         size_t len = fread(buffer, 1, BUFFER_SIZE, fp);
+        if (len == 0)
+            break;
         int retval = uchardet_handle_data(handle, buffer, len);
         if (retval != 0)
         {
