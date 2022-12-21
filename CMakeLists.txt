@@ -3,7 +3,6 @@ cmake_minimum_required(VERSION 3.1)
 include(CheckCCompilerFlag)
 set (PACKAGE_NAME uchardet)
 project (${PACKAGE_NAME} CXX C)
-enable_testing()
 
 ######## Package information
 set (PACKAGE_URL https://www.freedesktop.org/wiki/Software/uchardet/)
@@ -29,7 +28,8 @@ include(GNUInstallDirs)
 
 ######## Configuration
 
-option(BUILD_BINARY "Build the CLI tool." ON)
+option(UCHARDET_BUILD_TESTS "Build the tests." ON)
+option(UCHARDET_BUILD_BINARY "Build the CLI tool." ON)
 option(BUILD_SHARED_LIBS "Build shared library and link executable to it." ON)
 option(CHECK_SSE2 "Check and enable SSE2 extensions if supported. Disabling SSE on platforms which support it may decrease performances." ON)
 set(TARGET_ARCHITECTURE "" CACHE STRING "Target CPU architecture. It is autodetected if not specified.")
@@ -71,7 +71,10 @@ install(
 
 add_subdirectory(src)
 add_subdirectory(doc)
-add_subdirectory(test)
+if (UCHARDET_BUILD_TESTS)
+	enable_testing()
+	add_subdirectory(test)
+endif()
 
 ######## Exported targets
 

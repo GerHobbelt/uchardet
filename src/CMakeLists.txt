@@ -174,6 +174,6 @@ install(
 
 include(symbols.cmake)
 
-if (BUILD_BINARY)
+if (UCHARDET_BUILD_BINARY)
 	add_subdirectory(tools)
-endif (BUILD_BINARY)
+endif (UCHARDET_BUILD_BINARY)
