@@ -361,7 +361,11 @@ void nsUniversalDetector::DataEnd()
       }
     }
     break;
+  case ePureAscii:
   case eEscAscii:
+    /* Pure ASCII */
+    mDetectedCharset = "ASCII";
+    Report(mDetectedCharset);
     break;
   default:
     ;
