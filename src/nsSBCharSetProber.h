@@ -89,6 +89,7 @@ public:
   virtual int GetCandidates() { return 1; }
   virtual const char* GetCharSetName(int candidate);
   virtual const char* GetLanguage(int candidate);
+  virtual const char* GetLanguage();
   virtual nsProbingState HandleData(const char* aBuf, PRUint32 aLen,
                                     int** codePointBuffer,
                                     int*  codePointBufferIdx);

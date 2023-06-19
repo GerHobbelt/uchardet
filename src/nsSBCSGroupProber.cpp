@@ -237,6 +237,17 @@ const char* nsSBCSGroupProber::GetLanguage(int candidate)
   return mProbers[mBestGuess]->GetLanguage(0);
 }
 
+const char* nsSBCSGroupProber::GetLanguage()
+{
+  if (mBestGuess == -1)
+  {
+    GetConfidence();
+    if (mBestGuess == -1)
+      mBestGuess = 0;
+  }
+  return mProbers[mBestGuess]->GetLanguage();
+}
+
 void  nsSBCSGroupProber::Reset(void)
 {
   mActiveNum = 0;

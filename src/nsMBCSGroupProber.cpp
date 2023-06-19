@@ -230,6 +230,18 @@ const char* nsMBCSGroupProber::GetLanguage(int candidate)
   return lang;
 }
 
+const char* nsMBCSGroupProber::GetLanguage(void)
+{
+  if (mBestGuess == -1)
+  {
+    GetConfidence();
+  }
+  if (mBestGuess == -1)
+      return NULL;
+  else
+      return mProbers[mBestGuess]->GetLanguage();
+}
+
 void nsMBCSGroupProber::Reset(void)
 {
   mActiveNum = 0;
