@@ -61,7 +61,6 @@ public:
   int         GetCandidates();
   const char* GetCharSetName(int candidate);
   const char* GetLanguage(int candidate);
-  const char* GetLanguage();
   nsProbingState GetState(void) {return mState;}
   void      Reset(void);
   float     GetConfidence(int candidate);

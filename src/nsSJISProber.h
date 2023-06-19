@@ -62,7 +62,6 @@ public:
   virtual int GetCandidates() { return 1; }
   const char* GetCharSetName(int) {return "SHIFT_JIS";}
   const char* GetLanguage(int) {return "ja";}
-  const char* GetLanguage() {return "ja";}
   nsProbingState GetState(void) {return mState;}
   void      Reset(void);
   float     GetConfidence(int candidate);

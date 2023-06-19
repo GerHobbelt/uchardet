@@ -198,10 +198,10 @@ void nsLanguageDetector::Reset(void)
   //mCtrlChar  = 0;
   //mEmoticons  = 0;
   //mVariousBetween  = 0;
-  mFreqChar  = 0;
+  mFreqChar     = 0;
   mVeryFreqChar = 0;
   mLowFreqChar  = 0;
-  mOutChar   = 0;
+  mOutChar      = 0;
 }
 
 #include <cstdio>

@@ -53,7 +53,6 @@ public:
   virtual int GetCandidates() { return 1; }
   const char* GetCharSetName(int);
   const char* GetLanguage(int);
-  const char* GetLanguage();
   nsProbingState GetState(void) {return mState;}
   void      Reset(void);
   float     GetConfidence(int);

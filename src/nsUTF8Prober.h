@@ -55,7 +55,6 @@ public:
   virtual int GetCandidates() { return 1; }
   const char* GetCharSetName(int) {return "UTF-8";}
   const char* GetLanguage(int) {return NULL;}
-  const char* GetLanguage() {return NULL;}
   nsProbingState GetState(void) {return mState;}
   void      Reset(void);
   float     GetConfidence(int candidate);

@@ -214,9 +214,6 @@ nsSBCSGroupProber::nsSBCSGroupProber()
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_1EnglishModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Windows_1252EnglishModel);
 
-  mProbers[100] = new nsSingleByteCharSetProber(&Iso_8859_1EnglishModel);
-  mProbers[101] = new nsSingleByteCharSetProber(&Windows_1252EnglishModel);
-
   Reset();
 }
 
@@ -252,17 +249,6 @@ const char* nsSBCSGroupProber::GetLanguage(int candidate)
       mBestGuess = 0;
   }
   return mProbers[mBestGuess]->GetLanguage(0);
-}
-
-const char* nsSBCSGroupProber::GetLanguage()
-{
-  if (mBestGuess == -1)
-  {
-    GetConfidence();
-    if (mBestGuess == -1)
-      mBestGuess = 0;
-  }
-  return mProbers[mBestGuess]->GetLanguage();
 }
 
 void  nsSBCSGroupProber::Reset(void)
