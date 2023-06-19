@@ -52,6 +52,7 @@ import sys
 import re
 import os
 import random
+import string
 
 # Custom modules.
 import charsets.db
@@ -71,10 +72,13 @@ cmdline = optparse.OptionParser(usage, description = description)
 cmdline.add_option('--max-page',
                    help = 'Maximum number of Wikipedia pages to parse (useful for debugging).',
                    action = 'store', type = 'int', dest = 'max_page', default = None)
+cmdline.add_option('--max-chars',
+                   help = 'Maximum number of characters to process. (default: 3000000)',
+                   action = 'store', type = 'int', dest = 'max_chars', default = 3000000)
 cmdline.add_option('--max-depth',
-                   help = 'Maximum depth when following links from start page (default: 2).',
+                   help = 'Maximum depth when following links from start page (default: 4).',
                    action = 'store', type = 'int',
-                   dest = 'max_depth', default = 2)
+                   dest = 'max_depth', default = 4)
 (options, langs) = cmdline.parse_args()
 if len(langs) < 1:
   sys.stderr.write("Please select at least one language code. ")
@@ -131,7 +135,7 @@ for lang_arg in langs:
                        "         If you don't get good data, it is advised to set a "
                        "start_pages` variable yourself.\n".format(lang.code))
       lang.start_pages = ['Main_Page']
-  lang.start_pages += ['Phonetics', 'Pratchett', 'Satire', 'Grammar', 'History', 'Folklore', 'Biology', 'Flower', 'Plant', 'Animal', 'Human', 'computer', 'Robot', 'Technology', 'Communication', 'Writing', 'Video Game', 'Music', 'Glass', 'Bread', 'Food', 'Politics', 'Earth', 'Ocean', 'Amazon', 'Chaplin', 'Aguilera', 'Morse Code', 'Streptococcus', 'Virus', 'Bacteria']
+  lang.start_pages += ['Phonetics', 'Linguistics', 'Alphabet', 'Language', 'Pratchett', 'Satire', 'Grammar', 'History', 'Folklore', 'Biology', 'Flower', 'Plant', 'Animal', 'Human', 'computer', 'Robot', 'Technology', 'Communication', 'Writing', 'Video Game', 'Music', 'Glass', 'Bread', 'Food', 'Politics', 'Earth', 'Ocean', 'Amazon', 'Chaplin', 'Aguilera', 'Morse Code', 'Streptococcus', 'Virus', 'Bacteria', 'Bird', 'Submarine', 'Steel', 'Chemistry', 'Military', 'Weather', 'Scholar', 'Supernova', 'Olympiad']
   lang.start_pages += wikipedia.random(pages=30)
   # sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
   
@@ -338,6 +342,7 @@ for lang_arg in langs:
       global visited_pages
       global processed_pages_count
       global options
+      global characters
 
       if len(titles) == 0:
           return
@@ -348,6 +353,10 @@ for lang_arg in langs:
       else:
         max_titles = sys.maxsize
       for title in titles:
+          occurrences = sum(characters.values())
+          if occurrences > options.max_chars:
+              return
+          # sys.stderr.write('Max occurrences check: {} vs. {} ==> continue comsuming pages until we\'ve consumes enough chracters.\n'.format(occurrences, options.max_chars))
           if options.max_page is not None and \
              processed_pages_count > options.max_page:
               return
@@ -366,8 +375,36 @@ for lang_arg in langs:
               page = wikipedia.page(title, auto_suggest=True)
           except (wikipedia.exceptions.PageError,
                   wikipedia.exceptions.DisambiguationError) as error:
-              # Let's just discard a page when I get an exception.
-              sys.stderr.write("Discarding page {}: {}\n".format(title, error))
+              # extract the suggestions from the error message, iff any:
+              sl = []
+              error_msg = "{}".format(error)
+              if 'may refer to:' in error_msg:
+                  sl = error_msg.split('\n')
+                  # ditch the initial error line:
+                  sl.pop(0)
+
+              # also query wikipedia for (additional) suggestions:
+              suggestions = wikipedia.search(title)
+              suggestions = [] + suggestions + sl
+              if not suggestions:
+                  # Let's just discard a page when I get an exception.
+                  sys.stderr.write("Discarding page {}: {}\n".format(title, error))
+              else:
+                  # filter the suggestions list so we don't inject duplicates
+                  sl = []
+                  for suggestion in suggestions:
+                      if suggestion in titles or \
+                         suggestion in sl or \
+                         suggestion in visited_pages:
+                          continue
+                      sl.append(suggestion)
+                  suggestions = sl
+                  if not suggestions:
+                      # Let's just discard a page when I get an exception.
+                      sys.stderr.write("Discarding page {}: {}\n".format(title, error))
+                  else:
+                      sys.stderr.write("Discarding page {}: {}\n     ==> adding these suggestions instead: {}\n".format(title, error, suggestions))
+                      titles += suggestions
               continue
           logfd.write("\n{} (revision {})".format(title, page.revision_id))
           logfd.flush()
@@ -399,6 +436,8 @@ for lang_arg in langs:
   logfd.write('\n- Maximum depth: {}'.format(options.max_depth))
   if options.max_page is not None:
       logfd.write('\n- Max number of pages: {}'.format(options.max_page))
+  if options.max_chars is not None:
+      logfd.write('\n- Max number of characters: {}'.format(options.max_chars))
   logfd.write('\n\n== Parsed pages ==\n')
   logfd.flush()
   sys.stderr.write('\n>')
@@ -409,8 +448,12 @@ for lang_arg in langs:
       sys.stderr.write('Error: connection to Wikipedia failed. Aborting\n')
       exit(1)
   logfd.write('\n\n== End of Parsed pages ==')
+  logfd.write('\n\n- Number of pages processed: {}'.format(len(visited_pages)))
+  logfd.write('\n- Number of characters consumed: {}'.format(sum(characters.values())))
   logfd.write('\n\n- Wikipedia parsing ended at: {}\n'.format(str(datetime.datetime.now())))
   logfd.flush()
+
+  sys.stderr.write('\nFinished consuming {} web pages; processing the statistics now...\n'.format(len(visited_pages)))
 
   ########### CHARACTERS ###########
 
@@ -510,6 +553,8 @@ for lang_arg in langs:
   logfd.write("\n\nThe first {} characters have an accumulated ratio of {}.\n".format(freq_count, accumulated_ratios))
   logfd.write("The first {} characters have an accumulated ratio of {}.\n".format(very_freq_count, very_freq_ratio))
   logfd.write("All characters whose order is over {} have an accumulated ratio of {}.\n".format(low_freq_order, low_freq_ratio))
+
+  sys.stderr.write('\nGenerating language model CHARACTER MAP file...\n')
 
   with open(current_dir + '/header-template.cpp', 'r') as header_fd:
       c_code = header_fd.read()
@@ -623,7 +668,7 @@ for lang_arg in langs:
   # Since we can't map the full character table from encoding to order,
   # just create a list from the most common characters from the language.
   # The list is ordered by unicode code points (hence can be used
-  # generically for various encoding scheme as it is not encoding
+  # generically for various encoding schemes as it is not encoding
   # specific) allowing to search from code points efficiently by a divide
   # and conqueer search algorithm.
   # Each code point is immediately followed by its order.
@@ -693,6 +738,8 @@ for lang_arg in langs:
   c_code += CTOM_str
 
   ########### SEQUENCES ###########
+
+  sys.stderr.write('\nGenerating language model CHARACTER SEQUENCES file...\n')
 
   ratios = {}
   occurrences = sum(sequences.values())
@@ -769,7 +816,7 @@ for lang_arg in langs:
       LM_str += '\n  '
       for column in range(0, freq_count):
           # Let's not make too long lines.
-          if freq_count > 40 and column == int(freq_count / 2):
+          if freq_count > 40 and column > 0 and column % 40 == 0:
               LM_str += '\n   '
           first_order = int(line)
           second_order = column
