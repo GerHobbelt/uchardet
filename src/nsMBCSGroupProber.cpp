@@ -111,6 +111,7 @@ nsMBCSGroupProber::nsMBCSGroupProber(PRUint32 aLanguageFilter)
       langDetectors[i][j++] = new nsLanguageDetector(&LatvianModel);
       langDetectors[i][j++] = new nsLanguageDetector(&LithuanianModel);
       langDetectors[i][j++] = new nsLanguageDetector(&MalteseModel);
+      langDetectors[i][j++] = new nsLanguageDetector(&NorwegianModel);
       langDetectors[i][j++] = new nsLanguageDetector(&PolishModel);
       langDetectors[i][j++] = new nsLanguageDetector(&PortugueseModel);
       langDetectors[i][j++] = new nsLanguageDetector(&RomanianModel);
@@ -230,18 +231,6 @@ const char* nsMBCSGroupProber::GetLanguage(int candidate)
   return lang;
 }
 
-const char* nsMBCSGroupProber::GetLanguage(void)
-{
-  if (mBestGuess == -1)
-  {
-    GetConfidence();
-  }
-  if (mBestGuess == -1)
-      return NULL;
-  else
-      return mProbers[mBestGuess]->GetLanguage();
-}
-
 void nsMBCSGroupProber::Reset(void)
 {
   mActiveNum = 0;
@@ -338,6 +327,23 @@ nsProbingState nsMBCSGroupProber::HandleData(const char* aBuf, PRUint32 aLen,
     else
     {
       for (PRUint32 i = 0; i < NUM_OF_PROBERS; i++)
+      {
+        if (codePointBuffer[i])
+        {
+          if (codePointBufferIdx[i] == codePointBufferSize[i] - 1)
+          {
+            for (PRUint32 j = 0; j < NUM_OF_LANGUAGES; j++)
+              langDetectors[i][j]->HandleData(codePointBuffer[i], codePointBufferIdx[i]);
+            codePointBufferIdx[i] = 0;
+          }
+
+          codePointBuffer[i][(codePointBufferIdx[i])++] = aBuf[pos];
+        }
+      }
+    }
+    else
+    {
+      for (PRUint32 i = 0; i < NUM_OF_PROBERS; i++)
         if (codePointBuffer[i])
           codePointBuffer[i][(codePointBufferIdx[i])++] = aBuf[pos];
     }
@@ -404,10 +410,17 @@ void nsMBCSGroupProber::CheckCandidates()
       {
         for (int j = 0; j < NUM_OF_LANGUAGES; j++)
         {
-          float langConf = langDetectors[i][j]->GetConfidence();
+          float langConf;
 
+          /* Process any remaining language data first. */
+          if (codePointBufferIdx[i] > 0 && codePointBuffer[i])
+            langDetectors[i][j]->HandleData(codePointBuffer[i], codePointBufferIdx[i]);
+
+          /* Now check the confidence in this (charset, lang) couple. */
+          langConf = langDetectors[i][j]->GetConfidence();
           candidates[i][j] = (cf * langConf > CANDIDATE_THRESHOLD);
         }
+        codePointBufferIdx[i] = 0;
       }
       else
       {

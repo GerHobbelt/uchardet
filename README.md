@@ -99,6 +99,7 @@ uchardet started as a C language binding of the original C++ implementation of t
     * UTF-8
     * ISO-8859-8
     * WINDOWS-1255
+    * IBM862
   * Hindi
     * UTF-8
   * Hungarian:
@@ -234,7 +235,7 @@ uchardet started as a C language binding of the original C++ implementation of t
 ### Mac
 
     brew install uchardet
-  
+
   or
 
     port install uchardet
@@ -357,8 +358,8 @@ implementation, yet the base concept is still the same, basing detection
 not just on encoding rules, but most importantly on analysis of
 character statistics in languages.
 
-Original code by Mozilla does not seem to be found anymore anywhere, but
-it's probably not too far from the initial commit of this repository.
+Original code of `universalchardet` by Mozilla can still be retrieved from the
+[Wayback machine](https://web.archive.org/web/20150730144356/http://lxr.mozilla.org/seamonkey/source/extensions/universalchardet/).
 
 1. Mozilla code was extracted and packaged into a standalone library under
    the name `uchardet` by BYVoid in 2011, in a personal repository.
