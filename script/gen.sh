@@ -1,42 +1,42 @@
 #! /bin/bash
 
-PAGES=230
-python ./BuildLangModel.py ar --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py be --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py bg --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py ca --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py cs --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py da --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py de --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py el --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py en --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py eo --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py es --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py et --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py fi --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py fr --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py ga --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py he --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py hi --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py hr --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py hu --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py it --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py ka --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py ko --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py lt --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py lv --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py mk --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py mt --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py no --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py pl --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py pt --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py ro --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py ru --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py sk --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py sl --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py sr --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py sv --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py th --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py tr --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py uk --max-page=$PAGES --max-depth=4
-python ./BuildLangModel.py vi --max-page=$PAGES --max-depth=4
+PAGES=300
+python ./BuildLangModel.py ar --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py be --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py bg --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py ca --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py cs --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py da --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py de --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py el --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py en --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py eo --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py es --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py et --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py fi --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py fr --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py ga --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py he --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py hi --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py hr --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py hu --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py it --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py ka --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py ko --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py lt --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py lv --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py mk --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py mt --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py no --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py pl --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py pt --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py ro --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py ru --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py sk --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py sl --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py sr --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py sv --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py th --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py tr --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py uk --max-page=$PAGES --max-depth=4 &
+python ./BuildLangModel.py vi --max-page=$PAGES --max-depth=4 &
