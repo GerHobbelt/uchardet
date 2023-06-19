@@ -191,11 +191,11 @@ install(
 
 include(symbols.cmake)
 
-if (BUILD_BINARY)
+if (UCHARDET_BUILD_BINARY)
 	add_subdirectory(tools)
 	add_subdirectory(fuzzing)
-endif (BUILD_BINARY)
+endif (UCHARDET_BUILD_BINARY)
 
-if (BUILD_FUZZER)
+if (UCHARDET_BUILD_FUZZER)
 	add_subdirectory(fuzzing)
-endif (BUILD_FUZZER)
+endif (UCHARDET_BUILD_FUZZER)
