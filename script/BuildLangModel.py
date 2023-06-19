@@ -131,6 +131,10 @@ for lang_arg in langs:
                        "         If you don't get good data, it is advised to set a "
                        "start_pages` variable yourself.\n".format(lang.code))
       lang.start_pages = ['Main_Page']
+  lang.start_pages += ['Phonetics', 'Pratchett', 'Satire', 'Grammar', 'History', 'Folklore', 'Biology', 'Flower', 'Plant', 'Animal', 'Human', 'computer', 'Robot', 'Technology', 'Communication', 'Writing', 'Video Game', 'Music', 'Glass', 'Bread', 'Food', 'Politics', 'Earth', 'Ocean', 'Amazon', 'Chaplin', 'Aguilera', 'Morse Code', 'Streptococcus', 'Virus', 'Bacteria']
+  lang.start_pages += wikipedia.random(pages=30)
+  # sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
+  
   if not hasattr(lang, 'wikipedia_code') or lang.wikipedia_code is None:
       lang.wikipedia_code = lang.code
   if not hasattr(lang, 'clean_wikipedia_content') or lang.clean_wikipedia_content is None:
@@ -233,6 +237,7 @@ for lang_arg in langs:
   wikipedia.set_lang(lang.wikipedia_code)
 
   visited_pages = []
+  processed_pages_count = 0
 
   # The full list of letter characters.
   # The key is the unicode codepoint,
@@ -331,6 +336,7 @@ for lang_arg in langs:
 
   def visit_pages(titles, depth, lang, logfd):
       global visited_pages
+      global processed_pages_count
       global options
 
       if len(titles) == 0:
@@ -343,7 +349,7 @@ for lang_arg in langs:
         max_titles = sys.maxsize
       for title in titles:
           if options.max_page is not None and \
-             len(visited_pages) > options.max_page:
+             processed_pages_count > options.max_page:
               return
           if title in visited_pages:
               continue
@@ -357,7 +363,7 @@ for lang_arg in langs:
           sys.stderr.flush()
           visited_pages += [title]
           try:
-              page = wikipedia.page(title, auto_suggest=False)
+              page = wikipedia.page(title, auto_suggest=True)
           except (wikipedia.exceptions.PageError,
                   wikipedia.exceptions.DisambiguationError) as error:
               # Let's just discard a page when I get an exception.
@@ -365,8 +371,10 @@ for lang_arg in langs:
               continue
           logfd.write("\n{} (revision {})".format(title, page.revision_id))
           logfd.flush()
+          # sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
 
           process_text(page.content, lang)
+          processed_pages_count += 1
           try:
             links = page.links
             random.shuffle(links)
