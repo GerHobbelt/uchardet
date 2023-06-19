@@ -52,6 +52,6 @@ charsets = ['ISO-8859-4', 'ISO-8859-13', 'ISO-8859-15',
 
 # Alphabet characters.
 alphabet = 'äöüõšž'
-start_pages = ['Harilik pohl']
+start_pages = ['Harilik pohl', 'Silo', 'Eesti ajalugu']
 wikipedia_code = code
 case_mapping = True

@@ -114,7 +114,7 @@ for lang_arg in langs:
       lang = importlib.import_module(lang_arg)
   except ImportError:
       sys.stderr.write('Unknown language code "{}": '
-                       'file "langs/{}.py" does not exist.'.format(lang_arg, lang_arg))
+                       'file "langs/{}.py" does not exist.\n'.format(lang_arg, lang_arg))
       exit(1)
   sys.path = sys_path_backup
 
@@ -129,7 +129,7 @@ for lang_arg in langs:
       # to a relevant page.
       sys.stderr.write("Warning: no `start_pages` set for '{}'. Using ['Main_Page'].\n"
                        "         If you don't get good data, it is advised to set a "
-                       "start_pages` variable yourself.".format(lang.code))
+                       "start_pages` variable yourself.\n".format(lang.code))
       lang.start_pages = ['Main_Page']
   if not hasattr(lang, 'wikipedia_code') or lang.wikipedia_code is None:
       lang.wikipedia_code = lang.code
@@ -350,9 +350,11 @@ for lang_arg in langs:
 
           # Ugly hack skipping internal pages
           if 'wiki' in title or 'Wiki' in title:
-              sys.stderr.write('Skipping {}'.format(title))
+              sys.stderr.write('Skipping {}\n'.format(title))
               continue
 
+          sys.stderr.write('.')
+          sys.stderr.flush()
           visited_pages += [title]
           try:
               page = wikipedia.page(title, auto_suggest=False)
@@ -391,6 +393,8 @@ for lang_arg in langs:
       logfd.write('\n- Max number of pages: {}'.format(options.max_page))
   logfd.write('\n\n== Parsed pages ==\n')
   logfd.flush()
+  sys.stderr.write('\n>')
+  sys.stderr.flush()
   try:
       visit_pages(lang.start_pages, 0, lang, logfd)
   except requests.exceptions.ConnectionError:
@@ -846,7 +850,7 @@ with open(charset_cpp, 'w') as cpp_fd:
         lang = importlib.import_module(l)
     except ImportError:
         sys.stderr.write('Unknown language code "{}": '
-                         'file "langs/{}.py" does not exist.'.format(l, l))
+                         'file "langs/{}.py" does not exist.\n'.format(l, l))
         exit(1)
     sys.path = sys_path_backup
 
@@ -885,7 +889,7 @@ with open(language_cpp, 'w') as cpp_fd:
         lang = importlib.import_module(l)
     except ImportError:
         sys.stderr.write('Unknown language code "{}": '
-                         'file "langs/{}.py" does not exist.'.format(l, l))
+                         'file "langs/{}.py" does not exist.\n'.format(l, l))
         exit(1)
     sys.path = sys_path_backup
 

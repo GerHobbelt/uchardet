@@ -1,6 +1,6 @@
 #! /bin/bash
 
-PAGES=30
+PAGES=230
 python ./BuildLangModel.py ar --max-page=$PAGES --max-depth=4
 python ./BuildLangModel.py be --max-page=$PAGES --max-depth=4
 python ./BuildLangModel.py bg --max-page=$PAGES --max-depth=4

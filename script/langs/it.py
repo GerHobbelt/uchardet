@@ -51,6 +51,6 @@ charsets = ['ISO-8859-1', 'ISO-8859-3', 'ISO-8859-9',
 ## Optional Properties ##
 
 alphabet = 'óéèò'
-start_pages = ['Pieve Ligure']
+start_pages = ['Pieve Ligure', 'Storia d\'Italia']
 wikipedia_code = code
 case_mapping = True
