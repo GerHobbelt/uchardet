@@ -124,6 +124,7 @@ extern const SequenceModel Windows_1252ItalianModel;
 extern const SequenceModel Georgian_AcademyGeorgianModel;
 extern const SequenceModel Georgian_PsGeorgianModel;
 
+
 extern const SequenceModel Iso_8859_4LithuanianModel;
 extern const SequenceModel Iso_8859_10LithuanianModel;
 extern const SequenceModel Iso_8859_13LithuanianModel;
