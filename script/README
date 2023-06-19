@@ -63,3 +63,13 @@ in src/nsSBCSGroupProber.cpp and the language model in src/nsMBCSGroupProber.cpp
 Finally add the new file in src/CMakeLists.txt.
 
 I will be looking to make this step more straightforward in the future.
+
+
+## Regenerating the `gen.sh` shell script ##
+
+```
+grep 'language model for'  BuildLangModelLogs/*.log | sed -E -e 's/^.*language model for.*[(]/python .\/BuildLangModel.py /' -e 's/[)] =/ --max-page=100 --max-depth=4/' > gen.sh
+( for f in langs/*.py ; do g=$( echo $f | sed -e 's!langs/!!' -e 's/[.]py//' ) ; echo "python ./BuildLangModel.py $g --max-page=100 --max-depth=4" ; done ) >> gen.sh
+cat gen.sh | sort | uniq > gen2.sh
+mv gen2.sh gen.sh
+```
