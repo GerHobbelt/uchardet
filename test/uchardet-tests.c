@@ -205,7 +205,11 @@ main(int argc, const char ** argv)
 
         if (expected_confidence != 0.0f)
         {
-            candidate_str = asprintf("%zu", expected_candidate + 1);
+            size_t candidate_len;
+
+            candidate_len = snprintf(candidate_str, 0, "%zu", expected_candidate + 1);
+            candidate_str = malloc(candidate_len + 1);
+            snprintf(candidate_str, candidate_len + 1, "%zu", expected_candidate + 1);
         }
 
         fprintf(stderr,
