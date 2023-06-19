@@ -33,10 +33,20 @@ uchardet started as a C language binding of the original C++ implementation of t
     * UTF-8
     * ISO-8859-6
     * WINDOWS-1256
-  * Bulgarian
+  * Belarusian
+    * UTF-8
     * ISO-8859-5
     * WINDOWS-1251
+  * Bulgarian
+    * UTF-8
+    * ISO-8859-5
+    * WINDOWS-1251
+  * Catalan
+    * UTF-8
+    * ISO-8859-1
+    * WINDOWS-1252
   * Chinese
+    * UTF-8
     * ISO-2022-CN
     * BIG5
     * EUC-TW
@@ -63,6 +73,7 @@ uchardet started as a C language binding of the original C++ implementation of t
     * ISO-8859-15
     * WINDOWS-1252
   * English
+    * UTF-8
     * ASCII
   * Esperanto
     * UTF-8
@@ -91,10 +102,15 @@ uchardet started as a C language binding of the original C++ implementation of t
     * UTF-8
     * ISO-8859-1
     * WINDOWS-1252
+  * Georgian
+    * UTF-8
+    * GEORGIAN-ACADEMY
+    * GEORGIAN-PS
   * Greek
     * UTF-8
     * ISO-8859-7
     * WINDOWS-1253
+    * CP737
   * Hebrew
     * UTF-8
     * ISO-8859-8
@@ -120,6 +136,7 @@ uchardet started as a C language binding of the original C++ implementation of t
     * ISO-8859-15
     * WINDOWS-1252
   * Japanese
+    * UTF-8
     * ISO-2022-JP
     * SHIFT_JIS
     * EUC-JP
@@ -141,6 +158,11 @@ uchardet started as a C language binding of the original C++ implementation of t
   * Maltese
     * UTF-8
     * ISO-8859-3
+  * Macedonian
+    * UTF-8
+    * ISO-8859-5
+    * WINDOWS-1251
+    * IBM855
   * Norwegian
     * UTF-8
     * IBM865
@@ -168,12 +190,17 @@ uchardet started as a C language binding of the original C++ implementation of t
     * Windows-1250
     * IBM852
   * Russian
+    * UTF-8
     * ISO-8859-5
     * KOI8-R
     * WINDOWS-1251
     * MAC-CYRILLIC
     * IBM866
     * IBM855
+  * Serbian
+    * UTF-8
+    * ISO-8859-5
+    * WINDOWS-1251
   * Slovak
     * UTF-8
     * Windows-1250
@@ -207,6 +234,9 @@ uchardet started as a C language binding of the original C++ implementation of t
     * UTF-8
     * ISO-8859-3
     * ISO-8859-9
+  * Ukrainian:
+    * UTF-8
+    * WINDOWS-1251
   * Vietnamese:
     * UTF-8
     * VISCII
