@@ -59,13 +59,13 @@ uchardet started as a C language binding of the original C++ implementation of t
     * ISO-8859-16
     * Windows-1250
     * IBM852
-    * MAC-CENTRALEUROPE
+    * MacCentralEurope
   * Czech
     * UTF-8
     * Windows-1250
     * ISO-8859-2
     * IBM852
-    * MAC-CENTRALEUROPE
+    * MacCentralEurope
   * Danish
     * UTF-8
     * IBM865
@@ -176,7 +176,7 @@ uchardet started as a C language binding of the original C++ implementation of t
     * ISO-8859-16
     * Windows-1250
     * IBM852
-    * MAC-CENTRALEUROPE
+    * MacCentralEurope
   * Portuguese
     * UTF-8
     * ISO-8859-1
@@ -206,14 +206,14 @@ uchardet started as a C language binding of the original C++ implementation of t
     * Windows-1250
     * ISO-8859-2
     * IBM852
-    * MAC-CENTRALEUROPE
+    * MacCentralEurope
   * Slovene
     * UTF-8
     * ISO-8859-2
     * ISO-8859-16
     * Windows-1250
     * IBM852
-    * MAC-CENTRALEUROPE
+    * MacCentralEurope
   * Spanish
     * UTF-8
     * ISO-8859-1

@@ -306,7 +306,7 @@ const SequenceModel Mac_CentraleuropeSlovakModel =
   44,
   (float)0.9990021826437321,
   PR_TRUE,
-  "MAC-CENTRALEUROPE",
+  "MacCentralEurope",
   "sk"
 };
 

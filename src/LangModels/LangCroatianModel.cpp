@@ -310,7 +310,7 @@ const SequenceModel Mac_CentraleuropeCroatianModel =
   31,
   (float)0.9990103879809265,
   PR_TRUE,
-  "MAC-CENTRALEUROPE",
+  "MacCentralEurope",
   "hr"
 };
 

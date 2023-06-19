@@ -300,7 +300,7 @@ const SequenceModel Mac_CentraleuropeCzechModel =
   41,
   (float)0.9990074942238029,
   PR_TRUE,
-  "MAC-CENTRALEUROPE",
+  "MacCentralEurope",
   "cs"
 };
 
