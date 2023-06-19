@@ -245,6 +245,11 @@ def process_text(content, lang):
         if unicode_value in characters:
             characters[unicode_value] += 1
             is_letter = True
+        elif lang.use_ascii and \
+           ((unicode_value >= 65 and unicode_value <= 90) or \
+            (unicode_value >= 97 and unicode_value <= 122)):
+          characters[unicode_value] = 1
+          is_letter = True
         elif lang.unicode_ranges is not None:
             for start, end in lang.unicode_ranges:
               if unicode_value >= start and unicode_value <= end:

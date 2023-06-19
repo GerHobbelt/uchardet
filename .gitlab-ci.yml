@@ -63,6 +63,7 @@ win64:
         python3-distutils
         python3-docutils
         rpm
+        wine wine64
     - apt-get install -y --reinstall ca-certificates
     - git clone --depth=${GIT_DEPTH} git://git.tuxfamily.org/gitroot/crossroad/crossroad.git
     - cd crossroad
@@ -72,7 +73,7 @@ win64:
     - export PATH="`pwd`/.local/bin:$PATH"
     - mkdir _build
     - cd _build
-    - echo 'crossroad cmake .. && make && make install' | crossroad w64 gimp --run="-"
+    - echo 'crossroad cmake .. && make && make test && make install' | crossroad w64 gimp --run="-"
 
 win32:
   stage: build
