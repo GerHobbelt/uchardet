@@ -44,6 +44,10 @@
 
 #include "../src/uchardet.h"
 
+#if defined(_MSC_VER)
+#  define strcasecmp(a, b)		stricmp(a, b)
+#endif
+
 #define BUFFER_SIZE 65536
 
 #if defined(_WIN32) || defined(__CYGWIN__)
@@ -53,7 +57,7 @@
 #define SEP '/'
 #endif
 
-void
+static void
 detect(FILE *fp,
        char *expected_charset, char *expected_lang,
        float *expected_confidence, size_t *expected_candidate,
@@ -122,8 +126,13 @@ detect(FILE *fp,
     uchardet_delete(handle);
 }
 
+
+#if defined(BUILD_MONOLITHIC)
+#define main uchardet_tests_main
+#endif
+
 int
-main(int argc, char ** argv)
+main(int argc, const char ** argv)
 {
     FILE *f;
     char *filename;

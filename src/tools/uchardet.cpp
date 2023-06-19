@@ -35,14 +35,21 @@
  *
  * ***** END LICENSE BLOCK ***** */
 #include "../uchardet.h"
-#include <getopt.h>
+
+#include "getopt.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 
+ // See also https://en.cppreference.com/w/c/string/byte/strtok 'Note' section:
+#if defined(_MSC_VER)
+#  define strtok_r(str, delim, saveptr) strtok_s(str, delim, saveptr)
+#endif
+
 #ifndef VERSION
 #define VERSION "Unknown"
 #endif
+
 #define BUFFER_SIZE 65536
 
 static char buffer[BUFFER_SIZE];
@@ -131,7 +138,12 @@ static void show_usage()
     printf("\n");
 }
 
-int main(int argc, char ** argv)
+
+#if defined(BUILD_MONOLITHIC)
+#define main uchardet_tool_main
+#endif
+
+int main(int argc, const char ** argv)
 {
     uchardet_t handle;
     static struct option longopts[] =
@@ -178,8 +190,9 @@ int main(int argc, char ** argv)
                 char *lang_weight;
                 char *saveptr;
                 char *comma;
+				char *arg = strdup(optarg);
 
-                lang_weight = strtok_r (optarg, ",", &saveptr);
+                lang_weight = strtok_r (arg, ",", &saveptr);
                 do
                 {
                     comma = strchr (lang_weight, ':');
@@ -187,12 +200,14 @@ int main(int argc, char ** argv)
                     {
                         printf("-w format is lang1:weight1,lang2:weight2...\n");
                         uchardet_delete(handle);
-                        return 1;
+						free(arg);
+						return 1;
                     }
                     *comma = '\0';
                     uchardet_weigh_language(handle, lang_weight, strtof (comma + 1, NULL));
                 }
                 while ((lang_weight = strtok_r (NULL, ",", &saveptr)));
+				free(arg);
             }
             break;
         case '?':
