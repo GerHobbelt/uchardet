@@ -223,8 +223,8 @@ public:
   SJISDistributionAnalysis();
 protected:
   //for sjis encoding, we are interested 
-  //  first  byte range: 0x81 -- 0x9f , 0xe0 -- 0xfe
-  //  second byte range: 0x40 -- 0x7e,  0x81 -- oxfe
+  //  first  byte range: 0x81 -- 0x9f , 0xe0 -- 0xef
+  //  second byte range: 0x40 -- 0x7e,  0x80 -- 0xfc
   //no validation needed here. State machine has done that
   PRInt32 GetOrder(const char* str) 
   { 
@@ -236,7 +236,7 @@ protected:
     else
       return -1;
     order += (unsigned char)*(str+1) - 0x40;
-    if ((unsigned char)str[1] > (unsigned char)0x7f)
+	if ((unsigned char)str[1] < 0x40 || (unsigned char)str[1] == 0x7f || (unsigned char)str[1] > 0xfc)
       order--;
     return order;
   }
