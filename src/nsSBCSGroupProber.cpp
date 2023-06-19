@@ -154,19 +154,19 @@ nsSBCSGroupProber::nsSBCSGroupProber()
 
   mProbers[n++] = new nsSingleByteCharSetProber(&Windows_1250CzechModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_2CzechModel);
-  mProbers[n++] = new nsSingleByteCharSetProber(&Mac_CentraleuropeCzechModel);
+  mProbers[n++] = new nsSingleByteCharSetProber(&MaccentraleuropeCzechModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Ibm852CzechModel);
 
   mProbers[n++] = new nsSingleByteCharSetProber(&Windows_1250SlovakModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_2SlovakModel);
-  mProbers[n++] = new nsSingleByteCharSetProber(&Mac_CentraleuropeSlovakModel);
+  mProbers[n++] = new nsSingleByteCharSetProber(&MaccentraleuropeSlovakModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Ibm852SlovakModel);
 
   mProbers[n++] = new nsSingleByteCharSetProber(&Windows_1250PolishModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_2PolishModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_13PolishModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_16PolishModel);
-  mProbers[n++] = new nsSingleByteCharSetProber(&Mac_CentraleuropePolishModel);
+  mProbers[n++] = new nsSingleByteCharSetProber(&MaccentraleuropePolishModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Ibm852PolishModel);
 
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_1FinnishModel);
@@ -186,7 +186,7 @@ nsSBCSGroupProber::nsSBCSGroupProber()
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_2CroatianModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_13CroatianModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_16CroatianModel);
-  mProbers[n++] = new nsSingleByteCharSetProber(&Mac_CentraleuropeCroatianModel);
+  mProbers[n++] = new nsSingleByteCharSetProber(&MaccentraleuropeCroatianModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Ibm852CroatianModel);
 
   mProbers[n++] = new nsSingleByteCharSetProber(&Windows_1252EstonianModel);
@@ -208,7 +208,7 @@ nsSBCSGroupProber::nsSBCSGroupProber()
   mProbers[n++] = new nsSingleByteCharSetProber(&Windows_1250SloveneModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_2SloveneModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_16SloveneModel);
-  mProbers[n++] = new nsSingleByteCharSetProber(&Mac_CentraleuropeSloveneModel);
+  mProbers[n++] = new nsSingleByteCharSetProber(&MaccentraleuropeSloveneModel);
   mProbers[n++] = new nsSingleByteCharSetProber(&Ibm852SloveneModel);
 
   mProbers[n++] = new nsSingleByteCharSetProber(&Iso_8859_1SwedishModel);
