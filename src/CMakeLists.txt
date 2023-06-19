@@ -78,7 +78,13 @@ if (CMAKE_BUILD_TYPE MATCHES Debug)
 	add_definitions(
 		-O0
 		-g3
+		-fsanitize=address
 	)
+	set(CMAKE_CXX_FLAGS "-fsanitize=address")
+	set(CMAKE_C_FLAGS "-fsanitize=address")
+	set(CMAKE_EXE_LINKER_FLAGS "-fsanitize=address")
+	set(CMAKE_MODULE_LINKER_FLAGS "-fsanitize=address")
+	set(CMAKE_SHARED_LINKER_FLAGS "-fsanitize=address")
 endif (CMAKE_BUILD_TYPE MATCHES Debug)
 
 add_library(
@@ -181,4 +187,9 @@ include(symbols.cmake)
 
 if (BUILD_BINARY)
 	add_subdirectory(tools)
+	add_subdirectory(fuzzing)
 endif (BUILD_BINARY)
+
+if (BUILD_FUZZER)
+	add_subdirectory(fuzzing)
+endif (BUILD_FUZZER)

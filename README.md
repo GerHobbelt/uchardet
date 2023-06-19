@@ -265,7 +265,8 @@ If you prefer a development version, clone the git repository:
 
 The source can be browsed at: https://gitlab.freedesktop.org/uchardet/uchardet
 
-    cmake .
+    mkdir build/ && cd build/
+    cmake ..
     make
     make install
 

@@ -1,4 +1,7 @@
 __pycache__/
+/build/
+/.vscode/
+.DS_Store
 
 # CMake files
 CMakeCache.txt
