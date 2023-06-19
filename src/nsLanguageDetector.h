@@ -78,6 +78,8 @@ typedef struct
    */
   int                  lowFreqOrder;
   float                lowFreqRatio;
+
+  float                accumulatedFreqRatio;
 } LanguageModel;
 
 typedef enum {
