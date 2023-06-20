@@ -807,7 +807,7 @@ for lang_arg in langs:
   if order_3 == -1 or order_2 == -1:
     # This would probably never happens. It would require a language with
     # very few possible sequences and each of the sequences are widely
-    # used. Just add this code for completio, but it won't likely ever be
+    # used. Just add this code for completion, but it won't likely ever be
     # run.
     order_2 = 512
     order_3 = 1024
@@ -822,12 +822,18 @@ for lang_arg in langs:
 
   c_code += """
 /* Model Table:
+ * Number of web pages processed for this model: {}
+ * Number of characters consumed for this model: {}
  * Total considered sequences: {} / {}
+ *
  * - Positive sequences: first {} ({})
  * - Probable sequences: next {} ({}-{}) ({})
  * - Neutral sequences: last {} ({})
  * - Negative sequences: {} (off-ratio)
- * Negative sequences: TODO""".format(len(sorted_seqs),
+ *
+ * Negative sequences: TODO""".format(len(visited_pages),
+                                        sum(characters.values()),
+                                        len(sorted_seqs),
                                         freq_count * freq_count,
                                         order_3, ratio_3,
                                         order_2 - order_3,
