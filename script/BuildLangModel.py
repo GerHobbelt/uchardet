@@ -851,13 +851,19 @@ for lang_arg in langs:
 
   c_code += "\n */\n"
 
+  line_width = (freq_count + 1) / 2
+  if line_width > 40:
+      line_width = (freq_count + 2) / 3
+  if line_width > 40:
+      line_width = 40
+      
   LM_str = 'static const PRUint8 {}LangModel[]'.format(language_c)
   LM_str += ' =\n{'
   for line in range(0, freq_count):
       LM_str += '\n  '
       for column in range(0, freq_count):
           # Let's not make too long lines.
-          if freq_count > 40 and column > 0 and column % 40 == 0:
+          if freq_count > 40 and column > 0 and column < freq_count - 5 and column % line_width == 0:
               LM_str += '\n   '
           first_order = int(line)
           second_order = column
