@@ -679,7 +679,7 @@ for lang_arg in langs:
                       CTOM_str += '{:3},'.format(min(249, n_char))
                       n_char += 1
           CTOM_str += ' /* {:X}X */'.format(line)
-      CTOM_str += '\n};\n/*'
+      CTOM_str += '\n};\n/* '
       CTOM_str += 'X0  X1  X2  X3  X4  X5  X6  X7  X8  X9  XA  XB  XC  XD  XE  XF'
       CTOM_str += ' */\n\n'
       c_code += CTOM_str
