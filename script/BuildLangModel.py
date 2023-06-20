@@ -58,6 +58,9 @@ import string
 import charsets.db
 from charsets.codepoints import *
 
+# set to `True` when you want to see verbose (debugging) output while running this script:
+debug = False
+
 # fix error as per https://bobbyhadz.com/blog/python-unicodeencodeerror-charmap-codec-cant-encode-characters-in-position
 sys.stdin.reconfigure(encoding='utf-8')
 sys.stdout.reconfigure(encoding='utf-8')
@@ -135,9 +138,9 @@ for lang_arg in langs:
                        "         If you don't get good data, it is advised to set a "
                        "start_pages` variable yourself.\n".format(lang.code))
       lang.start_pages = ['Main_Page']
-  lang.start_pages += ['Phonetics', 'Linguistics', 'Alphabet', 'Language', 'Pratchett', 'Satire', 'Grammar', 'History', 'Folklore', 'Biology', 'Flower', 'Plant', 'Animal', 'Human', 'computer', 'Robot', 'Technology', 'Communication', 'Writing', 'Video Game', 'Music', 'Glass', 'Bread', 'Food', 'Politics', 'Earth', 'Ocean', 'Amazon', 'Chaplin', 'Aguilera', 'Morse Code', 'Streptococcus', 'Virus', 'Bacteria', 'Bird', 'Submarine', 'Steel', 'Chemistry', 'Military', 'Weather', 'Scholar', 'Supernova', 'Olympiad']
+  lang.start_pages += ['Phonetics', 'Linguistics', 'Alphabet', 'Language', 'Spelling', 'Pratchett', 'Satire', 'Grammar', 'History', 'Folklore', 'Biology', 'Flower', 'Plant', 'Animal', 'Human', 'computer', 'Robot', 'Technology', 'Communication', 'Writing', 'Video Game', 'Music', 'Glass', 'Bread', 'Food', 'Politics', 'Earth', 'Ocean', 'Amazon', 'Chaplin', 'Aguilera', 'Morse Code', 'Streptococcus', 'Virus', 'Bacteria', 'Bird', 'Submarine', 'Steel', 'Chemistry', 'Military', 'Weather', 'Scholar', 'Supernova', 'Olympiad']
   lang.start_pages += wikipedia.random(pages=30)
-  # sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
+  if debug: sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
   
   if not hasattr(lang, 'wikipedia_code') or lang.wikipedia_code is None:
       lang.wikipedia_code = lang.code
@@ -259,6 +262,8 @@ for lang_arg in langs:
       global sequences
       global prev_char
 
+      content = unicodedata.normalize('NFC', content)
+
       if lang.clean_wikipedia_content is not None:
           content = lang.clean_wikipedia_content(content)
       # Clean out the Wikipedia syntax for titles.
@@ -285,10 +290,11 @@ for lang_arg in langs:
               characters[unicode_value] += 1
               is_letter = True
           elif lang.use_ascii and \
-               ((unicode_value >= 65 and unicode_value <= 90) or \
-                (unicode_value >= 97 and unicode_value <= 122)):
-              characters[unicode_value] = 1
-              is_letter = True
+               (unicode_value >= 32 and unicode_value < 127):
+              if ((unicode_value >= 65 and unicode_value <= 90) or \
+                  (unicode_value >= 97 and unicode_value <= 122)):
+                  characters[unicode_value] = 1
+                  is_letter = True
           elif lang.unicode_ranges is not None:
               for start, end in lang.unicode_ranges:
                 if unicode_value >= start and unicode_value <= end:
@@ -303,19 +309,29 @@ for lang_arg in langs:
                   try:
                       codepoint = char.encode(charset, 'ignore')
                   except LookupError:
-                      # unknown encoding. Use iconv from command line instead.
-                      try:
-                          call = subprocess.Popen(['iconv', '-f', 'UTF-8', '-t', charset],
-                                                  stdin=subprocess.PIPE, stdout=subprocess.PIPE,
-                                                  stderr=subprocess.DEVNULL)
-                          if call.poll() is not None:
-                              (_, error) = call.communicate(input='')
-                              sys.stderr.write('Error: `iconv` ended with error "{}".\n'.format(error))
+                      # unknown encoding. Check the ASCII base range first to prevent executing a costly iconv call whenever we can:
+                      if (charset == 'VISCII') and \
+                           (unicode_value >= 32 and unicode_value < 127):
+                          if ((unicode_value >= 65 and unicode_value <= 90) or \
+                              (unicode_value >= 97 and unicode_value <= 122)):
+                              characters[unicode_value] = 1
+                              is_letter = True
+                          break
+                      else:
+                          # unknown encoding. Use iconv from command line instead.
+                          try:
+                              call = subprocess.Popen(['iconv', '-f', 'UTF-8', '-t', charset],
+                                                      stdin=subprocess.PIPE, stdout=subprocess.PIPE,
+                                                      stderr=subprocess.DEVNULL)
+                              if call.poll() is not None:
+                                  (_, error) = call.communicate(input='')
+                                  sys.stderr.write('Error: `iconv` ended with error "{}".\n'.format(error))
+                                  exit(1)
+                              (codepoint, _) = call.communicate(input=char.encode('UTF-8'))
+                              if debug: sys.stderr.write('iconv :: lang.use_ascii = [{}], [{}], "{}", {}, charset = {} ==> codepoint = [{}]\n'.format(lang.use_ascii, char.encode('UTF-8'), char, ord(char), charset, codepoint))
+                          except FileNotFoundError:
+                              sys.stderr.write('Error: "{}" is not a supported charset by python and `iconv` is not installed.\n')
                               exit(1)
-                          (codepoint, _) = call.communicate(input=char.encode('UTF-8'))
-                      except FileNotFoundError:
-                          sys.stderr.write('Error: "{}" is not a supported charset by python and `iconv` is not installed.\n')
-                          exit(1)
 
                   if codepoint == b'':
                       continue
@@ -343,6 +359,7 @@ for lang_arg in langs:
       global processed_pages_count
       global options
       global characters
+      global debug
 
       if len(titles) == 0:
           return
@@ -356,7 +373,9 @@ for lang_arg in langs:
           occurrences = sum(characters.values())
           if occurrences > options.max_chars:
               return
-          # sys.stderr.write('Max occurrences check: {} vs. {} ==> continue comsuming pages until we\'ve consumes enough chracters.\n'.format(occurrences, options.max_chars))
+          
+          if debug: sys.stderr.write('Max occurrences check: {} vs. {} ==> continue comsuming pages until we\'ve consumes enough chracters.\n'.format(occurrences, options.max_chars))
+          
           if options.max_page is not None and \
              processed_pages_count > options.max_page:
               return
@@ -408,9 +427,11 @@ for lang_arg in langs:
               continue
           logfd.write("\n{} (revision {})".format(title, page.revision_id))
           logfd.flush()
-          # sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
+          
+          if debug: sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
 
           process_text(page.content, lang)
+          if debug: sys.stderr.write('processing links [{}]\n'.format(page.links))
           processed_pages_count += 1
           try:
             links = page.links
