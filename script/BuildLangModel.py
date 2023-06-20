@@ -141,7 +141,7 @@ for lang_arg in langs:
   lang.start_pages += ['Phonetics', 'Linguistics', 'Alphabet', 'Language', 'Spelling', 'Pratchett', 'Satire', 'Grammar', 'History', 'Folklore', 'Biology', 'Flower', 'Plant', 'Animal', 'Human', 'computer', 'Robot', 'Technology', 'Communication', 'Writing', 'Video Game', 'Music', 'Glass', 'Bread', 'Food', 'Politics', 'Earth', 'Ocean', 'Amazon', 'Chaplin', 'Aguilera', 'Morse Code', 'Streptococcus', 'Virus', 'Bacteria', 'Bird', 'Submarine', 'Steel', 'Chemistry', 'Military', 'Weather', 'Scholar', 'Supernova', 'Olympiad']
   lang.start_pages += wikipedia.random(pages=30)
   if debug: sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
-  
+
   if not hasattr(lang, 'wikipedia_code') or lang.wikipedia_code is None:
       lang.wikipedia_code = lang.code
   if not hasattr(lang, 'clean_wikipedia_content') or lang.clean_wikipedia_content is None:
@@ -361,92 +361,106 @@ for lang_arg in langs:
       global characters
       global debug
 
-      if len(titles) == 0:
-          return
-
       next_titles = []
-      if options.max_page is not None:
-        max_titles = int(options.max_page/(options.max_depth * options.max_depth))
-      else:
-        max_titles = sys.maxsize
-      for title in titles:
-          occurrences = sum(characters.values())
-          if occurrences > options.max_chars:
-              return
-          
-          if debug: sys.stderr.write('Max occurrences check: {} vs. {} ==> continue comsuming pages until we\'ve consumes enough chracters.\n'.format(occurrences, options.max_chars))
-          
-          if options.max_page is not None and \
-             processed_pages_count > options.max_page:
-              return
-          if title in visited_pages:
-              continue
+      
+      while len(titles) > 0:
+          extra_titles = []
+        
+          if options.max_page is not None:
+              max_titles = int(options.max_page/(options.max_depth * options.max_depth))
+          else:
+              max_titles = sys.maxsize
+          for title in titles:
+              occurrences = sum(characters.values())
+              if occurrences > options.max_chars:
+                  if debug: sys.stderr.write('Stop criterium: occurrences > options.max_chars: {} > {}\n'.format(occurrences, options.max_chars))
+                  return
 
-          # Ugly hack skipping internal pages
-          if 'wiki' in title or 'Wiki' in title:
-              sys.stderr.write('Skipping {}\n'.format(title))
-              continue
+              if debug: sys.stderr.write('Max occurrences check: {} vs. {} ==> continue comsuming pages until we\'ve consumed enough chracters. ({}/{} + {} + {} more titles to fetch at depth {})\n'.format(occurrences, options.max_chars, len(titles) - titles.index(title), len(titles), len(extra_titles), (0 if (depth >= options.max_depth) else len(next_titles)), depth))
 
-          sys.stderr.write('.')
-          sys.stderr.flush()
-          visited_pages += [title]
-          try:
-              page = wikipedia.page(title, auto_suggest=True)
-          except (wikipedia.exceptions.PageError,
-                  wikipedia.exceptions.DisambiguationError) as error:
-              # extract the suggestions from the error message, iff any:
-              sl = []
-              error_msg = "{}".format(error)
-              if 'may refer to:' in error_msg:
-                  sl = error_msg.split('\n')
-                  # ditch the initial error line:
-                  sl.pop(0)
+              if options.max_page is not None and \
+                 processed_pages_count > options.max_page:
+                  if debug: sys.stderr.write('Stop criterium: processed_pages_count > options.max_page: {} > {}\n'.format(processed_pages_count, options.max_page))
+                  return
+              if title in visited_pages:
+                  continue
 
-              # also query wikipedia for (additional) suggestions:
-              suggestions = wikipedia.search(title)
-              suggestions = [] + suggestions + sl
-              if not suggestions:
-                  # Let's just discard a page when I get an exception.
-                  sys.stderr.write("Discarding page {}: {}\n".format(title, error))
-              else:
-                  # filter the suggestions list so we don't inject duplicates
+              # Ugly hack skipping internal pages
+              if 'wiki' in title or 'Wiki' in title:
+                  sys.stderr.write('Skipping {}\n'.format(title))
+                  continue
+
+              sys.stderr.write('.')
+              sys.stderr.flush()
+              visited_pages += [title]
+              try:
+                  page = wikipedia.page(title, auto_suggest=True)
+              except (wikipedia.exceptions.PageError,
+                      wikipedia.exceptions.DisambiguationError) as error:
+                  # extract the suggestions from the error message, iff any:
                   sl = []
-                  for suggestion in suggestions:
-                      if suggestion in titles or \
-                         suggestion in sl or \
-                         suggestion in visited_pages:
-                          continue
-                      sl.append(suggestion)
-                  suggestions = sl
+                  error_msg = "{}".format(error)
+                  if 'may refer to:' in error_msg:
+                      sl = error_msg.split('\n')
+                      # ditch the initial error line:
+                      sl.pop(0)
+
+                  # also query wikipedia for (additional) suggestions:
+                  suggestions = wikipedia.search(title)
+                  suggestions = [] + suggestions + sl
                   if not suggestions:
                       # Let's just discard a page when I get an exception.
                       sys.stderr.write("Discarding page {}: {}\n".format(title, error))
                   else:
-                      sys.stderr.write("Discarding page {}: {}\n     ==> adding these suggestions instead: {}\n".format(title, error, suggestions))
-                      titles += suggestions
-              continue
-          logfd.write("\n{} (revision {})".format(title, page.revision_id))
-          logfd.flush()
-          
-          if debug: sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
+                      # filter the suggestions list so we don't inject duplicates
+                      sl = []
+                      for suggestion in suggestions:
+                          if suggestion in titles or \
+                             suggestion in sl or \
+                             suggestion in extra_titles or \
+                             suggestion in visited_pages:
+                              continue
+                          sl.append(suggestion)
+                      suggestions = sl
+                      if not suggestions:
+                          # Let's just discard a page when I get an exception.
+                          sys.stderr.write("Discarding page {}: {}\n".format(title, error))
+                      else:
+                          sys.stderr.write("Discarding page {}: {}\n     ==> adding these suggestions instead: {}\n".format(title, error, suggestions))
+                          extra_titles += suggestions
+                  continue
+              logfd.write("\n{} (revision {})".format(title, page.revision_id))
+              logfd.flush()
 
-          process_text(page.content, lang)
-          if debug: sys.stderr.write('processing links [{}]\n'.format(page.links))
-          processed_pages_count += 1
-          try:
-            links = page.links
-            random.shuffle(links)
-            if len(links) > max_titles:
-                links = links[:max_titles]
+              if debug: sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
+
+              process_text(page.content, lang)
+              if debug: sys.stderr.write('processing links [{}]\n'.format(page.links))
+              processed_pages_count += 1
+              try:
+                links = page.links
+                random.shuffle(links)
+                if len(links) > max_titles:
+                    links = links[:max_titles]
                 next_titles += links
-          except KeyError:
-              pass
+              except KeyError as error:
+                  if debug: sys.stderr.write('links append error: {}\n'.format(error))
+                  pass
+                  
+          # all titles have been consumed. Now check if here's any extras, and if not not, then descend into the next depth level of links:
+          random.shuffle(extra_titles)
+          titles = extra_titles
+          if len(titles) > 0:
+              continue
 
-      if depth >= options.max_depth:
-          return
+          if depth >= options.max_depth:
+              if debug: sys.stderr.write('Stop criterium: depth >= options.max_depth: {} > {}\n'.format(depth, options.max_depth))
+              return
 
-      random.shuffle(next_titles)
-      visit_pages (next_titles, depth + 1, lang, logfd)
+          random.shuffle(next_titles)
+          depth += 1
+          titles = next_titles
+          next_titles = []
 
   language_c = lang.name.replace('-', '_').title()
   build_log = current_dir + '/BuildLangModelLogs/Lang{}Model.log'.format(language_c)
