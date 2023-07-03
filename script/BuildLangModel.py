@@ -472,6 +472,8 @@ for lang_arg in langs:
           next_titles = []
 
   def store_content_in_cache(cache_dir, url, content):
+      global debug
+
       # create **probably globally unique** hash for the given url:
       dig = hmac.new(b'1234567890', msg=url.encode('utf8'), digestmod=hashlib.sha256).digest()
       hashstr = base64.b64encode(dig).decode()      # py3k-mode
@@ -479,10 +481,13 @@ for lang_arg in langs:
       unique_fname = re.sub(r'[^a-zA-Z0-9_-]+', '', unique_fname)
       unique_fname = unique_fname[-50:] + '.content.txt'
       
+      fpath = os.path.join(cache_dir, unique_fname)
       if (len(content) > 0):
-          sys.stderr.write('Cache content (size: {}) for URL {} -> filename: {}\n'.format(len(content), url, unique_fname))
-          with open(unique_fname, mode='w', encoding='utf-8') as c_fd:
+          if debug: sys.stderr.write('Cache content (size: {}) for URL {} -> filename: {}\n'.format(len(content), url, fpath))
+          with open(fpath, mode='w', encoding='utf-8') as c_fd:
               c_fd.write(content)
+              sys.stderr.write('_')
+              sys.stderr.flush()
   
   def visit_pages_cache(cache_dir, lang, logfd):
       global processed_pages_count
@@ -520,7 +525,7 @@ for lang_arg in langs:
               process_text(content, lang)
               processed_pages_count += 1
       except FileNotFoundError as error:
-          sys.stderr.write('### No cached content files at {}?\n    {}\n'.format(cache_dir, error))
+          sys.stderr.write('\nWARNING: No cached content files at {}?\n    {}\n'.format(cache_dir, error))
           pass
 
   language_c = lang.name.replace('-', '_').title()
