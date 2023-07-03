@@ -35,6 +35,7 @@
  *
  * ***** END LICENSE BLOCK ***** */
 #include "../uchardet.h"
+#include "monolithic_examples.h"
 
 #include "getopt.h"
 #include <stdio.h>
