@@ -440,9 +440,7 @@ for lang_arg in langs:
 
               if debug: sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
 
-              html = page.html()
               content = page.content
-              sys.stderr.write('Page content (size: {}) for {}:\n{}\nlinks: count: {}\nsections: [{}]\nhtml: (len: {})\ntitle: {}\n'.format(len(content), page.url, page, len(page.links), page.sections, len(html), page.title))
 
               process_text(content, lang)
               processed_pages_count += 1
@@ -474,29 +472,16 @@ for lang_arg in langs:
           next_titles = []
 
   def store_content_in_cache(cache_dir, url, content):
-      sys.stderr.write('URL -> name: {}\n'.format(url))
-      
       # create **probably globally unique** hash for the given url:
       dig = hmac.new(b'1234567890', msg=url.encode('utf8'), digestmod=hashlib.sha256).digest()
       hashstr = base64.b64encode(dig).decode()      # py3k-mode
       unique_fname = hashstr.replace('=', '')
-      sys.stderr.write('URL -> name: {}\n'.format(unique_fname))
       unique_fname = re.sub(r'[^a-zA-Z0-9_-]+', '', unique_fname)
-      sys.stderr.write('URL -> name: {}\n'.format(unique_fname))
-      unique_fname = unique_fname[-50:]
-      sys.stderr.write('URL -> name: {}\n'.format(unique_fname))
+      unique_fname = unique_fname[-50:] + '.content.txt'
       
-      fpath = os.path.join(cache_dir, unique_fname)
-      fpath_base = fpath
-      count = 1
-      while (os.path.isfile(fpath + '.content.txt')):
-          sys.stderr.write('test filename: {}\n'.format(fpath + '.content.txt'))
-          fpath = '{}{}'.format(fpath_base, count)
-          count += 1
-
       if (len(content) > 0):
-          sys.stderr.write('Cache content (size: {}) for {} in {}\n'.format(len(content), url, fpath + '.content.txt'))
-          with open(fpath + '.content.txt', mode='w', encoding='utf-8') as c_fd:
+          sys.stderr.write('Cache content (size: {}) for URL {} -> filename: {}\n'.format(len(content), url, unique_fname))
+          with open(unique_fname, mode='w', encoding='utf-8') as c_fd:
               c_fd.write(content)
   
   def visit_pages_cache(cache_dir, lang, logfd):
@@ -505,10 +490,10 @@ for lang_arg in langs:
       global characters
       global debug
 
-      sys.stderr.write('Cache file dir for lang {}: {}\n'.format(lang.name, cache_dir))
+      if debug: sys.stderr.write('Cache file dir for lang {}: {}\n'.format(lang.name, cache_dir))
       try:
           cachefiles = [f for f in os.listdir(cache_dir) if os.path.isfile(os.path.join(cache_dir, f))]
-          sys.stderr.write('Cache file list: {}\n'.format(cachefiles))
+          # sys.stderr.write('Cache file list: {}\n'.format(cachefiles))
       
           for title in cachefiles:
               occurrences = sum(characters.values())
@@ -523,20 +508,20 @@ for lang_arg in langs:
                   if debug: sys.stderr.write('Stop criterium: processed_pages_count > options.max_page: {} > {}\n'.format(processed_pages_count, options.max_page))
                   return
 
-              sys.stderr.write('.')
+              sys.stderr.write('+')
               sys.stderr.flush()
 
               fpath = os.path.join(cache_dir, title)          
               with open(fpath, mode='r', encoding='utf-8') as cache_fd:
                   content = cache_fd.read()
 
-              sys.stderr.write("\n{} --> content size: {}\n".format(title, len(content)))
+              if debug: sys.stderr.write("\ncache file: {} --> content size: {}\n".format(title, len(content)))
 
               process_text(content, lang)
               processed_pages_count += 1
       except FileNotFoundError as error:
-        sys.stderr.write('### No cached content files at {}:\n    {}\n'.format(cache_dir, error))
-        pass
+          sys.stderr.write('### No cached content files at {}?\n    {}\n'.format(cache_dir, error))
+          pass
 
   language_c = lang.name.replace('-', '_').title()
   build_log = current_dir + '/BuildLangModelLogs/Lang{}Model.log'.format(language_c)
