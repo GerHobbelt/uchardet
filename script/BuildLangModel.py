@@ -143,7 +143,7 @@ for lang_arg in langs:
                        "         If you don't get good data, it is advised to set a "
                        "start_pages` variable yourself.\n".format(lang.code))
       lang.start_pages = ['Main_Page']
-  lang.start_pages += ['Phonetics', 'Linguistics', 'Alphabet', 'Language', 'Spelling', 'Pratchett', 'Satire', 'Grammar', 'History', 'Folklore', 'Biology', 'Flower', 'Plant', 'Animal', 'Human', 'computer', 'Robot', 'Technology', 'Communication', 'Writing', 'Video Game', 'Music', 'Glass', 'Bread', 'Food', 'Politics', 'Earth', 'Ocean', 'Amazon', 'Chaplin', 'Aguilera', 'Morse Code', 'Streptococcus', 'Virus', 'Bacteria', 'Bird', 'Submarine', 'Steel', 'Chemistry', 'Military', 'Weather', 'Scholar', 'Supernova', 'Olympiad', 'Rogyapas', 'Agincourt', 'Caesar', 'Ada Lovelace', 'Ip Man', 'Marie Louise of Bourbon-Parma', 'Sumeria', 'Botai', 'Calendar', 'Clytemnestra', 'Baba Yaga']
+  lang.start_pages += ['Phonetics', 'Linguistics', 'Alphabet', 'Language', 'Spelling', 'Pratchett', 'Satire', 'Grammar', 'History', 'Folklore', 'Biology', 'Flower', 'Plant', 'Animal', 'Human', 'computer', 'Robot', 'Technology', 'Communication', 'Writing', 'Video Game', 'Music', 'Glass', 'Bread', 'Food', 'Politics', 'Earth', 'Ocean', 'Amazon', 'Chaplin', 'Aguilera', 'Morse Code', 'Streptococcus', 'Virus', 'Bacteria', 'Bird', 'Submarine', 'Steel', 'Chemistry', 'Military', 'Weather', 'Scholar', 'Supernova', 'Olympiad', 'Rogyapas', 'Agincourt', 'Caesar', 'Ada Lovelace', 'Ip Man', 'Marie Louise of Bourbon-Parma', 'Sumeria', 'Botai', 'Calendar', 'Clytemnestra', 'Baba Yaga', 'transistor', 'diode']
 
   if not hasattr(lang, 'wikipedia_code') or lang.wikipedia_code is None:
       lang.wikipedia_code = lang.code
@@ -256,6 +256,7 @@ for lang_arg in langs:
   if debug: sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
 
   visited_pages = []
+  discarded_pages = []
   processed_pages_count = 0
 
   # The full list of letter characters.
@@ -368,6 +369,7 @@ for lang_arg in langs:
 
   def visit_pages(cache_dir, titles, depth, lang, logfd):
       global visited_pages
+      global discarded_pages
       global processed_pages_count
       global options
       global characters
@@ -375,6 +377,8 @@ for lang_arg in langs:
 
       # append the titles from cache before we start:
       titles = load_links_from_cache(cache_dir, titles)
+
+      discarded_pages = load_discards_from_cache(cache_dir, discarded_pages)
 
       next_titles = []
       
@@ -387,9 +391,12 @@ for lang_arg in langs:
               max_titles = sys.maxsize
 
           store_links_in_cache(cache_dir, titles)
+          prev_discard_count = len(discarded_pages)
               
           for title in titles:
               if title in visited_pages:
+                  continue
+              if title in discarded_pages:
                   continue
                   
               occurrences = sum(characters.values())
@@ -408,6 +415,11 @@ for lang_arg in langs:
               if 'wiki' in title or 'Wiki' in title or 'extlinks' in title:
                   sys.stderr.write('Skipping internal page: {}\n'.format(title))
                   continue
+
+              discard_count = len(discarded_pages)
+              if discard_count >= prev_discard_count + 10:
+                  prev_discard_count = discard_count
+                  store_discards_in_cache(cache_dir, discarded_pages)
 
               sys.stderr.write('.')
               sys.stderr.flush()
@@ -431,12 +443,14 @@ for lang_arg in langs:
                   try:
                       suggestions = wikipedia.search(title)
                   except Exception as error:
+                      discarded_pages.append(title)
                       sys.stderr.write("\n(P1) Discarding page {} and failed to obtain suggestions: {}\n".format(title, error))
                       continue
                       
                   suggestions = [] + suggestions + sl
                   if not suggestions:
                       # Let's just discard a page when I get an exception.
+                      discarded_pages.append(title)
                       sys.stderr.write("\n(P2) Discarding page {}; no new suggestions: {}\n".format(title, error_msg))
                   else:
                       # filter the suggestions list so we don't inject duplicates
@@ -447,21 +461,26 @@ for lang_arg in langs:
                           if suggestion in titles or \
                              suggestion in sl or \
                              suggestion in extra_titles or \
-                             suggestion in visited_pages:
+                             suggestion in visited_pages or \
+                             suggestion in discarded_pages:
                               continue
                           sl.append(suggestion)
                       suggestions = sl
                       if not suggestions:
                           # Let's just discard a page when I get an exception.
+                          discarded_pages.append(title)
                           sys.stderr.write("\n(P3) Discarding page {}: {}\n".format(title, error_msg))
                       else:
                           random.shuffle(suggestions)
                           if len(suggestions) > max_titles:
                               suggestions = suggestions[:max_titles]
+                          discarded_pages.append(title)
                           sys.stderr.write("\n(P4) Discarding page {}: {}\n     ==> adding these suggestions instead: {}\n".format(title, error_msg, suggestions))
                           extra_titles += suggestions
+                          store_links_in_cache(cache_dir, extra_titles)
                   continue
               except Exception as error:
+                  discarded_pages.append(title)
                   sys.stderr.write("\n(P5) Discarding page {}: {}\n".format(title, error))
                   continue
                   
@@ -495,7 +514,8 @@ for lang_arg in langs:
                       if link in titles or \
                          link in ll or \
                          link in extra_titles or \
-                         link in visited_pages:
+                         link in visited_pages or \
+                         link in discarded_pages:
                           continue
                       ll.append(link)
                   links = ll
@@ -503,6 +523,7 @@ for lang_arg in langs:
                   if len(links) > max_titles:
                       links = links[:max_titles]
                   next_titles += links
+                  store_links_in_cache(cache_dir, next_titles)
               except KeyError as error:
                   if debug: sys.stderr.write('links append error: {}\n'.format(error))
                   pass
@@ -521,6 +542,8 @@ for lang_arg in langs:
           depth += 1
           titles = next_titles
           next_titles = []
+
+      store_discards_in_cache(cache_dir, discarded_pages)
 
   def store_content_in_cache(cache_dir, url, content, title, revision_id):
       global debug
@@ -587,9 +610,49 @@ for lang_arg in langs:
               titles.append(title)
           
       return titles
+
+  def store_discards_in_cache(cache_dir, discarded_pages):
+      global debug
+
+      if (len(discarded_pages) > 0):
+          cached_set = load_discards_from_cache(cache_dir, [])
+
+          for title in discarded_pages:
+              title = title.strip()
+              if len(title) == 0:
+                  continue
+              if title in cached_set:
+                  continue
+              cached_set.append(title)
+
+          fpath = os.path.join(cache_dir, 'discards.txt')
+          with open(fpath, mode='w', encoding='utf-8') as c_fd:
+              c_fd.write("\n")
+              c_fd.write("\n".join(cached_set))
+              c_fd.write("\n")
   
+  def load_discards_from_cache(cache_dir, titles):
+      global debug
+
+      fpath = os.path.join(cache_dir, 'discards.txt')
+      if os.path.isfile(fpath):
+          with open(fpath, mode='r', encoding='utf-8') as c_fd:
+              content = c_fd.read()
+              
+          lines = content.strip().splitlines()
+
+          for title in lines:
+              if len(title) == 0:
+                  continue
+              if title in titles:
+                  continue
+              titles.append(title)
+          
+      return titles
+    
   def visit_pages_cache(cache_dir, lang, logfd):
       global visited_pages
+      global discarded_pages
       global processed_pages_count
       global options
       global characters
@@ -597,7 +660,7 @@ for lang_arg in langs:
 
       if debug: sys.stderr.write('Cache file dir for lang {}: {}\n'.format(lang.name, cache_dir))
       try:
-          cachefiles = [f for f in os.listdir(cache_dir) if os.path.isfile(os.path.join(cache_dir, f)) and (f != 'links.txt')]
+          cachefiles = [f for f in os.listdir(cache_dir) if os.path.isfile(os.path.join(cache_dir, f)) and ('.content.txt' in f)]
           # sys.stderr.write('Cache file list: {}\n'.format(cachefiles))
       
           for title in cachefiles:
