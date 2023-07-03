@@ -706,6 +706,8 @@ for lang_arg in langs:
   # frequent list, and we stop then. There may therefore be more or less than
   # 64 frequent characters depending on the language.
   logfd.write('\nMost Frequent characters:')
+  # sys.stderr.write('\nAlphabet: {}, frequent_ranges: {}, lang: {}\n'.format(lang.alphabet, lang.frequent_ranges, lang.name))
+  very_frequent_characters = []
   very_freq_count = 0
   very_freq_ratio = 0
   if lang.alphabet is None and lang.frequent_ranges is None:
@@ -714,6 +716,7 @@ for lang_arg in langs:
           if order >= freq_count:
               break
           logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
+          very_frequent_characters.append(char)
           accumulated_ratios += ratio
           if very_freq_ratio < 0.4:
             very_freq_count += 1
@@ -726,6 +729,7 @@ for lang_arg in langs:
           if chr(char) in lang.alphabet:
               lang.alphabet.remove(chr(char))
           logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
+          very_frequent_characters.append(char)
           accumulated_ratios += ratio
           freq_count += 1
           if very_freq_ratio < 0.4:
@@ -753,11 +757,13 @@ for lang_arg in langs:
             freq_count += 1
             accumulated_ratios += ratio
             logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
+            very_frequent_characters.append(char)
             frequent_ranges_size -= 1
             break
         else:
           # A frequent character in the non-frequent range.
           logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
+          very_frequent_characters.append(char)
           freq_count += 1
           accumulated_ratios += ratio
 
@@ -1050,55 +1056,140 @@ for lang_arg in langs:
       line_width = (freq_count + 2) / 3
   if line_width > 40:
       line_width = 40
+  
+  if freq_count < 100:
+      LM_str = 'static const PRUint8 {}LangModel[]'.format(language_c) 
+      LM_str += ' =\n{'
+      for line in range(0, freq_count):
+          LM_str += '\n  '
+          
+          for column in range(0, freq_count):
+              # Let's not make too long lines.
+              if freq_count > 40 and column > 0 and column < freq_count - 5 and column % line_width == 0:
+                  LM_str += '\n   '
+              first_order = int(line)
+              second_order = column
+              if first_order < len(sorted_ratios) and second_order < len(sorted_ratios):
+                  (first_char, _) = sorted_ratios[first_order]
+                  (second_char, _) = sorted_ratios[second_order]
+                  if (first_char, second_char) in sequences:
+                      for order, (seq, _) in enumerate(sorted_seqs):
+                          if seq == (first_char, second_char):
+                              if order < order_3:
+                                  LM_str += '3,'
+                              elif order < order_2:
+                                  LM_str += '2,'
+                              else:
+                                  LM_str += '1,'
+                              break
+                      else:
+                          pass # impossible!
+                          LM_str += '0,'
+                  else:
+                      LM_str += '0,'
+              else:
+                  # It may indeed happen that we find less than 64 letters used for a
+                  # given language.
+                  LM_str += '0,'
+      LM_str += '\n};\n'
+      c_code += LM_str
+  else:
+      FC_str = 'static const PRUint8 {}FrequentCharMapping[]'.format(language_c)
+      FC_str += ' =\n{'
       
-  LM_str = [ 'static const PRUint8 {}LangModel[]'.format(language_c) ]
-  LM_str += [' =\n{']
-  for line in range(0, freq_count):
-      LM_str += ['\n  ']
+      flimit = 128
+      cmap = very_frequent_characters[:flimit-1]
       
-      if freq_count >= 100:
-          if not debug:
-              sys.stderr.write("#")
-              sys.stderr.flush()
-          else: 
-              sys.stderr.write("freq_count = {} ({})\n".format(freq_count, line))
+      lo_c = 1000000000
+      hi_c = 0
+      for char in cmap:
+          if char > hi_c:
+              hi_c = char
+          if char < lo_c:
+              lo_c = char
+      
+      count = 0
+      for char in range(lo_c, hi_c + 1):
+          count += 1
+          if count % 20 == 0:
+              FC_str += '\n  '
               
-      for column in range(0, freq_count):
+          if char in cmap:
+              FC_str += "{},".format(cmap.index(char) + 1)
+          else:
+              FC_str += "0,"
+
+      FC_str += '\n};\n'
+      c_code += FC_str
+          
+      c_code += '\n\n#define {}FCMLowerBound  {}\n'.format(language_c, lo_c)
+      c_code += '#define {}FCMUpperBound  {}\n\n\n'.format(language_c, hi_c)
+          
+      LM_str = 'static const PRUint8 {}CompactedLangModel[]'.format(language_c) 
+      LM_str += ' =\n{'
+
+      # first row:
+      #
+      # catch-all for all the infrequent first_chars;
+      # first column is catch-all for all the infrequent second_chars:
+      LM_str += '\n  0,'
+      count = 1
+      for second_char in cmap:
+          LM_str += '0,'
           # Let's not make too long lines.
-          if freq_count > 40 and column > 0 and column < freq_count - 5 and column % line_width == 0:
-              LM_str += ['\n   ']
-          first_order = int(line)
-          second_order = column
-          if first_order < len(sorted_ratios) and second_order < len(sorted_ratios):
-              (first_char, _) = sorted_ratios[first_order]
-              (second_char, _) = sorted_ratios[second_order]
+          count += 1
+          if count % line_width == 0:
+              LM_str += '\n  '
+
+
+      for first_char in cmap:
+          LM_str += '\n  '
+
+          if debug:
+              sys.stderr.write('first_char: {}, lo_c: {}, hi_c: {}, size: {}, flimit: {}\n'.format(first_char, lo_c, hi_c, len(cmap), flimit))
+          else:
+              sys.stderr.write('#')
+              sys.stderr.flush()
+
+          # catch-all for all the infrequent second_chars:
+          LM_str += '0,'
+          count = 1
+          
+          for second_char in cmap:
               if (first_char, second_char) in sequences:
                   for order, (seq, _) in enumerate(sorted_seqs):
                       if seq == (first_char, second_char):
                           if order < order_3:
-                              LM_str += ['3,']
+                              LM_str += '3,'
                           elif order < order_2:
-                              LM_str += ['2,']
+                              LM_str += '2,'
                           else:
-                              LM_str += ['1,']
+                              LM_str += '1,'
                           break
                   else:
                       pass # impossible!
-                      LM_str += ['0,']
+                      LM_str += '0,'
               else:
-                  LM_str += ['0,']
-          else:
-              # It may indeed happen that we find less than 64 letters used for a
-              # given language.
-              LM_str += ['0,']
-  LM_str += ['\n};\n']
-  c_code += ''.join(LM_str)
+                  LM_str += '0,'
+          
+              # Let's not make too long lines.
+              count += 1
+              if count % line_width == 0:
+                  LM_str += '\n  '
+
+      LM_str += '\n};\n'
+      c_code += LM_str
 
   for charset in lang_charsets:
       charset_c = charset.replace('-', '_').title()
       SM_str = '\n\nconst SequenceModel {}{}Model ='.format(charset_c, language_c)
       SM_str += '\n{\n  '
-      SM_str += '{}_CharToOrderMap,\n  {}LangModel,'.format(charset_c, language_c)
+      SM_str += '{}_CharToOrderMap,'.format(charset_c)
+      if freq_count < 100:
+          SM_str += '\n  {}LangModel,'.format(language_c)
+      else:
+          # TODO:
+          SM_str += '\n  {}CompactedLangModel,'.format(language_c)
       SM_str += '\n  {},'.format(freq_count)
       SM_str += '\n  (float){},'.format(ratio_2)
       SM_str += '\n  {},'.format('PR_TRUE' if lang.use_ascii else 'PR_FALSE')
@@ -1112,7 +1203,11 @@ for lang_arg in langs:
   SM_str += '\n  "{}",'.format(lang.code)
   SM_str += '\n  Unicode_CharOrder,'
   SM_str += '\n  {},'.format(len(sorted_chars)) # Order is wrong!
-  SM_str += '\n  {}LangModel,'.format(language_c)
+  if freq_count < 100:
+      SM_str += '\n  {}LangModel,'.format(language_c)
+  else:
+      # TODO:
+      SM_str += '\n  {}CompactedLangModel,'.format(language_c)
   SM_str += '\n  {},'.format(freq_count)
   SM_str += '\n  {},'.format(very_freq_count)
   SM_str += '\n  (float){},'.format(very_freq_ratio)
