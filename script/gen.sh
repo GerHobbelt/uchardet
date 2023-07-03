@@ -1,3 +1,3 @@
 #! /bin/bash
 
-make -j 8 $*
+make -j 12 $*
