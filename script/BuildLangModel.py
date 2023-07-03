@@ -56,6 +56,9 @@ import string
 # https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python
 # --> pip3 install newspaper3k
 from newspaper import Article
+import hmac
+import hashlib
+import base64
 
 
 # Custom modules.
@@ -442,13 +445,13 @@ for lang_arg in langs:
 
               html = page.html()
               content = page.content
-              sys.stderr.write('Page content (size: {}) for {}: {}\n{}\nlinks: [{}]\nsections: [{}]\nhtml: {}\ntitle: {}\n'.format(len(content), page.url, content, page, page.links, page.sections, html, page.title))
+              sys.stderr.write('Page content (size: {}) for {}:\n{}\nlinks: count: {}\nsections: [{}]\nhtml: (len: {})\ntitle: {}\n'.format(len(content), page.url, page, len(page.links), page.sections, len(html), page.title))
               if (len(content) == 0):   # bug?!
                 article = Article('')
                 article.set_html(html)
                 article.parse()
                 content = article.text
-                sys.stderr.write('NEWSPAPER --> (size: {}) {}\nNLP: {}\nsummary: {}\n'.format(len(content), content, article.nlp(), article.summary))
+                sys.stderr.write('NEWSPAPER --> (size: {})\nNLP: {}\nsummary: {}\n'.format(len(content), article.nlp(), article.summary))
 
               process_text(content, lang)
               processed_pages_count += 1
@@ -481,11 +484,15 @@ for lang_arg in langs:
 
   def store_content_in_cache(cache_dir, url, content):
       sys.stderr.write('URL -> name: {}\n'.format(url))
-      unique_fname = url.replace('/', '_').replace('%', '')
+      
+      # create **probably globally unique** hash for the given url:
+      dig = hmac.new(b'1234567890', msg=url.encode('utf8'), digestmod=hashlib.sha256).digest()
+      hashstr = base64.b64encode(dig).decode()      # py3k-mode
+      unique_fname = hashstr.replace('=', '')
       sys.stderr.write('URL -> name: {}\n'.format(unique_fname))
-      unique_fname = re.sub(r'[^a-zA-Z0-9_-]+', '_', unique_fname)
+      unique_fname = re.sub(r'[^a-zA-Z0-9_-]+', '', unique_fname)
       sys.stderr.write('URL -> name: {}\n'.format(unique_fname))
-      unique_fname = unique_fname[-32:]
+      unique_fname = unique_fname[-50:]
       sys.stderr.write('URL -> name: {}\n'.format(unique_fname))
       
       fpath = os.path.join(cache_dir, unique_fname)
@@ -497,7 +504,7 @@ for lang_arg in langs:
           count += 1
 
       if (len(content) > 0):
-          sys.stderr.write('Cache content (size: {}) for {} in {}: {}\n'.format(len(content), url, fpath + '.content.txt', content))
+          sys.stderr.write('Cache content (size: {}) for {} in {}\n'.format(len(content), url, fpath + '.content.txt'))
           with open(fpath + '.content.txt', mode='w', encoding='utf-8') as c_fd:
               c_fd.write(content)
   
