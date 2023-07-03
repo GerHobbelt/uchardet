@@ -53,6 +53,10 @@ import re
 import os
 import random
 import string
+# https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python
+# --> pip3 install newspaper3k
+from newspaper import Article
+
 
 # Custom modules.
 import charsets.db
@@ -90,7 +94,7 @@ if len(langs) < 1:
 
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
-with open(os.path.join(current_dir, "support.txt")) as f:
+with open(os.path.join(current_dir, "support.txt"), mode='r', encoding='utf-8') as f:
     all_langs = f.readlines()
 all_langs = [ l.strip() for l in all_langs if l.strip() != '' ]
 
@@ -354,7 +358,7 @@ for lang_arg in langs:
           else:
               prev_char = None
 
-  def visit_pages(titles, depth, lang, logfd):
+  def visit_pages(cache_dir, titles, depth, lang, logfd):
       global visited_pages
       global processed_pages_count
       global options
@@ -362,6 +366,8 @@ for lang_arg in langs:
       global debug
 
       next_titles = []
+      
+      os.makedirs(cache_dir, exist_ok=True)
       
       while len(titles) > 0:
           extra_titles = []
@@ -376,7 +382,7 @@ for lang_arg in langs:
                   if debug: sys.stderr.write('Stop criterium: occurrences > options.max_chars: {} > {}\n'.format(occurrences, options.max_chars))
                   return
 
-              if debug: sys.stderr.write('Max occurrences check: {} vs. {} ==> continue comsuming pages until we\'ve consumed enough chracters. ({}/{} + {} + {} more titles to fetch at depth {})\n'.format(occurrences, options.max_chars, len(titles) - titles.index(title), len(titles), len(extra_titles), (0 if (depth >= options.max_depth) else len(next_titles)), depth))
+              if debug: sys.stderr.write('Max occurrences check: {} vs. {} ==> continue consuming pages until we\'ve consumed enough characters. ({}/{} + {} + {} more titles to fetch at depth {})\n'.format(occurrences, options.max_chars, len(titles) - titles.index(title), len(titles), len(extra_titles), (0 if (depth >= options.max_depth) else len(next_titles)), depth))
 
               if options.max_page is not None and \
                  processed_pages_count > options.max_page:
@@ -394,7 +400,7 @@ for lang_arg in langs:
               sys.stderr.flush()
               visited_pages += [title]
               try:
-                  page = wikipedia.page(title, auto_suggest=True)
+                  page = wikipedia.page(title, auto_suggest=True, preload=True)
               except (wikipedia.exceptions.PageError,
                       wikipedia.exceptions.DisambiguationError) as error:
                   # extract the suggestions from the error message, iff any:
@@ -434,9 +440,20 @@ for lang_arg in langs:
 
               if debug: sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
 
-              process_text(page.content, lang)
-              if debug: sys.stderr.write('processing links [{}]\n'.format(page.links))
+              html = page.html()
+              content = page.content
+              sys.stderr.write('Page content (size: {}) for {}: {}\n{}\nlinks: [{}]\nsections: [{}]\nhtml: {}\ntitle: {}\n'.format(len(content), page.url, content, page, page.links, page.sections, html, page.title))
+              if (len(content) == 0):   # bug?!
+                article = Article('')
+                article.set_html(html)
+                article.parse()
+                content = article.text
+                sys.stderr.write('NEWSPAPER --> (size: {}) {}\nNLP: {}\nsummary: {}\n'.format(len(content), content, article.nlp(), article.summary))
+
+              process_text(content, lang)
               processed_pages_count += 1
+              store_content_in_cache(cache_dir, page.url, content)
+              if debug: sys.stderr.write('processing links [{}]\n'.format(page.links))
               try:
                 links = page.links
                 random.shuffle(links)
@@ -462,9 +479,70 @@ for lang_arg in langs:
           titles = next_titles
           next_titles = []
 
+  def store_content_in_cache(cache_dir, url, content):
+      sys.stderr.write('URL -> name: {}\n'.format(url))
+      unique_fname = url.replace('/', '_').replace('%', '')
+      sys.stderr.write('URL -> name: {}\n'.format(unique_fname))
+      unique_fname = re.sub(r'[^a-zA-Z0-9_-]+', '_', unique_fname)
+      sys.stderr.write('URL -> name: {}\n'.format(unique_fname))
+      unique_fname = unique_fname[-32:]
+      sys.stderr.write('URL -> name: {}\n'.format(unique_fname))
+      
+      fpath = os.path.join(cache_dir, unique_fname)
+      fpath_base = fpath
+      count = 1
+      while (os.path.isfile(fpath + '.content.txt')):
+          sys.stderr.write('test filename: {}\n'.format(fpath + '.content.txt'))
+          fpath = '{}{}'.format(fpath_base, count)
+          count += 1
+
+      if (len(content) > 0):
+          sys.stderr.write('Cache content (size: {}) for {} in {}: {}\n'.format(len(content), url, fpath + '.content.txt', content))
+          with open(fpath + '.content.txt', mode='w', encoding='utf-8') as c_fd:
+              c_fd.write(content)
+  
+  def visit_pages_cache(cache_dir, lang, logfd):
+      global processed_pages_count
+      global options
+      global characters
+      global debug
+
+      sys.stderr.write('Cache file dir for lang {}: {}\n'.format(lang.name, cache_dir))
+      try:
+          cachefiles = [f for f in os.listdir(cache_dir) if os.path.isfile(os.path.join(cache_dir, f))]
+          sys.stderr.write('Cache file list: {}\n'.format(cachefiles))
+      
+          for title in cachefiles:
+              occurrences = sum(characters.values())
+              if occurrences > options.max_chars:
+                  if debug: sys.stderr.write('Stop criterium: occurrences > options.max_chars: {} > {}\n'.format(occurrences, options.max_chars))
+                  return
+
+              if debug: sys.stderr.write('Max occurrences check: {} vs. {} ==> continue comsuming cached pages until we\'ve consumed enough characters. ({}/{})\n'.format(occurrences, options.max_chars, len(cachefiles) - cachefiles.index(title), len(cachefiles)))
+
+              if options.max_page is not None and \
+                 processed_pages_count > options.max_page:
+                  if debug: sys.stderr.write('Stop criterium: processed_pages_count > options.max_page: {} > {}\n'.format(processed_pages_count, options.max_page))
+                  return
+
+              sys.stderr.write('.')
+              sys.stderr.flush()
+
+              fpath = os.path.join(cache_dir, title)          
+              with open(fpath, mode='r', encoding='utf-8') as cache_fd:
+                  content = cache_fd.read()
+
+              sys.stderr.write("\n{} --> content size: {}\n".format(title, len(content)))
+
+              process_text(content, lang)
+              processed_pages_count += 1
+      except FileNotFoundError as error:
+        sys.stderr.write('### No cached content files at {}:\n    {}\n'.format(cache_dir, error))
+        pass
+
   language_c = lang.name.replace('-', '_').title()
   build_log = current_dir + '/BuildLangModelLogs/Lang{}Model.log'.format(language_c)
-  logfd = open(build_log, 'w', encoding='utf-8')
+  logfd = open(build_log, mode='w', encoding='utf-8')
   logfd.write('= Logs of language model for {} ({}) =\n'.format(lang.name, lang.code))
   logfd.write('\n- Generated by {}'.format(os.path.basename(__file__)))
   logfd.write('\n- Started: {}'.format(str(datetime.datetime.now())))
@@ -478,7 +556,9 @@ for lang_arg in langs:
   sys.stderr.write('\n>')
   sys.stderr.flush()
   try:
-      visit_pages(lang.start_pages, 0, lang, logfd)
+      cache_dir = current_dir + '/langs-content-cache/'+ lang_arg
+      visit_pages_cache(cache_dir, lang, logfd)
+      visit_pages(cache_dir, lang.start_pages, 0, lang, logfd)
   except requests.exceptions.ConnectionError:
       sys.stderr.write('Error: connection to Wikipedia failed. Aborting\n')
       exit(1)
@@ -591,7 +671,7 @@ for lang_arg in langs:
 
   sys.stderr.write('\nGenerating language model CHARACTER MAP file...\n')
 
-  with open(current_dir + '/header-template.cpp', 'r') as header_fd:
+  with open(current_dir + '/header-template.cpp', mode='r', encoding='utf-8') as header_fd:
       c_code = header_fd.read()
 
   c_code += '\n#include "../nsSBCharSetProber.h"'
@@ -923,7 +1003,7 @@ for lang_arg in langs:
   c_code += '\n'
 
   lang_model_file = current_dir + '/../src/LangModels/Lang{}Model.cpp'.format(language_c)
-  with open(lang_model_file, 'w') as cpp_fd:
+  with open(lang_model_file, mode='w', encoding='utf-8') as cpp_fd:
       cpp_fd.write(c_code)
 
   logfd.write('\n\n- Processing end: {}\n'.format(str(datetime.datetime.now())))
@@ -934,8 +1014,8 @@ for lang_arg in langs:
 charset_cpp = os.path.join(current_dir, '../src', 'nsSBCharSetProber-generated.h')
 print("\nGenerating {}…".format(charset_cpp))
 
-with open(charset_cpp, 'w') as cpp_fd:
-  with open(current_dir + '/header-template.cpp', 'r') as header_fd:
+with open(charset_cpp, mode='w', encoding='utf-8') as cpp_fd:
+  with open(current_dir + '/header-template.cpp', mode='r', encoding='utf-8') as header_fd:
     cpp_fd.write(header_fd.read())
 
   cpp_fd.write('\n#ifndef nsSingleByteCharSetProber_generated_h__')
@@ -973,8 +1053,8 @@ print("Done!")
 language_cpp = os.path.join(current_dir, '../src', 'nsLanguageDetector-generated.h')
 print("\nGenerating {}…".format(language_cpp))
 
-with open(language_cpp, 'w') as cpp_fd:
-  with open(current_dir + '/header-template.cpp', 'r') as header_fd:
+with open(language_cpp, mode='w', encoding='utf-8') as cpp_fd:
+  with open(current_dir + '/header-template.cpp', mode='r', encoding='utf-8') as header_fd:
     cpp_fd.write(header_fd.read())
 
   cpp_fd.write('\n#ifndef nsLanguageDetector_h_generated_h__')
