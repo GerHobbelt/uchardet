@@ -435,6 +435,10 @@ for lang_arg in langs:
                           sys.stderr.write("Discarding page {}: {}\n     ==> adding these suggestions instead: {}\n".format(title, error, suggestions))
                           extra_titles += suggestions
                   continue
+              except Exception as error:
+                  sys.stderr.write("Discarding page {}: {}\n".format(title, error))
+                  continue
+                  
               logfd.write("\n{} (revision {})".format(title, page.revision_id))
               logfd.flush()
 
