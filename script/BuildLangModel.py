@@ -366,6 +366,9 @@ for lang_arg in langs:
       global characters
       global debug
 
+      # append the titles from cache before we start:
+      titles = load_links_from_cache(cache_dir, titles)
+
       next_titles = []
       
       while len(titles) > 0:
@@ -375,6 +378,9 @@ for lang_arg in langs:
               max_titles = int(options.max_page/(options.max_depth * options.max_depth))
           else:
               max_titles = sys.maxsize
+
+          store_links_in_cache(cache_dir, titles)
+              
           for title in titles:
               occurrences = sum(characters.values())
               if occurrences > options.max_chars:
@@ -510,8 +516,49 @@ for lang_arg in langs:
               
               sys.stderr.write('_')
               sys.stderr.flush()
+
+  def store_links_in_cache(cache_dir, links):
+      global debug
+
+      if (len(links) > 0):
+          cached_set = load_links_from_cache(cache_dir, [])
+
+          for title in links:
+              title = title.strip()
+              if len(title) == 0:
+                  continue
+              if title in cached_set:
+                  continue
+              cached_set += [title]
+
+          fpath = os.path.join(cache_dir, 'links.txt')
+          with open(fpath, mode='w', encoding='utf-8') as c_fd:
+              c_fd.write("\n")
+              c_fd.write("\n".join(cached_set))
+              c_fd.write("\n")
+  
+  def load_links_from_cache(cache_dir, titles):
+      global debug
+
+      fpath = os.path.join(cache_dir, 'links.txt')
+      if os.path.isfile(fpath):
+          with open(fpath, mode='r', encoding='utf-8') as c_fd:
+              content = c_fd.read()
+              
+          lines = content.splitlines()
+
+          for title in lines:
+              title = title.strip()
+              if len(title) == 0:
+                  continue
+              if title in titles:
+                  continue
+              titles += [title]
+          
+      return titles
   
   def visit_pages_cache(cache_dir, lang, logfd):
+      global visited_pages
       global processed_pages_count
       global options
       global characters
@@ -519,7 +566,7 @@ for lang_arg in langs:
 
       if debug: sys.stderr.write('Cache file dir for lang {}: {}\n'.format(lang.name, cache_dir))
       try:
-          cachefiles = [f for f in os.listdir(cache_dir) if os.path.isfile(os.path.join(cache_dir, f))]
+          cachefiles = [f for f in os.listdir(cache_dir) if os.path.isfile(os.path.join(cache_dir, f)) and (f != 'links.txt')]
           # sys.stderr.write('Cache file list: {}\n'.format(cachefiles))
       
           for title in cachefiles:
@@ -551,6 +598,11 @@ for lang_arg in langs:
               page_title = dct['title']
               page_url = dct['url']
               page_revision = dct['revision']
+
+              # mark page as visited:
+              if page_title in visited_pages:
+                  continue
+              visited_pages += [page_title]
                   
               logfd.write("\n{} (revision {}; CACHED)".format(page_title, page_revision))
               logfd.flush()
