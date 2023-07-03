@@ -82,7 +82,7 @@ cmdline.add_option('--max-page',
                    action = 'store', type = 'int', dest = 'max_page', default = None)
 cmdline.add_option('--max-chars',
                    help = 'Maximum number of characters to process. (default: 3000000)',
-                   action = 'store', type = 'int', dest = 'max_chars', default = 140000)
+                   action = 'store', type = 'int', dest = 'max_chars', default = 4000000)
 cmdline.add_option('--max-depth',
                    help = 'Maximum depth when following links from start page (default: 4).',
                    action = 'store', type = 'int',
