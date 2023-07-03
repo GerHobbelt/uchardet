@@ -82,7 +82,7 @@ cmdline.add_option('--max-page',
                    action = 'store', type = 'int', dest = 'max_page', default = None)
 cmdline.add_option('--max-chars',
                    help = 'Maximum number of characters to process. (default: 3000000)',
-                   action = 'store', type = 'int', dest = 'max_chars', default = 3500000)
+                   action = 'store', type = 'int', dest = 'max_chars', default = 140000)
 cmdline.add_option('--max-depth',
                    help = 'Maximum depth when following links from start page (default: 4).',
                    action = 'store', type = 'int',
@@ -322,8 +322,7 @@ for lang_arg in langs:
                       codepoint = char.encode(charset, 'ignore')
                   except LookupError:
                       # unknown encoding. Check the ASCII base range first to prevent executing a costly iconv call whenever we can:
-                      if (charset == 'VISCII') and \
-                           (unicode_value >= 32 and unicode_value < 127):
+                      if (unicode_value >= 32 and unicode_value < 127):
                           if ((unicode_value >= 65 and unicode_value <= 90) or \
                               (unicode_value >= 97 and unicode_value <= 122)):
                               characters[unicode_value] = 1
@@ -331,6 +330,7 @@ for lang_arg in langs:
                           break
                       else:
                           # unknown encoding. Use iconv from command line instead.
+                          if debug: sys.stderr.write("ICONV::CHAR: {}, {}, [{}], {}\n".format(char, ord(char), charset, lang.name))
                           try:
                               call = subprocess.Popen(['iconv', '-f', 'UTF-8', '-t', charset],
                                                       stdin=subprocess.PIPE, stdout=subprocess.PIPE,
@@ -389,6 +389,9 @@ for lang_arg in langs:
           store_links_in_cache(cache_dir, titles)
               
           for title in titles:
+              if title in visited_pages:
+                  continue
+                  
               occurrences = sum(characters.values())
               if occurrences > options.max_chars:
                   if debug: sys.stderr.write('Stop criterium: occurrences > options.max_chars: {} > {}\n'.format(occurrences, options.max_chars))
@@ -400,12 +403,10 @@ for lang_arg in langs:
                  processed_pages_count > options.max_page:
                   if debug: sys.stderr.write('Stop criterium: processed_pages_count > options.max_page: {} > {}\n'.format(processed_pages_count, options.max_page))
                   return
-              if title in visited_pages:
-                  continue
 
               # Ugly hack skipping internal pages
               if 'wiki' in title or 'Wiki' in title or 'extlinks' in title:
-                  sys.stderr.write('Skipping {}\n'.format(title))
+                  sys.stderr.write('Skipping internal page: {}\n'.format(title))
                   continue
 
               sys.stderr.write('.')
@@ -419,25 +420,30 @@ for lang_arg in langs:
                   sl = []
                   error_msg = "{}".format(error)
                   if 'may refer to:' in error_msg:
-                      sl = error_msg.split('\n')
+                      sl = error_msg.strip().splitlines()
                       # ditch the initial error line:
-                      sl.pop(0)
+                      if not debug: 
+                          error_msg = sl.pop(0) + ' [...]'
+                      else:
+                          sl.pop(0)
 
                   # also query wikipedia for (additional) suggestions:
                   try:
                       suggestions = wikipedia.search(title)
                   except Exception as error:
-                      sys.stderr.write("Discarding page {} and failed to obtain suggestions: {}\n".format(title, error))
+                      sys.stderr.write("\n(P1) Discarding page {} and failed to obtain suggestions: {}\n".format(title, error))
                       continue
                       
                   suggestions = [] + suggestions + sl
                   if not suggestions:
                       # Let's just discard a page when I get an exception.
-                      sys.stderr.write("Discarding page {}: {}\n".format(title, error))
+                      sys.stderr.write("\n(P2) Discarding page {}; no new suggestions: {}\n".format(title, error_msg))
                   else:
                       # filter the suggestions list so we don't inject duplicates
                       sl = []
                       for suggestion in suggestions:
+                          if len(suggestion) == 0:
+                              continue
                           if suggestion in titles or \
                              suggestion in sl or \
                              suggestion in extra_titles or \
@@ -447,13 +453,16 @@ for lang_arg in langs:
                       suggestions = sl
                       if not suggestions:
                           # Let's just discard a page when I get an exception.
-                          sys.stderr.write("Discarding page {}: {}\n".format(title, error))
+                          sys.stderr.write("\n(P3) Discarding page {}: {}\n".format(title, error_msg))
                       else:
-                          sys.stderr.write("Discarding page {}: {}\n     ==> adding these suggestions instead: {}\n".format(title, error, suggestions))
+                          random.shuffle(suggestions)
+                          if len(suggestions) > max_titles:
+                              suggestions = suggestions[:max_titles]
+                          sys.stderr.write("\n(P4) Discarding page {}: {}\n     ==> adding these suggestions instead: {}\n".format(title, error_msg, suggestions))
                           extra_titles += suggestions
                   continue
               except Exception as error:
-                  sys.stderr.write("Discarding page {}: {}\n".format(title, error))
+                  sys.stderr.write("\n(P5) Discarding page {}: {}\n".format(title, error))
                   continue
                   
               logfd.write("\n{} (revision {})".format(title, page.revision_id))
@@ -461,7 +470,7 @@ for lang_arg in langs:
 
               if debug: sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
 
-              content = page.content
+              content = page.content.strip()
               
               # Nuke LaTeX math lines as best we can.
               #
@@ -470,7 +479,6 @@ for lang_arg in langs:
               content = re.sub(r'\{\s*\\displaystyle[^\n]*\}', ' ', content)
               
               # only count (and cache) non-empty pages against the configured page count maximum:
-              content = content.strip()
               if (len(content) != 0):
                   process_text(content, lang)
                   processed_pages_count += 1
@@ -479,6 +487,18 @@ for lang_arg in langs:
               if debug: sys.stderr.write('processing links [{}]\n'.format(page.links))
               try:
                   links = page.links
+                  # filter the links[] list so we don't inject duplicates
+                  ll = []
+                  for link in links:
+                      if len(link) == 0:
+                          continue
+                      if link in titles or \
+                         link in ll or \
+                         link in extra_titles or \
+                         link in visited_pages:
+                          continue
+                      ll.append(link)
+                  links = ll
                   random.shuffle(links)
                   if len(links) > max_titles:
                       links = links[:max_titles]
@@ -557,10 +577,9 @@ for lang_arg in langs:
           with open(fpath, mode='r', encoding='utf-8') as c_fd:
               content = c_fd.read()
               
-          lines = content.splitlines()
+          lines = content.strip().splitlines()
 
           for title in lines:
-              title = title.strip()
               if len(title) == 0:
                   continue
               if title in titles:
@@ -604,7 +623,7 @@ for lang_arg in langs:
               # decode cache file header:
               ch = content.split('\n---\n\n', maxsplit=1)
               cheader = ch[0]
-              content = ch[1]
+              content = ch[1].strip()
               dct = yaml.safe_load(cheader)
 
               page_title = dct['title']
@@ -621,8 +640,10 @@ for lang_arg in langs:
 
               if debug: sys.stderr.write("\n{} (revision {}) -> {}; cached file: {}; content size: {}\n".format(page_title, page_revision, page_url, title, len(content)))
 
-              process_text(content, lang)
-              processed_pages_count += 1
+              # only count (and cache) non-empty pages against the configured page count maximum:
+              if (len(content) != 0):
+                  process_text(content, lang)
+                  processed_pages_count += 1
               
       except FileNotFoundError as error:
           sys.stderr.write('\nWARNING: No cached content files at {}?\n    {}\n'.format(cache_dir, error))
@@ -710,12 +731,13 @@ for lang_arg in langs:
           if very_freq_ratio < 0.4:
             very_freq_count += 1
             very_freq_ratio += ratio
-      else:
-          if len(lang.alphabet) > 0:
-              sys.stderr.write("Error: alphabet characters are absent from data collection"
-                               "\n       Please check the configuration or the data."
-                               "\n       Missing characters: {}".format(", ".join(lang.alphabet)))
-              exit(1)
+      if len(lang.alphabet) > 0:
+          sys.stderr.write("Error: alphabet characters are absent from data collection"
+                           "\n       Please check the configuration or the data."
+                           "\n       Missing characters: [{}]"
+                           "\n       Tip: you may want to increase your corpus size (max-chars)."
+                           "\n".format(", ".join(lang.alphabet)))
+          exit(1)
   elif lang.frequent_ranges is not None:
       # How many characters in the frequent range?
       frequent_ranges_size = 0
@@ -1029,14 +1051,22 @@ for lang_arg in langs:
   if line_width > 40:
       line_width = 40
       
-  LM_str = 'static const PRUint8 {}LangModel[]'.format(language_c)
-  LM_str += ' =\n{'
+  LM_str = [ 'static const PRUint8 {}LangModel[]'.format(language_c) ]
+  LM_str += [' =\n{']
   for line in range(0, freq_count):
-      LM_str += '\n  '
+      LM_str += ['\n  ']
+      
+      if freq_count >= 100:
+          if not debug:
+              sys.stderr.write("#")
+              sys.stderr.flush()
+          else: 
+              sys.stderr.write("freq_count = {} ({})\n".format(freq_count, line))
+              
       for column in range(0, freq_count):
           # Let's not make too long lines.
           if freq_count > 40 and column > 0 and column < freq_count - 5 and column % line_width == 0:
-              LM_str += '\n   '
+              LM_str += ['\n   ']
           first_order = int(line)
           second_order = column
           if first_order < len(sorted_ratios) and second_order < len(sorted_ratios):
@@ -1046,23 +1076,23 @@ for lang_arg in langs:
                   for order, (seq, _) in enumerate(sorted_seqs):
                       if seq == (first_char, second_char):
                           if order < order_3:
-                              LM_str += '3,'
+                              LM_str += ['3,']
                           elif order < order_2:
-                              LM_str += '2,'
+                              LM_str += ['2,']
                           else:
-                              LM_str += '1,'
+                              LM_str += ['1,']
                           break
                   else:
                       pass # impossible!
-                      LM_str += '0,'
+                      LM_str += ['0,']
               else:
-                  LM_str += '0,'
+                  LM_str += ['0,']
           else:
               # It may indeed happen that we find less than 64 letters used for a
               # given language.
-              LM_str += '0,'
-  LM_str += '\n};\n'
-  c_code += LM_str
+              LM_str += ['0,']
+  LM_str += ['\n};\n']
+  c_code += ''.join(LM_str)
 
   for charset in lang_charsets:
       charset_c = charset.replace('-', '_').title()
