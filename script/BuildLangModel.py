@@ -82,7 +82,7 @@ cmdline.add_option('--max-page',
                    action = 'store', type = 'int', dest = 'max_page', default = None)
 cmdline.add_option('--max-chars',
                    help = 'Maximum number of characters to process. (default: 3000000)',
-                   action = 'store', type = 'int', dest = 'max_chars', default = 3000000)
+                   action = 'store', type = 'int', dest = 'max_chars', default = 3500000)
 cmdline.add_option('--max-depth',
                    help = 'Maximum depth when following links from start page (default: 4).',
                    action = 'store', type = 'int',
@@ -143,9 +143,7 @@ for lang_arg in langs:
                        "         If you don't get good data, it is advised to set a "
                        "start_pages` variable yourself.\n".format(lang.code))
       lang.start_pages = ['Main_Page']
-  lang.start_pages += ['Phonetics', 'Linguistics', 'Alphabet', 'Language', 'Spelling', 'Pratchett', 'Satire', 'Grammar', 'History', 'Folklore', 'Biology', 'Flower', 'Plant', 'Animal', 'Human', 'computer', 'Robot', 'Technology', 'Communication', 'Writing', 'Video Game', 'Music', 'Glass', 'Bread', 'Food', 'Politics', 'Earth', 'Ocean', 'Amazon', 'Chaplin', 'Aguilera', 'Morse Code', 'Streptococcus', 'Virus', 'Bacteria', 'Bird', 'Submarine', 'Steel', 'Chemistry', 'Military', 'Weather', 'Scholar', 'Supernova', 'Olympiad', 'Rogyapas', 'Agincourt', 'Caesar', 'Ada Lovelace', 'Ip Man', 'Marie Louise of Bourbon-Parma']
-  lang.start_pages += wikipedia.random(pages=30)
-  if debug: sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
+  lang.start_pages += ['Phonetics', 'Linguistics', 'Alphabet', 'Language', 'Spelling', 'Pratchett', 'Satire', 'Grammar', 'History', 'Folklore', 'Biology', 'Flower', 'Plant', 'Animal', 'Human', 'computer', 'Robot', 'Technology', 'Communication', 'Writing', 'Video Game', 'Music', 'Glass', 'Bread', 'Food', 'Politics', 'Earth', 'Ocean', 'Amazon', 'Chaplin', 'Aguilera', 'Morse Code', 'Streptococcus', 'Virus', 'Bacteria', 'Bird', 'Submarine', 'Steel', 'Chemistry', 'Military', 'Weather', 'Scholar', 'Supernova', 'Olympiad', 'Rogyapas', 'Agincourt', 'Caesar', 'Ada Lovelace', 'Ip Man', 'Marie Louise of Bourbon-Parma', 'Sumeria', 'Botai', 'Calendar', 'Clytemnestra', 'Baba Yaga']
 
   if not hasattr(lang, 'wikipedia_code') or lang.wikipedia_code is None:
       lang.wikipedia_code = lang.code
@@ -247,6 +245,15 @@ for lang_arg in langs:
 
   # Starting processing.
   wikipedia.set_lang(lang.wikipedia_code)
+
+  try:
+      rndlist = wikipedia.random(pages=30)
+      lang.start_pages += rndlist
+  except Exception as error:
+      sys.stderr.write("Skipped adding 30 random Wikipedia articles: {}\n".format(error))
+      pass
+                  
+  if debug: sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
 
   visited_pages = []
   processed_pages_count = 0
@@ -397,13 +404,13 @@ for lang_arg in langs:
                   continue
 
               # Ugly hack skipping internal pages
-              if 'wiki' in title or 'Wiki' in title:
+              if 'wiki' in title or 'Wiki' in title or 'extlinks' in title:
                   sys.stderr.write('Skipping {}\n'.format(title))
                   continue
 
               sys.stderr.write('.')
               sys.stderr.flush()
-              visited_pages += [title]
+              visited_pages.append(title)
               try:
                   page = wikipedia.page(title, auto_suggest=True, preload=True)
               except (wikipedia.exceptions.PageError,
@@ -417,7 +424,12 @@ for lang_arg in langs:
                       sl.pop(0)
 
                   # also query wikipedia for (additional) suggestions:
-                  suggestions = wikipedia.search(title)
+                  try:
+                      suggestions = wikipedia.search(title)
+                  except Exception as error:
+                      sys.stderr.write("Discarding page {} and failed to obtain suggestions: {}\n".format(title, error))
+                      continue
+                      
                   suggestions = [] + suggestions + sl
                   if not suggestions:
                       # Let's just discard a page when I get an exception.
@@ -466,11 +478,11 @@ for lang_arg in langs:
                   
               if debug: sys.stderr.write('processing links [{}]\n'.format(page.links))
               try:
-                links = page.links
-                random.shuffle(links)
-                if len(links) > max_titles:
-                    links = links[:max_titles]
-                next_titles += links
+                  links = page.links
+                  random.shuffle(links)
+                  if len(links) > max_titles:
+                      links = links[:max_titles]
+                  next_titles += links
               except KeyError as error:
                   if debug: sys.stderr.write('links append error: {}\n'.format(error))
                   pass
@@ -529,7 +541,7 @@ for lang_arg in langs:
                   continue
               if title in cached_set:
                   continue
-              cached_set += [title]
+              cached_set.append(title)
 
           fpath = os.path.join(cache_dir, 'links.txt')
           with open(fpath, mode='w', encoding='utf-8') as c_fd:
@@ -553,7 +565,7 @@ for lang_arg in langs:
                   continue
               if title in titles:
                   continue
-              titles += [title]
+              titles.append(title)
           
       return titles
   
@@ -571,16 +583,16 @@ for lang_arg in langs:
       
           for title in cachefiles:
               occurrences = sum(characters.values())
-              if occurrences > options.max_chars:
-                  if debug: sys.stderr.write('Stop criterium: occurrences > options.max_chars: {} > {}\n'.format(occurrences, options.max_chars))
-                  return
+              #if occurrences > options.max_chars:
+              #    if debug: sys.stderr.write('Stop criterium: occurrences > options.max_chars: {} > {}\n'.format(occurrences, options.max_chars))
+              #    return
 
               if debug: sys.stderr.write('Max occurrences check: {} vs. {} ==> continue comsuming cached pages until we\'ve consumed enough characters. ({}/{})\n'.format(occurrences, options.max_chars, len(cachefiles) - cachefiles.index(title), len(cachefiles)))
 
-              if options.max_page is not None and \
-                 processed_pages_count > options.max_page:
-                  if debug: sys.stderr.write('Stop criterium: processed_pages_count > options.max_page: {} > {}\n'.format(processed_pages_count, options.max_page))
-                  return
+              #if options.max_page is not None and \
+              #   processed_pages_count > options.max_page:
+              #    if debug: sys.stderr.write('Stop criterium: processed_pages_count > options.max_page: {} > {}\n'.format(processed_pages_count, options.max_page))
+              #    return
 
               sys.stderr.write('+')
               sys.stderr.flush()
@@ -602,7 +614,7 @@ for lang_arg in langs:
               # mark page as visited:
               if page_title in visited_pages:
                   continue
-              visited_pages += [page_title]
+              visited_pages.append(page_title)
                   
               logfd.write("\n{} (revision {}; CACHED)".format(page_title, page_revision))
               logfd.flush()
@@ -611,6 +623,7 @@ for lang_arg in langs:
 
               process_text(content, lang)
               processed_pages_count += 1
+              
       except FileNotFoundError as error:
           sys.stderr.write('\nWARNING: No cached content files at {}?\n    {}\n'.format(cache_dir, error))
           pass
