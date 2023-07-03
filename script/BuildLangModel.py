@@ -56,6 +56,7 @@ import string
 import hmac
 import hashlib
 import base64
+import yaml
 
 
 # Custom modules.
@@ -367,8 +368,6 @@ for lang_arg in langs:
 
       next_titles = []
       
-      os.makedirs(cache_dir, exist_ok=True)
-      
       while len(titles) > 0:
           extra_titles = []
         
@@ -445,10 +444,20 @@ for lang_arg in langs:
               if debug: sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
 
               content = page.content
-
-              process_text(content, lang)
-              processed_pages_count += 1
-              store_content_in_cache(cache_dir, page.url, content)
+              
+              # Nuke LaTeX math lines as best we can.
+              #
+              # those come out as, for example:    
+              #   {\displaystyle {\tfrac {p+q}{2}}=50{\tfrac {1}{2}}}
+              content = re.sub(r'\{\s*\\displaystyle[^\n]*\}', ' ', content)
+              
+              # only count (and cache) non-empty pages against the configured page count maximum:
+              content = content.strip()
+              if (len(content) != 0):
+                  process_text(content, lang)
+                  processed_pages_count += 1
+                  store_content_in_cache(cache_dir, page.url, content, title, page.revision_id)
+                  
               if debug: sys.stderr.write('processing links [{}]\n'.format(page.links))
               try:
                 links = page.links
@@ -475,7 +484,7 @@ for lang_arg in langs:
           titles = next_titles
           next_titles = []
 
-  def store_content_in_cache(cache_dir, url, content):
+  def store_content_in_cache(cache_dir, url, content, title, revision_id):
       global debug
 
       # create **probably globally unique** hash for the given url:
@@ -489,7 +498,16 @@ for lang_arg in langs:
       if (len(content) > 0):
           if debug: sys.stderr.write('Cache content (size: {}) for URL {} -> filename: {}\n'.format(len(content), url, fpath))
           with open(fpath, mode='w', encoding='utf-8') as c_fd:
+              header = dict(
+                  title = title,
+                  url = url,
+                  revision = revision_id
+              )
+              c_fd.write(yaml.dump(header))
+              c_fd.write('\n\n---\n\n')
+              
               c_fd.write(content)
+              
               sys.stderr.write('_')
               sys.stderr.flush()
   
@@ -523,8 +541,21 @@ for lang_arg in langs:
               fpath = os.path.join(cache_dir, title)          
               with open(fpath, mode='r', encoding='utf-8') as cache_fd:
                   content = cache_fd.read()
+                  
+              # decode cache file header:
+              ch = content.split('\n---\n\n', maxsplit=1)
+              cheader = ch[0]
+              content = ch[1]
+              dct = yaml.safe_load(cheader)
 
-              if debug: sys.stderr.write("\ncache file: {} --> content size: {}\n".format(title, len(content)))
+              page_title = dct['title']
+              page_url = dct['url']
+              page_revision = dct['revision']
+                  
+              logfd.write("\n{} (revision {}; CACHED)".format(page_title, page_revision))
+              logfd.flush()
+
+              if debug: sys.stderr.write("\n{} (revision {}) -> {}; cached file: {}; content size: {}\n".format(page_title, page_revision, page_url, title, len(content)))
 
               process_text(content, lang)
               processed_pages_count += 1
@@ -549,6 +580,8 @@ for lang_arg in langs:
   sys.stderr.flush()
   try:
       cache_dir = current_dir + '/langs-content-cache/'+ lang_arg
+      os.makedirs(cache_dir, exist_ok=True)
+      
       visit_pages_cache(cache_dir, lang, logfd)
       visit_pages(cache_dir, lang.start_pages, 0, lang, logfd)
   except requests.exceptions.ConnectionError:
@@ -757,7 +790,7 @@ for lang_arg in langs:
                       # XXX: we must make sure the character order does not go
                       # over the special characters (250 currently). This may
                       # actually happen when building a model for a language
-                      # writable with many different encoding. So let's just
+                      # writable with many different encodings. So let's just
                       # ceil the order value at 249 max.
                       # It may be an interesting alternative to add another
                       # constant for any character with an order > freqCharCount.
@@ -836,9 +869,11 @@ for lang_arg in langs:
 
   for char, ratio, order in sorted_chars:
       if column % 8 == 0:
-          CTOM_str += '\n '
+          CTOM_str += '\n  '
+      else:
+          CTOM_str += ' '
       column += 1
-      CTOM_str += '{}{:>{width}}, '.format('' if column % 8 == 0 else ' ', char, width=max_char_width)
+      CTOM_str += '{:>{width}}, '.format(char, width=max_char_width)
       CTOM_str += '{:>{width}},'.format(order, width=max_order_width)
 
   CTOM_str += '\n};\n\n'
