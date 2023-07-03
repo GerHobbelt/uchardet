@@ -40,9 +40,12 @@ LANGUAGES =                 \
 		uk					\
 		vi
 
-all: $(LANGUAGES)
+all: all_languages
 
-.PHONY: $(LANGUAGES)
+# https://www.gnu.org/software/make/manual/html_node/Prerequisite-Types.html
+all_languages: | $(LANGUAGES)
+
+.PHONY: all all_languages  $(LANGUAGES)
 
 ar:
 	python ./BuildLangModel.py ar  
