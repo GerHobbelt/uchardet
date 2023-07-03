@@ -53,9 +53,6 @@ import re
 import os
 import random
 import string
-# https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python
-# --> pip3 install newspaper3k
-from newspaper import Article
 import hmac
 import hashlib
 import base64
@@ -446,12 +443,6 @@ for lang_arg in langs:
               html = page.html()
               content = page.content
               sys.stderr.write('Page content (size: {}) for {}:\n{}\nlinks: count: {}\nsections: [{}]\nhtml: (len: {})\ntitle: {}\n'.format(len(content), page.url, page, len(page.links), page.sections, len(html), page.title))
-              if (len(content) == 0):   # bug?!
-                article = Article('')
-                article.set_html(html)
-                article.parse()
-                content = article.text
-                sys.stderr.write('NEWSPAPER --> (size: {})\nNLP: {}\nsummary: {}\n'.format(len(content), article.nlp(), article.summary))
 
               process_text(content, lang)
               processed_pages_count += 1
