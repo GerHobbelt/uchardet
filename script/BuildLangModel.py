@@ -57,6 +57,7 @@ import hmac
 import hashlib
 import base64
 import yaml
+import bisect 
 
 
 # Custom modules.
@@ -257,6 +258,8 @@ for lang_arg in langs:
 
   visited_pages = []
   discarded_pages = []
+  marked_pages = []             # a SORTED array   , used to help speed up deduplication searches
+  marked_delta_pages = []       # an UNSORTED array, used to help speed up deduplication searches
   processed_pages_count = 0
 
   # The full list of letter characters.
@@ -370,6 +373,8 @@ for lang_arg in langs:
   def visit_pages(cache_dir, titles, depth, lang, logfd):
       global visited_pages
       global discarded_pages
+      global marked_pages
+      global marked_delta_pages
       global processed_pages_count
       global options
       global characters
@@ -379,6 +384,10 @@ for lang_arg in langs:
       titles = load_links_from_cache(cache_dir, titles)
 
       discarded_pages = load_discards_from_cache(cache_dir, discarded_pages)
+      
+      marked_delta_pages += visited_pages
+      marked_delta_pages += discarded_pages
+      update_marked_pages_search_index()
 
       next_titles = []
 
@@ -394,9 +403,11 @@ for lang_arg in langs:
           prev_discard_count = len(discarded_pages)
 
           for title in titles:
-              if title in visited_pages:
-                  continue
-              if title in discarded_pages:
+              #if title in visited_pages:
+              #    continue
+              #if title in discarded_pages:
+              #    continue
+              if is_lready_marked(title):
                   continue
 
               occurrences = sum(characters.values())
@@ -424,6 +435,7 @@ for lang_arg in langs:
               sys.stderr.write('.')
               sys.stderr.flush()
               visited_pages.append(title)
+              marked_delta_pages.append(title)
               try:
                   page = wikipedia.page(title, auto_suggest=True, preload=True)
               except (wikipedia.exceptions.PageError,
@@ -444,6 +456,7 @@ for lang_arg in langs:
                       suggestions = wikipedia.search(title)
                   except Exception as error:
                       discarded_pages.append(title)
+                      marked_delta_pages.append(title)
                       sys.stderr.write("\n(P1) Discarding page {} and failed to obtain suggestions: {}\n".format(title, error))
                       continue
 
@@ -451,6 +464,7 @@ for lang_arg in langs:
                   if not suggestions:
                       # Let's just discard a page when I get an exception.
                       discarded_pages.append(title)
+                      marked_delta_pages.append(title)
                       sys.stderr.write("\n(P2) Discarding page {}; no new suggestions: {}\n".format(title, error_msg))
                   else:
                       # filter the suggestions list so we don't inject duplicates
@@ -458,29 +472,36 @@ for lang_arg in langs:
                       for suggestion in suggestions:
                           if len(suggestion) == 0:
                               continue
-                          if suggestion in titles or \
-                             suggestion in sl or \
-                             suggestion in extra_titles or \
-                             suggestion in visited_pages or \
-                             suggestion in discarded_pages:
+                          if is_lready_marked(suggestion):
+                              continue
+                          if suggestion in sl or \
+                             suggestion in extra_titles:
+                              continue
+                          #if suggestion in visited_pages or \
+                          #   suggestion in discarded_pages:
+                          #    continue
+                          if suggestion in titles:
                               continue
                           sl.append(suggestion)
                       suggestions = sl
                       if not suggestions:
                           # Let's just discard a page when I get an exception.
                           discarded_pages.append(title)
+                          marked_delta_pages.append(title)
                           sys.stderr.write("\n(P3) Discarding page {}: {}\n".format(title, error_msg))
                       else:
                           random.shuffle(suggestions)
                           if len(suggestions) > max_titles:
                               suggestions = suggestions[:max_titles]
                           discarded_pages.append(title)
+                          marked_delta_pages.append(title)
                           sys.stderr.write("\n(P4) Discarding page {}: {}\n     ==> adding these suggestions instead: {}\n".format(title, error_msg, suggestions))
                           extra_titles += suggestions
                           store_links_in_cache(cache_dir, extra_titles)
                   continue
               except Exception as error:
                   discarded_pages.append(title)
+                  marked_delta_pages.append(title)
                   sys.stderr.write("\n(P5) Discarding page {}: {}\n".format(title, error))
                   continue
 
@@ -511,11 +532,15 @@ for lang_arg in langs:
                   for link in links:
                       if len(link) == 0:
                           continue
-                      if link in titles or \
-                         link in ll or \
-                         link in extra_titles or \
-                         link in visited_pages or \
-                         link in discarded_pages:
+                      #if link in visited_pages or \
+                      #   link in discarded_pages:
+                      #    continue
+                      if is_lready_marked(link):
+                          continue
+                      if link in ll or \
+                         link in extra_titles:
+                          continue
+                      if link in titles:
                           continue
                       ll.append(link)
                   links = ll
@@ -544,6 +569,65 @@ for lang_arg in langs:
           next_titles = []
 
       store_discards_in_cache(cache_dir, discarded_pages)
+
+
+  def update_marked_pages_search_index():
+      global marked_pages
+      global marked_delta_pages
+      global debug
+
+      titles = marked_delta_pages
+      titles.sort()
+      
+      # We assume marked_pages[] is already sorted: this is always true as this is the only place which edits that array!
+      #
+      # Also note that this code uses the fo/else a.k.a. while/else construct explicitly. Finally something I *like* about Python! :-) [GHo]
+      # https://stackoverflow.com/questions/9979970/why-does-python-use-else-after-for-and-while-loops
+      rv = marked_pages[:]
+      i = 0
+      j = 0
+      while i < len(marked_pages):
+          if j >= len(titles):
+              break   # done
+          title = titles[j]
+          t0 = marked_pages[i]
+          while t0 < title:
+              i += 1
+              if i >= len(marked_pages):
+                  break
+              t0 = marked_pages[i]
+
+          # when we get here, we're guaranteed to have t0 >= title or reached end of marked_pages[] hence *fictive* t0 > title
+          while t0 == title:
+              # skip/discard incoming duplicate(s) in titles[]:
+              j += 1
+              if j >= len(titles):
+                  break   # done
+              title = titles[j]
+          else:
+              # when we get here, we're guaranteed to NOT have run out of titles[] to add, i.e. we still have a title pending:
+              rv.append(title)
+      else:
+          # when we get here, we're guaranteed to NOT have run out of titles[] to add, i.e. we still have title(s) pending:
+          while j < len(titles):
+              title = titles[j]
+              rv.append(title)
+              j += 1
+      
+      rv.sort()
+      marked_pages = rv
+      marked_delta_pages = []
+
+  def is_lready_marked(item):
+      global marked_pages
+      global marked_delta_pages
+  
+      # Locate the leftmost value exactly equal to item
+      i = bisect.bisect_left(marked_pages, item)
+      if i != len(marked_pages) and marked_pages[i] == item:
+          return True
+          
+      return item in marked_delta_pages
 
   def store_content_in_cache(cache_dir, url, content, title, revision_id):
       global debug
@@ -667,6 +751,8 @@ for lang_arg in langs:
   def visit_pages_cache(cache_dir, lang, logfd):
       global visited_pages
       global discarded_pages
+      global marked_pages
+      global marked_delta_pages
       global processed_pages_count
       global options
       global characters
@@ -708,9 +794,10 @@ for lang_arg in langs:
               page_revision = dct['revision']
 
               # mark page as visited:
-              if page_title in visited_pages:
-                  continue
+              #if page_title in visited_pages:
+              #    continue
               visited_pages.append(page_title)
+              marked_delta_pages.append(title)
 
               logfd.write("\n{} (revision {}; CACHED)".format(page_title, page_revision))
               logfd.flush()
