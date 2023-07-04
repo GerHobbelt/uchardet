@@ -252,7 +252,7 @@ for lang_arg in langs:
   except Exception as error:
       sys.stderr.write("Skipped adding 30 random Wikipedia articles: {}\n".format(error))
       pass
-                  
+
   if debug: sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
 
   visited_pages = []
@@ -381,10 +381,10 @@ for lang_arg in langs:
       discarded_pages = load_discards_from_cache(cache_dir, discarded_pages)
 
       next_titles = []
-      
+
       while len(titles) > 0:
           extra_titles = []
-        
+
           if options.max_page is not None:
               max_titles = int(options.max_page/(options.max_depth * options.max_depth))
           else:
@@ -392,13 +392,13 @@ for lang_arg in langs:
 
           store_links_in_cache(cache_dir, titles)
           prev_discard_count = len(discarded_pages)
-              
+
           for title in titles:
               if title in visited_pages:
                   continue
               if title in discarded_pages:
                   continue
-                  
+
               occurrences = sum(characters.values())
               if occurrences > options.max_chars:
                   if debug: sys.stderr.write('Stop criterium: occurrences > options.max_chars: {} > {}\n'.format(occurrences, options.max_chars))
@@ -434,7 +434,7 @@ for lang_arg in langs:
                   if 'may refer to:' in error_msg:
                       sl = error_msg.strip().splitlines()
                       # ditch the initial error line:
-                      if not debug: 
+                      if not debug:
                           error_msg = sl.pop(0) + ' [...]'
                       else:
                           sl.pop(0)
@@ -446,7 +446,7 @@ for lang_arg in langs:
                       discarded_pages.append(title)
                       sys.stderr.write("\n(P1) Discarding page {} and failed to obtain suggestions: {}\n".format(title, error))
                       continue
-                      
+
                   suggestions = [] + suggestions + sl
                   if not suggestions:
                       # Let's just discard a page when I get an exception.
@@ -483,26 +483,26 @@ for lang_arg in langs:
                   discarded_pages.append(title)
                   sys.stderr.write("\n(P5) Discarding page {}: {}\n".format(title, error))
                   continue
-                  
+
               logfd.write("\n{} (revision {})".format(title, page.revision_id))
               logfd.flush()
 
               if debug: sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
 
               content = page.content.strip()
-              
+
               # Nuke LaTeX math lines as best we can.
               #
-              # those come out as, for example:    
+              # those come out as, for example:
               #   {\displaystyle {\tfrac {p+q}{2}}=50{\tfrac {1}{2}}}
               content = re.sub(r'\{\s*\\displaystyle[^\n]*\}', ' ', content)
-              
+
               # only count (and cache) non-empty pages against the configured page count maximum:
               if (len(content) != 0):
                   process_text(content, lang)
                   processed_pages_count += 1
                   store_content_in_cache(cache_dir, page.url, content, title, page.revision_id)
-                  
+
               if debug: sys.stderr.write('processing links [{}]\n'.format(page.links))
               try:
                   links = page.links
@@ -527,7 +527,7 @@ for lang_arg in langs:
               except KeyError as error:
                   if debug: sys.stderr.write('links append error: {}\n'.format(error))
                   pass
-                  
+
           # all titles have been consumed. Now check if here's any extras, and if not not, then descend into the next depth level of links:
           random.shuffle(extra_titles)
           titles = extra_titles
@@ -554,7 +554,7 @@ for lang_arg in langs:
       unique_fname = hashstr.replace('=', '')
       unique_fname = re.sub(r'[^a-zA-Z0-9_-]+', '', unique_fname)
       unique_fname = unique_fname[-50:] + '.content.txt'
-      
+
       fpath = os.path.join(cache_dir, unique_fname)
       if (len(content) > 0):
           if debug: sys.stderr.write('Cache content (size: {}) for URL {} -> filename: {}\n'.format(len(content), url, fpath))
@@ -566,9 +566,9 @@ for lang_arg in langs:
               )
               c_fd.write(yaml.dump(header))
               c_fd.write('\n\n---\n\n')
-              
+
               c_fd.write(content)
-              
+
               sys.stderr.write('_')
               sys.stderr.flush()
 
@@ -576,22 +576,26 @@ for lang_arg in langs:
       global debug
 
       if (len(links) > 0):
-          cached_set = load_links_from_cache(cache_dir, [])
+          cached_set = []              # load_links_from_cache(cache_dir, [])
+          links = links[:]
+          links.sort()
 
+          prev_title = ''
           for title in links:
               title = title.strip()
               if len(title) == 0:
                   continue
-              if title in cached_set:
+              if title == prev_title:
                   continue
               cached_set.append(title)
+              prev_title = title
 
           fpath = os.path.join(cache_dir, 'links.txt')
-          with open(fpath, mode='w', encoding='utf-8') as c_fd:
+          with open(fpath, mode='a', encoding='utf-8') as c_fd:
               c_fd.write("\n")
               c_fd.write("\n".join(cached_set))
               c_fd.write("\n")
-  
+
   def load_links_from_cache(cache_dir, titles):
       global debug
 
@@ -599,38 +603,45 @@ for lang_arg in langs:
       if os.path.isfile(fpath):
           with open(fpath, mode='r', encoding='utf-8') as c_fd:
               content = c_fd.read()
-              
-          lines = content.strip().splitlines()
 
+          lines = content.strip().splitlines()
+          lines.sort()
+
+          prev_title = ''
           for title in lines:
               if len(title) == 0:
                   continue
-              if title in titles:
+              if title == prev_title:
                   continue
               titles.append(title)
-          
+              prev_title = title
+
       return titles
 
   def store_discards_in_cache(cache_dir, discarded_pages):
       global debug
 
       if (len(discarded_pages) > 0):
-          cached_set = load_discards_from_cache(cache_dir, [])
+          cached_set = []      # load_discards_from_cache(cache_dir, [])
+          discarded_pages = discarded_pages[:]
+          discarded_pages.sort()
 
+          prev_title = ''
           for title in discarded_pages:
               title = title.strip()
               if len(title) == 0:
                   continue
-              if title in cached_set:
+              if title == prev_title:
                   continue
               cached_set.append(title)
+              prev_title = title
 
           fpath = os.path.join(cache_dir, 'discards.txt')
-          with open(fpath, mode='w', encoding='utf-8') as c_fd:
+          with open(fpath, mode='a', encoding='utf-8') as c_fd:
               c_fd.write("\n")
               c_fd.write("\n".join(cached_set))
               c_fd.write("\n")
-  
+
   def load_discards_from_cache(cache_dir, titles):
       global debug
 
@@ -638,18 +649,21 @@ for lang_arg in langs:
       if os.path.isfile(fpath):
           with open(fpath, mode='r', encoding='utf-8') as c_fd:
               content = c_fd.read()
-              
-          lines = content.strip().splitlines()
 
+          lines = content.strip().splitlines()
+          lines.sort()
+
+          prev_title = ''
           for title in lines:
               if len(title) == 0:
                   continue
-              if title in titles:
+              if title == prev_title:
                   continue
               titles.append(title)
-          
+              prev_title = title
+
       return titles
-    
+
   def visit_pages_cache(cache_dir, lang, logfd):
       global visited_pages
       global discarded_pages
@@ -662,7 +676,7 @@ for lang_arg in langs:
       try:
           cachefiles = [f for f in os.listdir(cache_dir) if os.path.isfile(os.path.join(cache_dir, f)) and ('.content.txt' in f)]
           # sys.stderr.write('Cache file list: {}\n'.format(cachefiles))
-      
+
           for title in cachefiles:
               occurrences = sum(characters.values())
               #if occurrences > options.max_chars:
@@ -679,10 +693,10 @@ for lang_arg in langs:
               sys.stderr.write('+')
               sys.stderr.flush()
 
-              fpath = os.path.join(cache_dir, title)          
+              fpath = os.path.join(cache_dir, title)
               with open(fpath, mode='r', encoding='utf-8') as cache_fd:
                   content = cache_fd.read()
-                  
+
               # decode cache file header:
               ch = content.split('\n---\n\n', maxsplit=1)
               cheader = ch[0]
@@ -697,7 +711,7 @@ for lang_arg in langs:
               if page_title in visited_pages:
                   continue
               visited_pages.append(page_title)
-                  
+
               logfd.write("\n{} (revision {}; CACHED)".format(page_title, page_revision))
               logfd.flush()
 
@@ -707,7 +721,7 @@ for lang_arg in langs:
               if (len(content) != 0):
                   process_text(content, lang)
                   processed_pages_count += 1
-              
+
       except FileNotFoundError as error:
           sys.stderr.write('\nWARNING: No cached content files at {}?\n    {}\n'.format(cache_dir, error))
           pass
@@ -730,7 +744,7 @@ for lang_arg in langs:
   try:
       cache_dir = current_dir + '/langs-content-cache/'+ lang_arg
       os.makedirs(cache_dir, exist_ok=True)
-      
+
       visit_pages_cache(cache_dir, lang, logfd)
       visit_pages(cache_dir, lang.start_pages, 0, lang, logfd)
   except requests.exceptions.ConnectionError:
@@ -1119,13 +1133,13 @@ for lang_arg in langs:
       line_width = (freq_count + 2) / 3
   if line_width > 40:
       line_width = 40
-  
+
   if freq_count < 100:
-      LM_str = 'static const PRUint8 {}LangModel[]'.format(language_c) 
+      LM_str = 'static const PRUint8 {}LangModel[]'.format(language_c)
       LM_str += ' =\n{'
       for line in range(0, freq_count):
           LM_str += '\n  '
-          
+
           for column in range(0, freq_count):
               # Let's not make too long lines.
               if freq_count > 40 and column > 0 and column < freq_count - 5 and column % line_width == 0:
@@ -1159,10 +1173,10 @@ for lang_arg in langs:
   else:
       FC_str = 'static const PRUint8 {}FrequentCharMapping[]'.format(language_c)
       FC_str += ' =\n{'
-      
+
       flimit = 128
       cmap = very_frequent_characters[:flimit-1]
-      
+
       lo_c = 1000000000
       hi_c = 0
       for char in cmap:
@@ -1170,13 +1184,13 @@ for lang_arg in langs:
               hi_c = char
           if char < lo_c:
               lo_c = char
-      
+
       count = 0
       for char in range(lo_c, hi_c + 1):
           count += 1
           if count % 20 == 0:
               FC_str += '\n  '
-              
+
           if char in cmap:
               FC_str += "{},".format(cmap.index(char) + 1)
           else:
@@ -1184,11 +1198,11 @@ for lang_arg in langs:
 
       FC_str += '\n};\n'
       c_code += FC_str
-          
+
       c_code += '\n\n#define {}FCMLowerBound  {}\n'.format(language_c, lo_c)
       c_code += '#define {}FCMUpperBound  {}\n\n\n'.format(language_c, hi_c)
-          
-      LM_str = 'static const PRUint8 {}CompactedLangModel[]'.format(language_c) 
+
+      LM_str = 'static const PRUint8 {}CompactedLangModel[]'.format(language_c)
       LM_str += ' =\n{'
 
       # first row:
@@ -1217,7 +1231,7 @@ for lang_arg in langs:
           # catch-all for all the infrequent second_chars:
           LM_str += '0,'
           count = 1
-          
+
           for second_char in cmap:
               if (first_char, second_char) in sequences:
                   for order, (seq, _) in enumerate(sorted_seqs):
@@ -1234,7 +1248,7 @@ for lang_arg in langs:
                       LM_str += '0,'
               else:
                   LM_str += '0,'
-          
+
               # Let's not make too long lines.
               count += 1
               if count % line_width == 0:
