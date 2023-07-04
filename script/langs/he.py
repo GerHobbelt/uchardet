@@ -49,7 +49,7 @@ name = 'Hebrew'
 code = 'he'
 use_ascii = False
 # The charsets we want to support and create data for.
-charsets = ['ISO-8859-8', 'WINDOWS-1255']
+charsets = ['ISO-8859-8', 'WINDOWS-1255', 'IBM862']
 
 ## Optional Properties ##
 

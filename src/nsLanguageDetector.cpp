@@ -37,6 +37,7 @@
  *
  * ***** END LICENSE BLOCK ***** */
 
+#include <math.h>
 #include "nsLanguageDetector.h"
 
 nsDetectState nsLanguageDetector::HandleData(const int* codePoints, PRUint32 cpLen)
@@ -164,6 +165,11 @@ nsDetectState nsLanguageDetector::HandleData(const int* codePoints, PRUint32 cpL
         /* Adding a non frequent sequence. */
         mTotalSeqs++;
       }
+
+      if (order < mModel->veryFreqCharCount)
+        mVeryFreqChar++;
+      if (order > mModel->lowFreqOrder)
+        mLowFreqChar++;
     }
     mLastOrder = order;
   }
@@ -193,6 +199,8 @@ void nsLanguageDetector::Reset(void)
   //mEmoticons  = 0;
   //mVariousBetween  = 0;
   mFreqChar  = 0;
+  mVeryFreqChar = 0;
+  mLowFreqChar  = 0;
   mOutChar   = 0;
 }
 
@@ -221,6 +229,11 @@ float nsLanguageDetector::GetConfidence(void)
      */
     r = r * (mTotalChar - mOutChar) / mTotalChar;
     r = r * mFreqChar / (mFreqChar + mOutChar);
+
+    /* How similar are the very frequent character ratio. */
+    r = r * (1.0 - fabs((float) mVeryFreqChar / mFreqChar - mModel->veryFreqRatio) / 4.0);
+    /* How similar are the very rare character ratio. */
+    r = r * (1.0 - fabs((float) mLowFreqChar / mFreqChar - mModel->lowFreqRatio) / 4.0);
 
     return r;
   }

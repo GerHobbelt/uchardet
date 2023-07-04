@@ -8,7 +8,9 @@ set(
 	CharDistribution.cpp
 	JpCntx.cpp
 	LangModels/LangArabicModel.cpp
+	LangModels/LangBelarusianModel.cpp
 	LangModels/LangBulgarianModel.cpp
+	LangModels/LangCatalanModel.cpp
     LangModels/LangCroatianModel.cpp
     LangModels/LangCzechModel.cpp
     LangModels/LangEnglishModel.cpp
@@ -18,6 +20,7 @@ set(
 	LangModels/LangFrenchModel.cpp
 	LangModels/LangDanishModel.cpp
 	LangModels/LangGermanModel.cpp
+	LangModels/LangGeorgianModel.cpp
 	LangModels/LangGreekModel.cpp
 	LangModels/LangHungarianModel.cpp
 	LangModels/LangHebrewModel.cpp
@@ -26,18 +29,22 @@ set(
 	LangModels/LangItalianModel.cpp
     LangModels/LangLithuanianModel.cpp
     LangModels/LangLatvianModel.cpp
+    LangModels/LangMacedonianModel.cpp
     LangModels/LangMalteseModel.cpp
     LangModels/LangPolishModel.cpp
     LangModels/LangPortugueseModel.cpp
 	LangModels/LangRomanianModel.cpp
 	LangModels/LangRussianModel.cpp
+	LangModels/LangSerbianModel.cpp
 	LangModels/LangSlovakModel.cpp
     LangModels/LangSloveneModel.cpp
     LangModels/LangSwedishModel.cpp
 	LangModels/LangSpanishModel.cpp
 	LangModels/LangThaiModel.cpp
 	LangModels/LangTurkishModel.cpp
+	LangModels/LangUkrainianModel.cpp
 	LangModels/LangVietnameseModel.cpp
+	LangModels/LangNorwegianModel.cpp
 	nsHebrewProber.cpp
 	nsCharSetProber.cpp
 	nsBig5Prober.cpp

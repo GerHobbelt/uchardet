@@ -17,10 +17,20 @@ uchardet started as a C language binding of the original C++ implementation of t
     * UTF-8
     * ISO-8859-6
     * WINDOWS-1256
-  * Bulgarian
+  * Belarusian
+    * UTF-8
     * ISO-8859-5
     * WINDOWS-1251
+  * Bulgarian
+    * UTF-8
+    * ISO-8859-5
+    * WINDOWS-1251
+  * Catalan
+    * UTF-8
+    * ISO-8859-1
+    * WINDOWS-1252
   * Chinese
+    * UTF-8
     * ISO-2022-CN
     * BIG5
     * EUC-TW
@@ -42,10 +52,12 @@ uchardet started as a C language binding of the original C++ implementation of t
     * MAC-CENTRALEUROPE
   * Danish
     * UTF-8
+    * IBM865
     * ISO-8859-1
     * ISO-8859-15
     * WINDOWS-1252
   * English
+    * UTF-8
     * ASCII
   * Esperanto
     * UTF-8
@@ -74,14 +86,20 @@ uchardet started as a C language binding of the original C++ implementation of t
     * UTF-8
     * ISO-8859-1
     * WINDOWS-1252
+  * Georgian
+    * UTF-8
+    * GEORGIAN-ACADEMY
+    * GEORGIAN-PS
   * Greek
     * UTF-8
     * ISO-8859-7
     * WINDOWS-1253
+    * CP737
   * Hebrew
     * UTF-8
     * ISO-8859-8
     * WINDOWS-1255
+    * IBM862
   * Hindi
     * UTF-8
   * Hungarian:
@@ -102,6 +120,7 @@ uchardet started as a C language binding of the original C++ implementation of t
     * ISO-8859-15
     * WINDOWS-1252
   * Japanese
+    * UTF-8
     * ISO-2022-JP
     * SHIFT_JIS
     * EUC-JP
@@ -123,6 +142,17 @@ uchardet started as a C language binding of the original C++ implementation of t
   * Maltese
     * UTF-8
     * ISO-8859-3
+  * Macedonian
+    * UTF-8
+    * ISO-8859-5
+    * WINDOWS-1251
+    * IBM855
+  * Norwegian
+    * UTF-8
+    * IBM865
+    * ISO-8859-1
+    * ISO-8859-15
+    * WINDOWS-1252
   * Polish:
     * UTF-8
     * ISO-8859-2
@@ -144,12 +174,17 @@ uchardet started as a C language binding of the original C++ implementation of t
     * Windows-1250
     * IBM852
   * Russian
+    * UTF-8
     * ISO-8859-5
     * KOI8-R
     * WINDOWS-1251
     * MAC-CYRILLIC
     * IBM866
     * IBM855
+  * Serbian
+    * UTF-8
+    * ISO-8859-5
+    * WINDOWS-1251
   * Slovak
     * UTF-8
     * Windows-1250
@@ -183,6 +218,9 @@ uchardet started as a C language binding of the original C++ implementation of t
     * UTF-8
     * ISO-8859-3
     * ISO-8859-9
+  * Ukrainian:
+    * UTF-8
+    * WINDOWS-1251
   * Vietnamese:
     * UTF-8
     * VISCII
@@ -211,7 +249,7 @@ uchardet started as a C language binding of the original C++ implementation of t
 ### Mac
 
     brew install uchardet
-  
+
   or
 
     port install uchardet
@@ -266,6 +304,31 @@ Here is a working "module" section to include in your Flatpak's json manifest:
 ]
 ```
 
+### Build with CMake exported targets
+
+uchardet installs a standard pkg-config file which will make it easily
+discoverable by any modern build system. Nevertheless if your project also uses
+CMake and you want to discover uchardet installation using CMake exported
+targets, you may find and link uchardet with:
+
+```
+project(sample LANGUAGES C)
+find_package ( uchardet )
+if (uchardet_FOUND)
+  add_executable( sample sample.c )
+  target_link_libraries ( sample PRIVATE uchardet::libuchardet )
+endif ()
+```
+
+Note though that we recommend the library discovery with `pkg-config` because it
+is standard and generic. Therefore it will always work, even if we decided to
+change our own build system (which is not planned right now, but may always
+happen). This is why we advise to use standard `pkg-config` discovery.
+
+Some more CMake specificities may be found in the [commit
+message](https://gitlab.freedesktop.org/uchardet/uchardet/-/commit/d7dad549bd5a3442b92e861bcd2c5cda2adeea27)
+which implemented such support.
+
 ## Usage
 
 ### Command Line
@@ -308,8 +371,8 @@ implementation, yet the base concept is still the same, basing detection
 not just on encoding rules, but most importantly on analysis of
 character statistics in languages.
 
-Original code by Mozilla does not seem to be found anymore anywhere, but
-it's probably not too far from the initial commit of this repository.
+Original code of `universalchardet` by Mozilla can still be retrieved from the
+[Wayback machine](https://web.archive.org/web/20150730144356/http://lxr.mozilla.org/seamonkey/source/extensions/universalchardet/).
 
 1. Mozilla code was extracted and packaged into a standalone library under
    the name `uchardet` by BYVoid in 2011, in a personal repository.

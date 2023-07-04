@@ -63,9 +63,11 @@ detect(FILE *fp,
     char        buffer[BUFFER_SIZE];
     int         i;
 
-    while (!feof(fp))
+    while (1)
     {
         size_t len = fread(buffer, 1, BUFFER_SIZE, fp);
+        if (len == 0)
+            break;
         int retval = uchardet_handle_data(handle, buffer, len);
         if (retval != 0)
         {
@@ -92,7 +94,7 @@ detect(FILE *fp,
         *lang == NULL                           ||
         strcmp(expected_lang, *lang) != 0)
     {
-        size_t n_candidates = uchardet_get_candidates(handle);
+        size_t n_candidates = uchardet_get_n_candidates(handle);
 
         *expected_confidence = 0.0f;
         *expected_candidate = SIZE_MAX;
