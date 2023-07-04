@@ -49,6 +49,16 @@ charsets = [ 'GEORGIAN-ACADEMY', 'GEORGIAN-PS' ]
 
 ## Optional Properties ##
 
+# See also https://github.com/python/cpython/issues/63658
+#
+# Without this unicode range spec every character is deferred through an external 
+# `iconv` call, slowing down the BuildModel code tremendously!
+#
+unicode_ranges = [(0xE6, 0xF6),     # Latin small letter with XXX
+                  (0xF8, 0xFF),     # Latin small letter with XXX
+                  (0x10D0, 0x10F5), # Georgian
+                 ]
+
 # Alphabet characters.
 alphabet = 'აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰ'
 # A starred page which was rewarded on the main page when I created

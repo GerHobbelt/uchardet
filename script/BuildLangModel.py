@@ -52,10 +52,24 @@ import sys
 import re
 import os
 import random
+import string
+import hmac
+import hashlib
+import base64
+import yaml
+
 
 # Custom modules.
 import charsets.db
 from charsets.codepoints import *
+
+# set to `True` when you want to see verbose (debugging) output while running this script:
+debug = False
+
+# fix error as per https://bobbyhadz.com/blog/python-unicodeencodeerror-charmap-codec-cant-encode-characters-in-position
+sys.stdin.reconfigure(encoding='utf-8')
+sys.stdout.reconfigure(encoding='utf-8')
+sys.stderr.reconfigure(encoding='utf-8')
 
 # Command line processing.
 usage = 'Usage: {} <LANG-CODE>\n' \
@@ -66,10 +80,13 @@ cmdline = optparse.OptionParser(usage, description = description)
 cmdline.add_option('--max-page',
                    help = 'Maximum number of Wikipedia pages to parse (useful for debugging).',
                    action = 'store', type = 'int', dest = 'max_page', default = None)
+cmdline.add_option('--max-chars',
+                   help = 'Maximum number of characters to process. (default: 3000000)',
+                   action = 'store', type = 'int', dest = 'max_chars', default = 4000000)
 cmdline.add_option('--max-depth',
-                   help = 'Maximum depth when following links from start page (default: 2).',
+                   help = 'Maximum depth when following links from start page (default: 4).',
                    action = 'store', type = 'int',
-                   dest = 'max_depth', default = 2)
+                   dest = 'max_depth', default = 4)
 (options, langs) = cmdline.parse_args()
 if len(langs) < 1:
   sys.stderr.write("Please select at least one language code. ")
@@ -78,7 +95,7 @@ if len(langs) < 1:
 
 current_dir = os.path.dirname(os.path.realpath(__file__))
 
-with open(os.path.join(current_dir, "support.txt")) as f:
+with open(os.path.join(current_dir, "support.txt"), mode='r', encoding='utf-8') as f:
     all_langs = f.readlines()
 all_langs = [ l.strip() for l in all_langs if l.strip() != '' ]
 
@@ -109,7 +126,7 @@ for lang_arg in langs:
       lang = importlib.import_module(lang_arg)
   except ImportError:
       sys.stderr.write('Unknown language code "{}": '
-                       'file "langs/{}.py" does not exist.'.format(lang_arg, lang_arg))
+                       'file "langs/{}.py" does not exist.\n'.format(lang_arg, lang_arg))
       exit(1)
   sys.path = sys_path_backup
 
@@ -124,8 +141,10 @@ for lang_arg in langs:
       # to a relevant page.
       sys.stderr.write("Warning: no `start_pages` set for '{}'. Using ['Main_Page'].\n"
                        "         If you don't get good data, it is advised to set a "
-                       "start_pages` variable yourself.".format(lang.code))
+                       "start_pages` variable yourself.\n".format(lang.code))
       lang.start_pages = ['Main_Page']
+  lang.start_pages += ['Phonetics', 'Linguistics', 'Alphabet', 'Language', 'Spelling', 'Pratchett', 'Satire', 'Grammar', 'History', 'Folklore', 'Biology', 'Flower', 'Plant', 'Animal', 'Human', 'computer', 'Robot', 'Technology', 'Communication', 'Writing', 'Video Game', 'Music', 'Glass', 'Bread', 'Food', 'Politics', 'Earth', 'Ocean', 'Amazon', 'Chaplin', 'Aguilera', 'Morse Code', 'Streptococcus', 'Virus', 'Bacteria', 'Bird', 'Submarine', 'Steel', 'Chemistry', 'Military', 'Weather', 'Scholar', 'Supernova', 'Olympiad', 'Rogyapas', 'Agincourt', 'Caesar', 'Ada Lovelace', 'Ip Man', 'Marie Louise of Bourbon-Parma', 'Sumeria', 'Botai', 'Calendar', 'Clytemnestra', 'Baba Yaga', 'transistor', 'diode']
+
   if not hasattr(lang, 'wikipedia_code') or lang.wikipedia_code is None:
       lang.wikipedia_code = lang.code
   if not hasattr(lang, 'clean_wikipedia_content') or lang.clean_wikipedia_content is None:
@@ -227,7 +246,18 @@ for lang_arg in langs:
   # Starting processing.
   wikipedia.set_lang(lang.wikipedia_code)
 
+  try:
+      rndlist = wikipedia.random(pages=30)
+      lang.start_pages += rndlist
+  except Exception as error:
+      sys.stderr.write("Skipped adding 30 random Wikipedia articles: {}\n".format(error))
+      pass
+                  
+  if debug: sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
+
   visited_pages = []
+  discarded_pages = []
+  processed_pages_count = 0
 
   # The full list of letter characters.
   # The key is the unicode codepoint,
@@ -244,6 +274,8 @@ for lang_arg in langs:
       global characters
       global sequences
       global prev_char
+
+      content = unicodedata.normalize('NFC', content)
 
       if lang.clean_wikipedia_content is not None:
           content = lang.clean_wikipedia_content(content)
@@ -270,6 +302,12 @@ for lang_arg in langs:
           if unicode_value in characters:
               characters[unicode_value] += 1
               is_letter = True
+          elif lang.use_ascii and \
+               (unicode_value >= 32 and unicode_value < 127):
+              if ((unicode_value >= 65 and unicode_value <= 90) or \
+                  (unicode_value >= 97 and unicode_value <= 122)):
+                  characters[unicode_value] = 1
+                  is_letter = True
           elif lang.unicode_ranges is not None:
               for start, end in lang.unicode_ranges:
                 if unicode_value >= start and unicode_value <= end:
@@ -284,19 +322,29 @@ for lang_arg in langs:
                   try:
                       codepoint = char.encode(charset, 'ignore')
                   except LookupError:
-                      # unknown encoding. Use iconv from command line instead.
-                      try:
-                          call = subprocess.Popen(['iconv', '-f', 'UTF-8', '-t', charset],
-                                                  stdin=subprocess.PIPE, stdout=subprocess.PIPE,
-                                                  stderr=subprocess.DEVNULL)
-                          if call.poll() is not None:
-                              (_, error) = call.communicate(input='')
-                              sys.stderr.write('Error: `iconv` ended with error "{}".\n'.format(error))
+                      # unknown encoding. Check the ASCII base range first to prevent executing a costly iconv call whenever we can:
+                      if (unicode_value >= 32 and unicode_value < 127):
+                          if ((unicode_value >= 65 and unicode_value <= 90) or \
+                              (unicode_value >= 97 and unicode_value <= 122)):
+                              characters[unicode_value] = 1
+                              is_letter = True
+                          break
+                      else:
+                          # unknown encoding. Use iconv from command line instead.
+                          if debug: sys.stderr.write("ICONV::CHAR: {}, {}, [{}], {}\n".format(char, ord(char), charset, lang.name))
+                          try:
+                              call = subprocess.Popen(['iconv', '-f', 'UTF-8', '-t', charset],
+                                                      stdin=subprocess.PIPE, stdout=subprocess.PIPE,
+                                                      stderr=subprocess.DEVNULL)
+                              if call.poll() is not None:
+                                  (_, error) = call.communicate(input='')
+                                  sys.stderr.write('Error: `iconv` ended with error "{}".\n'.format(error))
+                                  exit(1)
+                              (codepoint, _) = call.communicate(input=char.encode('UTF-8'))
+                              if debug: sys.stderr.write('iconv :: lang.use_ascii = [{}], [{}], "{}", {}, charset = {} ==> codepoint = [{}]\n'.format(lang.use_ascii, char.encode('UTF-8'), char, ord(char), charset, codepoint))
+                          except FileNotFoundError:
+                              sys.stderr.write('Error: "{}" is not a supported charset by python and `iconv` is not installed.\n')
                               exit(1)
-                          (codepoint, _) = call.communicate(input=char.encode('UTF-8'))
-                      except FileNotFoundError:
-                          sys.stderr.write('Error: "{}" is not a supported charset by python and `iconv` is not installed.\n')
-                          exit(1)
 
                   if codepoint == b'':
                       continue
@@ -319,76 +367,382 @@ for lang_arg in langs:
           else:
               prev_char = None
 
-  def visit_pages(titles, depth, lang, logfd):
+  def visit_pages(cache_dir, titles, depth, lang, logfd):
       global visited_pages
+      global discarded_pages
+      global processed_pages_count
       global options
+      global characters
+      global debug
 
-      if len(titles) == 0:
-          return
+      # append the titles from cache before we start:
+      titles = load_links_from_cache(cache_dir, titles)
+
+      discarded_pages = load_discards_from_cache(cache_dir, discarded_pages)
 
       next_titles = []
-      if options.max_page is not None:
-        max_titles = int(options.max_page/(options.max_depth * options.max_depth))
-      else:
-        max_titles = sys.maxsize
-      for title in titles:
-          if options.max_page is not None and \
-             len(visited_pages) > options.max_page:
+      
+      while len(titles) > 0:
+          extra_titles = []
+        
+          if options.max_page is not None:
+              max_titles = int(options.max_page/(options.max_depth * options.max_depth))
+          else:
+              max_titles = sys.maxsize
+
+          store_links_in_cache(cache_dir, titles)
+          prev_discard_count = len(discarded_pages)
+              
+          for title in titles:
+              if title in visited_pages:
+                  continue
+              if title in discarded_pages:
+                  continue
+                  
+              occurrences = sum(characters.values())
+              if occurrences > options.max_chars:
+                  if debug: sys.stderr.write('Stop criterium: occurrences > options.max_chars: {} > {}\n'.format(occurrences, options.max_chars))
+                  return
+
+              if debug: sys.stderr.write('Max occurrences check: {} vs. {} ==> continue consuming pages until we\'ve consumed enough characters. ({}/{} + {} + {} more titles to fetch at depth {})\n'.format(occurrences, options.max_chars, len(titles) - titles.index(title), len(titles), len(extra_titles), (0 if (depth >= options.max_depth) else len(next_titles)), depth))
+
+              if options.max_page is not None and \
+                 processed_pages_count > options.max_page:
+                  if debug: sys.stderr.write('Stop criterium: processed_pages_count > options.max_page: {} > {}\n'.format(processed_pages_count, options.max_page))
+                  return
+
+              # Ugly hack skipping internal pages
+              if 'wiki' in title or 'Wiki' in title or 'extlinks' in title:
+                  sys.stderr.write('Skipping internal page: {}\n'.format(title))
+                  continue
+
+              discard_count = len(discarded_pages)
+              if discard_count >= prev_discard_count + 10:
+                  prev_discard_count = discard_count
+                  store_discards_in_cache(cache_dir, discarded_pages)
+
+              sys.stderr.write('.')
+              sys.stderr.flush()
+              visited_pages.append(title)
+              try:
+                  page = wikipedia.page(title, auto_suggest=True, preload=True)
+              except (wikipedia.exceptions.PageError,
+                      wikipedia.exceptions.DisambiguationError) as error:
+                  # extract the suggestions from the error message, iff any:
+                  sl = []
+                  error_msg = "{}".format(error)
+                  if 'may refer to:' in error_msg:
+                      sl = error_msg.strip().splitlines()
+                      # ditch the initial error line:
+                      if not debug: 
+                          error_msg = sl.pop(0) + ' [...]'
+                      else:
+                          sl.pop(0)
+
+                  # also query wikipedia for (additional) suggestions:
+                  try:
+                      suggestions = wikipedia.search(title)
+                  except Exception as error:
+                      discarded_pages.append(title)
+                      sys.stderr.write("\n(P1) Discarding page {} and failed to obtain suggestions: {}\n".format(title, error))
+                      continue
+                      
+                  suggestions = [] + suggestions + sl
+                  if not suggestions:
+                      # Let's just discard a page when I get an exception.
+                      discarded_pages.append(title)
+                      sys.stderr.write("\n(P2) Discarding page {}; no new suggestions: {}\n".format(title, error_msg))
+                  else:
+                      # filter the suggestions list so we don't inject duplicates
+                      sl = []
+                      for suggestion in suggestions:
+                          if len(suggestion) == 0:
+                              continue
+                          if suggestion in titles or \
+                             suggestion in sl or \
+                             suggestion in extra_titles or \
+                             suggestion in visited_pages or \
+                             suggestion in discarded_pages:
+                              continue
+                          sl.append(suggestion)
+                      suggestions = sl
+                      if not suggestions:
+                          # Let's just discard a page when I get an exception.
+                          discarded_pages.append(title)
+                          sys.stderr.write("\n(P3) Discarding page {}: {}\n".format(title, error_msg))
+                      else:
+                          random.shuffle(suggestions)
+                          if len(suggestions) > max_titles:
+                              suggestions = suggestions[:max_titles]
+                          discarded_pages.append(title)
+                          sys.stderr.write("\n(P4) Discarding page {}: {}\n     ==> adding these suggestions instead: {}\n".format(title, error_msg, suggestions))
+                          extra_titles += suggestions
+                          store_links_in_cache(cache_dir, extra_titles)
+                  continue
+              except Exception as error:
+                  discarded_pages.append(title)
+                  sys.stderr.write("\n(P5) Discarding page {}: {}\n".format(title, error))
+                  continue
+                  
+              logfd.write("\n{} (revision {})".format(title, page.revision_id))
+              logfd.flush()
+
+              if debug: sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
+
+              content = page.content.strip()
+              
+              # Nuke LaTeX math lines as best we can.
+              #
+              # those come out as, for example:    
+              #   {\displaystyle {\tfrac {p+q}{2}}=50{\tfrac {1}{2}}}
+              content = re.sub(r'\{\s*\\displaystyle[^\n]*\}', ' ', content)
+              
+              # only count (and cache) non-empty pages against the configured page count maximum:
+              if (len(content) != 0):
+                  process_text(content, lang)
+                  processed_pages_count += 1
+                  store_content_in_cache(cache_dir, page.url, content, title, page.revision_id)
+                  
+              if debug: sys.stderr.write('processing links [{}]\n'.format(page.links))
+              try:
+                  links = page.links
+                  # filter the links[] list so we don't inject duplicates
+                  ll = []
+                  for link in links:
+                      if len(link) == 0:
+                          continue
+                      if link in titles or \
+                         link in ll or \
+                         link in extra_titles or \
+                         link in visited_pages or \
+                         link in discarded_pages:
+                          continue
+                      ll.append(link)
+                  links = ll
+                  random.shuffle(links)
+                  if len(links) > max_titles:
+                      links = links[:max_titles]
+                  next_titles += links
+                  store_links_in_cache(cache_dir, next_titles)
+              except KeyError as error:
+                  if debug: sys.stderr.write('links append error: {}\n'.format(error))
+                  pass
+                  
+          # all titles have been consumed. Now check if here's any extras, and if not not, then descend into the next depth level of links:
+          random.shuffle(extra_titles)
+          titles = extra_titles
+          if len(titles) > 0:
+              continue
+
+          if depth >= options.max_depth:
+              if debug: sys.stderr.write('Stop criterium: depth >= options.max_depth: {} > {}\n'.format(depth, options.max_depth))
               return
-          if title in visited_pages:
-              continue
 
-          # Ugly hack skipping internal pages
-          if 'wiki' in title or 'Wiki' in title:
-              sys.stderr.write('Skipping {}'.format(title))
-              continue
+          random.shuffle(next_titles)
+          depth += 1
+          titles = next_titles
+          next_titles = []
 
-          visited_pages += [title]
-          try:
-              page = wikipedia.page(title, auto_suggest=False)
-          except (wikipedia.exceptions.PageError,
-                  wikipedia.exceptions.DisambiguationError) as error:
-              # Let's just discard a page when I get an exception.
-              sys.stderr.write("Discarding page {}: {}\n".format(title, error))
-              continue
-          logfd.write("\n{} (revision {})".format(title, page.revision_id))
-          logfd.flush()
+      store_discards_in_cache(cache_dir, discarded_pages)
 
-          process_text(page.content, lang)
-          try:
-            links = page.links
-            random.shuffle(links)
-            if len(links) > max_titles:
-                links = links[:max_titles]
-                next_titles += links
-          except KeyError:
-              pass
+  def store_content_in_cache(cache_dir, url, content, title, revision_id):
+      global debug
 
-      if depth >= options.max_depth:
-          return
+      # create **probably globally unique** hash for the given url:
+      dig = hmac.new(b'1234567890', msg=url.encode('utf8'), digestmod=hashlib.sha256).digest()
+      hashstr = base64.b64encode(dig).decode()      # py3k-mode
+      unique_fname = hashstr.replace('=', '')
+      unique_fname = re.sub(r'[^a-zA-Z0-9_-]+', '', unique_fname)
+      unique_fname = unique_fname[-50:] + '.content.txt'
+      
+      fpath = os.path.join(cache_dir, unique_fname)
+      if (len(content) > 0):
+          if debug: sys.stderr.write('Cache content (size: {}) for URL {} -> filename: {}\n'.format(len(content), url, fpath))
+          with open(fpath, mode='w', encoding='utf-8') as c_fd:
+              header = dict(
+                  title = title,
+                  url = url,
+                  revision = revision_id
+              )
+              c_fd.write(yaml.dump(header))
+              c_fd.write('\n\n---\n\n')
+              
+              c_fd.write(content)
+              
+              sys.stderr.write('_')
+              sys.stderr.flush()
 
-      random.shuffle(next_titles)
-      visit_pages (next_titles, depth + 1, lang, logfd)
+  def store_links_in_cache(cache_dir, links):
+      global debug
+
+      if (len(links) > 0):
+          cached_set = load_links_from_cache(cache_dir, [])
+
+          for title in links:
+              title = title.strip()
+              if len(title) == 0:
+                  continue
+              if title in cached_set:
+                  continue
+              cached_set.append(title)
+
+          fpath = os.path.join(cache_dir, 'links.txt')
+          with open(fpath, mode='w', encoding='utf-8') as c_fd:
+              c_fd.write("\n")
+              c_fd.write("\n".join(cached_set))
+              c_fd.write("\n")
+  
+  def load_links_from_cache(cache_dir, titles):
+      global debug
+
+      fpath = os.path.join(cache_dir, 'links.txt')
+      if os.path.isfile(fpath):
+          with open(fpath, mode='r', encoding='utf-8') as c_fd:
+              content = c_fd.read()
+              
+          lines = content.strip().splitlines()
+
+          for title in lines:
+              if len(title) == 0:
+                  continue
+              if title in titles:
+                  continue
+              titles.append(title)
+          
+      return titles
+
+  def store_discards_in_cache(cache_dir, discarded_pages):
+      global debug
+
+      if (len(discarded_pages) > 0):
+          cached_set = load_discards_from_cache(cache_dir, [])
+
+          for title in discarded_pages:
+              title = title.strip()
+              if len(title) == 0:
+                  continue
+              if title in cached_set:
+                  continue
+              cached_set.append(title)
+
+          fpath = os.path.join(cache_dir, 'discards.txt')
+          with open(fpath, mode='w', encoding='utf-8') as c_fd:
+              c_fd.write("\n")
+              c_fd.write("\n".join(cached_set))
+              c_fd.write("\n")
+  
+  def load_discards_from_cache(cache_dir, titles):
+      global debug
+
+      fpath = os.path.join(cache_dir, 'discards.txt')
+      if os.path.isfile(fpath):
+          with open(fpath, mode='r', encoding='utf-8') as c_fd:
+              content = c_fd.read()
+              
+          lines = content.strip().splitlines()
+
+          for title in lines:
+              if len(title) == 0:
+                  continue
+              if title in titles:
+                  continue
+              titles.append(title)
+          
+      return titles
+    
+  def visit_pages_cache(cache_dir, lang, logfd):
+      global visited_pages
+      global discarded_pages
+      global processed_pages_count
+      global options
+      global characters
+      global debug
+
+      if debug: sys.stderr.write('Cache file dir for lang {}: {}\n'.format(lang.name, cache_dir))
+      try:
+          cachefiles = [f for f in os.listdir(cache_dir) if os.path.isfile(os.path.join(cache_dir, f)) and ('.content.txt' in f)]
+          # sys.stderr.write('Cache file list: {}\n'.format(cachefiles))
+      
+          for title in cachefiles:
+              occurrences = sum(characters.values())
+              #if occurrences > options.max_chars:
+              #    if debug: sys.stderr.write('Stop criterium: occurrences > options.max_chars: {} > {}\n'.format(occurrences, options.max_chars))
+              #    return
+
+              if debug: sys.stderr.write('Max occurrences check: {} vs. {} ==> continue comsuming cached pages until we\'ve consumed enough characters. ({}/{})\n'.format(occurrences, options.max_chars, len(cachefiles) - cachefiles.index(title), len(cachefiles)))
+
+              #if options.max_page is not None and \
+              #   processed_pages_count > options.max_page:
+              #    if debug: sys.stderr.write('Stop criterium: processed_pages_count > options.max_page: {} > {}\n'.format(processed_pages_count, options.max_page))
+              #    return
+
+              sys.stderr.write('+')
+              sys.stderr.flush()
+
+              fpath = os.path.join(cache_dir, title)          
+              with open(fpath, mode='r', encoding='utf-8') as cache_fd:
+                  content = cache_fd.read()
+                  
+              # decode cache file header:
+              ch = content.split('\n---\n\n', maxsplit=1)
+              cheader = ch[0]
+              content = ch[1].strip()
+              dct = yaml.safe_load(cheader)
+
+              page_title = dct['title']
+              page_url = dct['url']
+              page_revision = dct['revision']
+
+              # mark page as visited:
+              if page_title in visited_pages:
+                  continue
+              visited_pages.append(page_title)
+                  
+              logfd.write("\n{} (revision {}; CACHED)".format(page_title, page_revision))
+              logfd.flush()
+
+              if debug: sys.stderr.write("\n{} (revision {}) -> {}; cached file: {}; content size: {}\n".format(page_title, page_revision, page_url, title, len(content)))
+
+              # only count (and cache) non-empty pages against the configured page count maximum:
+              if (len(content) != 0):
+                  process_text(content, lang)
+                  processed_pages_count += 1
+              
+      except FileNotFoundError as error:
+          sys.stderr.write('\nWARNING: No cached content files at {}?\n    {}\n'.format(cache_dir, error))
+          pass
 
   language_c = lang.name.replace('-', '_').title()
   build_log = current_dir + '/BuildLangModelLogs/Lang{}Model.log'.format(language_c)
-  logfd = open(build_log, 'w')
+  logfd = open(build_log, mode='w', encoding='utf-8')
   logfd.write('= Logs of language model for {} ({}) =\n'.format(lang.name, lang.code))
   logfd.write('\n- Generated by {}'.format(os.path.basename(__file__)))
   logfd.write('\n- Started: {}'.format(str(datetime.datetime.now())))
   logfd.write('\n- Maximum depth: {}'.format(options.max_depth))
   if options.max_page is not None:
       logfd.write('\n- Max number of pages: {}'.format(options.max_page))
+  if options.max_chars is not None:
+      logfd.write('\n- Max number of characters: {}'.format(options.max_chars))
   logfd.write('\n\n== Parsed pages ==\n')
   logfd.flush()
+  sys.stderr.write('\n>')
+  sys.stderr.flush()
   try:
-      visit_pages(lang.start_pages, 0, lang, logfd)
+      cache_dir = current_dir + '/langs-content-cache/'+ lang_arg
+      os.makedirs(cache_dir, exist_ok=True)
+      
+      visit_pages_cache(cache_dir, lang, logfd)
+      visit_pages(cache_dir, lang.start_pages, 0, lang, logfd)
   except requests.exceptions.ConnectionError:
       sys.stderr.write('Error: connection to Wikipedia failed. Aborting\n')
       exit(1)
   logfd.write('\n\n== End of Parsed pages ==')
+  logfd.write('\n\n- Number of pages processed: {}'.format(len(visited_pages)))
+  logfd.write('\n- Number of characters consumed: {}'.format(sum(characters.values())))
   logfd.write('\n\n- Wikipedia parsing ended at: {}\n'.format(str(datetime.datetime.now())))
   logfd.flush()
+
+  sys.stderr.write('\nFinished consuming {} web pages; processing the statistics now...\n'.format(len(visited_pages)))
 
   ########### CHARACTERS ###########
 
@@ -415,6 +769,8 @@ for lang_arg in langs:
   # frequent list, and we stop then. There may therefore be more or less than
   # 64 frequent characters depending on the language.
   logfd.write('\nMost Frequent characters:')
+  # sys.stderr.write('\nAlphabet: {}, frequent_ranges: {}, lang: {}\n'.format(lang.alphabet, lang.frequent_ranges, lang.name))
+  very_frequent_characters = []
   very_freq_count = 0
   very_freq_ratio = 0
   if lang.alphabet is None and lang.frequent_ranges is None:
@@ -423,6 +779,7 @@ for lang_arg in langs:
           if order >= freq_count:
               break
           logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
+          very_frequent_characters.append(char)
           accumulated_ratios += ratio
           if very_freq_ratio < 0.4:
             very_freq_count += 1
@@ -435,17 +792,19 @@ for lang_arg in langs:
           if chr(char) in lang.alphabet:
               lang.alphabet.remove(chr(char))
           logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
+          very_frequent_characters.append(char)
           accumulated_ratios += ratio
           freq_count += 1
           if very_freq_ratio < 0.4:
             very_freq_count += 1
             very_freq_ratio += ratio
-      else:
-          if len(lang.alphabet) > 0:
-              sys.stderr.write("Error: alphabet characters are absent from data collection"
-                               "\n       Please check the configuration or the data."
-                               "\n       Missing characters: {}".format(", ".join(lang.alphabet)))
-              exit(1)
+      if len(lang.alphabet) > 0:
+          sys.stderr.write("Error: alphabet characters are absent from data collection"
+                           "\n       Please check the configuration or the data."
+                           "\n       Missing characters: [{}]"
+                           "\n       Tip: you may want to increase your corpus size (max-chars)."
+                           "\n".format(", ".join(lang.alphabet)))
+          exit(1)
   elif lang.frequent_ranges is not None:
       # How many characters in the frequent range?
       frequent_ranges_size = 0
@@ -461,11 +820,13 @@ for lang_arg in langs:
             freq_count += 1
             accumulated_ratios += ratio
             logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
+            very_frequent_characters.append(char)
             frequent_ranges_size -= 1
             break
         else:
           # A frequent character in the non-frequent range.
           logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
+          very_frequent_characters.append(char)
           freq_count += 1
           accumulated_ratios += ratio
 
@@ -489,7 +850,9 @@ for lang_arg in langs:
   logfd.write("The first {} characters have an accumulated ratio of {}.\n".format(very_freq_count, very_freq_ratio))
   logfd.write("All characters whose order is over {} have an accumulated ratio of {}.\n".format(low_freq_order, low_freq_ratio))
 
-  with open(current_dir + '/header-template.cpp', 'r') as header_fd:
+  sys.stderr.write('\nGenerating language model CHARACTER MAP file...\n')
+
+  with open(current_dir + '/header-template.cpp', mode='r', encoding='utf-8') as header_fd:
       c_code = header_fd.read()
 
   c_code += '\n#include "../nsSBCharSetProber.h"'
@@ -502,25 +865,25 @@ for lang_arg in langs:
   c_code += ' **/\n'
 
   c_code += \
-  """
-  /* Character Mapping Table:
-   * ILL: illegal character.
-   * CTR: control character specific to the charset.
-   * RET: carriage/return.
-   * SYM: symbol (punctuation) that does not belong to word.
-   * NUM: 0 - 9.
-   *
-   * Other characters are ordered by probabilities
-   * (0 is the most common character in the language).
-   *
-   * Orders are generic to a language. So the codepoint with order X in
-   * CHARSET1 maps to the same character as the codepoint with the same
-   * order X in CHARSET2 for the same language.
-   * As such, it is possible to get missing order. For instance the
-   * ligature of 'o' and 'e' exists in ISO-8859-15 but not in ISO-8859-1
-   * even though they are both used for French. Same for the euro sign.
-   */
-  """
+"""
+/* Character Mapping Table:
+ * ILL: illegal character.
+ * CTR: control character specific to the charset.
+ * RET: carriage/return.
+ * SYM: symbol (punctuation) that does not belong to word.
+ * NUM: 0 - 9.
+ *
+ * Other characters are ordered by probabilities
+ * (0 is the most common character in the language).
+ *
+ * Orders are generic to a language. So the codepoint with order X in
+ * CHARSET1 maps to the same character as the codepoint with the same
+ * order X in CHARSET2 for the same language.
+ * As such, it is possible to get missing order. For instance the
+ * ligature of 'o' and 'e' exists in ISO-8859-15 but not in ISO-8859-1
+ * even though they are both used for French. Same for the euro sign.
+ */
+"""
 
   for charset in lang_charsets:
       charset_c = charset.replace('-', '_').title()
@@ -583,7 +946,7 @@ for lang_arg in langs:
                       # XXX: we must make sure the character order does not go
                       # over the special characters (250 currently). This may
                       # actually happen when building a model for a language
-                      # writable with many different encoding. So let's just
+                      # writable with many different encodings. So let's just
                       # ceil the order value at 249 max.
                       # It may be an interesting alternative to add another
                       # constant for any character with an order > freqCharCount.
@@ -591,7 +954,7 @@ for lang_arg in langs:
                       CTOM_str += '{:3},'.format(min(249, n_char))
                       n_char += 1
           CTOM_str += ' /* {:X}X */'.format(line)
-      CTOM_str += '\n};\n/*'
+      CTOM_str += '\n};\n/* '
       CTOM_str += 'X0  X1  X2  X3  X4  X5  X6  X7  X8  X9  XA  XB  XC  XD  XE  XF'
       CTOM_str += ' */\n\n'
       c_code += CTOM_str
@@ -601,7 +964,7 @@ for lang_arg in langs:
   # Since we can't map the full character table from encoding to order,
   # just create a list from the most common characters from the language.
   # The list is ordered by unicode code points (hence can be used
-  # generically for various encoding scheme as it is not encoding
+  # generically for various encoding schemes as it is not encoding
   # specific) allowing to search from code points efficiently by a divide
   # and conqueer search algorithm.
   # Each code point is immediately followed by its order.
@@ -648,20 +1011,33 @@ for lang_arg in langs:
   CTOM_str += ' =\n{'
   column = 0
 
-  max_char_width  = math.floor(math.log10(sorted_chars[-1][0])) + 1
-  max_order_width = math.floor(math.log10(max_order)) + 1
+  if len(sorted_chars) == 0:
+    sys.stderr.write('##########################################################\n')
+    sys.stderr.write('ERROR: collected character set (model) is empty for language: {}!\n'.format(lang.name))
+    sys.stderr.write('##########################################################\n')
+    model_is_empty = 1
+    max_char_width = 2
+    max_order_width = 2
+  else:
+    model_is_empty = 0
+    max_char_width = math.floor(math.log10(sorted_chars[0][0])) + 1
+    max_order_width = math.floor(math.log10(max_order)) + 1
 
   for char, ratio, order in sorted_chars:
       if column % 8 == 0:
-          CTOM_str += '\n '
+          CTOM_str += '\n  '
+      else:
+          CTOM_str += ' '
       column += 1
-      CTOM_str += '{}{:>{width}}, '.format('' if column % 8 == 0 else ' ', char, width=max_char_width)
+      CTOM_str += '{:>{width}}, '.format(char, width=max_char_width)
       CTOM_str += '{:>{width}},'.format(order, width=max_order_width)
 
   CTOM_str += '\n};\n\n'
   c_code += CTOM_str
 
   ########### SEQUENCES ###########
+
+  sys.stderr.write('\nGenerating language model CHARACTER SEQUENCES file...\n')
 
   ratios = {}
   occurrences = sum(sequences.values())
@@ -694,23 +1070,33 @@ for lang_arg in langs:
   if order_3 == -1 or order_2 == -1:
     # This would probably never happens. It would require a language with
     # very few possible sequences and each of the sequences are widely
-    # used. Just add this code for completio, but it won't likely ever be
+    # used. Just add this code for completion, but it won't likely ever be
     # run.
     order_2 = 512
     order_3 = 1024
-    ratio_2 = count_512 / occurrences
-    ratio_3 = count_1024 / occurrences
+    if not model_is_empty:
+      ratio_2 = count_512 / occurrences
+      ratio_3 = count_1024 / occurrences
+    else:
+      ratio_2 = 0
+      ratio_3 = 0
 
   logfd.write("\n{} sequences found.\n".format(len(sorted_seqs)))
 
   c_code += """
-  /* Model Table:
-   * Total considered sequences: {} / {}
-   * - Positive sequences: first {} ({})
-   * - Probable sequences: next {} ({}-{}) ({})
-   * - Neutral sequences: last {} ({})
-   * - Negative sequences: {} (off-ratio)
-   * Negative sequences: TODO""".format(len(sorted_seqs),
+/* Model Table:
+ * Number of web pages processed for this model: {}
+ * Number of characters consumed for this model: {}
+ * Total considered sequences: {} / {}
+ *
+ * - Positive sequences: first {} ({})
+ * - Probable sequences: next {} ({}-{}) ({})
+ * - Neutral sequences: last {} ({})
+ * - Negative sequences: {} (off-ratio)
+ *
+ * Negative sequences: TODO""".format(len(visited_pages),
+                                        sum(characters.values()),
+                                        len(sorted_seqs),
                                         freq_count * freq_count,
                                         order_3, ratio_3,
                                         order_2 - order_3,
@@ -728,19 +1114,111 @@ for lang_arg in langs:
 
   c_code += "\n */\n"
 
-  LM_str = 'static const PRUint8 {}LangModel[]'.format(language_c)
-  LM_str += ' =\n{'
-  for line in range(0, freq_count):
-      LM_str += '\n  '
-      for column in range(0, freq_count):
+  line_width = (freq_count + 1) / 2
+  if line_width > 40:
+      line_width = (freq_count + 2) / 3
+  if line_width > 40:
+      line_width = 40
+  
+  if freq_count < 100:
+      LM_str = 'static const PRUint8 {}LangModel[]'.format(language_c) 
+      LM_str += ' =\n{'
+      for line in range(0, freq_count):
+          LM_str += '\n  '
+          
+          for column in range(0, freq_count):
+              # Let's not make too long lines.
+              if freq_count > 40 and column > 0 and column < freq_count - 5 and column % line_width == 0:
+                  LM_str += '\n   '
+              first_order = int(line)
+              second_order = column
+              if first_order < len(sorted_ratios) and second_order < len(sorted_ratios):
+                  (first_char, _) = sorted_ratios[first_order]
+                  (second_char, _) = sorted_ratios[second_order]
+                  if (first_char, second_char) in sequences:
+                      for order, (seq, _) in enumerate(sorted_seqs):
+                          if seq == (first_char, second_char):
+                              if order < order_3:
+                                  LM_str += '3,'
+                              elif order < order_2:
+                                  LM_str += '2,'
+                              else:
+                                  LM_str += '1,'
+                              break
+                      else:
+                          pass # impossible!
+                          LM_str += '0,'
+                  else:
+                      LM_str += '0,'
+              else:
+                  # It may indeed happen that we find less than 64 letters used for a
+                  # given language.
+                  LM_str += '0,'
+      LM_str += '\n};\n'
+      c_code += LM_str
+  else:
+      FC_str = 'static const PRUint8 {}FrequentCharMapping[]'.format(language_c)
+      FC_str += ' =\n{'
+      
+      flimit = 128
+      cmap = very_frequent_characters[:flimit-1]
+      
+      lo_c = 1000000000
+      hi_c = 0
+      for char in cmap:
+          if char > hi_c:
+              hi_c = char
+          if char < lo_c:
+              lo_c = char
+      
+      count = 0
+      for char in range(lo_c, hi_c + 1):
+          count += 1
+          if count % 20 == 0:
+              FC_str += '\n  '
+              
+          if char in cmap:
+              FC_str += "{},".format(cmap.index(char) + 1)
+          else:
+              FC_str += "0,"
+
+      FC_str += '\n};\n'
+      c_code += FC_str
+          
+      c_code += '\n\n#define {}FCMLowerBound  {}\n'.format(language_c, lo_c)
+      c_code += '#define {}FCMUpperBound  {}\n\n\n'.format(language_c, hi_c)
+          
+      LM_str = 'static const PRUint8 {}CompactedLangModel[]'.format(language_c) 
+      LM_str += ' =\n{'
+
+      # first row:
+      #
+      # catch-all for all the infrequent first_chars;
+      # first column is catch-all for all the infrequent second_chars:
+      LM_str += '\n  0,'
+      count = 1
+      for second_char in cmap:
+          LM_str += '0,'
           # Let's not make too long lines.
-          if freq_count > 40 and column == int(freq_count / 2):
-              LM_str += '\n   '
-          first_order = int(line)
-          second_order = column
-          if first_order < len(sorted_ratios) and second_order < len(sorted_ratios):
-              (first_char, _) = sorted_ratios[first_order]
-              (second_char, _) = sorted_ratios[second_order]
+          count += 1
+          if count % line_width == 0:
+              LM_str += '\n  '
+
+
+      for first_char in cmap:
+          LM_str += '\n  '
+
+          if debug:
+              sys.stderr.write('first_char: {}, lo_c: {}, hi_c: {}, size: {}, flimit: {}\n'.format(first_char, lo_c, hi_c, len(cmap), flimit))
+          else:
+              sys.stderr.write('#')
+              sys.stderr.flush()
+
+          # catch-all for all the infrequent second_chars:
+          LM_str += '0,'
+          count = 1
+          
+          for second_char in cmap:
               if (first_char, second_char) in sequences:
                   for order, (seq, _) in enumerate(sorted_seqs):
                       if seq == (first_char, second_char):
@@ -756,18 +1234,25 @@ for lang_arg in langs:
                       LM_str += '0,'
               else:
                   LM_str += '0,'
-          else:
-              # It may indeed happen that we find less than 64 letters used for a
-              # given language.
-              LM_str += '0,'
-  LM_str += '\n};\n'
-  c_code += LM_str
+          
+              # Let's not make too long lines.
+              count += 1
+              if count % line_width == 0:
+                  LM_str += '\n  '
+
+      LM_str += '\n};\n'
+      c_code += LM_str
 
   for charset in lang_charsets:
       charset_c = charset.replace('-', '_').title()
       SM_str = '\n\nconst SequenceModel {}{}Model ='.format(charset_c, language_c)
       SM_str += '\n{\n  '
-      SM_str += '{}_CharToOrderMap,\n  {}LangModel,'.format(charset_c, language_c)
+      SM_str += '{}_CharToOrderMap,'.format(charset_c)
+      if freq_count < 100:
+          SM_str += '\n  {}LangModel,'.format(language_c)
+      else:
+          # TODO:
+          SM_str += '\n  {}CompactedLangModel,'.format(language_c)
       SM_str += '\n  {},'.format(freq_count)
       SM_str += '\n  (float){},'.format(ratio_2)
       SM_str += '\n  {},'.format('PR_TRUE' if lang.use_ascii else 'PR_FALSE')
@@ -781,19 +1266,24 @@ for lang_arg in langs:
   SM_str += '\n  "{}",'.format(lang.code)
   SM_str += '\n  Unicode_CharOrder,'
   SM_str += '\n  {},'.format(len(sorted_chars)) # Order is wrong!
-  SM_str += '\n  {}LangModel,'.format(language_c)
+  if freq_count < 100:
+      SM_str += '\n  {}LangModel,'.format(language_c)
+  else:
+      # TODO:
+      SM_str += '\n  {}CompactedLangModel,'.format(language_c)
   SM_str += '\n  {},'.format(freq_count)
   SM_str += '\n  {},'.format(very_freq_count)
   SM_str += '\n  (float){},'.format(very_freq_ratio)
   SM_str += '\n  {},'.format(low_freq_order)
   SM_str += '\n  (float){},'.format(low_freq_ratio)
+  SM_str += '\n  (float){},'.format(accumulated_ratios)
   SM_str += '\n};'
   c_code += SM_str
 
   c_code += '\n'
 
   lang_model_file = current_dir + '/../src/LangModels/Lang{}Model.cpp'.format(language_c)
-  with open(lang_model_file, 'w') as cpp_fd:
+  with open(lang_model_file, mode='w', encoding='utf-8') as cpp_fd:
       cpp_fd.write(c_code)
 
   logfd.write('\n\n- Processing end: {}\n'.format(str(datetime.datetime.now())))
@@ -804,8 +1294,8 @@ for lang_arg in langs:
 charset_cpp = os.path.join(current_dir, '../src', 'nsSBCharSetProber-generated.h')
 print("\nGenerating {}…".format(charset_cpp))
 
-with open(charset_cpp, 'w') as cpp_fd:
-  with open(current_dir + '/header-template.cpp', 'r') as header_fd:
+with open(charset_cpp, mode='w', encoding='utf-8') as cpp_fd:
+  with open(current_dir + '/header-template.cpp', mode='r', encoding='utf-8') as header_fd:
     cpp_fd.write(header_fd.read())
 
   cpp_fd.write('\n#ifndef nsSingleByteCharSetProber_generated_h__')
@@ -822,7 +1312,7 @@ with open(charset_cpp, 'w') as cpp_fd:
         lang = importlib.import_module(l)
     except ImportError:
         sys.stderr.write('Unknown language code "{}": '
-                         'file "langs/{}.py" does not exist.'.format(l, l))
+                         'file "langs/{}.py" does not exist.\n'.format(l, l))
         exit(1)
     sys.path = sys_path_backup
 
@@ -843,8 +1333,8 @@ print("Done!")
 language_cpp = os.path.join(current_dir, '../src', 'nsLanguageDetector-generated.h')
 print("\nGenerating {}…".format(language_cpp))
 
-with open(language_cpp, 'w') as cpp_fd:
-  with open(current_dir + '/header-template.cpp', 'r') as header_fd:
+with open(language_cpp, mode='w', encoding='utf-8') as cpp_fd:
+  with open(current_dir + '/header-template.cpp', mode='r', encoding='utf-8') as header_fd:
     cpp_fd.write(header_fd.read())
 
   cpp_fd.write('\n#ifndef nsLanguageDetector_h_generated_h__')
@@ -861,7 +1351,7 @@ with open(language_cpp, 'w') as cpp_fd:
         lang = importlib.import_module(l)
     except ImportError:
         sys.stderr.write('Unknown language code "{}": '
-                         'file "langs/{}.py" does not exist.'.format(l, l))
+                         'file "langs/{}.py" does not exist.\n'.format(l, l))
         exit(1)
     sys.path = sys_path_backup
 

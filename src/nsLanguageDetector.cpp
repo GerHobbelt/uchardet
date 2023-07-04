@@ -198,10 +198,10 @@ void nsLanguageDetector::Reset(void)
   //mCtrlChar  = 0;
   //mEmoticons  = 0;
   //mVariousBetween  = 0;
-  mFreqChar  = 0;
+  mFreqChar     = 0;
   mVeryFreqChar = 0;
   mLowFreqChar  = 0;
-  mOutChar   = 0;
+  mOutChar      = 0;
 }
 
 #include <cstdio>
@@ -220,7 +220,7 @@ float nsLanguageDetector::GetConfidence(void)
     //float neutralSeqs  = mSeqCounters[LANG_NEUTRAL_CAT];
     float negativeSeqs = mSeqCounters[LANG_NEGATIVE_CAT];
 
-    r = (positiveSeqs + probableSeqs / 4 - negativeSeqs * 4) / mTotalSeqs / mModel->mTypicalPositiveRatio;
+    r = (positiveSeqs + probableSeqs / 4 - negativeSeqs * 4) / mTotalSeqs / mModel->accumulatedFreqRatio;
     /* The more characters outside the expected characters
      * (proportionnaly to the size of the text), the less confident we
      * become in the current language.

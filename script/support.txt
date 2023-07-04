@@ -19,6 +19,7 @@ hr
 hu
 it
 ka
+ko
 lt
 lv
 mk

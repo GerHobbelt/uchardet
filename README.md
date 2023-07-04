@@ -1,5 +1,21 @@
 # uchardet
 
+---
+
+**uchardet moved!**
+
+uchardet is now a [freedesktop](https://www.freedesktop.org/wiki/) project.
+
+* The page: https://www.freedesktop.org/wiki/Software/uchardet/
+* Bug reports: https://bugs.freedesktop.org/enter_bug.cgi?product=uchardet
+* Releases: https://www.freedesktop.org/software/uchardet/releases/
+* Code: https://cgit.freedesktop.org/uchardet/uchardet/
+
+Please update your links to the project. New releases, code updates and
+announcements will happen on the Freedesktop hosting.
+
+---
+
 [uchardet](https://www.freedesktop.org/wiki/Software/uchardet/) is an encoding and language detector library, which takes a sequence of bytes in an unknown character encoding without any additional information, and attempts to determine the encoding of the text.
 
 * Returned encoding names are [iconv](https://www.gnu.org/software/libiconv/)-compatible.
@@ -43,13 +59,13 @@ uchardet started as a C language binding of the original C++ implementation of t
     * ISO-8859-16
     * Windows-1250
     * IBM852
-    * MAC-CENTRALEUROPE
+    * MacCentralEurope
   * Czech
     * UTF-8
     * Windows-1250
     * ISO-8859-2
     * IBM852
-    * MAC-CENTRALEUROPE
+    * MacCentralEurope
   * Danish
     * UTF-8
     * IBM865
@@ -160,7 +176,7 @@ uchardet started as a C language binding of the original C++ implementation of t
     * ISO-8859-16
     * Windows-1250
     * IBM852
-    * MAC-CENTRALEUROPE
+    * MacCentralEurope
   * Portuguese
     * UTF-8
     * ISO-8859-1
@@ -190,14 +206,14 @@ uchardet started as a C language binding of the original C++ implementation of t
     * Windows-1250
     * ISO-8859-2
     * IBM852
-    * MAC-CENTRALEUROPE
+    * MacCentralEurope
   * Slovene
     * UTF-8
     * ISO-8859-2
     * ISO-8859-16
     * Windows-1250
     * IBM852
-    * MAC-CENTRALEUROPE
+    * MacCentralEurope
   * Spanish
     * UTF-8
     * ISO-8859-1
@@ -280,7 +296,8 @@ If you prefer a development version, clone the git repository:
 
 The source can be browsed at: https://gitlab.freedesktop.org/uchardet/uchardet
 
-    cmake .
+    mkdir build/ && cd build/
+    cmake ..
     make
     make install
 

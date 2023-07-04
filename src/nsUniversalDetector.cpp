@@ -318,6 +318,7 @@ void nsUniversalDetector::DataEnd()
           shortcutCharset = "ASCII";
       }
       shortcutConfidence = 0.99;
+	  break;
     default:
       break;
     }
@@ -361,10 +362,8 @@ void nsUniversalDetector::DataEnd()
       }
     }
     break;
-  case eEscAscii:
-    break;
   default:
-    ;
+    break;
   }
   return;
 }

@@ -47,7 +47,7 @@ code = 'sl'
 # ASCII is used except q and w, x and y according to Wikipedia.
 use_ascii = False
 charsets = ['ISO-8859-2', 'ISO-8859-16',
-            'Windows-1250', 'IBM852', 'MAC-CENTRALEUROPE']
+            'Windows-1250', 'IBM852', 'MacCentralEurope']
 
 ## Optional Properties ##
 

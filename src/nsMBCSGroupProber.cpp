@@ -349,12 +349,6 @@ nsProbingState nsMBCSGroupProber::HandleData(const char* aBuf, PRUint32 aLen,
         }
       }
     }
-    else
-    {
-      for (PRUint32 i = 0; i < NUM_OF_PROBERS; i++)
-        if (codePointBuffer[i])
-          codePointBuffer[i][(codePointBufferIdx[i])++] = aBuf[pos];
-    }
   }
 
   if (keepNext) {
