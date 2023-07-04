@@ -880,7 +880,7 @@ for lang_arg in langs:
               #if page_title in visited_pages:
               #    continue
               visited_pages.append(page_title)
-              marked_delta_pages.append(title)
+              marked_delta_pages.append(page_title)
 
               logfd.write("\n{} (revision {}; CACHED)".format(page_title, page_revision))
               logfd.flush()
