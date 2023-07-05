@@ -1,5 +1,5 @@
 revision: 279651
-title: Qutb Minar
+title: Ghiyeth al-Din Muhammad
 url: https://mt.wikipedia.org/wiki/Qutb_Minar
 
 

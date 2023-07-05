@@ -1,5 +1,5 @@
 revision: 1170290
-title: Hibernicus exul
+title: "Ernst D\xFCmmler"
 url: https://ga.wikipedia.org/wiki/Hibernicus_exul
 
 

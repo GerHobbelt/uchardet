@@ -1,5 +1,5 @@
 revision: 6751549
-title: FK Minsk
+title: FC Minsk
 url: https://lt.wikipedia.org/wiki/FK_Minsk
 
 

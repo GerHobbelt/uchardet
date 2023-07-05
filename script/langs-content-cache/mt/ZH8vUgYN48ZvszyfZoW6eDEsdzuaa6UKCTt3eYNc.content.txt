@@ -1,5 +1,5 @@
 revision: 283488
-title: Latin
+title: Lingwa Latina
 url: https://mt.wikipedia.org/wiki/Lingwa_Latina
 
 

@@ -1,5 +1,5 @@
 revision: 3688370
-title: "Konfigur\u0101cijas p\u0101rvald\u012Bba"
+title: "Nep\u0101rtraukta pieejam\u012Bba"
 url: https://lv.wikipedia.org/wiki/Konfigur%C4%81cijas_p%C4%81rvald%C4%ABba
 
 

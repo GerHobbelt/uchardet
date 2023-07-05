@@ -1,5 +1,5 @@
 revision: 6838147
-title: "\u0160veicarija"
+title: Francas Denikenas
 url: https://lt.wikipedia.org/wiki/%C5%A0veicarija
 
 

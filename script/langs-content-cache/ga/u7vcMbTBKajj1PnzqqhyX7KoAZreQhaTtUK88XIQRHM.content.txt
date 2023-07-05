@@ -1,5 +1,5 @@
 revision: 1158674
-title: "Na h\xC9isc"
+title: TX Piscium
 url: https://ga.wikipedia.org/wiki/Na_h%C3%89isc
 
 

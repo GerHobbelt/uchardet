@@ -1,5 +1,5 @@
 revision: 3609178
-title: E numurs
+title: "N\u0101trija hidrog\u0113nacet\u0101ts"
 url: https://lv.wikipedia.org/wiki/E_numurs
 
 

@@ -1,5 +1,5 @@
 revision: 33370414
-title: "\uCF54\uB4DC \uD398\uC774\uC9C0 854"
+title: "\uC548\uB4DC\uB85C\uC774\uB4DC \uC6D0"
 url: https://ko.wikipedia.org/wiki/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EC%9B%90
 
 

@@ -1,5 +1,5 @@
 revision: 1165789
-title: "Ardchoimisin\xE9ir na N\xE1isi\xFAn Aontaithe um Dh\xEDdeanaithe"
+title: Thorvald Stoltenberg
 url: https://ga.wikipedia.org/wiki/Ardchoimisin%C3%A9ir_na_N%C3%A1isi%C3%BAn_Aontaithe_um_Dh%C3%ADdeanaithe
 
 

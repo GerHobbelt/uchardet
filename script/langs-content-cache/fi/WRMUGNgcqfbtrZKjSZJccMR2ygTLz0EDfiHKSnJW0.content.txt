@@ -1,5 +1,5 @@
 revision: 18014713
-title: Jouko Pellosniemi
+title: "Tage Dahlstr\xF6m"
 url: https://fi.wikipedia.org/wiki/Viestijuoksun_Suomen-mestaruuskilpailut_1965
 
 

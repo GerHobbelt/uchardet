@@ -1,5 +1,5 @@
 revision: 1105753
-title: Mana Alabama
+title: "Polait\xEDocht Alabama"
 url: https://ga.wikipedia.org/wiki/Alabama
 
 

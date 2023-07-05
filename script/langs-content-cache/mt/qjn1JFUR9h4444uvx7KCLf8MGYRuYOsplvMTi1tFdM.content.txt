@@ -1,5 +1,5 @@
 revision: 281615
-title: Kuopio
+title: Tervo
 url: https://mt.wikipedia.org/wiki/Kuopio
 
 

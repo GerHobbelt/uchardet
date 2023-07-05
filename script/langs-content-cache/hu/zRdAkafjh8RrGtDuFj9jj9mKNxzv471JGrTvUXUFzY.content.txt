@@ -1,5 +1,5 @@
 revision: 25135990
-title: Ophioviridae
+title: Phycodnaviridae
 url: https://hu.wikipedia.org/wiki/A_v%C3%ADrusok_oszt%C3%A1lyoz%C3%A1sa
 
 

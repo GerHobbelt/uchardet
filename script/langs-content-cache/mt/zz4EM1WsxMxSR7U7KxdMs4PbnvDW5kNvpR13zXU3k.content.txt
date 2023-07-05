@@ -1,5 +1,5 @@
 revision: 281220
-title: Letteratura Maltija
+title: "Letteratura Ingli\u017Ca"
 url: https://mt.wikipedia.org/wiki/Letteratura_Maltija
 
 

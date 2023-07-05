@@ -1,5 +1,5 @@
 revision: 1052510
-title: "Binn \xC9adair"
+title: "Beann \xC9adair"
 url: https://ga.wikipedia.org/wiki/Binn_%C3%89adair
 
 

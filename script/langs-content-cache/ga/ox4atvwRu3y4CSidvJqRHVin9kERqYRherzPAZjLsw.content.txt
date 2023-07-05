@@ -1,5 +1,5 @@
 revision: 1160916
-title: "Contae Chill Mhant\xE1in"
+title: "Gaelscoil Chill Mhant\xE1in"
 url: https://ga.wikipedia.org/wiki/Contae_Chill_Mhant%C3%A1in
 
 

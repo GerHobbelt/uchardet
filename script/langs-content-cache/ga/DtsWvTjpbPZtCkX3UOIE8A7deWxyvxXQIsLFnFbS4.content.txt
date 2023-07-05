@@ -1,5 +1,5 @@
 revision: 1064339
-title: "A1 (Tuaisceart \xC9ireann)"
+title: Sprucefield
 url: https://ga.wikipedia.org/wiki/A1_(Tuaisceart_%C3%89ireann)
 
 

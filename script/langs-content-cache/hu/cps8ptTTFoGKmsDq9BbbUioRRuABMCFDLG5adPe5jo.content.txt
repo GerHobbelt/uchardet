@@ -1,5 +1,5 @@
 revision: 26177027
-title: "P\xF3kok"
+title: Psechridae
 url: https://hu.wikipedia.org/wiki/P%C3%B3kok
 
 

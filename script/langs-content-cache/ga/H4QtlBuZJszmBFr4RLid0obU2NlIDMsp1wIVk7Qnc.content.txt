@@ -1,5 +1,5 @@
 revision: 1168683
-title: ISO 639:den
+title: An Bhicolis
 url: https://ga.wikipedia.org/wiki/Macraitheanga
 
 

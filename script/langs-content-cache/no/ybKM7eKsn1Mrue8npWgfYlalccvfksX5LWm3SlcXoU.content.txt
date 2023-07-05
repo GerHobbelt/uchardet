@@ -1,5 +1,5 @@
 revision: 22676168
-title: Alaska Marine Highway
+title: M/V Aurora
 url: https://no.wikipedia.org/wiki/Alaska_Marine_Highway
 
 

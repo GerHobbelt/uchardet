@@ -1,5 +1,5 @@
 revision: 4403268
-title: Virtual International Authority File
+title: International Standard Name Identifier
 url: https://be.wikipedia.org/wiki/Virtual_International_Authority_File
 
 

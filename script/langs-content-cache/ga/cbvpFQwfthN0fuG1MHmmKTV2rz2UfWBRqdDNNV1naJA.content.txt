@@ -1,5 +1,5 @@
 revision: 1062810
-title: "Saintr\xE9itheacht Teanga"
+title: "Tipeola\xEDocht focl\xF3ireola\xEDoch (Teangeola\xEDocht)"
 url: https://ga.wikipedia.org/wiki/Saintr%C3%A9itheacht_Teanga
 
 

@@ -1,5 +1,5 @@
 revision: 19823093
-title: "Musterpyynj\xE4rvi"
+title: "Kyyn\xE4r\xE4j\xE4rvi (Lohja)"
 url: https://fi.wikipedia.org/wiki/Musterpyynj%C3%A4rvi
 
 

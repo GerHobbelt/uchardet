@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Paraíso (República Dominicana)
-Líquido sinovial
-Lađevac
-Batrachostomus chaseni
-Ignacio Aliseda
-Museo Entomológico Francisco Luis Gallego
-Chimbacalle (Trolebús de Quito)
-Commodore SX-64
-Psilocybe zapotecoantillarum
-Prosopocoilus francisi
-Partido de San Isidro
-UGC 104
-Michael Hixon
-Descarboxilación de Barton
-Peón de Berolina
-Lost in Time
-NGC 7052
-Santa Maria (Torres Novas)
-Macuiltochtli (centzon totochtin)
-Modo subjuntivo
-Hypocnemis flavescens
-Miss Mundo 1988
-Laurence Ekperigin
-Rasulabad (Unnao)
-María Codoceo Rojas
-Julia Morilla de Campbell
-Robert de Brus, V señor de Annandale
-Tuudi
-Monk Montgomery
-Cerámica calcidea
+EDeveloper
+Vicent J. Martínez
+Masanella
+Fernando Asuero
+Carlos Tábora
+Lituania en los Juegos Olímpicos de Pekín 2008
+VfB Homberg
+Loppi
+Cerro Jabalcón
+Maulana Mohammad Ali
+Cohibición
+Marina Vlady
+Francisco Ruiz Peinado
+National Lampoon's European Vacation
+Alone in the Dark: The New Nightmare
+Seis Días de Róterdam
+La olimpiada (Guglielmi)
+Xerosecta giustii
+Superintendencia General de Seguros (Costa Rica)
+Pacio do Río
+Elecciones generales de Antigua y Barbuda de 2023
+Mallomys aroaensis
+Zócalo de CPU
+Takumi Hojo
+Independence (Misuri)
+Teresa Santos (modelo brasileña)
+James Franco
+Chloroclystis
+John Humphrey Noyes
+Testergus gerhardi
 $pringfield (or, How I Learned to Stop Worrying and Love Legalized Gambling)
 'Till I Collapse
 (100252) 1994 RY25
@@ -782,6 +782,7 @@ AbsolutePunk
 Absortividad
 Abstracción (filosofía)
 Abstracts in Anthropology
+Abu Yahya ibn Abd al-Haqq
 Abu Yúsuf Yaacub al-Mansur
 Abusos
 Abyss
@@ -1206,6 +1207,7 @@ AgustaWestland AW169
 AgustaWestland AW189
 Agustín Argüelles
 Agustín Cuzzani
+Agustín J. Castrejón
 Agustín Querol
 Agustín de Hipona
 Agustín de Iturbide
@@ -1423,6 +1425,7 @@ Alemania occidental
 Alero (baloncesto)
 Alessa
 Alessandra Celletti
+Alessandra Giliani
 Alessandro Acquisti
 Alessandro Alvisi
 Alessandro Argenton
@@ -2488,6 +2491,7 @@ Archer Daniels Midland
 Archer John Porter Martin
 Archer Milton Huntington
 Archerd
+Archicofradía del Sepulcro (Almuñécar)
 Archie Green
 Archilles
 Archipiélago
@@ -3142,6 +3146,7 @@ Aveiro
 Avena
 Avengers: Age of Ultron
 Avenida Aguilera
+Avenida Defensores del Chaco (Paraguay)
 Avenida Flushing (línea Jamaica)
 Avenida Gratiot
 Avenida Jamaica (Queens)
@@ -3703,6 +3708,7 @@ Batman: The Lazarus Syndrome
 Batman: la serie animada
 Batmobile
 Baton Rouge
+Batrachostomus chaseni
 Batres
 Battery Park City
 Battery Records (hip hop)
@@ -4526,6 +4532,7 @@ Botánico
 Boudica
 Bougenvilla
 Boulder, Colorado
+Boulengerula niedeni
 Boulevard Edgar-Quinet
 Bouncemakers
 Bound To You
@@ -4555,6 +4562,7 @@ Bozsik Stadion
 Brachiopoda
 Bracken's World
 Brackenridgia heroldi
+Bracon tamaricis
 Brad Bradley
 Brad Cain
 Brad Falchuck
@@ -4937,6 +4945,7 @@ Buzzcocks
 By the Grace of God (canción)
 Bymia
 Bynon
+Byram (Misisipi)
 Byron Thames
 Byung-Hoon Lee
 Bào yú
@@ -5160,6 +5169,7 @@ Calle 111 (línea Jamaica)
 Calle 121 (línea Jamaica)
 Calle 13 (banda)
 Calle 13 (álbum)
+Calle 168 (metro de Nueva York)
 Calle 19 (Metro de Filadelfia)
 Calle Flower y Dean
 Calle Jamerdana
@@ -5286,6 +5296,7 @@ Campeonato Uruguayo de Primera División 1995
 Campeonato Uruguayo de Primera División 1996
 Campeonato Uruguayo de Primera División 1997
 Campeonato Uruguayo de Primera División 1999
+Campeonato Uruguayo de Segunda División 2011-12
 Campeonato colombiano 1950
 Campeonato colombiano 1951
 Campeonato colombiano 1952
@@ -5700,6 +5711,7 @@ Caroteno
 Carotenoide
 Carpe Jugulum
 Carpetbagger
+Carpiodes carpio
 Carrera de San Jerónimo
 Carrera por la tierra de 1889
 Carrere Records
@@ -5803,6 +5815,7 @@ Caso Roldán
 Caspe
 Casquetes polares de Marte
 Cassia
+Cassida kinabaluensis
 Cassiopeia A
 Cassville (Nueva Jersey)
 Casta
@@ -5910,6 +5923,7 @@ Caval.-Sm.
 Cavalier-Smith
 Cavia porcellus
 Cayo Casio Longino
+Cayo Roldán
 Caza de ballenas
 Caza-recolección
 Cazadores de ovnis
@@ -5962,6 +5976,7 @@ Cementerio Central de Viena
 Cementerio General de Guayaquil
 Cementerio General de Santiago
 Cementerio de La Plata
+Cementerio de Merrion
 Cementerio de Santa Ifigenia
 Cementerio de la Almudena
 Cementerio de la Chacarita
@@ -6071,6 +6086,7 @@ Certificación de ventas discográficas
 Cerveza
 Cerámica Jōmon
 Cerámica Yayoi
+Cerámica calcidea
 Cerámica y porcelana japonesa
 Cesare Canevari
 Cesare Spighi
@@ -6334,6 +6350,7 @@ Chile en la clasificación de Conmebol para la Copa Mundial de Fútbol de 2018
 Chile en la clasificación de Conmebol para la Copa Mundial de Fútbol de 2022
 Chile en los Juegos Olímpicos
 Chileno
+Chimbacalle (Trolebús de Quito)
 Chimpancé
 China
 China Continental
@@ -6498,6 +6515,7 @@ Chrysler
 Chrysocyon brachyurus
 Chrysomelidae
 Chrysomeloidea
+Chthonius grafittii
 Chu Shong-tin
 Chuck Berry
 Chuck Close
@@ -7195,6 +7213,7 @@ Commodore 64
 Commodore Amiga
 Commodore International
 Commodore PET
+Commodore SX-64
 Common
 Common Sense Media
 Commonwealth Law Reports
@@ -7458,6 +7477,7 @@ Conquista de Hispania
 Conquista de Navarra
 Conquista de las islas Canarias
 Conquista española de América
+Conquista francesa de Senegal
 Conquista musulmana de la península ibérica
 Conquista romana de Britania
 Conquista romana de Hispania
@@ -8257,6 +8277,7 @@ Cámara Alta
 Cámara Argentina de Productores de Fonogramas y Videogramas
 Cámara Baja
 Cámara Santa
+Cámara Uruguaya de Tecnologías de la Información
 Cámara de Consejeros de Japón
 Cámara de Diputados de Chile
 Cámara de Nintendo 3DS
@@ -8897,6 +8918,7 @@ Demo (videojuegos)
 Democracia
 Democracia directa
 Democracia participativa
+Democracy Dies in Darkness
 Democracy Now
 Democracy on Broadway
 Democratic Party (United States)
@@ -9059,6 +9081,7 @@ Desastre del Exxon Valdez
 Desastre natural
 Desastres de Ibrox
 Descamisado
+Descarboxilación de Barton
 Descarga de archivos
 Descarga de música
 Descarga digital
@@ -9079,6 +9102,7 @@ Desfiladero (geomorfología)
 Deshidratación
 Desierto de Atacama
 Desierto de Tabernas
+Design Center (Metro de Boston)
 Design Week
 Design for Living
 Designación OTAN
@@ -9608,6 +9632,7 @@ Dolores Franco Manera
 Dolph Schayes
 Doma clásica
 Domenech Farell
+Domenico Fischietti
 Domenico Paolella
 Domenico Scarlatti
 Domeno
@@ -10340,6 +10365,7 @@ El Salvador
 El Santo (serie de televisión)
 El Señor de los Anillos
 El Señor de los Anillos: la Comunidad del Anillo
+El Supí
 El Telégrafo
 El Tiempo (Colombia)
 El Universo (Guayaquil)
@@ -10486,6 +10512,7 @@ El-Yadida
 Elaine Martone
 Elam (reino)
 Elamitas
+Elateriospermeae
 Elche
 Elche CF
 Elche Club de Fútbol
@@ -10502,6 +10529,7 @@ Elecciones al Senado de los Estados Unidos de 2018
 Elecciones autonómicas en España
 Elecciones de Baden-Wurtemberg de 1972
 Elecciones en Estados Unidos
+Elecciones estatales de Berlín de 1990
 Elecciones generales de Bolivia de 2014
 Elecciones generales de España
 Elecciones generales de España de 1869
@@ -10672,6 +10700,7 @@ Emancipación de la mujer
 Emanuele Beraudo di Pralormo
 Embajada
 Embajada de España en Alemania
+Embajada de Ucrania en Portugal
 Embajador
 Embajador de los Estados Unidos ante las Naciones Unidas
 Embalse
@@ -10700,6 +10729,7 @@ Emilio Benfele Álvarez
 Emilio Bueso
 Emilio Castelar
 Emilio Mola
+Emilio Morollón
 Emilio P. Miraglia
 Emilio, o De la educación
 Emily Browning
@@ -11098,6 +11128,7 @@ Escape atmosférico
 Escape from the Planet of the Apes
 Escarlatina
 Escatrón
+Escena de corrida con pescado
 Escena poscréditos
 Escenario de sonido
 Escenografía
@@ -12539,6 +12570,7 @@ Fontanero
 Fonticulida
 Fonética
 Foo Fighters
+Football Club Féminin Juvisy-sur-Orge Essonne
 Football League Championship
 FootballDatabase
 Footloose (película de 1984)
@@ -12667,6 +12699,7 @@ Fortune 100
 Fortune 1000
 Fortune 500
 Forty Thieves (pandilla de Nueva York)
+Forum Decii
 Fosa Romanche
 Fosa de Bougainville
 Fosa de Cabo Verde
@@ -12772,6 +12805,7 @@ Francisco Aguilera y Egea
 Francisco Alía Miranda
 Francisco Andrés Octavio
 Francisco Ayala
+Francisco Casavella
 Francisco Correa de Arauxo
 Francisco Delicado
 Francisco Franco
@@ -12783,6 +12817,7 @@ Francisco Maceo Osorio
 Francisco Marcos Marín
 Francisco Pablo Donadío
 Francisco Pi y Margall
+Francisco Pérez de Valenzuela (político)
 Francisco Solano López (historietista)
 Francisco Soler Grima
 Francisco Suárez
@@ -13308,6 +13343,7 @@ Gayo Valerio Catulo
 Gaélico escocés
 Gdansk
 GeForce
+Gearóid Morrissey
 Geddy Lee
 Geely
 Geezer Butler
@@ -13356,6 +13392,7 @@ Genesis Live
 Genetista
 Geneva (Nueva York)
 Geneva, Ohio
+Genichi Takahashi
 Genie in a Bottle
 Genio atrapado (canción)
 Genital
@@ -15116,6 +15153,7 @@ Hero (canción de Kirk Franklin)
 Hero Nation Chapter III
 Hero, Hero
 Herodes el Grande
+Herona
 Heroína
 Herpes genital
 Herpes simple
@@ -16286,6 +16324,7 @@ Hyperion Books for Children
 Hyperoodon planifrons
 Hypersports
 Hypochytridiomycetes
+Hypocnemis flavescens
 Hypocrisy
 Hypselomus
 Hypsioma
@@ -16429,6 +16468,7 @@ Iberia
 Iberismo
 Iberoamérica
 Ibidem
+Ibidionini
 Ibiracatu
 Ibiza (isla)
 Ibn Abdun
@@ -16591,6 +16631,7 @@ Iglesia ortodoxa rusa
 Iglesia ortodoxa serbia
 Iglesia ortodoxa ucraniana
 Iglesia presbiteriana
+Ignacio Aliseda
 Ignacio Bosque
 Ignacio López Tarso
 Ignacio Rambla
@@ -16910,6 +16951,7 @@ Institut National de la Statistique et des Études Économiques
 Instituto
 Instituto Alemán de Puerto Montt
 Instituto Asturiano de la Mujer
+Instituto Botánico de Barcelona
 Instituto Cardenal Cisneros
 Instituto Catalán Internacional por la Paz
 Instituto Chino de Paleontología de Vertebrados y Paleoantropología
@@ -17002,6 +17044,7 @@ Interfaz
 Interfaz de programación de aplicaciones
 Interferón
 Interhamwe
+Interleucina 9
 Internado
 International Amphitheatre
 International Bibliography of the Social Sciences
@@ -17168,6 +17211,7 @@ Isla Columbia (Nueva York)
 Isla Cottonwood
 Isla Ellis
 Isla Europa
+Isla Farwa
 Isla Fisher
 Isla James Ross
 Isla Joinville
@@ -17714,6 +17758,7 @@ Jean-Paul Gaultier
 Jean-Paul Sartre
 Jean-Pierre Thorn
 Jeanette Brakewell
+Jeanette Maus
 Jeanine van Santen
 Jeanne-Marie Leprince de Beaumont
 Jebel Irhoud
@@ -17829,6 +17874,7 @@ Jesus, Take the Wheel
 Jesús
 Jesús Barrios
 Jesús Blasco
+Jesús Carrasco
 Jesús Franco
 Jesús Guzmán
 Jesús Gómez Portugal Montenegro
@@ -18483,6 +18529,7 @@ Juan de Mariana
 Juan de Villanueva
 Juan de la Cierva y Peñafiel
 Juan del Valle Caviedes
+Juana Goizueta Vértiz
 Juana Inés de la Cruz
 Juana de Arco
 Judas Iscariote
@@ -18585,6 +18632,7 @@ Julia Elena Dávalos
 Julia Gillard
 Julia Krajewski
 Julia Lee (musician)
+Julia Morilla de Campbell
 Julia Ormond
 Julia Wolfe
 Julian Baring
@@ -18633,6 +18681,7 @@ July 21
 JumboTron
 Jun'ichirō Tanizaki
 Jun'ya Ota
+Junciana (desambiguación)
 June Pointer
 Juneau
 Jungermanniales
@@ -18695,6 +18744,7 @@ Justin Vernon
 Justine Henin
 Justmylord
 Justus Lehto
+Justus Schmidt
 Jutba
 Jutlandia
 Juvenal
@@ -18725,6 +18775,7 @@ Jörg Münzner
 Jørgen Ingmann
 Jørgen Leth
 Jørn Lande
+Júnior Fell
 Jürgen B. Donges
 Jürgen Habermas
 Jōetsu
@@ -19255,6 +19306,7 @@ Kroshwell
 Krueck and Sexton Architects
 Krumholzibacteriota
 Krunk!
+Krunoslav Lovrek
 Krusty Krab
 Krypto
 Krypton
@@ -19478,6 +19530,7 @@ La luz fantástica
 La maldición de Bly Manor
 La maldición de Capistrano
 La maldición del titán
+La mamá y la puta
 La mancha humana
 La mano lunga del padrino
 La marca de Atenea
@@ -19526,6 +19579,7 @@ La vendetta di Lady Morgan
 La vendetta è il mio perdono
 La venganza de Huracán Ramírez
 La verdad (novela)
+La verità in cimento
 La versión de Browning
 La vida de Brian
 La villa vil
@@ -19761,6 +19815,7 @@ Laurel de Oro
 Lauren Bacall
 Lauren Jauregui
 Lauren-Marie Taylor
+Laurence Ekperigin
 Laurence Fishburne
 Laurence Olivier
 Laurence Sterne
@@ -19793,13 +19848,16 @@ Lazarillo de Tormes
 Lazo (accesorio del gaucho)
 Lazo corredizo
 Lazos familiares
+Lađevac
 Le Blanc-Mesnil
+Le Chalard
 Le Divorce
 Le Freak
 Le Grand Rex
 Le Havre
 Le Lorey
 Le Mesnilbus
+Le Pont-de-Planches
 Le Port-Marly
 Le Shuuk
 Le Tigre
@@ -20264,6 +20322,7 @@ Linda Cropper
 Linda Edwards Graham
 Linda Perry
 Linda Ronstadt
+Linda Sällström
 Linda Villumsen
 Linda Wada
 Linda Woolverton
@@ -20619,6 +20678,7 @@ Lose Yourself
 Lost Capital
 Lost Sounds: Blacks And The Birth Of The Recording Industry 1891–1922
 Lost Without Your Love
+Lost in Time
 Lost in Translation
 Lost in translation
 Lotus (álbum)
@@ -20737,6 +20797,7 @@ Lucy O'Brien
 Lucy Patané
 Lucy Punch
 Lucy Westmore
+Lucía Pérez Camarena
 Ludacris
 Ludger Beerbaum
 Ludificación
@@ -20914,6 +20975,8 @@ Líneas de Balmer
 Lípido
 Líquido
 Líquido cefalorraquídeo
+Líquido sinovial
+Líquido sobreenfriado
 Líquidos
 Lírica cancioneril
 Lóbulo de Roche
@@ -21054,6 +21117,7 @@ Macrolingüística
 Macromolécula
 Macropygia timorlaoensis
 Macrófago
+Macuiltochtli (centzon totochtin)
 Macy Gray
 Macy's
 Mad Decent
@@ -21528,6 +21592,7 @@ Maria Callas
 Maria Mathea
 Maria Menounos
 Maria Muldaur
+Maria Velho da Costa
 Mariachi Sol de México de José Hernández
 Mariah Carey
 Mariah Carey (álbum)
@@ -21636,6 +21701,7 @@ Mario Super Sluggers
 Mario Superstar Baseball
 Mario Tennis
 Mario Tennis (Nintendo 64)
+Mario Vaquerizo
 Mario is Missing!
 Mario y Sonic en los Juegos Olímpicos Tokio 2020
 Mario y Sonic en los Juegos Olímpicos de Invierno
@@ -21757,6 +21823,7 @@ Martinus Willem Beijerinck
 Martita Hunt
 Marty McFly
 Martín Calvo Calvo
+Martín García
 Martín I de Aragón
 Martín Landajo
 Martín Lasarte
@@ -21811,6 +21878,7 @@ María Antonieta de Austria
 María Berlanga Bandera
 María Bonilla
 María Carolina de Borbón-Dos Sicilias (1798-1870)
+María Codoceo Rojas
 María Cristina de Habsburgo-Lorena
 María Félix
 María Gabriela de Luxemburgo
@@ -22250,6 +22318,7 @@ Merkel cell polyomavirus
 Merle Travis
 Merluza austral
 Merna Kennedy
+Merops persicus
 Merritt Ruhlen
 Merry Christmas... Have a Nice Life
 Mersey
@@ -22425,6 +22494,7 @@ Michael Halliday
 Michael Haupert
 Michael Haynes III
 Michael Heizer
+Michael Hixon
 Michael Houghton
 Michael Hutchence
 Michael J. Fox
@@ -22612,6 +22682,7 @@ Mike Dunleavy Sr.
 Mike Elizondo
 Mike Figgis
 Mike Flanagan
+Mike Lavallee
 Mike Markkula
 Mike McCready
 Mike Myers
@@ -22768,6 +22839,7 @@ Mirant
 Mirbelia speciosa
 Mireya Mendoza
 Miria Obote
+Mirian I de Iberia
 Mirito Torreiro
 Mirjam Melchers
 Mirounga
@@ -22791,6 +22863,7 @@ Miss Havisham
 Miss Internacional 1985
 Miss Lara
 Miss Martian
+Miss Mundo 1988
 Miss Mundo 1995
 Miss Universo
 Miss Universo 1980
@@ -22878,6 +22951,7 @@ Modesto Lafuente
 Modo de producción
 Modo de producción capitalista
 Modo descarga (DS y 3DS)
+Modo subjuntivo
 Modulación (música)
 Modulación (telecomunicación)
 Modulación por desplazamiento de frecuencia
@@ -22945,6 +23019,7 @@ Monitor Latino
 Monitor de computadora
 Monja
 Monje
+Monk Montgomery
 Monkey Majik
 Monneoncideres
 Monoacetato de glicerilo
@@ -23099,6 +23174,7 @@ Mostaza
 Mostek
 Motel
 Motero
+Mother's Finest
 Mother's Little Helper
 Motherwell Football Club
 Motion Picture Association
@@ -23293,6 +23369,7 @@ Museo Arqueológico Nacional (España)
 Museo Británico
 Museo Brooklyn
 Museo Condé
+Museo Entomológico Francisco Luis Gallego
 Museo Español de Antigüedades
 Museo Field de Historia Natural
 Museo Fitzwilliam
@@ -23555,6 +23632,7 @@ NFL Europe
 NGC 1260
 NGC 4361
 NGC 4526
+NGC 7052
 NGD Project
 NH Hoteles
 NIS America
@@ -24131,6 +24209,7 @@ Ninilchik (Alaska)
 Ninja
 Ninna Swaab
 Nino Bizzarri
+Nino Galović
 Nino Lucarelli
 Nino Lucarrelli
 Nintendo
@@ -25013,6 +25092,7 @@ Oz (banda finlandesa)
 Oz the Great and Powerful
 Ozark (serie de televisión)
 Ozuna
+Ozyptila lugubris
 Ozzy Osbourne
 Oído absoluto
 Oțelu Roșu
@@ -25293,6 +25373,7 @@ Paquistán
 Par motor
 Para Ti (revista)
 Para olvidarte de mí (canción)
+Para soñar
 Parabéns
 Paracaidismo
 Paracaídas
@@ -25329,6 +25410,7 @@ Paratritania
 Paratuberculosis
 Paraíso
 Paraíso (La Divina Comedia)
+Paraíso (República Dominicana)
 Paraíso: Canto Decimoprimero
 Pardosa oriens
 Pared celular
@@ -25456,6 +25538,7 @@ Partido Socialista del País Valenciano
 Partido amistoso
 Partido de General San Martín
 Partido de Marcos Paz
+Partido de San Isidro
 Partido de las estrellas
 Partido de los Socialistas de Aragón
 Partido demócrata de los Estados Unidos
@@ -25999,6 +26082,7 @@ Peña Sport Fútbol Club
 Peñones de San Pedro y San Pablo
 Peñón de Alhucemas
 Peñón de Vélez de la Gomera
+Peón de Berolina
 Pfizer
 Phaeophyceae
 Phaeoprogne tapera
@@ -26062,6 +26146,7 @@ Phippsburg (Maine)
 Phlox
 Phocidae
 Phoebe Snow
+Phoenicopterus roseus
 Phoenix Film Critics Society Awards
 Phoenix, Arizona
 Phonetics
@@ -26075,6 +26160,7 @@ Phylloporia (fungus)
 Phyllostachys aurea
 Physeter macrocephalus
 Physical Etoys
+Phytoseius
 Phước Tuy
 Pi y Margall
 Piaggio P.166
@@ -26664,6 +26750,7 @@ Precámbrico
 Predicción científica
 Predominio lingüístico
 Predrag Bjelac
+Preexistencia de Jesucristo
 Prefectura Naval Argentina
 Prefectura de Aichi
 Prefectura de Akita
@@ -27108,6 +27195,7 @@ Proplasto
 Proplerodia
 Propliopithecus
 Prosa
+Prosopocoilus francisi
 Prospect Park
 Prosper Ahiabu
 Prostitución
@@ -27291,6 +27379,7 @@ Psicología social
 Psicoterapeuta
 Psicóloga
 Psicópata
+Psilocybe zapotecoantillarum
 Psilotopsida
 Psiquiatría
 PsycINFO
@@ -27520,6 +27609,7 @@ Quantum Leap
 Quantum of Solace (película)
 Quasiespecie
 Quatsinoporites
+Que el viento sople a tu favor
 Quebec (ciudad)
 Quebec North Shore & Labrador
 Quebec train crash
@@ -27584,6 +27674,7 @@ R (álbum)
 R&B contemporáneo
 R. E. Longacre
 R. H. Stoy
+R. R. Soares
 R.A.Foster
 R.B. Kitaj
 R.Br.
@@ -27807,6 +27898,7 @@ Rasha Al-Sadaga
 Rasmus Hardiker
 Rastovača
 Rastrillo (herramienta)
+Rasulabad (Unnao)
 Rat Pack
 Ratificación
 Ratificar
@@ -28360,6 +28452,7 @@ Retrovision
 Retrónimo
 Retuerta del Bullaque
 Return to Never Land
+Return to Zero (álbum)
 Retículo endoplasmático
 Retórica
 Reuben Jones
@@ -28420,6 +28513,7 @@ Rex Brown
 Rex Grossman
 Rex Orange County
 Rey Boo
+Rey Charol
 Rey Dedede
 Rey Lee-Lo
 Rey Mysterio
@@ -28483,6 +28577,7 @@ Richard Fanshawe (jinete)
 Richard Feynman
 Richard Ford (escritor)
 Richard Francis Burton
+Richard Goode
 Richard Harris
 Richard Hough
 Richard Howard (poeta)
@@ -28708,6 +28803,7 @@ Robert Wilson (director)
 Robert Wise
 Robert Young
 Robert Zemeckis
+Robert de Brus, V señor de Annandale
 Robert van Valin
 Roberto Bautista
 Roberto Bianchi Montero
@@ -28975,6 +29071,7 @@ Rough Trade Records
 Roul and Doors
 Roulndoors
 Roulsen
+Roundhead
 Roush Fenway Racing
 Route 66 (canción)
 Rovi Corporation
@@ -29169,6 +29266,7 @@ Río Grande del Sur
 Río Grande do Sul
 Río Guadalquivir
 Río Guadiana
+Río Guatulame
 Río Harlem
 Río Haz
 Río Hudson
@@ -29180,6 +29278,7 @@ Río Laramie
 Río Limpopo
 Río Loxley
 Río Lualaba
+Río Magat
 Río Matanza-Riachuelo
 Río Menderes
 Río Misisipi
@@ -29287,6 +29386,7 @@ Sabrina Signs
 Sabrina, the Teenage Witch
 Sabu (luchador)
 Sacerdote del amor
+Sacere
 Sacha Baron Cohen
 Sacha Guitry
 Sachtouris (K40)
@@ -29359,6 +29459,7 @@ Salix humboldtiana
 Sally Clark
 Sally Field
 Salma Hayek
+Salmo 80
 Salmonela
 Salmonella enterica
 Saloma
@@ -29560,6 +29661,7 @@ Santa Isabel National Forest
 Santa Juana (obra de teatro)
 Santa Lucía
 Santa Lucía (Buenos Aires)
+Santa Maria (Torres Novas)
 Santa Marta (Colombia)
 Santa Mónica (California)
 Santa Sede
@@ -30814,6 +30916,7 @@ Sonata de invierno
 Sonata para piano n.º 18 (Mozart)
 Sonda espacial
 Soneja
+Soneto 12
 Sonetos (Shakespeare)
 Song H
 Songs from Liquid Days
@@ -30997,6 +31100,7 @@ Spider-Man
 Spider-Man (película)
 Spider-Man 2
 Spider-Man 3
+Spider-Man: Amigo o Enemigo
 Spiesheim
 Spike Lee
 Spike Video Game Awards
@@ -31021,6 +31125,7 @@ Split (película)
 SpongeBob SquarePants
 Sporohalobacter
 Sport (diario)
+Sport Huáscar
 Sport Lisboa e Benfica
 Sporting News
 Sporting News Men's College Basketball Player of the Year
@@ -31173,6 +31278,7 @@ Steel guitar
 Steelton
 Steely Dan
 Stefan Bors
+Stefan Gierasch
 Stefan Wolpe
 Stefano Accorsi
 Stefano Delle Chiaie
@@ -32088,6 +32194,7 @@ Teatro Haymarket
 Teatro La Fenice
 Teatro Metropólitan
 Teatro Politeama
+Teatro São Pedro
 Teatro Vivian Beaumont
 Teatro de la Antigua Grecia
 Teatro de la Ciudad
@@ -32591,6 +32698,7 @@ The Greatest Generation (album)
 The Green Hornet (película)
 The Guardian
 The Guitar Man
+The Handsome Family
 The Hatchet Boys
 The Haunting (serie de televisión)
 The Haunting of Helen Walker
@@ -33829,6 +33937,7 @@ Turun Palloseura
 Turín
 Tusi Pisi
 Tutsi
+Tuudi
 Tuvalu
 Tv Guide
 Twelve Angry Men
@@ -33924,6 +34033,7 @@ UEFA Champions League
 UEFA Cup
 UEFA Europa League
 UEFA.com
+UGC 104
 UJ Seuteni
 UK Albums Chart
 UK Dance Chart
@@ -34178,6 +34288,7 @@ Unidades imperiales
 Unidas Podemos
 Unikonta
 Unimate
+Union (álbum de Puya)
 Union Beach
 Union Bordeaux Bègles
 Union City (Nueva Jersey)
@@ -34883,6 +34994,7 @@ Vinnie Paul
 Vino de España
 Vino de montaña
 Vinyl LP
+Viocourt
 Viola
 Violación
 Violante de Aragón
@@ -35363,6 +35475,7 @@ What to Expect When You're Expecting
 What's My Line?
 What's My Name? (canción de Rihanna)
 What's Up, Tiger Lily?
+Whatever Happened, Happened
 Wheels (Glee)
 Wheels of Steel
 When I Was Your Man
@@ -35557,6 +35670,7 @@ Williston
 Williston (Dakota del Norte)
 Willk.
 Wilma Labate
+Wilmer Zumba
 Wilmington (Carolina del Norte)
 Wilt Chamberlain
 Wilton D. Gregory
@@ -35579,6 +35693,7 @@ Windsor, Ontario
 Windy City Pro Wrestling
 Wing (rugby)
 Wing Chun
+Wing Commander: Armada
 Wing chun
 Wings For Wheels: The Making Of Born To Run
 Winky
@@ -35737,6 +35852,7 @@ Xindi
 XrossMediaBar
 Xscape (grupo)
 Xtreme Pro Wrestling
+Xue Tao
 Xun Zi
 Xyclone
 Xylomimus
@@ -35979,6 +36095,7 @@ Zenith (cómic)
 Zenobia
 Zentralfriedhol de Viena
 Zepelín
+Zeppelin Rammer
 Zeppo Marx
 Zero (The King Of Fighters)
 Zhejiang
@@ -36976,6 +37093,7 @@ AbsolutePunk
 Absortividad
 Abstracción (filosofía)
 Abstracts in Anthropology
+Abu Yahya ibn Abd al-Haqq
 Abu Yúsuf Yaacub al-Mansur
 Abusos
 Abyss
@@ -37400,6 +37518,7 @@ AgustaWestland AW169
 AgustaWestland AW189
 Agustín Argüelles
 Agustín Cuzzani
+Agustín J. Castrejón
 Agustín Querol
 Agustín de Hipona
 Agustín de Iturbide
@@ -37617,6 +37736,7 @@ Alemania occidental
 Alero (baloncesto)
 Alessa
 Alessandra Celletti
+Alessandra Giliani
 Alessandro Acquisti
 Alessandro Alvisi
 Alessandro Argenton
@@ -37854,6 +37974,7 @@ Almudena Grandes
 Alois Podhajsky
 Aloma Steele
 Alondra Hidalgo
+Alone in the Dark: The New Nightmare
 Alonso Arreola
 Alonso Cano
 Alonso Sánchez Coello
@@ -38682,6 +38803,7 @@ Archer Daniels Midland
 Archer John Porter Martin
 Archer Milton Huntington
 Archerd
+Archicofradía del Sepulcro (Almuñécar)
 Archie Green
 Archilles
 Archipiélago
@@ -39336,6 +39458,7 @@ Aveiro
 Avena
 Avengers: Age of Ultron
 Avenida Aguilera
+Avenida Defensores del Chaco (Paraguay)
 Avenida Flushing (línea Jamaica)
 Avenida Gratiot
 Avenida Jamaica (Queens)
@@ -40721,6 +40844,7 @@ Botánico
 Boudica
 Bougenvilla
 Boulder, Colorado
+Boulengerula niedeni
 Boulevard Edgar-Quinet
 Bouncemakers
 Bound To You
@@ -40750,6 +40874,7 @@ Bozsik Stadion
 Brachiopoda
 Bracken's World
 Brackenridgia heroldi
+Bracon tamaricis
 Brad Bradley
 Brad Cain
 Brad Falchuck
@@ -41132,6 +41257,7 @@ Buzzcocks
 By the Grace of God (canción)
 Bymia
 Bynon
+Byram (Misisipi)
 Byron Thames
 Byung-Hoon Lee
 Bào yú
@@ -41355,6 +41481,7 @@ Calle 111 (línea Jamaica)
 Calle 121 (línea Jamaica)
 Calle 13 (banda)
 Calle 13 (álbum)
+Calle 168 (metro de Nueva York)
 Calle 19 (Metro de Filadelfia)
 Calle Flower y Dean
 Calle Jamerdana
@@ -41481,6 +41608,7 @@ Campeonato Uruguayo de Primera División 1995
 Campeonato Uruguayo de Primera División 1996
 Campeonato Uruguayo de Primera División 1997
 Campeonato Uruguayo de Primera División 1999
+Campeonato Uruguayo de Segunda División 2011-12
 Campeonato colombiano 1950
 Campeonato colombiano 1951
 Campeonato colombiano 1952
@@ -41849,6 +41977,7 @@ Carlos René Aguilera Tamayo
 Carlos Saavedra Lamas
 Carlos Seixas
 Carlos Tayag
+Carlos Tábora
 Carlos VI del Sacro Imperio Romano Germánico
 Carlos Ysbert
 Carlos de Gales
@@ -41895,6 +42024,7 @@ Caroteno
 Carotenoide
 Carpe Jugulum
 Carpetbagger
+Carpiodes carpio
 Carrera de San Jerónimo
 Carrera por la tierra de 1889
 Carrere Records
@@ -41998,6 +42128,7 @@ Caso Roldán
 Caspe
 Casquetes polares de Marte
 Cassia
+Cassida kinabaluensis
 Cassiopeia A
 Cassville (Nueva Jersey)
 Casta
@@ -42105,6 +42236,7 @@ Caval.-Sm.
 Cavalier-Smith
 Cavia porcellus
 Cayo Casio Longino
+Cayo Roldán
 Caza de ballenas
 Caza-recolección
 Cazadores de ovnis
@@ -42157,6 +42289,7 @@ Cementerio Central de Viena
 Cementerio General de Guayaquil
 Cementerio General de Santiago
 Cementerio de La Plata
+Cementerio de Merrion
 Cementerio de Santa Ifigenia
 Cementerio de la Almudena
 Cementerio de la Chacarita
@@ -42257,6 +42390,7 @@ Ceriantharia
 Ceroctis verdicki
 Cerro Alto de Los Leones
 Cerro El Plomo
+Cerro Jabalcón
 Cerro Juncal
 Cerro Porteño
 Cerro Yeguas Heladas
@@ -42565,6 +42699,7 @@ Chloe Stamp
 Chlorarachneas
 Chlorobacteria
 Chlorobi
+Chloroclystis
 Chloroflexi
 Chlorokybophyceae
 Chlorokybophytina
@@ -42695,6 +42830,7 @@ Chrysler
 Chrysocyon brachyurus
 Chrysomelidae
 Chrysomeloidea
+Chthonius grafittii
 Chu Shong-tin
 Chuck Berry
 Chuck Close
@@ -43199,6 +43335,7 @@ Cogeneración
 Cognado
 Cognición
 Cohete
+Cohibición
 Coigüe (desambiguación)
 Coin Master
 Cola en T
@@ -43656,6 +43793,7 @@ Conquista de Hispania
 Conquista de Navarra
 Conquista de las islas Canarias
 Conquista española de América
+Conquista francesa de Senegal
 Conquista musulmana de la península ibérica
 Conquista romana de Britania
 Conquista romana de Hispania
@@ -44455,6 +44593,7 @@ Cámara Alta
 Cámara Argentina de Productores de Fonogramas y Videogramas
 Cámara Baja
 Cámara Santa
+Cámara Uruguaya de Tecnologías de la Información
 Cámara de Consejeros de Japón
 Cámara de Diputados de Chile
 Cámara de Nintendo 3DS
@@ -45095,6 +45234,7 @@ Demo (videojuegos)
 Democracia
 Democracia directa
 Democracia participativa
+Democracy Dies in Darkness
 Democracy Now
 Democracy on Broadway
 Democratic Party (United States)
@@ -45278,6 +45418,7 @@ Desfiladero (geomorfología)
 Deshidratación
 Desierto de Atacama
 Desierto de Tabernas
+Design Center (Metro de Boston)
 Design Week
 Design for Living
 Designación OTAN
@@ -45807,6 +45948,7 @@ Dolores Franco Manera
 Dolph Schayes
 Doma clásica
 Domenech Farell
+Domenico Fischietti
 Domenico Paolella
 Domenico Scarlatti
 Domeno
@@ -46178,6 +46320,7 @@ ECOM Agroindustrial
 ECW Hardcore Heaven
 EDRAM
 EDVAC
+EDeveloper
 EE. UU.
 EE.UU.
 EINECS
@@ -46539,6 +46682,7 @@ El Salvador
 El Santo (serie de televisión)
 El Señor de los Anillos
 El Señor de los Anillos: la Comunidad del Anillo
+El Supí
 El Telégrafo
 El Tiempo (Colombia)
 El Universo (Guayaquil)
@@ -46685,6 +46829,7 @@ El-Yadida
 Elaine Martone
 Elam (reino)
 Elamitas
+Elateriospermeae
 Elche
 Elche CF
 Elche Club de Fútbol
@@ -46701,6 +46846,8 @@ Elecciones al Senado de los Estados Unidos de 2018
 Elecciones autonómicas en España
 Elecciones de Baden-Wurtemberg de 1972
 Elecciones en Estados Unidos
+Elecciones estatales de Berlín de 1990
+Elecciones generales de Antigua y Barbuda de 2023
 Elecciones generales de Bolivia de 2014
 Elecciones generales de España
 Elecciones generales de España de 1869
@@ -46871,6 +47018,7 @@ Emancipación de la mujer
 Emanuele Beraudo di Pralormo
 Embajada
 Embajada de España en Alemania
+Embajada de Ucrania en Portugal
 Embajador
 Embajador de los Estados Unidos ante las Naciones Unidas
 Embalse
@@ -46899,6 +47047,7 @@ Emilio Benfele Álvarez
 Emilio Bueso
 Emilio Castelar
 Emilio Mola
+Emilio Morollón
 Emilio P. Miraglia
 Emilio, o De la educación
 Emily Browning
@@ -47297,6 +47446,7 @@ Escape atmosférico
 Escape from the Planet of the Apes
 Escarlatina
 Escatrón
+Escena de corrida con pescado
 Escena poscréditos
 Escenario de sonido
 Escenografía
@@ -48350,6 +48500,7 @@ Fermentación
 Fermentibacteria
 Fermín Novillo
 Fernando Aguilera Carvajal
+Fernando Asuero
 Fernando Belaúnde Terry
 Fernando Garibay
 Fernando Garrido
@@ -48738,6 +48889,7 @@ Fontanero
 Fonticulida
 Fonética
 Foo Fighters
+Football Club Féminin Juvisy-sur-Orge Essonne
 Football League Championship
 FootballDatabase
 Footloose (película de 1984)
@@ -48866,6 +49018,7 @@ Fortune 100
 Fortune 1000
 Fortune 500
 Forty Thieves (pandilla de Nueva York)
+Forum Decii
 Fosa Romanche
 Fosa de Bougainville
 Fosa de Cabo Verde
@@ -48971,6 +49124,7 @@ Francisco Aguilera y Egea
 Francisco Alía Miranda
 Francisco Andrés Octavio
 Francisco Ayala
+Francisco Casavella
 Francisco Correa de Arauxo
 Francisco Delicado
 Francisco Franco
@@ -48982,6 +49136,8 @@ Francisco Maceo Osorio
 Francisco Marcos Marín
 Francisco Pablo Donadío
 Francisco Pi y Margall
+Francisco Pérez de Valenzuela (político)
+Francisco Ruiz Peinado
 Francisco Solano López (historietista)
 Francisco Soler Grima
 Francisco Suárez
@@ -49507,6 +49663,7 @@ Gayo Valerio Catulo
 Gaélico escocés
 Gdansk
 GeForce
+Gearóid Morrissey
 Geddy Lee
 Geely
 Geezer Butler
@@ -49555,6 +49712,7 @@ Genesis Live
 Genetista
 Geneva (Nueva York)
 Geneva, Ohio
+Genichi Takahashi
 Genie in a Bottle
 Genio atrapado (canción)
 Genital
@@ -51315,6 +51473,7 @@ Hero (canción de Kirk Franklin)
 Hero Nation Chapter III
 Hero, Hero
 Herodes el Grande
+Herona
 Heroína
 Herpes genital
 Herpes simple
@@ -52629,6 +52788,7 @@ Iberia
 Iberismo
 Iberoamérica
 Ibidem
+Ibidionini
 Ibiracatu
 Ibiza (isla)
 Ibn Abdun
@@ -52934,6 +53094,7 @@ Incumplimiento de contrato
 Indemnización de perjuicios
 Indemnización penal
 Indemnización por dependencia (derecho)
+Independence (Misuri)
 Independencia
 Independencia de México
 Independent Albums
@@ -53111,6 +53272,7 @@ Institut National de la Statistique et des Études Économiques
 Instituto
 Instituto Alemán de Puerto Montt
 Instituto Asturiano de la Mujer
+Instituto Botánico de Barcelona
 Instituto Cardenal Cisneros
 Instituto Catalán Internacional por la Paz
 Instituto Chino de Paleontología de Vertebrados y Paleoantropología
@@ -53203,6 +53365,7 @@ Interfaz
 Interfaz de programación de aplicaciones
 Interferón
 Interhamwe
+Interleucina 9
 Internado
 International Amphitheatre
 International Bibliography of the Social Sciences
@@ -53369,6 +53532,7 @@ Isla Columbia (Nueva York)
 Isla Cottonwood
 Isla Ellis
 Isla Europa
+Isla Farwa
 Isla Fisher
 Isla James Ross
 Isla Joinville
@@ -53915,6 +54079,7 @@ Jean-Paul Gaultier
 Jean-Paul Sartre
 Jean-Pierre Thorn
 Jeanette Brakewell
+Jeanette Maus
 Jeanine van Santen
 Jeanne-Marie Leprince de Beaumont
 Jebel Irhoud
@@ -54030,6 +54195,7 @@ Jesus, Take the Wheel
 Jesús
 Jesús Barrios
 Jesús Blasco
+Jesús Carrasco
 Jesús Franco
 Jesús Guzmán
 Jesús Gómez Portugal Montenegro
@@ -54253,6 +54419,7 @@ John Hersey
 John Hobhouse
 John Hollander
 John Howard
+John Humphrey Noyes
 John Huston
 John Irving
 John Irwin
@@ -54684,6 +54851,7 @@ Juan de Mariana
 Juan de Villanueva
 Juan de la Cierva y Peñafiel
 Juan del Valle Caviedes
+Juana Goizueta Vértiz
 Juana Inés de la Cruz
 Juana de Arco
 Judas Iscariote
@@ -54835,6 +55003,7 @@ July 21
 JumboTron
 Jun'ichirō Tanizaki
 Jun'ya Ota
+Junciana (desambiguación)
 June Pointer
 Juneau
 Jungermanniales
@@ -54897,6 +55066,7 @@ Justin Vernon
 Justine Henin
 Justmylord
 Justus Lehto
+Justus Schmidt
 Jutba
 Jutlandia
 Juvenal
@@ -54927,6 +55097,7 @@ Jörg Münzner
 Jørgen Ingmann
 Jørgen Leth
 Jørn Lande
+Júnior Fell
 Jürgen B. Donges
 Jürgen Habermas
 Jōetsu
@@ -55457,6 +55628,7 @@ Kroshwell
 Krueck and Sexton Architects
 Krumholzibacteriota
 Krunk!
+Krunoslav Lovrek
 Krusty Krab
 Krypto
 Krypton
@@ -55680,6 +55852,7 @@ La luz fantástica
 La maldición de Bly Manor
 La maldición de Capistrano
 La maldición del titán
+La mamá y la puta
 La mancha humana
 La mano lunga del padrino
 La marca de Atenea
@@ -55694,6 +55867,7 @@ La nave de los necios
 La noche más larga del diablo
 La noche más oscura (película)
 La notte che Evelyn uscì dalla tomba
+La olimpiada (Guglielmi)
 La padrona è servita
 La pendiente resbaladiza
 La perla y la ola (fábula persa)
@@ -55728,6 +55902,7 @@ La vendetta di Lady Morgan
 La vendetta è il mio perdono
 La venganza de Huracán Ramírez
 La verdad (novela)
+La verità in cimento
 La versión de Browning
 La vida de Brian
 La villa vil
@@ -55998,12 +56173,14 @@ Lazo corredizo
 Lazos familiares
 Lađevac
 Le Blanc-Mesnil
+Le Chalard
 Le Divorce
 Le Freak
 Le Grand Rex
 Le Havre
 Le Lorey
 Le Mesnilbus
+Le Pont-de-Planches
 Le Port-Marly
 Le Shuuk
 Le Tigre
@@ -56468,6 +56645,7 @@ Linda Cropper
 Linda Edwards Graham
 Linda Perry
 Linda Ronstadt
+Linda Sällström
 Linda Villumsen
 Linda Wada
 Linda Woolverton
@@ -56587,6 +56765,7 @@ Little Caesars Arena
 Little Dragon
 Little Miami River
 Lituania
+Lituania en los Juegos Olímpicos de Pekín 2008
 Liturgia
 Litófita
 Litótrofo
@@ -56729,6 +56908,7 @@ Loop (música)
 Loose (álbum)
 Lope de Vega
 Lophelia
+Loppi
 Lorado Taft
 Lord Byron
 Lord Mountbatten
@@ -56942,6 +57122,7 @@ Lucy O'Brien
 Lucy Patané
 Lucy Punch
 Lucy Westmore
+Lucía Pérez Camarena
 Ludacris
 Ludger Beerbaum
 Ludificación
@@ -57120,6 +57301,7 @@ Lípido
 Líquido
 Líquido cefalorraquídeo
 Líquido sinovial
+Líquido sobreenfriado
 Líquidos
 Lírica cancioneril
 Lóbulo de Roche
@@ -57428,6 +57610,7 @@ Mall Centro Plaza Liberia
 Mall Paseo del Mar
 Mall del Pacífico
 Mall del Sol
+Mallomys aroaensis
 Mallorca
 Malmö
 Malnutrición
@@ -57735,6 +57918,7 @@ Maria Callas
 Maria Mathea
 Maria Menounos
 Maria Muldaur
+Maria Velho da Costa
 Mariachi Sol de México de José Hernández
 Mariah Carey
 Mariah Carey (álbum)
@@ -57779,6 +57963,7 @@ Marina Nacional francesa
 Marina Real Canadiense
 Marina Real británica
 Marina Sciocchetti
+Marina Vlady
 Marina de Estados Unidos
 Marina de Guerra de la República Dominicana
 Marina de Guerra del Perú
@@ -57843,6 +58028,7 @@ Mario Super Sluggers
 Mario Superstar Baseball
 Mario Tennis
 Mario Tennis (Nintendo 64)
+Mario Vaquerizo
 Mario is Missing!
 Mario y Sonic en los Juegos Olímpicos Tokio 2020
 Mario y Sonic en los Juegos Olímpicos de Invierno
@@ -57964,6 +58150,7 @@ Martinus Willem Beijerinck
 Martita Hunt
 Marty McFly
 Martín Calvo Calvo
+Martín García
 Martín I de Aragón
 Martín Landajo
 Martín Lasarte
@@ -58042,6 +58229,7 @@ Masacre
 Masacre de Tlatelolco
 Masacre de la Escuela Primaria Robb de Uvalde
 Masai Ujiri
+Masanella
 Masaru Konuma
 Masatoshi Shima
 Mascarada
@@ -58158,6 +58346,7 @@ Matthias Jabs
 Matthias Lange
 Mauchenheim
 Maud von Rosen
+Maulana Mohammad Ali
 Maureen O'Hara
 Mauregato
 Maurice A. F. Breistroffer
@@ -58458,6 +58647,7 @@ Merkel cell polyomavirus
 Merle Travis
 Merluza austral
 Merna Kennedy
+Merops persicus
 Merritt Ruhlen
 Merry Christmas... Have a Nice Life
 Mersey
@@ -58821,6 +59011,7 @@ Mike Dunleavy Sr.
 Mike Elizondo
 Mike Figgis
 Mike Flanagan
+Mike Lavallee
 Mike Markkula
 Mike McCready
 Mike Myers
@@ -58977,6 +59168,7 @@ Mirant
 Mirbelia speciosa
 Mireya Mendoza
 Miria Obote
+Mirian I de Iberia
 Mirito Torreiro
 Mirjam Melchers
 Mirounga
@@ -59311,6 +59503,7 @@ Mostaza
 Mostek
 Motel
 Motero
+Mother's Finest
 Mother's Little Helper
 Motherwell Football Club
 Motion Picture Association
@@ -59913,6 +60106,7 @@ National Geospatial-Intelligence Agency
 National Hockey League
 National Institute for Medical Research
 National Lacrosse League
+National Lampoon's European Vacation
 National Medal of Science
 National Museum of Women in the Arts
 National Oceanic and Atmospheric Administration
@@ -60345,6 +60539,7 @@ Ninilchik (Alaska)
 Ninja
 Ninna Swaab
 Nino Bizzarri
+Nino Galović
 Nino Lucarelli
 Nino Lucarrelli
 Nintendo
@@ -61227,6 +61422,7 @@ Oz (banda finlandesa)
 Oz the Great and Powerful
 Ozark (serie de televisión)
 Ozuna
+Ozyptila lugubris
 Ozzy Osbourne
 Oído absoluto
 Oțelu Roșu
@@ -61328,6 +61524,7 @@ Pacific Tri Nations 2000
 Pacific Tri Nations 2001
 Pacific Tri Nations 2005
 Pacifique Studios
+Pacio do Río
 Paco Casal
 Paco López Mengual
 Paco Malgesto
@@ -61507,6 +61704,7 @@ Paquistán
 Par motor
 Para Ti (revista)
 Para olvidarte de mí (canción)
+Para soñar
 Parabéns
 Paracaidismo
 Paracaídas
@@ -62279,6 +62477,7 @@ Phippsburg (Maine)
 Phlox
 Phocidae
 Phoebe Snow
+Phoenicopterus roseus
 Phoenix Film Critics Society Awards
 Phoenix, Arizona
 Phonetics
@@ -62292,6 +62491,7 @@ Phylloporia (fungus)
 Phyllostachys aurea
 Physeter macrocephalus
 Physical Etoys
+Phytoseius
 Phước Tuy
 Pi y Margall
 Piaggio P.166
@@ -62881,6 +63081,7 @@ Precámbrico
 Predicción científica
 Predominio lingüístico
 Predrag Bjelac
+Preexistencia de Jesucristo
 Prefectura Naval Argentina
 Prefectura de Aichi
 Prefectura de Akita
@@ -63739,6 +63940,7 @@ Quantum Leap
 Quantum of Solace (película)
 Quasiespecie
 Quatsinoporites
+Que el viento sople a tu favor
 Quebec (ciudad)
 Quebec North Shore & Labrador
 Quebec train crash
@@ -63803,6 +64005,7 @@ R (álbum)
 R&B contemporáneo
 R. E. Longacre
 R. H. Stoy
+R. R. Soares
 R.A.Foster
 R.B. Kitaj
 R.Br.
@@ -64580,6 +64783,7 @@ Retrovision
 Retrónimo
 Retuerta del Bullaque
 Return to Never Land
+Return to Zero (álbum)
 Retículo endoplasmático
 Retórica
 Reuben Jones
@@ -64640,6 +64844,7 @@ Rex Brown
 Rex Grossman
 Rex Orange County
 Rey Boo
+Rey Charol
 Rey Dedede
 Rey Lee-Lo
 Rey Mysterio
@@ -64703,6 +64908,7 @@ Richard Fanshawe (jinete)
 Richard Feynman
 Richard Ford (escritor)
 Richard Francis Burton
+Richard Goode
 Richard Harris
 Richard Hough
 Richard Howard (poeta)
@@ -65196,6 +65402,7 @@ Rough Trade Records
 Roul and Doors
 Roulndoors
 Roulsen
+Roundhead
 Roush Fenway Racing
 Route 66 (canción)
 Rovi Corporation
@@ -65390,6 +65597,7 @@ Río Grande del Sur
 Río Grande do Sul
 Río Guadalquivir
 Río Guadiana
+Río Guatulame
 Río Harlem
 Río Haz
 Río Hudson
@@ -65401,6 +65609,7 @@ Río Laramie
 Río Limpopo
 Río Loxley
 Río Lualaba
+Río Magat
 Río Matanza-Riachuelo
 Río Menderes
 Río Misisipi
@@ -65508,6 +65717,7 @@ Sabrina Signs
 Sabrina, the Teenage Witch
 Sabu (luchador)
 Sacerdote del amor
+Sacere
 Sacha Baron Cohen
 Sacha Guitry
 Sachtouris (K40)
@@ -65580,6 +65790,7 @@ Salix humboldtiana
 Sally Clark
 Sally Field
 Salma Hayek
+Salmo 80
 Salmonela
 Salmonella enterica
 Saloma
@@ -66138,6 +66349,7 @@ Seijin no Hi
 Seilalala Lam
 Seinfeld
 Seis Códigos
+Seis Días de Róterdam
 Seis Naciones
 Seiyū
 Sejong (ciudad)
@@ -67036,6 +67248,7 @@ Sonata de invierno
 Sonata para piano n.º 18 (Mozart)
 Sonda espacial
 Soneja
+Soneto 12
 Sonetos (Shakespeare)
 Song H
 Songs from Liquid Days
@@ -67219,6 +67432,7 @@ Spider-Man
 Spider-Man (película)
 Spider-Man 2
 Spider-Man 3
+Spider-Man: Amigo o Enemigo
 Spiesheim
 Spike Lee
 Spike Video Game Awards
@@ -67243,6 +67457,7 @@ Split (película)
 SpongeBob SquarePants
 Sporohalobacter
 Sport (diario)
+Sport Huáscar
 Sport Lisboa e Benfica
 Sporting News
 Sporting News Men's College Basketball Player of the Year
@@ -67395,6 +67610,7 @@ Steel guitar
 Steelton
 Steely Dan
 Stefan Bors
+Stefan Gierasch
 Stefan Wolpe
 Stefano Accorsi
 Stefano Delle Chiaie
@@ -67810,6 +68026,7 @@ Supergrupo
 Supergrupo SAR
 Superhéroe
 Superhéroes
+Superintendencia General de Seguros (Costa Rica)
 Superliga de Grecia
 Superliga de India
 Superliga de Rusia
@@ -68178,6 +68395,7 @@ Taking The Long Way
 Taking Woodstock
 Taku-Hero
 Taku-hero
+Takumi Hojo
 Taladro
 Talcahuano
 Talent show
@@ -68310,6 +68528,7 @@ Teatro Haymarket
 Teatro La Fenice
 Teatro Metropólitan
 Teatro Politeama
+Teatro São Pedro
 Teatro Vivian Beaumont
 Teatro de la Antigua Grecia
 Teatro de la Ciudad
@@ -68528,6 +68747,7 @@ Terence Bird
 Terence Fisher
 Terence Marsh
 Terence Rattigan
+Teresa Santos (modelo brasileña)
 Terminal
 Terminal 5 (venue)
 Terminología
@@ -68586,6 +68806,7 @@ Tess Harper
 Tessaria integrifolia
 Testa da sbarco per otto implacabili
 Testamento
+Testergus gerhardi
 Testigos de Jehová
 Testudines
 Tetracosactida
@@ -68813,6 +69034,7 @@ The Greatest Generation (album)
 The Green Hornet (película)
 The Guardian
 The Guitar Man
+The Handsome Family
 The Hatchet Boys
 The Haunting (serie de televisión)
 The Haunting of Helen Walker
@@ -70402,6 +70624,7 @@ Unidades imperiales
 Unidas Podemos
 Unikonta
 Unimate
+Union (álbum de Puya)
 Union Beach
 Union Bordeaux Bègles
 Union City (Nueva Jersey)
@@ -70938,6 +71161,7 @@ Vestuario
 Vestíbulo
 Vesícula (biología celular)
 Vevey
+VfB Homberg
 Viacheslav Chukanov
 Viacom
 Viacom (1952-2006)
@@ -70960,6 +71184,7 @@ Vice (magazine)
 Vice (revista)
 Vice Media
 Vicegobernador
+Vicent J. Martínez
 Vicente Aleixandre
 Vicente Blasco Ibáñez
 Vicente Cabeza de Vaca y Fernández de Córdoba
@@ -71107,6 +71332,7 @@ Vinnie Paul
 Vino de España
 Vino de montaña
 Vinyl LP
+Viocourt
 Viola
 Violación
 Violante de Aragón
@@ -71587,6 +71813,7 @@ What to Expect When You're Expecting
 What's My Line?
 What's My Name? (canción de Rihanna)
 What's Up, Tiger Lily?
+Whatever Happened, Happened
 Wheels (Glee)
 Wheels of Steel
 When I Was Your Man
@@ -71781,6 +72008,7 @@ Williston
 Williston (Dakota del Norte)
 Willk.
 Wilma Labate
+Wilmer Zumba
 Wilmington (Carolina del Norte)
 Wilt Chamberlain
 Wilton D. Gregory
@@ -71803,6 +72031,7 @@ Windsor, Ontario
 Windy City Pro Wrestling
 Wing (rugby)
 Wing Chun
+Wing Commander: Armada
 Wing chun
 Wings For Wheels: The Making Of Born To Run
 Winky
@@ -71955,12 +72184,14 @@ Xbox One
 Xbox One Chat Headset
 Xbox system software
 Xenosiren
+Xerosecta giustii
 Xilema
 Ximena Navarrete
 Xindi
 XrossMediaBar
 Xscape (grupo)
 Xtreme Pro Wrestling
+Xue Tao
 Xun Zi
 Xyclone
 Xylomimus
@@ -72203,6 +72434,7 @@ Zenith (cómic)
 Zenobia
 Zentralfriedhol de Viena
 Zepelín
+Zeppelin Rammer
 Zeppo Marx
 Zero (The King Of Fighters)
 Zhejiang
@@ -72266,6 +72498,7 @@ Związek Producentów Audio Video
 Zygnematophyceae
 Zygopetalinae
 Záborské
+Zócalo de CPU
 Zúrich
 apertura Bird
 computer

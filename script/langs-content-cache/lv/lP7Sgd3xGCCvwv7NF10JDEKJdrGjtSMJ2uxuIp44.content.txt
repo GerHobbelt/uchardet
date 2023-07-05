@@ -1,5 +1,5 @@
 revision: 3866583
-title: "Ce\u013Ctekas"
+title: "\u0160aurlapu ce\u013Cteka"
 url: https://lv.wikipedia.org/wiki/Ce%C4%BCtekas
 
 

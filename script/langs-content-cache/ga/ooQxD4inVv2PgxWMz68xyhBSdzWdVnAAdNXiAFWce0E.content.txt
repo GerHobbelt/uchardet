@@ -1,5 +1,5 @@
 revision: 1120110
-title: "An Conradh Angla-\xC9ireannach"
+title: "Aire Gn\xF3tha\xED Eacnama\xEDochta"
 url: https://ga.wikipedia.org/wiki/Conradh_Angla-%C3%89ireannach
 
 

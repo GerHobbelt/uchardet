@@ -1,5 +1,5 @@
 revision: 1106497
-title: William James
+title: Hilary Putnam
 url: https://ga.wikipedia.org/wiki/William_James
 
 

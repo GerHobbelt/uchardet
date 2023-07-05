@@ -1,5 +1,6 @@
 revision: 4435489
-title: "\u10E1\u10E2\u10DD\u10D8\u10EA\u10D8\u10D6\u10DB\u10D8"
+title: "\u10D0\u10DB\u10D1\u10E0\u10DD\u10E1\u10D8 \u10DB\u10D8\u10DA\u10D0\u10DC\u10D4\
+  \u10DA\u10D8"
 url: https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%A2%E1%83%9D%E1%83%98%E1%83%AA%E1%83%98%E1%83%96%E1%83%9B%E1%83%98
 
 

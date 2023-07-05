@@ -1,5 +1,5 @@
-revision: 1132888
-title: "Ois\xEDn mac Finn"
+revision: 1171452
+title: 'Fire Emblem: Thracia 776'
 url: https://ga.wikipedia.org/wiki/Ois%C3%ADn_mac_Finn
 
 

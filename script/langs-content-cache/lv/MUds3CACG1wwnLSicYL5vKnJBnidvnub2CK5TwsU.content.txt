@@ -1,5 +1,5 @@
 revision: 3686609
-title: Team CSC
+title: Jurijs Trofimovs
 url: https://lv.wikipedia.org/wiki/Tinkoff
 
 

@@ -1,5 +1,5 @@
 revision: 1139800
-title: Uaschuarc
+title: Frithuaschuarc
 url: https://ga.wikipedia.org/wiki/Uaschuarc
 
 

@@ -1,5 +1,5 @@
 revision: 281787
-title: "G\u0127erien ta' Ellora"
+title: Thevenot
 url: https://mt.wikipedia.org/wiki/G%C4%A7erien_ta%27_Ellora
 
 

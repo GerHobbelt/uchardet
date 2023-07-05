@@ -1,5 +1,5 @@
 revision: 6992846
-title: MFK Gintra-Universitetas
+title: FC Gintra
 url: https://lt.wikipedia.org/wiki/FC_Gintra
 
 

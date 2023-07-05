@@ -1,5 +1,5 @@
 revision: 34854290
-title: SQL
+title: SQL:1999
 url: https://ko.wikipedia.org/wiki/SQL
 
 

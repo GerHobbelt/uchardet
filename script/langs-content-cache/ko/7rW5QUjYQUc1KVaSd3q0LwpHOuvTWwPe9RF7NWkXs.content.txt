@@ -1,5 +1,5 @@
 revision: 34952974
-title: "\uC74C\uC545"
+title: "\uAD00\uC545 \uD569\uC8FC"
 url: https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%95%85
 
 

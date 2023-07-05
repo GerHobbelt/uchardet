@@ -1,5 +1,5 @@
 revision: 21555090
-title: "KHL-kausi 2015\u20132016"
+title: "KHL-kausi 2012\u20132013"
 url: https://fi.wikipedia.org/wiki/KHL
 
 

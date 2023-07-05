@@ -1,5 +1,5 @@
 revision: 4308169
-title: "\u10DD\u10F0\u10D0\u10D8\u10DD"
+title: "\u10E2\u10DD\u10DA\u10D4\u10D3\u10DD (\u10DD\u10F0\u10D0\u10D8\u10DD)"
 url: https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%B0%E1%83%90%E1%83%98%E1%83%9D
 
 

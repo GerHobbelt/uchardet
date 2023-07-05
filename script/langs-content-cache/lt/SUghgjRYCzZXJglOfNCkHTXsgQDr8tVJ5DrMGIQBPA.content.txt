@@ -1,5 +1,5 @@
 revision: 6886959
-title: "\u017Dalioji knyga"
+title: Krisas Bowersas
 url: https://lt.wikipedia.org/wiki/%C5%BDalioji_knyga
 
 

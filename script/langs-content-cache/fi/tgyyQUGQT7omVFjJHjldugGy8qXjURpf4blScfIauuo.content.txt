@@ -1,5 +1,5 @@
 revision: 21024959
-title: Database Educational Software
+title: Revenge of the C5
 url: https://fi.wikipedia.org/wiki/Luettelo_Amstrad_CPC_-peleist%C3%A4
 
 

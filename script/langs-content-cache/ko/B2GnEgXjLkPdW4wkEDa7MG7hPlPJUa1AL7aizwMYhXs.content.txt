@@ -1,5 +1,6 @@
 revision: 32996520
-title: "\uBE44\uB514\uC624 \uAC8C\uC784 \uC7A5\uB974"
+title: "\uAC00\uC7A5 \uB9CE\uC774 \uD50C\uB808\uC774\uD55C \uBE44\uB514\uC624 \uAC8C\
+  \uC784 \uBAA9\uB85D"
 url: https://ko.wikipedia.org/wiki/%EB%B9%84%EB%94%94%EC%98%A4_%EA%B2%8C%EC%9E%84_%EC%9E%A5%EB%A5%B4
 
 

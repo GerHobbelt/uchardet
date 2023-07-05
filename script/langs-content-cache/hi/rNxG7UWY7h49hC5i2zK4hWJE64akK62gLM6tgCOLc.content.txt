@@ -1,5 +1,5 @@
 revision: 5562260
-title: "\u090F\u0938\u0930 \u0905\u092E\u0947\u0930\u093F\u0915\u093E"
+title: EMachines
 url: https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%B8%E0%A4%B0
 
 

@@ -1,5 +1,5 @@
 revision: 1160938
-title: "Contae Thiobraid \xC1rann"
+title: "Tiobraid \xC1rann"
 url: https://ga.wikipedia.org/wiki/Contae_Thiobraid_%C3%81rann
 
 

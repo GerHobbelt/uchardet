@@ -1,5 +1,5 @@
 revision: 6952987
-title: "Radvili\u0161kio SC"
+title: Laurynas Bratkauskas
 url: https://lt.wikipedia.org/wiki/Radvili%C5%A1kio_SC
 
 

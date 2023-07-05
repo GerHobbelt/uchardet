@@ -1,5 +1,5 @@
 revision: 6821418
-title: Morai
+title: Kengo Ota
 url: https://lt.wikipedia.org/wiki/Iwate_Grulla_Morioka
 
 

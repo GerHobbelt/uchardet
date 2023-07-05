@@ -1,5 +1,5 @@
 revision: 5144149
-title: "\u091C\u0948\u0915 \u0938\u094D\u091F\u0940\u0928\u092C\u0930\u094D\u0917\u0930"
+title: Strummed
 url: https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%87%E0%A4%B8_%E0%A4%97%E0%A4%BF%E0%A4%9F%E0%A4%BE%E0%A4%B0
 
 

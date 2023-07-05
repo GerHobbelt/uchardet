@@ -1,5 +1,5 @@
 revision: 3520204
-title: "Line\u0101rais regulators"
+title: Diode (elektronu lampa)
 url: https://lv.wikipedia.org/wiki/Diode_(elektronu_lampa)
 
 

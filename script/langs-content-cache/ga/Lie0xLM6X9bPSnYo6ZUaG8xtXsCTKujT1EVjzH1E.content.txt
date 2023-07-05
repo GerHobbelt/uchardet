@@ -1,5 +1,5 @@
 revision: 1059744
-title: "Arm Saoirse N\xE1isi\xFAnta na h\xC9ireann"
+title: Ceannaire (arm)
 url: https://ga.wikipedia.org/wiki/Arm_Saoirse_N%C3%A1isi%C3%BAnta_na_h%C3%89ireann
 
 

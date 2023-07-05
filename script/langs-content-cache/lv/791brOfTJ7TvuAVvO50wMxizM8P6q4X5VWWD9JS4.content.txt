@@ -1,5 +1,5 @@
 revision: 3144218
-title: Strazdi
+title: "Stur\u0146i"
 url: https://lv.wikipedia.org/wiki/Strazdi
 
 

@@ -1,5 +1,5 @@
 revision: 3278380
-title: "Procedur\u0101l\u0101 model\u0113\u0161ana"
+title: Xfrog
 url: https://lv.wikipedia.org/wiki/Procedur%C4%81l%C4%81_model%C4%93%C5%A1ana
 
 

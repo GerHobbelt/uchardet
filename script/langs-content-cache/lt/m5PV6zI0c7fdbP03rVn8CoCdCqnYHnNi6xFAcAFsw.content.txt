@@ -1,5 +1,5 @@
 revision: 6970910
-title: "Vytauto Did\u017Eiojo universitetas"
+title: Lietuvos universitetas
 url: https://lt.wikipedia.org/wiki/Vytauto_Did%C5%BEiojo_universitetas
 
 

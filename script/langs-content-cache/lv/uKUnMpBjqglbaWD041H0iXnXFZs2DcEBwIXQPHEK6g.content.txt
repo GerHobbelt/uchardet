@@ -1,5 +1,5 @@
 revision: 3833787
-title: "Etelst\u0101ns"
+title: Etelverds
 url: https://lv.wikipedia.org/wiki/Etelstans
 
 

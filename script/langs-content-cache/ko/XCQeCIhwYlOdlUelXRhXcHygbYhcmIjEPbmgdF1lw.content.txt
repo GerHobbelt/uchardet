@@ -1,5 +1,5 @@
 revision: 35153348
-title: "\uD55C\uAD6D\uACFC\uD559\uAE30\uC220\uC815\uBCF4\uC5F0\uAD6C\uC6D0"
+title: "XT5-\uBCA0\uC774\uCEE4"
 url: https://ko.wikipedia.org/wiki/%ED%95%9C%EA%B5%AD%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EC%A0%95%EB%B3%B4%EC%97%B0%EA%B5%AC%EC%9B%90
 
 

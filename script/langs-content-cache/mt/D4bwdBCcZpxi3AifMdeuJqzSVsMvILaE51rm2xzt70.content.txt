@@ -1,5 +1,5 @@
 revision: 291918
-title: ISO 4217
+title: Monarka tal-Grenada
 url: https://mt.wikipedia.org/wiki/Grenada
 
 

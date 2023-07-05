@@ -1,5 +1,6 @@
 revision: 4515387
-title: "\u0421\u0442\u044B\u0432\u0435\u043D \u041A\u0456\u043D\u0433"
+title: "\u0411\u0440\u0443\u043A\u043B\u0456\u043D\u0441\u043A\u0456 \u0436\u043D\u0456\
+  \u0432\u0435\u043D\u044C"
 url: https://be.wikipedia.org/wiki/%D0%A1%D1%82%D1%8B%D0%B2%D0%B5%D0%BD_%D0%9A%D1%96%D0%BD%D0%B3
 
 

@@ -1,5 +1,5 @@
 revision: 971250
-title: Eero Saarinen
+title: Cranbrook Academy of Art
 url: https://ga.wikipedia.org/wiki/Eero_Saarinen
 
 

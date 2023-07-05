@@ -1,5 +1,5 @@
 revision: 279803
-title: "Tpittir fuq il-Blat tal-Ba\u010Bir Mediterran Iberiku"
+title: Tpittir
 url: https://mt.wikipedia.org/wiki/Tpittir_fuq_il-Blat_tal-Ba%C4%8Bir_Mediterran_Iberiku
 
 

@@ -1,5 +1,5 @@
 revision: 1109659
-title: "St\xE1it Ch\xF3naidhme na Micrin\xE9ise"
+title: Palikir
 url: https://ga.wikipedia.org/wiki/St%C3%A1it_Ch%C3%B3naidhme_na_Micrin%C3%A9ise
 
 

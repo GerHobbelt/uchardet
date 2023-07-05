@@ -1,5 +1,5 @@
 revision: 3442945
-title: "\u0122irts \u0160olis"
+title: Frontlaines
 url: https://lv.wikipedia.org/wiki/%C4%A2irts_%C5%A0olis
 
 

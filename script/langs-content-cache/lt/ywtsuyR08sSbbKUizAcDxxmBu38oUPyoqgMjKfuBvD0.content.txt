@@ -1,5 +1,5 @@
 revision: 6778093
-title: Melioninis puntijus
+title: Puntius melanampyx
 url: https://lt.wikipedia.org/wiki/Puntijai
 
 

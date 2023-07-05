@@ -1,5 +1,5 @@
 revision: 6887389
-title: "Merkin\u0117s vals\u010Dius"
+title: "Doku\u010Dka"
 url: https://lt.wikipedia.org/wiki/Merkin%C4%97s_vals%C4%8Dius
 
 

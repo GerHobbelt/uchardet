@@ -1,5 +1,5 @@
 revision: 33489486
-title: "\uB808\uCF54\uB4DC \uB808\uC774\uBE14"
+title: "\uB77D \uB808\uCF54\uB4DC"
 url: https://ko.wikipedia.org/wiki/%EB%A0%88%EC%BD%94%EB%93%9C_%EB%A0%88%EC%9D%B4%EB%B8%94
 
 

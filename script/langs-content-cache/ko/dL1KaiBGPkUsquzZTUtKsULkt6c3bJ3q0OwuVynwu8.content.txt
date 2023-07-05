@@ -1,5 +1,5 @@
 revision: 34983400
-title: "USS \uC2A4\uD504\uB9C1\uD544\uB4DC (SSN-761)"
+title: "\uD53C\uBC97\uD22C\uC544\uC2DC\uC544"
 url: https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD_%ED%95%B4%EA%B5%B0
 
 

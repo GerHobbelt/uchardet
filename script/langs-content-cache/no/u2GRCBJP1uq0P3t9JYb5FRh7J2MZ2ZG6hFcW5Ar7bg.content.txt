@@ -1,5 +1,5 @@
 revision: 23600994
-title: Utenomgalaktisk astronomi
+title: Astronomi
 url: https://no.wikipedia.org/wiki/Astronomi
 
 

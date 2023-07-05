@@ -1,5 +1,5 @@
 revision: 273230
-title: Kolera
+title: Garcia de Orta
 url: https://mt.wikipedia.org/wiki/Kolera
 
 

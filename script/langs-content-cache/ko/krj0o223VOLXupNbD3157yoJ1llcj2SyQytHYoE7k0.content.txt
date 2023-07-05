@@ -1,5 +1,5 @@
 revision: 34340729
-title: "\uB370\uC774\uBE0C \uBA38\uC2A4\uD14C\uC778"
+title: "\uC7AC\uADF8 \uD310\uC800"
 url: https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%EB%B8%8C_%EB%A8%B8%EC%8A%A4%ED%85%8C%EC%9D%B8
 
 

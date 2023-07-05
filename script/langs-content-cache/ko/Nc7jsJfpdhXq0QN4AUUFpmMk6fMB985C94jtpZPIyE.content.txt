@@ -1,5 +1,6 @@
 revision: 33820772
-title: "2010\uB144 \uD558\uACC4 \uCCAD\uC18C\uB144 \uC62C\uB9BC\uD53D \uC720\uB3C4"
+title: "2010\uB144 \uD558\uACC4 \uCCAD\uC18C\uB144 \uC62C\uB9BC\uD53D \uD14C\uB2C8\
+  \uC2A4"
 url: https://ko.wikipedia.org/wiki/2010%EB%85%84_%ED%95%98%EA%B3%84_%EC%B2%AD%EC%86%8C%EB%85%84_%EC%98%AC%EB%A6%BC%ED%94%BD
 
 

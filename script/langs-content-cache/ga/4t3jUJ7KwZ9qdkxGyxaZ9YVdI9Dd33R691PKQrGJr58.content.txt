@@ -1,5 +1,5 @@
 revision: 1111589
-title: "\u01C2\u02BCAmkoe"
+title: Phonetics
 url: https://ga.wikipedia.org/wiki/Teangacha_%C7%83Kung
 
 

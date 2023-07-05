@@ -1,5 +1,5 @@
 revision: 252004
-title: Tavla perjodika
+title: Tellurju
 url: https://mt.wikipedia.org/wiki/Tavla_perjodika
 
 

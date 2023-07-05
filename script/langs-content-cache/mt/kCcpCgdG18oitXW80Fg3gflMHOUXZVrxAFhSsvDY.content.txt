@@ -1,5 +1,5 @@
 revision: 277293
-title: Galatasaray SK
+title: Taffarel
 url: https://mt.wikipedia.org/wiki/Galatasaray_SK
 
 

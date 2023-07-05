@@ -1,5 +1,5 @@
 revision: 1061342
-title: Goliad, Texas
+title: "Chogadh Neamhsple\xE1chas Mheicsiceo"
 url: https://ga.wikipedia.org/wiki/Goliad,_Texas
 
 

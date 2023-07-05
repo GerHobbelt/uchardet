@@ -1,5 +1,5 @@
 revision: 975731
-title: Matt Groening
+title: "Cart\xFAna\xED"
 url: https://ga.wikipedia.org/wiki/Matt_Groening
 
 

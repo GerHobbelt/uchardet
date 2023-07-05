@@ -1,5 +1,5 @@
 revision: 1154177
-title: Shannon Lucid
+title: STS-76 (en)
 url: https://ga.wikipedia.org/wiki/Shannon_Lucid
 
 

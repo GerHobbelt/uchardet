@@ -1,5 +1,5 @@
 revision: 35001373
-title: "\uC544\uB974\uBA54\uB2C8\uC544 \uACF5\uC601 \uB77C\uB514\uC624"
+title: Yugoslav Radio Television
 url: https://ko.wikipedia.org/wiki/%EC%9C%A0%EB%9F%BD_%EB%B0%A9%EC%86%A1_%EC%97%B0%EB%A7%B9
 
 

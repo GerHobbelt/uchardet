@@ -1,5 +1,5 @@
 revision: 288289
-title: Hibernians FC
+title: FC Amsterdam
 url: https://mt.wikipedia.org/wiki/Hibernians_FC
 
 

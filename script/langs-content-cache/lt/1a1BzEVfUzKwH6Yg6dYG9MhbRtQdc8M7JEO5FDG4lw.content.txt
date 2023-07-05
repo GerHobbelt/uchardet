@@ -1,5 +1,5 @@
 revision: 6982103
-title: Minsko gubernijos Pinsko apskrityje
+title: Minsko gubernija
 url: https://lt.wikipedia.org/wiki/Minsko_gubernija
 
 

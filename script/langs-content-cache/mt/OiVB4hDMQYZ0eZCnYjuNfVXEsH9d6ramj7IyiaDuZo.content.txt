@@ -1,5 +1,5 @@
 revision: 286220
-title: Kap Verde
+title: Sal (Kap Verde)
 url: https://mt.wikipedia.org/wiki/Kap_Verde
 
 

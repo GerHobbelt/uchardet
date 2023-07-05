@@ -1,5 +1,5 @@
 revision: 279155
-title: David Beckham
+title: Los Angeles Galaxy
 url: https://mt.wikipedia.org/wiki/David_Beckham
 
 

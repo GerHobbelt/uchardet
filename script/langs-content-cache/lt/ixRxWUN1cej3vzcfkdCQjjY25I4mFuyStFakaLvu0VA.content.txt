@@ -1,5 +1,5 @@
 revision: 6956472
-title: "\u010Ceslovas Banevi\u010Dius"
+title: "Ni\u017Enij Udinsko rajonas"
 url: https://lt.wikipedia.org/wiki/%C4%8Ceslovas_Banevi%C4%8Dius
 
 

@@ -1,5 +1,6 @@
 revision: 32897697
-title: "\uCF08\uC2DC \uADF8\uB798\uBA38"
+title: "\uB137\uD50C\uB9AD\uC2A4 \uC624\uB9AC\uC9C0\uB110 \uC2DC\uB9AC\uC988: \uD2B8\
+  \uB864\uD5CC\uD130-\uC544\uCE74\uB514\uC544\uC758 \uC804\uC124"
 url: https://ko.wikipedia.org/wiki/%EC%BC%88%EC%8B%9C_%EA%B7%B8%EB%9E%98%EB%A8%B8
 
 

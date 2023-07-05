@@ -1,5 +1,5 @@
 revision: 1031860
-title: Raymond E. Brown
+title: The Faculty
 url: https://ga.wikipedia.org/wiki/Usher
 
 
