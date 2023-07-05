@@ -491,7 +491,7 @@ for lang_arg in langs:
                       for suggestion in suggestions:
                           if len(suggestion) == 0:
                               continue
-                          if len(title) <= 4:      # SPECIAL OPTIMIZATION: ignore (links to) pages with (very) short titles.
+                          if len(suggestion) <= 4:      # SPECIAL OPTIMIZATION: ignore (links to) pages with (very) short titles.
                               continue
                           if is_already_marked(suggestion):
                               continue
@@ -556,7 +556,7 @@ for lang_arg in langs:
                   for link in links:
                       if len(link) == 0:
                           continue
-                      if len(title) <= 4:      # SPECIAL OPTIMIZATION: ignore (links to) pages with (very) short titles.
+                      if len(link) <= 4:      # SPECIAL OPTIMIZATION: ignore (links to) pages with (very) short titles.
                           continue
                       #if link in visited_pages or \
                       #   link in discarded_pages:
