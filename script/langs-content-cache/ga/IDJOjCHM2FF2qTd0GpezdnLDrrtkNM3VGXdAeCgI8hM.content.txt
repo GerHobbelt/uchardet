@@ -1,5 +1,5 @@
 revision: 1109835
-title: "Liosta sr\xE1ideanna agus cearn\xF3ga i mBaile \xC1tha Cliath"
+title: Grattan Bridge
 url: https://ga.wikipedia.org/wiki/Liosta_sr%C3%A1ideanna_agus_cearn%C3%B3ga_i_mBaile_%C3%81tha_Cliath
 
 

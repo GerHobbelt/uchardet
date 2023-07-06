@@ -1,5 +1,5 @@
 revision: 29744068
-title: Sosis
+title: Drisheen
 url: https://tr.wikipedia.org/wiki/Sosis
 
 

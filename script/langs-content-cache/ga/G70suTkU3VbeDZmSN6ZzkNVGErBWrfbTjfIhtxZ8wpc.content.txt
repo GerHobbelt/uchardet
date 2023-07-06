@@ -1,5 +1,5 @@
 revision: 1108158
-title: Manchester Arena
+title: "Buam\xE1il Manchester Arena (2017)"
 url: https://ga.wikipedia.org/wiki/Buam%C3%A1il_Manchester_Arena_(2017)
 
 

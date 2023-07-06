@@ -1,5 +1,5 @@
 revision: 29616261
-title: John Mason Ward
+title: Central Electricity Research Laboratory
 url: https://tr.wikipedia.org/wiki/John_Mason_Ward
 
 

@@ -1,5 +1,5 @@
 revision: 1040034
-title: "Sp\xE1innis"
+title: Teach na hOstaire
 url: https://ga.wikipedia.org/wiki/An_Sp%C3%A1inn
 
 

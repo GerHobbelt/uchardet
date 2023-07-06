@@ -1,5 +1,5 @@
 revision: 1135698
-title: "Beirl\xEDn"
+title: Alba Berlin
 url: https://ga.wikipedia.org/wiki/Beirl%C3%ADn
 
 

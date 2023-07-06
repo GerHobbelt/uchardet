@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Magdalenafloden
-Chaource
-Kang Eun-hye
-Pernille L. Stenby
-Atrium
-Frederik Christian Eilschov
-Lake Mweru Wantipa
-Frikvarter - Kampen om Sommerferien
-Daisuke Tomita
-Barlt
-Schaal
-Mason
-Ed de Goeij
-Yvette Tulip Hlaváčová
-Danmarks Biblioteksforening
-Tom Söderberg
-Tiden før øjeblikket
-Plopper
-Bovenau
-Karl Schorn (maler)
-Østlig hvepsevåge
-Adda Ravnkilde
-Skorpioner
-Franz Xaver Gabelsberger
-Isortoq Helistop
-Scarlet Pleasure
-Apophis
-Forlaget Ravnerock
-Danmarks Gymnastik Forbund
-Emily Stang Sando
+Holm & Grut
+Erik Aarestrup
+Division 1 Féminine 2021-22
+Jim Stjerne Hansen
+Teosinte
+Santiago Ramón y Cajal
+Hvidovre Volleyball Klub
+Außernzell
+Vivara
+Sweet Memories
+Christopher Juul-Jensen
+DW Stadium
+Hitliste
+Christina Ricci
+Évreux
+Der er et yndigt land (flertydig)
+Parchim
+Skriðuklaustur
+Severin de Junge
+Jens Benzon
+Keith Campbell (biolog)
+Misato Katsuragi
+Frispark (fodbold)
+Alessandro Magnasco
+William Joseph Simmons
+Karlum Sogn
+Christian Pedersen (cykelrytter)
+Bernardo Rezende
+Jonas Larholm
+Louisiana Purchase Exposition
 "Animal" (Conor Maynard sang)
 "Animal" (Def Leppard sang)
 "Animal" (Fuck Like a Beast)
@@ -225,6 +225,7 @@ Emily Stang Sando
 1. oktober
 1. september
 1. slag ved Marne
+1. til 11. etape af Vuelta a España 2017
 1. verdenskrig
 1. århundrede
 1. årtusinde f.Kr.
@@ -240,6 +241,7 @@ Emily Stang Sando
 10. januar
 10. juli
 10. juni
+10. klasse
 10. maj
 10. marts
 10. november
@@ -1199,6 +1201,7 @@ AFC Cup gruppespil 2015
 AFC Cup kvalifikation 2015
 AFC Cup slutspil 2015
 AFC President's Cup 2015
+AFC Wimbledon
 AFI (band)
 AFI 100
 AFM Records
@@ -1620,6 +1623,7 @@ Adams æbler
 Adams-Onis traktaten
 Adamski
 Adaptive forventninger
+Adda Ravnkilde
 Adela Rogers St. Johns
 Adelaide
 Adelaide United
@@ -3147,6 +3151,7 @@ Anders Laursen
 Anders Limpar
 Anders Lindegaard
 Anders Linderoth
+Anders Lund
 Anders Matthesen
 Anders Nilsen
 Anders Nyström
@@ -3271,6 +3276,7 @@ Andrew A. Humphreys
 Andrew A. Kosove
 Andrew Barr
 Andrew Bloxam
+Andrew Bonar Law
 Andrew Breitbart
 Andrew Coats
 Andrew Cole
@@ -3396,6 +3402,7 @@ Ane Marie Elise Toft
 Anekdotisk evidens
 Aneke Rune
 Anemoi
+Anerkendelse
 Anetan Distrikt
 Anette Hoffmann
 Anette Støvelbæk
@@ -3590,6 +3597,7 @@ Anna Udvardy
 Anna af Hessen
 Anna af Kleve
 Anna af Polen
+Anna af Rusland
 Anna and the King
 Anna-Lena Löfgren
 Annabella Milbanke
@@ -3908,6 +3916,7 @@ Apollo-programmet
 Apollon
 Apologize (sang)
 Apophenia
+Apophis
 Apopleksi
 Apoptose
 Apoptygma Berzerk
@@ -3948,6 +3957,7 @@ Apple II
 Apple Inc.
 Apple Lisa
 Apple Macintosh
+Apple Macintosh PPC
 Apple Records
 Appleby Castle
 Applewold, Pennsylvania
@@ -3985,6 +3995,7 @@ Araknofobi
 Aralsøen
 Aram Khatjaturjan
 Aramæisk (sprog)
+Arani (Bolivia)
 Arantxa Sánchez Vicario
 Arapaho
 Ararat (Victoria)
@@ -4691,6 +4702,7 @@ Atomur
 Atomvåben
 Atomvåbnenes historie
 Atomvægt
+Atrium
 Atromitos F.C.
 Attacullaculla
 Attaphol Buspakom
@@ -5197,6 +5209,7 @@ BK Søllerød-Vedbæk
 BK Union
 BK-46
 BL 15 inch Mk I-flådekanon
+BM Atlético Madrid
 BMA Magazine
 BMC Racing Team
 BMW 114
@@ -5417,6 +5430,7 @@ Balmoral Castle
 Balsam-Gran
 Balsamering
 Baltere
+Balthasar Münter (Holmens provst)
 Balthazar Lange
 Baltikum
 Baltimore
@@ -5473,6 +5487,7 @@ Bangladesh ved OL
 Bangladesh ved VM i svømning 2011
 Bangladesh ved sommer-OL 2016
 Bangor Daily News
+Bangsbo Fort
 Bangsue
 Banharn Silapa-archa
 Banjaran Crocker
@@ -5584,6 +5599,7 @@ Barium
 Bariumbromid
 Bark (plantedel)
 Bark (skib)
+Barlt
 Barmoor Castle
 Barn av regnbuen
 Barnabas (apostel)
@@ -6530,6 +6546,7 @@ Biggleswade Castle
 Bihulebetændelse
 Bijan Mofids
 Bijar Boneh, Rasht
+Bikini (flertydig)
 Bikonta
 Bilagstegn
 Bilal Ag Acherif
@@ -6676,6 +6693,7 @@ Bincknoll Castle
 Bindeord (konjunktion)
 Binderup Å
 Bindestreg
+Bindestue
 Bindingsværk
 Bine Bryndorf
 Bing Crosby
@@ -6779,6 +6797,7 @@ Bithynien
 Bitter (smag)
 Bittersweet Me
 Bitumen
+Bitva za Sevastopol
 Bivirkninger
 Bivuak
 Biyi Bandele
@@ -7041,6 +7060,7 @@ Bluefish Caves
 Blues
 Blues Addicts
 Blues Alley Jazz
+Blues Brothers Souvenir Show
 Blues Heaven
 Blues Incorporated
 Blues Power
@@ -7293,6 +7313,7 @@ Boldklubben af 1973 (Slagelse)
 Boldklubberne Glostrup Albertslund
 Boldrup Museum
 Bolero (film fra 1934))
+Boleslav 2. af Bøhmen
 Bolette Puggaard
 Boliglån
 Bolingbroke Castle
@@ -7565,6 +7586,7 @@ Bouvier des Flandres
 Bouvier des Flandres Varetages
 Bouyei
 Bov (skibsterminologi)
+Bovenau
 Bovril
 Bow Down
 Bowers (Delaware)
@@ -7690,6 +7712,7 @@ Brazilian Auto Racing Confederation
 Brazilian Automobile Club
 Brazilian Romance
 Brașov
+Brd. Klee
 Bread
 Bread & Barrels of Water
 Bread (film fra 1918)
@@ -7834,6 +7857,7 @@ Bridgnorth Castle
 Bridgwater Castle
 Brie Larson
 Brielle
+Brieskow-Finkenheerd
 Brigade
 Brigadegeneral
 Brigham Young (film)
@@ -8208,6 +8232,7 @@ Bugislav 10. af Pommern
 Bugs Bunny
 Bugspytkirtelkræft
 Bugsy
+Build-A-Bear Workshop
 Building a Mystery
 Bukarest
 Bukayo Saka
@@ -8438,6 +8463,7 @@ Byplanlægning
 Byrds 1. ekspedition
 Byrds 2. ekspedition
 Byron Howard
+Byron Leftwich
 Byråd
 Bystat
 Bystatus
@@ -8451,6 +8477,7 @@ Bz-bevægelsen
 Bábs gravmæle
 Bárbara Dührkop Dührkop
 Bárbara Gil
+Bârsa (Olt)
 Bådflygtning
 Bådsmandsstrædes Kaserne
 Båndgab
@@ -9092,6 +9119,7 @@ Carl Ernst Otto Kuntze
 Carl Ferdinand Cori
 Carl Fontana
 Carl Foreman
+Carl Frederik Grove (søofficer)
 Carl Frederik Nyman
 Carl Friedrich Philipp von Martius
 Carl Friedrich Warnstorf
@@ -9332,6 +9360,7 @@ Casino Steel
 Caspar Bauhin
 Caspar David Friedrich
 Caspar von Gähler
+Caspar von Wessel
 Casper & Mandrilaftalen
 Casper Frausing
 Casper From
@@ -9634,6 +9663,7 @@ Chao Phya Chakri
 Chao Praya
 Chao Zhai
 Chaos and Creation in the Backyard
+Chaource
 Chaovalit Yongchaiyudhs
 Chapel Hill
 Chapel Hill (North Carolina)
@@ -10402,6 +10432,7 @@ Christopher Gerard O'Malley
 Christopher Jackson (politiker)
 Christopher Jones
 Christopher Krabbe
+Christopher Lambert
 Christopher Lee
 Christopher Lloyd (producer)
 Christopher Mac Evoy
@@ -10412,6 +10443,7 @@ Christopher Nelson
 Christopher Newport
 Christopher Newport University
 Christopher Nolan
+Christopher Nyrop
 Christopher O'Connell
 Christopher Orr (film critic)
 Christopher Orr (filmkritiker)
@@ -10507,6 +10539,7 @@ Cinemascope
 Cinematic Sunrise
 Cinesite
 Cingular Wireless
+Cinnoberrød
 Cinque Ports
 Cintas
 Ciné+
@@ -10729,6 +10762,7 @@ Clinton Davisson
 Clinton Engineer Works
 Clinton Hart Merriam
 Clipped
+Clipper Group
 Clippertonøen
 Clipse
 Clitheroe Castle
@@ -10802,6 +10836,7 @@ Cockermouth Castle
 Cockle Park Tower
 Cockroad Wood Castle
 Cocktail
+Cocktailglas
 Coco (film)
 Coco O.
 Coconuts Bangkok
@@ -11505,6 +11540,7 @@ Crédit Lyonnais
 Crémieux
 Créteil
 Csaba Gercsak
+Csesznek
 Cuba Gooding Jr.
 Cuba ved OL
 Cuba ved VM i svømning 2011
@@ -11817,6 +11853,7 @@ Daily Telegraph
 Daily Times (Nigeria)
 Daima
 Dainel Vognstrup Jørgensen
+Daisuke Tomita
 Daisy Ridley
 Dajon Everett
 Dakhlet Nouadhibou
@@ -12033,9 +12070,11 @@ Danmark ved sommer-OL 2016
 Danmark-Norge
 Danmark-ekspeditionen
 Danmarks Apotekerforening
+Danmarks Biblioteksforening
 Danmarks Farmaceutiske Selskab
 Danmarks Flymuseum
 Danmarks Grimmeste Festival
+Danmarks Gymnastik Forbund
 Danmarks Herrehåndboldlandshold
 Danmarks Historie
 Danmarks Ishockey Union
@@ -12182,6 +12221,7 @@ Dansk Terrier Klub
 Dansk Tyggegummi Fabrik
 Dansk Vestindien
 Dansk biografisk leksikon
+Dansk film 100 år - Børn og unge
 Dansk kultur
 Dansk litteratur
 Dansk normaltid
@@ -12681,6 +12721,7 @@ Death Cab for Cutie (band)
 Death Note
 Death Penalty Information Center
 Death Race 2000
+Death Valley Sleepers
 Death match
 Death of John Lennon
 Death of a Clown
@@ -13124,6 +13165,7 @@ Den tyske antarktisekspedition 1911–13
 Den ukrainske folkerepublik
 Den ungarske Statsopera
 Den vestlige civilisation
+Den vilde jagt
 Den westfalske fred
 Den yndigste rose er funden
 Den yngre Fichte
@@ -13384,6 +13426,7 @@ Det dansk-norske alfabet
 Det danske Stålvalseværk
 Det er herligt at leve
 Det er så yndigt at følges ad (film)
+Det farlige Spil
 Det forenede Kongerige
 Det forenede Venstre
 Det frygtelige ansvar
@@ -13647,6 +13690,7 @@ Dijon
 Diktator
 Diktatoren
 Diktatur
+Dilara Alijeva
 Dilham Castle
 Diligencen
 Dillinger
@@ -13756,6 +13800,7 @@ Dismember
 Disney Brothers Studios
 Disney Channel
 Disney Channel (Latin Amerika)
+Disney Channel (Storbritannien og Irland)
 Disney Consumer Products
 Disney D23
 Disney Infinity 3.0
@@ -13873,6 +13918,7 @@ Dobra, Turek County
 Dobroyd Castle
 Doc Holliday (sang)
 Docent
+Docklands
 Doctor Doom
 Doctor Midnight & The Mercy Cult
 Doctor Strange (film)
@@ -14930,6 +14976,7 @@ Ed Thigpen
 Ed Ward (writer)
 Ed Wood (film)
 Ed Wynn
+Ed de Goeij
 Edam-Volendam
 Edderkopper
 Eddie "Lockjaw" Davis
@@ -15534,6 +15581,7 @@ Ellendale (Delaware)
 Ellesborough
 Ellesmere Castle
 Ellesmere Island
+Ellested Kirke
 Elley Duhé
 Ellidshøj
 Ellie Goulding
@@ -15671,6 +15719,7 @@ Emile Sherman
 Emile Zola's liv
 Emilia Rydberg
 Emilie Autumn
+Emilie Flygare-Carlén
 Emilie Hovden
 Emilie Turunen
 Emilija Turej
@@ -15687,6 +15736,7 @@ Emily Dickinson
 Emily Donelson
 Emily Greene Balch
 Emily Haines
+Emily Stang Sando
 Emine Kara
 Eminem
 Emir Bajrami
@@ -16097,6 +16147,7 @@ Erindring
 Erinye
 Eritrea
 Eritrea ved OL
+Eritrea ved sommer-OL 2012
 Eritreas selvstændighedskamp
 Erlangen
 Erlend Bratland
@@ -16325,6 +16376,7 @@ Eucaryota
 Euforbos
 Eufrat
 Eugen Baumann
+Eugen Fischer
 Eugen Iwanowitsch Bordzilowski
 Eugen Polanski
 Eugen Warming
@@ -16337,6 +16389,7 @@ Eugene Ormandy
 Eugene Pallette
 Eugene Paul Wigner
 Eugene Pintard Bicknell
+Eugene Walter
 Eugene Wigner
 Eugenios Antoniadi
 Eugène Belgrand
@@ -16550,6 +16603,7 @@ Evening Standard
 Evening Times
 Evenkere
 Eventyr
+Eventyr af H.C. Andersen
 Eventyrfilm
 Evered Poole
 Everett
@@ -17058,6 +17112,7 @@ Famous Music
 Famous Players-Lasky
 Fandango Media
 Fandub
+Fanebånd
 Fangekoloni
 Fangeskibe
 Fannrem
@@ -17439,6 +17494,7 @@ Fernando Pérez Royo
 Fernando Santos
 Fernando Suárez González
 Fernando Torres
+Fernando Vallejo
 Ferranti Mark I
 Ferrarbræen
 Ferrari
@@ -17506,6 +17562,7 @@ Filip 5. af Spanien
 Filip Hološko
 Filip Maciejuk
 Filip Vilhelm af Pfalz
+Filip den Dristige, hertug af Burgund
 Filipinerne
 Filippinerne
 Filippinerne ved OL
@@ -18317,6 +18374,7 @@ Forlag
 Forlaget Carlsen
 Forlaget Klematis
 Forlaget Rapport
+Forlaget Ravnerock
 Forlaget Turbulenz
 Forlig (jura)
 Forliget i Malmø
@@ -18786,6 +18844,7 @@ Franz Schubert
 Franz Sigel
 Franz Stahl
 Franz Wilhelm Junghuhn
+Franz Xaver Gabelsberger
 Franz Xaver von Baader
 Franz Xavier von Wulfen
 Franz de Paula Adam von Waldstein-Wartenberg
@@ -18929,6 +18988,7 @@ Frederik August 2. af Oldenborg
 Frederik Bajers Plads
 Frederik Buch
 Frederik Børgesen
+Frederik Christian Eilschov
 Frederik Christian Sibbern
 Frederik Ferdinand Friis
 Frederik Frankman
@@ -18936,6 +18996,7 @@ Frederik Frans 1. af Mecklenburg-Schwerin
 Frederik Frison
 Frederik Fuglsang
 Frederik Gumpel
+Frederik Hans Walter
 Frederik Hasselbalch
 Frederik Hendriksen
 Frederik Hostrup Schultz
@@ -18943,6 +19004,7 @@ Frederik Immanuel Weilbach
 Frederik Julian Christian von Bertouch
 Frederik Kraft
 Frederik Kragh
+Frederik Lange
 Frederik Lange Grundtvig
 Frederik Liebmann
 Frederik Lorenzen
@@ -19076,6 +19138,7 @@ Fresno County
 Frestyle Diving
 Fri vilje
 Frida Gustavsson
+Frida Kahlo
 Fridtjof Nansen
 Frie Grønne
 Frie Sjæle
@@ -19091,11 +19154,13 @@ Friedrich August Garcke
 Friedrich August Körnicke
 Friedrich August Ludwig von Burgsdorff
 Friedrich August Marschall von Bieberstein
+Friedrich Bernhard Westphal
 Friedrich Bessel
 Friedrich Carl Louis Otto Appel
 Friedrich Casimir Medicus
 Friedrich Christian Carl Hinrich Münter
 Friedrich Christoph Wilhelm Alefeld
+Friedrich Dürrenmatt
 Friedrich Ehrendorfer
 Friedrich Ernst Ludwig von Fischer
 Friedrich Franz August Albrecht Bolle
@@ -19337,6 +19402,7 @@ Fuzzy
 Fußballer des Jahres
 Fy faen
 Fykologi
+Fyldepen
 Fylke
 Fylogenetisk
 Fylogeni
@@ -19385,6 +19451,7 @@ Fårup Sø
 Fårupgård
 Fæces
 Fægtning
+Fægtning under sommer-OL 1920
 Fægtningen ved Torsebro
 Fælde
 Fælles emitter
@@ -20309,6 +20376,7 @@ Giambattista Della Porta
 Gian Marco Moroni
 Giancarlo Pajetta
 Gianfranco Rosi
+Gianluca Bortolami
 Gianluca Mager
 Gianluigi Braschi
 Gianluigi Buffon
@@ -21158,6 +21226,7 @@ Grand Palace
 Grand Palais
 Grand Piano (album)
 Grand Prairie
+Grand Prix Cycliste de Montréal
 Grand Prix Cycliste de Montréal 2013
 Grand Prix Cycliste de Montréal 2022
 Grand Prix Cycliste de Québec 2013
@@ -21589,6 +21658,7 @@ Grænse
 Grænsekontrol
 Grænsekontrollør
 Græse Sogn
+Græsholm (Åstrup Sogn)
 Græshopper
 Græsk
 Græsk (sprog)
@@ -21732,6 +21802,7 @@ Gulbenes distrikt
 Guld og grønne skove
 Guld-Iver Flintesten
 Guldalder
+Guldbaldrian
 Guldbollen
 Guldbæk
 Guldfeber (film)
@@ -21802,6 +21873,7 @@ Gustav 4. Adolf af Sverige
 Gustav Adolf Reuterholm
 Gustav Adolfs torg
 Gustav Adolph Falck
+Gustav Bartholin Hagen
 Gustav Falck
 Gustav Hertz
 Gustav Holm
@@ -22071,6 +22143,7 @@ Haderup (Mariagerfjord Kommune)
 Hades
 Hadestown
 Hadet til demokratiet
+Hadillah Mohoumadi
 Hadise
 Hadleigh Castle
 Hadrian
@@ -22663,6 +22736,7 @@ Hassan Ali Ghulam
 Hassan Bashir
 Hassan El-Shazly
 Hasse Borg
+Hassel (art)
 Hassendorf
 Hasseris Å
 Hassium
@@ -23107,6 +23181,7 @@ Hennepin County
 Henni Forchhammer
 Henning Frederik Feilberg
 Henning Karmark
+Henning Larsen
 Henning Mankell
 Henning Mortensen
 Henning Rasmussen
@@ -23247,6 +23322,7 @@ Henry V (film)
 Henry W. Halleck
 Henry W. Slocum
 Henry Way Kendall
+Henry Weekes
 Henry Wilcoxon
 Henry Winkler
 Henryk Arctowski
@@ -23259,6 +23335,7 @@ Hepatitis C
 Hepple
 Her (film)
 Her Excellency
+Her First Biscuits
 Her Friend the Bandit
 Her Majesty's Stationery Office
 Her Painted Hero
@@ -23494,6 +23571,7 @@ High Voltage (album)
 High Wide & Handsome: The Charlie Poole Project
 High Wycombe
 High school
+High voltage
 High-definition television
 High-definition video
 High-dynamic-range rendering
@@ -23715,6 +23793,7 @@ Ho Chi Minh stien
 Ho Chi Minh-stien
 Hoagy Carmichael
 Hobart
+Hobart (flertydig)
 Hobart Bosworth
 Hobart and William Smith Colleges
 Hobbitten (film)
@@ -23928,6 +24007,7 @@ Honky Tonk Man
 Honkytonk Man
 Honning
 Honning Måne
+Honninggøge
 Honningmåne
 Honoka Hayashi
 Honolulu
@@ -24071,6 +24151,7 @@ Hovawart
 Hoved
 Hovedbanegård
 Hovedbanegården
+Hovedbeklædning
 Hovedby
 Hovedgård
 Hovedkvarter
@@ -24546,6 +24627,7 @@ Højskolesangbogen
 Højskoleskrifter
 Højtid
 Højttaler
+Høllefjorden
 Høn Station
 Hønefoss Station
 Høner
@@ -24625,6 +24707,7 @@ I Wanna Be Your Dog
 I Wanna Dance with Somebody (Who Loves Me)
 I Wanna Have Some Fun
 I Wanna Have Some Fun (sang)
+I Wanna Live In a Dream In a Record Machine
 I Wanna Sex You Up
 I Want It All (Queen sang)
 I Want It All (Queen song)
@@ -24847,6 +24930,7 @@ Ida-Merete Erlandsen
 Idaho
 Idealisme
 Idealtype
+Ideel
 Identified
 Identifikation
 Identitetstyveri
@@ -25044,6 +25128,7 @@ In Good Company (Ted Brown album)
 In Love with an Angel
 In My Dreams (sang)
 In My Life
+In My Lifetime, Vol. 1
 In My Mind (sang)
 In Old Arizona
 In Rainbows
@@ -25609,6 +25694,7 @@ Irwin Winkler
 Is (vand)
 Is It Scary
 Is That All There Is?
+Isaac Albéniz
 Isaac Allerton
 Isaac Asimov
 Isaac Bayley Balfour
@@ -25719,6 +25805,7 @@ Isogami
 Isolationisme
 Isolerede områder
 Isoleret sprog
+Isortoq Helistop
 Isotop
 Ispalads Bolsjoj
 Ispalads Fejjan
@@ -26183,6 +26270,7 @@ Jakob Poulsen
 Jakob Sergejevitch Medwedew
 Jakob Stegelmann
 Jakob Sølvhøj
+Jakob Ulfeldt (landsdommer)
 Jakob Vestergaard
 Jakobinerne
 Jakobsklausuler
@@ -26474,6 +26562,7 @@ Janis Paige
 Janis Siegel
 Janis Siegel (singer)
 Janjaweed
+Jann Jensen
 Jann Wenner
 Janne Kolling
 Jannik Hansen
@@ -26736,6 +26825,7 @@ Jeff Daniels
 Jeff Gillooly
 Jeff Goldblum
 Jeff Hardy
+Jeff Hawkins
 Jeff Jarrett
 Jeff Levy-Hinte
 Jeff Lynne
@@ -26871,6 +26961,7 @@ Jeppe Orbe
 Jeppe Rapp
 Jeppe Simonsen
 Jeppe Vestergaard
+Jeppe paa Bjerget
 Jeppe på bjerget (film)
 Jeremiah S. Black
 Jeremy Denzlinger
@@ -26892,6 +26983,7 @@ Jernbane på Nauru
 Jernbanebroen over Limfjorden
 Jernbanefærge
 Jernbanen Wilhelmshaven–Oldenburg
+Jernbaneoverskæring
 Jernbanesignal
 Jernbanespor
 Jernbanestation
@@ -27276,6 +27368,7 @@ Johan Christian Ryge
 Johan Cruijff Schaal 2014
 Johan Elmander
 Johan Erhard Areschoug
+Johan Fischer
 Johan Frederik Classen
 Johan Georg Forchhammer
 Johan Grundtvig
@@ -27401,6 +27494,7 @@ Johannes Zwicky
 Johannes van Brummelen
 Johannes van Dijk
 Johannes van Helmont
+Johannes von Miquel
 Johannesburg
 Johannesevangeliet
 John "Bradshaw" Layfield
@@ -27701,6 +27795,7 @@ John Neely Kennedy
 John Nesbitt
 John Newman
 John Newton
+John Noble
 John Northcott
 John Norum
 John O'Gaunt's Castle
@@ -28548,6 +28643,7 @@ Juridisk person
 Jurij Andropov
 Jurij Basjmet
 Jurij Gagarin
+Jurij Ozerov
 Jurij Taritj
 Jurij Veklenko
 Juris Doctor
@@ -28605,6 +28701,7 @@ Juvenile Oscar
 Juventus
 Juventus F.C.
 Juventus FC
+Juzjno-Sakhalinsk
 Jydekompagniet
 Jyderup
 Jyderup Boldklub
@@ -28849,6 +28946,7 @@ Kalkflagellat
 Kalkmaleri
 Kalksten
 Kalkun
+Kalle Moraeus
 Kalligrafi
 Kalliope
 Kalliope.org
@@ -28890,6 +28988,7 @@ Kammerherre
 Kammerkoret Camerata
 Kammermusik
 Kamp Herred
+Kampalas B-Boys
 Kampen (Nederlandene)
 Kampen for Tilværelsen
 Kampene ved Koli Point
@@ -28918,6 +29017,7 @@ Kanem-Bornu
 Kanembu
 Kanesh
 Kanesuke Hara
+Kang Eun-hye
 Kangar
 Kanhavekanalen
 Kanin Howell
@@ -28969,6 +29069,7 @@ Kapitalen (bog)
 Kapitalforvaltning
 Kapitalindkomst
 Kapitalisme
+Kapitalpension
 Kapitulation
 Kapitæl (typografi)
 Kapkolonien
@@ -29042,6 +29143,7 @@ Karima Adebibe
 Karin Dreijer Andersson
 Karin Høj
 Karin Jagd
+Karin Michaëlis
 Karin Riis-Jørgensen
 Karina Logue
 Karisma
@@ -29092,6 +29194,7 @@ Karl Pilkington
 Karl Popper
 Karl Rechinger
 Karl Robatsch
+Karl Schorn (maler)
 Karl Skaarup
 Karl Skytte
 Karl Stegger
@@ -29198,6 +29301,7 @@ Kasper Sørensen
 Kasper Tvede
 Kasper Vilfort
 Kasper Winding
+Kasper Winther Jørgensen
 Kassala
 Kassandra
 Kassava
@@ -29679,6 +29783,7 @@ Kildemosens Boldklub
 Kilden (Frederikshavn Kommune)
 Kildeparken
 Kildevæld
+Kildevænget
 Kileskrift
 Kilikia
 Kill Bill: Volume 2
@@ -29891,6 +29996,7 @@ Kirke Værløse Idrætsforening
 Kirke-Eskilstrup Boldklub
 Kirkebog
 Kirkebøger
+Kirkefader
 Kirkegård
 Kirkelig Forening for den Indre Mission i Danmark
 Kirken
@@ -30072,6 +30178,7 @@ Knaresborough Castle
 Knepp Castle
 Knesset
 Knibning (typografi)
+Kniefall von Warschau
 Knights of Cydonia
 Kniksenprisen
 Knivens æg
@@ -30083,6 +30190,7 @@ Knocked Up
 Knockin Castle
 Knockin' on Heaven's Door
 Knockout
+Knoop
 Knop (plantedel)
 Knopsvane
 Knossos
@@ -30516,6 +30624,7 @@ Kosmogoni
 Kosovo
 Kosovo ved OL
 Kosovokrigen
+Kosovos fodboldlandshold
 Kostas Chalkias
 Kostas Fortounis
 Kostas Katsouranis
@@ -30797,6 +30906,7 @@ Kulturhistorisk
 Kulturhuset Islands Brygge
 Kulturimperialisme
 Kulturinstitutioner
+Kulturkredslæren
 Kulturminister
 Kulturstyrelsen
 Kulusuk Lufthavn
@@ -30844,6 +30954,7 @@ Kurbad
 Kurder
 Kurdere
 Kurdistan
+Kurdistans Arbejderparti
 Kure Atol
 Kure, Hiroshima
 Kurere
@@ -30912,6 +31023,7 @@ Kvalitet
 Kvalme
 Kvanløse
 Kvantemekanik
+Kvantemekanisk måling
 Kvantisering
 Kvantitativ metode
 Kvarkstjerne
@@ -30923,6 +31035,7 @@ Kvartet
 Kvarts
 Kvartsglas
 Kvartssand
+Kvartstabel
 Kvartær
 Kvasar
 Kvasikrigen
@@ -30971,6 +31084,7 @@ Kvæker
 Kvælning
 Kvælstof
 Kvælstoffiksering
+Kværs Kirke
 Kwantlen Polytechnic University
 Kwara
 Kwashiorkor
@@ -31089,6 +31203,7 @@ Kønsvorter
 Kørekort
 Køreledning
 Køreplan
+Kørestolsfodbold
 Køretøj
 Kürebjergene Nationalpark
 Kępno
@@ -31173,6 +31288,7 @@ La Toya Jackson
 La Villette
 La Voluntad del muerto
 La cage aux rossignols
+La course by Le Tour de France
 La det swinge
 La golondrina
 La grand illusion
@@ -31256,6 +31372,7 @@ Lake Erie
 Lake Ginninderra
 Lake Huron
 Lake Michigan
+Lake Mweru Wantipa
 Lake Norman
 Lake Ontario
 Lake Placid
@@ -31762,6 +31879,7 @@ Lee Tracy
 Lee-Enfield
 Leeds
 Leeds Castle
+Leeds Town Hall
 Leeds United
 Leeds United A.F.C.
 Leeds United AFC
@@ -31958,6 +32076,7 @@ Leighlampe
 Leighton Baines
 Leiji Matsumoto
 Leiknir Reykjavik
+Leinster House
 Leinthall Starkes
 Leipsic (Delaware)
 Leipzig
@@ -32155,6 +32274,7 @@ Letland i Eurovision Song Contest
 Letland ved OL
 Letland ved VM i svømning 2011
 Letland ved sommer-OL 2016
+Letlands Etnografiske Frilandsmuseum
 Letlands distrikter
 Letsindige Marietta
 Letsværvægt
@@ -32235,8 +32355,10 @@ Lexus ES
 Lexus GS
 Leybourne Castle
 Leymah Gbowee
+Leyte
 Lezginere
 Leó Szilárd
+Leśnia-søen
 Lhasa
 Lhasa Apso
 Lhasa-aftalen
@@ -32487,6 +32609,7 @@ Lindemann (band)
 Lindenborg Å
 Linderud Station
 Lindevang Station
+Lindevangskolen
 Lindhardt og Ringhof
 Lindholm
 Lindholm (Kattegat)
@@ -32872,6 +32995,7 @@ Liverpool, New South Wales
 Livet er for kjipt
 Livet er smukt
 Livet længe leve
+Livets Vej
 Livets evolutionshistorie
 Livets små mirakler
 Livets træ (biologi)
@@ -33170,6 +33294,7 @@ Lotte Lehmann
 Lotte Rod
 Lotteri
 Lottery
+Lottie Dod
 Lotto (film)
 Lotto Dstny
 Lotto-Belisol
@@ -33572,6 +33697,7 @@ Lus (elektronik)
 Lusitania
 Lusitanien
 Lussingesyge
+Lust Lust Lust
 Lust for Life
 Lustration
 Lutetia
@@ -33676,6 +33802,7 @@ Lysbro (Silkeborg)
 Lysdiode
 Lysdæmper
 Lyse nætter
+Lysefjorden i Forsand
 Lysets hastighed
 Lyskilde
 Lyssky transport gennem Danmark
@@ -33715,6 +33842,7 @@ Lærkevej
 Lærred
 Læsedrama
 Læsefærdighed
+Læsket kalk
 Læsning
 Lèse-majesté
 Léa Seydoux
@@ -33749,6 +33877,7 @@ Lørdag
 Løren Station
 Lørenbanen
 Løsgænger
+Løsøre
 Løvernes Konge
 Løvernes Konge (film fra 2019)
 Løvfældende
@@ -33769,6 +33898,7 @@ M. Night Shyamalan
 M. Ward
 M.-F. Robert-Passini
 M.J. Eriksson A/S
+M/F Ærøsund II
 M/S Selandia
 M/V-05
 M1 (metro)
@@ -33800,6 +33930,7 @@ MD-95
 MDFMK
 MERS-CoV
 MESSENGER
+METAR
 MFF Cup 2015
 MFS (musikgruppe)
 MG (bilmærke)
@@ -34027,6 +34158,7 @@ Mae West
 Mag.art.
 Magasin (lager)
 Magazine (band)
+Magdalenafloden
 Magdalene Hoff
 Magdallan
 Magdeburg
@@ -35141,6 +35273,7 @@ Martin County (North Carolina)
 Martin Dahlin
 Martin Dzur
 Martin Elfand
+Martin Elmiger
 Martin Erik Andersen
 Martin Evans
 Martin Frobisher
@@ -35212,6 +35345,7 @@ Marty Wilde
 Martyn LeNoble
 Martyr
 Martyr's Memorial A-Division League 2014-15
+Marubeni
 Marum
 Marvel
 Marvel Cinematic Universe
@@ -35316,6 +35450,7 @@ Maskingevær
 Maskirovka
 Masnedø
 Masochisme
+Mason
 Mason Cook
 Mason Greenwood
 Mason Mount
@@ -35453,6 +35588,7 @@ Matthew Ebden
 Matthew Goodwin
 Matthew James
 Matthew Kelly
+Matthew Le Tissier
 Matthew McConaughey
 Matthew Moore
 Matthew Morrison
@@ -35798,6 +35934,7 @@ Mellemørebetændelse
 Mellemøsten
 Mellemøsten-konflikten
 Mellemøstlige kommando
+Mellerud
 Melnikovo, Altai Krai
 Melodi
 Melodi Grand Prix
@@ -36631,6 +36768,7 @@ Miljø-DNA
 Miljøbeskyttelse
 Miljøbevægelse
 Miljøfare
+Miljøforkæmpere
 Miljøgifte
 Miljøminister
 Miljøvidenskab
@@ -36753,6 +36891,7 @@ Minocycline
 Minoisk kultur
 Minor Blues
 Minorca
+Minoritet
 Minority Report (film)
 Minos
 Minotauros
@@ -36784,6 +36923,7 @@ Miriam Hopkins
 Miriam Shor
 Mirko Svrček
 Miroslav Klose
+Miroslav Koranda
 Miroslav Vitous
 Miroslav Vitouš
 Mirror Mirror
@@ -36853,6 +36993,7 @@ Mistillidsvotum
 Misvækst
 Mit Afrika
 Mit Afrika (film)
+Mit liv i Thylejren
 Mitanni
 Mitau
 Mitch Bowden
@@ -36872,6 +37013,7 @@ Mitsubishi A6M Zero
 Mitsubishi G3M
 Mitsubishi G4M
 Mitsubishi Motors
+Mitsuru Mukojima
 Mitsuteru Yokoyama
 Mitt Romney
 Mittani
@@ -37297,6 +37439,7 @@ Moroni
 Morozov Design Bureau
 Morpeth Castle
 Morrill Act
+Morris CS9
 Morris Engel
 Morris Stoloff
 Morrisburg (Ontario)
@@ -37407,6 +37550,7 @@ Motorsport
 Motorsport Association of Pakistan
 Motorsport New Zealand
 Motorsport South Africa
+Motorsportens Tripelkrone
 Motorvej
 Motorvej på sengekanten
 Motorvogn
@@ -37429,6 +37573,7 @@ Mount Everest
 Mount Gambier (South Australia)
 Mount Ida College
 Mount Isa
+Mount Katmai
 Mount Kenya nationalpark
 Mount Kinabalu
 Mount Logan
@@ -37537,6 +37682,7 @@ Multiplayer
 Multiplikationstegn
 Multiraciale amerikanere
 Multirollehelikopter
+Multivers
 Mumie
 Muncaster Castle
 Mund til mund
@@ -37554,6 +37700,7 @@ Munkbrarup
 Munkebo Boldklub
 Munkekanalen
 Munkelia Station
+Munkholm (flertydig)
 Munsee
 Muné Tsenpo
 Muppets
@@ -37571,6 +37718,7 @@ Murmaleri
 Murmansk-legionen
 Murmur (album)
 Murowana Goślina
+Murray Bookchin
 Murray Bridge (South Australia)
 Murray County (Minnesota)
 Murray Gell-Mann
@@ -37829,6 +37977,7 @@ Mørkerum
 Mørkhøj Sogn
 Mørkøv
 Mørtel
+Mørupstenen
 Música sertaneja
 München
 München (film)
@@ -38371,6 +38520,7 @@ Nebraska (film)
 Nebraska Universitet
 Nebukadnesar II
 Necessary Roughness
+Nechervan Idris Barzani
 Necrophobic
 Ned Lamont
 Ned Miller
@@ -38518,6 +38668,7 @@ Nettet (film)
 Netto
 Netto (supermarkedskæde)
 Nettop
+Nettuno
 Network (film)
 Network 10
 Network Ten
@@ -40153,7 +40304,9 @@ Ole Schmidt
 Ole Stephensen
 Ole Søltoft
 Ole Sørensen (fodboldspiller)
+Ole Theill
 Ole Woldbye
+Oleg Golovanov
 Oleg Jankovskij
 Oleg af Novgorod
 Oleh Blokhin
@@ -40412,6 +40565,7 @@ Op art
 Op-ed
 Opalenica
 Opdagelsesrejsende
+Opel Campo
 Open 13
 Open Air Varde
 Open House (album)
@@ -40687,6 +40841,7 @@ Orlov i Hollywood
 Orléans
 Orm (computerprogram)
 Ormegården
+Ormepadder
 Orna Porat
 Ornament
 Orne (departement)
@@ -41177,8 +41332,10 @@ Padova
 Padre Sennen
 Padua
 Paducah
+Page (Arizona)
 Page, Australian Capital Territory
 Paginering
+Pagten (film fra 2021)
 Pahang
 Pahang (flod)
 Paid My Dues
@@ -42388,6 +42545,7 @@ Pernille Aalund
 Pernille Frahm
 Pernille Holst Holmsgaard
 Pernille Kløvedal Nørgaard
+Pernille L. Stenby
 Pernille Skipper
 Pernille Weiss
 Perpetuum mobile
@@ -42477,6 +42635,7 @@ Peter Brown (music industry)
 Peter Bruun
 Peter Buck
 Peter Buck (album)
+Peter Bøgh Kjærulff
 Peter C. Doherty
 Peter Cassøe
 Peter Chernin
@@ -42487,6 +42646,7 @@ Peter D. Orton
 Peter Dinklage
 Peter Donald
 Peter Duetoft
+Peter Eisenman
 Peter Elfelt
 Peter Elias von Gähler
 Peter Engberg
@@ -43135,6 +43295,7 @@ Plimoth Plantation
 Plinisk udbrud
 Plinius den yngre
 Plinius den ældre
+Plopper
 Plug In Baby
 Plug computer
 Plug me in
@@ -43479,6 +43640,7 @@ Postcard from Heaven
 Postcards from Heaven
 Postcommotionelt Syndrom
 Postdoc
+Posthorn
 Posthum
 Postimpressionisme
 Postkort
@@ -44739,6 +44901,7 @@ Reading F.C. Women
 Ready Steady Go!
 Reagan
 Reagensglas
+Real Audiencia af Charcas
 Real Club de Tenis Barcelona-1899
 Real Madrid
 Real Madrid (Sydafrika)
@@ -44898,6 +45061,7 @@ Regeringen Katrín Jakobsdóttir
 Regeringen Moltke I
 Regeringen Palme I
 Regeringen Poul Schlüter III
+Regeringen Thorvald Stauning V
 Regeringschef
 Regeringsgatan
 Regeringsgrundlag
@@ -45236,6 +45400,7 @@ Ric Flair
 Ric Formosa
 Ric Grech
 Rica Matsumoto
+Ricardo Bochini
 Ricardo Bofill
 Ricardo Cortez
 Ricardo Costa
@@ -46432,6 +46597,7 @@ Ruinas
 RuleBurst
 Rulers of the Sea
 Rullesegl
+Rullesko
 Rum Rebellion
 Rumalderen
 Rumfang
@@ -46547,6 +46713,7 @@ Russofobi
 Rusty Hamer
 Ruta Lee
 Rutaceae
+Rutenien
 Ruter
 Rutger Gunnarson
 Rutger Gunnarsson
@@ -46732,6 +46899,7 @@ Rėkyva
 Rīgas distrikt
 S-300
 S-61 Sea King
+S-Bahn Rhein-Main
 S-bus
 S-tog
 S. Davidson, B. Morgan
@@ -47023,6 +47191,7 @@ Sam Zimbalist
 Sam the Eagle
 Samak Sundaravej
 Samantha Fox
+Samara
 Samaritaner
 Samarium
 Samarkand
@@ -47185,6 +47354,7 @@ San Vero Milis
 San Vito
 Sanaa
 Sanatorium
+Sanaá
 Sanctuary Records
 Sand (1949 film)
 Sand Chronicles
@@ -47465,12 +47635,14 @@ Scared of Heights (sang)
 Scarface
 Scarface: The World Is Yours
 Scargill (County Durham)
+Scarlet Pleasure
 Scars on Broadway
 Scary Monsters (and Super Creeps)
 Scatman (Ski-Ba-Bop-Ba-Dop-Bop)
 Scatman Crothers
 Scatman John
 Scenatet
+Schaal
 Schack Carl Rantzau
 Schack von Staffeldt
 Schackenthal
@@ -47601,6 +47773,7 @@ Scottish Cup
 Scottish Cup 2011-12
 Scottish Cup 2014-15
 Scottish Cup 2015-16
+Scottish Football League
 Scottish Geographical Magazine
 Scottish League Cup 2014-15
 Scottish Mortgage Investment Trust
@@ -47919,6 +48092,7 @@ Serbiske SuperLiga 2012-13
 Serbiske SuperLiga 2014-15
 Serbiske pokalturnering 2014-15
 Serbiske pokalturnering 2015-16
+Serchio
 Serdiana
 Seremban
 Serena Williams
@@ -47954,6 +48128,7 @@ Sergio Romero
 Sergio Vartolo
 Sergiu Celibidache
 Sergius Paulus
+Serhat
 Serhij Nazarenko
 Serhiy Nazarenko
 Serial Killer
@@ -48307,6 +48482,7 @@ Sibbarp
 Sibbarp sogn
 Siberian Husky
 Sibiloi nationalpark
+Sibirere
 Sibirien
 Sibiu Cycling Tour 2017
 Sibley County
@@ -48323,7 +48499,9 @@ Sid Vicious
 Siddharta Gautama
 Siddi
 Siddur
+Sidekanalblæsere
 Sideline Concussion Assesement Tool
+Siden sidst
 Sider per minut
 Siderisk omløbstid
 Siderisk år
@@ -48452,6 +48630,7 @@ Simi Valley
 Simian (band)
 Simian Mobile Disco
 Simile
+Simke Kloosterman
 Simkort
 Simmons College (Massachusetts)
 Simon & Garfunkel
@@ -48765,6 +48944,7 @@ Skorpe (geologi)
 Skorpioner
 Skorstøl
 Skotland
+Skotland kalder
 Skotlands U/21-fodboldlandshold
 Skotlands flag
 Skotlands fodboldforbund
@@ -48821,6 +49001,7 @@ Skrydstrup Sogn
 Skråplanet
 Skråstreg
 Skrædder
+Skt. Helena-præstekrave
 Skt. Petersborg
 Sku' du spørge fra nogen (sang)
 Skud (botanik)
@@ -49327,6 +49508,7 @@ Småbrug
 Smålegemer i Solsystemet
 Småländsk sommarnatt
 Smøla
+Smølferne (film)
 Smørum Sogn
 Snabel-a
 Snap & B
@@ -50820,6 +51002,7 @@ Storbyens små mirakler
 Storbyens små oaser
 Storbyområde
 Store Bittersø
+Store Brøndum Sogn
 Store Egholm (Sydfynske Øhav)
 Store Kongensgade
 Store Krone
@@ -51252,6 +51435,7 @@ Super Live in Japan
 Super Nintendo-spil
 Super Rugby
 Super deformed
+Super saiyajin
 SuperBrawl
 SuperBrawl V
 SuperBrawl VI
@@ -51469,6 +51653,7 @@ Sven-Ingvars
 Svend (biskop i Århus)
 Svend Asmussen
 Svend Bille
+Svend Dahl
 Svend Foyn-ekspeditionen
 Svend Grundtvig
 Svend Hamann
@@ -51790,6 +51975,7 @@ Symphony (Clean Bandit)
 Symphony 1997
 Symphony No. 1 (Dvořák)
 Symphony X
+Symposion
 Symposion (Platon)
 Symptom
 Synagoge
@@ -51926,6 +52112,7 @@ Søjleportal
 Søkort
 Søllerød Boldklub
 Søllerød Kirke
+Søllerød Nærum Idrætsklub
 Søllerød Sogn
 Søllested Idrætsforening
 Sølund Musik Festival
@@ -52003,6 +52190,7 @@ Søren von Essen
 Sørenn Rasmussen
 Sørensen
 Sørlandsbanen
+Sørup
 Sørøver
 Søs & Kirsten
 Søslag
@@ -52114,6 +52302,7 @@ Taastrup Nykirke Sogn
 Tab Hunter
 Tab af atmosfære
 Tabel over fodbold ud fra år
+Taberkvinde
 Tabitha og Napoleon D'umo
 Tablet (computer)
 Tabloid
@@ -52330,6 +52519,7 @@ Tasmanien
 Tasmanske Hav
 Tassos Papadopoulos
 Tastatur
+Tasteinstrument
 Tasuku Honjo
 Tata Young
 Tatarer (tyrkisk folk)
@@ -52455,6 +52645,7 @@ TeenClub Nyt
 Teenage Dream
 Teenage Dream (sang)
 Teenager
+Tefnut
 Teglholmen
 Teglovn
 Teglværk
@@ -52500,6 +52691,7 @@ Telefonnumre i Nigeria
 Telefonnumre i Thailand
 Telefonnumre i USA
 Telegraf
+Telegrafi
 Telegram
 Telekom S-League 2014-15
 Telemachus
@@ -53697,6 +53889,7 @@ The Rainmaker
 The Ramones
 The Rape of El Morro
 The Rapsody Overture
+The Rapture
 The Rapture (movie)
 The Rare Delight of You
 The Rascals (English band)
@@ -53811,6 +54004,7 @@ The Sky Is Everywhere (film)
 The Skywhale
 The Slaughter Rule
 The Sleepy Jackson
+The Slim Shady EP
 The Slugger's Wife
 The Small Faces
 The Smashing Pumpkins
@@ -54422,6 +54616,7 @@ Tid i USA
 Tid til kærtegn
 Tidal (service)
 Tiden
+Tiden før øjeblikket
 Tidevand
 Tidevandsacceleration
 Tidevandslåsning
@@ -54520,6 +54715,7 @@ Tim Lund
 Tim McCord
 Tim McCoy
 Tim McGraw
+Tim Perslev
 Tim Risvig
 Tim Rogers (musiker)
 Tim Roth
@@ -54633,6 +54829,7 @@ Tirsdag
 Tirslund Sogn
 Tisch School of the Arts
 Tisvilde
+Tisvilde Hegn
 Tisvildeleje
 Titan (grundstof)
 Titan (mytologi)
@@ -54856,6 +55053,7 @@ Tom Seaver
 Tom Selleck
 Tom Shachtman
 Tom Sternberg
+Tom Söderberg
 Tom Thomson
 Tom Thorpe
 Tom Waits
@@ -55148,6 +55346,7 @@ Tour des Alpes-Maritimes et du Var 2021
 Tour des Fjords 2017
 Tour du Finistère 2017
 Tour du Haut-Var 2017
+Tour du Haut-Var 2018
 Tour du Limousin 2017
 Tour du Loir-et-Cher 2017
 Tour du Poitou-Charentes 2017
@@ -55901,6 +56100,7 @@ Tórshavn
 Töntarna
 Töreboda
 Tøjhusmuseet
+Tøjstrup
 Tølløse
 Tølløse Bold Klub
 Tømmer
@@ -56407,6 +56607,7 @@ Umove
 Umuahia
 Un-Break My Heart
 Una Merkel
+Unabhängige Sozialdemokratische Partei Deutschlands
 Unbeautiful
 Uncensored
 Unchained Melody
@@ -57050,6 +57251,7 @@ Valerij Heletej
 Valerij Zaluzjnyj
 Valg i Israel
 Valgbar
+Valgborgs favn
 Valget i Tyskland 1884
 Valget til den konstituerende nationale forsamling i Portugal 1975
 Valget til den konstituerende nationalforsamling i Portugal 1911
@@ -57232,6 +57434,7 @@ Vatanspor
 Vatikanet
 Vatikanstaten
 Vatnahalsen Station
+Vattenfall Cyclassics 2007
 Vattenfall Cyclassics 2013
 Vaucluse
 Vaucluse, New South Wales
@@ -57474,6 +57677,7 @@ Vester Hassing
 Vester Hedekrog
 Vester Nebel (Kolding Kommune)
 Vesterbro Festival
+Vesterbrogade
 Vesterbrogade (København)
 Vestergade 1924
 Vesterhavsdrenge
@@ -57781,6 +57985,7 @@ Villaurbana
 Ville Valo
 Villeurbanne
 Villingerød Sogn
+Villy Søvndal
 Vilma Bánky
 Vilmorin
 Vilnius
@@ -58179,6 +58384,7 @@ Vægtløftning
 Vægttab
 Vækkelse
 Vækst
+Vælling
 Vær velkommen, Herrens år
 Værdipapir
 Værelse med udsigt
@@ -58280,6 +58486,7 @@ Walden Castle
 Waldo's People
 Waldorf
 Waldorf Astoria
+Waler
 Wales
 Wales' førstedivision i fodbold 2011-12
 Wales' førstedivision i fodbold 2013-14
@@ -59248,6 +59455,7 @@ Willoughby, New South Wales
 Willowdale (Toronto)
 Wills Town
 Willy Brandt
+Willy Caballero
 Willy Kragh
 Willy Kuijpers
 Willy Telavi
@@ -59430,6 +59638,7 @@ Women's Professional Soccer
 Women's Tennis Association
 Won't Go Home Without You
 Wondaland Presents: The Eephus
+Wonder Cave
 Wonder Woman (film fra 2017)
 Wonder Woman 1984 (film)
 Wonderboy
@@ -59905,6 +60114,7 @@ Yves Tanguy
 Yvette Cooper
 Yvette Fuillet
 Yvette Kong
+Yvette Tulip Hlaváčová
 Yvette de Ferré
 Yvonne Craig
 Yvonne De Carlo
@@ -60358,6 +60568,7 @@ transistor
 Ørkenkrigen
 Ørland
 Ørneberget Station
+Ørslev Sogn (Slagelse Kommune)
 Ørsta
 Ørsted IF
 Øst for paradis (film)
@@ -60402,6 +60613,7 @@ transistor
 Østkarelske koncentrationslejre
 Østkyst Hustlers
 Østlig filosofi
+Østlig hvepsevåge
 Østpakistan
 Østpreussen
 Østprovinsen (Kenya)
@@ -60612,6 +60824,7 @@ transistor
 1. oktober
 1. september
 1. slag ved Marne
+1. til 11. etape af Vuelta a España 2017
 1. verdenskrig
 1. århundrede
 1. årtusinde f.Kr.
@@ -60627,6 +60840,7 @@ transistor
 10. januar
 10. juli
 10. juni
+10. klasse
 10. maj
 10. marts
 10. november
@@ -61586,6 +61800,7 @@ AFC Cup gruppespil 2015
 AFC Cup kvalifikation 2015
 AFC Cup slutspil 2015
 AFC President's Cup 2015
+AFC Wimbledon
 AFI (band)
 AFI 100
 AFM Records
@@ -62682,6 +62897,7 @@ Alessandro Covi
 Alessandro Cremona
 Alessandro Diamanti
 Alessandro Fontanarosa
+Alessandro Magnasco
 Alessandro Natta
 Alessandro de Guidi
 Aleutere
@@ -63535,6 +63751,7 @@ Anders Laursen
 Anders Limpar
 Anders Lindegaard
 Anders Linderoth
+Anders Lund
 Anders Matthesen
 Anders Nilsen
 Anders Nyström
@@ -63659,6 +63876,7 @@ Andrew A. Humphreys
 Andrew A. Kosove
 Andrew Barr
 Andrew Bloxam
+Andrew Bonar Law
 Andrew Breitbart
 Andrew Coats
 Andrew Cole
@@ -63784,6 +64002,7 @@ Ane Marie Elise Toft
 Anekdotisk evidens
 Aneke Rune
 Anemoi
+Anerkendelse
 Anetan Distrikt
 Anette Hoffmann
 Anette Støvelbæk
@@ -63978,6 +64197,7 @@ Anna Udvardy
 Anna af Hessen
 Anna af Kleve
 Anna af Polen
+Anna af Rusland
 Anna and the King
 Anna-Lena Löfgren
 Annabella Milbanke
@@ -64337,6 +64557,7 @@ Apple II
 Apple Inc.
 Apple Lisa
 Apple Macintosh
+Apple Macintosh PPC
 Apple Records
 Appleby Castle
 Applewold, Pennsylvania
@@ -64374,6 +64595,7 @@ Araknofobi
 Aralsøen
 Aram Khatjaturjan
 Aramæisk (sprog)
+Arani (Bolivia)
 Arantxa Sánchez Vicario
 Arapaho
 Ararat (Victoria)
@@ -65394,6 +65616,7 @@ Autotrof
 Autumn (band)
 Autumn Almanac
 Auxerre
+Außernzell
 Ava DuVernay
 Ava Gardner
 Ava Lowle Willing
@@ -65587,6 +65810,7 @@ BK Søllerød-Vedbæk
 BK Union
 BK-46
 BL 15 inch Mk I-flådekanon
+BM Atlético Madrid
 BMA Magazine
 BMC Racing Team
 BMW 114
@@ -65807,6 +66031,7 @@ Balmoral Castle
 Balsam-Gran
 Balsamering
 Baltere
+Balthasar Münter (Holmens provst)
 Balthazar Lange
 Baltikum
 Baltimore
@@ -65863,6 +66088,7 @@ Bangladesh ved OL
 Bangladesh ved VM i svømning 2011
 Bangladesh ved sommer-OL 2016
 Bangor Daily News
+Bangsbo Fort
 Bangsue
 Banharn Silapa-archa
 Banjaran Crocker
@@ -66703,6 +66929,7 @@ Bernarda Pera
 Bernardo Bayona Aznar
 Bernardo Bertolucci
 Bernardo Houssay
+Bernardo Rezende
 Bernardo de Gálvez
 Bernburg (Saale)
 Bernd Giese
@@ -66921,6 +67148,7 @@ Biggleswade Castle
 Bihulebetændelse
 Bijan Mofids
 Bijar Boneh, Rasht
+Bikini (flertydig)
 Bikonta
 Bilagstegn
 Bilal Ag Acherif
@@ -67067,6 +67295,7 @@ Bincknoll Castle
 Bindeord (konjunktion)
 Binderup Å
 Bindestreg
+Bindestue
 Bindingsværk
 Bine Bryndorf
 Bing Crosby
@@ -67170,6 +67399,7 @@ Bithynien
 Bitter (smag)
 Bittersweet Me
 Bitumen
+Bitva za Sevastopol
 Bivirkninger
 Bivuak
 Biyi Bandele
@@ -67432,6 +67662,7 @@ Bluefish Caves
 Blues
 Blues Addicts
 Blues Alley Jazz
+Blues Brothers Souvenir Show
 Blues Heaven
 Blues Incorporated
 Blues Power
@@ -67684,6 +67915,7 @@ Boldklubben af 1973 (Slagelse)
 Boldklubberne Glostrup Albertslund
 Boldrup Museum
 Bolero (film fra 1934))
+Boleslav 2. af Bøhmen
 Bolette Puggaard
 Boliglån
 Bolingbroke Castle
@@ -68082,6 +68314,7 @@ Brazilian Auto Racing Confederation
 Brazilian Automobile Club
 Brazilian Romance
 Brașov
+Brd. Klee
 Bread
 Bread & Barrels of Water
 Bread (film fra 1918)
@@ -68226,6 +68459,7 @@ Bridgnorth Castle
 Bridgwater Castle
 Brie Larson
 Brielle
+Brieskow-Finkenheerd
 Brigade
 Brigadegeneral
 Brigham Young (film)
@@ -68600,6 +68834,7 @@ Bugislav 10. af Pommern
 Bugs Bunny
 Bugspytkirtelkræft
 Bugsy
+Build-A-Bear Workshop
 Building a Mystery
 Bukarest
 Bukayo Saka
@@ -68830,6 +69065,7 @@ Byplanlægning
 Byrds 1. ekspedition
 Byrds 2. ekspedition
 Byron Howard
+Byron Leftwich
 Byråd
 Bystat
 Bystatus
@@ -68843,6 +69079,7 @@ Bz-bevægelsen
 Bábs gravmæle
 Bárbara Dührkop Dührkop
 Bárbara Gil
+Bârsa (Olt)
 Bådflygtning
 Bådsmandsstrædes Kaserne
 Båndgab
@@ -69484,6 +69721,7 @@ Carl Ernst Otto Kuntze
 Carl Ferdinand Cori
 Carl Fontana
 Carl Foreman
+Carl Frederik Grove (søofficer)
 Carl Frederik Nyman
 Carl Friedrich Philipp von Martius
 Carl Friedrich Warnstorf
@@ -69724,6 +69962,7 @@ Casino Steel
 Caspar Bauhin
 Caspar David Friedrich
 Caspar von Gähler
+Caspar von Wessel
 Casper & Mandrilaftalen
 Casper Frausing
 Casper From
@@ -70689,6 +70928,7 @@ Christian Molbech
 Christian Mourier-Petersen (maler)
 Christian Nørgaard
 Christian Paulsen
+Christian Pedersen (cykelrytter)
 Christian Pingel
 Christian Poulsen
 Christian Poulsen (skakspiller)
@@ -70794,7 +71034,9 @@ Christopher Friedenreich Hage (1759-1849)
 Christopher Gerard O'Malley
 Christopher Jackson (politiker)
 Christopher Jones
+Christopher Juul-Jensen
 Christopher Krabbe
+Christopher Lambert
 Christopher Lee
 Christopher Lloyd (producer)
 Christopher Mac Evoy
@@ -70805,6 +71047,7 @@ Christopher Nelson
 Christopher Newport
 Christopher Newport University
 Christopher Nolan
+Christopher Nyrop
 Christopher O'Connell
 Christopher Orr (film critic)
 Christopher Orr (filmkritiker)
@@ -70900,6 +71143,7 @@ Cinemascope
 Cinematic Sunrise
 Cinesite
 Cingular Wireless
+Cinnoberrød
 Cinque Ports
 Cintas
 Ciné+
@@ -71122,6 +71366,7 @@ Clinton Davisson
 Clinton Engineer Works
 Clinton Hart Merriam
 Clipped
+Clipper Group
 Clippertonøen
 Clipse
 Clitheroe Castle
@@ -71195,6 +71440,7 @@ Cockermouth Castle
 Cockle Park Tower
 Cockroad Wood Castle
 Cocktail
+Cocktailglas
 Coco (film)
 Coco O.
 Coconuts Bangkok
@@ -71898,6 +72144,7 @@ Crédit Lyonnais
 Crémieux
 Créteil
 Csaba Gercsak
+Csesznek
 Cuba Gooding Jr.
 Cuba ved OL
 Cuba ved VM i svømning 2011
@@ -72145,6 +72392,7 @@ DShK maskingevær
 DTI-scanning
 DTT (fjernsyn)
 DTU RoboCup
+DW Stadium
 DYE-M
 DZ (bogstav)
 Da Chaplin blev shanghaiet
@@ -72578,6 +72826,7 @@ Dansk Terrier Klub
 Dansk Tyggegummi Fabrik
 Dansk Vestindien
 Dansk biografisk leksikon
+Dansk film 100 år - Børn og unge
 Dansk kultur
 Dansk litteratur
 Dansk normaltid
@@ -73077,6 +73326,7 @@ Death Cab for Cutie (band)
 Death Note
 Death Penalty Information Center
 Death Race 2000
+Death Valley Sleepers
 Death match
 Death of John Lennon
 Death of a Clown
@@ -73520,6 +73770,7 @@ Den tyske antarktisekspedition 1911–13
 Den ukrainske folkerepublik
 Den ungarske Statsopera
 Den vestlige civilisation
+Den vilde jagt
 Den westfalske fred
 Den yndigste rose er funden
 Den yngre Fichte
@@ -73615,6 +73866,7 @@ Der Spiegel
 Der Standard
 Der bor en ung pige
 Der er et yndigt land (film fra 1983)
+Der er et yndigt land (flertydig)
 Der kom en dag
 Der kom en soldat
 Der kommer en dag
@@ -73780,6 +74032,7 @@ Det dansk-norske alfabet
 Det danske Stålvalseværk
 Det er herligt at leve
 Det er så yndigt at følges ad (film)
+Det farlige Spil
 Det forenede Kongerige
 Det forenede Venstre
 Det frygtelige ansvar
@@ -74043,6 +74296,7 @@ Dijon
 Diktator
 Diktatoren
 Diktatur
+Dilara Alijeva
 Dilham Castle
 Diligencen
 Dillinger
@@ -74152,6 +74406,7 @@ Dismember
 Disney Brothers Studios
 Disney Channel
 Disney Channel (Latin Amerika)
+Disney Channel (Storbritannien og Irland)
 Disney Consumer Products
 Disney D23
 Disney Infinity 3.0
@@ -74205,6 +74460,7 @@ Division 1 2013-14
 Division 1 2014-15
 Division 1 Féminine 2013-14
 Division 1 Féminine 2014-15
+Division 1 Féminine 2021-22
 Division I i ishockey 1955-56
 Division of Motor Vehicles
 Divisionisme
@@ -74269,6 +74525,7 @@ Dobra, Turek County
 Dobroyd Castle
 Doc Holliday (sang)
 Docent
+Docklands
 Doctor Doom
 Doctor Midnight & The Mercy Cult
 Doctor Strange (film)
@@ -75931,6 +76188,7 @@ Ellendale (Delaware)
 Ellesborough
 Ellesmere Castle
 Ellesmere Island
+Ellested Kirke
 Elley Duhé
 Ellidshøj
 Ellie Goulding
@@ -76068,6 +76326,7 @@ Emile Sherman
 Emile Zola's liv
 Emilia Rydberg
 Emilie Autumn
+Emilie Flygare-Carlén
 Emilie Hovden
 Emilie Turunen
 Emilija Turej
@@ -76459,6 +76718,7 @@ Erichsens Palæ
 Erick Sermon
 Eridu
 Erik Aadahl
+Erik Aarestrup
 Erik Acharius
 Erik Andersen (skakspiller)
 Erik Bauersfeld
@@ -76495,6 +76755,7 @@ Erindring
 Erinye
 Eritrea
 Eritrea ved OL
+Eritrea ved sommer-OL 2012
 Eritreas selvstændighedskamp
 Erlangen
 Erlend Bratland
@@ -76723,6 +76984,7 @@ Eucaryota
 Euforbos
 Eufrat
 Eugen Baumann
+Eugen Fischer
 Eugen Iwanowitsch Bordzilowski
 Eugen Polanski
 Eugen Warming
@@ -76735,6 +76997,7 @@ Eugene Ormandy
 Eugene Pallette
 Eugene Paul Wigner
 Eugene Pintard Bicknell
+Eugene Walter
 Eugene Wigner
 Eugenios Antoniadi
 Eugène Belgrand
@@ -76948,6 +77211,7 @@ Evening Standard
 Evening Times
 Evenkere
 Eventyr
+Eventyr af H.C. Andersen
 Eventyrfilm
 Evered Poole
 Everett
@@ -77456,6 +77720,7 @@ Famous Music
 Famous Players-Lasky
 Fandango Media
 Fandub
+Fanebånd
 Fangekoloni
 Fangeskibe
 Fannrem
@@ -77837,6 +78102,7 @@ Fernando Pérez Royo
 Fernando Santos
 Fernando Suárez González
 Fernando Torres
+Fernando Vallejo
 Ferranti Mark I
 Ferrarbræen
 Ferrari
@@ -77904,6 +78170,7 @@ Filip 5. af Spanien
 Filip Hološko
 Filip Maciejuk
 Filip Vilhelm af Pfalz
+Filip den Dristige, hertug af Burgund
 Filipinerne
 Filippinerne
 Filippinerne ved OL
@@ -79337,6 +79604,7 @@ Frederik Frans 1. af Mecklenburg-Schwerin
 Frederik Frison
 Frederik Fuglsang
 Frederik Gumpel
+Frederik Hans Walter
 Frederik Hasselbalch
 Frederik Hendriksen
 Frederik Hostrup Schultz
@@ -79344,6 +79612,7 @@ Frederik Immanuel Weilbach
 Frederik Julian Christian von Bertouch
 Frederik Kraft
 Frederik Kragh
+Frederik Lange
 Frederik Lange Grundtvig
 Frederik Liebmann
 Frederik Lorenzen
@@ -79477,6 +79746,7 @@ Fresno County
 Frestyle Diving
 Fri vilje
 Frida Gustavsson
+Frida Kahlo
 Fridtjof Nansen
 Frie Grønne
 Frie Sjæle
@@ -79492,11 +79762,13 @@ Friedrich August Garcke
 Friedrich August Körnicke
 Friedrich August Ludwig von Burgsdorff
 Friedrich August Marschall von Bieberstein
+Friedrich Bernhard Westphal
 Friedrich Bessel
 Friedrich Carl Louis Otto Appel
 Friedrich Casimir Medicus
 Friedrich Christian Carl Hinrich Münter
 Friedrich Christoph Wilhelm Alefeld
+Friedrich Dürrenmatt
 Friedrich Ehrendorfer
 Friedrich Ernst Ludwig von Fischer
 Friedrich Franz August Albrecht Bolle
@@ -79552,6 +79824,7 @@ Frisere
 Friskole
 Frisland (Nederland)
 Frisland under Saksen
+Frispark (fodbold)
 Frist
 Fristaten Congo
 Fristilsbrydning
@@ -79738,6 +80011,7 @@ Fuzzy
 Fußballer des Jahres
 Fy faen
 Fykologi
+Fyldepen
 Fylke
 Fylogenetisk
 Fylogeni
@@ -79786,6 +80060,7 @@ Fårup Sø
 Fårupgård
 Fæces
 Fægtning
+Fægtning under sommer-OL 1920
 Fægtningen ved Torsebro
 Fælde
 Fælles emitter
@@ -80710,6 +80985,7 @@ Giambattista Della Porta
 Gian Marco Moroni
 Giancarlo Pajetta
 Gianfranco Rosi
+Gianluca Bortolami
 Gianluca Mager
 Gianluigi Braschi
 Gianluigi Buffon
@@ -81559,6 +81835,7 @@ Grand Palace
 Grand Palais
 Grand Piano (album)
 Grand Prairie
+Grand Prix Cycliste de Montréal
 Grand Prix Cycliste de Montréal 2013
 Grand Prix Cycliste de Montréal 2022
 Grand Prix Cycliste de Québec 2013
@@ -81990,6 +82267,7 @@ Grænse
 Grænsekontrol
 Grænsekontrollør
 Græse Sogn
+Græsholm (Åstrup Sogn)
 Græshopper
 Græsk
 Græsk (sprog)
@@ -82133,6 +82411,7 @@ Gulbenes distrikt
 Guld og grønne skove
 Guld-Iver Flintesten
 Guldalder
+Guldbaldrian
 Guldbollen
 Guldbæk
 Guldfeber (film)
@@ -82203,6 +82482,7 @@ Gustav 4. Adolf af Sverige
 Gustav Adolf Reuterholm
 Gustav Adolfs torg
 Gustav Adolph Falck
+Gustav Bartholin Hagen
 Gustav Falck
 Gustav Hertz
 Gustav Holm
@@ -82472,6 +82752,7 @@ Haderup (Mariagerfjord Kommune)
 Hades
 Hadestown
 Hadet til demokratiet
+Hadillah Mohoumadi
 Hadise
 Hadleigh Castle
 Hadrian
@@ -83064,6 +83345,7 @@ Hassan Ali Ghulam
 Hassan Bashir
 Hassan El-Shazly
 Hasse Borg
+Hassel (art)
 Hassendorf
 Hasseris Å
 Hassium
@@ -83508,6 +83790,7 @@ Hennepin County
 Henni Forchhammer
 Henning Frederik Feilberg
 Henning Karmark
+Henning Larsen
 Henning Mankell
 Henning Mortensen
 Henning Rasmussen
@@ -83648,6 +83931,7 @@ Henry V (film)
 Henry W. Halleck
 Henry W. Slocum
 Henry Way Kendall
+Henry Weekes
 Henry Wilcoxon
 Henry Winkler
 Henryk Arctowski
@@ -83660,6 +83944,7 @@ Hepatitis C
 Hepple
 Her (film)
 Her Excellency
+Her First Biscuits
 Her Friend the Bandit
 Her Majesty's Stationery Office
 Her Painted Hero
@@ -83895,6 +84180,7 @@ High Voltage (album)
 High Wide & Handsome: The Charlie Poole Project
 High Wycombe
 High school
+High voltage
 High-definition television
 High-definition video
 High-dynamic-range rendering
@@ -84116,6 +84402,7 @@ Ho Chi Minh stien
 Ho Chi Minh-stien
 Hoagy Carmichael
 Hobart
+Hobart (flertydig)
 Hobart Bosworth
 Hobart and William Smith Colleges
 Hobbitten (film)
@@ -84233,6 +84520,7 @@ Hollywood-skiltet
 Hollænderi
 Holløse (Gribskov Kommune)
 Holløselund
+Holm & Grut
 Holm (ø)
 Holmby Hills
 Holmegaard Glasværk
@@ -84329,6 +84617,7 @@ Honky Tonk Man
 Honkytonk Man
 Honning
 Honning Måne
+Honninggøge
 Honningmåne
 Honoka Hayashi
 Honolulu
@@ -84472,6 +84761,7 @@ Hovawart
 Hoved
 Hovedbanegård
 Hovedbanegården
+Hovedbeklædning
 Hovedby
 Hovedgård
 Hovedkvarter
@@ -84813,6 +85103,7 @@ Hvidovre Ishockey Klub
 Hvidovre Kommune
 Hvidovre Lokalarkiv
 Hvidovre Sogn
+Hvidovre Volleyball Klub
 Hvidstengruppen
 Hvidt flag
 Hvidvaskning
@@ -84947,6 +85238,7 @@ Højskolesangbogen
 Højskoleskrifter
 Højtid
 Højttaler
+Høllefjorden
 Høn Station
 Hønefoss Station
 Høner
@@ -85026,6 +85318,7 @@ I Wanna Be Your Dog
 I Wanna Dance with Somebody (Who Loves Me)
 I Wanna Have Some Fun
 I Wanna Have Some Fun (sang)
+I Wanna Live In a Dream In a Record Machine
 I Wanna Sex You Up
 I Want It All (Queen sang)
 I Want It All (Queen song)
@@ -85248,6 +85541,7 @@ Ida-Merete Erlandsen
 Idaho
 Idealisme
 Idealtype
+Ideel
 Identified
 Identifikation
 Identitetstyveri
@@ -85445,6 +85739,7 @@ In Good Company (Ted Brown album)
 In Love with an Angel
 In My Dreams (sang)
 In My Life
+In My Lifetime, Vol. 1
 In My Mind (sang)
 In Old Arizona
 In Rainbows
@@ -86010,6 +86305,7 @@ Irwin Winkler
 Is (vand)
 Is It Scary
 Is That All There Is?
+Isaac Albéniz
 Isaac Allerton
 Isaac Asimov
 Isaac Bayley Balfour
@@ -86585,6 +86881,7 @@ Jakob Poulsen
 Jakob Sergejevitch Medwedew
 Jakob Stegelmann
 Jakob Sølvhøj
+Jakob Ulfeldt (landsdommer)
 Jakob Vestergaard
 Jakobinerne
 Jakobsklausuler
@@ -86876,6 +87173,7 @@ Janis Paige
 Janis Siegel
 Janis Siegel (singer)
 Janjaweed
+Jann Jensen
 Jann Wenner
 Janne Kolling
 Jannik Hansen
@@ -87138,6 +87436,7 @@ Jeff Daniels
 Jeff Gillooly
 Jeff Goldblum
 Jeff Hardy
+Jeff Hawkins
 Jeff Jarrett
 Jeff Levy-Hinte
 Jeff Lynne
@@ -87215,6 +87514,7 @@ Jenny McCarthy
 Jens Adolf Jerichau (billedhugger)
 Jens Albinus
 Jens Baggesen
+Jens Benzon
 Jens Byskov
 Jens Christian Madsen
 Jens Cornelius
@@ -87273,6 +87573,7 @@ Jeppe Orbe
 Jeppe Rapp
 Jeppe Simonsen
 Jeppe Vestergaard
+Jeppe paa Bjerget
 Jeppe på bjerget (film)
 Jeremiah S. Black
 Jeremy Denzlinger
@@ -87294,6 +87595,7 @@ Jernbane på Nauru
 Jernbanebroen over Limfjorden
 Jernbanefærge
 Jernbanen Wilhelmshaven–Oldenburg
+Jernbaneoverskæring
 Jernbanesignal
 Jernbanespor
 Jernbanestation
@@ -87484,6 +87786,7 @@ Jim Risch
 Jim Roberts
 Jim Rodford
 Jim Sheridan
+Jim Stjerne Hansen
 Jim Stärk
 Jim Tavaré
 Jim Taylor
@@ -87678,6 +87981,7 @@ Johan Christian Ryge
 Johan Cruijff Schaal 2014
 Johan Elmander
 Johan Erhard Areschoug
+Johan Fischer
 Johan Frederik Classen
 Johan Georg Forchhammer
 Johan Grundtvig
@@ -87803,6 +88107,7 @@ Johannes Zwicky
 Johannes van Brummelen
 Johannes van Dijk
 Johannes van Helmont
+Johannes von Miquel
 Johannesburg
 Johannesevangeliet
 John "Bradshaw" Layfield
@@ -88103,6 +88408,7 @@ John Neely Kennedy
 John Nesbitt
 John Newman
 John Newton
+John Noble
 John Northcott
 John Norum
 John O'Gaunt's Castle
@@ -88338,6 +88644,7 @@ Jonas Grønbech Hansen
 Jonas Hassen Khemiri
 Jonas Hecksher
 Jonas Koch
+Jonas Larholm
 Jonas Magnussen
 Jonas Olsson
 Jonas Renkse
@@ -88950,6 +89257,7 @@ Juridisk person
 Jurij Andropov
 Jurij Basjmet
 Jurij Gagarin
+Jurij Ozerov
 Jurij Taritj
 Jurij Veklenko
 Juris Doctor
@@ -89007,6 +89315,7 @@ Juvenile Oscar
 Juventus
 Juventus F.C.
 Juventus FC
+Juzjno-Sakhalinsk
 Jydekompagniet
 Jyderup
 Jyderup Boldklub
@@ -89251,6 +89560,7 @@ Kalkflagellat
 Kalkmaleri
 Kalksten
 Kalkun
+Kalle Moraeus
 Kalligrafi
 Kalliope
 Kalliope.org
@@ -89292,6 +89602,7 @@ Kammerherre
 Kammerkoret Camerata
 Kammermusik
 Kamp Herred
+Kampalas B-Boys
 Kampen (Nederlandene)
 Kampen for Tilværelsen
 Kampene ved Koli Point
@@ -89372,6 +89683,7 @@ Kapitalen (bog)
 Kapitalforvaltning
 Kapitalindkomst
 Kapitalisme
+Kapitalpension
 Kapitulation
 Kapitæl (typografi)
 Kapkolonien
@@ -89445,6 +89757,7 @@ Karima Adebibe
 Karin Dreijer Andersson
 Karin Høj
 Karin Jagd
+Karin Michaëlis
 Karin Riis-Jørgensen
 Karina Logue
 Karisma
@@ -89520,6 +89833,7 @@ Karlslunde Idrætsforening
 Karlsrud Station
 Karlsruher Institut für Technologie
 Karlstad-konventionen
+Karlum Sogn
 Karma
 Karma Chameleon
 Karma Music
@@ -89602,6 +89916,7 @@ Kasper Sørensen
 Kasper Tvede
 Kasper Vilfort
 Kasper Winding
+Kasper Winther Jørgensen
 Kassala
 Kassandra
 Kassava
@@ -89776,6 +90091,7 @@ Keisuke Ito
 Keith (Diskverden)
 Keith Andrews
 Keith Buckley
+Keith Campbell (biolog)
 Keith Carradine
 Keith Emerson
 Keith Goodwin
@@ -90083,6 +90399,7 @@ Kildemosens Boldklub
 Kilden (Frederikshavn Kommune)
 Kildeparken
 Kildevæld
+Kildevænget
 Kileskrift
 Kilikia
 Kill Bill: Volume 2
@@ -90295,6 +90612,7 @@ Kirke Værløse Idrætsforening
 Kirke-Eskilstrup Boldklub
 Kirkebog
 Kirkebøger
+Kirkefader
 Kirkegård
 Kirkelig Forening for den Indre Mission i Danmark
 Kirken
@@ -90476,6 +90794,7 @@ Knaresborough Castle
 Knepp Castle
 Knesset
 Knibning (typografi)
+Kniefall von Warschau
 Knights of Cydonia
 Kniksenprisen
 Knivens æg
@@ -90487,6 +90806,7 @@ Knocked Up
 Knockin Castle
 Knockin' on Heaven's Door
 Knockout
+Knoop
 Knop (plantedel)
 Knopsvane
 Knossos
@@ -90920,6 +91240,7 @@ Kosmogoni
 Kosovo
 Kosovo ved OL
 Kosovokrigen
+Kosovos fodboldlandshold
 Kostas Chalkias
 Kostas Fortounis
 Kostas Katsouranis
@@ -91201,6 +91522,7 @@ Kulturhistorisk
 Kulturhuset Islands Brygge
 Kulturimperialisme
 Kulturinstitutioner
+Kulturkredslæren
 Kulturminister
 Kulturstyrelsen
 Kulusuk Lufthavn
@@ -91248,6 +91570,7 @@ Kurbad
 Kurder
 Kurdere
 Kurdistan
+Kurdistans Arbejderparti
 Kure Atol
 Kure, Hiroshima
 Kurere
@@ -91316,6 +91639,7 @@ Kvalitet
 Kvalme
 Kvanløse
 Kvantemekanik
+Kvantemekanisk måling
 Kvantisering
 Kvantitativ metode
 Kvarkstjerne
@@ -91327,6 +91651,7 @@ Kvartet
 Kvarts
 Kvartsglas
 Kvartssand
+Kvartstabel
 Kvartær
 Kvasar
 Kvasikrigen
@@ -91375,6 +91700,7 @@ Kvæker
 Kvælning
 Kvælstof
 Kvælstoffiksering
+Kværs Kirke
 Kwantlen Polytechnic University
 Kwara
 Kwashiorkor
@@ -91493,6 +91819,7 @@ Kønsvorter
 Kørekort
 Køreledning
 Køreplan
+Kørestolsfodbold
 Køretøj
 Kürebjergene Nationalpark
 Kępno
@@ -91577,6 +91904,7 @@ La Toya Jackson
 La Villette
 La Voluntad del muerto
 La cage aux rossignols
+La course by Le Tour de France
 La det swinge
 La golondrina
 La grand illusion
@@ -92167,6 +92495,7 @@ Lee Tracy
 Lee-Enfield
 Leeds
 Leeds Castle
+Leeds Town Hall
 Leeds United
 Leeds United A.F.C.
 Leeds United AFC
@@ -92363,6 +92692,7 @@ Leighlampe
 Leighton Baines
 Leiji Matsumoto
 Leiknir Reykjavik
+Leinster House
 Leinthall Starkes
 Leipsic (Delaware)
 Leipzig
@@ -92560,6 +92890,7 @@ Letland i Eurovision Song Contest
 Letland ved OL
 Letland ved VM i svømning 2011
 Letland ved sommer-OL 2016
+Letlands Etnografiske Frilandsmuseum
 Letlands distrikter
 Letsindige Marietta
 Letsværvægt
@@ -92640,8 +92971,10 @@ Lexus ES
 Lexus GS
 Leybourne Castle
 Leymah Gbowee
+Leyte
 Lezginere
 Leó Szilárd
+Leśnia-søen
 Lhasa
 Lhasa Apso
 Lhasa-aftalen
@@ -92892,6 +93225,7 @@ Lindemann (band)
 Lindenborg Å
 Linderud Station
 Lindevang Station
+Lindevangskolen
 Lindhardt og Ringhof
 Lindholm
 Lindholm (Kattegat)
@@ -93277,6 +93611,7 @@ Liverpool, New South Wales
 Livet er for kjipt
 Livet er smukt
 Livet længe leve
+Livets Vej
 Livets evolutionshistorie
 Livets små mirakler
 Livets træ (biologi)
@@ -93575,6 +93910,7 @@ Lotte Lehmann
 Lotte Rod
 Lotteri
 Lottery
+Lottie Dod
 Lotto (film)
 Lotto Dstny
 Lotto-Belisol
@@ -93682,6 +94018,7 @@ Louise Élisabeth af Frankrig
 Louisiana (delstat)
 Louisiana (kunstmuseum)
 Louisiana (stat)
+Louisiana Purchase Exposition
 Louisiana State University
 Louisiana Story
 Louisiana-købet
@@ -93977,6 +94314,7 @@ Lus (elektronik)
 Lusitania
 Lusitanien
 Lussingesyge
+Lust Lust Lust
 Lust for Life
 Lustration
 Lutetia
@@ -94081,6 +94419,7 @@ Lysbro (Silkeborg)
 Lysdiode
 Lysdæmper
 Lyse nætter
+Lysefjorden i Forsand
 Lysets hastighed
 Lyskilde
 Lyssky transport gennem Danmark
@@ -94120,6 +94459,7 @@ Lærkevej
 Lærred
 Læsedrama
 Læsefærdighed
+Læsket kalk
 Læsning
 Lèse-majesté
 Léa Seydoux
@@ -94154,6 +94494,7 @@ Lørdag
 Løren Station
 Lørenbanen
 Løsgænger
+Løsøre
 Løvernes Konge
 Løvernes Konge (film fra 2019)
 Løvfældende
@@ -94174,6 +94515,7 @@ M. Night Shyamalan
 M. Ward
 M.-F. Robert-Passini
 M.J. Eriksson A/S
+M/F Ærøsund II
 M/S Selandia
 M/V-05
 M1 (metro)
@@ -94205,6 +94547,7 @@ MD-95
 MDFMK
 MERS-CoV
 MESSENGER
+METAR
 MFF Cup 2015
 MFS (musikgruppe)
 MG (bilmærke)
@@ -95547,6 +95890,7 @@ Martin County (North Carolina)
 Martin Dahlin
 Martin Dzur
 Martin Elfand
+Martin Elmiger
 Martin Erik Andersen
 Martin Evans
 Martin Frobisher
@@ -95618,6 +95962,7 @@ Marty Wilde
 Martyn LeNoble
 Martyr
 Martyr's Memorial A-Division League 2014-15
+Marubeni
 Marum
 Marvel
 Marvel Cinematic Universe
@@ -95860,6 +96205,7 @@ Matthew Ebden
 Matthew Goodwin
 Matthew James
 Matthew Kelly
+Matthew Le Tissier
 Matthew McConaughey
 Matthew Moore
 Matthew Morrison
@@ -96205,6 +96551,7 @@ Mellemørebetændelse
 Mellemøsten
 Mellemøsten-konflikten
 Mellemøstlige kommando
+Mellerud
 Melnikovo, Altai Krai
 Melodi
 Melodi Grand Prix
@@ -97038,6 +97385,7 @@ Miljø-DNA
 Miljøbeskyttelse
 Miljøbevægelse
 Miljøfare
+Miljøforkæmpere
 Miljøgifte
 Miljøminister
 Miljøvidenskab
@@ -97160,6 +97508,7 @@ Minocycline
 Minoisk kultur
 Minor Blues
 Minorca
+Minoritet
 Minority Report (film)
 Minos
 Minotauros
@@ -97191,10 +97540,12 @@ Miriam Hopkins
 Miriam Shor
 Mirko Svrček
 Miroslav Klose
+Miroslav Koranda
 Miroslav Vitous
 Miroslav Vitouš
 Mirror Mirror
 Misao Okawa
+Misato Katsuragi
 Mischa Barton
 Mischa Elman
 Mischehe
@@ -97260,6 +97611,7 @@ Mistillidsvotum
 Misvækst
 Mit Afrika
 Mit Afrika (film)
+Mit liv i Thylejren
 Mitanni
 Mitau
 Mitch Bowden
@@ -97279,6 +97631,7 @@ Mitsubishi A6M Zero
 Mitsubishi G3M
 Mitsubishi G4M
 Mitsubishi Motors
+Mitsuru Mukojima
 Mitsuteru Yokoyama
 Mitt Romney
 Mittani
@@ -97704,6 +98057,7 @@ Moroni
 Morozov Design Bureau
 Morpeth Castle
 Morrill Act
+Morris CS9
 Morris Engel
 Morris Stoloff
 Morrisburg (Ontario)
@@ -97814,6 +98168,7 @@ Motorsport
 Motorsport Association of Pakistan
 Motorsport New Zealand
 Motorsport South Africa
+Motorsportens Tripelkrone
 Motorvej
 Motorvej på sengekanten
 Motorvogn
@@ -97836,6 +98191,7 @@ Mount Everest
 Mount Gambier (South Australia)
 Mount Ida College
 Mount Isa
+Mount Katmai
 Mount Kenya nationalpark
 Mount Kinabalu
 Mount Logan
@@ -97944,6 +98300,7 @@ Multiplayer
 Multiplikationstegn
 Multiraciale amerikanere
 Multirollehelikopter
+Multivers
 Mumie
 Muncaster Castle
 Mund til mund
@@ -97961,6 +98318,7 @@ Munkbrarup
 Munkebo Boldklub
 Munkekanalen
 Munkelia Station
+Munkholm (flertydig)
 Munsee
 Muné Tsenpo
 Muppets
@@ -97978,6 +98336,7 @@ Murmaleri
 Murmansk-legionen
 Murmur (album)
 Murowana Goślina
+Murray Bookchin
 Murray Bridge (South Australia)
 Murray County (Minnesota)
 Murray Gell-Mann
@@ -98236,6 +98595,7 @@ Mørkerum
 Mørkhøj Sogn
 Mørkøv
 Mørtel
+Mørupstenen
 Música sertaneja
 München
 München (film)
@@ -98778,6 +99138,7 @@ Nebraska (film)
 Nebraska Universitet
 Nebukadnesar II
 Necessary Roughness
+Nechervan Idris Barzani
 Necrophobic
 Ned Lamont
 Ned Miller
@@ -98925,6 +99286,7 @@ Nettet (film)
 Netto
 Netto (supermarkedskæde)
 Nettop
+Nettuno
 Network (film)
 Network 10
 Network Ten
@@ -100560,7 +100922,9 @@ Ole Schmidt
 Ole Stephensen
 Ole Søltoft
 Ole Sørensen (fodboldspiller)
+Ole Theill
 Ole Woldbye
+Oleg Golovanov
 Oleg Jankovskij
 Oleg af Novgorod
 Oleh Blokhin
@@ -100819,6 +101183,7 @@ Op art
 Op-ed
 Opalenica
 Opdagelsesrejsende
+Opel Campo
 Open 13
 Open Air Varde
 Open House (album)
@@ -101094,6 +101459,7 @@ Orlov i Hollywood
 Orléans
 Orm (computerprogram)
 Ormegården
+Ormepadder
 Orna Porat
 Ornament
 Orne (departement)
@@ -101584,8 +101950,10 @@ Padova
 Padre Sennen
 Padua
 Paducah
+Page (Arizona)
 Page, Australian Capital Territory
 Paginering
+Pagten (film fra 2021)
 Pahang
 Pahang (flod)
 Paid My Dues
@@ -101820,6 +102188,7 @@ Parc de Bercy
 Parc de la Vilette
 Parc des Buttes Chaumont
 Parcels (band)
+Parchim
 Pardubice
 Pareidolia
 Parenkymatisk
@@ -102885,6 +103254,7 @@ Peter Brown (music industry)
 Peter Bruun
 Peter Buck
 Peter Buck (album)
+Peter Bøgh Kjærulff
 Peter C. Doherty
 Peter Cassøe
 Peter Chernin
@@ -102895,6 +103265,7 @@ Peter D. Orton
 Peter Dinklage
 Peter Donald
 Peter Duetoft
+Peter Eisenman
 Peter Elfelt
 Peter Elias von Gähler
 Peter Engberg
@@ -103888,6 +104259,7 @@ Postcard from Heaven
 Postcards from Heaven
 Postcommotionelt Syndrom
 Postdoc
+Posthorn
 Posthum
 Postimpressionisme
 Postkort
@@ -105148,6 +105520,7 @@ Reading F.C. Women
 Ready Steady Go!
 Reagan
 Reagensglas
+Real Audiencia af Charcas
 Real Club de Tenis Barcelona-1899
 Real Madrid
 Real Madrid (Sydafrika)
@@ -105307,6 +105680,7 @@ Regeringen Katrín Jakobsdóttir
 Regeringen Moltke I
 Regeringen Palme I
 Regeringen Poul Schlüter III
+Regeringen Thorvald Stauning V
 Regeringschef
 Regeringsgatan
 Regeringsgrundlag
@@ -105645,6 +106019,7 @@ Ric Flair
 Ric Formosa
 Ric Grech
 Rica Matsumoto
+Ricardo Bochini
 Ricardo Bofill
 Ricardo Cortez
 Ricardo Costa
@@ -106841,6 +107216,7 @@ Ruinas
 RuleBurst
 Rulers of the Sea
 Rullesegl
+Rullesko
 Rum Rebellion
 Rumalderen
 Rumfang
@@ -106956,6 +107332,7 @@ Russofobi
 Rusty Hamer
 Ruta Lee
 Rutaceae
+Rutenien
 Ruter
 Rutger Gunnarson
 Rutger Gunnarsson
@@ -107141,6 +107518,7 @@ Rėkyva
 Rīgas distrikt
 S-300
 S-61 Sea King
+S-Bahn Rhein-Main
 S-bus
 S-tog
 S. Davidson, B. Morgan
@@ -107432,6 +107810,7 @@ Sam Zimbalist
 Sam the Eagle
 Samak Sundaravej
 Samantha Fox
+Samara
 Samaritaner
 Samarium
 Samarkand
@@ -107594,6 +107973,7 @@ San Vero Milis
 San Vito
 Sanaa
 Sanatorium
+Sanaá
 Sanctuary Records
 Sand (1949 film)
 Sand Chronicles
@@ -108012,6 +108392,7 @@ Scottish Cup
 Scottish Cup 2011-12
 Scottish Cup 2014-15
 Scottish Cup 2015-16
+Scottish Football League
 Scottish Geographical Magazine
 Scottish League Cup 2014-15
 Scottish Mortgage Investment Trust
@@ -108330,6 +108711,7 @@ Serbiske SuperLiga 2012-13
 Serbiske SuperLiga 2014-15
 Serbiske pokalturnering 2014-15
 Serbiske pokalturnering 2015-16
+Serchio
 Serdiana
 Seremban
 Serena Williams
@@ -108365,6 +108747,7 @@ Sergio Romero
 Sergio Vartolo
 Sergiu Celibidache
 Sergius Paulus
+Serhat
 Serhij Nazarenko
 Serhiy Nazarenko
 Serial Killer
@@ -108420,6 +108803,7 @@ Seven Witches
 Seven Years in Tibet (1997 film)
 Seventh Heaven (film)
 Severiano Ballesteros
+Severin de Junge
 Severn Trent
 Severo Ochoa
 Severstal Tjerepovets
@@ -108718,6 +109102,7 @@ Sibbarp
 Sibbarp sogn
 Siberian Husky
 Sibiloi nationalpark
+Sibirere
 Sibirien
 Sibiu Cycling Tour 2017
 Sibley County
@@ -108734,7 +109119,9 @@ Sid Vicious
 Siddharta Gautama
 Siddi
 Siddur
+Sidekanalblæsere
 Sideline Concussion Assesement Tool
+Siden sidst
 Sider per minut
 Siderisk omløbstid
 Siderisk år
@@ -108863,6 +109250,7 @@ Simi Valley
 Simian (band)
 Simian Mobile Disco
 Simile
+Simke Kloosterman
 Simkort
 Simmons College (Massachusetts)
 Simon & Garfunkel
@@ -109176,6 +109564,7 @@ Skorpe (geologi)
 Skorpioner
 Skorstøl
 Skotland
+Skotland kalder
 Skotlands U/21-fodboldlandshold
 Skotlands flag
 Skotlands fodboldforbund
@@ -109225,6 +109614,7 @@ Skrifttype
 Skrillex
 Skrivemaskine
 Skriveskrift (typografi)
+Skriðuklaustur
 Skrog
 Skrubtudse
 Skrumpelever
@@ -109232,6 +109622,7 @@ Skrydstrup Sogn
 Skråplanet
 Skråstreg
 Skrædder
+Skt. Helena-præstekrave
 Skt. Petersborg
 Sku' du spørge fra nogen (sang)
 Skud (botanik)
@@ -109738,6 +110129,7 @@ Småbrug
 Smålegemer i Solsystemet
 Småländsk sommarnatt
 Smøla
+Smølferne (film)
 Smørum Sogn
 Snabel-a
 Snap & B
@@ -111231,6 +111623,7 @@ Storbyens små mirakler
 Storbyens små oaser
 Storbyområde
 Store Bittersø
+Store Brøndum Sogn
 Store Egholm (Sydfynske Øhav)
 Store Kongensgade
 Store Krone
@@ -111663,6 +112056,7 @@ Super Live in Japan
 Super Nintendo-spil
 Super Rugby
 Super deformed
+Super saiyajin
 SuperBrawl
 SuperBrawl V
 SuperBrawl VI
@@ -111880,6 +112274,7 @@ Sven-Ingvars
 Svend (biskop i Århus)
 Svend Asmussen
 Svend Bille
+Svend Dahl
 Svend Foyn-ekspeditionen
 Svend Grundtvig
 Svend Hamann
@@ -112029,6 +112424,7 @@ Sweeney Todd: Den djævelske barber fra Fleet Street
 Sweet About Me
 Sweet Charity
 Sweet Linda Boogie
+Sweet Memories
 Sweet Mercy
 Sweet Sacrifice
 Sweet but Psycho
@@ -112201,6 +112597,7 @@ Symphony (Clean Bandit)
 Symphony 1997
 Symphony No. 1 (Dvořák)
 Symphony X
+Symposion
 Symposion (Platon)
 Symptom
 Synagoge
@@ -112337,6 +112734,7 @@ Søjleportal
 Søkort
 Søllerød Boldklub
 Søllerød Kirke
+Søllerød Nærum Idrætsklub
 Søllerød Sogn
 Søllested Idrætsforening
 Sølund Musik Festival
@@ -112414,6 +112812,7 @@ Søren von Essen
 Sørenn Rasmussen
 Sørensen
 Sørlandsbanen
+Sørup
 Sørøver
 Søs & Kirsten
 Søslag
@@ -112525,6 +112924,7 @@ Taastrup Nykirke Sogn
 Tab Hunter
 Tab af atmosfære
 Tabel over fodbold ud fra år
+Taberkvinde
 Tabitha og Napoleon D'umo
 Tablet (computer)
 Tabloid
@@ -112741,6 +113141,7 @@ Tasmanien
 Tasmanske Hav
 Tassos Papadopoulos
 Tastatur
+Tasteinstrument
 Tasuku Honjo
 Tata Young
 Tatarer (tyrkisk folk)
@@ -112866,6 +113267,7 @@ TeenClub Nyt
 Teenage Dream
 Teenage Dream (sang)
 Teenager
+Tefnut
 Teglholmen
 Teglovn
 Teglværk
@@ -112911,6 +113313,7 @@ Telefonnumre i Nigeria
 Telefonnumre i Thailand
 Telefonnumre i USA
 Telegraf
+Telegrafi
 Telegram
 Telekom S-League 2014-15
 Telemachus
@@ -112995,6 +113398,7 @@ Teologi
 Teoretisk fysik
 Teori
 Teorien om alting (film fra 2014)
+Teosinte
 Teosofi
 Teppic
 Tequila
@@ -114108,6 +114512,7 @@ The Rainmaker
 The Ramones
 The Rape of El Morro
 The Rapsody Overture
+The Rapture
 The Rapture (movie)
 The Rare Delight of You
 The Rascals (English band)
@@ -114222,6 +114627,7 @@ The Sky Is Everywhere (film)
 The Skywhale
 The Slaughter Rule
 The Sleepy Jackson
+The Slim Shady EP
 The Slugger's Wife
 The Small Faces
 The Smashing Pumpkins
@@ -114932,6 +115338,7 @@ Tim Lund
 Tim McCord
 Tim McCoy
 Tim McGraw
+Tim Perslev
 Tim Risvig
 Tim Rogers (musiker)
 Tim Roth
@@ -115045,6 +115452,7 @@ Tirsdag
 Tirslund Sogn
 Tisch School of the Arts
 Tisvilde
+Tisvilde Hegn
 Tisvildeleje
 Titan (grundstof)
 Titan (mytologi)
@@ -115561,6 +115969,7 @@ Tour des Alpes-Maritimes et du Var 2021
 Tour des Fjords 2017
 Tour du Finistère 2017
 Tour du Haut-Var 2017
+Tour du Haut-Var 2018
 Tour du Limousin 2017
 Tour du Loir-et-Cher 2017
 Tour du Poitou-Charentes 2017
@@ -116314,6 +116723,7 @@ Tórshavn
 Töntarna
 Töreboda
 Tøjhusmuseet
+Tøjstrup
 Tølløse
 Tølløse Bold Klub
 Tømmer
@@ -116820,6 +117230,7 @@ Umove
 Umuahia
 Un-Break My Heart
 Una Merkel
+Unabhängige Sozialdemokratische Partei Deutschlands
 Unbeautiful
 Uncensored
 Unchained Melody
@@ -117463,6 +117874,7 @@ Valerij Heletej
 Valerij Zaluzjnyj
 Valg i Israel
 Valgbar
+Valgborgs favn
 Valget i Tyskland 1884
 Valget til den konstituerende nationale forsamling i Portugal 1975
 Valget til den konstituerende nationalforsamling i Portugal 1911
@@ -117645,6 +118057,7 @@ Vatanspor
 Vatikanet
 Vatikanstaten
 Vatnahalsen Station
+Vattenfall Cyclassics 2007
 Vattenfall Cyclassics 2013
 Vaucluse
 Vaucluse, New South Wales
@@ -117887,6 +118300,7 @@ Vester Hassing
 Vester Hedekrog
 Vester Nebel (Kolding Kommune)
 Vesterbro Festival
+Vesterbrogade
 Vesterbrogade (København)
 Vestergade 1924
 Vesterhavsdrenge
@@ -118194,6 +118608,7 @@ Villaurbana
 Ville Valo
 Villeurbanne
 Villingerød Sogn
+Villy Søvndal
 Vilma Bánky
 Vilmorin
 Vilnius
@@ -118387,6 +118802,7 @@ Viva la Vida
 Viva!
 Vivace
 Vivaldi's Cello
+Vivara
 Vivian Fuchs
 Vivian Vance
 Vivica A. Fox
@@ -118592,6 +119008,7 @@ Vægtløftning
 Vægttab
 Vækkelse
 Vækst
+Vælling
 Vær velkommen, Herrens år
 Værdipapir
 Værelse med udsigt
@@ -118693,6 +119110,7 @@ Walden Castle
 Waldo's People
 Waldorf
 Waldorf Astoria
+Waler
 Wales
 Wales' førstedivision i fodbold 2011-12
 Wales' førstedivision i fodbold 2013-14
@@ -119546,6 +119964,7 @@ William Jennings Bryan
 William Johnstone
 William Jones
 William Joseph Burns
+William Joseph Simmons
 William Joynson-Hicks, 1. Viscount Brentford
 William K. Howard
 William Kaelin Jr.
@@ -119661,6 +120080,7 @@ Willoughby, New South Wales
 Willowdale (Toronto)
 Wills Town
 Willy Brandt
+Willy Caballero
 Willy Kragh
 Willy Kuijpers
 Willy Telavi
@@ -119843,6 +120263,7 @@ Women's Professional Soccer
 Women's Tennis Association
 Won't Go Home Without You
 Wondaland Presents: The Eephus
+Wonder Cave
 Wonder Woman (film fra 2017)
 Wonder Woman 1984 (film)
 Wonderboy
@@ -120772,6 +121193,7 @@ transistor
 Ørkenkrigen
 Ørland
 Ørneberget Station
+Ørslev Sogn (Slagelse Kommune)
 Ørsta
 Ørsted IF
 Øst for paradis (film)

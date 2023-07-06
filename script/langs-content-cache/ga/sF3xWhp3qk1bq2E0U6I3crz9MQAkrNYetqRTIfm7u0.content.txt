@@ -1,5 +1,5 @@
 revision: 1153609
-title: "P\xE9ac\xF3g (\xE9an)"
+title: "P\xE9ac\xF3g"
 url: https://ga.wikipedia.org/wiki/P%C3%A9ac%C3%B3g
 
 

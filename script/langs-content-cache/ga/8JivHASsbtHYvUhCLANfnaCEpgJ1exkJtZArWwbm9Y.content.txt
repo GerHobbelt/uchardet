@@ -1,5 +1,5 @@
 revision: 1059159
-title: "An Ghin\xE9iv"
+title: "Loch Ghin\xE9iv"
 url: https://ga.wikipedia.org/wiki/An_Ghin%C3%A9iv
 
 

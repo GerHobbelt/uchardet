@@ -1,5 +1,5 @@
 revision: 1084423
-title: Yukio Mishima
+title: Ichigaya
 url: https://ga.wikipedia.org/wiki/Yukio_Mishima
 
 

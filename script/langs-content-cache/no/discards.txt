@@ -1,4 +1,6 @@
 
+(120178) 2003 OP32
+(145453) 2005 RR43
 (202421) 2005 UQ513
 10. april
 10. desember
@@ -21,6 +23,7 @@ Agincourt
 Akshak
 Aksjonær
 Anton Diffring
+Asker
 Augusta Leigh
 Avaricum
 Biblidinae
@@ -31,6 +34,7 @@ Bona Dea
 Botai
 Brady Corbet
 Bread
+Ceylanodrilus
 Choga Mami
 Det Nye Testamentes Kanoniske Bøker
 Europas fyrstehus
@@ -47,6 +51,7 @@ Hansel & Gretel Get Baked
 Herman Zanstra
 Hydrogen
 I Love You Te Quiero
+JL-3
 James Hogan
 Janine Belton
 Jord (elektronikk)
@@ -63,12 +68,14 @@ Majoritetsbærere
 Moderne femkamp under Panamerikanske leker 2015
 NHL Entry Draft 1991
 Navás
+Nicrophorus
 Nippur
 Nyköpings gjestebud
 Nü (album)
 OPI
 Opium
 Ousmane Dembélé
+Owen County
 Paul Janes
 Pendlingsomland
 Promagistrat
@@ -97,17 +104,3 @@ Vestfold sykepleierhøgskole
 Vestvannene
 Washington State Ferries
 Willy Busch
-
-Nicrophorus
-
-Owen County
-
-Ceylanodrilus
-
-JL-3
-
-Asker
-
-(120178) 2003 OP32
-
-(145453) 2005 RR43

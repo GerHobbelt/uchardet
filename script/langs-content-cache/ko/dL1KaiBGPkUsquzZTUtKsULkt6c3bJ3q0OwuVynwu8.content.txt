@@ -1,5 +1,5 @@
 revision: 34983400
-title: "\uD53C\uBC97\uD22C\uC544\uC2DC\uC544"
+title: "USS \uC568\uBC84\uCEE4\uD0A4 (SSN-706)"
 url: https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%B5%AD_%ED%95%B4%EA%B5%B0
 
 

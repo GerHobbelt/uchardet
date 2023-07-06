@@ -1,9 +1,19 @@
 
+"Dr. Death" Steve Williams
+"Pistol" Pez Whatley
+'Namgis
+'Nduja
 'Til We Meet Again
+(15760) 1992 QB1
+(I'm Gonna) Love Me Again
+042–079
+1004 Belopolskya
 1085 Amaryllis
+1086 Nata
 1112 Polonia
 1132 Hollandia
 1155 Aënna
+1156 Kira
 1167 Dubiago
 1197 Rhodesia
 1217 Maximiliana
@@ -14,14 +24,22 @@
 1282 Utopia
 1289 Kutaïssi
 1298 Nocturna
+1299 Mertona
 1302 Werra
 1340 Yvette
 1353 Maartje
+1354 Botha
 1365 Henyey
+1370 Hella
+1372 Haremari
+1379 Lomonosowa
 1384 Kniertje
 1422 Strömgrenia
 1424 Sundmania
+1429 Pemba
+1430 Somalia
 1432 mm hat açıklığı
+1439 Vogtia
 1453 Fennia
 1455 Mitchella
 1461 Jean-Jacques
@@ -29,6 +47,7 @@
 1513 Mátra
 1550 Tito
 1585 Union
+1590 Tsiolkovskaja
 1692 Subbotina
 1721 Wells
 1763 Williams
@@ -39,8 +58,10 @@
 1927 İtalya Bisiklet Turu
 1929 Kollaa
 1936 İtalya Bisiklet Turu
+1938 Lausanna
 1938 İtalya Bisiklet Turu
 1939 Ekstraklasa
+1948 İtalya Bisiklet Turu
 1950 FIFA Dünya Kupası elemeleri
 1951 Lick
 1954 FIFA Dünya Kupası
@@ -56,10 +77,12 @@
 1960 Yaz Olimpiyatları'nda atletizm - Erkekler 800 metre
 1960 Yaz Olimpiyatları'nda atletizm - Erkekler sırıkla yüksek atlama
 1962 FIFA Dünya Kupası
+1963 İtalya Bisiklet Turu
 1964 Yaz Olimpiyatları'nda atlama
 1966 Dünya Üniversiteler Kış Oyunları
 1968 Yaz Olimpiyatları'nda yelken - Star
 1970 Dünya Üniversiteler Kış Oyunları
+1970 FIFA Dünya Kupası kadroları
 1970 Yaz Üniversite Oyunları
 1972 İtalya Bisiklet Turu
 1973-74 Türkiye 3. Futbol Ligi
@@ -76,6 +99,7 @@
 1987-02-14
 1987-88 Türkiye 3. Futbol Ligi
 1988 Yaz Olimpiyatları'nda yelken
+1989 UEFA Süper Kupası
 1990 FIFA Dünya Kupası Finali
 1990 İtalya Bisiklet Turu
 1991 Darwin
@@ -83,6 +107,7 @@
 1992 Kış Olimpiyatları madalya sıralaması
 1992 Kış Olimpiyatları'nda Arjantin
 1992 Kış Olimpiyatları'nda Fransa
+1992 Kış Olimpiyatları'nda Hollanda
 1992 Kış Olimpiyatları'nda Litvanya
 1992 Kış Olimpiyatları'nda Monako
 1992 Kış Olimpiyatları'nda Moğolistan
@@ -94,6 +119,7 @@
 1997 Eurovision Şarkı Yarışması'nda Birleşik Krallık
 1997-06-28
 1998 FIFA Dünya Kupası elemeleri
+1999 Eurovision Şarkı Yarışması'nda Hırvatistan
 1999 İtalya Bisiklet Turu
 2000 Avrupa Salon Atletizm Şampiyonası - Erkekler gülle atma
 2001 Dünya Üniversiteler Kış Oyunları
@@ -101,18 +127,22 @@
 2003 Irak askerî müdahalesi
 2003 Yaz Üniversite Oyunları
 2004-05 3. Lig
+2005 Eurovision Şarkı Yarışması
 2006-07 3. Lig
 2007 Türkiye adrese dayalı nüfus kayıt sistemi sonuçları
 2008 Yaz Olimpiyatları'nda yelken
 2009 İtalya Bisiklet Turu
 2010 AFC Şampiyonlar Ligi
 2010 FIFA Dünya Kupası D Grubu
+2010 FIFA Dünya Kupası elemeleri
 2010-11 Süper Lig
 2012 Avrupa Futbol Şampiyonası Finali
 2012-13 Süper Lig
 2013 Eurovision Şarkı Yarışması'nda Hırvatistan
 2014 Meistriliiga
 2014 Norveç Futbol Kupası
+2014 Primera División (Arjantin)
+2014 Superkupa e Shqipërisë
 2014-15 3. Lig
 2014-15 Coppa Titano
 2014-15 Galler Premier Ligi
@@ -141,10 +171,12 @@
 2019 FIVB Voleybol Erkekler Milletler Ligi kadroları
 2019 FIVB Voleybol Kadınlar Challenger Kupası
 2019 UEFA Avrupa Ligi Finali
+2021 FIVB Voleybol Erkekler Milletler Ligi kadroları
 2022 FIVB Voleybol Erkekler Challenger Kupası
 2022-23 Türkiye Kupası
 22 (Taylor Swift şarkısı)
 3.0 (profesyonel güreş)
+4. Ordu (Osmanlı)
 46. Altın Kelebek Ödülleri
 5. yüzyıl
 7 Women
@@ -153,6 +185,7 @@ A Day's Pleasure
 ASROC
 Abbasanta
 Abdar
+Abdülkadir Seven
 Abuja
 Acceptance (House)
 Action (1921 film)
@@ -164,6 +197,7 @@ Adobe InDesign
 Adriana Ozores
 Advanced Micro Devices
 Aerobasi
+Afyon İdman Yurdu GSK
 Agustín Mulet
 Ahmet Yurdakul
 Ahtapot
@@ -177,11 +211,14 @@ Alessandro Nesta
 Alexander López
 Alfred Francis Russell
 Alfredo Talavera
+Algoritmalar teorisi
+Aliaksandr Kikiniou
 Allen Klein
 Alma Čardžić
 Almanya kadın millî voleybol takımı
 Alp Arslan Kutluk Kül Bilge Kağan
 Alp disiplini
+Also hat Gott die Welt geliebt, BWV 68
 Amazon
 Amazon Echo Buds
 Amazon Elastic MapReduce
@@ -202,6 +239,8 @@ Amore traditore, BWV 203
 Amundsen Denizi
 Ana_Sayfa
 Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti
+Andrea Drews
+Andrea Ferrigato
 Andrew Carnegie
 Angeliki Laiu
 Anlam (moleküler biyoloji)
@@ -215,9 +254,12 @@ Apollo 14
 Archaea
 Archive.is
 Ardıçpınar, Göynücek
+Arikem dilleri
 Arjantin Senatosu
 Arjantin sineması
 Arketip
+Arnavut diasporası
+Arnavutluk'taki okullar listesi
 Ashanti (anlam ayrımı)
 Asmara
 Asteriks ve Oburiks Sezar'a Karşı
@@ -229,6 +271,8 @@ Avustralya Kraliyet Hava Kuvvetleri
 Ay Krateri Radyo Teleskopu
 Aydın'da 1939 Türkiye genel seçimleri
 Ayva yemeği
+Azerbaycan'daki adalar
+Aziz James Askeri Tarikatı
 Açık kümeler dizini
 Aşağıkızılçevlik, Pınarbaşı
 Aşk ve Yaşam
@@ -240,9 +284,11 @@ BL Orionis
 Baby
 Baby Brown
 Badşahi Camii
+Bagaj öneki
 Bahçelievler, Battalgazi
 Baicheng Chang'an Havalimanı
 Bakteri hücre yapısı
+Bakır oksit
 Balkaş Gölü
 Bangladeş
 Bangui
@@ -257,6 +303,7 @@ Batman Çayı
 Battalgazi, Battalgazi
 Battleground (2014)
 Batı Avrupa Yaz Saati
+Bau Mir ein Paradies/Anatol
 Bayannur Tianjitai Havalimanı
 Bağlanmak Yok
 Bağtepe, Battalgazi
@@ -265,6 +312,7 @@ Başkanın Bütün Adamları
 BeIN Connect (Türkiye)
 Beatles for Sale (EP)
 Beatrix
+Beaubourg, centre d'art et de culture Georges Pompidou
 Beautiful People Beautiful Problems
 Bekir Demircan
 Belgrade Observatory
@@ -276,7 +324,10 @@ Beste
 Beverley
 Beyazdeniz
 Beylikdüzü Belediye Metrobüs İstasyonu
+Big Hoops (Bigger the Better)
+Birinci Babil Hanedanı
 Bisiklet
+Bitki bazlı diyet
 Biyoenformatik
 Biyoloji terimleri sözlüğü
 Biyomühendislik
@@ -285,6 +336,7 @@ Bizans ikonoklazmı
 Bizans muharebeleri listesi
 Black List (L.A. Guns album)
 Blacktoft
+Bob Boyle (futbolcu)
 Bodrumspor
 Bolivarcılık
 Bondarenko
@@ -292,6 +344,7 @@ Borgomanero
 Borussia Mönchengladbach
 Botaş (anlam ayrımı)
 Botsvana arması
+Bozkır (soyadı)
 Bozobası, Şehitkamil
 Boşnak hat açıklığı
 Braunschweig
@@ -317,8 +370,10 @@ Caesarea (anlam ayrımı)
 Calendar
 Carlos Rivera
 Carlos Saura
+Casalanguida
 Cassivellaunus
 Castel Sant'Angelo, Lazio
+Castelguidone
 Cemal Hüsnü Taray
 Cenevre Gölü
 Ceritler, Mut
@@ -328,20 +383,24 @@ Cezayir
 Chandrayaan-3
 Chaplin
 Charles Randolph
+Charlie Haas
 Charon (web tarayıcısı)
 Chavez (grup)
 Chelsea FC
 Chenopodium pallidicaule
+Chepe González
 Chiaka Ogbogu
 Chromium
 Chávez
 Cihangir - Üniversite Mahallesi Metrobüs İstasyonu
+Cilveli Kız
 Cinayet
 Civar Çetin
 Clark County, Ohio
 Claudia (1943 film)
 Claus Thomsen
 Colli sul Velino
+Colorado Nehri (Arjantin)
 Comunicaciones FC
 Contents of the Voyager Golden Record
 Cool & Dre
@@ -351,7 +410,9 @@ Crawford County, Ohio
 Crimean Astrophysical Observatory
 Cristian Tarragona
 Cuzco Deklarasyonu
+Cyril Jackson (astronomer)
 Cúcuta
+Cüzzamlı Simun
 D 100
 D'Urville Denizi
 D-Von Dudley
@@ -380,13 +441,19 @@ Defektif virüs
 Deferribacterota
 Dehva Rabba
 Demet Akbağ ile Güldürme Beni
+Demirağa
 Demiryolu hat açıklığı
+Departamento Guaraní
+Departamento Libertador General San Martín, Misiones
 Dereçe
 Dermatoloji
+Desperate Trails (1921 film)
 Devlet Hava Meydanları İşletmesi
 Değişen yıldız belirtmesi
 Dibekli, Doğu Azerbaycan
 Diego Forlán
+Digimon Tamers karakterleri listesi
+Digimon World Re:Digitize
 Dioscorides Pedanius
 Divarlı, Çiftlik
 Dişli balinalar
@@ -401,19 +468,25 @@ Doğan Türkmen
 Drone Racing League
 Drusus Julius Caesar
 Duralar, Oltu
+Dyskobolia Stadyum
 Dündarlı, Şehitkamil
 Dünya savaşı
 Dünya'nın yapısı
+EY Orionis
 Early Music Consort
 Echinops (anlam ayrımı)
 Edmond O'Brien
+Edmund Seger
 Eduardo de Pedro
 Edward Salas
 Efraín Velarde
 Egzonim ve endonim
 Ein feste Burg ist unser Gott, BWV 80
+Eisenbacteria
 Ejin Banner Taolai Havalimanı
+Ejin Sancağı Taolai Havalimanı
 Eklem bacaklılar
+El robo del siglo
 Elazığ (il)
 Elbis
 Electorate of Saxony
@@ -427,6 +500,7 @@ Energy and Environmental Science
 Enfeksiyon hastalıkları
 Engiz Çayı
 Ennio Morricone
+Enoch Powell
 Enstrümantal rock
 Entertainment One Music
 Eozin
@@ -443,16 +517,19 @@ Esençay, Mut
 Esfengere
 Ethan Hawke
 Etki Faktörü
+Eurocopter AS365 Dauphin
 Everything Has Changed
 Evrensel (gazete)
 Eyalet
 FC Utrecht
 FIFA Dünya Kupası ev sahipleri
 FIFA Dünya Sıralaması
+FZ Orionis
 Fabio Albarelli
 Fabrizio Guidi
 Faemino–Faema
 Faik Baysal
+Falcon Fest
 Falkland Adaları
 Fall from Grace (House)
 Family Practice (House)
@@ -464,8 +541,10 @@ Felice Gimondi
 Ferdinando, Parma Dükü
 Fevzi Pakel
 Figueirense FC
+Fikret Küpeli
 Fikret Kızılok
 Fildişi Sahili arması
+Filipinler'deki şehirler listesi
 Filotex
 Filovirus
 Finn Bálor
@@ -473,6 +552,7 @@ Fino del Monte
 Firestonebacteria
 First Niagara Center
 Fizyoloji
+Flamsteed belirtmesi
 Folklore
 Fons Panis
 Força
@@ -480,6 +560,7 @@ Foshay Tower
 Fossilworks
 France Football
 Francesca Dallapé
+Franke Previte
 Frankfurt
 Fransız Komünist Partisi
 Fred Karno
@@ -488,6 +569,7 @@ Frente de Todos (2019 koalisyonu)
 Frida Åkerström
 Friedrich Loeffler
 Fırat nehri
+Fırsatçı enfeksiyon
 Fırıncı küreği
 GM-CSF
 Gaborone
@@ -506,6 +588,7 @@ Georges Delerue
 Georges-Louis Leclerc, Comte de Buffon
 Georgios Akropolitis
 Germline
+Geç Triyas
 Ghostzilla
 Gianluca Rocchi
 Gilbert Adaları
@@ -522,8 +605,10 @@ Gott, wie dein Name, so ist auch dein Ruhm, BWV 171
 Gottes Zeit ist die allerbeste Zeit, BWV 106
 Gottfried Heinrich Graf zu Pappenheim
 Gracilibacteria
+Gram (anlam ayrımı)
 Gram negatif bakteri
 Greater Manchester
+Green Glens Arena
 Gregory House
 Grimoire
 Grzegorz Kuświk
@@ -536,6 +621,7 @@ Göksu (Diyarbakır)
 Gökçeağaç, Terme
 Gökçetaş, Mut
 Göltepe, Bafra
+Göçbeyli Kaplanköy, Bergama
 Güler Ökten
 Güneş
 Gürültü Ailesi
@@ -555,6 +641,7 @@ Halk sağlığı dergisi
 Halothiobacillus
 Haluk Kura
 Hamza Hamzaoğlu
+Hangu
 Hannah Takes the Stairs
 Hannibal
 Hassas türler
@@ -564,6 +651,8 @@ Haverhill, Suffolk
 Heartland Wrestling Association
 Hebe Uhart
 Here Kitty
+Herr Christ, der einge Gottessohn, BWV 96
+Heze Havalimanı
 Hickinbottom Ödülü
 Hidayet, Battalgazi
 Hierapolisli Papias
@@ -582,7 +671,9 @@ Hornsea
 Horozköy, Yunusemre
 Howards End (film)
 Humidistat
+Hungaria asteroids
 Huş kabuğu yazması
+Hydrogenedentes
 Hymenoptera
 Hücre
 Hücre zarı
@@ -590,6 +681,7 @@ I. Ferdinando
 I. Friedrich (Prusya Kralı)
 I. Leopold (Kutsal Roma İmparatoru)
 II. Aleksios
+II. Farnekes
 II. Ferdinando (Sicilya)
 II. Gustaf Adolf
 III. Friedrich Wilhelm
@@ -598,19 +690,24 @@ Ich liebe den Höchsten von ganzem Gemüte, BWV 174
 Ich ruf zu dir, Herr Jesu Christ, BWV 177
 Ihr werdet weinen und heulen, BWV 103
 Ilgın
+Infectious disease (medical specialty)
 Ingelfinger kuralı
+Insane Championship Wrestling
 Interim Register of Marine and Nonmarine Genera
 Internet Movie Database
 Ip Man (anlam ayrımı)
 Irak Polisi
 Irak coğrafyası
 Irak yargı sistemi
+Irak'taki resmî tatiller
 Irish Recorded Music Association
 Isabel Sarli
 Isaias Afewerki
 Ischigualasto Millî Parkı
 Ispolin (mitoloji)
 Ivan Kosančić
+J-pop
+Jaap Kruys
 Jablonec nad Nisou
 Jacqueline Hill
 Jamaika
@@ -623,19 +720,23 @@ Jean Jacques Régis de Cambacérès
 Jeremy Bates (boxer)
 Jesper Kristensen
 Jinchang Jinchuan Havalimanı
+Jizzy Pearl
 Joe Murray
 Johan Cruyff
 John B. Goodenough Ödülü
+Johnny Mercer
 Jonas Eriksson
 Jonathan Martin (journalist)
 Josquin des Prez
 Juan Cabandié
 Juan Perón
+Juan Rodrigo Rojas
 Judy Garland
 Julie Christie
 Julio Cesar
 Julio Cesar (anlam ayrımı)
 Julio César González
+Julio César Manzur
 Julius Sezar Skaliger
 Juventus FC
 Jön Türkler
@@ -647,7 +748,9 @@ Jül Sezar'ın askerî kariyeri
 Jül Sezar'ın kültürel tasviri
 Kabaceviz
 Kadıköy, Mut
+Kahve atıksu
 Kalp krizi
+Kaname Kawabata
 Kansas City City Hall
 Karacaköy, Terme
 Karacalı, Terme
@@ -657,15 +760,18 @@ Karaova, Hacıbektaş
 Karatay
 Karboğazı Baskını
 Karina (takımyıldız)
+Karı Çor Tigin
 Katalaz
 Katepano
 Katie Jacobs
 Kavak Spor Salonu
 Kavuzlu buğday
+Kazehakase
 Kazım Sevüktekin
 Kazımkarabekirpaşa, Terme
 Keith Lee
 Kelkit Çayı
+Kelly Nickels
 Kemal Akbaba
 Kemal Okyay
 Kemer, Doğanhisar
@@ -682,12 +788,15 @@ Kolombiya Temsilciler Meclisi
 Kolombiya coğrafyası
 Kolombiya çatışmaları (1964–günümüz)
 Komninos Hanedanı
+Kona Reeves
+Kondroplasti
 Konga
 Kontur çizgisi
 Kordalılar
 Korla Havalimanı
 Korporatizm
 Kosova
+Kosta Rika'daki şehirler listesi
 Koyuncu, Göynücek
 Kozağzı, Bafra
 Krali Bimbalov
@@ -701,6 +810,7 @@ Kuzey Amerika
 Kuzey-Doğu Rusya'nın Slav kolonizasyonu
 Kuzeybatı Çin
 Kuzeydoğu Çin
+Kuşak güreşleri
 Kuşak transekti
 Kwasi Songui
 Köprü
@@ -708,6 +818,7 @@ Körfez Savaşı
 Köşektaş, Hacıbektaş
 Köşkerli, Pınarbaşı
 Küba erkek millî voleybol takımı
+Küba espressosu
 Küf mantarı
 Kürt dilleri
 Kütahya-Eskişehir Muharebeleri
@@ -715,6 +826,8 @@ Küçük Ağa (dizi, 2014)
 Küçük Gezegen Merkezi
 Küçük Hüseyinbey, Battalgazi
 Küçük gezegenler listesi
+Küçük gezegenler listesi: 5001–6000
+Kırgızistan'daki şehirler listesi
 Kırmızı Değirmen
 Kırım Tatarları
 Kızamıkçık
@@ -728,6 +841,7 @@ Lamivudine
 Lana Del Rey
 Larry Russell
 Laser (yelkenli)
+Laurens De Bock
 Laurie Spiegel
 Lauro Salas
 Lech Nehri
@@ -736,6 +850,7 @@ Leptis
 Lesley Yellowlees
 Letonya
 Lew Grade
+Lewie Coyle
 Lexcycle Stanza
 Liberalizm
 Licking County, Ohio
@@ -760,12 +875,14 @@ Luna 12
 Luna 13
 Luna 20
 Lunar Orbiter 5
+Luzhou Yunlong Havalimanı
 Lütfiye, İnegöl
 M. Kazım Bölükbaşı
 MSN TV
 Mabel Rivera
 Madeira
 Madeira Nehri
+Madihá halkı
 Madrid
 Mae Young Classic (2017)
 Maja Blagdan
@@ -783,12 +900,15 @@ Marena Bencomo
 Mareşal Fevzi Çakmak, Yunusemre
 Margulisbacteria
 Maria Lenk Su Sporları Merkezi
+Marino Amadori
 Marked Men (1919 film)
 Marnette Patterson
 Marrano
+Mashantucket, Connecticut
 Mastit
 Matt Shakman
 Mavka
+McMath-Pierce Solar Telescope
 Meaning (House)
 MegaCharts
 Mehmet Ali İrtemçelik
@@ -812,18 +932,27 @@ Michael Spinks
 Microsoft Yönetim Konsolu
 Miejski Stadyumu
 Miguel Brizuela
+Miguel Juárez Celman
+Mikkel Beck
 Mikser (karıştırıcı)
 Milan Antal
 Minyatür demiryolu taşımacılığı
+Mirko Gualdi
 Mississippi Alüvyon Ovası
+Mizrahi müziği
+Miért kell, hogy elmenj?
 Mobile internet tarayıcısı
 Monodnaviria
 Monsieur Vincent
+Monteferrante
+Montelapiano
 Montgomery County, Ohio
 Montoito
 Montopoli di Sabina
+Moritanya'daki şehirler listesi
 Morning After Dark
 Morris Stoloff
+Moskvoretsko-Okskaya ovası
 Moustafa Tajiki
 Mr. Perfectly Fine
 MuchMusic
@@ -855,12 +984,14 @@ NGC 3349
 Nanyang Jiangying Havalimanı
 Necil Kazım Akses
 Neoneli
+Nero Caesar
 Neuquén
 Nick Eversman
 Nijerya arması
 Nitrik oksit
 Noel Valladares
 Nucleoside analogues
+Néant Alioum
 O holder Tag, erwünschte Zeit, BWV 210
 Ohio'da eğitim
 Olga Orozco
@@ -869,6 +1000,7 @@ Olivia Harrison
 Olomouc
 Olympiad
 Omar Epps
+On a Clear Day You Can See Forever
 Once Caldas
 Oncolytic virus
 One X One
@@ -893,12 +1025,16 @@ Palomar–Leiden survey
 Panagia Halkeon Kilisesi
 Panorama Samsun Dijital Gösterim Merkezi
 Papirüs 16
+Papirüs Bodmer VII/VIII
 Paraguay millî futbol takımı
 Paralimpik Oyunları
+Parenti serpenti
 Parma Calcio 1913
 Paste (dergi)
 Paul Scholes
 Pavel Tonkov
+Pavón Savaşı
+Paweł Baranowski
 Pearl Street Films
 Pelageya Shajn
 Peranakanlar
@@ -907,6 +1043,7 @@ Peronizm
 Peter Jackson
 Petr Tucek
 Peygamber
+Phocine distemper virus
 Pier Luigi Farnese, Parma Dükü
 PillPack
 Pittsburgh
@@ -919,10 +1056,12 @@ Pompey Tiyatrosu
 Pontifex Maximus
 Popülasyon (biyoloji)
 Pordoselene
+Porsche 360
 Porto Santo
 Porto Santo Adası
 Potansiyometre
 Pothinus
+Poul Richard Høj Jensen
 Poznań Şehir Stadyumu
 Primadonna (Alla Pugaçeva şarkısı)
 Primera División (Arjantin)
@@ -935,7 +1074,9 @@ Publius Servilius Vatia Isauricus (Konsül MÖ 48)
 Pueblo
 Quaestura exercitus
 Quechua
+RSC Advances
 Radio Free Europe/Radio Liberty
+Rafael Lemes dos Santos
 Rafał Grzyb
 Ralph Morgan
 Ranger 7
@@ -944,6 +1085,7 @@ Ranunculaceae
 Raúl Alfonsín
 Reactive oxygen species
 Redüksiyonizm
+Retiküler bağ dokusu
 Riboviria
 Richard Farnsworth
 Ricochet (güreşçi)
@@ -955,9 +1097,11 @@ Robert J. Stevens
 Robert Koçaryan
 Robert William Boyle
 Roberto Arlt
+Robespierre
 Robin Zentner
 Rogyapas
 Ron Campbell
+Rookie Blue
 Rookie of the Year (Screen Directors Playhouse)
 Roskosmos
 Routh, East Riding of Yorkshire
@@ -968,9 +1112,16 @@ Rum Ortodoks
 Rum Ortodoks Kilisesi
 Rum Ortodoks Patrikhanesi
 Rusya kadın millî voleybol takımı
+Rüzgâr desteği
 SAMULAŞ
 Sabri Turgut
+Saint Vincent ve Grenadinler'deki şehirler listesi
 Saint-Denis
+Saint-Denis-Maisoncelles
+Saint-Denis-de-Jouhet
+Saint-Denis-de-Pile
+Saint-Denis-du-Béhélan
+Saint-Denis-du-Maine
 Saint-Denis-en-Margeride
 Sakarya Nehri
 Salas
@@ -978,8 +1129,10 @@ Salas Altas
 Salisano
 Salındı Tigin
 Samoa
+Samodiva (mitoloji)
 Samsun Devlet Opera ve Balesi
 Samsun İstiklâl Mahkemesi
+Samuel Caballero
 San Diego (anlam ayrımı)
 San Francisco (Tor Endresen şarkısı)
 San Martín de los Andes
@@ -987,6 +1140,7 @@ San Miguel de Tucumán
 San Nicolò d'Arcidano
 San Sebastián
 San Vitale Kilisesi
+Santa María (Catamarca)
 Sapkınlık
 Sapporo
 Sarıkız (halk oyunu)
@@ -996,13 +1150,16 @@ Saul Zaentz
 Savaş topu
 Sağlık teknolojisi
 Sağlık, Çine
+Saša Matić
 Seasar
 Sebepsiz zenginleşme
 Seden Kızıltunç
 Selci
 Selman Abraham Waksman
+Seni Seviyorum (Zerrin Özer albümü)
 Serdar Akinan
 Serdar Ferhat Paşa
+Serdar Kılıç
 Serdar Turgut
 Serdar Şanal
 Serdar, Türkmenistan
@@ -1010,15 +1167,22 @@ Serdarlı
 Sergio Mattarella
 Sergio Ramos
 Sestriere
+Seviyorum
 Sezar
 Sezaropapizm
+Shache Havalimanı
 Shenyang Taoxian Uluslararası Havalimanı
 Shropshire
+Sickle Cell Anemia, a Molecular Disease
 Siehe, ich will viel Fischer aussenden, BWV 88
 Simenit Gölü
 Simge (şarkıcı)
+Simian köpüklü virüs
 Siyasi parti
+Skalnaté pleso Observatory
+Sleaze rock
 Slow rotator (asteroid)
+Slátur
 Smith Tower
 Smoky Mountain Wrestling
 Soccer City
@@ -1040,6 +1204,7 @@ Stevo Pendarovski
 Strabo
 Stéphane Lannoy
 Stüdyo
+Suat Aktulga
 Submarine
 Sumeria
 Summertime Sadness
@@ -1058,15 +1223,19 @@ SüngerBob KareŞort
 Sürgün (botanik)
 TCDD Taşımacılık
 TSV Rain/Lech
+TV3 Slovenia
 Talasgücü Belediyespor
+Taraf
 Taxman
 Taşkın İlter
 Taşlıgeçit, Pınarbaşı
 Team Bahrain Victorious
+Tek maçlı eleme sistemi
 Terzi
 The A.V. Club
 The After Hours Tour
 The Beatles (No. 1)
+The Concert for Bangladesh (album)
 The Confession (House)
 The Economic Times
 The Edge of Destruction
@@ -1078,9 +1247,11 @@ The Listener (TV dizisi)
 The New Day (profesyonel güreş)
 The Prince of Avenue A
 The Story of Us (şarkı)
+The Suburbs
 The Undertaker vs. Mankind
 The Weeknd Asia Tour
 The Weeknd diskografisi
+The Wrestling Classic
 The Yellow Submarine (çizgi roman)
 Thermodesulfobacteria
 Thermodesulfobiota
@@ -1094,6 +1265,7 @@ Tokdemir, Şehitkamil
 Tolima
 Tom Phillips (güreş spikeri)
 Tom Szkutak
+Top 40 Mainstream
 Topuz (dizi)
 Torben Piechnik
 Tornerò
@@ -1110,6 +1282,7 @@ Tribün
 Triiyodotironin
 Try (şarkı)
 Tuana Tuzman
+Tupi–Arara
 Turizm
 Tórshavn
 Türk Ulusal Hareketi
@@ -1130,12 +1303,15 @@ University of Texas Press
 Unser Mund sei voll Lachens, BWV 110
 Unutmuşum (Aygün Kazımova şarkısı)
 Urfa Muharebesi
+Urs Linsi
 Uruguay millî futbol takımı
 Utrecht (il)
 Uçak gemisi
 V1046 Orionis
+V1192 Orionis
 V1369 Orionis
 V371 Orionis
+V883 Orionis
 Vahiy
 Vakıf üniversitesi
 Van otlu peyniri
@@ -1160,6 +1336,7 @@ Vila Baleira
 Villars-sur-Ollon
 Vincenzo Nibali
 Vinnie Colaiuta
+Vinícius Santos Silva
 Viral protein
 Virginia Woolf
 Viroid
@@ -1174,8 +1351,12 @@ WWE mezunları listesi (D–H)
 WWE programları listesi
 WWE'de takım kemerleri
 Walter Gilbert
+Walter Scharf
+Warta Poznań
+Was Gott tut, das ist wohlgetan, BWV 99
 Washington (eyalet)
 We're Not Married!
+Wer mich liebet, der wird mein Wort halten, BWV 59
 Wer nur den lieben Gott läßt walten, BWV 93
 Wesley Sneijder
 West Coast (şarkı)
@@ -1188,13 +1369,16 @@ Wo gehest du hin? BWV 166
 Xi Orionis
 Xining Caojiabao Uluslararası Havalimanı
 Xuzhou Guanyin Uluslararası Havalimanı
+Yaba maymun tümör virüsü
 Yahudi
 Yahudiler
+Yakabağ
 Yakup Kadri Birinci
 Yakup'un Mektubu
 Yalçınkaya, Buldan
 Yanardağı
 Yantai Penglai Uluslararası Havalimanı
+Yarı ağır sıklet
 Yassıkışla, Göynücek
 Yağmurlukale, Kırşehir
 Yaşar Yılmaz (güreşçi)
@@ -1206,6 +1390,7 @@ Yellow Submarine
 Yellow Submarine (şarkı)
 Yengeç
 Yeni Genel Katalog
+Yeni Zelanda'daki şehirler listesi
 Yenimahalle, Ömerli
 Yeniocak, Pınarbaşı
 Yeniçeri
@@ -1216,6 +1401,7 @@ Yonca
 Yugoslavya millî futbol takımı
 Yukarı Dir (ilçe)
 Yukarıborandere, Pınarbaşı
+Yunan Krallığı
 Yunusgiller
 Yves St-Denis
 Yörgüç, Bafra
@@ -1227,7 +1413,9 @@ Zapopan
 Zdzisław Krzyszkowiak Stadyumu
 Zeynep Şirin Giobbi
 Zhengzhou Xinzheng Uluslararası Havalimanı
+Zond 7
 Zond programı
+Çakışık plan
 Çaltılı, Mut
 Çarşamba Kapalı Spor Salonu
 Çavdar
@@ -1240,9 +1428,11 @@ Zond programı
 Çılgın bilim adamı
 Örümcek
 Öğümsöğüt, Şehitkamil
+Üsküdar'da Sabah Oldu
 Üçüncü görüş
 İhtiyar Adam ve Deniz (film)
 İki hibritli tarama
+İkitelli, İstanbul
 İlkadım Belediyesi Yabancılar Pazarıspor
 İmmünoloji
 İn vitro
@@ -1253,6 +1443,7 @@ Zond programı
 İslam Bey
 İsmail Hakkı Demircioğlu
 İspace
+İspanya Millî Futbol Takımı maçları (1950-1959)
 İsrail Ulusal Kütüphanesi
 İstatistiksel olarak olasılıksız ifade
 İsveç'in Otuz Yıl Savaşı'na müdahalesi
@@ -1263,14 +1454,8 @@ Zond programı
 İzzetiye, Battalgazi
 Şangay Dünya Finans Merkezi
 Şarkı sözü yazarı
+Şarkım Sevgi Üstüne
+Şerif Yaçağaz
 Şeyhoğlu, Göynücek
 Şinasi Orel
 Žilina
-
-Geç Triyas
-
-Yakabağ
-
-Kondroplasti
-
-Kuşak güreşleri

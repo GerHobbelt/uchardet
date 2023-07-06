@@ -1,5 +1,5 @@
 revision: 29732027
-title: "Kolombiya \u015Fehirler listesi"
+title: "Mikronezya'daki \u015Fehirler listesi"
 url: https://tr.wikipedia.org/wiki/%C3%9Clkelere_g%C3%B6re_%C5%9Fehirler_listesi
 
 

@@ -1,5 +1,5 @@
 revision: 1053369
-title: "An Bhealar\xFAis"
+title: "\u01D3ladzimier \u017Dy\u0142ka"
 url: https://ga.wikipedia.org/wiki/An_Bhealar%C3%BAis
 
 

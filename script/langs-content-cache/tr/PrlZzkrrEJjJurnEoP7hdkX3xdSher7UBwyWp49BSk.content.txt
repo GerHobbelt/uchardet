@@ -1,5 +1,5 @@
 revision: 29824714
-title: "Arap\xE7a"
+title: "Magrib\xEE Arap\xE7a"
 url: https://tr.wikipedia.org/wiki/Arap%C3%A7a
 
 

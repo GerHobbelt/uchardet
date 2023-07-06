@@ -1,5 +1,5 @@
 revision: 1129442
-title: An Chumhacht Fheidhmitheach
+title: "R\xE9abhl\xF3id na Feabhra"
 url: https://ga.wikipedia.org/wiki/R%C3%A9abhl%C3%B3id_Fheabhra,_1917
 
 

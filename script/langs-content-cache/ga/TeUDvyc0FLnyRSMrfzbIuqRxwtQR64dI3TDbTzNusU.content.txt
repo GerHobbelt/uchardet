@@ -1,5 +1,5 @@
 revision: 1021586
-title: Hastur
+title: Azathoth
 url: https://ga.wikipedia.org/wiki/Panu_Petteri_H%C3%B6glund
 
 

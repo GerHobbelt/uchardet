@@ -1,5 +1,6 @@
 revision: 33359205
-title: "1936\uB144 \uD558\uACC4 \uC62C\uB9BC\uD53D \uC218\uAD6C"
+title: "1936\uB144 \uD558\uACC4 \uC62C\uB9BC\uD53D \uB9AC\uD788\uD150\uC288\uD0C0\uC778\
+  \ \uC120\uC218\uB2E8"
 url: https://ko.wikipedia.org/wiki/1936%EB%85%84_%ED%95%98%EA%B3%84_%EC%98%AC%EB%A6%BC%ED%94%BD
 
 

@@ -1,5 +1,5 @@
 revision: 29903208
-title: "Aykut Ulu\xE7"
+title: "Koray Balo\u011Flu"
 url: https://tr.wikipedia.org/wiki/A_Spor
 
 

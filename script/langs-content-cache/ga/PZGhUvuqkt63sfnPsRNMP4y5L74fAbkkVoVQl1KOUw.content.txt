@@ -1,5 +1,5 @@
 revision: 1169014
-title: "Patella (gastrap\xF3id)"
+title: Patella swakopmundensis
 url: https://ga.wikipedia.org/wiki/Patella_(gastrap%C3%B3id)
 
 

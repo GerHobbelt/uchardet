@@ -1,5 +1,5 @@
 revision: 216240
-title: Fenomenu Gibbs
+title: Fenomenu ta' Gibbs
 url: https://mt.wikipedia.org/wiki/Serje_ta%27_Fourier
 
 

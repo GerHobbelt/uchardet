@@ -1,5 +1,5 @@
 revision: 1101576
-title: "Snow White and the Seven Dwarfs (scann\xE1n 1937)"
+title: Stuart Buchanan
 url: https://ga.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(scann%C3%A1n_1937)
 
 

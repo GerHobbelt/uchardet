@@ -1,5 +1,5 @@
 revision: 284023
-title: Franz Beckenbauer
+title: Lista ta' plejers ta' Bayern Munich
 url: https://mt.wikipedia.org/wiki/FC_Bayern_Munich
 
 

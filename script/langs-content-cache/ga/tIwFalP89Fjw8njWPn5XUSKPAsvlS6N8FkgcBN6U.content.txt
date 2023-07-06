@@ -1,5 +1,5 @@
 revision: 1020375
-title: Lisbon, Connecticut
+title: Durham, Connecticut
 url: https://ga.wikipedia.org/wiki/Stephen_King
 
 

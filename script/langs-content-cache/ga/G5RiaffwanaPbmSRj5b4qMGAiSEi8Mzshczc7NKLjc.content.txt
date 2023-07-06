@@ -1,5 +1,5 @@
 revision: 1167099
-title: "Riabh\xF3g dhroimghlas"
+title: Ceolaire fo-Alpach
 url: https://ga.wikipedia.org/wiki/Liosta_d%E2%80%99%C3%A9anlaith_na_h%C3%89ireann
 
 

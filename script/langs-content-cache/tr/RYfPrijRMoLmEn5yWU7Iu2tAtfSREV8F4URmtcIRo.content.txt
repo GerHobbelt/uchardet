@@ -1,5 +1,5 @@
 revision: 29773602
-title: Adobe Digital Editions
+title: Adobe Edge
 url: https://tr.wikipedia.org/wiki/Adobe
 
 

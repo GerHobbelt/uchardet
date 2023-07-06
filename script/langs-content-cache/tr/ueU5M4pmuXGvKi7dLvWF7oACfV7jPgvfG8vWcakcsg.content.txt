@@ -1,6 +1,5 @@
 revision: 27372717
-title: "2022 K\u0131\u015F Olimpiyatlar\u0131'nda k\u0131sa kulvar s\xFCrat pateni\
-  \ - Karma 2000 metre bayrak yar\u0131\u015F\u0131"
+title: Olga Tihonova
 url: https://tr.wikipedia.org/wiki/2022_K%C4%B1%C5%9F_Olimpiyatlar%C4%B1%27nda_k%C4%B1sa_kulvar_s%C3%BCrat_pateni_-_Karma_2000_metre_bayrak_yar%C4%B1%C5%9F%C4%B1
 
 

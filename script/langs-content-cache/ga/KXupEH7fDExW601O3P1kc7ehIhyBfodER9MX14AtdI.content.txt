@@ -1,5 +1,5 @@
 revision: 1127762
-title: Olympiahalle
+title: Vector Arena
 url: https://ga.wikipedia.org/wiki/The_Glory_Days_Tour
 
 

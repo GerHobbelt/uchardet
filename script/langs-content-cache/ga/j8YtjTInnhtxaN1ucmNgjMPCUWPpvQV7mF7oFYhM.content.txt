@@ -1,5 +1,5 @@
 revision: 1043971
-title: Lincoln Memorial University
+title: "Gobharn\xF3ir\xED Nua-Eabhrac"
 url: https://ga.wikipedia.org/wiki/Theodore_Roosevelt
 
 

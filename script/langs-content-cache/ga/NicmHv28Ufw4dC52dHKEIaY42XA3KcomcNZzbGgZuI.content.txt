@@ -1,5 +1,5 @@
 revision: 980192
-title: "Geilleagar Oile\xE1n Rhode"
+title: Colorado Theas
 url: https://ga.wikipedia.org/wiki/Colorado
 
 

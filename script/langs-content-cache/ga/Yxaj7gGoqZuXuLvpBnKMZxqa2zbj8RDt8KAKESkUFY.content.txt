@@ -1,5 +1,5 @@
 revision: 1167910
-title: "P\xE1pa Alastar III"
+title: "R\xEDocht \xC9ireann"
 url: https://ga.wikipedia.org/wiki/R%C3%ADoghacht_%C3%89ireann
 
 

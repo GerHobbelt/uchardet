@@ -1,4 +1,6 @@
 
+-1 (število)
+.357 (razločitev)
 .44 Special
 .44-40 Winchester
 1 E3 m²
@@ -82,6 +84,7 @@
 151.
 152.
 153.
+1533
 154.
 155.
 156.
@@ -257,6 +260,7 @@ Biatlon na Zimskih olimpijskih igrah 2010 – ženska štafeta
 Biatlon na Zimskih olimpijskih igrah 2018 - individualno (moški)
 Biology
 Bogdana Kurbus
+Bojan Štumberger
 Borislav Božović
 Branko Gavella
 Bratz (risana serija)
@@ -300,6 +304,7 @@ Filip Kljajić
 Filip Kljajić (nogometaš)
 Filip Kljajić (partizan)
 Folklore
+Formula 3000 sezona 2001
 Formula Atlantic sezona 1983
 Formula Atlantic sezona 2002
 Formula Tasman sezona 1964
@@ -337,6 +342,7 @@ Heroes of Might and Magic
 Hipokrena
 Hrup ozadja
 Iberija
+Invariantnost
 Ivan Bartl (razločitev)
 Ivan Mankoč
 Ivana Kamnikar
@@ -372,6 +378,7 @@ Kvadratni kilometer
 LOMO
 Lancelot Daryl Hickes
 Le Poët-Laval
+Lektor
 Lens (navadna leča)
 Lens (razločitev)
 Lerinsko-kosturska brigada (NOVJ)
@@ -408,11 +415,14 @@ Nikolaj Aleksejevič Tučkov
 Noh Hyun-Suk
 Noël Louis St Pierre Bunbury
 Oberfähnrich
+Objekt
 Odprto prvenstvo Anglije 1983
+Odprto prvenstvo ZDA 1986
 Ogenj in led (Robert Frost)
 Olympiad
 Omertà
 Osman Nuri Hadžić
+Osnovna plača
 Owen Murton Wales
 PAS
 PLANT
@@ -473,6 +483,7 @@ Seznam italijanskih inženirjev
 Seznam italijanskih poslovnežev
 Seznam kanadskih prejemnikov Viktorijinega križca
 Seznam ladij svobode
+Seznam makedonskih pesnikov
 Seznam mest v Franciji
 Seznam mest v Čadu
 Seznam moštev Svetovnega prvenstva v nogometu 1934
@@ -501,6 +512,7 @@ Seznam vojaških kratic
 Seznam vojaških plovil Vojne mornarice Združenih držav Amerike
 Seznam vojaških vsebin
 Seznam vseh dvočrkovnih kombinacij
+Seznam španskih pevcev
 Showdown
 Soli, Kilikija
 Srednjeevropski poletni čas
@@ -524,6 +536,7 @@ Tupoljev Tu-75
 USNS Mary Sears (T-AGS-65)
 USS Louisville (SSN-724)
 UTC−11:00
+Varnostna kultura
 Vasilij Kostromski
 Vaux-les-Mouzon
 Velika nagrada Kanade 1997
@@ -534,11 +547,14 @@ Vrednikov jetičnik
 Waldemar von Gazen
 Walter Melzer
 William Phillips (častnik Britanske kopenske vojske)
+William Robert Norris Hinde
 William Wellington Godfrey
 Wolfgang Schenck
 Włodzimierz Wachowicz
 Y–Ž
+Zadnja večerja (Tintoretto)
 Zgodovina znanosti in tehnike v Španiji
+Zsolt Baumgartner
 Zvezdana Sterle
 cerkev Matere Božje, Žeželj
 diode
@@ -565,15 +581,3 @@ u
 Župnija Trbovlje - Sveta Marija
 Župnija Vranja Peč
 Župnija Šempeter v Savinjski dolini
-
-Varnostna kultura
-
-Odprto prvenstvo ZDA 1986
-
-1533
-
-Zsolt Baumgartner
-
--1 (število)
-
-.357 (razločitev)

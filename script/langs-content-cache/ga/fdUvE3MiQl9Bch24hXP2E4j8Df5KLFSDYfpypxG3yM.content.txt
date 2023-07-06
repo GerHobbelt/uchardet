@@ -1,5 +1,5 @@
 revision: 1060701
-title: Duais Nobel
+title: Storting
 url: https://ga.wikipedia.org/wiki/Duais_Nobel
 
 

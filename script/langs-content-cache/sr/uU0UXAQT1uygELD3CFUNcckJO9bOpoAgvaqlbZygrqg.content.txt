@@ -1,5 +1,5 @@
 revision: 24522432
-title: Predator
+title: Apeks predator
 url: https://sr.wikipedia.org/wiki/Predacija
 
 

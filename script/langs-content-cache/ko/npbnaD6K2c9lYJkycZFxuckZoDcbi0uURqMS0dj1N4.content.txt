@@ -1,5 +1,5 @@
 revision: 34887885
-title: "\uB300\uD55C\uCD95\uAD6C\uD611\uD68C"
+title: "\uACBD\uAE30\uB3C4\uCD95\uAD6C\uD611\uD68C"
 url: https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EC%B6%95%EA%B5%AC%ED%98%91%ED%9A%8C
 
 

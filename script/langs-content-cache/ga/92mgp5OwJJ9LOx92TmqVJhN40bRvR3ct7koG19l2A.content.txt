@@ -1,5 +1,5 @@
 revision: 1068086
-title: The Sunday Times
+title: Sunday Times
 url: https://ga.wikipedia.org/wiki/The_Times
 
 

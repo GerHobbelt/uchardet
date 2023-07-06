@@ -1,5 +1,5 @@
 revision: 1155022
-title: Tsung-Dao Lee
+title: Lee University
 url: https://ga.wikipedia.org/wiki/Tsung-Dao_Lee
 
 

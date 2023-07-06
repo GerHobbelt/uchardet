@@ -1,5 +1,5 @@
 revision: 69593297
-title: V1668 Cygni
+title: 4 Cygni
 url: https://vi.wikipedia.org/wiki/NML_Cygni
 
 

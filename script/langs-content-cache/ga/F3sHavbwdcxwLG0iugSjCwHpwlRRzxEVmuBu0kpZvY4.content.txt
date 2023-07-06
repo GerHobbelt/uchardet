@@ -1,5 +1,5 @@
 revision: 1024007
-title: "Joe O\u2019Reilly"
+title: Joe O'Reilly
 url: https://ga.wikipedia.org/wiki/Joe_O%27Reilly
 
 

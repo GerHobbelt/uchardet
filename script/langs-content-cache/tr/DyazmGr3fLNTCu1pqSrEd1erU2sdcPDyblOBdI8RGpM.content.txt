@@ -1,5 +1,5 @@
 revision: 29335101
-title: "MG Maglificio (bisiklet tak\u0131m\u0131)"
+title: Alvaro Crespi
 url: https://tr.wikipedia.org/wiki/Mapei_(bisiklet_tak%C4%B1m%C4%B1)
 
 

@@ -1,5 +1,5 @@
 revision: 1105753
-title: "Polait\xEDocht Alabama"
+title: Geilleagar Alabama
 url: https://ga.wikipedia.org/wiki/Alabama
 
 

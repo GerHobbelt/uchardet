@@ -1,5 +1,5 @@
 revision: 1063207
-title: "R\xED na h\xC9ireann"
+title: "Ard-R\xEDthe na h\xC9ireann"
 url: https://ga.wikipedia.org/wiki/Ardr%C3%AD_na_h%C3%89ireann
 
 

@@ -1,5 +1,5 @@
 revision: 281615
-title: Tervo
+title: "Al\u016Bksne"
 url: https://mt.wikipedia.org/wiki/Kuopio
 
 

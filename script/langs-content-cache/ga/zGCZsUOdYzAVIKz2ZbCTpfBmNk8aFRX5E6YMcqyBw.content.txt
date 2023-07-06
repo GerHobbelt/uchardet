@@ -1,5 +1,5 @@
 revision: 1110123
-title: "\xCDomh\xE1nna Montana"
+title: "\xCDomh\xE1nna Colorado"
 url: https://ga.wikipedia.org/wiki/Nua-Mheicsiceo
 
 

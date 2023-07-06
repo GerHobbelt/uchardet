@@ -1,5 +1,5 @@
 revision: 28788781
-title: "\u015Eankroid"
+title: Azythromicin
 url: https://tr.wikipedia.org/wiki/%C5%9Eankroid
 
 

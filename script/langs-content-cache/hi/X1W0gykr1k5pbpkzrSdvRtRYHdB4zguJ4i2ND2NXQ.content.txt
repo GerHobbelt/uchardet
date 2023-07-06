@@ -1,5 +1,6 @@
 revision: 5671307
-title: 2016 Pathankot attack
+title: "\u0968\u0966\u0967\u096C \u092A\u0920\u093E\u0928\u0915\u094B\u091F \u0939\
+  \u092E\u0932\u0947"
 url: https://hi.wikipedia.org/wiki/%E0%A5%A8%E0%A5%A6%E0%A5%A7%E0%A5%AC_%E0%A4%AA%E0%A4%A0%E0%A4%BE%E0%A4%A8%E0%A4%95%E0%A5%8B%E0%A4%9F_%E0%A4%B9%E0%A4%AE%E0%A4%B2%E0%A5%87
 
 

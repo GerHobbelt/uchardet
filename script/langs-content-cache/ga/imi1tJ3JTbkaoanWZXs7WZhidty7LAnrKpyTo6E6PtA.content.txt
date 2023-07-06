@@ -1,5 +1,5 @@
 revision: 1081492
-title: Goibnenn mac Conaill
+title: Cath Chlaonlocha
 url: https://ga.wikipedia.org/wiki/Goibnenn_mac_Conaill
 
 

@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Philodromus grazianii
-Musca amicula
-Faerie Tale
-Korelîci, Peremîșleanî
-Melanagromyza senecionella
-Comuna Cergău, Alba
-Lista zborurilor spațiale cu echipaj uman 2021-prezent
-Peșteana, Mehedinți
-United States Postal Service
-Cantin
-Budelière
-Radu Mihăileanu
-Jeff Pearce
-Comuna Bogați, Argeș
-Bobby Ball
-Districtul El Attaf
-Oceania (dezambiguizare)
-Cimîhalove, Orjîțea
-Pitbull
-Radu Voinea
-Comitatul Montrose, Colorado
-Cantonul Dinan-Est
-Râul Lacul cu Șerpi
-Joël Dicker
-Haglund (autor)
-Atalaia do Norte
-Vasili Grossman
-Lunca (Bujoreni), Vâlcea
-Korostîșiv
-Seymour, Oos-Kaap
+Oliver Bozanic
+Listă de preoți ruși
+Darren Aronofsky
+Efectul Hall
+Valcani, Timiș
+Comuna Iavorivți, Krasîliv
+Comitatul Davie, Carolina de Nord
+2989 Imago
+Overlord (film din 2018)
+7892 Musamurahigashi
+Adil Rami
+Lhovske (Lhovske), Kirovske
+Pedra Azul
+28787 Peterpinko
+Zona maritimă a Dobrogei de sud
+Călătorie în Anglia și în Scoția
+Biserica romano-catolică din Ojdula
+Almalî (metroul din Almatî)
+Marion Kracht
+Zona Antarctică Neozeelandeză
+Bom Retiro
+Comuna Veselivka, Novomîrhorod
+14535 Kazuyukihanda
+Stenocercus varius
+Sainte-Croix-sur-Orne
+Bilozorîna, Nadvirna
+Giulio Magni
+Romilly-sur-Seine
+Cantonul Castelnau-Montratier
+536
 ''Sistemul politic''
 'Twas the Night
 (Academy of Motion Picture Arts and Sciences (AMPAS))
@@ -187,6 +187,7 @@ Seymour, Oos-Kaap
 11 octombrie
 11 septembrie
 11'09"01 September 11
+11257 Rodionta
 11th Academy Awards
 12 Angry Men (1957 film)
 12 Angry Men (film)
@@ -222,6 +223,7 @@ Seymour, Oos-Kaap
 13 noiembrie
 13 octombrie
 13 septembrie
+13715 Steed
 1391 Carelia
 13th Academy Awards
 14 aprilie
@@ -269,6 +271,7 @@ Seymour, Oos-Kaap
 16 noiembrie
 16 octombrie
 16 septembrie
+16015 Snell
 168 î.Hr.
 16th Academy Awards
 17 Again (film)
@@ -303,6 +306,7 @@ Seymour, Oos-Kaap
 1810 United States Census
 1820 United States Census
 1830 United States Census
+18334 Drozdov
 1840 United States Census
 185 î.Hr.
 1850 United States Census
@@ -1024,6 +1028,8 @@ Seymour, Oos-Kaap
 23 noiembrie
 23 octombrie
 23 septembrie
+23249 Liaoyenting
+23473 Voss
 2361 Gogol
 23769 Russellbabb
 23950 Tsusakamoto
@@ -1041,6 +1047,7 @@ Seymour, Oos-Kaap
 24 octombrie
 24 septembrie
 241 î.Hr.
+24918 Tedkooser
 24th Academy Awards
 24th Berlin International Film Festival
 25 aprilie
@@ -1114,6 +1121,7 @@ Seymour, Oos-Kaap
 29 noiembrie
 29 octombrie
 29 septembrie
+2919 Dali
 29514 Karatsu
 29764 Panneerselvam
 29th Academy Awards
@@ -1259,6 +1267,7 @@ Seymour, Oos-Kaap
 48 Hrs.
 48 î.Hr.
 48th Academy Awards
+49 de zile în Pacific
 49 î.Hr.
 4961 Timherder
 497 î.Hr.)
@@ -1285,6 +1294,7 @@ Seymour, Oos-Kaap
 50 ani: Best of Phoenix 1962–2012
 50 î.Hr.
 50th Academy Awards
+5184 Cavaillé-Coll
 51st Academy Awards
 52 Pick-Up
 52 î.Hr.
@@ -1329,6 +1339,7 @@ Seymour, Oos-Kaap
 6-4-4-6
 6-8-6
 60 î.Hr.
+600 î.Hr.
 60th Academy Awards
 61 î.Hr.
 61st Academy Awards
@@ -1340,6 +1351,7 @@ Seymour, Oos-Kaap
 63rd Academy Awards
 64th Academy Awards
 65 î.Hr.
+6539 Nohavica
 65th Academy Awards
 66th Academy Awards
 67 î.Hr.
@@ -1415,6 +1427,7 @@ Seymour, Oos-Kaap
 84 î.Hr.
 84th Academy Awards
 85 î.Hr.
+85179 Meistereckhart
 8555 Mirimao
 85th Academy Awards
 86 î.Hr.
@@ -1437,11 +1450,13 @@ Seymour, Oos-Kaap
 9 to 5 (film)
 90th Academy Awards
 91st Academy Awards
+9242 Olea
 92nd Academy Awards
 9397 Lombardi
 93rd Academy Awards
 94th Academy Awards
 9573 Matsumotomas
+9859 Van Lierde
 99 and 44/100% Dead
 9th Academy Awards
 9th Moscow International Film Festival
@@ -2090,6 +2105,7 @@ Aces High (film)
 Acetonă
 Achaia (provincie romană)
 Achatinellidae
+Achim von Arnim
 Achmed Abdullah
 Achondrostoma occidentale
 Achondrostoma salmantinum
@@ -2475,6 +2491,7 @@ Aer comprimat
 Aer condiționat
 Aerial Board of Control
 Aerodramus bartschi
+Aerofagie
 Aerologie
 Aeronautică
 Aeronavă
@@ -2611,6 +2628,7 @@ Agenți antimitotici
 Agenția Internațională pentru Energia Atomică
 Agenția Internațională pentru Energie Atomică
 Agenția Națională de Cadastru și Publicitate Imobiliară
+Agenția Națională pentru Egalitatea de Șanse între Femei și Bărbați
 Agenția Națională pentru Locuințe
 Agenția Națională pentru Ocuparea Forței de Muncă
 Agenția Spațială Braziliană
@@ -2643,6 +2661,7 @@ Agnosticism
 Agnus Dei
 Agostino Casaroli
 Agota Kristof
+Agoueinit
 Agra, Lombardia
 Agrarianism
 Agrarianism românesc
@@ -2861,6 +2880,7 @@ Al-Muntada al-Adabi
 Al-Nayrizi
 Al-Qaeda
 Al-Qaida
+Al-Qaṭrāneh
 Al-Quds capitala culturii arabe
 Al-Razi
 Al-Shorta
@@ -3294,6 +3314,7 @@ Alexandru Emanoil Florescu
 Alexandru Ene I
 Alexandru Epureanu
 Alexandru Flechtenmacher
+Alexandru Florescu
 Alexandru G. Golescu
 Alexandru Ghika
 Alexandru Groapă
@@ -3654,6 +3675,7 @@ Allochrocebus preussi preussi
 Allocnemis mitwabae
 Allocnemis montana
 Allocnemis vicki
+Allocosa gabesia
 Allogastropoda
 Allogny
 Allolestes maclachlanii
@@ -3684,6 +3706,7 @@ Almanah
 Almandin
 Almaraz
 Almenara, Minas Gerais
+Almendralejo
 Almere
 Almoharín
 Almost Heroes
@@ -3814,6 +3837,7 @@ Alvin and the Chipmunks Meet the Wolfman
 Alvin and the Chipmunks: Chipwrecked
 Alvin and the Chipmunks: The Road Chip
 Alvin and the Chipmunks: The Squeakquel
+Alvin și veverițele: Marea aventură
 Alvinópolis
 Alvorada de Minas
 Alykes (Ahaia)
@@ -4908,6 +4932,7 @@ Anonconotus italoaustriacus
 Anonconotus ligustinus
 Anonconotus sibyllinus
 Anonymus
+Anopheles culiciformis
 Anorectic
 Anorexie nervoasă
 Anorexigen
@@ -5288,6 +5313,7 @@ Aparat de proiecție cinematografică
 Aparat fotografic reflex
 Aparatul cardiovascular
 Aparatul genital feminin
+Aparatul genital masculin
 Aparhant, Tolna
 Apartamentul
 Apartid
@@ -6950,6 +6976,7 @@ Atacul de la Shayrat din 2017
 Atacuri asupra Americii de Nord în timpul celui de-al Doilea Război Mondial
 Atacurile din 11 septembrie
 Ataeniobius toweri
+Atalaia do Norte
 Atalanta B.C.
 Atalanta BC
 Ataléia
@@ -7002,6 +7029,7 @@ Atfalati
 Athanase Joja
 Athelstan
 Athelstan, Iowa
+Athena Parthenos
 Atheneul Român
 Atherigona
 Atherigona pottsi
@@ -7191,6 +7219,7 @@ Augusta Treverorum
 Augusta Wilhelmine de Hesse-Darmstadt
 Augusta de Bavaria
 Augusta, Iowa
+Auguste Bravais
 Auguste Marie Johanna de Baden-Baden
 Auguste Piccard
 Auguste de Hesse-Homburg
@@ -8482,6 +8511,7 @@ Battle Creek Brawl
 Battle Cry (film)
 Battle for Terra
 Battle of the Amazons
+Battle, East Sussex
 Battlefield Earth (film)
 Battleground (1949 film)
 Battleship North Carolina
@@ -8771,6 +8801,7 @@ Beire-le-Fort
 Beirut
 Beit Sahour
 Beitar Ierusalim
+Beitostølen
 Beiuș
 Bejcgyertyános, Vas
 Bekkouche Lakhdar
@@ -9414,6 +9445,7 @@ Big (film)
 Big Bad Love
 Big Bang
 Big Bounce
+Big Brother And The Holding Company (album)
 Big Brown Eyes
 Big Business (1929 film)
 Big Crunch
@@ -9717,6 +9749,7 @@ Biserica Romano-Catolică din România
 Biserica Romano-Catolică din Turda
 Biserica Română Unită cu Roma, Greco-Catolică
 Biserica Saint Denis
+Biserica Schimbarea la Față din Hunedoara
 Biserica Schitul Maicilor
 Biserica Sf. Nicolae-Jitnita
 Biserica Sf. Nicolae-Sârbi
@@ -10565,6 +10598,7 @@ Blaze of Noon
 Blazing Magnum
 Blazing Saddles
 Blașcovici
+Bledar Sejko
 Bleecker Street (company)
 Bleeding Kansas
 Bleeding Steel
@@ -10705,6 +10739,7 @@ Boba, Vas
 Bobbie Ann Mason
 Bobbie Gentry
 Bobbsey Twins
+Bobby Ball
 Bobby Darin
 Bobby Henrey
 Bobby Madden
@@ -11528,6 +11563,7 @@ Brebbia
 Breckenridge, Minnesota
 Breda Ba.88
 Breda di Piave
+Breese
 Breg pri Kočevju
 Bregano
 Breganze
@@ -11930,6 +11966,7 @@ Brânzoaică
 Brânză
 Brânză Ackawi
 Brânză Naboulsi
+Brânză cu mucegai
 Brânză de Suhaia
 Brânză de burduf
 Brânză topită
@@ -12016,6 +12053,7 @@ Buddy (Hinton novel)
 Buddy Adler
 Buddy Van Horn
 Buddy cop
+Budelière
 Budihni
 Budila, Brașov
 Budism
@@ -12057,6 +12095,7 @@ Buicourt
 Buinovți, Veliko Tărnovo
 Buis-les-Baronnies
 Bujanka, Lîseanka
+Bujor (nume)
 Bujoru, Hunedoara
 Bukavac
 Bukova Gora, Kočevje
@@ -12230,6 +12269,7 @@ Bustince-Iriberry
 Busting
 Busto Arsizio
 Busto Garolfo
+Bustuchin, Gorj
 Bustul generalului Carol Davila
 Busturi din Ploiești
 Busuioacă de Bohotin
@@ -12315,6 +12355,7 @@ Bátaapáti, Tolna
 Bátaszék
 Bátor
 Bátor, Heves
+Bâlta
 Bârgăuani, Neamț
 Bârlad
 Bârlești (Mogoș), Alba
@@ -12739,6 +12780,7 @@ Calabria
 Calacalles droueti
 Calafat
 Calais
+Calamaria lovii
 Calamaria pfefferi
 Calamaria yunnanensis
 Calamariidae
@@ -13294,6 +13336,7 @@ Canthigaster cyanetron
 Canthigaster rapaensis
 Canthigaster sanctaehelenae
 Canthonella gomezi
+Cantin
 Cantină
 Cantoane din departamentul Ardennes
 Cantoane din departamentul Eure-et-Loir
@@ -13341,6 +13384,7 @@ Cantonul Claye-Souilly
 Cantonul Combs-la-Ville
 Cantonul Coulommiers
 Cantonul Courville-sur-Eure
+Cantonul Dinan-Est
 Cantonul Dreux-1
 Cantonul Dreux-2
 Cantonul Fontainebleau
@@ -13363,6 +13407,7 @@ Cantonul Lucerna
 Cantonul Lucé
 Cantonul Maintenon
 Cantonul Mainvilliers
+Cantonul Marquise
 Cantonul Meaux
 Cantonul Melun
 Cantonul Mitry-Mory
@@ -13403,6 +13448,7 @@ Cantonul Signy-l'Abbaye
 Cantonul Sisteron
 Cantonul Solothurn
 Cantonul St. Gallen
+Cantonul Tartas-Ouest
 Cantonul Ticino
 Cantonul Torcy
 Cantonul Turgovia
@@ -14042,6 +14088,7 @@ Carson McCullers
 Carsturile de la Rașcov
 Carta Federală din 1291
 Carta Națională Palestiniană
+Cartagena (Spania)
 Cartagina
 Carte
 Carte de bucate
@@ -14322,6 +14369,7 @@ Castelguglielmo
 Casteljaloux
 Castell'Umberto
 Castella, Lot-et-Garonne
+Castellana Grotte
 Castellane
 Castellanza
 Castellar, Piemont
@@ -14665,6 +14713,7 @@ Cazul instrumental
 Cazul locativ
 Cazul nominativ
 Cazul profesorului Weir
+Cazul „Eugen Grigore”
 Cazzago Brabbia
 Cazères
 Caïn (serial)
@@ -14678,6 +14727,7 @@ Cea mai fericită fată din lume
 Ceakali, Veliko Tărnovo
 Cean Chaffin
 Ceapa verde
+Ceapaieve, Krasnohvardiiske
 Ceapă de tuns (specie de plante)
 Ceará
 Ceară
@@ -15003,6 +15053,7 @@ Cernuella rugosa
 Cernusco sul Naviglio
 Cernusson
 Cernăuți
+Cerodontha inepta
 Cerqueux
 Cerrado
 Cerreto Guidi
@@ -15635,6 +15686,7 @@ Charlot, noul îngrijitor
 Charlot, om preistoric
 Charlotte Aglaé d'Orléans
 Charlotte Anley
+Charlotte Ayanna
 Charlotte Christine de Hanau-Lichtenberg
 Charlotte Johanna de Waldeck-Pyrmont
 Charlotte Mineau
@@ -15833,6 +15885,7 @@ Cheloniidae
 Chelonodon pleurospilus
 Chelonoidis chathamensis
 Chelonoidis vicina
+Chelsea Staub
 Chelsea, Massachusetts
 Cheltenham
 Cheltuială
@@ -16228,6 +16281,7 @@ Chris Walas
 Chris Watson
 Chris Weitz
 Chris van Abkoude
+Christa Randzio-Plath
 Christchurch
 Christchurch, Dorset
 Christiaan Huygens
@@ -16548,6 +16602,8 @@ Cimitirul Vesel din Săpânța
 Cimitirul național Arlington (cimitir în SUA)
 Cimișeni, Criuleni
 Cimpanzeu
+Cimpoi
+Cimîhalove, Orjîțea
 Cina cea de Taină (Leonardo da Vinci)
 Cinabru
 Cinci morminte până la Cairo
@@ -16571,6 +16627,7 @@ Cinema Exhibitors' Association
 CinemaRx
 Cinemagia
 Cinemagia.ro
+Cinemascop
 Cinematică
 Cinematograf
 Cinematografia americană
@@ -17422,6 +17479,7 @@ Colgate Township, Steele County, North Dakota
 Colgate, North Dakota
 Colhoz
 Colibri
+Colico
 Colin Blakely
 Colin Chilvers
 Colin Dibley
@@ -17980,6 +18038,7 @@ Comitatul Lake, Minnesota
 Comitatul Lancaster, Carolina de Sud
 Comitatul Langlade, Wisconsin
 Comitatul Laurens, Carolina de Sud
+Comitatul Lawrence, Tennessee
 Comitatul Le Sueur, Minnesota
 Comitatul Lee, Carolina de Nord
 Comitatul Lee, Carolina de Sud
@@ -17997,6 +18056,7 @@ Comitatul Louisa, Iowa
 Comitatul Lucas, Iowa
 Comitatul Lyon, Iowa
 Comitatul Lyon, Minnesota
+Comitatul Macon
 Comitatul Macon, Carolina de Nord
 Comitatul Madison, Carolina de Nord
 Comitatul Madison, Iowa
@@ -18038,6 +18098,7 @@ Comitatul Monroe, Wisconsin
 Comitatul Montgomery, Carolina de Nord
 Comitatul Montgomery, Iowa
 Comitatul Montgomery, Maryland
+Comitatul Montrose, Colorado
 Comitatul Moore, Carolina de Nord
 Comitatul Morrison, Minnesota
 Comitatul Morrow, Oregon
@@ -18556,6 +18617,7 @@ Comuna Bunila, Hunedoara
 Comuna Burjuc, Hunedoara
 Comuna Burlănești, Edineț
 Comuna Bursuceni, Sîngerei
+Comuna Butivka, Horodnea
 Comuna Buza, Cluj
 Comuna Buzoești, Argeș
 Comuna Bârla, Argeș
@@ -18595,6 +18657,7 @@ Comuna Ceptura, Prahova
 Comuna Cerașu, Prahova
 Comuna Cerbăl, Hunedoara
 Comuna Cerchezu, Constanța
+Comuna Cergău, Alba
 Comuna Cerklje na Gorenjskem
 Comuna Cerknica
 Comuna Cerkno
@@ -18689,6 +18752,7 @@ Comuna Cămărașu, Cluj
 Comuna Cănești, Buzău
 Comuna Căpușu Mare, Cluj
 Comuna Cărbunești, Prahova
+Comuna Cărpineni, Hîncești
 Comuna Cărpiniș, Timiș
 Comuna Căteasca, Argeș
 Comuna Cătina, Buzău
@@ -18873,6 +18937,7 @@ Comuna Heciul Nou, Sîngerei
 Comuna Hercegovac
 Comuna Hereclean, Sălaj
 Comuna Hincăuți, Edineț
+Comuna Hjørring (1970-2006)
 Comuna Hlebine
 Comuna Hodoš
 Comuna Hodoșa, Mureș
@@ -19316,6 +19381,7 @@ Comuna Pisarovina
 Comuna Piskî, Baștanka
 Comuna Piskî, Horohiv
 Comuna Pitomača
+Comuna Pitomača, Virovitica-Podravina
 Comuna Pivka
 Comuna Pićan
 Comuna Pișchia, Timiș
@@ -19354,6 +19420,7 @@ Comuna Polohî, Novi Sanjarî
 Comuna Poluzirea, Novi Sanjarî
 Comuna Polzela
 Comuna Ponor, Alba
+Comuna Ponîkva, Brodî
 Comuna Popești, Argeș
 Comuna Popovac
 Comuna Popove, Novi Sanjarî
@@ -20644,6 +20711,7 @@ Cornetul Piatra Încălecată
 Cornetul Pocruiei
 Cornetul Văii și Valea Mănăstirii
 Cornești (Mihai Viteazu), Cluj
+Cornești, Cluj
 Cornillac
 Cornillon (Haiti)
 Cornillon-sur-l'Oule
@@ -21447,6 +21515,7 @@ Ctenosaura palearis
 Ctenosaura quinquecariniata
 Ctenotus kurnbudj
 Ctenotus stuarti
+Ctenus brevipes
 Ctesiphon
 Cu duzina e mai ieftin!
 Cu mânia în ochi
@@ -22470,6 +22539,7 @@ Darois
 Darren Cahill
 Darren Criss
 Darryl F. Zanuck
+Darryl Hanah
 Darryl Ponicsan
 Dartmouth College
 Darts
@@ -23456,6 +23526,7 @@ Die Brücke
 Die Drei von der Tankstelle (1930)
 Die Ente klingelt um halb acht
 Die Feuerzangenbowle (1944)
+Die Flippers
 Die Linke
 Die Schuldigkeit des ersten Gebotes
 Die Umwege des schönen Karl
@@ -23819,6 +23890,7 @@ Districtul Columbia
 Districtul Cornish, comitatul Aitkin, Minnesota
 Districtul Dombóvár
 Districtul Dombóvár, Tolna
+Districtul El Attaf
 Districtul El Hadaik
 Districtul El Harrouch
 Districtul Farm Island, comitatul Aitkin, Minnesota
@@ -24468,6 +24540,7 @@ Doresópolis
 Dorian Gray
 Dorian Gray (2009 film)
 Dorian Popa
+Dorimedont Popovici
 Dorin Dobrincu
 Dorin Liviu Zaharia
 Dorin Mateuț
@@ -25098,6 +25171,7 @@ Dromon
 Drone
 Drone music
 Dronero
+Dronten
 Dronă
 Drop Dead Diva
 Drop Dead Fred
@@ -25125,6 +25199,8 @@ Drubec
 Drudas
 Drug of Choice
 DrugBank
+Drujinți, Kărdjali
+Drujnie, Krasîliv
 Drukqs
 Drum nou (film)
 Drum roman
@@ -25144,6 +25220,7 @@ Drumul expres Pitești–Craiova
 Drumul mătăsii
 Drumul spre El Dorado
 Drumul spre Sugarland
+Drumul spre pierzanie
 Drumul spre victorie
 Drumuri în cumpănă
 Drumurile Naționale din România
@@ -25201,6 +25278,7 @@ Dubito ergo cogito, cogito ergo sum
 Dublaj
 Dublin
 Dublă majoritate
+Dubovîi Hai, Novomîkolaiivka
 Dubstep
 Dubuque, Iowa
 Dubusia carrikeri
@@ -26050,6 +26128,7 @@ Elastic Reality
 Elateridae
 Elattoneura caesia
 Elattoneura oculata
+Elba (dezambiguizare)
 Elbow Lake, comitatul de Grant, Minnesota)
 Elda Ferri
 Eldora, Iowa
@@ -27200,6 +27279,7 @@ Etheostoma tecumsehi
 Etheriidae
 Ethernet VPN
 Etiamsi omnes, sed non ego
+Etica tehnologiei informației
 Etică
 Etimologia termenilor „român” și „România”
 Etimologia termenului „Brazilia”
@@ -27370,6 +27450,7 @@ Europa latină
 Europa neolitică
 Europa paleolitică
 Europarlamentari pentru Grecia 2004-2009
+Europarlamentari pentru Lituania 2004-2009
 Europarlamentari pentru Polonia 2004-2009
 Europe (formație)
 European Free Trade Association
@@ -27632,6 +27713,7 @@ Eygalayes
 Eygaliers
 Eygluy-Escoulin
 Eymeux
+Eymouthiers
 Eyroles
 Eystein I al Norvegiei
 Eystein Meyla
@@ -27955,6 +28037,7 @@ Fads and Fallacies in the Name of Science
 Faedis
 Faedo Valtellino
 Faenza
+Faerie Tale
 Faeries
 Faeto
 Faeton
@@ -29023,6 +29106,7 @@ Fire Phone
 Fire de poet
 Firebreather (film)
 Fired Up!
+Firefox Focus
 Firehouse Dog
 Firelight (film din 1964)
 Fireman Save My Child (1918 film)
@@ -29995,6 +30079,7 @@ Fratelia
 Fraternity Vacation
 Fratta Polesine
 Frauenfeld
+Frauenliebe und -leben
 Fravaux
 Frazzanò
 Frazé
@@ -30362,6 +30447,7 @@ Fundația Konrad Adenauer
 Fundația Nobel
 Fundația Oswaldo Cruz
 Fundația Regală Marsden NHS
+Fundația pentru Apărarea Cetățenilor Împotriva Abuzurilor Statului
 Fundație (persoană juridică)
 Funduella incisa
 Fundul mării
@@ -31185,6 +31271,7 @@ Geologia planetelor solare terestre
 Geologie
 Geometrie
 Geometrie algebrică
+Geometrodinamică
 Geomitra moniziana
 Geomitra tiarella
 Geomitra watsoni
@@ -31478,6 +31565,7 @@ Germinal Pierre Dandelin
 Germinon
 Germisay
 Germplasm Resources Information Network
+Germán Suárez Flamerich
 Gerola Alta
 Gerre de' Caprioli
 Gerrhonotus parvus
@@ -31759,6 +31847,7 @@ Gillian Avery
 Gillian Bradshaw
 Gillian Cross
 Gillian Rubinstein
+Gillian Vigman
 Gillies MacKinnon
 Gillingham, Dorset
 Gilly-lès-Cîteaux
@@ -32503,6 +32592,7 @@ Graecoanatolica pamphylica
 Graecoanatolica tenuis
 Graeme Base
 Graf Ignatievo, Plovdiv
+Grafenberg, Reutlingen
 Graffaea seychellensis
 Graffigny-Chemin
 Graffiti
@@ -32547,6 +32637,7 @@ Gramatica limbii portugheze
 Gramatica limbii române
 Gramatica limbii spaniole
 Gramatica limbii venete
+Gramaticalizare
 Gramaticii de film
 Gramatică
 Gramatiți, Veliko Tărnovo
@@ -32960,6 +33051,7 @@ Grézet-Cavagnan
 Grézieux-le-Fromental
 Grézillé
 Grézolles
+Gröbern
 Grăbiți apusul soarelui
 Grădina Botanică din București
 Grădina Botanică din Cluj
@@ -33485,6 +33577,7 @@ Göhren (Rügen)
 Gökdeniz Karadeniz
 Gölle
 Gölle, Somogy
+Göppingen
 Göppingen (district)
 Göran Persson
 Görcsöny, Baranya
@@ -33513,6 +33606,7 @@ Găsire iPhone
 Gătaia
 Găvănești, Buzău
 H G Wells: War with the World
+H-IIB
 H. A. Rey
 H. E. Todd
 H. G. Wells
@@ -33574,6 +33668,7 @@ Hafler Trio
 Haganatul avar
 Hagerstown, Maryland
 Hagetaubin
+Haglund (autor)
 Haiduci
 Haiducii Dobrogei
 Haiducul (roman)
@@ -33776,6 +33871,7 @@ Haplochromis simpsoni
 Haplochromis sp. nov. 'Blue Rockpicker'
 Haplochromis venator
 Haploclastus kayi
+Hapoel Be'er Sheva
 Hapoel Ramat Gan Giv'atayim
 Hapoel Tel Aviv
 Happily Ever After (1993 film)
@@ -34696,6 +34792,7 @@ Hinduși
 Hinkeyville, Iowa
 Hino Nacional Brasileiro
 Hinojal
+Hințești, Argeș
 Hip hop
 Hip hop film
 Hip-hop
@@ -35853,6 +35950,7 @@ Ilie de la Sculărie
 Iliiuvți, Veliko Tărnovo
 Iliri
 Iliria
+Ilirios
 Iljo Keisse
 Ilka Štuhec
 Ilkeston
@@ -36355,6 +36453,7 @@ Institutul Național al Patrimoniului
 Institutul Național de Cercetare Dezvoltare pentru Fizică și Inginerie Nucleară „Horia Hulubei”
 Institutul Național de Cercetare-Dezvoltare pentru Electrochimie și Materie Condensată
 Institutul Național de Cercetările Spațiale
+Institutul Național de Geriatrie și Gerontologie „Ana Aslan”
 Institutul Național de Statistică
 Institutul Național de Statistică (Italia)
 Institutul Național de Statistică al Boliviei
@@ -36736,6 +36835,7 @@ Ioana de Austria, Mare Ducesă de Toscana
 Ioana de Austria, Prințesă a Portugaliei
 Ioana de Castilia
 Ioannes
+Ioannis Matzourakis
 Iobag
 Iodopleura pipra
 Iolanda Balaș
@@ -36816,6 +36916,7 @@ Ion N. Petrovici
 Ion N. Socolescu
 Ion Negoițescu
 Ion Nunweiller
+Ion Panțuru
 Ion Pelivan
 Ion Petrovici
 Ion Pillat
@@ -37891,6 +37992,7 @@ Jan Breydel Stadium
 Jan Brożek
 Jan Brzechwa
 Jan Chapman
+Jan Evangelista Purkyně
 Jan Fischer (politician)
 Jan Hus
 Jan Karon
@@ -38146,6 +38248,7 @@ Jeff Kinney (scriitor)
 Jeff Lemire
 Jeff Levy-Hinte
 Jeff Nichols
+Jeff Pearce
 Jeff Pinkner
 Jeff Pope
 Jeff Richards (actor, born 1924)
@@ -38763,6 +38866,7 @@ John Guillermin
 John H. Tilelli, Jr.
 John Hamill
 John Hargreaves (actor)
+John Harris
 John Harrison
 John Hay
 John Hellins
@@ -39130,6 +39234,7 @@ Josyane Savigneau
 José Ballivián
 José Ballivián (provincie)
 José Feliciano
+José Ferraz de Almeida Júnior
 José Ferrer
 José Gonçalves de Minas
 José María Aznar
@@ -39179,6 +39284,7 @@ João Monlevade
 João Pessoa
 João Pinheiro, Minas Gerais
 João de Barros
+Joël Dicker
 Juan Antonio Bayona
 Juan Camilo Restrepo Salazar
 Juan Carlos Ferrero
@@ -39298,6 +39404,7 @@ Judit Weér
 Judith Butler
 Judith Durham
 Judith Guest
+Judith Hirsch
 Judith Kerr
 Judith Thurman
 Judith Viorst
@@ -39330,6 +39437,7 @@ Jules Mazarin
 Jules Perahim
 Jules Renard
 Jules Verne
+Jules-Élie Delaunay
 Julia (1977 film)
 Julia (film)
 Julia Alvarez
@@ -39625,6 +39733,7 @@ Kakasd, Tolna
 Kakuei Tanaka
 Kal, Zagorje ob Savi
 Kalaznó, Tolna
+Kaldbaksbotnur
 Kale, Žalec
 Kaleido Stage
 Kaleido Star Mass-media
@@ -39829,6 +39938,7 @@ Kathleen Harrison
 Kathleen Kennedy (film producer)
 Kathleen Quinlan
 Kathleen Ryan
+Kathleen Turner
 Kathrin Zettel
 Kathryn Bigelow
 Kathryn Hulme
@@ -40372,6 +40482,7 @@ Koppányszántó, Tolna
 Koprivnik, Kočevje
 Koprivștița
 Korahane
+Korelîci, Peremîșleanî
 Korey Cooper
 Korgom
 Kornaka
@@ -40730,6 +40841,7 @@ La Cage aux Folles
 La Caillère-Saint-Hilaire
 La Caine
 La Cambe
+La Campana
 La Caure
 La Celette
 La Celle, Cher
@@ -41814,6 +41926,7 @@ Lauryn Hill
 Lausanne
 Laussou
 Lautaro Martínez
+Lautenbach, Haut-Rhin
 Lauterbrunnen
 Lautignac
 Lauzerville
@@ -42540,6 +42653,7 @@ Lepus flavigularis
 Lepus hainanus
 Lequio Berria
 Lequio Tanaro
+Lerici
 Lerista ameles
 Lerista haroldi
 Lerista lineata
@@ -43251,6 +43365,7 @@ Limnonectes microtympanum
 Limnonectes namiyei
 Limnonectes nitidus
 Limnophora
+Limnophora majuscula
 Limnophora spreta
 Limonade (Haiti)
 Limone Piemonte
@@ -43734,6 +43849,7 @@ Lista monumentelor istorice din județul Argeș
 Lista monumentelor istorice din județul Buzău
 Lista monumentelor istorice din județul Cluj - C
 Lista monumentelor istorice din județul Dolj
+Lista monumentelor istorice din județul Dâmbovița - B
 Lista monumentelor istorice din județul Iași
 Lista monumentelor istorice din județul Iași - 0–9
 Lista monumentelor istorice din județul Iași - A
@@ -43834,7 +43950,9 @@ Lista piloților campioni de Formula 1
 Lista piloților de Formula 1
 Lista planetelor minore
 Lista planetelor minore care intersectează orbita Pământului
+Lista planetelor minore/123501–123600
 Lista planetelor minore/139401–139500
+Lista planetelor minore/155401–155500
 Lista planetelor minore: 15001-16000
 Lista planetelor minore: 23001-24000
 Lista planetelor minore: 29001-30000
@@ -43877,6 +43995,7 @@ Lista roșie a IUCN
 Lista râurilor din județul Cluj
 Lista sistemelor juridice naționale
 Lista siturilor Natura 2000 în România
+Lista siturilor arheologice din județul Dolj - I
 Lista siturilor arheologice din județul Mureș
 Lista siturilor arheologice din județul Mureș - 0–9
 Lista siturilor arheologice din județul Mureș - A
@@ -43929,6 +44048,7 @@ Lista universităților din Canada
 Lista universităților din Timișoara
 Lista vedetelor din Zona crepusculară
 Lista volumelor publicate în Colecția SF (Editura Tineretului)
+Lista zborurilor spațiale cu echipaj uman 2021-prezent
 Lista împăraților bizantini
 Lista împăraților romani
 Lista șefilor de stat ai României
@@ -44082,6 +44202,7 @@ Listă de biblioteci orășenești din România
 Listă de biblioteci specializate din România
 Listă de biblioteci universitare din România
 Listă de biblioteci școlare din România
+Listă de boli ale plantelor floricole
 Listă de brânzeturi românești
 Listă de băuturi alcoolice românești
 Listă de capitale a statelor SUA
@@ -44765,6 +44886,7 @@ Listă de filme românești
 Listă de filme românești din 1948
 Listă de filme românești din 1974
 Listă de filme românești din 1976
+Listă de filme românești din 1988
 Listă de filme românești din 2016
 Listă de filme rusești
 Listă de filme rusești din 2016
@@ -44869,6 +44991,7 @@ Listă de jocuri dungeon crawl
 Listă de jocuri video
 Listă de jocuri video cu călătorii în timp
 Listă de jocuri video de rol
+Listă de jocuri video de rol din 2010 – 2011
 Listă de jocuri video despre Roma antică
 Listă de lacuri din România
 Listă de legi romane
@@ -46163,6 +46286,7 @@ Louis N. Parker
 Louis Pasteur
 Louis Philippe I, Duce de Orléans
 Louis Philippe al II-lea, Duce de Orléans
+Louis Prima
 Louis Rudolph, Duce de Braunschweig-Lüneburg
 Louis Rudolph, Duce de Brunswick-Lüneburg
 Louis Sachar
@@ -46289,6 +46413,7 @@ Lovitură de stat
 Lovrin, Timiș
 Lovászhetény, Baranya
 Lovászpatona, Veszprém
+Lovén (autor)
 Lowell, Massachusetts
 Lowell, Massachusetts)
 Lowercase
@@ -46580,6 +46705,8 @@ Luna și doi bani jumate
 Lunar Roving Vehicle
 Lunax
 Lunay
+Lunca (Bujoreni), Vâlcea
+Lunca (Oniceni), Neamț
 Lunca Buzăului
 Lunca Corbului, Argeș
 Lunca Dunării
@@ -47315,6 +47442,7 @@ Mala (Kryptonian)
 Mala Gora, Kočevje
 Mala Nedelja
 Mala Pirešica
+Mala Smileanka, Smila
 Mala Țărkva, Sofia
 Malacacheta
 Malacanthidae
@@ -48380,6 +48508,7 @@ Maringues
 Marinus
 Marinus din Napole
 Marină
+Mario Almondo
 Mario Bros.
 Mario Cecchi Gori
 Mario Cervi
@@ -49009,6 +49138,7 @@ Maxentius
 Maxey-sur-Vaise
 Maxi Rodríguez
 Maxilly-sur-Saône
+Maxilă
 Maxim (revistă)
 Maxim Gorki
 Maxim Gorky
@@ -49321,6 +49451,8 @@ Mel Gibson
 Melagatran
 Melanagromyza
 Melanagromyza bidenticola
+Melanagromyza olgae
+Melanagromyza senecionella
 Melanezia
 Melania Ursu
 Melanobatrachus indicus
@@ -49349,6 +49481,7 @@ Melchior Lengyel
 Melchisedec Ștefănescu
 Mele, Gornja Radgona
 Melegnano
+Melese
 Melette
 Melicucco
 Melicuccà
@@ -49646,6 +49779,7 @@ Messier 87
 Messigny-et-Vantoux
 Messina
 Messon
+Mesta
 Mestalla
 Mestalla Stadium
 Mesterháza, Vas
@@ -49802,6 +49936,7 @@ Michael Apted
 Michael Arlen
 Michael Arndt
 Michael Azerrad
+Michael Baldwin
 Michael Barnathan
 Michael Bay
 Michael Beck
@@ -50136,6 +50271,7 @@ Mihail Sebastian
 Mihail Seulescu
 Mihail Starenki
 Mihail Strogoff
+Mihail Vakulovski
 Mihail Vlădescu
 Mihail al II-lea Amorianul
 Mihail al III-lea
@@ -50458,6 +50594,7 @@ Mircea Baniciu (EP)
 Mircea Cancicov
 Mircea Ciobanul
 Mircea Ciumara
+Mircea Cornișteanu
 Mircea Crișan
 Mircea Cărtărescu
 Mircea Daneliuc
@@ -50663,6 +50800,7 @@ Mlekarevo, Sliven
 Mlinše
 Mnemosyne
 Mo Tzu
+Mo Yan
 Mo lei tau
 Mo' Money
 Mo'Nique
@@ -51457,6 +51595,7 @@ Mordecai Richler
 Mordovia
 More American Graffiti
 More Stately Mansions
+More Than One Universe
 More Than Superhuman
 More Than This (roman)
 More than Superhuman
@@ -51580,6 +51719,7 @@ Mosset
 Mosson, Côte-d'Or
 Most pri Bratislave
 Mostar
+Mostî, Horodok
 Mota (disambiguation)
 Mota, Ljutomer
 Motacillidae
@@ -51756,6 +51896,7 @@ Moșnean
 Moșneni
 Moșnița
 Moșnița Nouă, Timiș
+Moșteni-Greci, Argeș
 Moștenitoare prezumptivă
 Moștenitor Aparent al Regatului Unit (Position of the heir apparent of the monarch of the United Kingdom)
 Moștenitor al tronului (person who is first in line of succession and cannot be displaced from inheriting, except by death or a change in the rules of succession)
@@ -51973,6 +52114,7 @@ Musa ibn Nusair
 Musaca
 Musakhan
 Musca (gen)
+Musca amicula
 Musca munroi
 Muscatine, Iowa
 Muscicapidae
@@ -53177,6 +53319,7 @@ Nasalis larvatus larvatus
 Nasalis larvatus orientalis
 Nascuntur poetae, fiunt oratores
 Nasdaq Oslo ASA
+Naser Aliji
 Nashorn
 Nashville (film)
 Nashville (sezonul 3)
@@ -53787,6 +53930,7 @@ Neuilly-sous-Clermont
 Neuilly-sur-Suize
 Neuillé
 Neuka
+Neukirchen-Vluyn
 Neulise
 Neung-sur-Beuvron
 Neurochimie
@@ -54119,6 +54263,7 @@ Nicolas Cuche
 Nicolas Durand de Villegagnon
 Nicolas Edet
 Nicolas Henri, Duce de Orléans
+Nicolas Jean-de-Dieu Soult
 Nicolas Kiefer
 Nicolas Mateesco-Matte
 Nicolas Poussin
@@ -54217,6 +54362,7 @@ Nihilism
 Nihon Chinbotsu (1973 film)
 Nihonjinron
 Nii Plange
+Nijnevartovsk
 Nijni Novgorod
 Nijon
 Nike (companie)
@@ -54242,6 +54388,7 @@ Nikolai Glebov
 Nikolai Gogol
 Nikolai Leskov
 Nikolai Mihailovici Prjevalski
+Nikolai Mikluho-Maklai
 Nikolai Rîjkov
 Nikolay Nosov
 Nikolay Smorchkov
@@ -54366,6 +54513,7 @@ Noapte albă
 Noaptea Sfântului Bartolomeu
 Noaptea iguanei
 Noaptea iguanei (film)
+Noaptea poeților asasinați
 Nobilime
 Nobleit
 Noblella lynchi
@@ -54433,6 +54581,8 @@ Noise rock
 Noises Off...
 Noisiel
 Nokia
+Nokia C2-03
+Nokia N810
 Nolan Bushnell
 Nolay, Côte-d'Or
 Nolens,volens
@@ -55088,6 +55238,7 @@ Ocean's 8
 Ocean's Eleven (1960 film)
 Ocean's Twelve
 Oceania
+Oceania (dezambiguizare)
 Oceanic Airlines
 Oceanitidae
 Oceanografie
@@ -55804,6 +55955,7 @@ Ordacsehi, Somogy
 Ordiarp
 Ordin (biologie)
 Ordin clasic
+Ordin de mărime
 Ordinary People
 Ordinary Thunderstorms
 Ordine de precedență în Marea Britanie
@@ -56509,6 +56661,7 @@ Ozora, Tolna
 Ozwiena
 Ozzero
 Očeslavci
+Očkov
 Oľga Textorisová
 Oșorhei, Bihor
 Oțelul Galați
@@ -57104,6 +57257,7 @@ Parc tematic
 Parcare
 Parcines
 Parcova, Edineț
+Parcul Beihai
 Parcul Botanic Timișoara
 Parcul Carol (dezambiguizare)
 Parcul Carol I
@@ -57143,6 +57297,7 @@ Pardies-Piétat
 Pardines, Puy-de-Dôme
 Pardners
 Pardo
+Pardosa pusiola
 Pareid
 Parent, Puy-de-Dôme
 Parental Guidance (film)
@@ -58443,6 +58598,7 @@ Pezzolia radapalladis
 Pezzolo Valle Uzzone
 Pečarovci
 Pește
+Peșteana, Mehedinți
 Peștera
 Peștera (Petroșani), Hunedoara
 Peștera Albastră
@@ -58584,6 +58740,7 @@ Philippikos Bardanes
 Philips Stadion
 Phillips, Wisconsin
 Philochortus zolii
+Philodromus grazianii
 Philogenia monotis
 Philogeniidae
 Philomena (film)
@@ -58962,6 +59119,7 @@ Piney, Aube
 Ping Pong Summer
 Ping-pong
 Pingo-d'Água
+Pinguicula benedicta
 Pinguin
 Pinheiro, Maranhão
 Pininfarina
@@ -59190,6 +59348,7 @@ Planes, Trains & Automobiles
 Planes: Fire & Rescue
 Planet 51
 PlanetAll
+Planeta Maimuțelor: Revoluție
 Planeta Mercur
 Planeta Moldova
 Planeta Umbrelelor Albastre
@@ -60495,6 +60654,7 @@ Premiul Saturn pentru cel mai bun machiaj
 Premiul Saturn pentru cel mai bun regizor
 Premiul Saturn pentru cele mai bune efecte speciale
 Premiul Societății Naționale a Criticilor de Film pentru cel mai bun regizor
+Premiul Societății criticilor de film din San Diego pentru cel mai bun actor
 Premiul publicului pentru cel mai bun actor (Academia Europeană de Film)
 Premières
 Premnoplex pariae
@@ -60770,6 +60930,7 @@ Principii de contabilitate general acceptate
 Principiile contabilității de management
 Principiu
 Principiul auto-consistenței al lui Novikov
+Principiul de excluziune
 Principiul de potrivire
 Principiul lui Dirichlet
 Prinde-mă! Dacă poți!
@@ -61434,10 +61595,12 @@ Provincia Florența
 Provincia Foggia
 Provincia Georgia
 Provincia Ghur
+Provincia Gilan
 Provincia Girona
 Provincia Isernia
 Provincia Iudeea
 Provincia Lima
+Provincia Lunda Sul
 Provincia Mantova
 Provincia Maryland
 Provincia Massachusetts Bay
@@ -61718,6 +61881,7 @@ Ptilinopus huttoni
 Ptilinopus roseicapilla
 Ptolemeu
 Ptolemeu I Soter
+Ptolemeu Philadelphus (Cleopatra)
 Ptolemeu XIII al Egiptului
 Ptolemeu al II-lea Philadelphus
 Ptolemeu al XV-lea
@@ -61919,6 +62083,7 @@ Pygomeles petteri
 Pygopodidae
 Pyhäselkä
 Pyotr Shcherbakov
+Pyramid Song
 Pyrenaearia organiaca
 Pyrgohydrobia prespaensis
 Pyrgulopsis aloba
@@ -62326,6 +62491,7 @@ Radicalism cultural
 Radinovo, Plovdiv
 Radio
 Radio 21
+Radio Chișinău
 Radio City Revels
 Radio Cluj
 Radio Contact
@@ -62385,6 +62551,7 @@ Radu Iliaș
 Radu Ilie
 Radu Leon
 Radu Mihnea
+Radu Mihăileanu
 Radu Nunweiller
 Radu Paisie
 Radu Paraschivescu
@@ -62396,6 +62563,7 @@ Radu Sîrbu
 Radu Tuculescu
 Radu Tudoran
 Radu Vasile
+Radu Voinea
 Radu Vâlcan
 Radu al II-lea Prasnaglava
 Radu cel Frumos
@@ -63341,6 +63509,7 @@ Religia în Evul Mediu
 Religia în Roma antică
 Religia în România
 Religie
+Religii taoice
 Reload
 Reloc Craiova
 Relovo, Sofia
@@ -64825,6 +64994,7 @@ Ron Leibman
 Ron Roy
 Ron Stallworth
 Ron Troupe
+Rona, Sălaj
 Ronald Blythe
 Ronald Coase
 Ronald Colman
@@ -65322,13 +65492,16 @@ Râul Blahnița, Gilort
 Râul Bonțu Mare
 Râul Botna
 Râul Brenta
+Râul Brătioara
 Râul Buzău
 Râul Bârsa, Olt
 Râul Bănița
+Râul Cayster
 Râul Cerna, Dunăre
 Râul Cotmeana
 Râul Cremenița
 Râul Crivadia
+Râul Căldărești, Slănic
 Râul Delaware
 Râul Drava
 Râul Dâlja
@@ -65351,6 +65524,7 @@ Râul Jupâneasa
 Râul Kalix
 Râul Kura
 Râul Kymi
+Râul Lacul cu Șerpi
 Râul Lech
 Râul Luncavăț
 Râul Madeira
@@ -65375,6 +65549,7 @@ Râul Pianu
 Râul Poienii, Rod
 Râul Prahova
 Râul Prut
+Râul Putina, Râușor
 Râul Putna
 Râul Ron
 Râul Rudăria
@@ -65401,9 +65576,11 @@ Râul Tisa
 Râul Torne
 Râul Trotuș
 Râul Ural
+Râul Valea Poienii, Valea Șturului
 Râul Valea Rea, Lechincioara
 Râul Vedea
 Râul Váh
+Râul Zănescu
 Râul Țibleș, Someșul Mare (Zagra)
 Râurile României
 Râșnov
@@ -65931,6 +66108,7 @@ Saint-Babel
 Saint-Baldoph
 Saint-Bardoux
 Saint-Barnabé
+Saint-Barthélemy, Morbihan
 Saint-Barthélemy-Grozon
 Saint-Barthélemy-Lestra
 Saint-Barthélemy-d'Agenais
@@ -66318,6 +66496,7 @@ Saint-Joseph, Loire
 Saint-Joseph-des-Bancs
 Saint-Jouan-de-l'Isle
 Saint-Jouin
+Saint-Jouvent
 Saint-Judoce
 Saint-Juire-Champgillon
 Saint-Julia
@@ -66494,6 +66673,7 @@ Saint-Martin-d'Arc
 Saint-Martin-d'Arcé
 Saint-Martin-d'Ardèche
 Saint-Martin-d'Arrossa
+Saint-Martin-d'Ary
 Saint-Martin-d'Auxigny
 Saint-Martin-d'Estréaux
 Saint-Martin-d'Ollières
@@ -67090,6 +67270,7 @@ Saletto
 Salettuol
 Salezienii lui Don Bosco
 Salföld, Veszprém
+Salgado (autor)
 Salgareda
 Salgueiro Maia
 Salgótarján
@@ -67157,6 +67338,7 @@ Salt Lake City
 Salt Lake City metropolitan area
 Salt Lake City, Utah
 Salt-en-Donzy
+Salterra
 Salticidae
 Salto da Divisa
 Saltrio
@@ -67347,6 +67529,7 @@ San Giorgio di Nogaro
 San Giorgio in Bosco
 San Giorgio su Legnano
 San Giovanni Rotondo
+San Giovanni Suergiu
 San Giovanni al Natisone
 San Giovanni del Dosso
 San Giovanni di Gerace
@@ -68563,6 +68746,7 @@ Senhora dos Remédios
 Senior de Biscaya (Nobiliary title linked to the Crown of Castile and the Spanish royal house from 1369)
 Senior de Molina (Nobility title of Spain)
 Seniori și doamne
+Senioria Overijssel
 Senioria Utrecht
 Senkevîcivka
 Senlis, Oise
@@ -68618,6 +68802,7 @@ Serbia
 Serbia și Muntenegru
 Serbian Patriarch Dimitrije
 Serdinya
+Sereca, Hunedoara
 Serena Williams
 Serenic
 Serenity (film)
@@ -68829,6 +69014,7 @@ Serro
 Serruelles
 Sersale
 Serse Cosmi
+Serval, Aisne
 Servant, Puy-de-Dôme
 Server web
 Serves-sur-Rhône
@@ -68954,6 +69140,7 @@ Seychellia wiljoi
 Seychellonema gerlachi
 Seyches
 Seymour Simon (autor)
+Seymour, Oos-Kaap
 Seyne
 Seyre
 Seysses
@@ -69859,6 +70046,7 @@ Skorobahatkî, Lohvîțea
 Skrzak
 Skulduggery Pleasant
 Skutare, Plovdiv
+Skvîra
 Sky Captain and the World of Tomorrow
 Sky High (2005 film)
 Sky Sports
@@ -70063,6 +70251,7 @@ Sofia
 Sofia Coppola
 Sofia Cosma
 Sofia Frederica de Mecklenburg-Schwerin
+Sofia Ionescu-Ogrezeanu
 Sofia Kovalevskaya
 Sofia a Suediei (1547–1611)
 Sofia de Pomerania
@@ -70801,6 +70990,7 @@ St. Moritz
 St. Peter, Minnesota
 St. Vincent (film)
 Staatliche Antikensammlungen
+Staatliche Kunstgewerbeschule Krakau
 Stabilizator
 Stabiuzzo
 Stacey Sher
@@ -70867,6 +71057,7 @@ Stadionul Olimpic din Torino
 Stadionul Orășenesc Cluj
 Stadionul Stal
 Stadionul Steaua
+Stadionul Steaua (1974)
 Stadionul Tineretului
 Stadionul Tudor Vladimirescu
 Stadionul Victoria Someșeni
@@ -71746,6 +71937,7 @@ Strâmtoarea Siciliei
 Strâmtoarea Torres
 Strømsgodset IF
 Strămutarea germanilor după al Doilea Război Mondial
+Stu Cook
 Stuart Benjamin
 Stuart Cooper
 Stuart Craig
@@ -71909,6 +72101,7 @@ Succineidae
 Suceagu, Cluj
 Suceava
 Sucevița, Suceava
+Suchomimus
 Sucidava
 Sucre
 Sucre (stat)
@@ -72009,6 +72202,7 @@ Suncus zeylanicus
 Sundamys maxi
 Sundathelphusa sottoae
 Sunday Dinner for a Solider
+Sunday Express
 Sundays and Cybele
 Sunet
 Sunet stereofonic
@@ -72180,6 +72374,7 @@ Surrey
 Surry County, North Carolina
 Sursum corda
 Sursă de lumină în proiecția cinematografică
+Suruceanu
 Surville, Calvados
 Survival Guide
 Survival film
@@ -72309,6 +72504,7 @@ Swiss Family Robinson (1960 film)
 Swiss Football Association
 Swiss Indoors
 Swiss Re
+Switch de rețea
 Switched at Birth
 Switchers - trilogie
 Switching Channels
@@ -72413,6 +72609,7 @@ Szakály, Tolna
 Szalafő, Vas
 Szalatnak, Baranya
 Szalánta, Baranya
+Szanda Antal-Vincze
 Szaporca, Baranya
 Szarvaskend, Vas
 Szarvaskő
@@ -72509,6 +72706,7 @@ Sándor Dallos
 Sándor Fodor
 Sándor Hunyady
 Sándor Kisfaludy
+Sándor Kocsis
 Sándor Kányádi
 Sándor Makkai
 Sándor Márai
@@ -76944,6 +77142,7 @@ Torteval-Quesnay
 Tortisambert
 Tortora
 Tortorici
+Tortura albă
 Tortură
 Toruń
 Torvaj, Somogy
@@ -77681,6 +77880,7 @@ Trăsnăi rock'n roll
 Trăstenik
 Tsai Ing-wen
 Tsaouni
+Tsarafidynia
 Tsernaoua
 Tsierna
 Tsingymantis antitra
@@ -77972,6 +78172,7 @@ Two in Black Belt
 Two-Faced Woman
 Tycho Brahe
 Tye Sheridan
+Tyler James
 Tylochromis microdon
 Tylorida mornensis
 Tylototriton hainanensis
@@ -78441,6 +78642,7 @@ United States Dollar
 United States Marine Corps
 United States Mint
 United States Navy
+United States Postal Service
 United States Secretary of Defense
 United States Secretary of State
 United States of Tara
@@ -78746,6 +78948,7 @@ Unu (revistă)
 Unum castigabis, centum emendabis
 Unus pro omnibus, omnes pro uno
 Unverre
+Unzen (vulcan)
 Up (2009 film)
 Up a Road Slowly
 Up and Down the Scratchy Mountains
@@ -78761,6 +78964,7 @@ Uperodon mormorata
 Uperodon palmatus
 Upgrade (Zona crepusculară)
 Upload (serial TV)
+Upper Demerara-Berbice
 Upper Marlboro, Maryland
 Uppland
 Uppsala
@@ -79314,7 +79518,9 @@ Valentin Adrian Iliescu
 Valentin Al. Georgescu
 Valentin Ceaușescu
 Valentin Coposu
+Valentin Popa (profesor)
 Valentin Stănescu
+Valentin-Rică Cioromelea
 Valentina Cortese
 Valentina Rusu-Ciobanu
 Valentina Sandu-Dediu
@@ -79586,6 +79792,7 @@ Vasile Urseanu
 Vasile Voiculescu
 Vasile al II-lea Bulgaroctonul
 Vasile Țanțu
+Vasili Grossman
 Vasili Kandinski
 Vasili Sokolov
 Vasili Troțko
@@ -80010,6 +80217,7 @@ Viața lui Galileo
 Viața lui Émile Zola (film)
 Viața românească
 Viața și epoca judecătorului Roy Bean
+Viața, universul și tot restul
 Viață
 Viață de câine (film din 1918)
 Viață de stafie
@@ -80149,6 +80357,7 @@ Vienna, Maryland
 Vienne-en-Bessin
 Vienne-la-Ville
 Vienne-le-Château
+Vieremä
 Vierme
 Vierme parazit
 Vierville (Eure y Loir)
@@ -80621,6 +80830,7 @@ Virgil Madgearu
 Virgil Misidjan
 Virgil Petrescu
 Virgil Pîrvu
+Virgil Tale
 Virgil Teodorescu
 Virgil Tănase
 Virgil Williams
@@ -82488,6 +82698,7 @@ Zero Branco
 Zero Cool
 Zero Dark Thirty
 ZeroVM
+Zerynthia
 Zestre
 Zeugma (Dacia)
 Zeuneriana amplipennis
@@ -82968,6 +83179,7 @@ video jocul
 Împărați ai Sfântului Imperiu Roman
 Împărăteasa Matilda
 Împărăția furnicilor
+Împărțirea Imperiului Otoman
 Împărțirea administrativă a Angliei
 Împărțirea administrativă a Republicii Populare Chineze
 Împărțirea administrativă a Rusiei
@@ -83542,6 +83754,7 @@ video jocul
 11 octombrie
 11 septembrie
 11'09"01 September 11
+11257 Rodionta
 11th Academy Awards
 12 Angry Men (1957 film)
 12 Angry Men (film)
@@ -83577,6 +83790,7 @@ video jocul
 13 noiembrie
 13 octombrie
 13 septembrie
+13715 Steed
 1391 Carelia
 13th Academy Awards
 14 aprilie
@@ -83591,6 +83805,7 @@ video jocul
 14 noiembrie
 14 octombrie
 14 septembrie
+14535 Kazuyukihanda
 1492: Conquest of Paradise
 14th Academy Awards
 15 aprilie
@@ -83624,6 +83839,7 @@ video jocul
 16 noiembrie
 16 octombrie
 16 septembrie
+16015 Snell
 168 î.Hr.
 16th Academy Awards
 17 Again (film)
@@ -83658,6 +83874,7 @@ video jocul
 1810 United States Census
 1820 United States Census
 1830 United States Census
+18334 Drozdov
 1840 United States Census
 185 î.Hr.
 1850 United States Census
@@ -84379,6 +84596,8 @@ video jocul
 23 noiembrie
 23 octombrie
 23 septembrie
+23249 Liaoyenting
+23473 Voss
 2361 Gogol
 23769 Russellbabb
 23950 Tsusakamoto
@@ -84396,6 +84615,7 @@ video jocul
 24 octombrie
 24 septembrie
 241 î.Hr.
+24918 Tedkooser
 24th Academy Awards
 24th Berlin International Film Festival
 25 aprilie
@@ -84455,6 +84675,7 @@ video jocul
 28 octombrie
 28 septembrie
 287 î.Hr.
+28787 Peterpinko
 2899 Runrun Shaw
 28th Academy Awards
 29 aprilie
@@ -84469,8 +84690,10 @@ video jocul
 29 noiembrie
 29 octombrie
 29 septembrie
+2919 Dali
 29514 Karatsu
 29764 Panneerselvam
+2989 Imago
 29th Academy Awards
 2nd Academy Awards
 3 Ninjas (film)
@@ -84614,6 +84837,7 @@ video jocul
 48 Hrs.
 48 î.Hr.
 48th Academy Awards
+49 de zile în Pacific
 49 î.Hr.
 4961 Timherder
 497 î.Hr.)
@@ -84640,6 +84864,7 @@ video jocul
 50 ani: Best of Phoenix 1962–2012
 50 î.Hr.
 50th Academy Awards
+5184 Cavaillé-Coll
 51st Academy Awards
 52 Pick-Up
 52 î.Hr.
@@ -84684,6 +84909,7 @@ video jocul
 6-4-4-6
 6-8-6
 60 î.Hr.
+600 î.Hr.
 60th Academy Awards
 61 î.Hr.
 61st Academy Awards
@@ -84695,6 +84921,7 @@ video jocul
 63rd Academy Awards
 64th Academy Awards
 65 î.Hr.
+6539 Nohavica
 65th Academy Awards
 66th Academy Awards
 67 î.Hr.
@@ -84736,6 +84963,7 @@ video jocul
 776 î.Hr.
 77th Academy Awards
 78 î.Hr.
+7892 Musamurahigashi
 78th Academy Awards
 79 A.D., the Destruction of Herculaneum
 79 î.Hr.
@@ -84770,6 +84998,7 @@ video jocul
 84 î.Hr.
 84th Academy Awards
 85 î.Hr.
+85179 Meistereckhart
 8555 Mirimao
 85th Academy Awards
 86 î.Hr.
@@ -84792,11 +85021,13 @@ video jocul
 9 to 5 (film)
 90th Academy Awards
 91st Academy Awards
+9242 Olea
 92nd Academy Awards
 9397 Lombardi
 93rd Academy Awards
 94th Academy Awards
 9573 Matsumotomas
+9859 Van Lierde
 99 and 44/100% Dead
 9th Academy Awards
 9th Moscow International Film Festival
@@ -85445,6 +85676,7 @@ Aces High (film)
 Acetonă
 Achaia (provincie romană)
 Achatinellidae
+Achim von Arnim
 Achmed Abdullah
 Achondrostoma occidentale
 Achondrostoma salmantinum
@@ -85687,6 +85919,7 @@ Adi Cristescu
 Adi Cusin
 Adi Lukovac
 Adidas
+Adil Rami
 Adilkhan Yerzhanov
 Aditiv alimentar
 Aditon
@@ -85830,6 +86063,7 @@ Aer comprimat
 Aer condiționat
 Aerial Board of Control
 Aerodramus bartschi
+Aerofagie
 Aerologie
 Aeronautică
 Aeronavă
@@ -85966,6 +86200,7 @@ Agenți antimitotici
 Agenția Internațională pentru Energia Atomică
 Agenția Internațională pentru Energie Atomică
 Agenția Națională de Cadastru și Publicitate Imobiliară
+Agenția Națională pentru Egalitatea de Șanse între Femei și Bărbați
 Agenția Națională pentru Locuințe
 Agenția Națională pentru Ocuparea Forței de Muncă
 Agenția Spațială Braziliană
@@ -85998,6 +86233,7 @@ Agnosticism
 Agnus Dei
 Agostino Casaroli
 Agota Kristof
+Agoueinit
 Agra, Lombardia
 Agrarianism
 Agrarianism românesc
@@ -86216,6 +86452,7 @@ Al-Muntada al-Adabi
 Al-Nayrizi
 Al-Qaeda
 Al-Qaida
+Al-Qaṭrāneh
 Al-Quds capitala culturii arabe
 Al-Razi
 Al-Shorta
@@ -86649,6 +86886,7 @@ Alexandru Emanoil Florescu
 Alexandru Ene I
 Alexandru Epureanu
 Alexandru Flechtenmacher
+Alexandru Florescu
 Alexandru G. Golescu
 Alexandru Ghika
 Alexandru Groapă
@@ -87009,6 +87247,7 @@ Allochrocebus preussi preussi
 Allocnemis mitwabae
 Allocnemis montana
 Allocnemis vicki
+Allocosa gabesia
 Allogastropoda
 Allogny
 Allolestes maclachlanii
@@ -87034,11 +87273,13 @@ Alma mater
 Alma, Wisconsin
 Almagest
 Almageste
+Almalî (metroul din Almatî)
 Almamellék, Baranya
 Almanah
 Almandin
 Almaraz
 Almenara, Minas Gerais
+Almendralejo
 Almere
 Almoharín
 Almost Heroes
@@ -87169,6 +87410,7 @@ Alvin and the Chipmunks Meet the Wolfman
 Alvin and the Chipmunks: Chipwrecked
 Alvin and the Chipmunks: The Road Chip
 Alvin and the Chipmunks: The Squeakquel
+Alvin și veverițele: Marea aventură
 Alvinópolis
 Alvorada de Minas
 Alykes (Ahaia)
@@ -88263,6 +88505,7 @@ Anonconotus italoaustriacus
 Anonconotus ligustinus
 Anonconotus sibyllinus
 Anonymus
+Anopheles culiciformis
 Anorectic
 Anorexie nervoasă
 Anorexigen
@@ -88643,6 +88886,7 @@ Aparat de proiecție cinematografică
 Aparat fotografic reflex
 Aparatul cardiovascular
 Aparatul genital feminin
+Aparatul genital masculin
 Aparhant, Tolna
 Apartamentul
 Apartid
@@ -90358,6 +90602,7 @@ Atfalati
 Athanase Joja
 Athelstan
 Athelstan, Iowa
+Athena Parthenos
 Atheneul Român
 Atherigona
 Atherigona pottsi
@@ -90547,6 +90792,7 @@ Augusta Treverorum
 Augusta Wilhelmine de Hesse-Darmstadt
 Augusta de Bavaria
 Augusta, Iowa
+Auguste Bravais
 Auguste Marie Johanna de Baden-Baden
 Auguste Piccard
 Auguste de Hesse-Homburg
@@ -91838,6 +92084,7 @@ Battle Creek Brawl
 Battle Cry (film)
 Battle for Terra
 Battle of the Amazons
+Battle, East Sussex
 Battlefield Earth (film)
 Battleground (1949 film)
 Battleship North Carolina
@@ -92127,6 +92374,7 @@ Beire-le-Fort
 Beirut
 Beit Sahour
 Beitar Ierusalim
+Beitostølen
 Beiuș
 Bejcgyertyános, Vas
 Bekkouche Lakhdar
@@ -92770,6 +93018,7 @@ Big (film)
 Big Bad Love
 Big Bang
 Big Bounce
+Big Brother And The Holding Company (album)
 Big Brown Eyes
 Big Business (1929 film)
 Big Crunch
@@ -92896,6 +93145,7 @@ Billy-sous-Mangiennes
 Billère
 Bilma
 Bilma, Niger
+Bilozorîna, Nadvirna
 Bilă (matematică)
 Bimal-Kumar
 Bin El Ouiden
@@ -93073,6 +93323,7 @@ Biserica Romano-Catolică din România
 Biserica Romano-Catolică din Turda
 Biserica Română Unită cu Roma, Greco-Catolică
 Biserica Saint Denis
+Biserica Schimbarea la Față din Hunedoara
 Biserica Schitul Maicilor
 Biserica Sf. Nicolae-Jitnita
 Biserica Sf. Nicolae-Sârbi
@@ -93921,6 +94172,7 @@ Blaze of Noon
 Blazing Magnum
 Blazing Saddles
 Blașcovici
+Bledar Sejko
 Bleecker Street (company)
 Bleeding Kansas
 Bleeding Steel
@@ -94256,6 +94508,7 @@ Bom Jesus do Amparo
 Bom Jesus do Galho
 Bom Lugar
 Bom Repouso
+Bom Retiro
 Bom Sucesso, Minas Gerais
 Bomb Factory
 Bomba atomică
@@ -94885,6 +95138,7 @@ Brebbia
 Breckenridge, Minnesota
 Breda Ba.88
 Breda di Piave
+Breese
 Breg pri Kočevju
 Bregano
 Breganze
@@ -95287,6 +95541,7 @@ Brânzoaică
 Brânză
 Brânză Ackawi
 Brânză Naboulsi
+Brânză cu mucegai
 Brânză de Suhaia
 Brânză de burduf
 Brânză topită
@@ -95415,6 +95670,7 @@ Buicourt
 Buinovți, Veliko Tărnovo
 Buis-les-Baronnies
 Bujanka, Lîseanka
+Bujor (nume)
 Bujoru, Hunedoara
 Bukavac
 Bukova Gora, Kočevje
@@ -95588,6 +95844,7 @@ Bustince-Iriberry
 Busting
 Busto Arsizio
 Busto Garolfo
+Bustuchin, Gorj
 Bustul generalului Carol Davila
 Busturi din Ploiești
 Busuioacă de Bohotin
@@ -95673,6 +95930,7 @@ Bátaapáti, Tolna
 Bátaszék
 Bátor
 Bátor, Heves
+Bâlta
 Bârgăuani, Neamț
 Bârlad
 Bârlești (Mogoș), Alba
@@ -96097,6 +96355,7 @@ Calabria
 Calacalles droueti
 Calafat
 Calais
+Calamaria lovii
 Calamaria pfefferi
 Calamaria yunnanensis
 Calamariidae
@@ -96681,6 +96940,7 @@ Cantonul Blois-3
 Cantonul Bogny-sur-Meuse
 Cantonul Brou
 Cantonul Carignan
+Cantonul Castelnau-Montratier
 Cantonul Chambord
 Cantonul Champs-sur-Marne
 Cantonul Charleville-Mézières-1
@@ -96723,6 +96983,7 @@ Cantonul Lucerna
 Cantonul Lucé
 Cantonul Maintenon
 Cantonul Mainvilliers
+Cantonul Marquise
 Cantonul Meaux
 Cantonul Melun
 Cantonul Mitry-Mory
@@ -96763,6 +97024,7 @@ Cantonul Signy-l'Abbaye
 Cantonul Sisteron
 Cantonul Solothurn
 Cantonul St. Gallen
+Cantonul Tartas-Ouest
 Cantonul Ticino
 Cantonul Torcy
 Cantonul Turgovia
@@ -97402,6 +97664,7 @@ Carson McCullers
 Carsturile de la Rașcov
 Carta Federală din 1291
 Carta Națională Palestiniană
+Cartagena (Spania)
 Cartagina
 Carte
 Carte de bucate
@@ -97682,6 +97945,7 @@ Castelguglielmo
 Casteljaloux
 Castell'Umberto
 Castella, Lot-et-Garonne
+Castellana Grotte
 Castellane
 Castellanza
 Castellar, Piemont
@@ -98025,6 +98289,7 @@ Cazul instrumental
 Cazul locativ
 Cazul nominativ
 Cazul profesorului Weir
+Cazul „Eugen Grigore”
 Cazzago Brabbia
 Cazères
 Caïn (serial)
@@ -98038,6 +98303,7 @@ Cea mai fericită fată din lume
 Ceakali, Veliko Tărnovo
 Cean Chaffin
 Ceapa verde
+Ceapaieve, Krasnohvardiiske
 Ceapă de tuns (specie de plante)
 Ceará
 Ceară
@@ -98363,6 +98629,7 @@ Cernuella rugosa
 Cernusco sul Naviglio
 Cernusson
 Cernăuți
+Cerodontha inepta
 Cerqueux
 Cerrado
 Cerreto Guidi
@@ -98995,6 +99262,7 @@ Charlot, noul îngrijitor
 Charlot, om preistoric
 Charlotte Aglaé d'Orléans
 Charlotte Anley
+Charlotte Ayanna
 Charlotte Christine de Hanau-Lichtenberg
 Charlotte Johanna de Waldeck-Pyrmont
 Charlotte Mineau
@@ -99193,6 +99461,7 @@ Cheloniidae
 Chelonodon pleurospilus
 Chelonoidis chathamensis
 Chelonoidis vicina
+Chelsea Staub
 Chelsea, Massachusetts
 Cheltenham
 Cheltuială
@@ -99588,6 +99857,7 @@ Chris Walas
 Chris Watson
 Chris Weitz
 Chris van Abkoude
+Christa Randzio-Plath
 Christchurch
 Christchurch, Dorset
 Christiaan Huygens
@@ -99908,6 +100178,7 @@ Cimitirul Vesel din Săpânța
 Cimitirul național Arlington (cimitir în SUA)
 Cimișeni, Criuleni
 Cimpanzeu
+Cimpoi
 Cimîhalove, Orjîțea
 Cina cea de Taină (Leonardo da Vinci)
 Cinabru
@@ -99932,6 +100203,7 @@ Cinema Exhibitors' Association
 CinemaRx
 Cinemagia
 Cinemagia.ro
+Cinemascop
 Cinematică
 Cinematograf
 Cinematografia americană
@@ -100783,6 +101055,7 @@ Colgate Township, Steele County, North Dakota
 Colgate, North Dakota
 Colhoz
 Colibri
+Colico
 Colin Blakely
 Colin Chilvers
 Colin Dibley
@@ -101341,6 +101614,7 @@ Comitatul Lake, Minnesota
 Comitatul Lancaster, Carolina de Sud
 Comitatul Langlade, Wisconsin
 Comitatul Laurens, Carolina de Sud
+Comitatul Lawrence, Tennessee
 Comitatul Le Sueur, Minnesota
 Comitatul Lee, Carolina de Nord
 Comitatul Lee, Carolina de Sud
@@ -101358,6 +101632,7 @@ Comitatul Louisa, Iowa
 Comitatul Lucas, Iowa
 Comitatul Lyon, Iowa
 Comitatul Lyon, Minnesota
+Comitatul Macon
 Comitatul Macon, Carolina de Nord
 Comitatul Madison, Carolina de Nord
 Comitatul Madison, Iowa
@@ -101918,6 +102193,7 @@ Comuna Bunila, Hunedoara
 Comuna Burjuc, Hunedoara
 Comuna Burlănești, Edineț
 Comuna Bursuceni, Sîngerei
+Comuna Butivka, Horodnea
 Comuna Buza, Cluj
 Comuna Buzoești, Argeș
 Comuna Bârla, Argeș
@@ -102052,6 +102328,7 @@ Comuna Cămărașu, Cluj
 Comuna Cănești, Buzău
 Comuna Căpușu Mare, Cluj
 Comuna Cărbunești, Prahova
+Comuna Cărpineni, Hîncești
 Comuna Cărpiniș, Timiș
 Comuna Căteasca, Argeș
 Comuna Cătina, Buzău
@@ -102236,6 +102513,7 @@ Comuna Heciul Nou, Sîngerei
 Comuna Hercegovac
 Comuna Hereclean, Sălaj
 Comuna Hincăuți, Edineț
+Comuna Hjørring (1970-2006)
 Comuna Hlebine
 Comuna Hodoš
 Comuna Hodoșa, Mureș
@@ -102275,6 +102553,7 @@ Comuna Iablunivka, Lîseanka
 Comuna Iadutî, Borzna
 Comuna Iara, Cluj
 Comuna Iavkîne, Baștanka
+Comuna Iavorivți, Krasîliv
 Comuna Iclod, Cluj
 Comuna Idrija
 Comuna Iecea Mare, Timiș
@@ -102679,6 +102958,7 @@ Comuna Pisarovina
 Comuna Piskî, Baștanka
 Comuna Piskî, Horohiv
 Comuna Pitomača
+Comuna Pitomača, Virovitica-Podravina
 Comuna Pivka
 Comuna Pićan
 Comuna Pișchia, Timiș
@@ -102717,6 +102997,7 @@ Comuna Polohî, Novi Sanjarî
 Comuna Poluzirea, Novi Sanjarî
 Comuna Polzela
 Comuna Ponor, Alba
+Comuna Ponîkva, Brodî
 Comuna Popești, Argeș
 Comuna Popovac
 Comuna Popove, Novi Sanjarî
@@ -103093,6 +103374,7 @@ Comuna Velîkîi Kobeleaciok, Novi Sanjarî
 Comuna Vernești, Buzău
 Comuna Veržej
 Comuna Vesele, Zaporijjea
+Comuna Veselivka, Novomîrhorod
 Comuna Vețca, Mureș
 Comuna Vețel, Hunedoara
 Comuna Victor Vlad Delamarina, Timiș
@@ -104007,6 +104289,7 @@ Cornetul Piatra Încălecată
 Cornetul Pocruiei
 Cornetul Văii și Valea Mănăstirii
 Cornești (Mihai Viteazu), Cluj
+Cornești, Cluj
 Cornillac
 Cornillon (Haiti)
 Cornillon-sur-l'Oule
@@ -104810,6 +105093,7 @@ Ctenosaura palearis
 Ctenosaura quinquecariniata
 Ctenotus kurnbudj
 Ctenotus stuarti
+Ctenus brevipes
 Ctesiphon
 Cu duzina e mai ieftin!
 Cu mânia în ochi
@@ -105830,9 +106114,11 @@ Darlington, Wisconsin
 Darmannes
 Darmstadt
 Darois
+Darren Aronofsky
 Darren Cahill
 Darren Criss
 Darryl F. Zanuck
+Darryl Hanah
 Darryl Ponicsan
 Dartmouth College
 Darts
@@ -106819,6 +107105,7 @@ Die Brücke
 Die Drei von der Tankstelle (1930)
 Die Ente klingelt um halb acht
 Die Feuerzangenbowle (1944)
+Die Flippers
 Die Linke
 Die Schuldigkeit des ersten Gebotes
 Die Umwege des schönen Karl
@@ -107832,6 +108119,7 @@ Doresópolis
 Dorian Gray
 Dorian Gray (2009 film)
 Dorian Popa
+Dorimedont Popovici
 Dorin Dobrincu
 Dorin Liviu Zaharia
 Dorin Mateuț
@@ -108462,6 +108750,7 @@ Dromon
 Drone
 Drone music
 Dronero
+Dronten
 Dronă
 Drop Dead Diva
 Drop Dead Fred
@@ -108489,6 +108778,8 @@ Drubec
 Drudas
 Drug of Choice
 DrugBank
+Drujinți, Kărdjali
+Drujnie, Krasîliv
 Drukqs
 Drum nou (film)
 Drum roman
@@ -108508,6 +108799,7 @@ Drumul expres Pitești–Craiova
 Drumul mătăsii
 Drumul spre El Dorado
 Drumul spre Sugarland
+Drumul spre pierzanie
 Drumul spre victorie
 Drumuri în cumpănă
 Drumurile Naționale din România
@@ -108565,6 +108857,7 @@ Dubito ergo cogito, cogito ergo sum
 Dublaj
 Dublin
 Dublă majoritate
+Dubovîi Hai, Novomîkolaiivka
 Dubstep
 Dubuque, Iowa
 Dubusia carrikeri
@@ -109296,6 +109589,7 @@ Eero Saarinen
 Efect fotoelectric
 Efect fotovoltaic
 Efecte speciale
+Efectul Hall
 Efectul fluturelui
 Efectul razelor gamma asupra anemonelor
 Efedra
@@ -109414,6 +109708,7 @@ Elastic Reality
 Elateridae
 Elattoneura caesia
 Elattoneura oculata
+Elba (dezambiguizare)
 Elbow Lake, comitatul de Grant, Minnesota)
 Elda Ferri
 Eldora, Iowa
@@ -110564,6 +110859,7 @@ Etheostoma tecumsehi
 Etheriidae
 Ethernet VPN
 Etiamsi omnes, sed non ego
+Etica tehnologiei informației
 Etică
 Etimologia termenilor „român” și „România”
 Etimologia termenului „Brazilia”
@@ -110734,6 +111030,7 @@ Europa latină
 Europa neolitică
 Europa paleolitică
 Europarlamentari pentru Grecia 2004-2009
+Europarlamentari pentru Lituania 2004-2009
 Europarlamentari pentru Polonia 2004-2009
 Europe (formație)
 European Free Trade Association
@@ -110996,6 +111293,7 @@ Eygalayes
 Eygaliers
 Eygluy-Escoulin
 Eymeux
+Eymouthiers
 Eyroles
 Eystein I al Norvegiei
 Eystein Meyla
@@ -112388,6 +112686,7 @@ Fire Phone
 Fire de poet
 Firebreather (film)
 Fired Up!
+Firefox Focus
 Firehouse Dog
 Firelight (film din 1964)
 Fireman Save My Child (1918 film)
@@ -113360,6 +113659,7 @@ Fratelia
 Fraternity Vacation
 Fratta Polesine
 Frauenfeld
+Frauenliebe und -leben
 Fravaux
 Frazzanò
 Frazé
@@ -113727,6 +114027,7 @@ Fundația Konrad Adenauer
 Fundația Nobel
 Fundația Oswaldo Cruz
 Fundația Regală Marsden NHS
+Fundația pentru Apărarea Cetățenilor Împotriva Abuzurilor Statului
 Fundație (persoană juridică)
 Funduella incisa
 Fundul mării
@@ -114550,6 +114851,7 @@ Geologia planetelor solare terestre
 Geologie
 Geometrie
 Geometrie algebrică
+Geometrodinamică
 Geomitra moniziana
 Geomitra tiarella
 Geomitra watsoni
@@ -114843,6 +115145,7 @@ Germinal Pierre Dandelin
 Germinon
 Germisay
 Germplasm Resources Information Network
+Germán Suárez Flamerich
 Gerola Alta
 Gerre de' Caprioli
 Gerrhonotus parvus
@@ -115124,6 +115427,7 @@ Gillian Avery
 Gillian Bradshaw
 Gillian Cross
 Gillian Rubinstein
+Gillian Vigman
 Gillies MacKinnon
 Gillingham, Dorset
 Gilly-lès-Cîteaux
@@ -115225,6 +115529,7 @@ Giulio Andreotti
 Giulio Campi
 Giulio Cesare Tassoni
 Giulio Ciccone
+Giulio Magni
 Giulio Primicerj
 Giurgiu
 Giurgiulești, Cahul
@@ -115868,6 +116173,7 @@ Graecoanatolica pamphylica
 Graecoanatolica tenuis
 Graeme Base
 Graf Ignatievo, Plovdiv
+Grafenberg, Reutlingen
 Graffaea seychellensis
 Graffigny-Chemin
 Graffiti
@@ -115912,6 +116218,7 @@ Gramatica limbii portugheze
 Gramatica limbii române
 Gramatica limbii spaniole
 Gramatica limbii venete
+Gramaticalizare
 Gramaticii de film
 Gramatică
 Gramatiți, Veliko Tărnovo
@@ -116325,6 +116632,7 @@ Grézet-Cavagnan
 Grézieux-le-Fromental
 Grézillé
 Grézolles
+Gröbern
 Grăbiți apusul soarelui
 Grădina Botanică din București
 Grădina Botanică din Cluj
@@ -116850,6 +117158,7 @@ Göhren (Rügen)
 Gökdeniz Karadeniz
 Gölle
 Gölle, Somogy
+Göppingen
 Göppingen (district)
 Göran Persson
 Görcsöny, Baranya
@@ -116878,6 +117187,7 @@ Găsire iPhone
 Gătaia
 Găvănești, Buzău
 H G Wells: War with the World
+H-IIB
 H. A. Rey
 H. E. Todd
 H. G. Wells
@@ -117142,6 +117452,7 @@ Haplochromis simpsoni
 Haplochromis sp. nov. 'Blue Rockpicker'
 Haplochromis venator
 Haploclastus kayi
+Hapoel Be'er Sheva
 Hapoel Ramat Gan Giv'atayim
 Hapoel Tel Aviv
 Happily Ever After (1993 film)
@@ -118062,6 +118373,7 @@ Hinduși
 Hinkeyville, Iowa
 Hino Nacional Brasileiro
 Hinojal
+Hințești, Argeș
 Hip hop
 Hip hop film
 Hip-hop
@@ -119219,6 +119531,7 @@ Ilie de la Sculărie
 Iliiuvți, Veliko Tărnovo
 Iliri
 Iliria
+Ilirios
 Iljo Keisse
 Ilka Štuhec
 Ilkeston
@@ -119721,6 +120034,7 @@ Institutul Național al Patrimoniului
 Institutul Național de Cercetare Dezvoltare pentru Fizică și Inginerie Nucleară „Horia Hulubei”
 Institutul Național de Cercetare-Dezvoltare pentru Electrochimie și Materie Condensată
 Institutul Național de Cercetările Spațiale
+Institutul Național de Geriatrie și Gerontologie „Ana Aslan”
 Institutul Național de Statistică
 Institutul Național de Statistică (Italia)
 Institutul Național de Statistică al Boliviei
@@ -120102,6 +120416,7 @@ Ioana de Austria, Mare Ducesă de Toscana
 Ioana de Austria, Prințesă a Portugaliei
 Ioana de Castilia
 Ioannes
+Ioannis Matzourakis
 Iobag
 Iodopleura pipra
 Iolanda Balaș
@@ -120182,6 +120497,7 @@ Ion N. Petrovici
 Ion N. Socolescu
 Ion Negoițescu
 Ion Nunweiller
+Ion Panțuru
 Ion Pelivan
 Ion Petrovici
 Ion Pillat
@@ -121257,6 +121573,7 @@ Jan Breydel Stadium
 Jan Brożek
 Jan Brzechwa
 Jan Chapman
+Jan Evangelista Purkyně
 Jan Fischer (politician)
 Jan Hus
 Jan Karon
@@ -122130,6 +122447,7 @@ John Guillermin
 John H. Tilelli, Jr.
 John Hamill
 John Hargreaves (actor)
+John Harris
 John Harrison
 John Hay
 John Hellins
@@ -122497,6 +122815,7 @@ Josyane Savigneau
 José Ballivián
 José Ballivián (provincie)
 José Feliciano
+José Ferraz de Almeida Júnior
 José Ferrer
 José Gonçalves de Minas
 José María Aznar
@@ -122666,6 +122985,7 @@ Judit Weér
 Judith Butler
 Judith Durham
 Judith Guest
+Judith Hirsch
 Judith Kerr
 Judith Thurman
 Judith Viorst
@@ -122698,6 +123018,7 @@ Jules Mazarin
 Jules Perahim
 Jules Renard
 Jules Verne
+Jules-Élie Delaunay
 Julia (1977 film)
 Julia (film)
 Julia Alvarez
@@ -122993,6 +123314,7 @@ Kakasd, Tolna
 Kakuei Tanaka
 Kal, Zagorje ob Savi
 Kalaznó, Tolna
+Kaldbaksbotnur
 Kale, Žalec
 Kaleido Stage
 Kaleido Star Mass-media
@@ -123197,6 +123519,7 @@ Kathleen Harrison
 Kathleen Kennedy (film producer)
 Kathleen Quinlan
 Kathleen Ryan
+Kathleen Turner
 Kathrin Zettel
 Kathryn Bigelow
 Kathryn Hulme
@@ -124099,6 +124422,7 @@ La Cage aux Folles
 La Caillère-Saint-Hilaire
 La Caine
 La Cambe
+La Campana
 La Caure
 La Celette
 La Celle, Cher
@@ -125183,6 +125507,7 @@ Lauryn Hill
 Lausanne
 Laussou
 Lautaro Martínez
+Lautenbach, Haut-Rhin
 Lauterbrunnen
 Lautignac
 Lauzerville
@@ -125909,6 +126234,7 @@ Lepus flavigularis
 Lepus hainanus
 Lequio Berria
 Lequio Tanaro
+Lerici
 Lerista ameles
 Lerista haroldi
 Lerista lineata
@@ -126197,6 +126523,7 @@ Lezoux
 Lezéville
 Leșească roșie
 Lherm, Haute-Garonne
+Lhovske (Lhovske), Kirovske
 Lhuître
 Lhéraule
 Lhéry
@@ -126620,6 +126947,7 @@ Limnonectes microtympanum
 Limnonectes namiyei
 Limnonectes nitidus
 Limnophora
+Limnophora majuscula
 Limnophora spreta
 Limonade (Haiti)
 Limone Piemonte
@@ -127103,6 +127431,7 @@ Lista monumentelor istorice din județul Argeș
 Lista monumentelor istorice din județul Buzău
 Lista monumentelor istorice din județul Cluj - C
 Lista monumentelor istorice din județul Dolj
+Lista monumentelor istorice din județul Dâmbovița - B
 Lista monumentelor istorice din județul Iași
 Lista monumentelor istorice din județul Iași - 0–9
 Lista monumentelor istorice din județul Iași - A
@@ -127203,7 +127532,9 @@ Lista piloților campioni de Formula 1
 Lista piloților de Formula 1
 Lista planetelor minore
 Lista planetelor minore care intersectează orbita Pământului
+Lista planetelor minore/123501–123600
 Lista planetelor minore/139401–139500
+Lista planetelor minore/155401–155500
 Lista planetelor minore: 15001-16000
 Lista planetelor minore: 23001-24000
 Lista planetelor minore: 29001-30000
@@ -127246,6 +127577,7 @@ Lista roșie a IUCN
 Lista râurilor din județul Cluj
 Lista sistemelor juridice naționale
 Lista siturilor Natura 2000 în România
+Lista siturilor arheologice din județul Dolj - I
 Lista siturilor arheologice din județul Mureș
 Lista siturilor arheologice din județul Mureș - 0–9
 Lista siturilor arheologice din județul Mureș - A
@@ -127452,6 +127784,7 @@ Listă de biblioteci orășenești din România
 Listă de biblioteci specializate din România
 Listă de biblioteci universitare din România
 Listă de biblioteci școlare din România
+Listă de boli ale plantelor floricole
 Listă de brânzeturi românești
 Listă de băuturi alcoolice românești
 Listă de capitale a statelor SUA
@@ -128135,6 +128468,7 @@ Listă de filme românești
 Listă de filme românești din 1948
 Listă de filme românești din 1974
 Listă de filme românești din 1976
+Listă de filme românești din 1988
 Listă de filme românești din 2016
 Listă de filme rusești
 Listă de filme rusești din 2016
@@ -128239,6 +128573,7 @@ Listă de jocuri dungeon crawl
 Listă de jocuri video
 Listă de jocuri video cu călătorii în timp
 Listă de jocuri video de rol
+Listă de jocuri video de rol din 2010 – 2011
 Listă de jocuri video despre Roma antică
 Listă de lacuri din România
 Listă de legi romane
@@ -128439,6 +128774,7 @@ Listă de plante medicinale
 Listă de poeți: Ț
 Listă de politici după articole de țară
 Listă de porecle ale statelor SUA
+Listă de preoți ruși
 Listă de prim-miniștri ai Ungariei
 Listă de produse din hârtie
 Listă de provincii romane
@@ -129533,6 +129869,7 @@ Louis N. Parker
 Louis Pasteur
 Louis Philippe I, Duce de Orléans
 Louis Philippe al II-lea, Duce de Orléans
+Louis Prima
 Louis Rudolph, Duce de Braunschweig-Lüneburg
 Louis Rudolph, Duce de Brunswick-Lüneburg
 Louis Sachar
@@ -129659,6 +129996,7 @@ Lovitură de stat
 Lovrin, Timiș
 Lovászhetény, Baranya
 Lovászpatona, Veszprém
+Lovén (autor)
 Lowell, Massachusetts
 Lowell, Massachusetts)
 Lowercase
@@ -129951,6 +130289,7 @@ Lunar Roving Vehicle
 Lunax
 Lunay
 Lunca (Bujoreni), Vâlcea
+Lunca (Oniceni), Neamț
 Lunca Buzăului
 Lunca Corbului, Argeș
 Lunca Dunării
@@ -130686,6 +131025,7 @@ Mala (Kryptonian)
 Mala Gora, Kočevje
 Mala Nedelja
 Mala Pirešica
+Mala Smileanka, Smila
 Mala Țărkva, Sofia
 Malacacheta
 Malacanthidae
@@ -131751,6 +132091,7 @@ Maringues
 Marinus
 Marinus din Napole
 Marină
+Mario Almondo
 Mario Bros.
 Mario Cecchi Gori
 Mario Cervi
@@ -131765,6 +132106,7 @@ Marion Benigni
 Marion Cotillard
 Marion Eames
 Marion Jones
+Marion Kracht
 Marion Ravenwood
 Marion Rolland
 Marion Ross
@@ -132380,6 +132722,7 @@ Maxentius
 Maxey-sur-Vaise
 Maxi Rodríguez
 Maxilly-sur-Saône
+Maxilă
 Maxim (revistă)
 Maxim Gorki
 Maxim Gorky
@@ -132692,6 +133035,7 @@ Mel Gibson
 Melagatran
 Melanagromyza
 Melanagromyza bidenticola
+Melanagromyza olgae
 Melanagromyza senecionella
 Melanezia
 Melania Ursu
@@ -132721,6 +133065,7 @@ Melchior Lengyel
 Melchisedec Ștefănescu
 Mele, Gornja Radgona
 Melegnano
+Melese
 Melette
 Melicucco
 Melicuccà
@@ -133018,6 +133363,7 @@ Messier 87
 Messigny-et-Vantoux
 Messina
 Messon
+Mesta
 Mestalla
 Mestalla Stadium
 Mesterháza, Vas
@@ -133174,6 +133520,7 @@ Michael Apted
 Michael Arlen
 Michael Arndt
 Michael Azerrad
+Michael Baldwin
 Michael Barnathan
 Michael Bay
 Michael Beck
@@ -133508,6 +133855,7 @@ Mihail Sebastian
 Mihail Seulescu
 Mihail Starenki
 Mihail Strogoff
+Mihail Vakulovski
 Mihail Vlădescu
 Mihail al II-lea Amorianul
 Mihail al III-lea
@@ -133830,6 +134178,7 @@ Mircea Baniciu (EP)
 Mircea Cancicov
 Mircea Ciobanul
 Mircea Ciumara
+Mircea Cornișteanu
 Mircea Crișan
 Mircea Cărtărescu
 Mircea Daneliuc
@@ -134035,6 +134384,7 @@ Mlekarevo, Sliven
 Mlinše
 Mnemosyne
 Mo Tzu
+Mo Yan
 Mo lei tau
 Mo' Money
 Mo'Nique
@@ -134829,6 +135179,7 @@ Mordecai Richler
 Mordovia
 More American Graffiti
 More Stately Mansions
+More Than One Universe
 More Than Superhuman
 More Than This (roman)
 More than Superhuman
@@ -134952,6 +135303,7 @@ Mosset
 Mosson, Côte-d'Or
 Most pri Bratislave
 Mostar
+Mostî, Horodok
 Mota (disambiguation)
 Mota, Ljutomer
 Motacillidae
@@ -135128,6 +135480,7 @@ Moșnean
 Moșneni
 Moșnița
 Moșnița Nouă, Timiș
+Moșteni-Greci, Argeș
 Moștenitoare prezumptivă
 Moștenitor Aparent al Regatului Unit (Position of the heir apparent of the monarch of the United Kingdom)
 Moștenitor al tronului (person who is first in line of succession and cannot be displaced from inheriting, except by death or a change in the rules of succession)
@@ -136550,6 +136903,7 @@ Nasalis larvatus larvatus
 Nasalis larvatus orientalis
 Nascuntur poetae, fiunt oratores
 Nasdaq Oslo ASA
+Naser Aliji
 Nashorn
 Nashville (film)
 Nashville (sezonul 3)
@@ -137160,6 +137514,7 @@ Neuilly-sous-Clermont
 Neuilly-sur-Suize
 Neuillé
 Neuka
+Neukirchen-Vluyn
 Neulise
 Neung-sur-Beuvron
 Neurochimie
@@ -137492,6 +137847,7 @@ Nicolas Cuche
 Nicolas Durand de Villegagnon
 Nicolas Edet
 Nicolas Henri, Duce de Orléans
+Nicolas Jean-de-Dieu Soult
 Nicolas Kiefer
 Nicolas Mateesco-Matte
 Nicolas Poussin
@@ -137590,6 +137946,7 @@ Nihilism
 Nihon Chinbotsu (1973 film)
 Nihonjinron
 Nii Plange
+Nijnevartovsk
 Nijni Novgorod
 Nijon
 Nike (companie)
@@ -137615,6 +137972,7 @@ Nikolai Glebov
 Nikolai Gogol
 Nikolai Leskov
 Nikolai Mihailovici Prjevalski
+Nikolai Mikluho-Maklai
 Nikolai Rîjkov
 Nikolay Nosov
 Nikolay Smorchkov
@@ -137739,6 +138097,7 @@ Noapte albă
 Noaptea Sfântului Bartolomeu
 Noaptea iguanei
 Noaptea iguanei (film)
+Noaptea poeților asasinați
 Nobilime
 Nobleit
 Noblella lynchi
@@ -137806,6 +138165,8 @@ Noise rock
 Noises Off...
 Noisiel
 Nokia
+Nokia C2-03
+Nokia N810
 Nolan Bushnell
 Nolay, Côte-d'Or
 Nolens,volens
@@ -138753,6 +139114,7 @@ Olive, the Other Reindeer
 Oliveira Fortes
 Oliveira, Minas Gerais
 Oliver & Company
+Oliver Bozanic
 Oliver Cromwell
 Oliver Goldsmith
 Oliver H.P. Garrett
@@ -139178,6 +139540,7 @@ Ordacsehi, Somogy
 Ordiarp
 Ordin (biologie)
 Ordin clasic
+Ordin de mărime
 Ordinary People
 Ordinary Thunderstorms
 Ordine de precedență în Marea Britanie
@@ -139814,6 +140177,7 @@ Over the Hedge (film)
 Over-the-top
 Overboard (1987 film)
 Overboard (2018 film)
+Overlord (film din 2018)
 Overmountain Victory National Historic Trail
 Overnight Delivery
 Ovid S. Crohmălniceanu
@@ -139883,6 +140247,7 @@ Ozora, Tolna
 Ozwiena
 Ozzero
 Očeslavci
+Očkov
 Oľga Textorisová
 Oșorhei, Bihor
 Oțelul Galați
@@ -140478,6 +140843,7 @@ Parc tematic
 Parcare
 Parcines
 Parcova, Edineț
+Parcul Beihai
 Parcul Botanic Timișoara
 Parcul Carol (dezambiguizare)
 Parcul Carol I
@@ -140517,6 +140883,7 @@ Pardies-Piétat
 Pardines, Puy-de-Dôme
 Pardners
 Pardo
+Pardosa pusiola
 Pareid
 Parent, Puy-de-Dôme
 Parental Guidance (film)
@@ -142338,6 +142705,7 @@ Piney, Aube
 Ping Pong Summer
 Ping-pong
 Pingo-d'Água
+Pinguicula benedicta
 Pinguin
 Pinheiro, Maranhão
 Pininfarina
@@ -142566,6 +142934,7 @@ Planes, Trains & Automobiles
 Planes: Fire & Rescue
 Planet 51
 PlanetAll
+Planeta Maimuțelor: Revoluție
 Planeta Mercur
 Planeta Moldova
 Planeta Umbrelelor Albastre
@@ -143871,6 +144240,7 @@ Premiul Saturn pentru cel mai bun machiaj
 Premiul Saturn pentru cel mai bun regizor
 Premiul Saturn pentru cele mai bune efecte speciale
 Premiul Societății Naționale a Criticilor de Film pentru cel mai bun regizor
+Premiul Societății criticilor de film din San Diego pentru cel mai bun actor
 Premiul publicului pentru cel mai bun actor (Academia Europeană de Film)
 Premières
 Premnoplex pariae
@@ -144146,6 +144516,7 @@ Principii de contabilitate general acceptate
 Principiile contabilității de management
 Principiu
 Principiul auto-consistenței al lui Novikov
+Principiul de excluziune
 Principiul de potrivire
 Principiul lui Dirichlet
 Prinde-mă! Dacă poți!
@@ -144810,10 +145181,12 @@ Provincia Florența
 Provincia Foggia
 Provincia Georgia
 Provincia Ghur
+Provincia Gilan
 Provincia Girona
 Provincia Isernia
 Provincia Iudeea
 Provincia Lima
+Provincia Lunda Sul
 Provincia Mantova
 Provincia Maryland
 Provincia Massachusetts Bay
@@ -145094,6 +145467,7 @@ Ptilinopus huttoni
 Ptilinopus roseicapilla
 Ptolemeu
 Ptolemeu I Soter
+Ptolemeu Philadelphus (Cleopatra)
 Ptolemeu XIII al Egiptului
 Ptolemeu al II-lea Philadelphus
 Ptolemeu al XV-lea
@@ -145295,6 +145669,7 @@ Pygomeles petteri
 Pygopodidae
 Pyhäselkä
 Pyotr Shcherbakov
+Pyramid Song
 Pyrenaearia organiaca
 Pyrgohydrobia prespaensis
 Pyrgulopsis aloba
@@ -145702,6 +146077,7 @@ Radicalism cultural
 Radinovo, Plovdiv
 Radio
 Radio 21
+Radio Chișinău
 Radio City Revels
 Radio Cluj
 Radio Contact
@@ -146719,6 +147095,7 @@ Religia în Evul Mediu
 Religia în Roma antică
 Religia în România
 Religie
+Religii taoice
 Reload
 Reloc Craiova
 Relovo, Sofia
@@ -148203,6 +148580,7 @@ Ron Leibman
 Ron Roy
 Ron Stallworth
 Ron Troupe
+Rona, Sălaj
 Ronald Blythe
 Ronald Coase
 Ronald Colman
@@ -148700,13 +149078,16 @@ Râul Blahnița, Gilort
 Râul Bonțu Mare
 Râul Botna
 Râul Brenta
+Râul Brătioara
 Râul Buzău
 Râul Bârsa, Olt
 Râul Bănița
+Râul Cayster
 Râul Cerna, Dunăre
 Râul Cotmeana
 Râul Cremenița
 Râul Crivadia
+Râul Căldărești, Slănic
 Râul Delaware
 Râul Drava
 Râul Dâlja
@@ -148754,6 +149135,7 @@ Râul Pianu
 Râul Poienii, Rod
 Râul Prahova
 Râul Prut
+Râul Putina, Râușor
 Râul Putna
 Râul Ron
 Râul Rudăria
@@ -148780,9 +149162,11 @@ Râul Tisa
 Râul Torne
 Râul Trotuș
 Râul Ural
+Râul Valea Poienii, Valea Șturului
 Râul Valea Rea, Lechincioara
 Râul Vedea
 Râul Váh
+Râul Zănescu
 Râul Țibleș, Someșul Mare (Zagra)
 Râurile României
 Râșnov
@@ -149310,6 +149694,7 @@ Saint-Babel
 Saint-Baldoph
 Saint-Bardoux
 Saint-Barnabé
+Saint-Barthélemy, Morbihan
 Saint-Barthélemy-Grozon
 Saint-Barthélemy-Lestra
 Saint-Barthélemy-d'Agenais
@@ -149697,6 +150082,7 @@ Saint-Joseph, Loire
 Saint-Joseph-des-Bancs
 Saint-Jouan-de-l'Isle
 Saint-Jouin
+Saint-Jouvent
 Saint-Judoce
 Saint-Juire-Champgillon
 Saint-Julia
@@ -149873,6 +150259,7 @@ Saint-Martin-d'Arc
 Saint-Martin-d'Arcé
 Saint-Martin-d'Ardèche
 Saint-Martin-d'Arrossa
+Saint-Martin-d'Ary
 Saint-Martin-d'Auxigny
 Saint-Martin-d'Estréaux
 Saint-Martin-d'Ollières
@@ -150347,6 +150734,7 @@ Sainte-Croix-Grand-Tonne
 Sainte-Croix-du-Verdon
 Sainte-Croix-en-Jarez
 Sainte-Croix-sur-Mer
+Sainte-Croix-sur-Orne
 Sainte-Croix-à-Lauze
 Sainte-Cécile, Indre
 Sainte-Cécile, Vendée
@@ -150469,6 +150857,7 @@ Saletto
 Salettuol
 Salezienii lui Don Bosco
 Salföld, Veszprém
+Salgado (autor)
 Salgareda
 Salgueiro Maia
 Salgótarján
@@ -150536,6 +150925,7 @@ Salt Lake City
 Salt Lake City metropolitan area
 Salt Lake City, Utah
 Salt-en-Donzy
+Salterra
 Salticidae
 Salto da Divisa
 Saltrio
@@ -150726,6 +151116,7 @@ San Giorgio di Nogaro
 San Giorgio in Bosco
 San Giorgio su Legnano
 San Giovanni Rotondo
+San Giovanni Suergiu
 San Giovanni al Natisone
 San Giovanni del Dosso
 San Giovanni di Gerace
@@ -151942,6 +152333,7 @@ Senhora dos Remédios
 Senior de Biscaya (Nobiliary title linked to the Crown of Castile and the Spanish royal house from 1369)
 Senior de Molina (Nobility title of Spain)
 Seniori și doamne
+Senioria Overijssel
 Senioria Utrecht
 Senkevîcivka
 Senlis, Oise
@@ -151997,6 +152389,7 @@ Serbia
 Serbia și Muntenegru
 Serbian Patriarch Dimitrije
 Serdinya
+Sereca, Hunedoara
 Serena Williams
 Serenic
 Serenity (film)
@@ -152208,6 +152601,7 @@ Serro
 Serruelles
 Sersale
 Serse Cosmi
+Serval, Aisne
 Servant, Puy-de-Dôme
 Server web
 Serves-sur-Rhône
@@ -153239,6 +153633,7 @@ Skorobahatkî, Lohvîțea
 Skrzak
 Skulduggery Pleasant
 Skutare, Plovdiv
+Skvîra
 Sky Captain and the World of Tomorrow
 Sky High (2005 film)
 Sky Sports
@@ -153443,6 +153838,7 @@ Sofia
 Sofia Coppola
 Sofia Cosma
 Sofia Frederica de Mecklenburg-Schwerin
+Sofia Ionescu-Ogrezeanu
 Sofia Kovalevskaya
 Sofia a Suediei (1547–1611)
 Sofia de Pomerania
@@ -154181,6 +154577,7 @@ St. Moritz
 St. Peter, Minnesota
 St. Vincent (film)
 Staatliche Antikensammlungen
+Staatliche Kunstgewerbeschule Krakau
 Stabilizator
 Stabiuzzo
 Stacey Sher
@@ -154247,6 +154644,7 @@ Stadionul Olimpic din Torino
 Stadionul Orășenesc Cluj
 Stadionul Stal
 Stadionul Steaua
+Stadionul Steaua (1974)
 Stadionul Tineretului
 Stadionul Tudor Vladimirescu
 Stadionul Victoria Someșeni
@@ -155126,6 +155524,7 @@ Strâmtoarea Siciliei
 Strâmtoarea Torres
 Strømsgodset IF
 Strămutarea germanilor după al Doilea Război Mondial
+Stu Cook
 Stuart Benjamin
 Stuart Cooper
 Stuart Craig
@@ -155289,6 +155688,7 @@ Succineidae
 Suceagu, Cluj
 Suceava
 Sucevița, Suceava
+Suchomimus
 Sucidava
 Sucre
 Sucre (stat)
@@ -155389,6 +155789,7 @@ Suncus zeylanicus
 Sundamys maxi
 Sundathelphusa sottoae
 Sunday Dinner for a Solider
+Sunday Express
 Sundays and Cybele
 Sunet
 Sunet stereofonic
@@ -155560,6 +155961,7 @@ Surrey
 Surry County, North Carolina
 Sursum corda
 Sursă de lumină în proiecția cinematografică
+Suruceanu
 Surville, Calvados
 Survival Guide
 Survival film
@@ -155689,6 +156091,7 @@ Swiss Family Robinson (1960 film)
 Swiss Football Association
 Swiss Indoors
 Swiss Re
+Switch de rețea
 Switched at Birth
 Switchers - trilogie
 Switching Channels
@@ -155793,6 +156196,7 @@ Szakály, Tolna
 Szalafő, Vas
 Szalatnak, Baranya
 Szalánta, Baranya
+Szanda Antal-Vincze
 Szaporca, Baranya
 Szarvaskend, Vas
 Szarvaskő
@@ -155889,6 +156293,7 @@ Sándor Dallos
 Sándor Fodor
 Sándor Hunyady
 Sándor Kisfaludy
+Sándor Kocsis
 Sándor Kányádi
 Sándor Makkai
 Sándor Márai
@@ -160324,6 +160729,7 @@ Torteval-Quesnay
 Tortisambert
 Tortora
 Tortorici
+Tortura albă
 Tortură
 Toruń
 Torvaj, Somogy
@@ -161061,6 +161467,7 @@ Trăsnăi rock'n roll
 Trăstenik
 Tsai Ing-wen
 Tsaouni
+Tsarafidynia
 Tsernaoua
 Tsierna
 Tsingymantis antitra
@@ -161352,6 +161759,7 @@ Two in Black Belt
 Two-Faced Woman
 Tycho Brahe
 Tye Sheridan
+Tyler James
 Tylochromis microdon
 Tylorida mornensis
 Tylototriton hainanensis
@@ -162127,6 +162535,7 @@ Unu (revistă)
 Unum castigabis, centum emendabis
 Unus pro omnibus, omnes pro uno
 Unverre
+Unzen (vulcan)
 Up (2009 film)
 Up a Road Slowly
 Up and Down the Scratchy Mountains
@@ -162142,6 +162551,7 @@ Uperodon mormorata
 Uperodon palmatus
 Upgrade (Zona crepusculară)
 Upload (serial TV)
+Upper Demerara-Berbice
 Upper Marlboro, Maryland
 Uppland
 Uppsala
@@ -162619,6 +163029,7 @@ Valbeleix
 Valbelle
 Valbois
 Valcabrère
+Valcani, Timiș
 Valcebollère
 Valcivières
 Valcourt, Haute-Marne
@@ -162695,7 +163106,9 @@ Valentin Adrian Iliescu
 Valentin Al. Georgescu
 Valentin Ceaușescu
 Valentin Coposu
+Valentin Popa (profesor)
 Valentin Stănescu
+Valentin-Rică Cioromelea
 Valentina Cortese
 Valentina Rusu-Ciobanu
 Valentina Sandu-Dediu
@@ -163392,6 +163805,7 @@ Viața lui Galileo
 Viața lui Émile Zola (film)
 Viața românească
 Viața și epoca judecătorului Roy Bean
+Viața, universul și tot restul
 Viață
 Viață de câine (film din 1918)
 Viață de stafie
@@ -163531,6 +163945,7 @@ Vienna, Maryland
 Vienne-en-Bessin
 Vienne-la-Ville
 Vienne-le-Château
+Vieremä
 Vierme
 Vierme parazit
 Vierville (Eure y Loir)
@@ -164003,6 +164418,7 @@ Virgil Madgearu
 Virgil Misidjan
 Virgil Petrescu
 Virgil Pîrvu
+Virgil Tale
 Virgil Teodorescu
 Virgil Tănase
 Virgil Williams
@@ -165870,6 +166286,7 @@ Zero Branco
 Zero Cool
 Zero Dark Thirty
 ZeroVM
+Zerynthia
 Zestre
 Zeugma (Dacia)
 Zeuneriana amplipennis
@@ -165980,6 +166397,7 @@ Zombie Infectors 3 (film din 2007)
 Zombie film
 Zombieland 2
 Zombieland: Rundă dublă
+Zona Antarctică Neozeelandeză
 Zona Economică Europeană
 Zona Euro
 Zona Metropolitană Helsinki
@@ -166014,6 +166432,7 @@ Zona euro
 Zona hadală
 Zona hadopelagică
 Zona litorală
+Zona maritimă a Dobrogei de sud
 Zona mediteraneană
 Zona mesopelagică
 Zona metropolitană Bacău
@@ -166350,6 +166769,7 @@ video jocul
 Împărați ai Sfântului Imperiu Roman
 Împărăteasa Matilda
 Împărăția furnicilor
+Împărțirea Imperiului Otoman
 Împărțirea administrativă a Angliei
 Împărțirea administrativă a Republicii Populare Chineze
 Împărțirea administrativă a Rusiei

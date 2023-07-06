@@ -1,5 +1,5 @@
 revision: 1129725
-title: "An P\xE1irt\xED Liobr\xE1lach"
+title: "P\xE1irt\xED Liobr\xE1lach (R\xEDocht Aontaithe)"
 url: https://ga.wikipedia.org/wiki/P%C3%A1irt%C3%AD_Liobr%C3%A1lach_(R%C3%ADocht_Aontaithe)
 
 

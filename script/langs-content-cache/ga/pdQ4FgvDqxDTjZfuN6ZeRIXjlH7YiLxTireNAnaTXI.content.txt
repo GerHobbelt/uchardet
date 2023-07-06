@@ -1,5 +1,5 @@
 revision: 1090825
-title: 783 (uimhir)
+title: 772 (uimhir)
 url: https://ga.wikipedia.org/wiki/700_(uimhir)
 
 

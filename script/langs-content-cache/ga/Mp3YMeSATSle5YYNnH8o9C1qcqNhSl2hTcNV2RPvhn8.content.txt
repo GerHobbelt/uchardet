@@ -1,5 +1,5 @@
 revision: 1168641
-title: Eoin Shasana
+title: "Ali\xE9nor de Bretagne"
 url: https://ga.wikipedia.org/wiki/Eoin_Shasana
 
 

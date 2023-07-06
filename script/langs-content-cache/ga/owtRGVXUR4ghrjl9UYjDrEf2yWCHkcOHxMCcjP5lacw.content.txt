@@ -1,5 +1,5 @@
 revision: 1063399
-title: Karl Liebknecht
+title: Freikorps
 url: https://ga.wikipedia.org/wiki/Rosa_Luxemburg
 
 

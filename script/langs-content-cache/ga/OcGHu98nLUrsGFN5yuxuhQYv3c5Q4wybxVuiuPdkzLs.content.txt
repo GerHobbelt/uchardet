@@ -1,5 +1,5 @@
 revision: 1053845
-title: "U\xED Dhiarmada"
+title: "U\xED D\xEDarmata"
 url: https://ga.wikipedia.org/wiki/U%C3%AD_Dhiarmada
 
 

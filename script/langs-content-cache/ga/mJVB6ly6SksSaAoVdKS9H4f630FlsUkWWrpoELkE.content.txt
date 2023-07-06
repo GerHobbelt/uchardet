@@ -1,5 +1,5 @@
 revision: 1141424
-title: Blue Ridge Mountains
+title: Blue Mountains
 url: https://ga.wikipedia.org/wiki/Lynchburg_(Virginia)
 
 

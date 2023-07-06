@@ -1,5 +1,5 @@
 revision: 1125378
-title: "Pinocchio (scann\xE1n 1940)"
+title: Mel Blanc
 url: https://ga.wikipedia.org/wiki/Pinocchio_(scann%C3%A1n_1940)
 
 

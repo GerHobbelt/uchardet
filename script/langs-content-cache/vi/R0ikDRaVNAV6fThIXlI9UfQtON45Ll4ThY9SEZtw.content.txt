@@ -1,5 +1,6 @@
 revision: 70389087
-title: "Hoa K\u1EF3"
+title: "Trung t\xE2m Th\xF4ng tin C\xF4ng ngh\u1EC7 sinh h\u1ECDc Qu\u1ED1c gia (Hoa\
+  \ K\u1EF3)"
 url: https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3
 
 

@@ -1,5 +1,5 @@
 revision: 1166236
-title: "Corr leitheadach Eor\xE1iseach"
+title: Platalea leucorodia
 url: https://ga.wikipedia.org/wiki/Corr_leitheadach_Eor%C3%A1iseach
 
 

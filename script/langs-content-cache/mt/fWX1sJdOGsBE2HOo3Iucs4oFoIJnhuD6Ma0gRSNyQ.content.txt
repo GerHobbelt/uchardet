@@ -1,5 +1,5 @@
 revision: 281569
-title: "Grasshopper Club Z\xFCrich"
+title: "Grasshopper-Club Z\xFCrich"
 url: https://mt.wikipedia.org/wiki/Roland_Linz
 
 

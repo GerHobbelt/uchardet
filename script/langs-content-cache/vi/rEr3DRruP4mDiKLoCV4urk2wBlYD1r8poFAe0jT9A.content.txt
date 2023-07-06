@@ -1,5 +1,5 @@
-revision: 69587344
-title: Syria
+revision: 70407568
+title: Baqashot
 url: https://vi.wikipedia.org/wiki/Syria
 
 

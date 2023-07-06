@@ -1,5 +1,5 @@
 revision: 1138010
-title: Mary Spring Rice
+title: "Tabhairt i dt\xEDr na ngunna\xED i mBinn \xC9adair"
 url: https://ga.wikipedia.org/wiki/Tabhairt_i_dt%C3%ADr_na_ngunna%C3%AD_i_mBinn_%C3%89adair
 
 

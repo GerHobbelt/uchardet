@@ -1,5 +1,5 @@
 revision: 281971
-title: UEFA Europa League 2008-09
+title: UEFA Cup 1995-96
 url: https://mt.wikipedia.org/wiki/UEFA_Europa_League
 
 

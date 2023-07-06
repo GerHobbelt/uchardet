@@ -1,5 +1,5 @@
 revision: 1120597
-title: Leuven
+title: "Lov\xE1in"
 url: https://ga.wikipedia.org/wiki/Lov%C3%A1in
 
 

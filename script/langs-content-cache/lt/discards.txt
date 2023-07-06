@@ -26,6 +26,8 @@
 2011 m. spalio 20 d.
 2013 m. pasaulio rogučių sporto čempionatas
 306 m.
+37 m.
+38 m.
 427 m.
 622 m.
 794 m.
@@ -44,6 +46,7 @@ Alex Proyas
 Alfonsas Armalas
 Algirdas Jurkauskas
 Algis Gaižutis
+Alogeninė kamieninių kraujo ląstelių transplantacija
 Alsa
 Amūras (upė)
 An
@@ -88,6 +91,7 @@ Benino civilizacija
 Betijos Kordiljera
 Betmenas: pradžia
 Billy Chinook
+Bilungai
 Biruta Alšauskienė
 Boružės
 Borysas Liatošynskis
@@ -142,14 +146,18 @@ Didžiosios Lenkijos vaivadijos Sremo apskrityje
 Dienraštis
 Dilogija
 Diodas
+Dirkas
 Divine Brown
 Donte DiVincenzo
 Dragonball Evolution (video žaidimas)
 Drakonas
 Drakonas (reikšmės)
 Drakono kalnai
+Dramblio Kaulo Kranto administracinis suskirstymas
 Draudimo bendrovė
+Drepanidae
 Drėgnieji tropiniai miškai
+Drėkiklis
 Džoginso uolos
 Džordžtaunas (reikšmės)
 Eastern Sports Club
@@ -203,6 +211,8 @@ Gran Prė
 Grand Theft Auto: Vice City Stories muzika
 Gražina Šaltenytė Svilienė
 Grenlandijos nordinė kalba
+Grigalius Kazimieras Padberieskis
+Grinka Chodka Valavičius
 Gruveris Klyvlendas
 Gugalana
 Guilherme Giovannoni
@@ -230,6 +240,7 @@ Inquisivi Province
 Interneto bendrovių burbulas
 Irène Jacob
 Ispanijos geografija
+Istoriniai lietuvių drabužiai
 Italijos Rytų Afrika
 Iver Grunnet
 Išdagai (reikšmės)
@@ -294,6 +305,7 @@ Kinų virtuvė
 Kižys
 Klaipėdos rajone
 Klarelvenas
+Klemensas Balčiūnas
 Klintys
 Kombinuota malono ir metilmalono acidurija
 Komunaras
@@ -318,6 +330,7 @@ Kėdainių Nevėžis
 Kęstutis Arlauskas (fizikas)
 Kžyve Augustovskie ežeras
 LDK ginklininkas
+LKL žvaigždžių diena (2010)
 LPO Ris
 Laikymo trukmė
 Laimutė Leskauskienė
@@ -338,6 +351,7 @@ Libijos Arabų Respublika (1969–1977)
 Liepos 12
 Lietuvių katalikų blaivybės draugija
 Lietuvos SSR istorija
+Lietuvos futbolas 2006 m.
 Lietuvos komunistai
 Lietuvos komunistas
 Lietuvos vaikinų iki 19 m. salės futbolo rinktinė
@@ -358,9 +372,11 @@ Map of the Soul: Persona
 Marcinkus
 Marco Orsi
 Marie Louise of Bourbon-Parma
+Marijampolės Sūduva
 Marijampolės rajono savivaldybė
 Marijan Buinickas
 Markus Deibler
+Marlen Haushofer
 Matas Giedraitis
 Matematinė fizika
 Matthias Jakob Schleiden
@@ -415,6 +431,7 @@ Optinis ženklų atpažinimas
 Oscar Luigi Scalfaro
 Padubysys (reikšmės)
 Paduodupė
+Paliepių apylinkė
 Pamario Kujavijos vaivadijos Brodnicos apskrityje
 Pamyras (upė)
 Panajus
@@ -431,10 +448,12 @@ Peptidoglikanas
 Pernu vaivadija
 Persėjas
 Peru vicekaralystė
+Pečiuliai (Kazlų Rūda)
 Pieter 't Hoen
 Pikeliai (reikšmės)
 Pilsotas
 Pinsko apskritis (1919–1939)
+Piotras Šelestas
 Pithecops
 Planko konstanta
 Plant
@@ -466,21 +485,26 @@ Puslaidininkis diodas
 Pžestželė (reikšmės)
 RK4011
 Race Street station (Cincinnati Subway)
+Radleris
 Radviliškio rajone
 Rafael Trujillo
 Raffaella Carrà
 Ralfas Bajeris
 Rasa Drazdauskienė
+Rasa'il ichwan as-safa' wa chillan al-wafa
+Raudiškė (reikšmės)
 Raymond Chandler
 Razina
 Razor, Texas
 Rašytojas
 Regimanta Stankevičienė
 Regina Kernagienė
+Regresas
 Reichsministras
 Reikšmė
 Remigijus Jonušas
 Respublika
+Revda (reikšmės)
 Rezidencinė pilis
 Richard Thomson (politician)
 Richards
@@ -526,6 +550,7 @@ Smėlis
 Sokulkos apskrityje
 Spektrometras
 Sprogmuo
+Stanislovas Kostka Čartoriskis
 Stanislovas Šafraniecas
 Stasys Patkauskas
 Steffen Deibler
@@ -537,6 +562,7 @@ Stirbaičiai
 Stirbaičių apylinkė
 Stolpcų apskrityje
 Storė
+Straubliuotieji kuskusai
 Streptococcus
 Submarine
 Sumeria
@@ -550,6 +576,7 @@ Tamošiūnas
 Tarptautinis doleris
 Tarpukaris
 Teisėtyrininkas
+Terespolis (reikšmės)
 The Brown Bunny (garso takelis)
 The Fame Monster
 The Hendrix Set
@@ -558,6 +585,7 @@ Thierry Tulasne
 Tiebiri Godswill
 Tiiu Kera
 Tikocinas
+Titano baltasis
 Tomas Dzialinskis
 Tonacija
 Tower Records
@@ -587,6 +615,7 @@ Vaiginis
 Vaikių Laukas
 Vakarų Europos laikas
 Vakuumas
+Valai (Ganos etninė grupė)
 Vancevičius
 Vanjarai
 Varuna
@@ -670,27 +699,3 @@ skraidantysis drakonas
 Žušou
 Žymiklis
 ↑
-
-37 m.
-
-Bilungai
-
-Valai (Ganos etninė grupė)
-
-Grigalius Kazimieras Padberieskis
-
-Rasa'il ichwan as-safa' wa chillan al-wafa
-
-Alogeninė kamieninių kraujo ląstelių transplantacija
-
-38 m.
-
-Revda (reikšmės)
-
-Pečiuliai (Kazlų Rūda)
-
-Drepanidae
-
-Stanislovas Kostka Čartoriskis
-
-Drėkiklis

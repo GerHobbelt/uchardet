@@ -1,5 +1,5 @@
 revision: 1170630
-title: New Scientist
+title: GRB 080319B
 url: https://ga.wikipedia.org/wiki/Aml%C3%ADne_logartamach_mionsonraithe
 
 

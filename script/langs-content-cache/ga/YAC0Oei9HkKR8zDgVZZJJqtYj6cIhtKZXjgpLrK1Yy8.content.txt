@@ -1,5 +1,5 @@
 revision: 1063253
-title: Hong Cong
+title: ISO 3166-2:HK
 url: https://ga.wikipedia.org/wiki/Hong_Cong
 
 

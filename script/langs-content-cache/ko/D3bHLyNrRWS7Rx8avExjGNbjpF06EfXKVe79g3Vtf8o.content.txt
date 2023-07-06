@@ -1,5 +1,5 @@
 revision: 32208009
-title: "\uC2AC\uB808\uC774\uD2B8 \uD3F0"
+title: BlackBerry Q10
 url: https://ko.wikipedia.org/wiki/%ED%9C%B4%EB%8C%80_%EC%A0%84%ED%99%94_%ED%8F%BC_%ED%8C%A9%ED%84%B0
 
 

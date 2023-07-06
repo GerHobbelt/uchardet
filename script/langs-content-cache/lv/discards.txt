@@ -144,6 +144,7 @@ Automātika
 Avia
 Azerbaidžāna 2000. gada vasaras olimpiskajās spēlēs
 BRITE-Toronto
+BS
 Baba Yaga
 Babes on Broadway
 Bahreina 1988. gada vasaras olimpiskajās spēlēs
@@ -530,6 +531,7 @@ Oliveira
 Olympiad
 Omāna 2000. gada vasaras olimpiskajās spēlēs
 Omāna 2004. gada vasaras olimpiskajās spēlēs
+Opera (nozīmju atdalīšana)
 Origo
 Ormer Locklear
 Osmaņu impērijas tērpi
@@ -643,6 +645,7 @@ Somija 1964. gada vasaras olimpiskajās spēlēs
 Somija 2004. gada vasaras olimpiskajās spēlēs
 SpaceBEE
 Sparganothina flava
+Spilves
 Spinnaker-3
 Split-pi topology
 Spānija 1960. gada vasaras olimpiskajās spēlēs
@@ -650,6 +653,7 @@ Spānija 1968. gada vasaras olimpiskajās spēlēs
 Spānija 2012. gada vasaras olimpiskajās spēlēs
 Spānija 2018. gada ziemas olimpiskajās spēlēs
 Staciāna Stitsa
+Starptautiskā hokeja līga (1992—1996)
 Stefans III (pāvests)
 Stefans Mbija
 Stibrais
@@ -721,6 +725,7 @@ Valērijs Frīds
 Vanagiški
 Veery Hatchling
 Veidotājaudi
+Veids
 Veldze (nozīmju atdalīšana)
 Vereja
 Vergi
@@ -797,13 +802,3 @@ dabiskā vide
 Žanna d'Arka (1948. gada filma)
 Žemaišu valoda
 Žilbērs Duklo-Lasalls
-
-Veids
-
-Opera (nozīmju atdalīšana)
-
-Spilves
-
-Starptautiskā hokeja līga (1992—1996)
-
-BS

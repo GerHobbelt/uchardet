@@ -1,5 +1,5 @@
 revision: 1169492
-title: "R\xEDocht Aontaithe"
+title: "R\xEDochta Aontaithe"
 url: https://ga.wikipedia.org/wiki/R%C3%ADocht_Aontaithe_na_Breataine_M%C3%B3ire_agus_Thuaisceart_%C3%89ireann
 
 

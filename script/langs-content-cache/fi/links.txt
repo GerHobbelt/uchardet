@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Vallaton Waltari
-Humphry Davy
-Marutei Tsurunen
-Salaperäinen Intia
-Mikko Lallukka
-Saint-Flour (Cantal)
-Johan Josef Stenbäck
-Saksalainen viittomakieli
-Stomp 442
-Cay Sevón
-Avanne
-Leonardo Bertagnolli
-Dominic Lavoie
-Tesla Semi
-Melodifestivalen 2017
-Mäkilampi (Saarijärvi, Kukko)
-Västerbottenin museo
-Ala (Rooman armeija)
-Risto Kangas-Ikkala
-Uudenmaan rakuunarykmentti
-Darüşşafaka SK
-Pong
-Pensassiepot
-Andreas Küttel
-Heinz Schilchegger
-Kesäillan valssi (täsmennyssivu)
-Olli Reikko
-The Sceptre of Deception
-Eva-Maria Brem
-Vitsataipale
+Fujisakin metroasema
+Bikram Choudhury
+Tadžikistanin autonominen sosialistinen neuvostotasavalta
+Sorsogon
+Uri
+Isojamssi
+Turun sähkölaitoksen räjähdys 1920
+1710
+Havaintopsykologia
+Penttilä
+Álvaro Fernández
+Dresden
+Annelies Verbeke
+La Truite
+Turkin vallankaappaus 1980
+Matonkudonta
+Atrain
+Robert Schälzky
+Livewire
+1107
+Mestarien liigan kausi 2011–2012
+Oili Komonen
+The True Human Design
+Hindustaninpöllö
+Cornelia Gröschel
+PSA PF3 -pohjalevy
+Mandanit
+Voicey-gaala 2009
+Hondurasin historia
+Maailmanperintöluettelo
 !!! (albumi)
 "Millionaire" (Beady Eyen kappale)
 "Millionaire" (kappale)
@@ -1380,6 +1380,7 @@ Absorptio (sähkömagneettinen säteily)
 Abstract Concepts
 Abstract: The Art of Design
 Abstrakti algebra
+Abstrakti tietotyyppi
 Abu Bakr Salem Belfkih
 Abu Dhabi
 Abu Dhabi Amiri Flight
@@ -2593,6 +2594,7 @@ Aimo-koulu
 Aina Niska
 Aina eka kerta
 Aina nälkä – Veljien 20 pahinta hittiä
+Aina sun luonas
 Aina vierelläsi
 Ainbo - Amazonin sademetsän rohkein tyttö
 Aineenvaihdunta
@@ -3341,6 +3343,7 @@ Al-Qadarif (osavaltio)
 Al-Qaida
 Al-Rayyan SC
 Al-Sha'ab
+Ala (Rooman armeija)
 Ala di Stura
 Ala-Aitolampi
 Ala-Aittaroinen
@@ -5417,6 +5420,7 @@ Andreas Brehme
 Andreas Granqvist
 Andreas Karlsson
 Andreas Köpke
+Andreas Küttel
 Andreas Molterer
 Andreas Möller
 Andreas Nischwitz
@@ -5530,6 +5534,7 @@ Android
 Android 2
 Android Assault: The Revenge of Bari-Arm
 Android Things
+Andromakhos vanhempi
 Andromeda Software
 Andromedan galaksi
 Andry Laffita
@@ -5747,6 +5752,7 @@ Anita Pajunen
 Anita Pallenberg
 Anita Puumalainen
 Anita Snellman
+Anitra Steen
 Anitta Niemi
 Aniva
 Anja Haglund
@@ -6949,6 +6955,7 @@ Arto Tolsa
 Arto Tuunela
 Arto Virtanen
 Arts and crafts
+Artsakh FC
 Artsakhin puolustusarmeija
 Artsakhin tasavalta
 Arttu (piirrossarja)
@@ -7194,6 +7201,7 @@ Assassin's Creed IV: Black Flag
 Assassin's Creed Valhalla
 Assassin's Creed: Brotherhood
 Assassin's Creed: Revelations
+Assassination Games
 Assassin’s Creed (pelisarja)
 Assault Course (video game)
 Assault Suits Valken
@@ -7347,6 +7355,7 @@ Astrahanin tataarit
 Astrakhan Airlines
 Astral Aviation
 Astralwerks
+Astravets
 Astravia-Bissau Air Transports Ltd.
 Astrid Jacobsen
 Astrid Kirchherr
@@ -7397,6 +7406,7 @@ Asymptoottihaara
 Asynkronisesti
 At Any Price
 At the Pulse of Kapitulation
+Atago (1930)
 Atagün Yalçinkaya
 Atair Pty Ltd.
 Atajate
@@ -7886,6 +7896,7 @@ Avalanche: The Struggle for Italy
 Avalon The 3D Adventure Movie
 Avalonin luodit
 Avangard Omsk
+Avanne
 Avant garde metal
 Avant-garde metal
 Avantair
@@ -8083,6 +8094,7 @@ Axel Lillie
 Axel Nilsson Posse
 Axel Ottosson
 Axel Oxenstierna
+Axel Oxenstiernan palatsi
 Axel Rent, S.A.
 Axel Wachtmeister
 Axis Airways
@@ -9065,6 +9077,7 @@ Bay-luokka (fregatti)
 Bayer 04 Leverkusen
 Bayer Leverkusen
 Bayfordin rautatieasema
+Bayi Rockets
 Baylis–Hillman-reaktio
 Baynardsin rautatieasema
 Bayon
@@ -9310,6 +9323,7 @@ Belgradin Punainen tähti
 Belgradin piiritys (1717)
 Belin Software
 Belisama
+Belitung
 Belize
 Belize kesäolympialaisissa 2008
 Belize kesäolympialaisissa 2012
@@ -9486,6 +9500,7 @@ Benjamin Roy Mottelson
 Benjamin Segura
 Benjamin Whitrow
 Benji-hyppy
+Benningtonin piirikunta
 Benno Wiss
 Benny & Joon
 Benny Andersson
@@ -9665,6 +9680,7 @@ Bertram Hutchinson Smyth
 BertramGoodhue
 Bertrand Goldberg
 Bertrand Russell
+Bertrand Russellin haaste
 Bertta
 Berwick-upon-Tweedin rautatieasema
 Berwickin rautatieasema
@@ -10156,6 +10172,7 @@ Black Gold (1983)
 Black Gold (1992)
 Black Gold (video game)
 Black Hawk (video game)
+Black Ice (kappale)
 Black Ingvars
 Black Isle Studios
 Black Knight Software
@@ -10575,6 +10592,7 @@ Bodo Illgner
 Bodorganin rautatieasema
 Body Language
 Body Language Live
+Bodyslam
 Boeing
 Boeing 247
 Boeing 707
@@ -10910,6 +10928,7 @@ Boulder Dash II: Rockford's Revenge
 Boulder Dash III
 Boulder Dash series
 Boulens
+Boulevard Haussmann
 Boulos Nassif Borkhoche
 Bounces
 Bounder (video game)
@@ -11132,6 +11151,7 @@ Breakthru (video game)
 Breamoren rautatieasema
 Breath of Fire: Dragon Quarter
 Brecker Brothers
+Breda Ba.65
 Bredburyn rautatieasema
 Bredonin rautatieasema
 Bredäng
@@ -11997,6 +12017,7 @@ Butyraatti
 Buurisodat
 Buurisota
 Buurit
+Buusteri
 Buxtedin rautatieasema
 Buxtonin rautatieasema
 Buy on board
@@ -12601,6 +12622,7 @@ Cara Jade Myers
 Caradog Falls Haltin rautatieasema
 Caraga
 Carapelle Calvisio
+Caravan (albumi)
 Caravan Air
 Caravellix
 Caravino
@@ -12727,6 +12749,7 @@ Carl Voss
 Carl Walz
 Carl Wetzel
 Carl Wieman
+Carl Wilhelm von Sydow
 Carl Wilson
 Carl von Linné
 Carl von Ossietzky
@@ -13082,6 +13105,7 @@ Cauldron (video game)
 Cauldron HQ
 Cauldron II: The Pumpkin Strikes Back
 Causapscal
+Cause célèbre
 Cause for Conflict
 Causelandin rautatieasema
 Cava de’ Tirreni
@@ -13108,6 +13132,7 @@ Cavia, inc.
 Cavite
 Cavour (Italia)
 Cavtat
+Cay Sevón
 Cay Sundström
 Cayamant
 Cayman Airways
@@ -13231,6 +13256,7 @@ Cerchio (Italia)
 Ceredigion
 Ceres (Italia)
 Ceresole Reale
+Cergy-Pontoisen yliopisto
 Cerius
 Cerner
 Cerrado
@@ -14032,6 +14058,7 @@ Christina Hodson
 Christina Riegel
 Christina von Saltza
 Christine (televisiosarja)
+Christine Antorini
 Christine Errath
 Christine Kambua Mayanga
 Christine Keeler
@@ -14229,6 +14256,7 @@ Citizen Kane
 Citrix Systems
 Citroën
 Citroën World Rally Team
+Citroën Xsara
 Citroën Xsara WRC
 City Airline
 City Connexion Airlines
@@ -15450,6 +15478,7 @@ Crowborough’n rautatieasema
 Crowcombe Heathfieldin rautatieasema
 Crowhurstin rautatieasema
 Crowlen rautatieasema
+Crowley Liner Services
 Crown Air Systems
 Crown Airways
 Crown Colony -luokka (risteilijä)
@@ -15552,6 +15581,7 @@ Cup of Russia 2003
 Cup-voittajien Cup
 Cup-voittajien cup
 Cuparin rautatieasema
+Cupore
 Curaçao
 Curious George (videopeli)
 Curriehillin rautatieasema
@@ -16271,6 +16301,7 @@ Darwin (Australia)
 Darwin Airline
 Daryl Chapin
 Darío Silva
+Darüşşafaka SK
 Das Geheimnis der Happy Hippo-Insel
 Dasab Airlines
 Dash Air Charter
@@ -16701,6 +16732,7 @@ Debra Wilson
 Debuggaus
 Debuggeri
 Debyyttialbumi
+Decade of Aggression
 Decadent
 Decades (Nightwishin albumi)
 Decades: Live in Buenos Aires
@@ -17623,12 +17655,14 @@ DocuSign
 Dodekaedri
 Dodekanesian prefektuuri
 Dodekanoli
+Dodge 600
 Dodge Boy
 Dodge Caliber
 Dodi Al-Fayed
 Dodie Smith
 Dodworthin rautatieasema
 Dodóni
+Does It Offend You, Yeah?
 Dog's Life
 Dogfight
 Dogfight 2187
@@ -17681,6 +17715,7 @@ Dominguez Toledo
 Dominic Barker
 Dominic Frontiere
 Dominic Gorie
+Dominic Lavoie
 Dominic Mai Luong
 Dominic Robinson
 Dominic Toninato
@@ -19253,6 +19288,7 @@ Eiður Guðjohnsen
 Ejegayehu Dibaba
 Ejike Uzoenyi
 Ekateríni Stefanídi
+Ekenäs FBK
 Ekenäs IF
 Eki Eläinlääkäri
 Eki eläinlääkäri
@@ -20397,6 +20433,7 @@ Ernst Ruska
 Ernst-Happel-Stadion
 Eroosio
 Eros Poli
+Erotica (kappale)
 Erotiikka
 Errico Malatesta
 Erriyon Knighton
@@ -21153,6 +21190,7 @@ Eva Longoria
 Eva Pawlik
 Eva Romanová
 Eva Siikarla
+Eva-Maria Brem
 Evajärvi
 Evakko
 Evald Odenwall
@@ -21540,6 +21578,7 @@ FR Aviation
 FS Arromanches
 FS De Grasse (D612)
 FS Duguay-Trouin (D611)
+FS Le Triomphant (S616)
 FS Tourville
 FS Tourville (1788)
 FS Tourville (1811)
@@ -21941,6 +21980,7 @@ Ferdinand Lassalle
 Ferdinand Marcos
 Ferdinand von Wright
 Ferenc Fricsay
+Ferenc I Rákóczi
 Ferenc II Rákóczi
 Ferenc Karinthy
 Ferenc Puskás
@@ -22002,6 +22042,7 @@ Feyenoord Rotterdam
 Fez (video game)
 Ffairfachin rautatieasema
 Ffestiniog Railway
+FiMUG
 Fianarantsoa
 Fianna Fáil
 Fiano
@@ -22799,6 +22840,7 @@ Fornalutx
 Forno Canavese
 Forresin rautatieasema
 Forrest Gump
+Forrest Gump (romaani)
 Forrest Murray
 Forsbackan kenttä
 Forsinardin rautatieasema
@@ -23308,6 +23350,7 @@ Friedrich Cerha
 Friedrich Ebert
 Friedrich Engels
 Friedrich Gerstärker
+Friedrich Hecker
 Friedrich Hirzebruch
 Friedrich Karl
 Friedrich Loeffler
@@ -24145,6 +24188,7 @@ Geely
 Geeni
 Geenien ilmentyminen
 Geenien tulo yhteiskuntatieteisiin
+Geenin ilmentyminen
 Geenitekniikka
 Geeniterapia
 Geesair
@@ -24223,6 +24267,7 @@ Geneven kantoni
 Geneven konferenssi (1954)
 Geneven sopimukset
 Genevenjärvi
+Geneviève Bujold
 Genex
 Genghis Khan (1991 video game)
 Genie in a Bottle
@@ -24721,6 +24766,7 @@ Gillam
 Gilles Lupien
 Gilles Marotte
 Gilles Meloche
+Gilles Rondy
 Gilles Tremblay
 Gilles Villemure
 Gillestugan
@@ -25654,6 +25700,7 @@ Greta Garbo
 Greta Salóme
 Greta Van Fleet
 Gretchen Merrill
+Gretchen Whitmer
 Gretchen Wilson
 Grete Berget
 Gretna Greenin rautatieasema
@@ -25976,6 +26023,7 @@ Gunter Lange
 Guntonin rautatieasema
 Guomindang
 Gurr-Goni
+Guru Granth Sahib
 Guru Meditation
 Gus Bodnar
 Gus Giesbrecht
@@ -26371,6 +26419,7 @@ HMS Pioneer (R76)
 HMS Pretoria Castle
 HMS Prince Consort (1862)
 HMS Prince of Wales (53)
+HMS Queen Elizabeth (1913)
 HMS Queen Elizabeth (R08)
 HMS Queen Mary
 HMS Raider (H15)
@@ -26763,6 +26812,7 @@ Hamblen rautatieasema
 Hamburg Airways
 Hamburg Cyclassics 2023
 Hamburg International
+Hamburger Hillin taistelu
 Hamburger SV
 Hamdi Kasraoui
 Hamed Namouchi
@@ -26813,6 +26863,7 @@ Hampton-in-Ardenin rautatieasema
 Hamptonin rautatieasema
 Hampuri
 Hampurilainen
+Hampurin islamilainen keskus
 Hamra Air
 Hamsteadin rautatieasema
 Hamsters en Folie
@@ -27205,6 +27256,7 @@ Harpyijahauta
 Harrajärvi
 Harrastus
 Harri "Danny" Kinnunen
+Harri Broman
 Harri Heliövaara
 Harri Holkeri
 Harri Jansson
@@ -27378,6 +27430,7 @@ Hassiba Boulmerka
 Hassisen Kone
 Hasso Krull
 Hassocksin rautatieasema
+Hastings Gilford
 Hastings-luokka (sluuppi)
 Hastingsin rautatieasema
 Hat Trick (video game)
@@ -27543,6 +27596,7 @@ Haunting Ground
 Haunting: Australia
 Haupitsi
 Hausjärvi
+Haut-Sassandran alue
 Hautajärvi (Toivakka, Huikko)
 Hautajärvi (Toivakka, Kankainen)
 Hautakivi (sarjakuvahahmo)
@@ -27741,6 +27795,7 @@ Heidi Fleiss
 Heidi Klum
 Heidi Kyrö
 Heidi Nieminen
+Heidi Parland
 Heighingtonin rautatieasema
 Heikanlampi (Kangasniemi)
 Heike Drechsler
@@ -27837,6 +27892,7 @@ Heinz Field
 Heinz Guderian
 Heinz Kattner
 Heinz Kessler
+Heinz Schilchegger
 Heinz Schulz
 Heinz-Ulrich Walther
 Heinä-Arpainen
@@ -28238,6 +28294,7 @@ Henrik Tikkanen
 Henrik V (Englanti)
 Henrik VIII
 Henrik Zetterberg
+Henrika Ringbom
 Henrikki
 Henrin Maailma
 Henry
@@ -28773,7 +28830,9 @@ Hilmar Örn Hilmarsson
 Hilpari
 Hilpeys ja ennakkoluulo
 Hilsean rautatieasema
+Hilton Head Island
 Hiltu ja Ragnar
+Hiltulanlahden työväentalo
 Himalaja
 Himalajanhaikara
 Himalaya Airlines
@@ -29084,6 +29143,7 @@ Homologinen algebra
 Homorod
 Homoseksuaali
 Homoseksuaalisuus
+Homotherium
 Homotooppinen algebra
 Homura (video game)
 Honduras
@@ -30223,6 +30283,7 @@ I'm So Tired
 I, Ball
 I, Ball 2
 I, Ball II: Quest for the Past
+I, Tonya
 I-Ninja
 I-divisioona (jääkiekko)
 I-luokka (hävittäjä)
@@ -30298,6 +30359,7 @@ IQ and the Wealth of Nations
 IR Gurus
 IRIS-T
 IRS Airlines
+IRWIN
 IS-IS
 ISA (lentoyhtiö)
 ISD Avia
@@ -30730,6 +30792,7 @@ Igor Larionov
 Igor Lisovski
 Igor Nikitin
 Igor Nikulin (jääkiekkoilija)
+Igor Pavlov
 Igor Radulov
 Igor Stravinsky
 Igor Tamm
@@ -30898,6 +30961,7 @@ Illeana Douglas
 Illicit major
 Illicit minor
 Illinois
+Illinoisin yliopisto, Chicago
 Illinoisin yliopisto, Urbana–Champaign
 Illumina, Inc.
 Illuminati (sarjakuvat)
@@ -31708,6 +31772,7 @@ Irlanninsammal
 Irlanti
 Irlanti (saari)
 Irlanti Eurovision laulukilpailussa
+Irlanti Eurovision tanssikilpailussa
 Irlanti kesäolympialaisissa 1952
 Irlanti kesäolympialaisissa 1956
 Irlanti kesäolympialaisissa 1964
@@ -31725,6 +31790,7 @@ Irma Torvi
 Irma Wickström
 Irmeli Ruuska
 Irmeli Sallamo
+Irmfried Eberl
 Irna Phillips
 Irokeesien kieliryhmä
 Iron Brigade (video game)
@@ -32426,6 +32492,7 @@ Istriotin kieli
 Istro-romania
 Istrualanlampi
 Istukka
+Istukkanisäkkäät
 Istvan Zsolt
 István Juhász
 István Juhász (jalkapalloilija)
@@ -32659,6 +32726,7 @@ Ivan Hlinkan muistoturnaus 2014
 Ivan Hlinkan muistoturnaus 2015
 Ivan Horn
 Ivan Jakubovski
+Ivan Jarygin
 Ivan Konev
 Ivan Kožedub
 Ivan Kutaisov
@@ -32688,6 +32756,7 @@ Ivar Heikel
 Ivar Markus Tallgren
 Ivar Nordlund
 Ivar Westman
+Ivar Widéen
 Ivar Wilskman
 Ivaton kansainvälinen lentoasema
 Ivatsevitšy
@@ -32726,6 +32795,7 @@ Iznate
 Iznogoud (video game)
 Izzy Stradlin
 Ištarin portti
+I’m on Fire (Brother Firetriben kappale)
 J C Bamford
 J Dave Rogers
 J P Hunt
@@ -32778,6 +32848,7 @@ J. Stephanus Stadium
 J. Säilä
 J. V. Ilkka
 J. V. Lehtonen
+J. W. Eloheimo
 J. W. Keto
 J. W. von Goethe
 J. William Fulbright
@@ -33007,6 +33078,7 @@ Jaguar Mishin Sashi Senyou Soft: Mario Family
 Jaguarundi
 Jahangir Khan
 Jahangir Khan's World Championship Squash
+Jahir Barraza
 Jahkola
 Jahnulales
 Jahti
@@ -33589,6 +33661,7 @@ Jameson Thomas
 Jamestown (Virginia)
 Jami Auvinen
 Jamie Allison
+Jamie Bamber
 Jamie Carragher
 Jamie Foxx
 Jamie Heward
@@ -33791,6 +33864,7 @@ Jarmo Koivunen (pilapiirtäjä)
 Jarmo Lehtinen (kartanlukija)
 Jarmo Lehtonen (koripalloilija)
 Jarmo Lindberg
+Jarmo Moilanen
 Jarmo Myllys
 Jarmo Mäkinen
 Jarmo Nikku
@@ -34605,6 +34679,7 @@ Jin Air
 Jin Boyang
 Jin Jong-oh
 Jin Yuanyuan
+Jin-dynastia (1115–1234)
 Jinanin yliopisto
 Jindřichův Hradec
 Jinggong Jet
@@ -34795,6 +34870,7 @@ Johan Holmqvist
 Johan Jacob Ahrenberg
 Johan Jakob Westerlund
 Johan Jalonen Penn
+Johan Josef Stenbäck
 Johan Karlsson Fånö
 Johan Knutson
 Johan Kristerinpoika Vaasa
@@ -35171,6 +35247,7 @@ John William Brown
 John Wilmot
 John Wilson
 John Young (astronautti)
+John Young (maahockeypelaaja)
 John Zander
 John Zimmerman
 John o' Groats
@@ -36009,6 +36086,7 @@ Julie Christie
 Julie Dreyfus
 Julie Hagerty
 Julie Lynn Holmes
+Julie Masse
 Julie Payette
 Julien Gracq
 Julien Poulin
@@ -36045,6 +36123,7 @@ Julius Erving
 Julius Immanuel Gummerus
 Julius Krohn
 Julius Malema
+Julius von Verdy du Vernois
 Juliusten-Claudiusten hallitsijasuku
 Julkinen sektori
 Julkinen valta
@@ -36780,6 +36859,7 @@ Jääpallon maailmanmestaruuskilpailut 2014
 Jääpallon maailmanmestaruuskilpailut 2019
 Jääpallon naisten SM-sarja 2018–2019
 Jääpallon naisten maailmanmestaruuskilpailut 2019
+Jääpallon pohjoismaisen sarjan kausi 1938–1939
 Jääpeili
 Jääski
 Jäätanssi
@@ -37737,6 +37817,7 @@ Kanadan arktiset saaret
 Kanadan ePrix 2017
 Kanadan ilmavoimat
 Kanadan jääkiekkomaajoukkue
+Kanadan kansalliskirjasto ja -arkisto
 Kanadan kuninkaallinen laivasto
 Kanadan naisten jalkapallomaajoukkue
 Kanadan naisten jääkiekkomaajoukkue
@@ -38429,6 +38510,7 @@ Karppi
 Karppijärvi
 Karri Koivukoski
 Karsasjärvi
+Karsinnat Baseballin Euroopan-mestaruuskilpailuihin 2012
 Karsinnat jalkapallon Euroopan-mestaruuskilpailuihin 2012
 Karsinnat jalkapallon Euroopan-mestaruuskilpailuihin 2016
 Karsinnat jalkapallon Euroopan-mestaruuskilpailuihin 2020
@@ -38494,6 +38576,7 @@ Kaskadivuoret
 Kaskenmäki
 Kaski
 Kaskilampi (Kivijärvi)
+Kaskiniemi
 Kaskislampi
 Kaskiviljely
 Kasmir
@@ -38603,6 +38686,7 @@ Katharina Liensberger
 Katharina Truppe
 Katharina von Bora
 Katharine Kerr
+Katharine McPhee
 Katherina Matousek
 Katherine Mansfield
 Katherine Neville
@@ -38669,6 +38753,7 @@ Kattarat
 Katti
 Katti (elokuva)
 Katti-Matti
+Katti-Matti (vuoden 1984 piirrossarja)
 Kattiharju
 Kattilajärvi (Jämsä, Rumakulma)
 Kattilajärvi (Jämsä, Vekkula)
@@ -38920,6 +39005,7 @@ Kehitysbiologia
 Kehitysmaa
 Kehitysyhteistyö
 Kehostapoistumiskokemus
+Kehruu
 Kehrääjälinnut
 Kehän kovin kundi
 Kehäpäätelmä
@@ -39062,6 +39148,7 @@ Keltakuume
 Keltalammi
 Keltalampi (Perho)
 Keltalampi (Pieksämäki, Ristimaäki)
+Keltanaamasirkkunen
 Keltanokka
 Keltapyrstövuokkokala
 Keltavuokkokala
@@ -39467,6 +39554,7 @@ Kestävä kehitys
 Keswickin rautatieasema
 Kesäaika
 Kesähitti
+Kesäillan valssi (täsmennyssivu)
 Kesäkurpitsa
 Kesäkuu
 Kesäkuuta 2023
@@ -39684,6 +39772,7 @@ Kibbutsi
 Kibungon roomalaiskatolinen hiippakunta
 Kibworthin rautatieasema
 Kicevo
+Kick (vuoden 2014 elokuva)
 Kick Box Vigilante
 Kick Master
 Kick Off
@@ -39771,6 +39860,7 @@ Kihliänjärvi-Nuolinki
 Kiidi
 Kiihdytysajot
 Kiihkeä kesä
+Kiihkeät tuulet (kappale)
 Kiihko (elokuva)
 Kiihottaminen kansanryhmää vastaan
 Kiikanjärvi
@@ -40303,6 +40393,7 @@ Kissalampi (Pieksämäki)
 Kissalampi (Ähtäri)
 Kissanliha
 Kissanmaa
+Kissojen kielen kompasanakirja
 Kista
 Kit Williams
 Kita-Hiroshima (Hiroshima)
@@ -40370,6 +40461,7 @@ Kivijärvi (Padasjoki, Nyystölä)
 Kivijärvi (Padasjoki, Torittu)
 Kivijärvi (Pihtipudas)
 Kivijärvi (Ranua)
+Kivijärvi (Ulvila)
 Kivijärvi (Ähtäri)
 Kivikarinjärvi
 Kivikausi
@@ -41196,6 +41288,7 @@ Kortteenperä
 Kortteinen (Ähtäri)
 Kortteliliiga
 Korttimenlampi
+Koruahven
 Koruplekot
 Korvake
 Korvanen (Hankasalmi)
@@ -41415,6 +41508,7 @@ Koúlouri
 Kočani
 Košice
 Koštšei
+Kožva
 Kraatteri
 Kraft Heinz
 Kraftwerk
@@ -41707,6 +41801,7 @@ Ksanthos (Lyykia)
 Ksar el-Kebirin taistelu
 Ksenia Stolbova
 Ksenon
+Ksenondifluoridi
 Ksyleeni
 Ksylitoli
 Ksylofoni
@@ -42246,6 +42341,7 @@ Kuuhullut (Aku Ankan taskukirja)
 Kuukasjärvi (kylä)
 Kuukausi
 Kuulantyöntö
+Kuulokoira
 Kuulutetun kuoleman kronikka
 Kuuma kissa?
 Kuuma lähde
@@ -43843,6 +43939,7 @@ Laurent Mohellebi
 Laurent Schwartz
 Laurent Tirard
 Laurent Vial
+Laurent de Gouvion-Saint-Cyr
 Laurentides
 Laurentius Petri
 Lauri (Rõuge)
@@ -43872,6 +43969,7 @@ Lauri Pelkonen
 Lauri Pihkala
 Lauri Randla
 Lauri Sallinen
+Lauri Saxén
 Lauri Sinikari
 Lauri Sipari
 Lauri Suomalainen
@@ -43999,6 +44097,7 @@ Le Mont-sur-Lausanne
 Le Mystère de Kikekankoi
 Le Nécromancien
 Le Plessis-Bouchard
+Le Poinçonnet
 Le Puy-en-Velay
 Le Pétomane
 Le Rocher-Percé
@@ -44538,6 +44637,7 @@ Leonard Roberts
 Leonard Steyaert
 Leonardo (jalkapalloilija, 1969)
 Leonardo (sarjakuvahahmo)
+Leonardo Bertagnolli
 Leonardo DiCaprio
 Leonardo da Vincin kansainvälinen lentoasema
 Leonid Andrejev
@@ -45350,6 +45450,7 @@ Liu Yifei
 Liukoisuus
 Liukuluku
 Liuos
+Live 1990
 Live ?!*@ Like a Suicide
 Live Bird 65–67
 Live Encounters
@@ -45606,6 +45707,7 @@ Loistokaijat
 Loistokottaraiset
 Loistopeipot
 Loitsu
+Loittorengas
 Lojulampi
 Lokakuu
 Lokakuun vallankumous
@@ -45665,6 +45767,7 @@ Londonderry Air
 Londonderryn rautatieasema
 Lone Star Airlines
 Lone Wolf - The Mirror of Death
+Lonely Blue Boy
 Lones Wigger
 Lonesome Crow
 Long Beach
@@ -46248,6 +46351,7 @@ Luettelo Sognin ja Fjordanen läänin taajamista
 Luettelo Spotifyn kuunnelluimmista suomalaisista kappaleista
 Luettelo Stanley Cupin voittaneista joukkueista
 Luettelo Sumerin kuninkaista
+Luettelo Suomen aitokoilajeista
 Luettelo Suomen entisistä kunnista
 Luettelo Suomen hallitsijoista ja valtionpäämiehistä
 Luettelo Suomen kansallispuistoista
@@ -46264,6 +46368,7 @@ Luettelo Suomen virallisen albumilistan ykkösistä 2012
 Luettelo Suomen virallisen latauslistan ykkösistä vuonna 2012
 Luettelo Suomen virallisen latauslistan ykkösistä vuonna 2017
 Luettelo Suomen virallisen mid-price-listan ykkösistä 2012
+Luettelo Suomen virallisen musiikki-DVD-listan ykkösistä vuonna 2014
 Luettelo Suomessa rauhoitetuista kasvilajeista
 Luettelo Super Nintendo Entertainment System -peleistä
 Luettelo Säkylän julkisista taideteoksista ja muistomerkeistä
@@ -46318,6 +46423,7 @@ Luettelo haavipallon olympiamitalisteista
 Luettelo hahmoista Muumi-tarinoissa
 Luettelo halpalentoyhtiöistä
 Luettelo historiallisista pääkaupungeista
+Luettelo italialaisista koiraroduista
 Luettelo itsenäisistä valtioista
 Luettelo jalkapallon Euroopan cupin ja Mestarien liigan loppuotteluista
 Luettelo jalkapallon Mestareiden liigassa pelanneista suomalaisista
@@ -46374,6 +46480,7 @@ Luettelo painonnoston olympiamitalisteista
 Luettelo pelotan olympiamitalisteista
 Luettelo pesäpallon Suomen-mestaruusmitalisteista
 Luettelo pikaluistelun olympiamitalisteista
+Luettelo pikkuplaneetoista: 210001–211000
 Luettelo poliittisista syistä Suomessa vangituista kansanedustajista
 Luettelo poolon olympiamitalisteista
 Luettelo purjehduksen olympiamitalisteista
@@ -46938,6 +47045,7 @@ Lähdelampi (Kivijärvi, Risuperä)
 Lähdeviitteiden hallintajärjestelmä
 Läheltä piti
 Lähestymiskielto
+Lähetekeskustelu
 Lähetysasema
 Lähetyssaarnaaja
 Lähetystyö
@@ -47132,6 +47240,7 @@ M15-luokka
 M18 (valtatie)
 M2 (Valko-Venäjä)
 M2 Bradley
+M2 Light Tank
 M24 Chaffee
 M26 Pershing
 M270 MLRS
@@ -47168,6 +47277,7 @@ MF (taajuusalue)
 MG Aviación
 MGM Interactive
 MGM-140 ATACMS
+MGMT (albumi)
 MGT (video game)
 MH Motorcycles
 MH Motorcycles Duna 125
@@ -47414,6 +47524,7 @@ Maastohiihto talviolympialaisissa 2018
 Maastohiihto talviolympialaisissa 2018 – miesten 15 km vapaa hiihtotyyli
 Maastohiihto talviolympialaisissa 2018 – naisten yhdistelmähiihto
 Maastohiihto talviolympialaisissa 2022
+Maastojuoksu olympialaisissa
 Maastojuoksun Suomen-mestaruuskilpailut
 Maastojuoksun Suomen-mestaruuskilpailut 1966
 Maastrichtin sopimus
@@ -47965,6 +48076,7 @@ Malik Jabir
 Maliki
 Malila Airlift
 Malin jalkapallomaajoukkue
+Malin parlamenttivaalit 2013
 Malindo Airways
 Mall Airways
 Malla Malmivaara
@@ -48023,6 +48135,7 @@ Maltillinen kokoomus
 Maltion luonnonpuisto
 Maltonin rautatieasema
 Maltoosi
+Maltsat
 Malvasia
 Malvern Linkin rautatieasema
 Malvern Wellsin rautatieasema
@@ -48156,6 +48269,7 @@ Manky (video game)
 Manley and Associates
 Mann Air
 Mann Air Ltd
+Mann Lines
 Mann Yadanarpon Airlines
 Manna (muusikko)
 Manne Siegbahn
@@ -48300,6 +48414,7 @@ Marcel Lambert
 Marcel Paille
 Marcel Pelletier
 Marcel Proust
+Marcel Prévost
 Marcel Uderzo
 Marcel Witeczek
 Marcel's Quantum Kitchen
@@ -48499,6 +48614,7 @@ Marie Osmond
 Marie Phillips
 Marie Wilson
 Marie von Thurn und Taxis
+Marie-Anne Collot
 Marie-Antoinette
 Marie-France Dubreuil
 Marie-Josephine Gaudette
@@ -48736,6 +48852,7 @@ Mark Webber
 Mark Williams (näyttelijä)
 Mark Wilson (game designer)
 Mark Wotton
+Mark Zuckerberg
 Mark of the Ninja
 Markair
 Market Harborough’n rautatieasema
@@ -48787,6 +48904,7 @@ Marks Teyn rautatieasema
 Marksman-luokka
 Markus Alm
 Markus Blom
+Markus Hallasuo
 Markus Harju
 Markus Hännikäinen
 Markus Jokela (valokuvaaja)
@@ -49021,6 +49139,7 @@ Martyn Fiddler Associates
 Martyn Hartley
 Maru's Mission
 Marunat
+Marutei Tsurunen
 Marvel Anime: X-Men
 Marvel Cinematic Universe
 Marvel Cinematic Universe: Ensimmäinen vaihe
@@ -49315,6 +49434,7 @@ Matlampi (Mäntyharju)
 Matlampi (Viitasaari)
 Matlock Bathin rautatieasema
 Matlockin rautatieasema
+Matojärvi
 Matojärvi (Kuhmoinen)
 Matolammi (Jämsä, Koivukylä)
 Matolammi (Virrat, Jähdyspohja)
@@ -49546,6 +49666,7 @@ Mauritius kesäolympialaisissa 2012
 Mauritius kesäolympialaisissa 2016
 Mauritz Stensson Leijonhufvud
 Mauritz Stiller
+Mauritz Wilhelm Nordenheim
 Maurizio Cheli
 Maurizio Marchetti
 Maurizio Margaglio
@@ -49656,6 +49777,7 @@ Mayair
 Mayakansat
 Maybolen rautatieasema
 Mayfieldin rautatieasema
+Mayhem (yhtye)
 Mayhem in Monsterland
 Mayo (Quebec)
 Mayon kreivikunta
@@ -49895,6 +50017,7 @@ Melanesialaiset
 Melanie Schlanger
 Melanie Valerio
 Melankolian riemut – Parhaat 2009–2015
+Melankolinen masennus
 Melba Moore
 Melbourne
 Melbourne (Quebec)
@@ -49925,6 +50048,7 @@ Mellilän rautatieasema
 Mellinselkä
 Melmerbyn rautatieasema
 Melodia
+Melodifestivalen 2017
 Melody Maker
 Meloni
 Melonta kesäolympialaisissa 1924
@@ -50057,6 +50181,7 @@ Merenkulku
 Merenkurkku
 Merenkurkun saaristo
 Merenlampi (Kangasniemi)
+Merethe Lindstrøm
 Meri (albumi)
 Meri Stark
 Meri-VHF
@@ -50156,6 +50281,7 @@ Mesiälampi
 Mesiänlampi (Kangasniemi)
 Mesiänlampi (Mikkeli)
 Mesmerismi
+Mesogeia-maalari
 Mesolóngi
 Mesoni
 Mesoplodon traversii
@@ -50702,6 +50828,7 @@ Michel Larocque
 Michel Legrand
 Michel López
 Michel Mayor
+Michel Miklík
 Michel Ouellet
 Michel Picard
 Michel Plasse
@@ -51256,6 +51383,7 @@ Mikko Koivusalo
 Mikko Koskinen (jääkiekkoilija)
 Mikko Kuoppa
 Mikko Kuustonen
+Mikko Lallukka
 Mikko Lehtonen (jääkiekkoilija, 1978)
 Mikko Lundén
 Mikko Luoma
@@ -51469,6 +51597,7 @@ Mindscape Inc.
 Mindscape Software
 Mindshadow (adventure game)
 Mindtrap
+Mine-ye gonah
 Minebea Technologies
 Minecraft
 Minecraft (pelisarja)
@@ -52264,6 +52393,7 @@ Mortdecai
 Mortehoe and Woolacomben rautatieasema
 Morten Meldal
 Morten Olsen
+Morten Thorsby
 Mortimerin rautatieasema
 Mortlaken rautatieasema
 Morton’s Canterbury Hall
@@ -52558,6 +52688,7 @@ Mummun saappaassa soi fox
 Mun mielestä
 Muna Dahouk
 Munakas (Hämeenlinna)
+Munapirtti
 Munch-It (video game)
 Munchman 64
 Mundan taistelu
@@ -53944,6 +54075,7 @@ Namco Museum
 Namco Tales Studio
 Namco X Capcom
 Namdeb Diamond Corporation
+Namer
 Namib
 Namibia
 Namibia Commercial Aviation
@@ -54036,6 +54168,7 @@ Narborough’n rautatieasema
 Narc (videopeli)
 Narco Police
 Narcos
+Narew
 Naritan kansainvälinen lentoasema
 Narnian tarinat
 Narnian tarinat: Prinssi Kaspian
@@ -54135,6 +54268,7 @@ Nathan Paetsch
 Nathan Perrott
 Nathan Söderblom
 Nathaniel Hawthorne
+Nathaniel Highmore (kirurgi)
 Nathaniel Niles
 Nation of Islam
 National 2
@@ -54397,6 +54531,7 @@ Nelitahtimoottori
 Nelitermivirhe
 Neliveto
 Neliökilometri
+Neliömatriisi
 Neljä huonetta
 Neljä naurettavaa naapuria
 Neljä ratsastajaa (vuoden 1921 elokuva)
@@ -54518,6 +54653,7 @@ Netta Laurenne
 Nettikasino
 Nettikupla
 Nettotulos
+Nettovarallisuus
 Nettuno
 Network Aviation Services
 Network Rail
@@ -55421,6 +55557,7 @@ Nogait
 Nogornyin viihdekeskus
 Noin 7 veljestä
 Noin viikon uutiset
+Noir (albumi)
 Noise (kappale)
 Noise Records
 Noisettes
@@ -55904,6 +56041,7 @@ Nunavut
 Nunchaku
 Nuneatonin rautatieasema
 Nunheadin rautatieasema
+Nunnavuoren palloiluhalli
 Nuno Gomes
 Nuno Rodrigues da Silva
 Nunthorpen rautatieasema
@@ -56575,6 +56713,7 @@ Ohenlampi (Hankasalmi)
 Ohenlampi (Kangasniemi)
 Ohenlampi (Mikkeli)
 Ohenlampi (Ähtäri)
+Ohimoluu
 Ohio (joki)
 Ohio (täsmennyssivu)
 Ohio Stadium
@@ -56793,6 +56932,7 @@ Olga Jegorova
 Olga Kurylenko
 Olga Orgonista
 Olga Pavlovna Romanova
+Olga Suharnova
 Olga Temonen
 Olga Terho
 Olga Tokarczuk
@@ -56873,6 +57013,7 @@ Olli Nikupeteri
 Olli Palola
 Olli Pohjola
 Olli Rehn
+Olli Reikko
 Olli Rekola
 Olli Salo
 Olli Seppänen
@@ -57184,6 +57325,7 @@ Optinen levy
 Optinen litografia
 Optipari
 Optyx
+Or Yehuda
 Oraalinen
 Oraattori
 Orajärvi (Jyväskylä)
@@ -57621,6 +57763,7 @@ Overtonin rautatieasema
 Overworks
 Ovi ois
 Ovidius
+Ovie Iroro
 Ovie Soko
 Ovindoli
 Owen Brunette
@@ -59339,6 +59482,7 @@ Pensarnin rautatieasema
 Pensas
 Pensasaro
 Pensasjasmiini
+Pensassiepot
 Penshaw’n rautatieasema
 Penshurstin rautatieasema
 Pentadáktylos
@@ -59393,6 +59537,7 @@ Pentti Rekola
 Pentti Saarikoski
 Pentti Saaritsa
 Pentti Sammallahti
+Pentti Sistonen
 Pentti Uronen
 Pentti Valkeala
 Penttilänlampi (Mäntyharju)
@@ -59607,6 +59752,7 @@ Perunroseepippuri
 Perunsardelli
 Peruskartta
 Peruskirja 77
+Peruskorttipakka
 Peruskoulu
 Perussuomalaiset
 Perussuomalaisten eduskuntaryhmä
@@ -60158,6 +60304,7 @@ Phoenix Group
 Phoenix Helicopter Academy
 Phoenix Sky Harborin kansainvälinen lentoasema
 Phoenix Suns
+Phoenix Wright: Ace Attorney
 Phoenixin eläinpoliisit
 Phonetics
 Photon Paint
@@ -60578,6 +60725,7 @@ Piggy (video game)
 Piggy Tales
 Pigmentti
 Pihamauriainen
+Pihkakääriäinen
 Pihkalan pesäpallostadion
 Pihkova
 Pihkovan alue
@@ -60729,6 +60877,7 @@ Pilkkalampi (Kouvola)
 Pilkkiminen
 Pilkkurilammi
 Pillin rautatieasema
+Pillowtalk
 Pilningin rautatieasema
 Pilote
 Piltolan seisake
@@ -60950,6 +61099,7 @@ Pit-Fighter
 Pitbull
 Pitbull Syndicate
 Pitcairn
+Pitcairnin lippu
 Pitcairnsaaret
 Pitcaplen rautatieasema
 Pitchfork
@@ -61262,6 +61412,7 @@ Pogradecin piirikunta
 Pogromi
 Pogóni
 Pohis-Lahnalampi
+Pohjajoki
 Pohjajärvi (Virrat)
 Pohjalainen
 Pohjalammi (Virrat)
@@ -61377,6 +61528,7 @@ Pohjois-Rhodesia
 Pohjois-Saksan evankelis-luterilainen kirkko
 Pohjois-Savo
 Pohjois-Savon maakunta
+Pohjois-Savon rykmentin 3. pataljoona
 Pohjois-Savon vaalipiiri
 Pohjois-Somerset
 Pohjois-Syväjärvi
@@ -61410,6 +61562,7 @@ Pohjoissothon kieli
 Pohjoisterritorio
 Pohjoisvaltiot
 Pohjolan kustannus
+Pohjolan punainen sissipataljoona
 Pohjolanmaa
 Pohoslampi (Mikkeli, Häkkilä)
 Pohoslampi (Mikkeli, Pölkky)
@@ -61450,6 +61603,7 @@ Poitiers’n taistelu (1356)
 Poitlammi (eteläinen)
 Poitlammi (pohjoinen)
 Poitou-Charentes
+Pojat (albumi)
 Pojat on poikii
 Pojat urhokkaat
 Pojoen laakso
@@ -62644,6 +62798,7 @@ Pugwash-liike
 Pugõstu
 Puhallinsoitin
 Puhallus
+Puhallusmuovaus
 Puhallusputki
 Puhdastila
 Puhdelammi
@@ -62979,6 +63134,7 @@ Pyhäkkö
 Pyhälampi (järvi Hämeenlinnassa)
 Pyhäluoma
 Pyhän Andreaan kirkko (Oulu)
+Pyhän Henrikin katolinen katedraaliseurakunta
 Pyhän Klement Ohridialaisen yliopisto
 Pyhän Kolminaisuuden katedraali (Oulu)
 Pyhän Kolminaisuuden kirkko (Kempele)
@@ -63166,6 +63322,7 @@ Pälkjärvi
 Pälkäne
 Pälkänevesi
 Pälämä
+Pängätsalo
 Pänttärinlampi (Kangasniemi)
 Pär Lagerkvist
 Pär Slätis
@@ -63225,6 +63382,7 @@ Pélla (alueyksikkö)
 Pépé Béquilles
 Péribonka
 Péter Szabó
+Pétros Galaktópoulos
 Pétur Guðmundsson
 Përmetin piirikunta
 Põdra (Rõuge)
@@ -63614,6 +63772,7 @@ Radikaali keskusta
 Radikaali oikeisto
 Radikaali vasemmisto
 Radikaalifeminismi
+Radikaalipietismi
 Radim Bicanek
 Radim Vrbata
 Radio
@@ -64005,6 +64164,7 @@ Randers
 Randers FC
 Randersin kunta
 Randi Bakke-Gjertsen
+Randolph Peters
 Random Access
 Random Access (video game developer)
 Randstad Holding
@@ -64194,6 +64354,7 @@ Rapides-des-Joachims
 Rappahannockin piirikunta
 Rappiotaide
 Rapsiöljy
+Raptarr
 Rapture of the Deep
 Rapujuhlat
 Rapusumu
@@ -64287,6 +64448,7 @@ Ratsastus kesäolympialaisissa 2008
 Ratsastus kesäolympialaisissa 2012
 Ratsastus kesäolympialaisissa 2016
 Ratsplat
+Ratsuväki
 Ratsuväkimuseo
 Ratšan maanjäristys 1991
 Raubtier
@@ -65536,6 +65698,7 @@ Risto Kaitala
 Risto Kalliomaa
 Risto Kalliorinne
 Risto Kangas
+Risto Kangas-Ikkala
 Risto Kautto
 Risto Lounema
 Risto Miettinen
@@ -66232,6 +66395,7 @@ Robert Stirling
 Robert Stolz
 Robert Storz
 Robert Strassburg
+Robert Sundman
 Robert Suter
 Robert Sutton
 Robert Sweet
@@ -66610,6 +66774,7 @@ Roger Lemelin
 Roger Lemerre
 Roger Martin du Gard
 Roger Maxwell
+Roger Michell
 Roger Michelot
 Roger Moore
 Roger Penrose
@@ -67052,12 +67217,14 @@ Rotterdam Jet Center
 Rottinkipalmut
 Rottis
 Rotunda
+Rotuvaari
 Rougemont
 Rougemont (Kanada)
 Rough Trade Records
 Roughton Roadin rautatieasema
 Roukanen
 Roukejärvi
+Roukon koulu
 Round the Bend (video game)
 Round-Up (video game)
 Roundheads (video game)
@@ -67373,6 +67540,7 @@ Ruonajoki (Ranua)
 Ruontakunen
 Ruopaslampi
 Ruostelampi (Kivijärvi, Autionperä)
+Ruostelintuhaukka
 Ruotajärvi
 Ruotalampi (Laukaa)
 Ruotepuolinen (Jämsä, Petäiskulma)
@@ -67817,6 +67985,7 @@ SAT Airlines
 SATA Air Acores
 SATA International
 SATENA
+SB Savo
 SBK-09 Superbike World Championship
 SBS Broadcasting
 SC Alajärvi
@@ -68377,6 +68546,7 @@ Saint-Faustin–Lac-Carré
 Saint-Ferdinand
 Saint-Ferréol-les-Neiges
 Saint-Flavien
+Saint-Flour (Cantal)
 Saint-Fortunat
 Saint-François-Xavier-de-Brompton
 Saint-François-Xavier-de-Viger
@@ -68822,6 +68992,7 @@ Saksa kesäolympialaisissa 2016
 Saksa toisessa maailmansodassa
 Saksa yleisurheilun maailmanmestaruuskilpailuissa
 Saksala (Lahti)
+Saksalainen viittomakieli
 Saksalaiset
 Saksan 5. jalkaväkidivisioona
 Saksan Bundesliiga (jalkapallo)
@@ -68830,6 +69001,7 @@ Saksan Bundesliigan kausi 1964–1965
 Saksan Bundesliigan kausi 1965–1966
 Saksan Cup
 Saksan Grand Prix 1979
+Saksan Grand Prix 2005
 Saksan Grand Prix 2011
 Saksan Lounais-Afrikka
 Saksan alle 20-vuotiaiden jääkiekkomaajoukkue
@@ -69007,6 +69179,7 @@ Salamavaras
 Salametsästys
 Salamurha
 Salang-tunneli
+Salaperäinen Intia
 Salaperäinen saari
 Salaperäinen veitsi
 Salares
@@ -69346,6 +69519,7 @@ Samuli Edelmann
 Samuli Haataja
 Samuli Jokinen
 Samuli Juvonen
+Samuli Kankaanperä
 Samuli Niittymäki
 Samuli Pakarinen
 Samuli Paronen
@@ -69740,6 +69914,7 @@ Sarnaun rautatieasema
 Sarnin rautatieasema
 Sarno
 Saroj Khan
+Sarpanitum
 Sarpedon
 Sarpiokasvit
 Sarpiot
@@ -70560,6 +70735,7 @@ Serge Anglehart
 Serge Boisvert
 Serge Gainsbourg
 Serge Haroche
+Serge Reggiani
 Sergeant Rocker Rides Again
 Sergeant Seymour Robot Cop
 Sergei Arsenjevic Nevski
@@ -70665,6 +70841,7 @@ Serre
 Serren metsissä
 Serres de Llevant
 Serrungarina
+Serse
 Servair, Private Charter
 Servant Air
 Service Aerien Francais
@@ -71471,6 +71648,7 @@ Siirtymätalous
 Siitepöly
 Siivet (elokuva)
 Siivoton juttu
+Sijaishallitsijoiden aika
 Sijaissota
 Sijoitusmenetelmä
 Sika (Rõuge)
@@ -73710,6 +73888,7 @@ Stash
 State Air Company Berkut
 State Bank of India
 State Herbarium of South Australia
+State Route 24 (Kalifornia)
 State Unitary Air Enterprise
 State of Emergency (videopeli)
 State of Emergency 2
@@ -73911,6 +74090,7 @@ Steve Higgins
 Steve Hrymnak
 Steve Jackson
 Steve Jerrard
+Steve Johnson (tennispelaaja)
 Steve Jones (golfinpelaaja)
 Steve Junker
 Steve Kelly
@@ -74086,6 +74266,7 @@ Stolbovan rauha
 Stolen (videopeli)
 Stollberg
 Stomp (video game)
+Stomp 442
 Stone Age
 Stone Crossingin rautatieasema
 Stone Flower
@@ -74906,6 +75087,7 @@ Suomen ulkoasiainministeri
 Suomen ulkoasiainministeriö
 Suomen ulkoministeriö
 Suomen ulkopolitiikka
+Suomen urheilu 1974
 Suomen urheilu 2022
 Suomen urheilugaala
 Suomen urheiluopisto
@@ -74963,6 +75145,7 @@ Suomi – Finland
 Suomi – Finland (albumi)
 Suomi-palkinto
 Suomi-sarjan kausi 2018–2019
+Suomi-sarjan kausi 2021–2022
 Suomi-yhtiö
 SuomiRock
 SuomiRäp
@@ -75333,6 +75516,7 @@ Suurkaupungin tytär
 Suurkuningas
 Suurkäräjät
 Suurlähetystö
+Suurpujottelun maailmancup
 Suursaari
 Suursuonlampi (Mäntyharju)
 Suurteholaskenta
@@ -75413,6 +75597,7 @@ Svenska Direktflyg
 Svenska Handelsbanken
 Svenska Teatern
 Svenska damhockeyligan
+Svenska kraftnät
 Sverdlovskin alue
 Sveriges Radio
 Sveriges Television
@@ -75566,6 +75751,7 @@ Sylvester & Tweety: Breakfast on the Run
 Sylvesteri ja Tipi: Dekkarit
 Sylvi Kekkonen
 Sylvi Keskinen
+Sylvi Pellonperä
 Sylvi-Kyllikki Kilpi
 Sylvia (vuoden 1965 elokuva)
 Sylvia Jebiwott Kibet
@@ -75720,6 +75906,7 @@ Syvänmeren hauta
 Syvärinen (järvi)
 Syväsäiliö
 Syväys
+Syyhy
 Syyllistäminen assosiaatiolla
 Syyria
 Syyria (alue)
@@ -75784,6 +75971,7 @@ Sähköpiano
 Sähköposti
 Sähkötys
 Sähkövoimatekniikka
+Säihkylurit
 Säiniönjärvi
 Säkenöivää voimaa
 Säkinlampi
@@ -76198,6 +76386,7 @@ Taidemaalari
 Taidemuseo (Lahti)
 Taidemusiikki
 Taiderock
+Taidesuuntaus
 Taideteollinen korkeakoulu
 Taideteollinen oppilaitos
 Taideyliopiston Kuvataideakatemia
@@ -76428,6 +76617,7 @@ Taivasjärvi
 Taivaskero
 Taiwan
 Taiwanin parlamentti
+Taiwanin puolustusministeri
 Taiyaki
 Taiyō no tō
 Taj Mahal (muusikko)
@@ -76511,6 +76701,7 @@ Talasjärvi (Virrat)
 Talbot
 TaleSpin (video game)
 Taleban
+Talent Suomi (4. tuotantokausi)
 Talentti
 Talerddigin rautatieasema
 Tales from the Borderlands: A Telltale Games Series
@@ -76763,6 +76954,7 @@ Tanssija
 Tanssiravintola
 Tanssitaiteen valtionpalkinto
 Tanssityttö Mia
+Tanssiva tuli
 Tantaali
 Tantoo Cardinal
 Tanttila
@@ -77614,6 +77806,7 @@ Tesco
 Tesfaye Bramble
 Tesis
 Tesla (yritys)
+Tesla Semi
 Tesoma
 Tesomajärvi (kaupunginosa)
 Tesoman seisake
@@ -78498,6 +78691,7 @@ The Running Man (video game)
 The Saboteur
 The Sacred Armour of Antiriad
 The Sage Group
+The Sceptre of Deception
 The School Nurse Files
 The Science of Sleep
 The Scorpion King: Rise of the Akkadian
@@ -78592,6 +78786,7 @@ The Thompson Twins Adventure
 The Three Stooges
 The Three Stooges (video game)
 The Thrilling Adventures of Lovelace and Babbage
+The Tides of Damocles
 The Time of My Life (David Cookin kappale)
 The Times of India
 The Tin Star (arcade game)
@@ -78971,6 +79166,7 @@ Thurrock
 Thurso
 Thurson rautatieasema
 Thurstonin rautatieasema
+Thy Serpent
 Thyge Petersen
 Thyssen Krupp AG
 Théophile Gautier
@@ -79389,6 +79585,7 @@ Tivoli (kaupunki)
 Tjeldsund
 Tjuljatšin piiri
 Tjumenin alue
+Tlemcenin yliopisto
 To All the Boys I’ve Loved Before
 To Heart 2
 To Hell and Back (video game)
@@ -80501,6 +80698,7 @@ Trevor Brooking
 Trevor Brooking's World Cup Glory
 Trevor Devall
 Trevor Figgins
+Trevor Immelman
 Trevor Lever
 Trevor Linden
 Trevor Murphy
@@ -82246,6 +82444,7 @@ Unsped Paket Servisi
 Unstable Fables: Tortoise vs. Hare
 Unter den Linden
 Unterhaltungssoftware Selbstkontrolle
+Unto Haapa-aho
 Unto Hämäläinen
 Unto Koistinen
 Unto Miettinen
@@ -82438,7 +82637,9 @@ Uudenkaupungin rauha
 Uudenkylän rautatieasema
 Uudenmaan lääni
 Uudenmaan maakunta
+Uudenmaan rakuunarykmentti
 Uudenmaan vaalipiiri
+Uudenmaankatu
 Uudenvuodenpäivä
 Uudestisyntynyt rakastaja
 Uudet Mutantit
@@ -82809,6 +83010,7 @@ Vain elämää, kausi 11 – Toinen kattaus
 Vain elämää: Unohtumaton ilta
 Vainottu muukalainen
 Vaitelias mies
+Vaivaisenluu
 Vaivaiskoivu
 Vaivaislampi
 Vaivaisukko
@@ -82890,6 +83092,7 @@ Valentina Zazdravnyh
 Valeplekot
 Valeraskaus
 Valeri Borzov
+Valeri Brumel
 Valeri Bykovski
 Valeri Gerasimov
 Valeri Harlamov
@@ -83120,6 +83323,7 @@ Vallankaappaus
 Vallankumous
 Vallankumous (albumi)
 Vallankäyttö
+Vallaton Waltari
 Valldemossa
 Valle (Norja)
 Valle Oikarinen
@@ -83331,6 +83535,7 @@ Vaninon piiri
 Vankeus
 Vanki
 Vankilamuseo
+Vannehame
 Vannekivenlampi
 Vanpool (yhtiö)
 Vantaa
@@ -84838,6 +85043,7 @@ Virgil Green
 Virgil Grissom
 Virgil Hill
 Virgil Johnson
+Virgiliu Postolachi
 Virgin America
 Virgin Atlantic
 Virgin Atlantic Airways
@@ -85029,6 +85235,7 @@ Vitoria Cristina Rosa
 Vitoria-Gasteiz
 Vitricium
 Vitsalampi (Mäntyharju)
+Vitsataipale
 Vitsebsk
 Vittajärvi (Mänttä-Vilppula)
 Vittorio Cecchi Gori
@@ -85160,6 +85367,7 @@ Voimasointu
 Voimistelu
 Voimistelu kesäolympialaisissa 1912
 Voimistelu kesäolympialaisissa 1924
+Voimistelu kesäolympialaisissa 1952 – naisten nojapuut
 Voimistelu kesäolympialaisissa 1968
 Voimistelu kesäolympialaisissa 1984
 Voimistelu kesäolympialaisissa 1992
@@ -85195,6 +85403,7 @@ Volga
 Volga-Dnepr Airlines
 Volgaburmash Samara
 Volgan Bulgaria
+Volganpernaruoho
 Volgodonsk
 Volgograd
 Volgograd Arena
@@ -85731,6 +85940,7 @@ Värska
 Värtsilä (Venäjä)
 Värtsilä (kunta)
 Västberga
+Västerbottenin museo
 Västertorp
 Västerås
 Västeråsin kunta
@@ -88807,6 +89017,7 @@ Zoids: The Battle Begins
 Zola Budd
 Zolfaghar (ohjus)
 Zolo (video game)
+Zolotšivin piiri
 Zoltan Farkas (game designer)
 Zoltan Lunka
 Zoltan Sarosy
@@ -90617,6 +90828,7 @@ Absorptio (sähkömagneettinen säteily)
 Abstract Concepts
 Abstract: The Art of Design
 Abstrakti algebra
+Abstrakti tietotyyppi
 Abu Bakr Salem Belfkih
 Abu Dhabi
 Abu Dhabi Amiri Flight
@@ -91830,6 +92042,7 @@ Aimo-koulu
 Aina Niska
 Aina eka kerta
 Aina nälkä – Veljien 20 pahinta hittiä
+Aina sun luonas
 Aina vierelläsi
 Ainbo - Amazonin sademetsän rohkein tyttö
 Aineenvaihdunta
@@ -94769,6 +94982,7 @@ Android
 Android 2
 Android Assault: The Revenge of Bari-Arm
 Android Things
+Andromakhos vanhempi
 Andromeda Software
 Andromedan galaksi
 Andry Laffita
@@ -94986,6 +95200,7 @@ Anita Pajunen
 Anita Pallenberg
 Anita Puumalainen
 Anita Snellman
+Anitra Steen
 Anitta Niemi
 Aniva
 Anja Haglund
@@ -95107,6 +95322,7 @@ Anne-Marie Colchen
 Anne-Sofie von Otter
 Anneli Haahdenmaa
 Anneli Sauli
+Annelies Verbeke
 Anneliese Uhlig
 Annemari Sandell
 Annemari Sandell-Hyvärinen
@@ -96188,6 +96404,7 @@ Arto Tolsa
 Arto Tuunela
 Arto Virtanen
 Arts and crafts
+Artsakh FC
 Artsakhin puolustusarmeija
 Artsakhin tasavalta
 Arttu (piirrossarja)
@@ -96433,6 +96650,7 @@ Assassin's Creed IV: Black Flag
 Assassin's Creed Valhalla
 Assassin's Creed: Brotherhood
 Assassin's Creed: Revelations
+Assassination Games
 Assassin’s Creed (pelisarja)
 Assault Course (video game)
 Assault Suits Valken
@@ -96586,6 +96804,7 @@ Astrahanin tataarit
 Astrakhan Airlines
 Astral Aviation
 Astralwerks
+Astravets
 Astravia-Bissau Air Transports Ltd.
 Astrid Jacobsen
 Astrid Kirchherr
@@ -96636,6 +96855,7 @@ Asymptoottihaara
 Asynkronisesti
 At Any Price
 At the Pulse of Kapitulation
+Atago (1930)
 Atagün Yalçinkaya
 Atair Pty Ltd.
 Atajate
@@ -96776,6 +96996,7 @@ Atomisäde
 Atomix (video game)
 Atos (nimi)
 Atos Wirtanen
+Atrain
 Atrani
 Atrog
 Atso Soivio
@@ -97323,6 +97544,7 @@ Axel Lillie
 Axel Nilsson Posse
 Axel Ottosson
 Axel Oxenstierna
+Axel Oxenstiernan palatsi
 Axel Rent, S.A.
 Axel Wachtmeister
 Axis Airways
@@ -98305,6 +98527,7 @@ Bay-luokka (fregatti)
 Bayer 04 Leverkusen
 Bayer Leverkusen
 Bayfordin rautatieasema
+Bayi Rockets
 Baylis–Hillman-reaktio
 Baynardsin rautatieasema
 Bayon
@@ -98550,6 +98773,7 @@ Belgradin Punainen tähti
 Belgradin piiritys (1717)
 Belin Software
 Belisama
+Belitung
 Belize
 Belize kesäolympialaisissa 2008
 Belize kesäolympialaisissa 2012
@@ -98726,6 +98950,7 @@ Benjamin Roy Mottelson
 Benjamin Segura
 Benjamin Whitrow
 Benji-hyppy
+Benningtonin piirikunta
 Benno Wiss
 Benny & Joon
 Benny Andersson
@@ -98905,6 +99130,7 @@ Bertram Hutchinson Smyth
 BertramGoodhue
 Bertrand Goldberg
 Bertrand Russell
+Bertrand Russellin haaste
 Bertta
 Berwick-upon-Tweedin rautatieasema
 Berwickin rautatieasema
@@ -99074,6 +99300,7 @@ Bighorn Airways
 Bihor (piirikunta)
 Biker Mice From Mars (vuoden 2006 videopeli)
 Bikkuriman 2000: Charging Card GB
+Bikram Choudhury
 Bilaspurin naiset
 Bilbo the Hobbit
 Bilbon viimeinen laulu
@@ -99396,6 +99623,7 @@ Black Gold (1983)
 Black Gold (1992)
 Black Gold (video game)
 Black Hawk (video game)
+Black Ice (kappale)
 Black Ingvars
 Black Isle Studios
 Black Knight Software
@@ -99815,6 +100043,7 @@ Bodo Illgner
 Bodorganin rautatieasema
 Body Language
 Body Language Live
+Bodyslam
 Boeing
 Boeing 247
 Boeing 707
@@ -100150,6 +100379,7 @@ Boulder Dash II: Rockford's Revenge
 Boulder Dash III
 Boulder Dash series
 Boulens
+Boulevard Haussmann
 Boulos Nassif Borkhoche
 Bounces
 Bounder (video game)
@@ -100372,6 +100602,7 @@ Breakthru (video game)
 Breamoren rautatieasema
 Breath of Fire: Dragon Quarter
 Brecker Brothers
+Breda Ba.65
 Bredburyn rautatieasema
 Bredonin rautatieasema
 Bredäng
@@ -101237,6 +101468,7 @@ Butyraatti
 Buurisodat
 Buurisota
 Buurit
+Buusteri
 Buxtedin rautatieasema
 Buxtonin rautatieasema
 Buy on board
@@ -101841,6 +102073,7 @@ Cara Jade Myers
 Caradog Falls Haltin rautatieasema
 Caraga
 Carapelle Calvisio
+Caravan (albumi)
 Caravan Air
 Caravellix
 Caravino
@@ -101967,6 +102200,7 @@ Carl Voss
 Carl Walz
 Carl Wetzel
 Carl Wieman
+Carl Wilhelm von Sydow
 Carl Wilson
 Carl von Linné
 Carl von Ossietzky
@@ -102322,6 +102556,7 @@ Cauldron (video game)
 Cauldron HQ
 Cauldron II: The Pumpkin Strikes Back
 Causapscal
+Cause célèbre
 Cause for Conflict
 Causelandin rautatieasema
 Cava de’ Tirreni
@@ -102472,6 +102707,7 @@ Cerchio (Italia)
 Ceredigion
 Ceres (Italia)
 Ceresole Reale
+Cergy-Pontoisen yliopisto
 Cerius
 Cerner
 Cerrado
@@ -103273,6 +103509,7 @@ Christina Hodson
 Christina Riegel
 Christina von Saltza
 Christine (televisiosarja)
+Christine Antorini
 Christine Errath
 Christine Kambua Mayanga
 Christine Keeler
@@ -103470,6 +103707,7 @@ Citizen Kane
 Citrix Systems
 Citroën
 Citroën World Rally Team
+Citroën Xsara
 Citroën Xsara WRC
 City Airline
 City Connexion Airlines
@@ -104290,6 +104528,7 @@ Cornel West
 Cornel Wilde
 Cornelia Cinnilla
 Cornelia Funke
+Cornelia Gröschel
 Cornelius Kipng’eno Arap Korir
 Cornellin yliopisto
 Cornerstone (magazine)
@@ -104691,6 +104930,7 @@ Crowborough’n rautatieasema
 Crowcombe Heathfieldin rautatieasema
 Crowhurstin rautatieasema
 Crowlen rautatieasema
+Crowley Liner Services
 Crown Air Systems
 Crown Airways
 Crown Colony -luokka (risteilijä)
@@ -104793,6 +105033,7 @@ Cup of Russia 2003
 Cup-voittajien Cup
 Cup-voittajien cup
 Cuparin rautatieasema
+Cupore
 Curaçao
 Curious George (videopeli)
 Curriehillin rautatieasema
@@ -105943,6 +106184,7 @@ Debra Wilson
 Debuggaus
 Debuggeri
 Debyyttialbumi
+Decade of Aggression
 Decadent
 Decades (Nightwishin albumi)
 Decades: Live in Buenos Aires
@@ -106865,12 +107107,14 @@ DocuSign
 Dodekaedri
 Dodekanesian prefektuuri
 Dodekanoli
+Dodge 600
 Dodge Boy
 Dodge Caliber
 Dodi Al-Fayed
 Dodie Smith
 Dodworthin rautatieasema
 Dodóni
+Does It Offend You, Yeah?
 Dog's Life
 Dogfight
 Dogfight 2187
@@ -108496,6 +108740,7 @@ Eiður Guðjohnsen
 Ejegayehu Dibaba
 Ejike Uzoenyi
 Ekateríni Stefanídi
+Ekenäs FBK
 Ekenäs IF
 Eki Eläinlääkäri
 Eki eläinlääkäri
@@ -109640,6 +109885,7 @@ Ernst Ruska
 Ernst-Happel-Stadion
 Eroosio
 Eros Poli
+Erotica (kappale)
 Erotiikka
 Errico Malatesta
 Erriyon Knighton
@@ -110784,6 +111030,7 @@ FR Aviation
 FS Arromanches
 FS De Grasse (D612)
 FS Duguay-Trouin (D611)
+FS Le Triomphant (S616)
 FS Tourville
 FS Tourville (1788)
 FS Tourville (1811)
@@ -111185,6 +111432,7 @@ Ferdinand Lassalle
 Ferdinand Marcos
 Ferdinand von Wright
 Ferenc Fricsay
+Ferenc I Rákóczi
 Ferenc II Rákóczi
 Ferenc Karinthy
 Ferenc Puskás
@@ -111246,6 +111494,7 @@ Feyenoord Rotterdam
 Fez (video game)
 Ffairfachin rautatieasema
 Ffestiniog Railway
+FiMUG
 Fianarantsoa
 Fianna Fáil
 Fiano
@@ -112043,6 +112292,7 @@ Fornalutx
 Forno Canavese
 Forresin rautatieasema
 Forrest Gump
+Forrest Gump (romaani)
 Forrest Murray
 Forsbackan kenttä
 Forsinardin rautatieasema
@@ -112552,6 +112802,7 @@ Friedrich Cerha
 Friedrich Ebert
 Friedrich Engels
 Friedrich Gerstärker
+Friedrich Hecker
 Friedrich Hirzebruch
 Friedrich Karl
 Friedrich Loeffler
@@ -112693,6 +112944,7 @@ Fugèreville
 Fujairah Aviation Centre
 Fujian
 Fujian Airlines
+Fujisakin metroasema
 Fujisankei Communications International
 Fujiwara no Mototsune
 Fukui
@@ -113389,6 +113641,7 @@ Geely
 Geeni
 Geenien ilmentyminen
 Geenien tulo yhteiskuntatieteisiin
+Geenin ilmentyminen
 Geenitekniikka
 Geeniterapia
 Geesair
@@ -113467,6 +113720,7 @@ Geneven kantoni
 Geneven konferenssi (1954)
 Geneven sopimukset
 Genevenjärvi
+Geneviève Bujold
 Genex
 Genghis Khan (1991 video game)
 Genie in a Bottle
@@ -113965,6 +114219,7 @@ Gillam
 Gilles Lupien
 Gilles Marotte
 Gilles Meloche
+Gilles Rondy
 Gilles Tremblay
 Gilles Villemure
 Gillestugan
@@ -114898,6 +115153,7 @@ Greta Garbo
 Greta Salóme
 Greta Van Fleet
 Gretchen Merrill
+Gretchen Whitmer
 Gretchen Wilson
 Grete Berget
 Gretna Greenin rautatieasema
@@ -115220,6 +115476,7 @@ Gunter Lange
 Guntonin rautatieasema
 Guomindang
 Gurr-Goni
+Guru Granth Sahib
 Guru Meditation
 Gus Bodnar
 Gus Giesbrecht
@@ -115615,6 +115872,7 @@ HMS Pioneer (R76)
 HMS Pretoria Castle
 HMS Prince Consort (1862)
 HMS Prince of Wales (53)
+HMS Queen Elizabeth (1913)
 HMS Queen Elizabeth (R08)
 HMS Queen Mary
 HMS Raider (H15)
@@ -116007,6 +116265,7 @@ Hamblen rautatieasema
 Hamburg Airways
 Hamburg Cyclassics 2023
 Hamburg International
+Hamburger Hillin taistelu
 Hamburger SV
 Hamdi Kasraoui
 Hamed Namouchi
@@ -116057,6 +116316,7 @@ Hampton-in-Ardenin rautatieasema
 Hamptonin rautatieasema
 Hampuri
 Hampurilainen
+Hampurin islamilainen keskus
 Hamra Air
 Hamsteadin rautatieasema
 Hamsters en Folie
@@ -116449,6 +116709,7 @@ Harpyijahauta
 Harrajärvi
 Harrastus
 Harri "Danny" Kinnunen
+Harri Broman
 Harri Heliövaara
 Harri Holkeri
 Harri Jansson
@@ -116622,6 +116883,7 @@ Hassiba Boulmerka
 Hassisen Kone
 Hasso Krull
 Hassocksin rautatieasema
+Hastings Gilford
 Hastings-luokka (sluuppi)
 Hastingsin rautatieasema
 Hat Trick (video game)
@@ -116787,6 +117049,7 @@ Haunting Ground
 Haunting: Australia
 Haupitsi
 Hausjärvi
+Haut-Sassandran alue
 Hautajärvi (Toivakka, Huikko)
 Hautajärvi (Toivakka, Kankainen)
 Hautakivi (sarjakuvahahmo)
@@ -116806,6 +117069,7 @@ Havaijin kuningaskunta
 Havaijinkitara
 Havaijisaaret
 Havainto
+Havaintopsykologia
 Havanganjärvi
 Havanna
 Havantin rautatieasema
@@ -116985,6 +117249,7 @@ Heidi Fleiss
 Heidi Klum
 Heidi Kyrö
 Heidi Nieminen
+Heidi Parland
 Heighingtonin rautatieasema
 Heikanlampi (Kangasniemi)
 Heike Drechsler
@@ -117483,6 +117748,7 @@ Henrik Tikkanen
 Henrik V (Englanti)
 Henrik VIII
 Henrik Zetterberg
+Henrika Ringbom
 Henrikki
 Henrin Maailma
 Henry
@@ -118018,7 +118284,9 @@ Hilmar Örn Hilmarsson
 Hilpari
 Hilpeys ja ennakkoluulo
 Hilsean rautatieasema
+Hilton Head Island
 Hiltu ja Ragnar
+Hiltulanlahden työväentalo
 Himalaja
 Himalajanhaikara
 Himalaya Airlines
@@ -118037,6 +118305,7 @@ Hindleyn rautatieasema
 Hindu
 Hindulainen filosofia
 Hindulaisuus
+Hindustaninpöllö
 Hingham
 Hinkalolampi
 Hinkanlampi
@@ -118329,6 +118598,7 @@ Homologinen algebra
 Homorod
 Homoseksuaali
 Homoseksuaalisuus
+Homotherium
 Homotooppinen algebra
 Homura (video game)
 Honduras
@@ -118336,6 +118606,7 @@ Honduras Airlines
 Honduras kesäolympialaisissa 2008
 Honduras kesäolympialaisissa 2012
 Honduras kesäolympialaisissa 2016
+Hondurasin historia
 Hondurasin jalkapallomaajoukkue
 Honey Pie
 Honey Pit
@@ -119468,6 +119739,7 @@ I'm So Tired
 I, Ball
 I, Ball 2
 I, Ball II: Quest for the Past
+I, Tonya
 I-Ninja
 I-divisioona (jääkiekko)
 I-luokka (hävittäjä)
@@ -119543,6 +119815,7 @@ IQ and the Wealth of Nations
 IR Gurus
 IRIS-T
 IRS Airlines
+IRWIN
 IS-IS
 ISA (lentoyhtiö)
 ISD Avia
@@ -119975,6 +120248,7 @@ Igor Larionov
 Igor Lisovski
 Igor Nikitin
 Igor Nikulin (jääkiekkoilija)
+Igor Pavlov
 Igor Radulov
 Igor Stravinsky
 Igor Tamm
@@ -120143,6 +120417,7 @@ Illeana Douglas
 Illicit major
 Illicit minor
 Illinois
+Illinoisin yliopisto, Chicago
 Illinoisin yliopisto, Urbana–Champaign
 Illumina, Inc.
 Illuminati (sarjakuvat)
@@ -120953,6 +121228,7 @@ Irlanninsammal
 Irlanti
 Irlanti (saari)
 Irlanti Eurovision laulukilpailussa
+Irlanti Eurovision tanssikilpailussa
 Irlanti kesäolympialaisissa 1952
 Irlanti kesäolympialaisissa 1956
 Irlanti kesäolympialaisissa 1964
@@ -120970,6 +121246,7 @@ Irma Torvi
 Irma Wickström
 Irmeli Ruuska
 Irmeli Sallamo
+Irmfried Eberl
 Irna Phillips
 Irokeesien kieliryhmä
 Iron Brigade (video game)
@@ -121598,6 +121875,7 @@ Isoglukoosi
 Isohirvenjäkälä
 Isojako
 Isojalan poika
+Isojamssi
 Isojoen–Jääjoen valuma-alue
 Isojärven kansallispuisto
 Isojärvi (Jyväskylä)
@@ -121671,6 +121949,7 @@ Istriotin kieli
 Istro-romania
 Istrualanlampi
 Istukka
+Istukkanisäkkäät
 Istvan Zsolt
 István Juhász
 István Juhász (jalkapalloilija)
@@ -121904,6 +122183,7 @@ Ivan Hlinkan muistoturnaus 2014
 Ivan Hlinkan muistoturnaus 2015
 Ivan Horn
 Ivan Jakubovski
+Ivan Jarygin
 Ivan Konev
 Ivan Kožedub
 Ivan Kutaisov
@@ -121933,6 +122213,7 @@ Ivar Heikel
 Ivar Markus Tallgren
 Ivar Nordlund
 Ivar Westman
+Ivar Widéen
 Ivar Wilskman
 Ivaton kansainvälinen lentoasema
 Ivatsevitšy
@@ -121971,6 +122252,7 @@ Iznate
 Iznogoud (video game)
 Izzy Stradlin
 Ištarin portti
+I’m on Fire (Brother Firetriben kappale)
 J C Bamford
 J Dave Rogers
 J P Hunt
@@ -122023,6 +122305,7 @@ J. Stephanus Stadium
 J. Säilä
 J. V. Ilkka
 J. V. Lehtonen
+J. W. Eloheimo
 J. W. Keto
 J. W. von Goethe
 J. William Fulbright
@@ -122252,6 +122535,7 @@ Jaguar Mishin Sashi Senyou Soft: Mario Family
 Jaguarundi
 Jahangir Khan
 Jahangir Khan's World Championship Squash
+Jahir Barraza
 Jahkola
 Jahnulales
 Jahti
@@ -122834,6 +123118,7 @@ Jameson Thomas
 Jamestown (Virginia)
 Jami Auvinen
 Jamie Allison
+Jamie Bamber
 Jamie Carragher
 Jamie Foxx
 Jamie Heward
@@ -123036,6 +123321,7 @@ Jarmo Koivunen (pilapiirtäjä)
 Jarmo Lehtinen (kartanlukija)
 Jarmo Lehtonen (koripalloilija)
 Jarmo Lindberg
+Jarmo Moilanen
 Jarmo Myllys
 Jarmo Mäkinen
 Jarmo Nikku
@@ -123850,6 +124136,7 @@ Jin Air
 Jin Boyang
 Jin Jong-oh
 Jin Yuanyuan
+Jin-dynastia (1115–1234)
 Jinanin yliopisto
 Jindřichův Hradec
 Jinggong Jet
@@ -124417,6 +124704,7 @@ John William Brown
 John Wilmot
 John Wilson
 John Young (astronautti)
+John Young (maahockeypelaaja)
 John Zander
 John Zimmerman
 John o' Groats
@@ -125255,6 +125543,7 @@ Julie Christie
 Julie Dreyfus
 Julie Hagerty
 Julie Lynn Holmes
+Julie Masse
 Julie Payette
 Julien Gracq
 Julien Poulin
@@ -125291,6 +125580,7 @@ Julius Erving
 Julius Immanuel Gummerus
 Julius Krohn
 Julius Malema
+Julius von Verdy du Vernois
 Juliusten-Claudiusten hallitsijasuku
 Julkinen sektori
 Julkinen valta
@@ -126026,6 +126316,7 @@ Jääpallon maailmanmestaruuskilpailut 2014
 Jääpallon maailmanmestaruuskilpailut 2019
 Jääpallon naisten SM-sarja 2018–2019
 Jääpallon naisten maailmanmestaruuskilpailut 2019
+Jääpallon pohjoismaisen sarjan kausi 1938–1939
 Jääpeili
 Jääski
 Jäätanssi
@@ -126983,6 +127274,7 @@ Kanadan arktiset saaret
 Kanadan ePrix 2017
 Kanadan ilmavoimat
 Kanadan jääkiekkomaajoukkue
+Kanadan kansalliskirjasto ja -arkisto
 Kanadan kuninkaallinen laivasto
 Kanadan naisten jalkapallomaajoukkue
 Kanadan naisten jääkiekkomaajoukkue
@@ -127675,6 +127967,7 @@ Karppi
 Karppijärvi
 Karri Koivukoski
 Karsasjärvi
+Karsinnat Baseballin Euroopan-mestaruuskilpailuihin 2012
 Karsinnat jalkapallon Euroopan-mestaruuskilpailuihin 2012
 Karsinnat jalkapallon Euroopan-mestaruuskilpailuihin 2016
 Karsinnat jalkapallon Euroopan-mestaruuskilpailuihin 2020
@@ -127740,6 +128033,7 @@ Kaskadivuoret
 Kaskenmäki
 Kaski
 Kaskilampi (Kivijärvi)
+Kaskiniemi
 Kaskislampi
 Kaskiviljely
 Kasmir
@@ -127849,6 +128143,7 @@ Katharina Liensberger
 Katharina Truppe
 Katharina von Bora
 Katharine Kerr
+Katharine McPhee
 Katherina Matousek
 Katherine Mansfield
 Katherine Neville
@@ -127915,6 +128210,7 @@ Kattarat
 Katti
 Katti (elokuva)
 Katti-Matti
+Katti-Matti (vuoden 1984 piirrossarja)
 Kattiharju
 Kattilajärvi (Jämsä, Rumakulma)
 Kattilajärvi (Jämsä, Vekkula)
@@ -128166,6 +128462,7 @@ Kehitysbiologia
 Kehitysmaa
 Kehitysyhteistyö
 Kehostapoistumiskokemus
+Kehruu
 Kehrääjälinnut
 Kehän kovin kundi
 Kehäpäätelmä
@@ -128308,6 +128605,7 @@ Keltakuume
 Keltalammi
 Keltalampi (Perho)
 Keltalampi (Pieksämäki, Ristimaäki)
+Keltanaamasirkkunen
 Keltanokka
 Keltapyrstövuokkokala
 Keltavuokkokala
@@ -128931,6 +129229,7 @@ Kibbutsi
 Kibungon roomalaiskatolinen hiippakunta
 Kibworthin rautatieasema
 Kicevo
+Kick (vuoden 2014 elokuva)
 Kick Box Vigilante
 Kick Master
 Kick Off
@@ -129018,6 +129317,7 @@ Kihliänjärvi-Nuolinki
 Kiidi
 Kiihdytysajot
 Kiihkeä kesä
+Kiihkeät tuulet (kappale)
 Kiihko (elokuva)
 Kiihottaminen kansanryhmää vastaan
 Kiikanjärvi
@@ -129550,6 +129850,7 @@ Kissalampi (Pieksämäki)
 Kissalampi (Ähtäri)
 Kissanliha
 Kissanmaa
+Kissojen kielen kompasanakirja
 Kista
 Kit Williams
 Kita-Hiroshima (Hiroshima)
@@ -129617,6 +129918,7 @@ Kivijärvi (Padasjoki, Nyystölä)
 Kivijärvi (Padasjoki, Torittu)
 Kivijärvi (Pihtipudas)
 Kivijärvi (Ranua)
+Kivijärvi (Ulvila)
 Kivijärvi (Ähtäri)
 Kivikarinjärvi
 Kivikausi
@@ -130443,6 +130745,7 @@ Kortteenperä
 Kortteinen (Ähtäri)
 Kortteliliiga
 Korttimenlampi
+Koruahven
 Koruplekot
 Korvake
 Korvanen (Hankasalmi)
@@ -130662,6 +130965,7 @@ Koúlouri
 Kočani
 Košice
 Koštšei
+Kožva
 Kraatteri
 Kraft Heinz
 Kraftwerk
@@ -130954,6 +131258,7 @@ Ksanthos (Lyykia)
 Ksar el-Kebirin taistelu
 Ksenia Stolbova
 Ksenon
+Ksenondifluoridi
 Ksyleeni
 Ksylitoli
 Ksylofoni
@@ -131493,6 +131798,7 @@ Kuuhullut (Aku Ankan taskukirja)
 Kuukasjärvi (kylä)
 Kuukausi
 Kuulantyöntö
+Kuulokoira
 Kuulutetun kuoleman kronikka
 Kuuma kissa?
 Kuuma lähde
@@ -132163,6 +132469,7 @@ La Seu
 La Spezian maakunta
 La Tour-de-Peilz
 La Trinité-des-Monts
+La Truite
 La Tuque
 La Union
 La Valenciana Taxi Aéreo
@@ -133090,6 +133397,7 @@ Laurent Mohellebi
 Laurent Schwartz
 Laurent Tirard
 Laurent Vial
+Laurent de Gouvion-Saint-Cyr
 Laurentides
 Laurentius Petri
 Lauri (Rõuge)
@@ -133119,6 +133427,7 @@ Lauri Pelkonen
 Lauri Pihkala
 Lauri Randla
 Lauri Sallinen
+Lauri Saxén
 Lauri Sinikari
 Lauri Sipari
 Lauri Suomalainen
@@ -133246,6 +133555,7 @@ Le Mont-sur-Lausanne
 Le Mystère de Kikekankoi
 Le Nécromancien
 Le Plessis-Bouchard
+Le Poinçonnet
 Le Puy-en-Velay
 Le Pétomane
 Le Rocher-Percé
@@ -134598,6 +134908,7 @@ Liu Yifei
 Liukoisuus
 Liukuluku
 Liuos
+Live 1990
 Live ?!*@ Like a Suicide
 Live Bird 65–67
 Live Encounters
@@ -134651,6 +134962,7 @@ Liverpool Road Haltin rautatieasema
 Liverpool South Parkwayn rautatieasema
 Liverpool Streetin asema
 Liversedgen rautatieasema
+Livewire
 Livin jäätikkö
 Living Loud
 Living Room Suite
@@ -134854,6 +135166,7 @@ Loistokaijat
 Loistokottaraiset
 Loistopeipot
 Loitsu
+Loittorengas
 Lojulampi
 Lokakuu
 Lokakuun vallankumous
@@ -134913,6 +135226,7 @@ Londonderry Air
 Londonderryn rautatieasema
 Lone Star Airlines
 Lone Wolf - The Mirror of Death
+Lonely Blue Boy
 Lones Wigger
 Lonesome Crow
 Long Beach
@@ -135496,6 +135810,7 @@ Luettelo Sognin ja Fjordanen läänin taajamista
 Luettelo Spotifyn kuunnelluimmista suomalaisista kappaleista
 Luettelo Stanley Cupin voittaneista joukkueista
 Luettelo Sumerin kuninkaista
+Luettelo Suomen aitokoilajeista
 Luettelo Suomen entisistä kunnista
 Luettelo Suomen hallitsijoista ja valtionpäämiehistä
 Luettelo Suomen kansallispuistoista
@@ -135512,6 +135827,7 @@ Luettelo Suomen virallisen albumilistan ykkösistä 2012
 Luettelo Suomen virallisen latauslistan ykkösistä vuonna 2012
 Luettelo Suomen virallisen latauslistan ykkösistä vuonna 2017
 Luettelo Suomen virallisen mid-price-listan ykkösistä 2012
+Luettelo Suomen virallisen musiikki-DVD-listan ykkösistä vuonna 2014
 Luettelo Suomessa rauhoitetuista kasvilajeista
 Luettelo Super Nintendo Entertainment System -peleistä
 Luettelo Säkylän julkisista taideteoksista ja muistomerkeistä
@@ -135566,6 +135882,7 @@ Luettelo haavipallon olympiamitalisteista
 Luettelo hahmoista Muumi-tarinoissa
 Luettelo halpalentoyhtiöistä
 Luettelo historiallisista pääkaupungeista
+Luettelo italialaisista koiraroduista
 Luettelo itsenäisistä valtioista
 Luettelo jalkapallon Euroopan cupin ja Mestarien liigan loppuotteluista
 Luettelo jalkapallon Mestareiden liigassa pelanneista suomalaisista
@@ -135622,6 +135939,7 @@ Luettelo painonnoston olympiamitalisteista
 Luettelo pelotan olympiamitalisteista
 Luettelo pesäpallon Suomen-mestaruusmitalisteista
 Luettelo pikaluistelun olympiamitalisteista
+Luettelo pikkuplaneetoista: 210001–211000
 Luettelo poliittisista syistä Suomessa vangituista kansanedustajista
 Luettelo poolon olympiamitalisteista
 Luettelo purjehduksen olympiamitalisteista
@@ -136186,6 +136504,7 @@ Lähdelampi (Kivijärvi, Risuperä)
 Lähdeviitteiden hallintajärjestelmä
 Läheltä piti
 Lähestymiskielto
+Lähetekeskustelu
 Lähetysasema
 Lähetyssaarnaaja
 Lähetystyö
@@ -136380,6 +136699,7 @@ M15-luokka
 M18 (valtatie)
 M2 (Valko-Venäjä)
 M2 Bradley
+M2 Light Tank
 M24 Chaffee
 M26 Pershing
 M270 MLRS
@@ -136416,6 +136736,7 @@ MF (taajuusalue)
 MG Aviación
 MGM Interactive
 MGM-140 ATACMS
+MGMT (albumi)
 MGT (video game)
 MH Motorcycles
 MH Motorcycles Duna 125
@@ -136662,6 +136983,7 @@ Maastohiihto talviolympialaisissa 2018
 Maastohiihto talviolympialaisissa 2018 – miesten 15 km vapaa hiihtotyyli
 Maastohiihto talviolympialaisissa 2018 – naisten yhdistelmähiihto
 Maastohiihto talviolympialaisissa 2022
+Maastojuoksu olympialaisissa
 Maastojuoksun Suomen-mestaruuskilpailut
 Maastojuoksun Suomen-mestaruuskilpailut 1966
 Maastrichtin sopimus
@@ -137213,6 +137535,7 @@ Malik Jabir
 Maliki
 Malila Airlift
 Malin jalkapallomaajoukkue
+Malin parlamenttivaalit 2013
 Malindo Airways
 Mall Airways
 Malla Malmivaara
@@ -137271,6 +137594,7 @@ Maltillinen kokoomus
 Maltion luonnonpuisto
 Maltonin rautatieasema
 Maltoosi
+Maltsat
 Malvasia
 Malvern Linkin rautatieasema
 Malvern Wellsin rautatieasema
@@ -137344,6 +137668,7 @@ Mancopter
 Mancor de la Vall
 Mandala Airlines
 Mandalay Pictures
+Mandanit
 Mandariinikiina
 Mandarin Air
 Mandarin Airlines
@@ -137404,6 +137729,7 @@ Manky (video game)
 Manley and Associates
 Mann Air
 Mann Air Ltd
+Mann Lines
 Mann Yadanarpon Airlines
 Manna (muusikko)
 Manne Siegbahn
@@ -137548,6 +137874,7 @@ Marcel Lambert
 Marcel Paille
 Marcel Pelletier
 Marcel Proust
+Marcel Prévost
 Marcel Uderzo
 Marcel Witeczek
 Marcel's Quantum Kitchen
@@ -137747,6 +138074,7 @@ Marie Osmond
 Marie Phillips
 Marie Wilson
 Marie von Thurn und Taxis
+Marie-Anne Collot
 Marie-Antoinette
 Marie-France Dubreuil
 Marie-Josephine Gaudette
@@ -137984,6 +138312,7 @@ Mark Webber
 Mark Williams (näyttelijä)
 Mark Wilson (game designer)
 Mark Wotton
+Mark Zuckerberg
 Mark of the Ninja
 Markair
 Market Harborough’n rautatieasema
@@ -138035,6 +138364,7 @@ Marks Teyn rautatieasema
 Marksman-luokka
 Markus Alm
 Markus Blom
+Markus Hallasuo
 Markus Harju
 Markus Hännikäinen
 Markus Jokela (valokuvaaja)
@@ -138564,6 +138894,7 @@ Matlampi (Mäntyharju)
 Matlampi (Viitasaari)
 Matlock Bathin rautatieasema
 Matlockin rautatieasema
+Matojärvi
 Matojärvi (Kuhmoinen)
 Matolammi (Jämsä, Koivukylä)
 Matolammi (Virrat, Jähdyspohja)
@@ -138576,6 +138907,7 @@ Matolampi (Viitasaari, Kuhalankylä)
 Matolampi (Viitasaari, Permosranta)
 Matonabbee
 Matonen
+Matonkudonta
 Matosammakot
 Matra Computer Automations
 Matriisin Gla-proteiini
@@ -138795,6 +139127,7 @@ Mauritius kesäolympialaisissa 2012
 Mauritius kesäolympialaisissa 2016
 Mauritz Stensson Leijonhufvud
 Mauritz Stiller
+Mauritz Wilhelm Nordenheim
 Maurizio Cheli
 Maurizio Marchetti
 Maurizio Margaglio
@@ -138905,6 +139238,7 @@ Mayair
 Mayakansat
 Maybolen rautatieasema
 Mayfieldin rautatieasema
+Mayhem (yhtye)
 Mayhem in Monsterland
 Mayo (Quebec)
 Mayon kreivikunta
@@ -139144,6 +139478,7 @@ Melanesialaiset
 Melanie Schlanger
 Melanie Valerio
 Melankolian riemut – Parhaat 2009–2015
+Melankolinen masennus
 Melba Moore
 Melbourne
 Melbourne (Quebec)
@@ -139307,6 +139642,7 @@ Merenkulku
 Merenkurkku
 Merenkurkun saaristo
 Merenlampi (Kangasniemi)
+Merethe Lindstrøm
 Meri (albumi)
 Meri Stark
 Meri-VHF
@@ -139406,6 +139742,7 @@ Mesiälampi
 Mesiänlampi (Kangasniemi)
 Mesiänlampi (Mikkeli)
 Mesmerismi
+Mesogeia-maalari
 Mesolóngi
 Mesoni
 Mesoplodon traversii
@@ -139952,6 +140289,7 @@ Michel Larocque
 Michel Legrand
 Michel López
 Michel Mayor
+Michel Miklík
 Michel Ouellet
 Michel Picard
 Michel Plasse
@@ -140720,6 +141058,7 @@ Mindscape Inc.
 Mindscape Software
 Mindshadow (adventure game)
 Mindtrap
+Mine-ye gonah
 Minebea Technologies
 Minecraft
 Minecraft (pelisarja)
@@ -141515,6 +141854,7 @@ Mortdecai
 Mortehoe and Woolacomben rautatieasema
 Morten Meldal
 Morten Olsen
+Morten Thorsby
 Mortimerin rautatieasema
 Mortlaken rautatieasema
 Morton’s Canterbury Hall
@@ -141809,6 +142149,7 @@ Mummun saappaassa soi fox
 Mun mielestä
 Muna Dahouk
 Munakas (Hämeenlinna)
+Munapirtti
 Munch-It (video game)
 Munchman 64
 Mundan taistelu
@@ -143195,6 +143536,7 @@ Namco Museum
 Namco Tales Studio
 Namco X Capcom
 Namdeb Diamond Corporation
+Namer
 Namib
 Namibia
 Namibia Commercial Aviation
@@ -143287,6 +143629,7 @@ Narborough’n rautatieasema
 Narc (videopeli)
 Narco Police
 Narcos
+Narew
 Naritan kansainvälinen lentoasema
 Narnian tarinat
 Narnian tarinat: Prinssi Kaspian
@@ -143386,6 +143729,7 @@ Nathan Paetsch
 Nathan Perrott
 Nathan Söderblom
 Nathaniel Hawthorne
+Nathaniel Highmore (kirurgi)
 Nathaniel Niles
 Nation of Islam
 National 2
@@ -143648,6 +143992,7 @@ Nelitahtimoottori
 Nelitermivirhe
 Neliveto
 Neliökilometri
+Neliömatriisi
 Neljä huonetta
 Neljä naurettavaa naapuria
 Neljä ratsastajaa (vuoden 1921 elokuva)
@@ -143769,6 +144114,7 @@ Netta Laurenne
 Nettikasino
 Nettikupla
 Nettotulos
+Nettovarallisuus
 Nettuno
 Network Aviation Services
 Network Rail
@@ -144672,6 +145018,7 @@ Nogait
 Nogornyin viihdekeskus
 Noin 7 veljestä
 Noin viikon uutiset
+Noir (albumi)
 Noise (kappale)
 Noise Records
 Noisettes
@@ -145155,6 +145502,7 @@ Nunavut
 Nunchaku
 Nuneatonin rautatieasema
 Nunheadin rautatieasema
+Nunnavuoren palloiluhalli
 Nuno Gomes
 Nuno Rodrigues da Silva
 Nunthorpen rautatieasema
@@ -145826,6 +146174,7 @@ Ohenlampi (Hankasalmi)
 Ohenlampi (Kangasniemi)
 Ohenlampi (Mikkeli)
 Ohenlampi (Ähtäri)
+Ohimoluu
 Ohio (joki)
 Ohio (täsmennyssivu)
 Ohio Stadium
@@ -145884,6 +146233,7 @@ Oikukas kuolema
 Oil Barons
 Oil's Well
 Oili Aho
+Oili Komonen
 Oili Korkeamäki
 Oili Suomi
 Oili Suominen
@@ -146044,6 +146394,7 @@ Olga Jegorova
 Olga Kurylenko
 Olga Orgonista
 Olga Pavlovna Romanova
+Olga Suharnova
 Olga Temonen
 Olga Terho
 Olga Tokarczuk
@@ -146436,6 +146787,7 @@ Optinen levy
 Optinen litografia
 Optipari
 Optyx
+Or Yehuda
 Oraalinen
 Oraattori
 Orajärvi (Jyväskylä)
@@ -146873,6 +147225,7 @@ Overtonin rautatieasema
 Overworks
 Ovi ois
 Ovidius
+Ovie Iroro
 Ovie Soko
 Ovindoli
 Owen Brunette
@@ -146997,6 +147350,7 @@ PRRG3
 PRRG4
 PRT Aviation
 PSA Airlines
+PSA PF3 -pohjalevy
 PSI Warrior
 PSI-5 Trading Company
 PSV Eindhoven
@@ -148646,8 +149000,10 @@ Pentti Rekola
 Pentti Saarikoski
 Pentti Saaritsa
 Pentti Sammallahti
+Pentti Sistonen
 Pentti Uronen
 Pentti Valkeala
+Penttilä
 Penttilänlampi (Mäntyharju)
 Pentu on aina pentu
 Pentujengi Alaskassa
@@ -148860,6 +149216,7 @@ Perunroseepippuri
 Perunsardelli
 Peruskartta
 Peruskirja 77
+Peruskorttipakka
 Peruskoulu
 Perussuomalaiset
 Perussuomalaisten eduskuntaryhmä
@@ -149411,6 +149768,7 @@ Phoenix Group
 Phoenix Helicopter Academy
 Phoenix Sky Harborin kansainvälinen lentoasema
 Phoenix Suns
+Phoenix Wright: Ace Attorney
 Phoenixin eläinpoliisit
 Phonetics
 Photon Paint
@@ -149831,6 +150189,7 @@ Piggy (video game)
 Piggy Tales
 Pigmentti
 Pihamauriainen
+Pihkakääriäinen
 Pihkalan pesäpallostadion
 Pihkova
 Pihkovan alue
@@ -149982,6 +150341,7 @@ Pilkkalampi (Kouvola)
 Pilkkiminen
 Pilkkurilammi
 Pillin rautatieasema
+Pillowtalk
 Pilningin rautatieasema
 Pilote
 Piltolan seisake
@@ -150203,6 +150563,7 @@ Pit-Fighter
 Pitbull
 Pitbull Syndicate
 Pitcairn
+Pitcairnin lippu
 Pitcairnsaaret
 Pitcaplen rautatieasema
 Pitchfork
@@ -150515,6 +150876,7 @@ Pogradecin piirikunta
 Pogromi
 Pogóni
 Pohis-Lahnalampi
+Pohjajoki
 Pohjajärvi (Virrat)
 Pohjalainen
 Pohjalammi (Virrat)
@@ -150630,6 +150992,7 @@ Pohjois-Rhodesia
 Pohjois-Saksan evankelis-luterilainen kirkko
 Pohjois-Savo
 Pohjois-Savon maakunta
+Pohjois-Savon rykmentin 3. pataljoona
 Pohjois-Savon vaalipiiri
 Pohjois-Somerset
 Pohjois-Syväjärvi
@@ -150663,6 +151026,7 @@ Pohjoissothon kieli
 Pohjoisterritorio
 Pohjoisvaltiot
 Pohjolan kustannus
+Pohjolan punainen sissipataljoona
 Pohjolanmaa
 Pohoslampi (Mikkeli, Häkkilä)
 Pohoslampi (Mikkeli, Pölkky)
@@ -150703,6 +151067,7 @@ Poitiers’n taistelu (1356)
 Poitlammi (eteläinen)
 Poitlammi (pohjoinen)
 Poitou-Charentes
+Pojat (albumi)
 Pojat on poikii
 Pojat urhokkaat
 Pojoen laakso
@@ -151897,6 +152262,7 @@ Pugwash-liike
 Pugõstu
 Puhallinsoitin
 Puhallus
+Puhallusmuovaus
 Puhallusputki
 Puhdastila
 Puhdelammi
@@ -152232,6 +152598,7 @@ Pyhäkkö
 Pyhälampi (järvi Hämeenlinnassa)
 Pyhäluoma
 Pyhän Andreaan kirkko (Oulu)
+Pyhän Henrikin katolinen katedraaliseurakunta
 Pyhän Klement Ohridialaisen yliopisto
 Pyhän Kolminaisuuden katedraali (Oulu)
 Pyhän Kolminaisuuden kirkko (Kempele)
@@ -152419,6 +152786,7 @@ Pälkjärvi
 Pälkäne
 Pälkänevesi
 Pälämä
+Pängätsalo
 Pänttärinlampi (Kangasniemi)
 Pär Lagerkvist
 Pär Slätis
@@ -152478,6 +152846,7 @@ Pélla (alueyksikkö)
 Pépé Béquilles
 Péribonka
 Péter Szabó
+Pétros Galaktópoulos
 Pétur Guðmundsson
 Përmetin piirikunta
 Põdra (Rõuge)
@@ -152867,6 +153236,7 @@ Radikaali keskusta
 Radikaali oikeisto
 Radikaali vasemmisto
 Radikaalifeminismi
+Radikaalipietismi
 Radim Bicanek
 Radim Vrbata
 Radio
@@ -153258,6 +153628,7 @@ Randers
 Randers FC
 Randersin kunta
 Randi Bakke-Gjertsen
+Randolph Peters
 Random Access
 Random Access (video game developer)
 Randstad Holding
@@ -153447,6 +153818,7 @@ Rapides-des-Joachims
 Rappahannockin piirikunta
 Rappiotaide
 Rapsiöljy
+Raptarr
 Rapture of the Deep
 Rapujuhlat
 Rapusumu
@@ -153540,6 +153912,7 @@ Ratsastus kesäolympialaisissa 2008
 Ratsastus kesäolympialaisissa 2012
 Ratsastus kesäolympialaisissa 2016
 Ratsplat
+Ratsuväki
 Ratsuväkimuseo
 Ratšan maanjäristys 1991
 Raubtier
@@ -155486,6 +155859,7 @@ Robert Stirling
 Robert Stolz
 Robert Storz
 Robert Strassburg
+Robert Sundman
 Robert Suter
 Robert Sutton
 Robert Sweet
@@ -155864,6 +156238,7 @@ Roger Lemelin
 Roger Lemerre
 Roger Martin du Gard
 Roger Maxwell
+Roger Michell
 Roger Michelot
 Roger Moore
 Roger Penrose
@@ -156306,12 +156681,14 @@ Rotterdam Jet Center
 Rottinkipalmut
 Rottis
 Rotunda
+Rotuvaari
 Rougemont
 Rougemont (Kanada)
 Rough Trade Records
 Roughton Roadin rautatieasema
 Roukanen
 Roukejärvi
+Roukon koulu
 Round the Bend (video game)
 Round-Up (video game)
 Roundheads (video game)
@@ -156627,6 +157004,7 @@ Ruonajoki (Ranua)
 Ruontakunen
 Ruopaslampi
 Ruostelampi (Kivijärvi, Autionperä)
+Ruostelintuhaukka
 Ruotajärvi
 Ruotalampi (Laukaa)
 Ruotepuolinen (Jämsä, Petäiskulma)
@@ -157071,6 +157449,7 @@ SAT Airlines
 SATA Air Acores
 SATA International
 SATENA
+SB Savo
 SBK-09 Superbike World Championship
 SBS Broadcasting
 SC Alajärvi
@@ -158086,6 +158465,7 @@ Saksan Bundesliigan kausi 1964–1965
 Saksan Bundesliigan kausi 1965–1966
 Saksan Cup
 Saksan Grand Prix 1979
+Saksan Grand Prix 2005
 Saksan Grand Prix 2011
 Saksan Lounais-Afrikka
 Saksan alle 20-vuotiaiden jääkiekkomaajoukkue
@@ -158603,6 +158983,7 @@ Samuli Edelmann
 Samuli Haataja
 Samuli Jokinen
 Samuli Juvonen
+Samuli Kankaanperä
 Samuli Niittymäki
 Samuli Pakarinen
 Samuli Paronen
@@ -158997,6 +159378,7 @@ Sarnaun rautatieasema
 Sarnin rautatieasema
 Sarno
 Saroj Khan
+Sarpanitum
 Sarpedon
 Sarpiokasvit
 Sarpiot
@@ -159817,6 +160199,7 @@ Serge Anglehart
 Serge Boisvert
 Serge Gainsbourg
 Serge Haroche
+Serge Reggiani
 Sergeant Rocker Rides Again
 Sergeant Seymour Robot Cop
 Sergei Arsenjevic Nevski
@@ -159922,6 +160305,7 @@ Serre
 Serren metsissä
 Serres de Llevant
 Serrungarina
+Serse
 Servair, Private Charter
 Servant Air
 Service Aerien Francais
@@ -160728,6 +161112,7 @@ Siirtymätalous
 Siitepöly
 Siivet (elokuva)
 Siivoton juttu
+Sijaishallitsijoiden aika
 Sijaissota
 Sijoitusmenetelmä
 Sika (Rõuge)
@@ -162967,6 +163352,7 @@ Stash
 State Air Company Berkut
 State Bank of India
 State Herbarium of South Australia
+State Route 24 (Kalifornia)
 State Unitary Air Enterprise
 State of Emergency (videopeli)
 State of Emergency 2
@@ -163168,6 +163554,7 @@ Steve Higgins
 Steve Hrymnak
 Steve Jackson
 Steve Jerrard
+Steve Johnson (tennispelaaja)
 Steve Jones (golfinpelaaja)
 Steve Junker
 Steve Kelly
@@ -164164,6 +164551,7 @@ Suomen ulkoasiainministeri
 Suomen ulkoasiainministeriö
 Suomen ulkoministeriö
 Suomen ulkopolitiikka
+Suomen urheilu 1974
 Suomen urheilu 2022
 Suomen urheilugaala
 Suomen urheiluopisto
@@ -164221,6 +164609,7 @@ Suomi – Finland
 Suomi – Finland (albumi)
 Suomi-palkinto
 Suomi-sarjan kausi 2018–2019
+Suomi-sarjan kausi 2021–2022
 Suomi-yhtiö
 SuomiRock
 SuomiRäp
@@ -164591,6 +164980,7 @@ Suurkaupungin tytär
 Suurkuningas
 Suurkäräjät
 Suurlähetystö
+Suurpujottelun maailmancup
 Suursaari
 Suursuonlampi (Mäntyharju)
 Suurteholaskenta
@@ -164671,6 +165061,7 @@ Svenska Direktflyg
 Svenska Handelsbanken
 Svenska Teatern
 Svenska damhockeyligan
+Svenska kraftnät
 Sverdlovskin alue
 Sveriges Radio
 Sveriges Television
@@ -164824,6 +165215,7 @@ Sylvester & Tweety: Breakfast on the Run
 Sylvesteri ja Tipi: Dekkarit
 Sylvi Kekkonen
 Sylvi Keskinen
+Sylvi Pellonperä
 Sylvi-Kyllikki Kilpi
 Sylvia (vuoden 1965 elokuva)
 Sylvia Jebiwott Kibet
@@ -164978,6 +165370,7 @@ Syvänmeren hauta
 Syvärinen (järvi)
 Syväsäiliö
 Syväys
+Syyhy
 Syyllistäminen assosiaatiolla
 Syyria
 Syyria (alue)
@@ -165042,6 +165435,7 @@ Sähköpiano
 Sähköposti
 Sähkötys
 Sähkövoimatekniikka
+Säihkylurit
 Säiniönjärvi
 Säkenöivää voimaa
 Säkinlampi
@@ -165411,6 +165805,7 @@ Tadžikistan kesäolympialaisissa 2008
 Tadžikistan kesäolympialaisissa 2012
 Tadžikistan kesäolympialaisissa 2016
 Tadžikistanin SNT
+Tadžikistanin autonominen sosialistinen neuvostotasavalta
 Tadžikistanin lippu
 Tadžikistanin sisällissota
 Taekwon-Do (video game)
@@ -165456,6 +165851,7 @@ Taidemaalari
 Taidemuseo (Lahti)
 Taidemusiikki
 Taiderock
+Taidesuuntaus
 Taideteollinen korkeakoulu
 Taideteollinen oppilaitos
 Taideyliopiston Kuvataideakatemia
@@ -165686,6 +166082,7 @@ Taivasjärvi
 Taivaskero
 Taiwan
 Taiwanin parlamentti
+Taiwanin puolustusministeri
 Taiyaki
 Taiyō no tō
 Taj Mahal (muusikko)
@@ -165769,6 +166166,7 @@ Talasjärvi (Virrat)
 Talbot
 TaleSpin (video game)
 Taleban
+Talent Suomi (4. tuotantokausi)
 Talentti
 Talerddigin rautatieasema
 Tales from the Borderlands: A Telltale Games Series
@@ -166021,6 +166419,7 @@ Tanssija
 Tanssiravintola
 Tanssitaiteen valtionpalkinto
 Tanssityttö Mia
+Tanssiva tuli
 Tantaali
 Tantoo Cardinal
 Tanttila
@@ -167852,6 +168251,7 @@ The Thompson Twins Adventure
 The Three Stooges
 The Three Stooges (video game)
 The Thrilling Adventures of Lovelace and Babbage
+The Tides of Damocles
 The Time of My Life (David Cookin kappale)
 The Times of India
 The Tin Star (arcade game)
@@ -167874,6 +168274,7 @@ The Trashmen
 The Tree Club
 The Trial of Arnold Blackwood
 The Troggs
+The True Human Design
 The Typing of the Dead
 The Ultimate Collection (Michael Jackson)
 The Ultimate Fighter 4
@@ -168231,6 +168632,7 @@ Thurrock
 Thurso
 Thurson rautatieasema
 Thurstonin rautatieasema
+Thy Serpent
 Thyge Petersen
 Thyssen Krupp AG
 Théophile Gautier
@@ -168649,6 +169051,7 @@ Tivoli (kaupunki)
 Tjeldsund
 Tjuljatšin piiri
 Tjumenin alue
+Tlemcenin yliopisto
 To All the Boys I’ve Loved Before
 To Heart 2
 To Hell and Back (video game)
@@ -169761,6 +170164,7 @@ Trevor Brooking
 Trevor Brooking's World Cup Glory
 Trevor Devall
 Trevor Figgins
+Trevor Immelman
 Trevor Lever
 Trevor Linden
 Trevor Murphy
@@ -170315,6 +170719,7 @@ Turkin naisten jääkiekkomaajoukkue
 Turkin ralli 2004
 Turkin sota
 Turkin suuri kansalliskokous
+Turkin vallankaappaus 1980
 Turkinjärvi (Jämsä)
 Turkish Aerospace Industries
 Turkish Airlines
@@ -170394,6 +170799,7 @@ Turun rauha
 Turun rautatieasema
 Turun satama
 Turun sataman rautatieasema
+Turun sähkölaitoksen räjähdys 1920
 Turun yliopisto
 Turun yliopiston suomentajaseminaari
 Turun yliopiston ylioppilaskunta
@@ -171506,6 +171912,7 @@ Unsped Paket Servisi
 Unstable Fables: Tortoise vs. Hare
 Unter den Linden
 Unterhaltungssoftware Selbstkontrolle
+Unto Haapa-aho
 Unto Hämäläinen
 Unto Koistinen
 Unto Miettinen
@@ -171700,6 +172107,7 @@ Uudenmaan lääni
 Uudenmaan maakunta
 Uudenmaan rakuunarykmentti
 Uudenmaan vaalipiiri
+Uudenmaankatu
 Uudenvuodenpäivä
 Uudestisyntynyt rakastaja
 Uudet Mutantit
@@ -172070,6 +172478,7 @@ Vain elämää, kausi 11 – Toinen kattaus
 Vain elämää: Unohtumaton ilta
 Vainottu muukalainen
 Vaitelias mies
+Vaivaisenluu
 Vaivaiskoivu
 Vaivaislampi
 Vaivaisukko
@@ -172151,6 +172560,7 @@ Valentina Zazdravnyh
 Valeplekot
 Valeraskaus
 Valeri Borzov
+Valeri Brumel
 Valeri Bykovski
 Valeri Gerasimov
 Valeri Harlamov
@@ -172593,6 +173003,7 @@ Vaninon piiri
 Vankeus
 Vanki
 Vankilamuseo
+Vannehame
 Vannekivenlampi
 Vanpool (yhtiö)
 Vantaa
@@ -174100,6 +174511,7 @@ Virgil Green
 Virgil Grissom
 Virgil Hill
 Virgil Johnson
+Virgiliu Postolachi
 Virgin America
 Virgin Atlantic
 Virgin Atlantic Airways
@@ -174412,6 +174824,7 @@ Vohemar
 Voi hyvä tavaton
 Voice Records
 Voices of Transgression – A 90s Retrospective
+Voicey-gaala 2009
 Voihan Poni
 Voikalamaiset
 Voila, Brașov
@@ -174423,6 +174836,7 @@ Voimasointu
 Voimistelu
 Voimistelu kesäolympialaisissa 1912
 Voimistelu kesäolympialaisissa 1924
+Voimistelu kesäolympialaisissa 1952 – naisten nojapuut
 Voimistelu kesäolympialaisissa 1968
 Voimistelu kesäolympialaisissa 1984
 Voimistelu kesäolympialaisissa 1992
@@ -174458,6 +174872,7 @@ Volga
 Volga-Dnepr Airlines
 Volgaburmash Samara
 Volgan Bulgaria
+Volganpernaruoho
 Volgodonsk
 Volgograd
 Volgograd Arena
@@ -178071,6 +178486,7 @@ Zoids: The Battle Begins
 Zola Budd
 Zolfaghar (ohjus)
 Zolo (video game)
+Zolotšivin piiri
 Zoltan Farkas (game designer)
 Zoltan Lunka
 Zoltan Sarosy
@@ -178235,6 +178651,7 @@ vuoristokinkku
 Álava
 Álora
 Álvaro Colom
+Álvaro Fernández
 Álvaro Uribe
 Ándros
 Ándros Kyprianoú

@@ -1,5 +1,6 @@
 revision: 70380568
-title: "Chi\u1EBFn tranh th\u1EBF gi\u1EDBi th\u1EE9 hai"
+title: "C\xE1c ho\u1EA1t \u0111\u1ED9ng h\u1EA3i qu\xE2n t\u1EA1i B\u1EAFc C\u1EF1\
+  c trong Chi\u1EBFn tranh th\u1EBF gi\u1EDBi th\u1EE9 hai"
 url: https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_th%E1%BA%BF_gi%E1%BB%9Bi_th%E1%BB%A9_hai
 
 

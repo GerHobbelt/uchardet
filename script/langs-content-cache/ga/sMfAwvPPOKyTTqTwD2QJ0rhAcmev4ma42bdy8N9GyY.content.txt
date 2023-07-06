@@ -1,5 +1,5 @@
 revision: 1080551
-title: "F\xF3gartach mac Cumascaigh"
+title: Fogartach mac Cummascaig
 url: https://ga.wikipedia.org/wiki/F%C3%B3gartach_mac_Cumascaigh
 
 

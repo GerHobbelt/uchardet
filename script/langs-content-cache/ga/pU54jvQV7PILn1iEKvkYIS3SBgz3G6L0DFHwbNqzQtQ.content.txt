@@ -1,5 +1,5 @@
 revision: 1171071
-title: An Ghaeilge i Sasana
+title: George Borrow
 url: https://ga.wikipedia.org/wiki/An_Ghaeilge_i_Sasana
 
 

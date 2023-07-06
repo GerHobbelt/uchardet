@@ -1,5 +1,5 @@
 revision: 1043341
-title: New South Wales
+title: Nambucca
 url: https://ga.wikipedia.org/wiki/An_Bhreatain_Bheag_Theas_Nua
 
 

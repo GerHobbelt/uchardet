@@ -1,5 +1,5 @@
 revision: 289139
-title: Wolfgang von Kempelen
+title: Imi Lichtenfeld
 url: https://mt.wikipedia.org/wiki/Bratislava
 
 

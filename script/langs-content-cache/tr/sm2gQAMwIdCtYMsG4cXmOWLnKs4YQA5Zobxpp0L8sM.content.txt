@@ -1,5 +1,5 @@
 revision: 29915926
-title: 2015 Allsvenskan
+title: 1999 Allsvenskan
 url: https://tr.wikipedia.org/wiki/Allsvenskan
 
 

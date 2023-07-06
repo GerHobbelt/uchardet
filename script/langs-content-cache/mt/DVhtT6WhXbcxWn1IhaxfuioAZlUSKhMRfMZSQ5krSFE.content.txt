@@ -1,5 +1,5 @@
 revision: 269743
-title: "Impressjoni\u017Cmu"
+title: Theodorus van Gogh
 url: https://mt.wikipedia.org/wiki/Vincent_van_Gogh
 
 

@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Moderate-resolution Imaging Spectroradiometer
-Baie-D’Urfé
-Paramount (Kalifornien)
-Sarke
-William Pope Duval
-Friedhof Wilsnacker Straße für die Opfer von Krieg und Gewaltherrschaft
-Pawel Michailowitsch Kamosin
-Satellite Awards/Fernsehen/Bester Darsteller in einer Serie – Drama
-Erbsen
-Ewald Geissler
-Souvigny-en-Sologne
-Christian Muff
-GURPS
-Philip Gogulla
-Rubén Pérez (Fußballspieler, 1989)
-Burg Hohenstein (Taunus)
-1. Amateurliga Nordwürttemberg 1967/68
-Jost Wiedmann
-Eat Smarter
-Kanton Saint-Jean-Soleymieux
-Donna Leon – Endstation Venedig
-Kanton Cergy-Sud
-Anthony Morrow (Offizier)
-John S. Ash
-Decrypto
-Übereinkommen der Vereinten Nationen zur Bekämpfung der Wüstenbildung
-Río Huari
-Penetanguishene
-Johann Friedrich Conrad Carl Demme
-Austin Huggins
+Armblütige Segge
+Karsten Konow
+Rudolph A. Akanlu
+Geistliche Schulaufsicht
+Ulrike Blome
+Alexander Alexandrowitsch Grisman
+Keppel Island (Falklandinseln)
+Sven Eggert (Volleyballspieler)
+Rocques
+Schüttgut (Begriffsklärung)
+Monika Bejnar
+Madeleine Smith
+Olsen-banden
+Brankica Mihajlović
+Stadt der Fremden
+Raivydas Stanys
+Max Wallraf
+Jérémie Ouédraogo
+Bahnhof Frankfurt (Main) Messe
+Aguas Blancas (Iruya)
+Bombenangriff auf Stralsund am 6. Oktober 1944
+HD 202206
+Nikolaikirche (Chemnitz)
+Matthias Bleyer
+Butch Otter
+Cathrine Rosengren
+Julius Nepos
+John Neihardt
+Tatort: Bienzle und der Tod im Teig
+Karate-Europameisterschaft der Jugend, Junioren & U21 2022
 (13132) Ortelius
 (17473) Freddiemercury
 (179) Klytaemnestra
@@ -102,6 +102,7 @@ Austin Huggins
 -logie
 1 Mord für 2
 1,3,5-Trinitrobenzol
+1. Amateurliga Nordwürttemberg 1967/68
 1. April
 1. August
 1. Buch Samuel
@@ -1471,6 +1472,7 @@ Aharon Appelfeld
 Aharon Ipalé
 Aharon Keshales
 Aharon Megged
+Ahlimbsmühle
 Ahmad (Rapper)
 Ahmad Shanon
 Ahmad Taherí
@@ -1798,6 +1800,7 @@ Alaska Day
 Alaska Public Media
 Alaska State Capitol
 Alaska State Senate
+Alaska Supreme Court
 Alaska, Zimbabwe
 Alastair Forsyth
 Alastair McCorquodale
@@ -1847,6 +1850,7 @@ Albert Farnell
 Albert Ferrer
 Albert Galiton Watkins
 Albert Gallatin
+Albert Gliemann
 Albert Gobat
 Albert Gore senior
 Albert Günther (Zoologe)
@@ -1999,6 +2003,7 @@ Aldina
 Aldo Bufi Landi
 Aldo Díaz
 Aldo Majunke
+Aldo Rocha
 Aldo Rossi
 Aldosteron
 Aldy-Bel-Kultur
@@ -2021,6 +2026,7 @@ Alejandro Tobar
 Alejandro Zambra
 Alek Epstein
 Aleks Scholz
+Aleksandar Aleksandrov
 Aleksandar Karakašević
 Aleksandar Marković
 Aleksandar Sarowni
@@ -2285,6 +2291,7 @@ Alfred Jüttner
 Alfred Kirpal
 Alfred Kunze, Továrna na stroje a osobní automobily
 Alfred Kurella
+Alfred Kyrer
 Alfred L. Bulwinkle
 Alfred Lansing
 Alfred Leber
@@ -2327,6 +2334,7 @@ Algebra
 Algebraische Gleichung
 Algen
 Algerien
+Algerische Futsalnationalmannschaft
 Algerische Rugby-Union-Nationalmannschaft
 Algier
 Algorithmus
@@ -2522,6 +2530,8 @@ Almeida Garrett
 Almenara (Automarke)
 Almería
 Almoraviden
+Alnor
+Aloe dorotheae
 Aloha Air Cargo
 Alois Barmettler
 Alois Goldbacher
@@ -2722,6 +2732,7 @@ Amazonas Motos Especiais
 Amber Neben
 Amber Rayne
 Ambivalenz
+Amboy
 Ambrines
 Ambrose Bierce
 Ambrose L. Jordan
@@ -3538,6 +3549,7 @@ Anni Rättyä
 Annica Åhlén
 Annie Award
 Annie Cotton
+Annie Heuser Schule
 Annie Parisse
 Annie Xu
 Annika Idström
@@ -3624,6 +3636,7 @@ Anthony Lynn
 Anthony McGill
 Anthony McPartlin
 Anthony Merry
+Anthony Morrow (Offizier)
 Anthony Motor and Cycle Company
 Anthony Mundine
 Anthony Parker
@@ -3989,7 +4002,9 @@ Argenteuil
 Argentinien
 Argentinische Fußballnationalmannschaft
 Argentinische Rugby-Union-Nationalmannschaft
+Argentinische Rückhand
 Argentinische Streitkräfte
+Argentometrie
 Argeo Fahrzeugwerk
 Argo (Film)
 Argo Electric Vehicle Company
@@ -4213,6 +4228,7 @@ Arthur III. (Bretagne)
 Arthur J. Ornitz
 Arthur John Arberry
 Arthur Konnerth
+Arthur König (Theologe)
 Arthur Loesser
 Arthur MacArthur senior
 Arthur Metcalfe
@@ -4780,6 +4796,7 @@ Austin Croshere
 Austin Dillon
 Austin F. Pike
 Austin FC
+Austin Huggins
 Austin Motor Company
 Austin Powers – Das Schärfste, was Ihre Majestät zu bieten hat
 Austin-Healey
@@ -5248,6 +5265,7 @@ Axel Bojanowski
 Axel Hilgenstöhler
 Axel Malzacher
 Axel Melzener
+Axel Möckel
 Axel Rudi Pell
 Axel Springer SE
 Axel Steier
@@ -5504,6 +5522,7 @@ Bahnung
 Bahrain
 Bahreman
 Baiba Broka
+Baie-D’Urfé
 Baijayant Panda
 Bailey & Lambert
 Bailey Automobile Company
@@ -5754,6 +5773,7 @@ Barcelona
 Barcelona (Album)
 Barcelona (Lied)
 Barcelona Challenger 1999
+Barclay Lake
 Barclay Martin
 Barclay Motors
 Barclays
@@ -5983,6 +6003,7 @@ Baylon Spector
 Baylor University
 Bayonne
 Bayou La Batre
+Bayport
 Bayraktar TB2
 Bayranshahr
 Bayreuth
@@ -6233,8 +6254,10 @@ Bendix SWC
 Benedetta Porcaroli
 Benedetto Aloisi Masella
 Benedetto Croce
+Benedict (Familienname)
 Benedict Arnold
 Benedict Cumberbatch
+Benedikt Kastner
 Benedikt Müssig
 Benedikt XV.
 Benedikt XVI.
@@ -6480,6 +6503,7 @@ Besatzungszone
 Beschlagnahme
 Beschleuniger-Massenspektrometrie
 Beschneidung des Herrn
+Beschränkt persönliche Dienstbarkeit
 Beschädigungskampf
 Beschäftigung
 Besetztes Nachkriegsösterreich
@@ -6496,6 +6520,7 @@ Besst
 Best (Automobilhersteller)
 Best of Bee Gees
 Best of Led Zeppelin
+Besteckversetzung
 Bestenliste australischer Triathletinnen auf der Ironman-Distanz
 Bestiensäule
 Bestseller
@@ -6735,6 +6760,7 @@ Bill Nunn
 Bill O’Reilly
 Bill Paterson
 Bill Polian
+Bill Pullman
 Bill Purse
 Bill Rexford
 Bill Richardson
@@ -6977,6 +7003,7 @@ Bistum Coimbatore
 Bistum Crema
 Bistum Cremona
 Bistum Görlitz
+Bistum Itumbiara
 Bistum Kangding
 Bistum La Crosse
 Bistum Laohokow
@@ -7665,6 +7692,7 @@ Brandon McManus
 Brandon Sanderson
 Brandon Smith (Eishockeyspieler)
 Brandon Staley
+Branišovice
 Brann Dailor
 Branquinho da Fonseca
 Brantly B-2
@@ -7719,6 +7747,7 @@ Breitband-Internetzugang
 Breitblättriger Rohrkolben
 Breitenberg (Niederbayern)
 Breitkopf & Härtel
+Breitnau
 Bremen
 Bremen Sport Equipment
 Bremer Bürgermeister
@@ -8050,6 +8079,7 @@ Buchmalerei
 Buchpreisbindung
 Buchstabe
 Buchstabenhäufigkeit
+Buchstabensuppe
 Buchstabentafel
 Buchstabiertafel
 Buchzensur in der Volksrepublik China
@@ -8284,9 +8314,11 @@ Burg (Ettenstatt)
 Burg Adršpach
 Burg Blankenmoos
 Burg Bollendorf
+Burg Buch (Winterthur)
 Burg Carriage Company
 Burg Dürboslar
 Burg Fracstein
+Burg Hohenstein (Taunus)
 Burg Rheinstein
 Burgen und Schlösser
 Burgen und Stadtbefestigungen König Edwards I. in Gwynedd
@@ -8493,6 +8525,7 @@ C. R. Patil
 C. Rossler Manufacturing Company
 C. S. Peets Manufacturing Company
 C. S. Puttaraju
+C. T. Rajagopal
 C. T. Silver Motor Company
 C. W. Kelsey Manufacturing Company
 C. de L. Engineering Works
@@ -9260,6 +9293,7 @@ Centaur Car Company
 Centaur Cycle
 Centaur Motor Corporation
 Centaur Motor Vehicle Company
+Centenary
 Centennial Conference
 Center for Civil Liberties
 Center for Global Policy
@@ -9350,6 +9384,7 @@ Chalid Arrab
 Chalkogenide
 Chalkogenidglas
 Challenge Motorsport Engineers
+Challenger Ciudad de Guayaquil 2009
 Challenger de Salinas Copa Banco Guayaquil 2022
 Challenger-Expedition
 Chalmers Motor Car Company
@@ -10067,6 +10102,7 @@ Christian Manfredini
 Christian Meyer (Politiker)
 Christian Morgenstern (Musiker)
 Christian Moris Müller
+Christian Muff
 Christian Packbier
 Christian Patiño
 Christian Piwarz
@@ -10357,6 +10393,7 @@ Claire Mathon
 Clair–Fort Kent Bridge
 Clallam County
 Clan Motor
+Clara Galle
 Clara Janés
 Clara Lago
 Clara Zetkin
@@ -10556,6 +10593,7 @@ Coates-Goshen Automobile Company
 Coatzacoalcos
 Cobalt
 Cobalt(II)-oxid
+Cobbtown
 Cobham (Fluggesellschaft)
 Cobra Cars Spain
 Cobra Classic Sportscars
@@ -10993,6 +11031,7 @@ Cornilleau & Sainte-Beuve
 Corning (Unternehmen)
 Corning Motor Car Company
 Corning Museum of Glass
+Cornish (Maine)
 Cornish Classic Cars
 Cornish-Friedberg Motor Car Company
 Cornu (Automobilhersteller)
@@ -11034,6 +11073,7 @@ Corythomantis
 Cosmas Damian Asam
 Cosmas Damian und Egid Quirin Asam
 Cosmas Michael Angkur
+Cosmic Vision 2015–2025
 Cosmin Contra
 Cosmina Stratan
 Cosmopolitan (Magazin)
@@ -11244,6 +11284,7 @@ Crystal Castles (Computerspiel)
 Créanche
 Csaba Fehér
 Csaba Földes
+Csibrák
 Csonka (Automobilhersteller)
 Cubana
 Cubesat
@@ -11423,6 +11464,7 @@ DEW Engineering
 DFB-Pokal
 DFB-Pokal (Frauen)
 DFB-Pokal 1974/75
+DHB-Amateur-Pokal 2021
 DHL Aero Expreso
 DHL Air UK
 DHL Aviation
@@ -11551,6 +11593,7 @@ Dalloul
 Dalpat Singh Paraste
 Dalton Motor Car Company
 Dalton Risner
+Damallsvenskan 2021
 Daman und Diu
 Damaneh
 Damaq
@@ -11852,6 +11895,7 @@ Das brandneue Testament
 Das ist Biologie
 Das kann jedem passieren
 Das letzte Einhorn (Zeichentrickfilm)
+Das todbringende Ungeheuer
 Das tödliche Dreieck
 Das wandelnde Schloss (Anime)
 Das wissenschaftliche Bibellexikon im Internet
@@ -12233,6 +12277,7 @@ Decolon
 Decorauto
 Decorsea
 Decoster (Automarke)
+Decrypto
 Decsa
 Dede Gardner
 Dedics
@@ -12362,6 +12407,7 @@ Democratic National Convention
 Democrats (Film)
 Demografie
 Demografie Deutschlands
+Demografie Spaniens
 Demografischer Wandel in Deutschland
 Demographie
 Demoiselle Indústria e Comércio de Carrocerias
@@ -12538,6 +12584,7 @@ Der Märker (1945–1946)
 Der Pilger (Film)
 Der Postillon
 Der Prinz von Ägypten
+Der Reiter auf dem goldenen Pferd
 Der Schatz vom Toplitzsee
 Der Sinn des Lebens (Film)
 Der Sohn von Rambow
@@ -12897,6 +12944,7 @@ Devon (England)
 Devon Maitozo
 Devosia
 Devosiaceae
+Devotio
 Devrim
 Devusinh Jesingbhai Chauhan
 Dewaet
@@ -13240,6 +13288,7 @@ Dillwynia
 Dilmun
 Dima Orsho
 Dima Slobodeniouk
+Dimbleby
 Diminutiv
 Dimitar Iwankow
 Dimitri A. Petropoulos
@@ -13389,6 +13438,7 @@ Dmitri Igorewitsch Suranowitsch
 Dmitri Iossifowitsch Iwanowski
 Dmitri Iwanowitsch Sidorow
 Dmitri Markov
+Dmitri Poljanski
 Dmitri Schostakowitsch
 Dmitri Ustritski
 Dmitri Walerjewitsch Chochlow
@@ -13557,6 +13607,7 @@ Doninwest
 Donkervoort
 Donkey Kong
 Donkey's Christmas Shrektacular
+Donna Leon – Endstation Venedig
 Donna Taylor
 Donna Vargas
 Donnersbergerbrücke
@@ -13577,6 +13628,7 @@ Doppelstern
 Doppo Kunikida
 Dora Carrington
 Dora Kaprálová
+Dora Pavel
 Doray
 Dorcen
 Dorcheh Piaz
@@ -13674,6 +13726,7 @@ Dowagiac Motor Car Company
 Dowbaran
 Dowlatabad (Isfahan)
 Dowlatabad (Razavi-Chorasan)
+Down to Earth (Ozzy-Osbourne-Album)
 Down-Syndrom
 Downing Cyclecar Company
 Downing Street
@@ -13726,6 +13779,7 @@ Drei-Tage-Fieber
 Dreibandsalmler
 Dreiberg
 Dreifaltigkeit
+Dreifaltigkeitsgasse
 Dreifaltigkeitskirche
 Dreigroschenoper
 Dreikaiserjahr
@@ -13733,6 +13787,7 @@ Dreikönigsfest
 Dreizehn Gemeinden
 Dreißigjähriger Krieg
 Dresden
+Dresdner Stolln
 Drew (Maine)
 Drew Barrymore
 Drew Goddard
@@ -13799,6 +13854,7 @@ Duarte Lopes
 Dubai
 Dubai Desert Classic
 Dubai World Championship
+Dubler
 Dublin
 Dubno
 Dubois (Automobilhersteller)
@@ -13922,6 +13978,7 @@ Duzduzan
 Duzeh
 Dušan Podpečan
 Dyan Cannon
+Dyer Island (Antarktika)
 Dykes on Bikes
 Dylan McGeouch
 Dylan Tait
@@ -14135,6 +14192,7 @@ Easton Machine Company
 EasyJet
 EasyJet Europe
 EasyJet Switzerland
+Eat Smarter
 Eaton Motor Carriage Company
 Eau Claire County
 Ebene (Mathematik)
@@ -14527,6 +14585,7 @@ EisenEx
 Eisenbahn
 Eisenbahnachse Berlin–Palermo
 Eisenbahnfährverbindung
+Eisenbahnunfall auf der Bloukrans-Brücke
 Eisenbahnunfall von Sangi
 Eisenbahnverkehrsunternehmen
 Eisendüngung
@@ -14899,6 +14958,7 @@ Emil Hácha
 Emil Iversen
 Emil Lessing
 Emil Lidtke
+Emil Moser (Maler)
 Emil Rathenau
 Emil Rupf
 Emil Schäfer (Rugbyspieler)
@@ -15165,6 +15225,7 @@ Erben Wennemars
 Erbmonarchie
 Erbrecht
 Erbreichsplan Heinrichs VI.
+Erbsen
 Erbsen (Gattung)
 Erbsensträucher
 Erbwörter
@@ -15281,6 +15342,7 @@ Erik Wilson
 Erik Winquist
 Erik Östlund
 Erika Abels d’Albert
+Erika Burkart
 Erika Rabau
 Erika Simon
 Erika Stiska
@@ -15301,6 +15363,7 @@ Erkki Liikanen
 Erklärung
 Erkältung
 Erla (Automobilhersteller)
+Erlangen Rebels
 Erlau (Freising)
 Erlbach (Bernhardswald)
 Erlenblättrige Felsenbirne
@@ -15402,6 +15465,7 @@ Erstflug
 Erstsprache
 Ersttagsbrief
 Ertebølle-Kultur
+Ertekin Özcan
 Ertragsteuer
 Erubey Cabuto
 Eruptiv veränderlicher Stern
@@ -15748,6 +15812,7 @@ Eva Ebner
 Eva Eiselt
 Eva Gesine Baur
 Eva Henning
+Eva Hörbiger
 Eva Kryll
 Eva Longoria
 Eva M. Clayton
@@ -15836,6 +15901,7 @@ Evrim Sen
 Ewa Brych-Pająk
 Ewa Lipska
 Ewald Brenner
+Ewald Geissler
 Ewald Lienen
 Ewan MacDonald
 Ewart Bartley
@@ -16220,6 +16286,7 @@ Farbio Sports Cars
 Farbus
 Farcot et Olivier
 Fareghan
+Farey (Niger)
 Fargo
 Fargo (Lkw-Marke)
 Farhad Safinia
@@ -16394,6 +16461,7 @@ Fellow
 Fellpoint
 Fellwock Automobile Manufacturing Company
 Felodipin
+Felshaus (Johanngeorgenstadt)
 Feltham
 FemBio
 Fememord
@@ -16521,6 +16589,7 @@ Feuerbestattung
 Feuerverzinken
 Feuerwalze (Film)
 Feuerwehr
+Feuerwehr Kiel
 Feuerwehr in Deutschland
 Feuerwehrverein
 Feuerwerk
@@ -16596,6 +16665,7 @@ Filip Minarik
 Filip Peeters
 Filip Zawada
 Filippo Brunelleschi
+Filippo De Filippi (Mediziner)
 Filippo Nigro
 Filippo Pigafetta
 Filippo Strozzi der Jüngere
@@ -17489,6 +17559,7 @@ Franz von Cramm
 Franz von Papen
 Franz von Sales
 Franz-Josef Sehr
+Franzband
 Franziska Hauser
 Franziska Rabl
 Franziska Weisz
@@ -17754,6 +17825,7 @@ Friedhelm Eberle
 Friedhelm Hoffmann
 Friedhelm Ptok
 Friedhof Ohlsdorf
+Friedhof Wilsnacker Straße für die Opfer von Krieg und Gewaltherrschaft
 Friedmann-Knoller
 Friedrich Ahlborn
 Friedrich Albrecht Fahrzeugfabrik
@@ -17853,6 +17925,7 @@ Fritz Irmiger
 Fritz J. Raddatz
 Fritz Jöde
 Fritz Karl
+Fritz Kranefuß
 Fritz Lang
 Fritz Moser, Fabrique d’Automobiles et Motocyclettes
 Fritz Peyer
@@ -18243,6 +18316,7 @@ GTD (Automarke)
 GTD Sports Cars
 GTM (Automarke)
 GTS Tuning
+GURPS
 GX Airlines
 Gaahl
 Gabelbock
@@ -18308,6 +18382,7 @@ Galaktosämie
 Galateia
 Galaxian
 Galaxie
+Galaxy Nexus
 Gale Storm
 Galega
 Galegeae
@@ -18336,6 +18411,7 @@ Galloway & Co.
 Galloway Motors
 Gallup Organization
 Gallustag
+Gallusturm (Bad Säckingen)
 Gallée
 Galmurti
 Galt Motor
@@ -18409,6 +18485,7 @@ Garett Bolles
 Garfield Automobile Company
 Garford (Fahrzeugmarke)
 Gargantua und Pantagruel
+Gargnäs
 Garifuna
 Garigliano
 Garküche
@@ -19022,6 +19099,7 @@ Gerhard Ritter (Ratsherr)
 Gerhard Schallert
 Gerhard Schröder
 Gerhard Schürer
+Gerhard Stratthaus
 Gerhard Tötschinger
 Gerhard W. Lehmann & Co. Motorfahrzeugbau
 Gerhard Wagenitz
@@ -19029,6 +19107,7 @@ Gerhart Hauptmann
 Gerhoch von Reichersberg
 Gericht
 Gericht (Speise)
+Gerichtsbezirk Pisino
 Gerichtshof der Europäischen Union
 Gerichtsmediziner
 Gerichtsmediziner Dr. Leo Dalton
@@ -19062,6 +19141,7 @@ Germanische Sprachen
 Germanische Stammesrechte
 Germanistik
 Germanium
+Germer
 Germersheimer Linie
 Germi (Stadt)
 Germi (Verwaltungsbezirk)
@@ -19088,6 +19168,7 @@ Gerrit van Wuysthoff
 Gerry Cinnamon
 Gerry Malone
 Gerry Mulligan
+Gerry O’Hara
 Gerry Rafferty
 Gerstenhof
 Gersthofen
@@ -19293,6 +19374,7 @@ Gharana
 Gharqabad
 Ghazi (Iran)
 Ghent Motor Company
+Gherardeschi
 Ghiblies: Episode 1
 Ghiblies: Episode 2
 Ghil'ad Zuckermann
@@ -19617,6 +19699,7 @@ Gmina Brzeźnica (Powiat Wadowicki)
 Gmina Kalwaria Zebrzydowska
 Gmina Lanckorona
 Gmina Mucharz
+Gmina Nowa Sarzyna
 Gmina Rokietnica (Powiat Jarosławski)
 Gmina Spytkowice (Powiat Wadowicki)
 Gmina Stryszów
@@ -19815,6 +19898,7 @@ Gossip Girl
 Gothaer Programm
 Gotham Award
 Gotham Motor Car Company
+Gothawagen G4-65
 Gothic (Kultur)
 Gotik
 Gotische Sprache
@@ -20213,8 +20297,10 @@ Großhandel
 Großherzogtum Berg
 Großherzogtum Frankfurt
 Großkatzen
+Großmaul-Antennenwelse
 Großmeister von Frankreich
 Großrechner
+Großsteingräber bei Störpke
 Großstübing
 Großämter der Krone Frankreichs
 Grubberg (Bernhardswald)
@@ -20871,6 +20957,7 @@ Hanesbrands
 Hangar
 Hangeul
 Hangeul-Tag
+Hanging Lake
 Hanja
 Hank Aaron
 Hank Bullough
@@ -21042,6 +21129,7 @@ Hard Rock
 Hardcore Holly
 Hardcore Punk
 Hardenbergia
+Hardin County
 Harding (Automobilhersteller)
 Harding (Unternehmen)
 Harding Machine
@@ -21178,6 +21266,7 @@ Harvey Magee Watterson
 Harvey Samuel Firestone
 Haryana
 Harz (Mittelgebirge)
+Harzer Klosterwanderweg
 Harzklee
 Hasan-E. Fasa'i's
 Hasanabad
@@ -21490,6 +21579,7 @@ Heinävesi
 Heiratspolitik der Habsburger
 Heise online
 Heise.de
+Heishu
 Heiße Hüpfer
 Hektar
 Helen Adam
@@ -21504,6 +21594,7 @@ Helena Kennedy, Baroness Kennedy of The Shaws
 Helena Růžičková
 Helene Fernau-Horn
 Helene Freifrau von Bothmer
+Helene Hennemann-Bartsch
 Helene von Bothmer
 Helga Stan-Lotter
 Helga de la Motte-Haber
@@ -22349,6 +22440,7 @@ Horr (Iran)
 Horrorfilm
 Horsfall & Bickham
 Horst Dreier
+Horst Dörrbecker
 Horst Hammitzsch
 Horst Jänicke
 Horst Schimanski
@@ -23046,6 +23138,7 @@ Icar Air
 Icarus Elicotteri
 Ice Age 5 – Kollision voraus!
 Iced Earth
+Icel (Mercia)
 Icelandair
 Ich bin tot, macht was draus!
 Ich der Kater
@@ -24163,6 +24256,7 @@ Ito (Fußballspieler)
 Ito-Zelle
 Ituri (Distrikt)
 Ituri (Provinz)
+Itzgrund
 Itzling (Freising)
 It’s Called a Heart
 It’s Late
@@ -25033,6 +25127,7 @@ Jean-Baptiste de Boyer, Marquis d’Argens
 Jean-Baptiste de Lamarck
 Jean-Clarence Lambert
 Jean-Claude Darcheville
+Jean-Claude Makaya Loembe
 Jean-Claude Marol
 Jean-Claude Petit
 Jean-Claude Rutault
@@ -25378,6 +25473,7 @@ Jim Kelly (Footballspieler)
 Jim Kerr
 Jim Lambie
 Jim Mallan
+Jim Martin
 Jim McDowall
 Jim McGovern (Politiker, 1956)
 Jim Mitchell (Gitarrist)
@@ -25633,9 +25729,11 @@ Johann Ferdinand Schor
 Johann Fischart
 Johann Franz Eckher von Kapfing und Liechteneck
 Johann Friedrich Agricola
+Johann Friedrich Conrad Carl Demme
 Johann Friedrich Müller (Mediziner)
 Johann Friedrich Reichardt
 Johann Friedrich von Merkatz (Oberst)
+Johann Geiger (Politiker)
 Johann Geiler von Kaysersberg
 Johann Georg Conrad Oberdieck
 Johann Georg Jacobi
@@ -25679,6 +25777,7 @@ Johann Nikolaus Forkel
 Johann Ohnefurcht
 Johann Peter von Ludewig
 Johann Pezzl
+Johann Polycarp Bulius
 Johann Puch
 Johann Schaper (Maler)
 Johann Schuster (Politiker, 1912)
@@ -26003,6 +26102,7 @@ John Ohlsen Developments
 John O’Donohue
 John O’Shea (Dartspieler)
 John P. Hale
+John P. O’Neill
 John Page (Politiker, 1787)
 John Paul Jones (Musiker)
 John Paul Young
@@ -26029,6 +26129,7 @@ John Roberts
 John Robertson (Politiker, 1952)
 John Ruiz
 John Russell Hind
+John S. Ash
 John S. Henderson
 John S. Tanner
 John S. Wells
@@ -26389,6 +26490,7 @@ Josquin Desprez
 Joss Stone
 Jossu, Jannel et Cie
 Jossyp Bokschaj
+Jost Wiedmann
 Josué Montello
 Joswin-Motorwagen-Fabrik
 José Abreul
@@ -26807,6 +26909,7 @@ Jørgen Aukland
 Jüdische Friedhöfe in Trier
 Jüdische Schule in Stuttgart
 Jüdischer Friedhof (Espelkamp)
+Jüdischer Friedhof (Jastrowie)
 Jüdischer Kalender
 Jüdisches Museum Rendsburg
 Jülich
@@ -26824,6 +26927,7 @@ Jürgen Malitz
 Jürgen Neffe
 Jürgen Panis
 Jürgen Petersohn
+Jürgen Pohlmann
 Jürgen Prochnow
 Jürgen Rohlfs
 Jürgen Thormann
@@ -26885,6 +26989,7 @@ Kabinenparty
 Kabinett Biden
 Kabinett Jasper I
 Kabinett Merges
+Kabinett Minghetti
 Kabinett Muzito
 Kabinett Oerter I
 Kabinett Salmond II
@@ -27038,6 +27143,7 @@ Kaltverfestigung
 Kaltwalzen
 Kalvakuntla Kavitha
 Kalyan Banerjee
+Kalīla wa Dimna
 Kam Air
 Kamakhya Prasad Tasa
 Kamakura
@@ -27068,6 +27174,7 @@ Kamil V. Zvelebil
 Kamil Wilczek
 Kamillenhof
 Kamina (Kongo)
+Kamishibai
 Kamla Patle
 Kamlesh Paswan
 Kammann Manufacturing Company
@@ -27146,8 +27253,10 @@ Kanton (Frankreich)
 Kanton (Schweiz)
 Kanton Avesnes-le-Comte
 Kanton Bern
+Kanton Cergy-Sud
 Kanton Freiburg
 Kanton Malmedy
+Kanton Saint-Jean-Soleymieux
 Kanton Taypiplaya
 Kanton Trinidad
 Kanton Waadt
@@ -27205,6 +27314,7 @@ Karel Komárek
 Karel Reiner
 Karel Svoboda (Biophysiker)
 Karel Václav Rais
+Karel van de Woestijne
 Karel Čapek
 Karen Allen
 Karen Carter Peterson
@@ -27811,6 +27921,7 @@ Ketchikan
 Ketsch (Schiffstyp)
 Kette
 Kettenhemd
+Kettenis
 Keurig Dr Pepper
 Kevin Apter
 Kevin Armstrong (Sänger)
@@ -28470,6 +28581,7 @@ Kommersant
 Kommerzialisierung
 Kommunale Selbstverwaltung
 Kommunale Selbstverwaltung (Deutschland)
+Kommunalverbund Niedersachsen/Bremen
 Kommunalwahlen in Bayern 2020
 Kommune von Baku
 Kommunikation
@@ -28874,6 +28986,7 @@ Kristin Meyer
 Kristin Schulz
 Kristin Schütz
 Kristin Thora Haraldsdottir
+Kristin Wieczorek
 Kristina Háfoss
 Kristina Koznick
 Kristina Stoltz
@@ -29189,6 +29302,7 @@ Königreich der Niederlande
 Königreich Ägypten
 Königsberger Allgemeine Zeitung
 Königsblau
+Königsbruch
 Königspfalz
 Königspfalz Werla
 Königsstein (Freising)
@@ -29713,6 +29827,7 @@ Laura Lafargue
 Laura Macdonald
 Laura Mylotte
 Laura Schaberg
+Laura Stahnke
 Laura Tonke
 Laura Voutilainen
 Laura Wilde
@@ -29958,6 +30073,7 @@ Legia Warschau
 Legierung
 Legierungselement
 Legierungstransistor
+Legio XIII Gemina
 Legion of Merit
 Legislative
 Lego Indiana Jones 2: Die neuen Abenteuer
@@ -30156,6 +30272,7 @@ Les Piggot
 Les West
 Lesbian Visibility Day
 Lesbos
+Leschaux
 Lescina Automobile Company
 Lese- und Rechtschreibstörung
 Lesen
@@ -30579,6 +30696,7 @@ Liste der Bischöfe von Cremona
 Liste der Bischöfe von Freising und der Erzbischöfe von München und Freising
 Liste der Bischöfe von Portalegre
 Liste der Bischöfe von Triest
+Liste der Bodendenkmale in Parthenstein
 Liste der Bodendenkmäler in Aldersbach
 Liste der Bodendenkmäler in Bad Neualbenreuth
 Liste der Bodendenkmäler in Bayern
@@ -30652,12 +30770,17 @@ Liste der Konzentrationslager des Deutschen Reichs
 Liste der Kreisstraßen im Landkreis Cochem-Zell
 Liste der Kreisstraßen im Landkreis Freising
 Liste der Kulturdenkmale in Boxberg
+Liste der Kulturdenkmale in Fremdiswalde
 Liste der Kulturdenkmale in Großnaundorf
+Liste der Kulturdenkmale in Warnau
+Liste der Kulturdenkmäler in Schladt
+Liste der Kulturdenkmäler in Weinsheim
 Liste der Kulturgüter in Malans
 Liste der Kulturgüter in Ollon
 Liste der Kölner Ratsturmfiguren
 Liste der Lieder der Beatles
 Liste der Lieder von Bob Dylan
+Liste der Lieder von Dua Lipa
 Liste der Lieder von Led Zeppelin
 Liste der Lieder von Queen
 Liste der Lord Mayors of London
@@ -30735,6 +30858,7 @@ Liste der Staatsstraßen in der Oberpfalz
 Liste der Stolpersteine in Freising
 Liste der Straßburger Ammeister
 Liste der Straßen in Freising
+Liste der Straßen in Somsdorf
 Liste der Straßen und Plätze in Niedergohlis
 Liste der Städte in Alabama
 Liste der Städte in Maine
@@ -30874,6 +30998,7 @@ Litauen
 Litauische Männer-Feldhandballnationalmannschaft
 Litauische Rugby-Union-Nationalmannschaft
 Litauische Sprache
+Litdok Ostmitteleuropa
 Literatur
 Literaturgeschichte
 Literaturjahr 1975
@@ -31658,6 +31783,7 @@ Lorenzo Martínez
 Lorenzo Sanguedolce
 Lorenzo Vismara
 Lorestan
+Loretokapelle (Drensteinfurt)
 Loretosalmler
 Loretta Harrop
 Lori Lightfoot
@@ -31720,6 +31846,7 @@ Lotte in Weimar
 Lotus (Gattung)
 Lotus Cars
 Lou Bega
+Lou Fine
 Lou Graham (Golfspieler)
 Lou Hoover
 Lou Saban
@@ -31838,6 +31965,7 @@ Luar (Automarke)
 Lubawka
 Lubbock (Texas)
 Lubna Azabal
+Luboschütz
 Luboš Schorný
 Lubumbashi
 Luc Arbogast
@@ -31915,6 +32043,7 @@ Ludwig Günther I. (Schwarzburg-Rudolstadt)
 Ludwig Haetzer
 Ludwig Heilmeyer
 Ludwig Hofmann (Fußballspieler, 1900)
+Ludwig Häßlein
 Ludwig IV. (HRR)
 Ludwig Jeep
 Ludwig Karl Böhm
@@ -31927,6 +32056,7 @@ Ludwig Prandtl
 Ludwig Quidde
 Ludwig Rudolf (Braunschweig-Wolfenbüttel)
 Ludwig Steinherr
+Ludwig Stillhart
 Ludwig Stollwerck
 Ludwig Tieck
 Ludwig Wilhelm (Baden-Baden)
@@ -32377,6 +32507,7 @@ Machu Picchu
 Machupo-Fieber
 Machupo-Virus
 Maciej Banaszak
+Maciej Rataj
 Maciej Stuhr
 Maciej Żurawski
 Macintosh
@@ -32861,6 +32992,7 @@ Marcel Bataillon
 Marcel Becker
 Marcel Blatti
 Marcel Caplet
+Marcel Chyrzyński
 Marcel Domergue
 Marcel Dupré
 Marcel Foucret
@@ -33026,6 +33158,7 @@ Maria Ikelap
 Maria Jany
 Maria João Bastos
 Maria Karolina von Österreich
+Maria Koschny
 Maria Königin
 Maria Leszczyńska
 Maria Liktoras
@@ -33545,6 +33678,7 @@ Martinpuich
 Martinstag
 Martinus J. G. Veltman
 Martinus Willem Beijerinck
+Marton
 Martti Ahtisaari
 Martti Hirvonen
 Martti Lappalainen (Skilangläufer)
@@ -33745,6 +33879,7 @@ Matcha
 Matchedje Motors
 Matchless
 Mate Palhegyi
+Matebian (Begriffsklärung)
 Matej Mamić
 Matelea
 Mateo Crawley-Boevey
@@ -33943,6 +34078,7 @@ Max Brose
 Max C
 Max Curth
 Max Daireaux
+Max Danielsen
 Max Dominicé
 Max Eastman
 Max Eisler
@@ -34101,6 +34237,7 @@ Mechanik
 Mechanisch
 Mechanische Spannung
 Mechatronik
+Mechitar von Sebasteia
 Mecklenburg
 Mecklenburg County (North Carolina)
 Mecklenburg-Vorpommern
@@ -34213,6 +34350,7 @@ Meilu
 Meiluawati
 Meilysa Trias Puspita Sari
 Mein Führer – Die wirklich wahrste Wahrheit über Adolf Hitler
+Mein Leopold (1924)
 Mein Nachbar Totoro
 Meine Nachbarn die Yamadas
 Meine geistreiche Familie
@@ -34625,6 +34763,7 @@ Michael Green (Drehbuchautor)
 Michael H. Webb
 Michael Haller (Kirchenmusiker)
 Michael Hancock (Politiker)
+Michael Hartmann (Soziologe)
 Michael Heinrich (Politikwissenschaftler)
 Michael Hoenig
 Michael Hofbauer (Journalist)
@@ -34778,6 +34917,7 @@ Michel de Montaigne
 Michela Wrong
 Michelangelo Carmeli
 Michelangelo Unterberger
+Michele Cimarosa
 Michele Marcolini
 Michele Merkin
 Michele Riondino
@@ -34964,6 +35104,7 @@ Mike Tyson
 Mike Vrabel
 Mike Walker (Gitarrist)
 Mikel Pradera
+Mikey Madison
 Mikey North
 Mikhail Mamleev
 Mikiel Anton Vassalli
@@ -35351,6 +35492,7 @@ Miyuki Izumi
 Mizoram
 Mizugumo
 Mizugumo Monmon
+Mladen Plakalović
 Mo Brooks
 Mo Johnston
 Moallem Kalayeh
@@ -35402,6 +35544,7 @@ Modell
 Modellierung
 Modem
 Modena Wycombe
+Moderate-resolution Imaging Spectroradiometer
 Modern Tool Company
 Moderna
 Moderne
@@ -36639,6 +36782,7 @@ Natalbuggy
 Natale di Roma
 Nataler Deutsch
 Natalia Filatkina
+Natalia Levcencova
 Natalia Verbeke
 Natalia de Molina
 Natalie Cook
@@ -36786,6 +36930,7 @@ Nationaler Mythos
 Nationaler Sicherheitsberater (Vereinigte Staaten)
 Nationaler Tag der Befreiung Koreas
 Nationaler Tag der Frau (Osttimor)
+Nationales Museum der Naturwissenschaften der Ukraine
 Nationales Olympisches Komitee
 Nationales Symbol
 Nationalfeiertag
@@ -37544,6 +37689,7 @@ Nikos Kazantzakis
 Nikos Liberopoulos
 Nile Rodgers
 Nilgans
+Nilometer von Roda
 Niloten
 Nils Althaus
 Nils Täpp
@@ -37769,6 +37915,7 @@ Norman Walker (Eiskunstläufer)
 Norman Z. McLeod
 Normandie
 Normannen
+Normannia Berlin
 Normativ
 Noro Morales
 Norovirus
@@ -38095,11 +38242,13 @@ Oberverwaltungsgericht
 Oberwart
 Oberwielenbach
 Oberzentrum
+Oberösterreichischer Familienbund
 Obie Award
 Objektiv (Optik)
 Oblast Kaliningrad
 Oblast Omsk
 Oblík (Böhmisches Mittelgebirge)
+Observatorium Palanga
 Obsidian
 Obskurität
 Obsoleszenz
@@ -38388,6 +38537,7 @@ Olympische Jugend-Sommerspiele 2014/Wasserspringen
 Olympische Sommerspiele
 Olympische Sommerspiele 1900
 Olympische Sommerspiele 1900/Fußball/Spiele
+Olympische Sommerspiele 1900/Leichtathletik – Stabhochsprung (Männer)
 Olympische Sommerspiele 1900/Rugby
 Olympische Sommerspiele 1900/Teilnehmer (Großbritannien)
 Olympische Sommerspiele 1904/Fußball/Spiele
@@ -38596,6 +38746,7 @@ Omni Aviation
 Omnia (Automarke)
 Omnibus
 Omnibus (album)
+Omnidirektionaler Lautsprecher
 Omnitah
 Omnium Motor Company
 Omnobil
@@ -38694,6 +38845,7 @@ Optik
 Optimal Energy
 Optisch
 Optische Telegrafie
+Optischer Näherungsschalter
 Optisches Glas
 Optogenetik
 Optokoppler
@@ -38771,6 +38923,7 @@ Orient Express (Automarke)
 Orient-Express
 Orientale
 Orientalisch-orthodoxe Kirchen
+Orientierungstag (Begriffsklärung)
 Oringa Menabuoi
 Orinoco
 Oriol Paulo
@@ -38942,6 +39095,7 @@ Ostpommersch
 Ostpreußen
 Ostrava
 Ostreville
+Ostring (Bern)
 Ostrumelien
 Ostryocarpus
 Ostsee
@@ -39169,6 +39323,7 @@ Pacific Coastal Airlines
 Pacific Islanders
 Pacific Motor Vehicle Company
 Pacific Motor and Automobile Company
+Pacific Tri-Nations 1987
 Pacific West Conference
 Pacific-12 Conference
 Packard (Automobilhersteller)
@@ -39224,6 +39379,7 @@ Paliano
 Palindrom
 Palisades Tahoe
 Palisades Tahoe Aerial Tram
+Pallacanestro Trapani
 Palladium (Schiff, 1977)
 Palladium Autocars
 Pallhausen (Freising)
@@ -39355,6 +39511,7 @@ Paramachaerium
 Paramantini
 Paramedic
 Parameter (Musik)
+Paramount (Kalifornien)
 Paramount Cars
 Paramount Motors Corporation
 Paramount Pictures
@@ -39744,6 +39901,7 @@ Paw Henriksen
 Pawal Douhal
 Pawel Konstantinowitsch Koltschin
 Pawel Masajew
+Pawel Michailowitsch Kamosin
 Pawel Nikolajewitsch Boitschenko
 Pawel Ossipowitsch Suchoi
 Pawel Petrowitsch Sokolow (Bildhauer)
@@ -39858,6 +40016,7 @@ Pendleton (Automarke)
 Pendleton (Oregon)
 Pendleton Whisky Music Fest
 Penelle
+Penetanguishene
 Peng Li-ting
 Pengo (Computerspiel)
 Penguin Guide To Jazz
@@ -40016,6 +40175,7 @@ Peter Braunegger
 Peter Brearley
 Peter Bridgwater
 Peter Brown (Schauspieler)
+Peter Brüchmann
 Peter Canero
 Peter Capaldi
 Peter Casparsson
@@ -40165,6 +40325,7 @@ Petros VII.
 Petrus Abaelardus
 Petrus Steigenberger
 Petrus van Boxtel
+Petruskirche (Kafarnaum)
 Petruslied
 Pets (2016)
 Pets 2
@@ -40190,6 +40351,7 @@ Pfarrei
 Pfarrgemeinde
 Pfarrhaus (Böhen)
 Pfarrhaus Frankenried (Mauerstetten)
+Pfarrhaus Miel
 Pfarrkirche
 Pfarrkirche Christi Himmelfahrt (Freising)
 Pfarrkirche St. Lantpert
@@ -40205,6 +40367,7 @@ Pferch
 Pferderennen
 Pferdesport
 Pferdezucht
+Pferdsfeld (Hunsrück)
 Pfingstmontag
 Pfingstsonntag
 Pfizer
@@ -40274,6 +40437,7 @@ Philenoptera
 Philip Alexius de László
 Philip Freneau
 Philip Ginthör
+Philip Gogulla
 Philip Hamilton
 Philip Kaufman
 Philip Kipyegon Singoei
@@ -40683,6 +40847,7 @@ Platymiscium
 Platypodium
 Platysepalum
 Platz an der Sonne
+Platzsturm
 Plauen
 Plautdietsch
 Play the Game
@@ -41322,6 +41487,7 @@ Prozessordnung
 Prozessorkern
 Prudhoe Bay
 Prudhoe-Bay-Ölfeld
+Pruitt-Igoe
 Prunel
 Prurigo
 Pryor (Oklahoma)
@@ -42059,6 +42225,7 @@ Rantasalmi
 Raosaheb Danve
 Raoul Coutard
 Raoul Follereau
+Raoul Mutter
 Raoul Peck
 Raoul Reinert
 Raoul Wallenberg Centre for Human Rights
@@ -42472,6 +42639,7 @@ Reinhold Bötzel
 Reinhold Mack
 Reinhold Merkelbach
 Reinhold Messner
+Reinhold Pauli
 Reinhold Sallbach
 Reinhold Schommers
 Reinout Scholten van Aschat
@@ -42530,6 +42698,7 @@ Renaldo Hill
 Renata Cytacka
 Renata Salazar Ivancan
 Renate Götschl
+Renate Günthert
 Renate Heuer
 Renate Lingor
 Renate Wittern-Sterzel
@@ -42783,6 +42952,7 @@ Rhinitis
 Rhino Records
 Rhinovirus
 Rhizobiales
+Rho-Faktor
 Rhode Island
 Rhode Island Auto Carriage Company
 Rhode Island College
@@ -42886,6 +43056,7 @@ Richard Hertwig
 Richard Hidalgo
 Richard Hines
 Richard Hofmann (Fußballspieler)
+Richard Huber
 Richard Hubin
 Richard Hudson (Politiker)
 Richard Hughes (Fußballspieler)
@@ -43071,6 +43242,7 @@ Ritz Crackers
 Ritz Cyclecar Company
 Rivash
 Rivat & Bouchard
+River Claire (Roseau)
 River Phoenix
 Riverboat
 Riverside County
@@ -43155,6 +43327,7 @@ Robert Califf
 Robert Carl Blank
 Robert Carlyle
 Robert Cecil, 1. Viscount Cecil of Chelwood
+Robert Cissé
 Robert Coldwell Wood
 Robert Cowan
 Robert Cushman Murphy
@@ -43434,6 +43607,7 @@ Roebling-Planche
 Roewe
 Rogelio Martínez Furé
 Roger
+Roger A. Brady
 Roger American Mechanical Carriage Company
 Roger Arnaldez
 Roger Bastide
@@ -43753,6 +43927,7 @@ Royal Canadian Mounted Police
 Royal Caribbean
 Royal Caribbean Group
 Royal College of Surgeons of England
+Royal Commission
 Royal Cyclecar Company
 Royal Edinburgh Military Tattoo
 Royal Enfield
@@ -43789,6 +43964,7 @@ Rubén Baraja
 Rubén Blades
 Rubén Darío
 Rubén Oarbeascoa
+Rubén Pérez (Fußballspieler, 1989)
 Rud Ab
 Rud. Ley Maschinenfabrik
 Rudan
@@ -43812,6 +43988,7 @@ Rudi Gores
 Rudi Lausarot
 Rudolf Amon
 Rudolf Basedau
+Rudolf Bernhardt (Verwaltungsjurist)
 Rudolf Diesel
 Rudolf Donath (Schauspieler)
 Rudolf Finsterer
@@ -43962,6 +44139,7 @@ Rupertia
 Rupertstag
 Ruprecht-Karls-Universität Heidelberg
 Rural Municipality of Corman Park No. 344
+Ruschmeier
 Ruska Automobielen
 Russ Freeman (Pianist)
 Russ Mayberry
@@ -44015,6 +44193,7 @@ Ruth Parnitzke
 Ruth Schaumann
 Ruth Schönthal
 Ruth Stephan
+Ruthard
 Ruthvika Shivani
 Rutshuru (Territorium)
 Ruttanapak Oupthong
@@ -44081,6 +44260,7 @@ Rémi Gaillard
 Rémi-Danvignes
 Rémy (Pas-de-Calais)
 Réunion
+Río Huari
 Río Motagua
 Río Papaloapam
 Río Piedras Massaker
@@ -44092,6 +44272,7 @@ Rónald Gómez
 Röck (Automobilhersteller)
 Röhm-Putsch
 Röhr Auto
+Röhren
 Röhrenwurm
 Römerstraße
 Römisch-deutscher König
@@ -44328,6 +44509,7 @@ Sadet Karabulut
 Sadhu Singh
 Saduq (Verwaltungsbezirk)
 Saehan Motor
+Saen Mueang Ma
 Saenara Motor Company
 Saf-T-Cab Corporation
 Safadasht
@@ -44450,6 +44632,7 @@ Salomé Haller
 Salon Helga
 Salonmusik
 Salonwagen
+Salonwagen König Ludwigs II. von Bayern
 Salpetersäure
 Salt Lake City
 Salt Lake County
@@ -44668,9 +44851,11 @@ Sandhaie
 Sandhya Mridul
 Sandhya Roy
 Sandi Putros
+Sandline International
 Sandmückenfieber
 Sandmückenfieber-Virus
 Sandmückenfieber-Virus Sabin
+Sandon (Essex)
 Sandpapier
 Sandplatz (Tennis)
 Sandra Andreis
@@ -44866,6 +45051,7 @@ Sari (Verwaltungsbezirk)
 Sari (Vorname)
 Sarkan
 Sarkasmus
+Sarke
 Sarkhon Kalateh
 Sarmast
 Saroléa
@@ -44913,6 +45099,7 @@ Satellit (Raumfahrt)
 Satellite Award
 Satellite Awards
 Satellite Awards 2015
+Satellite Awards/Fernsehen/Bester Darsteller in einer Serie – Drama
 Satellitenkonstellation
 Satellitennavigationssystem
 Satellitenorbit
@@ -44955,6 +45142,7 @@ Satyricon (Petron)
 Satyrspiel
 Satz des Thales
 Satz von Plancherel
+Satz von Seifert und van Kampen
 Satzklammer
 Satzung (Privatrecht)
 Satzung (öffentliches Recht)
@@ -45249,6 +45437,7 @@ Schlick
 Schlig Automobile Works
 Schlomo Hofmeister
 Schloss Chillon
+Schloss Gimborn
 Schloss Haidenburg
 Schloss Hartenfels
 Schloss Kirchheimbolanden
@@ -45325,6 +45514,7 @@ Schram Motor Car Company
 Schreibdidaktik
 Schreiben
 Schreibforschung
+Schreibmaschinenmuseum Beck
 Schreibtelegraf
 Schreinsbücher
 Schrift
@@ -45600,6 +45790,7 @@ Searchmont Motor
 Searoader Cars
 Sears
 Sears Motor Car Works
+Season Zero
 Seasons in the Abyss
 Seaspray Beach Buggies
 Seaton-Petter
@@ -45839,6 +46030,7 @@ Sepia bidhaia
 Sepidan (Verwaltungsbezirk)
 Sepiddasht
 Septemberbibel
+Septmoncel les Molunes
 Sequoia (Automarke)
 Sera Cahoone
 Sera SA
@@ -45892,6 +46084,7 @@ Serhij Matwjejew
 Serhij Polunin
 Serial
 Serie A 1986/87
+Seriell
 Serielle Musik
 Serienjunkies.de
 Serienmord
@@ -46348,6 +46541,7 @@ Sigrid Marquardt
 Sigurd Hoël
 Sigurd Røen
 Sigvart Dagsland
+Siham Bouhlal
 Siilinjärvi
 Sikhismus
 Siki Reddy
@@ -46552,6 +46746,7 @@ Sinti
 Sinti und Roma
 Sinusthrombose
 Sinuston
+Sinzinger (Adelsgeschlecht)
 Siobhan Hayes
 Sion Hart Rogers
 Sioux
@@ -46658,6 +46853,7 @@ Skythen
 Skytraders
 Skytrans Airlines
 Slaby-Beringer
+Slant Magazine
 Slapstick
 Slatina pod Hazmburkem
 Slatiňanská továrna automobilů R. A. Smekal
@@ -46730,6 +46926,7 @@ So Chong-ju
 So-Jun Ikkyu
 SoFi Stadium
 Soames (Automarke)
+Sobottka
 SocArXiv
 Socata TB
 Social Bookmarks
@@ -47060,6 +47257,7 @@ Southwestern Athletic Conference
 Souveräner Malteserorden
 Souveränes Internet
 Souveränität
+Souvigny-en-Sologne
 Sovam
 Sovra
 Soweto-Tag
@@ -47460,6 +47658,7 @@ Srinivasa Ramanujan
 Srubna-Kultur
 Ssu-ma Ch'ien
 St Barth Commuter
+St Columba’s Church
 St Margaret’s Church
 St Martin’s Church (Canterbury)
 St Paul's Anglican School, Bald Hills
@@ -47473,6 +47672,7 @@ St. Georg (Sachsbach)
 St. Georg (Svätý Jur)
 St. George (Utah)
 St. George’s Anglican Church (Antigua)
+St. Gertrud (Binsfeld)
 St. Helena (Insel)
 St. Helena, Ascension und Tristan da Cunha
 St. James’s Gazette
@@ -47806,6 +48006,7 @@ Statesman (Automarke)
 Statesman Journal
 Statesman-Journal
 Station Inn
+Station touristique Stoneham
 Statische Typisierung
 Statista
 Statistik
@@ -47901,6 +48102,7 @@ Stefano Galvani
 Stefano Margoni
 Stefano Massini
 Stefanou
+Stefanowa
 Steffan Liebig
 Steffen Busse
 Steffen Nowak
@@ -47927,6 +48129,7 @@ Steiner – Das Eiserne Kreuz
 Steinfrucht
 Steinglas
 Steinkohle
+Steinkreise von Kerr Batch
 Steinmetz Electric Motor Car Corporation
 Steinrinnen (Bernhardswald)
 Steinschloss #Zündmechanismus
@@ -48045,6 +48248,7 @@ Steve Cohen
 Steve Coulter
 Steve Grissom
 Steve Harper (Fußballspieler, 1975)
+Steve Henry
 Steve James (Regisseur)
 Steve Jones (Golfspieler)
 Steve Lawrence (Radsportler)
@@ -48625,6 +48829,7 @@ Susangerd
 Susann Utes
 Susanna Gartmayer
 Susanna Yoko Henkel
+Susanne Baer
 Susanne Blumenthal
 Susanne Bohl
 Susanne Theumer
@@ -48757,6 +48962,7 @@ Synagoge (Ansbach)
 Synagoge (Mediaș)
 Synagoge (Parma)
 Synagoge (Veria)
+Synagoge Beth Zion
 Synapomorphie
 Synchrodrive
 Synchron
@@ -48816,6 +49022,7 @@ Sápmi
 São Miguel da Boa Vista
 São Paulo
 São Paulo Challenger 1999
+São Pedro (Trancoso)
 São Tomé und Príncipe
 Sächsische Kanzleisprache
 Sächsischer Fußball-Verband
@@ -49319,6 +49526,7 @@ Taller Danrée y Silveira
 Talleres Hereter
 Talleres Zaragoza
 Tallinn
+Talsperre Jesenice
 Talwind
 Tamag
 Tamami Tanaka
@@ -49834,6 +50042,7 @@ The Abyss (Band)
 The Advocate
 The Ajax Motor Vehicle Company
 The Alan Parsons Project
+The Alligator Wine
 The Amazing Spider-Man (2012)
 The Amazing Spider-Man 2: Rise of Electro
 The American Journal of Medicine
@@ -51013,6 +51222,7 @@ Tottenham Hotspur
 Totti Bergh
 Tour Championship (Golf)
 Tour de San Luis
+Tour de Yorkshire 2017
 Tour de l’Avenir
 Tour der British and Irish Lions nach Australien 2013
 Tour du Loir-et-Cher
@@ -51045,6 +51255,7 @@ Townend Engineering
 Townhall
 Townsend (Automobilhersteller)
 Townsend Bell
+Township
 Township (Südliches Afrika)
 Toxicity
 Toxikologie
@@ -51437,6 +51648,7 @@ Tunisair
 Tunisair Express
 Tunliu
 Tunneleffekt
+Tunnelfinisher
 Tuomas Ketola
 Tupi-Sprache
 Tupolew Tu-144
@@ -51669,6 +51881,7 @@ US Open 2003
 US Open 2003/Herreneinzel
 US Open 2014/Herreneinzel
 US Open 2016/Dameneinzel
+US Open 2016/Herreneinzel
 US-Bundesstaat
 US-Dollar
 US-Finanzministerium
@@ -52166,6 +52379,7 @@ Universitätsbibliothek der Technischen Universität München
 Universitätsklinikum Mannheim
 Universitätsstadt
 Université catholique de Louvain
+Universul
 Universum
 Universum (Handelsmarke)
 União Democrática Timorense
@@ -52473,6 +52687,7 @@ Varavi
 Vardan Ovsepian
 Vareille et Godet
 Varennes-en-Argonne
+Variable-Data Intelligent PostScript Printware
 Variables Kapital
 Variantenwörterbuch des Deutschen
 Variationen und Fuge über ein Thema von Händel
@@ -52556,6 +52771,7 @@ Vektor
 Vektor (Biologie)
 Velar
 Veli Saarinen
+Veliaj
 Velie
 Veljko Paunović
 Velocette
@@ -52761,6 +52977,7 @@ Verwaltungsabkommen
 Verwaltungsberater
 Verwaltungsbezirk
 Verwaltungseinheit
+Verwaltungsgebäude Schulstraße 5
 Verwaltungsgemeinschaft Aidenbach
 Verwaltungsgerichtsbarkeit (Deutschland)
 Verwaltungsgliederung
@@ -52829,6 +53046,7 @@ Vico nel Lazio
 Victims of Communism Memorial Foundation
 Victoire von Frankreich
 Victor Alcántara
+Victor Amadeus (Hessen-Rotenburg)
 Victor Automobile Company
 Victor Blüthgen
 Victor Espiritu
@@ -52908,6 +53126,7 @@ Vietnamkrieg
 ViewSonic
 Vifabio
 Viggo Mortensen
+Vigilante – Bis zum letzten Atemzug
 Vigna
 Vigo (Comarca)
 Vigo (Gerichtsbezirk)
@@ -53174,6 +53393,7 @@ Volker Pispers
 Volker Sellin
 Volker Senftleben
 Volker Ullrich (Politiker)
+Volker Wiese
 Volksbuch
 Volkseigener Betrieb
 Volkseinkommen
@@ -53364,6 +53584,7 @@ WM Motor Technology
 WMS Industries
 WP Indústria e Comércio de Plástico Reforçado
 WS Atkins PLC
+WSA World Tour 2014/15
 WWE WrestleMania
 Waaijenberg Mobiliteit
 Wachen! Wachen!
@@ -53407,6 +53628,7 @@ Wahlen in der Demokratischen Republik Kongo 2018
 Wahlfeld in Wola
 Wahlgerät
 Wahlkampf
+Wahlkreis Ostviipuri
 Wahlliste
 Wahlmonarchie
 Wahlrecht
@@ -54129,6 +54351,7 @@ Werkzeugstahl
 Werma Automóveis
 Werne
 Werner Angress
+Werner Bergmann (Historiker)
 Werner Besch
 Werner Blumenberg
 Werner Conze
@@ -54672,6 +54895,7 @@ William Penny Brookes
 William Perlberg
 William Petty
 William Plumer
+William Pope Duval
 William Powell
 William Primrose
 William R. Day
@@ -54947,6 +55171,7 @@ Wladimir Wladimirowitsch Kara-Mursa
 Wladislaw
 Wladislaw Nikolajewitsch Radimow
 Wladyslaw Waschtschuk
+Wobbeindex
 Woche
 Woche der Solidarität mit den Völkern der Gebiete ohne Selbstregierung
 Woche des Sehens
@@ -54986,6 +55211,7 @@ Wolfenbüttel
 Wolfersdorf
 Wolfersdorf (Bernhardswald)
 Wolferszwing
+Wolfgang (Begriffsklärung)
 Wolfgang (Wrestler)
 Wolfgang A. Herrmann
 Wolfgang Amadeus Mozart
@@ -55593,6 +55819,7 @@ Zawe Ashton
 Zayandeh Rud
 Zazeran
 Zbrojovka Brno
+Zdenko Kožul
 Zdeněk Smetana
 Zdzisław Kapka
 Zealia
@@ -55609,6 +55836,7 @@ Zeeshan Ashraf
 Zehak
 Zehak (Verwaltungsbezirk)
 Zehn-Punkte-Programm
+Zehna
 Zehntes Buch Sozialgesetzbuch
 Zeichen
 Zeichentrickfilm
@@ -55800,6 +56028,7 @@ Zorex
 Zornia
 Zoroastrismus
 Zorro
+Zotti
 Zotye International
 Zoubir Zmit
 Zoé Félix
@@ -55923,6 +56152,7 @@ transistor
 Ángel Cabrera (Golfspieler)
 Ángel Mariscal
 Ángel Médici
+Ángel Omarini
 Ángel Rivero Méndez
 Ángel Trinidad
 Ángeles Montolio
@@ -55943,6 +56173,7 @@ transistor
 Äolisches Griechisch
 Äquator
 Äquatorialguinea
+Äquatorialguineische Volleyballnationalmannschaft der Frauen
 Äquinoktium
 Äquivalentdosis
 Ärzte ohne Grenzen
@@ -55955,6 +56186,7 @@ transistor
 Ätiologie (Medizin)
 Ätolien-Akarnanien
 Ätzen
+Årstaviken
 Åsa Dornbusch
 Åsa Svensson
 Åtvidabergs Vagnfabrik
@@ -56126,6 +56358,7 @@ transistor
 Überblicksliste der ISO-639-3-Codes
 Überdosis
 Übereinkommen der Vereinten Nationen gegen Korruption
+Übereinkommen der Vereinten Nationen zur Bekämpfung der Wüstenbildung
 Übereinkommen zur Erhaltung des Immateriellen Kulturerbes
 Überfall auf Polen
 Überfangglas
@@ -56145,6 +56378,7 @@ transistor
 Üsenberger
 Þorsteinn frá Hamri
 Þóra Arnórsdóttir
+Čermany
 Česká automobilová společnost
 Đorđe Višacki
 Ēriks Rags
@@ -57553,6 +57787,7 @@ Agrarstrukturen in Lateinamerika
 Agricultural Research Service
 Aguada
 Aguadilla
+Aguas Blancas (Iruya)
 Aguilera
 AgustaWestland
 AgustaWestland AW101
@@ -57566,6 +57801,7 @@ Aharon Appelfeld
 Aharon Ipalé
 Aharon Keshales
 Aharon Megged
+Ahlimbsmühle
 Ahmad (Rapper)
 Ahmad Shanon
 Ahmad Taherí
@@ -57893,6 +58129,7 @@ Alaska Day
 Alaska Public Media
 Alaska State Capitol
 Alaska State Senate
+Alaska Supreme Court
 Alaska, Zimbabwe
 Alastair Forsyth
 Alastair McCorquodale
@@ -57942,6 +58179,7 @@ Albert Farnell
 Albert Ferrer
 Albert Galiton Watkins
 Albert Gallatin
+Albert Gliemann
 Albert Gobat
 Albert Gore senior
 Albert Günther (Zoologe)
@@ -58094,6 +58332,7 @@ Aldina
 Aldo Bufi Landi
 Aldo Díaz
 Aldo Majunke
+Aldo Rocha
 Aldo Rossi
 Aldosteron
 Aldy-Bel-Kultur
@@ -58116,6 +58355,7 @@ Alejandro Tobar
 Alejandro Zambra
 Alek Epstein
 Aleks Scholz
+Aleksandar Aleksandrov
 Aleksandar Karakašević
 Aleksandar Marković
 Aleksandar Sarowni
@@ -58195,6 +58435,7 @@ Alexa (genus)
 Alexa Internet
 Alexandar Alexandrow (Fußballspieler)
 Alexandar Borkovic
+Alexander Alexandrowitsch Grisman
 Alexander Alexandrowitsch Sawjalow
 Alexander Alvaro
 Alexander Andrejewitsch Prochanow
@@ -58380,6 +58621,7 @@ Alfred Jüttner
 Alfred Kirpal
 Alfred Kunze, Továrna na stroje a osobní automobily
 Alfred Kurella
+Alfred Kyrer
 Alfred L. Bulwinkle
 Alfred Lansing
 Alfred Leber
@@ -58422,6 +58664,7 @@ Algebra
 Algebraische Gleichung
 Algen
 Algerien
+Algerische Futsalnationalmannschaft
 Algerische Rugby-Union-Nationalmannschaft
 Algier
 Algorithmus
@@ -58617,6 +58860,8 @@ Almeida Garrett
 Almenara (Automarke)
 Almería
 Almoraviden
+Alnor
+Aloe dorotheae
 Aloha Air Cargo
 Alois Barmettler
 Alois Goldbacher
@@ -58817,6 +59062,7 @@ Amazonas Motos Especiais
 Amber Neben
 Amber Rayne
 Ambivalenz
+Amboy
 Ambrines
 Ambrose Bierce
 Ambrose L. Jordan
@@ -59633,6 +59879,7 @@ Anni Rättyä
 Annica Åhlén
 Annie Award
 Annie Cotton
+Annie Heuser Schule
 Annie Parisse
 Annie Xu
 Annika Idström
@@ -60085,7 +60332,9 @@ Argenteuil
 Argentinien
 Argentinische Fußballnationalmannschaft
 Argentinische Rugby-Union-Nationalmannschaft
+Argentinische Rückhand
 Argentinische Streitkräfte
+Argentometrie
 Argeo Fahrzeugwerk
 Argo (Film)
 Argo Electric Vehicle Company
@@ -60180,6 +60429,7 @@ Armando Iannucci
 Armando Zani
 Armando da Silva Martins
 Armardeh
+Armblütige Segge
 Armed Forces Expeditionary Medal
 Armed Forces Honor Medal
 Armed Forces Reserve Medal
@@ -60309,6 +60559,7 @@ Arthur III. (Bretagne)
 Arthur J. Ornitz
 Arthur John Arberry
 Arthur Konnerth
+Arthur König (Theologe)
 Arthur Loesser
 Arthur MacArthur senior
 Arthur Metcalfe
@@ -61345,6 +61596,7 @@ Axel Bojanowski
 Axel Hilgenstöhler
 Axel Malzacher
 Axel Melzener
+Axel Möckel
 Axel Rudi Pell
 Axel Springer SE
 Axel Steier
@@ -61577,6 +61829,7 @@ Bahmai (Verwaltungsbezirk)
 Bahman (Fars)
 Bahnemir
 Bahnhof
+Bahnhof Frankfurt (Main) Messe
 Bahnhof Freising
 Bahnhof Friedrichstraße
 Bahnhof Highbury & Islington
@@ -61852,6 +62105,7 @@ Barcelona
 Barcelona (Album)
 Barcelona (Lied)
 Barcelona Challenger 1999
+Barclay Lake
 Barclay Martin
 Barclay Motors
 Barclays
@@ -62081,6 +62335,7 @@ Baylon Spector
 Baylor University
 Bayonne
 Bayou La Batre
+Bayport
 Bayraktar TB2
 Bayranshahr
 Bayreuth
@@ -62331,8 +62586,10 @@ Bendix SWC
 Benedetta Porcaroli
 Benedetto Aloisi Masella
 Benedetto Croce
+Benedict (Familienname)
 Benedict Arnold
 Benedict Cumberbatch
+Benedikt Kastner
 Benedikt Müssig
 Benedikt XV.
 Benedikt XVI.
@@ -62578,6 +62835,7 @@ Besatzungszone
 Beschlagnahme
 Beschleuniger-Massenspektrometrie
 Beschneidung des Herrn
+Beschränkt persönliche Dienstbarkeit
 Beschädigungskampf
 Beschäftigung
 Besetztes Nachkriegsösterreich
@@ -62594,6 +62852,7 @@ Besst
 Best (Automobilhersteller)
 Best of Bee Gees
 Best of Led Zeppelin
+Besteckversetzung
 Bestenliste australischer Triathletinnen auf der Ironman-Distanz
 Bestiensäule
 Bestseller
@@ -62833,6 +63092,7 @@ Bill Nunn
 Bill O’Reilly
 Bill Paterson
 Bill Polian
+Bill Pullman
 Bill Purse
 Bill Rexford
 Bill Richardson
@@ -63075,6 +63335,7 @@ Bistum Coimbatore
 Bistum Crema
 Bistum Cremona
 Bistum Görlitz
+Bistum Itumbiara
 Bistum Kangding
 Bistum La Crosse
 Bistum Laohokow
@@ -63502,6 +63763,7 @@ Bomb the Bass
 Bombardier Challenger 600
 Bombay
 Bombay (Bundesstaat)
+Bombenangriff auf Stralsund am 6. Oktober 1944
 Bomber One
 Bon Jovi
 Bon Scott
@@ -63763,6 +64025,8 @@ Brandon McManus
 Brandon Sanderson
 Brandon Smith (Eishockeyspieler)
 Brandon Staley
+Branišovice
+Brankica Mihajlović
 Brann Dailor
 Branquinho da Fonseca
 Brantly B-2
@@ -63817,6 +64081,7 @@ Breitband-Internetzugang
 Breitblättriger Rohrkolben
 Breitenberg (Niederbayern)
 Breitkopf & Härtel
+Breitnau
 Bremen
 Bremen Sport Equipment
 Bremer Bürgermeister
@@ -64148,6 +64413,7 @@ Buchmalerei
 Buchpreisbindung
 Buchstabe
 Buchstabenhäufigkeit
+Buchstabensuppe
 Buchstabentafel
 Buchstabiertafel
 Buchzensur in der Volksrepublik China
@@ -64382,6 +64648,7 @@ Burg (Ettenstatt)
 Burg Adršpach
 Burg Blankenmoos
 Burg Bollendorf
+Burg Buch (Winterthur)
 Burg Carriage Company
 Burg Dürboslar
 Burg Fracstein
@@ -64463,6 +64730,7 @@ Buster Keaton
 Buster Ramsey
 Buta (Stadt)
 Butch Lindley
+Butch Otter
 Butea
 Butjadingen
 Butler Bulldogs
@@ -64592,6 +64860,7 @@ C. R. Patil
 C. Rossler Manufacturing Company
 C. S. Peets Manufacturing Company
 C. S. Puttaraju
+C. T. Rajagopal
 C. T. Silver Motor Company
 C. W. Kelsey Manufacturing Company
 C. de L. Engineering Works
@@ -65303,6 +65572,7 @@ Catherine Tyldesley
 Catherine de Valois (1401–1437)
 Cathlen Gawlich
 Catholic-hierarchy.org
+Cathrine Rosengren
 Cato Guntveit
 Catrin Barnsteiner
 Catriona Morrison
@@ -65359,6 +65629,7 @@ Centaur Car Company
 Centaur Cycle
 Centaur Motor Corporation
 Centaur Motor Vehicle Company
+Centenary
 Centennial Conference
 Center for Civil Liberties
 Center for Global Policy
@@ -65449,6 +65720,7 @@ Chalid Arrab
 Chalkogenide
 Chalkogenidglas
 Challenge Motorsport Engineers
+Challenger Ciudad de Guayaquil 2009
 Challenger de Salinas Copa Banco Guayaquil 2022
 Challenger-Expedition
 Chalmers Motor Car Company
@@ -66457,6 +66729,7 @@ Claire Mathon
 Clair–Fort Kent Bridge
 Clallam County
 Clan Motor
+Clara Galle
 Clara Janés
 Clara Lago
 Clara Zetkin
@@ -66656,6 +66929,7 @@ Coates-Goshen Automobile Company
 Coatzacoalcos
 Cobalt
 Cobalt(II)-oxid
+Cobbtown
 Cobham (Fluggesellschaft)
 Cobra Cars Spain
 Cobra Classic Sportscars
@@ -67093,6 +67367,7 @@ Cornilleau & Sainte-Beuve
 Corning (Unternehmen)
 Corning Motor Car Company
 Corning Museum of Glass
+Cornish (Maine)
 Cornish Classic Cars
 Cornish-Friedberg Motor Car Company
 Cornu (Automobilhersteller)
@@ -67134,6 +67409,7 @@ Corythomantis
 Cosmas Damian Asam
 Cosmas Damian und Egid Quirin Asam
 Cosmas Michael Angkur
+Cosmic Vision 2015–2025
 Cosmin Contra
 Cosmina Stratan
 Cosmopolitan (Magazin)
@@ -67344,6 +67620,7 @@ Crystal Castles (Computerspiel)
 Créanche
 Csaba Fehér
 Csaba Földes
+Csibrák
 Csonka (Automobilhersteller)
 Cubana
 Cubesat
@@ -67523,6 +67800,7 @@ DEW Engineering
 DFB-Pokal
 DFB-Pokal (Frauen)
 DFB-Pokal 1974/75
+DHB-Amateur-Pokal 2021
 DHL Aero Expreso
 DHL Air UK
 DHL Aviation
@@ -67651,6 +67929,7 @@ Dalloul
 Dalpat Singh Paraste
 Dalton Motor Car Company
 Dalton Risner
+Damallsvenskan 2021
 Daman und Diu
 Damaneh
 Damaq
@@ -67952,6 +68231,7 @@ Das brandneue Testament
 Das ist Biologie
 Das kann jedem passieren
 Das letzte Einhorn (Zeichentrickfilm)
+Das todbringende Ungeheuer
 Das tödliche Dreieck
 Das wandelnde Schloss (Anime)
 Das wissenschaftliche Bibellexikon im Internet
@@ -68463,6 +68743,7 @@ Democratic National Convention
 Democrats (Film)
 Demografie
 Demografie Deutschlands
+Demografie Spaniens
 Demografischer Wandel in Deutschland
 Demographie
 Demoiselle Indústria e Comércio de Carrocerias
@@ -68639,6 +68920,7 @@ Der Märker (1945–1946)
 Der Pilger (Film)
 Der Postillon
 Der Prinz von Ägypten
+Der Reiter auf dem goldenen Pferd
 Der Schatz vom Toplitzsee
 Der Sinn des Lebens (Film)
 Der Sohn von Rambow
@@ -68998,6 +69280,7 @@ Devon (England)
 Devon Maitozo
 Devosia
 Devosiaceae
+Devotio
 Devrim
 Devusinh Jesingbhai Chauhan
 Dewaet
@@ -69341,6 +69624,7 @@ Dillwynia
 Dilmun
 Dima Orsho
 Dima Slobodeniouk
+Dimbleby
 Diminutiv
 Dimitar Iwankow
 Dimitri A. Petropoulos
@@ -69490,6 +69774,7 @@ Dmitri Igorewitsch Suranowitsch
 Dmitri Iossifowitsch Iwanowski
 Dmitri Iwanowitsch Sidorow
 Dmitri Markov
+Dmitri Poljanski
 Dmitri Schostakowitsch
 Dmitri Ustritski
 Dmitri Walerjewitsch Chochlow
@@ -69679,6 +69964,7 @@ Doppelstern
 Doppo Kunikida
 Dora Carrington
 Dora Kaprálová
+Dora Pavel
 Doray
 Dorcen
 Dorcheh Piaz
@@ -69776,6 +70062,7 @@ Dowagiac Motor Car Company
 Dowbaran
 Dowlatabad (Isfahan)
 Dowlatabad (Razavi-Chorasan)
+Down to Earth (Ozzy-Osbourne-Album)
 Down-Syndrom
 Downing Cyclecar Company
 Downing Street
@@ -69828,6 +70115,7 @@ Drei-Tage-Fieber
 Dreibandsalmler
 Dreiberg
 Dreifaltigkeit
+Dreifaltigkeitsgasse
 Dreifaltigkeitskirche
 Dreigroschenoper
 Dreikaiserjahr
@@ -69835,6 +70123,7 @@ Dreikönigsfest
 Dreizehn Gemeinden
 Dreißigjähriger Krieg
 Dresden
+Dresdner Stolln
 Drew (Maine)
 Drew Barrymore
 Drew Goddard
@@ -69901,6 +70190,7 @@ Duarte Lopes
 Dubai
 Dubai Desert Classic
 Dubai World Championship
+Dubler
 Dublin
 Dubno
 Dubois (Automobilhersteller)
@@ -70024,6 +70314,7 @@ Duzduzan
 Duzeh
 Dušan Podpečan
 Dyan Cannon
+Dyer Island (Antarktika)
 Dykes on Bikes
 Dylan McGeouch
 Dylan Tait
@@ -70630,6 +70921,7 @@ EisenEx
 Eisenbahn
 Eisenbahnachse Berlin–Palermo
 Eisenbahnfährverbindung
+Eisenbahnunfall auf der Bloukrans-Brücke
 Eisenbahnunfall von Sangi
 Eisenbahnverkehrsunternehmen
 Eisendüngung
@@ -71002,6 +71294,7 @@ Emil Hácha
 Emil Iversen
 Emil Lessing
 Emil Lidtke
+Emil Moser (Maler)
 Emil Rathenau
 Emil Rupf
 Emil Schäfer (Rugbyspieler)
@@ -71385,6 +71678,7 @@ Erik Wilson
 Erik Winquist
 Erik Östlund
 Erika Abels d’Albert
+Erika Burkart
 Erika Rabau
 Erika Simon
 Erika Stiska
@@ -71405,6 +71699,7 @@ Erkki Liikanen
 Erklärung
 Erkältung
 Erla (Automobilhersteller)
+Erlangen Rebels
 Erlau (Freising)
 Erlbach (Bernhardswald)
 Erlenblättrige Felsenbirne
@@ -71506,6 +71801,7 @@ Erstflug
 Erstsprache
 Ersttagsbrief
 Ertebølle-Kultur
+Ertekin Özcan
 Ertragsteuer
 Erubey Cabuto
 Eruptiv veränderlicher Stern
@@ -71852,6 +72148,7 @@ Eva Ebner
 Eva Eiselt
 Eva Gesine Baur
 Eva Henning
+Eva Hörbiger
 Eva Kryll
 Eva Longoria
 Eva M. Clayton
@@ -72325,6 +72622,7 @@ Farbio Sports Cars
 Farbus
 Farcot et Olivier
 Fareghan
+Farey (Niger)
 Fargo
 Fargo (Lkw-Marke)
 Farhad Safinia
@@ -72499,6 +72797,7 @@ Fellow
 Fellpoint
 Fellwock Automobile Manufacturing Company
 Felodipin
+Felshaus (Johanngeorgenstadt)
 Feltham
 FemBio
 Fememord
@@ -72626,6 +72925,7 @@ Feuerbestattung
 Feuerverzinken
 Feuerwalze (Film)
 Feuerwehr
+Feuerwehr Kiel
 Feuerwehr in Deutschland
 Feuerwehrverein
 Feuerwerk
@@ -72701,6 +73001,7 @@ Filip Minarik
 Filip Peeters
 Filip Zawada
 Filippo Brunelleschi
+Filippo De Filippi (Mediziner)
 Filippo Nigro
 Filippo Pigafetta
 Filippo Strozzi der Jüngere
@@ -73594,6 +73895,7 @@ Franz von Cramm
 Franz von Papen
 Franz von Sales
 Franz-Josef Sehr
+Franzband
 Franziska Hauser
 Franziska Rabl
 Franziska Weisz
@@ -73959,6 +74261,7 @@ Fritz Irmiger
 Fritz J. Raddatz
 Fritz Jöde
 Fritz Karl
+Fritz Kranefuß
 Fritz Lang
 Fritz Moser, Fabrique d’Automobiles et Motocyclettes
 Fritz Peyer
@@ -74415,6 +74718,7 @@ Galaktosämie
 Galateia
 Galaxian
 Galaxie
+Galaxy Nexus
 Gale Storm
 Galega
 Galegeae
@@ -74443,6 +74747,7 @@ Galloway & Co.
 Galloway Motors
 Gallup Organization
 Gallustag
+Gallusturm (Bad Säckingen)
 Gallée
 Galmurti
 Galt Motor
@@ -74516,6 +74821,7 @@ Garett Bolles
 Garfield Automobile Company
 Garford (Fahrzeugmarke)
 Gargantua und Pantagruel
+Gargnäs
 Garifuna
 Garigliano
 Garküche
@@ -74706,6 +75012,7 @@ Geisterstadt
 Geistertanz
 Geisteswissenschaft
 Geistiges Eigentum
+Geistliche Schulaufsicht
 Geistlicher
 Geißenklösterle
 Geißklee
@@ -75129,6 +75436,7 @@ Gerhard Ritter (Ratsherr)
 Gerhard Schallert
 Gerhard Schröder
 Gerhard Schürer
+Gerhard Stratthaus
 Gerhard Tötschinger
 Gerhard W. Lehmann & Co. Motorfahrzeugbau
 Gerhard Wagenitz
@@ -75136,6 +75444,7 @@ Gerhart Hauptmann
 Gerhoch von Reichersberg
 Gericht
 Gericht (Speise)
+Gerichtsbezirk Pisino
 Gerichtshof der Europäischen Union
 Gerichtsmediziner
 Gerichtsmediziner Dr. Leo Dalton
@@ -75169,6 +75478,7 @@ Germanische Sprachen
 Germanische Stammesrechte
 Germanistik
 Germanium
+Germer
 Germersheimer Linie
 Germi (Stadt)
 Germi (Verwaltungsbezirk)
@@ -75195,6 +75505,7 @@ Gerrit van Wuysthoff
 Gerry Cinnamon
 Gerry Malone
 Gerry Mulligan
+Gerry O’Hara
 Gerry Rafferty
 Gerstenhof
 Gersthofen
@@ -75400,6 +75711,7 @@ Gharana
 Gharqabad
 Ghazi (Iran)
 Ghent Motor Company
+Gherardeschi
 Ghiblies: Episode 1
 Ghiblies: Episode 2
 Ghil'ad Zuckermann
@@ -75724,6 +76036,7 @@ Gmina Brzeźnica (Powiat Wadowicki)
 Gmina Kalwaria Zebrzydowska
 Gmina Lanckorona
 Gmina Mucharz
+Gmina Nowa Sarzyna
 Gmina Rokietnica (Powiat Jarosławski)
 Gmina Spytkowice (Powiat Wadowicki)
 Gmina Stryszów
@@ -75922,6 +76235,7 @@ Gossip Girl
 Gothaer Programm
 Gotham Award
 Gotham Motor Car Company
+Gothawagen G4-65
 Gothic (Kultur)
 Gotik
 Gotische Sprache
@@ -76320,8 +76634,10 @@ Großhandel
 Großherzogtum Berg
 Großherzogtum Frankfurt
 Großkatzen
+Großmaul-Antennenwelse
 Großmeister von Frankreich
 Großrechner
+Großsteingräber bei Störpke
 Großstübing
 Großämter der Krone Frankreichs
 Grubberg (Bernhardswald)
@@ -76707,6 +77023,7 @@ H5N1-Virus
 HAWE Hydraulik
 HB (Automarke)
 HCE Cars
+HD 202206
 HDMI-Stick
 HDS (Automarke)
 HGÜ Inga-Shaba
@@ -76978,6 +77295,7 @@ Hanesbrands
 Hangar
 Hangeul
 Hangeul-Tag
+Hanging Lake
 Hanja
 Hank Aaron
 Hank Bullough
@@ -77149,6 +77467,7 @@ Hard Rock
 Hardcore Holly
 Hardcore Punk
 Hardenbergia
+Hardin County
 Harding (Automobilhersteller)
 Harding (Unternehmen)
 Harding Machine
@@ -77285,6 +77604,7 @@ Harvey Magee Watterson
 Harvey Samuel Firestone
 Haryana
 Harz (Mittelgebirge)
+Harzer Klosterwanderweg
 Harzklee
 Hasan-E. Fasa'i's
 Hasanabad
@@ -77597,6 +77917,7 @@ Heinävesi
 Heiratspolitik der Habsburger
 Heise online
 Heise.de
+Heishu
 Heiße Hüpfer
 Hektar
 Helen Adam
@@ -77611,6 +77932,7 @@ Helena Kennedy, Baroness Kennedy of The Shaws
 Helena Růžičková
 Helene Fernau-Horn
 Helene Freifrau von Bothmer
+Helene Hennemann-Bartsch
 Helene von Bothmer
 Helga Stan-Lotter
 Helga de la Motte-Haber
@@ -78456,6 +78778,7 @@ Horr (Iran)
 Horrorfilm
 Horsfall & Bickham
 Horst Dreier
+Horst Dörrbecker
 Horst Hammitzsch
 Horst Jänicke
 Horst Schimanski
@@ -79153,6 +79476,7 @@ Icar Air
 Icarus Elicotteri
 Ice Age 5 – Kollision voraus!
 Iced Earth
+Icel (Mercia)
 Icelandair
 Ich bin tot, macht was draus!
 Ich der Kater
@@ -80270,6 +80594,7 @@ Ito (Fußballspieler)
 Ito-Zelle
 Ituri (Distrikt)
 Ituri (Provinz)
+Itzgrund
 Itzling (Freising)
 It’s Called a Heart
 It’s Late
@@ -81140,6 +81465,7 @@ Jean-Baptiste de Boyer, Marquis d’Argens
 Jean-Baptiste de Lamarck
 Jean-Clarence Lambert
 Jean-Claude Darcheville
+Jean-Claude Makaya Loembe
 Jean-Claude Marol
 Jean-Claude Petit
 Jean-Claude Rutault
@@ -81485,6 +81811,7 @@ Jim Kelly (Footballspieler)
 Jim Kerr
 Jim Lambie
 Jim Mallan
+Jim Martin
 Jim McDowall
 Jim McGovern (Politiker, 1956)
 Jim Mitchell (Gitarrist)
@@ -81744,6 +82071,7 @@ Johann Friedrich Conrad Carl Demme
 Johann Friedrich Müller (Mediziner)
 Johann Friedrich Reichardt
 Johann Friedrich von Merkatz (Oberst)
+Johann Geiger (Politiker)
 Johann Geiler von Kaysersberg
 Johann Georg Conrad Oberdieck
 Johann Georg Jacobi
@@ -81787,6 +82115,7 @@ Johann Nikolaus Forkel
 Johann Ohnefurcht
 Johann Peter von Ludewig
 Johann Pezzl
+Johann Polycarp Bulius
 Johann Puch
 Johann Schaper (Maler)
 Johann Schuster (Politiker, 1912)
@@ -82102,6 +82431,7 @@ John Morgan Bright
 John Muir (Indologe)
 John Munroe
 John Nance Garner
+John Neihardt
 John Neilson Lake
 John Nettles
 John Nichols (Politiker)
@@ -82111,6 +82441,7 @@ John Ohlsen Developments
 John O’Donohue
 John O’Shea (Dartspieler)
 John P. Hale
+John P. O’Neill
 John Page (Politiker, 1787)
 John Paul Jones (Musiker)
 John Paul Young
@@ -82768,6 +83099,7 @@ Julius Jellinek
 Julius Jensen (Regisseur)
 Julius Marshuetz Mayer
 Julius Mennicken
+Julius Nepos
 Julius W. Blackwell
 Julius Wilhelm Gintl
 Julius vor der verschlossenen Himmelstür
@@ -82879,6 +83211,7 @@ Jäger des verlorenen Schatzes
 Jäger und Sammler
 Jérémie Bélingard
 Jérémie Dufour
+Jérémie Ouédraogo
 Jérémie Renier
 Jérémy Dérangère
 Jérôme Gay
@@ -82917,6 +83250,7 @@ Jørgen Aukland
 Jüdische Friedhöfe in Trier
 Jüdische Schule in Stuttgart
 Jüdischer Friedhof (Espelkamp)
+Jüdischer Friedhof (Jastrowie)
 Jüdischer Kalender
 Jüdisches Museum Rendsburg
 Jülich
@@ -82934,6 +83268,7 @@ Jürgen Malitz
 Jürgen Neffe
 Jürgen Panis
 Jürgen Petersohn
+Jürgen Pohlmann
 Jürgen Prochnow
 Jürgen Rohlfs
 Jürgen Thormann
@@ -82995,6 +83330,7 @@ Kabinenparty
 Kabinett Biden
 Kabinett Jasper I
 Kabinett Merges
+Kabinett Minghetti
 Kabinett Muzito
 Kabinett Oerter I
 Kabinett Salmond II
@@ -83148,6 +83484,7 @@ Kaltverfestigung
 Kaltwalzen
 Kalvakuntla Kavitha
 Kalyan Banerjee
+Kalīla wa Dimna
 Kam Air
 Kamakhya Prasad Tasa
 Kamakura
@@ -83178,6 +83515,7 @@ Kamil V. Zvelebil
 Kamil Wilczek
 Kamillenhof
 Kamina (Kongo)
+Kamishibai
 Kamla Patle
 Kamlesh Paswan
 Kammann Manufacturing Company
@@ -83304,6 +83642,7 @@ Karamay
 Karambolage (Arte)
 Karan Ashley
 Karassuk-Kultur
+Karate-Europameisterschaft der Jugend, Junioren & U21 2022
 Karatschi
 Karbach Automobile & Vehicle Company
 Karbide
@@ -83317,6 +83656,7 @@ Karel Komárek
 Karel Reiner
 Karel Svoboda (Biophysiker)
 Karel Václav Rais
+Karel van de Woestijne
 Karel Čapek
 Karen Allen
 Karen Carter Peterson
@@ -83497,6 +83837,7 @@ Karsan
 Karshi Challenger 2015
 Karsten Aurich
 Karsten Dahlem
+Karsten Konow
 Karsten Oswald
 Karsten Woldeit
 Kartal (Klapper)
@@ -83869,6 +84210,7 @@ Kenya Airways
 Kenya Open
 Kepler-Beery Motor Car Company
 Kepler-Dreieck
+Keppel Island (Falklandinseln)
 Kerala
 Kerala Congress (M)
 Keramik
@@ -83923,6 +84265,7 @@ Ketchikan
 Ketsch (Schiffstyp)
 Kette
 Kettenhemd
+Kettenis
 Keurig Dr Pepper
 Kevin Apter
 Kevin Armstrong (Sänger)
@@ -84582,6 +84925,7 @@ Kommersant
 Kommerzialisierung
 Kommunale Selbstverwaltung
 Kommunale Selbstverwaltung (Deutschland)
+Kommunalverbund Niedersachsen/Bremen
 Kommunalwahlen in Bayern 2020
 Kommune von Baku
 Kommunikation
@@ -84986,6 +85330,7 @@ Kristin Meyer
 Kristin Schulz
 Kristin Schütz
 Kristin Thora Haraldsdottir
+Kristin Wieczorek
 Kristina Háfoss
 Kristina Koznick
 Kristina Stoltz
@@ -85301,6 +85646,7 @@ Königreich der Niederlande
 Königreich Ägypten
 Königsberger Allgemeine Zeitung
 Königsblau
+Königsbruch
 Königspfalz
 Königspfalz Werla
 Königsstein (Freising)
@@ -85825,6 +86171,7 @@ Laura Lafargue
 Laura Macdonald
 Laura Mylotte
 Laura Schaberg
+Laura Stahnke
 Laura Tonke
 Laura Voutilainen
 Laura Wilde
@@ -86070,6 +86417,7 @@ Legia Warschau
 Legierung
 Legierungselement
 Legierungstransistor
+Legio XIII Gemina
 Legion of Merit
 Legislative
 Lego Indiana Jones 2: Die neuen Abenteuer
@@ -86268,6 +86616,7 @@ Les Piggot
 Les West
 Lesbian Visibility Day
 Lesbos
+Leschaux
 Lescina Automobile Company
 Lese- und Rechtschreibstörung
 Lesen
@@ -86691,6 +87040,7 @@ Liste der Bischöfe von Cremona
 Liste der Bischöfe von Freising und der Erzbischöfe von München und Freising
 Liste der Bischöfe von Portalegre
 Liste der Bischöfe von Triest
+Liste der Bodendenkmale in Parthenstein
 Liste der Bodendenkmäler in Aldersbach
 Liste der Bodendenkmäler in Bad Neualbenreuth
 Liste der Bodendenkmäler in Bayern
@@ -86764,12 +87114,17 @@ Liste der Konzentrationslager des Deutschen Reichs
 Liste der Kreisstraßen im Landkreis Cochem-Zell
 Liste der Kreisstraßen im Landkreis Freising
 Liste der Kulturdenkmale in Boxberg
+Liste der Kulturdenkmale in Fremdiswalde
 Liste der Kulturdenkmale in Großnaundorf
+Liste der Kulturdenkmale in Warnau
+Liste der Kulturdenkmäler in Schladt
+Liste der Kulturdenkmäler in Weinsheim
 Liste der Kulturgüter in Malans
 Liste der Kulturgüter in Ollon
 Liste der Kölner Ratsturmfiguren
 Liste der Lieder der Beatles
 Liste der Lieder von Bob Dylan
+Liste der Lieder von Dua Lipa
 Liste der Lieder von Led Zeppelin
 Liste der Lieder von Queen
 Liste der Lord Mayors of London
@@ -86847,6 +87202,7 @@ Liste der Staatsstraßen in der Oberpfalz
 Liste der Stolpersteine in Freising
 Liste der Straßburger Ammeister
 Liste der Straßen in Freising
+Liste der Straßen in Somsdorf
 Liste der Straßen und Plätze in Niedergohlis
 Liste der Städte in Alabama
 Liste der Städte in Maine
@@ -86986,6 +87342,7 @@ Litauen
 Litauische Männer-Feldhandballnationalmannschaft
 Litauische Rugby-Union-Nationalmannschaft
 Litauische Sprache
+Litdok Ostmitteleuropa
 Literatur
 Literaturgeschichte
 Literaturjahr 1975
@@ -87770,6 +88127,7 @@ Lorenzo Martínez
 Lorenzo Sanguedolce
 Lorenzo Vismara
 Lorestan
+Loretokapelle (Drensteinfurt)
 Loretosalmler
 Loretta Harrop
 Lori Lightfoot
@@ -87832,6 +88190,7 @@ Lotte in Weimar
 Lotus (Gattung)
 Lotus Cars
 Lou Bega
+Lou Fine
 Lou Graham (Golfspieler)
 Lou Hoover
 Lou Saban
@@ -87950,6 +88309,7 @@ Luar (Automarke)
 Lubawka
 Lubbock (Texas)
 Lubna Azabal
+Luboschütz
 Luboš Schorný
 Lubumbashi
 Luc Arbogast
@@ -88027,6 +88387,7 @@ Ludwig Günther I. (Schwarzburg-Rudolstadt)
 Ludwig Haetzer
 Ludwig Heilmeyer
 Ludwig Hofmann (Fußballspieler, 1900)
+Ludwig Häßlein
 Ludwig IV. (HRR)
 Ludwig Jeep
 Ludwig Karl Böhm
@@ -88039,6 +88400,7 @@ Ludwig Prandtl
 Ludwig Quidde
 Ludwig Rudolf (Braunschweig-Wolfenbüttel)
 Ludwig Steinherr
+Ludwig Stillhart
 Ludwig Stollwerck
 Ludwig Tieck
 Ludwig Wilhelm (Baden-Baden)
@@ -88489,6 +88851,7 @@ Machu Picchu
 Machupo-Fieber
 Machupo-Virus
 Maciej Banaszak
+Maciej Rataj
 Maciej Stuhr
 Maciej Żurawski
 Macintosh
@@ -88973,6 +89336,7 @@ Marcel Bataillon
 Marcel Becker
 Marcel Blatti
 Marcel Caplet
+Marcel Chyrzyński
 Marcel Domergue
 Marcel Dupré
 Marcel Foucret
@@ -89138,6 +89502,7 @@ Maria Ikelap
 Maria Jany
 Maria João Bastos
 Maria Karolina von Österreich
+Maria Koschny
 Maria Königin
 Maria Leszczyńska
 Maria Liktoras
@@ -89657,6 +90022,7 @@ Martinpuich
 Martinstag
 Martinus J. G. Veltman
 Martinus Willem Beijerinck
+Marton
 Martti Ahtisaari
 Martti Hirvonen
 Martti Lappalainen (Skilangläufer)
@@ -89857,6 +90223,7 @@ Matcha
 Matchedje Motors
 Matchless
 Mate Palhegyi
+Matebian (Begriffsklärung)
 Matej Mamić
 Matelea
 Mateo Crawley-Boevey
@@ -89957,6 +90324,7 @@ Matthey et Martin
 Matthias B. Hildreth
 Matthias Berger (Architekt)
 Matthias Bitzer
+Matthias Bleyer
 Matthias Bolliger
 Matthias Bäcker (Rechtswissenschaftler)
 Matthias Czech
@@ -90055,6 +90423,7 @@ Max Brose
 Max C
 Max Curth
 Max Daireaux
+Max Danielsen
 Max Dominicé
 Max Eastman
 Max Eisler
@@ -90085,6 +90454,7 @@ Max Stirner
 Max Thomas (SA-Mitglied)
 Max Tippmann & Co.
 Max Uthoff
+Max Wallraf
 Max Weber
 Max Welcker
 Max Zähle
@@ -90213,6 +90583,7 @@ Mechanik
 Mechanisch
 Mechanische Spannung
 Mechatronik
+Mechitar von Sebasteia
 Mecklenburg
 Mecklenburg County (North Carolina)
 Mecklenburg-Vorpommern
@@ -90325,6 +90696,7 @@ Meilu
 Meiluawati
 Meilysa Trias Puspita Sari
 Mein Führer – Die wirklich wahrste Wahrheit über Adolf Hitler
+Mein Leopold (1924)
 Mein Nachbar Totoro
 Meine Nachbarn die Yamadas
 Meine geistreiche Familie
@@ -90737,6 +91109,7 @@ Michael Green (Drehbuchautor)
 Michael H. Webb
 Michael Haller (Kirchenmusiker)
 Michael Hancock (Politiker)
+Michael Hartmann (Soziologe)
 Michael Heinrich (Politikwissenschaftler)
 Michael Hoenig
 Michael Hofbauer (Journalist)
@@ -90890,6 +91263,7 @@ Michel de Montaigne
 Michela Wrong
 Michelangelo Carmeli
 Michelangelo Unterberger
+Michele Cimarosa
 Michele Marcolini
 Michele Merkin
 Michele Riondino
@@ -91076,6 +91450,7 @@ Mike Tyson
 Mike Vrabel
 Mike Walker (Gitarrist)
 Mikel Pradera
+Mikey Madison
 Mikey North
 Mikhail Mamleev
 Mikiel Anton Vassalli
@@ -91463,6 +91838,7 @@ Miyuki Izumi
 Mizoram
 Mizugumo
 Mizugumo Monmon
+Mladen Plakalović
 Mo Brooks
 Mo Johnston
 Moallem Kalayeh
@@ -91665,6 +92041,7 @@ Mongolische Rugby-Union-Nationalmannschaft
 Mongolische Sprache
 Mongolisches Reich
 Monic Hendrickx
+Monika Bejnar
 Monika Eigmüller
 Monika Fornaçon
 Monique Le Moing
@@ -92752,6 +93129,7 @@ Natalbuggy
 Natale di Roma
 Nataler Deutsch
 Natalia Filatkina
+Natalia Levcencova
 Natalia Verbeke
 Natalia de Molina
 Natalie Cook
@@ -92899,6 +93277,7 @@ Nationaler Mythos
 Nationaler Sicherheitsberater (Vereinigte Staaten)
 Nationaler Tag der Befreiung Koreas
 Nationaler Tag der Frau (Osttimor)
+Nationales Museum der Naturwissenschaften der Ukraine
 Nationales Olympisches Komitee
 Nationales Symbol
 Nationalfeiertag
@@ -93631,6 +94010,7 @@ Nikolai Semjonowitsch Simjatow
 Nikolai Serafimowitsch Baschukow
 Nikolai Sergejewitsch Trubetzkoy
 Nikolai Wassiljewitsch Gogol
+Nikolaikirche (Chemnitz)
 Nikolaj Lie Kaas
 Nikolaj Sørensen
 Nikolaj Velimirović
@@ -93657,6 +94037,7 @@ Nikos Kazantzakis
 Nikos Liberopoulos
 Nile Rodgers
 Nilgans
+Nilometer von Roda
 Niloten
 Nils Althaus
 Nils Täpp
@@ -93882,6 +94263,7 @@ Norman Walker (Eiskunstläufer)
 Norman Z. McLeod
 Normandie
 Normannen
+Normannia Berlin
 Normativ
 Noro Morales
 Norovirus
@@ -94208,11 +94590,13 @@ Oberverwaltungsgericht
 Oberwart
 Oberwielenbach
 Oberzentrum
+Oberösterreichischer Familienbund
 Obie Award
 Objektiv (Optik)
 Oblast Kaliningrad
 Oblast Omsk
 Oblík (Böhmisches Mittelgebirge)
+Observatorium Palanga
 Obsidian
 Obskurität
 Obsoleszenz
@@ -94449,6 +94833,7 @@ Olli Rehn
 Ollie Poole
 Olmütz
 Olneya
+Olsen-banden
 Olsson (Automobilhersteller)
 Olsson Bullerbilen
 Oltcit
@@ -94501,6 +94886,7 @@ Olympische Jugend-Sommerspiele 2014/Wasserspringen
 Olympische Sommerspiele
 Olympische Sommerspiele 1900
 Olympische Sommerspiele 1900/Fußball/Spiele
+Olympische Sommerspiele 1900/Leichtathletik – Stabhochsprung (Männer)
 Olympische Sommerspiele 1900/Rugby
 Olympische Sommerspiele 1900/Teilnehmer (Großbritannien)
 Olympische Sommerspiele 1904/Fußball/Spiele
@@ -94709,6 +95095,7 @@ Omni Aviation
 Omnia (Automarke)
 Omnibus
 Omnibus (album)
+Omnidirektionaler Lautsprecher
 Omnitah
 Omnium Motor Company
 Omnobil
@@ -94807,6 +95194,7 @@ Optik
 Optimal Energy
 Optisch
 Optische Telegrafie
+Optischer Näherungsschalter
 Optisches Glas
 Optogenetik
 Optokoppler
@@ -94884,6 +95272,7 @@ Orient Express (Automarke)
 Orient-Express
 Orientale
 Orientalisch-orthodoxe Kirchen
+Orientierungstag (Begriffsklärung)
 Oringa Menabuoi
 Orinoco
 Oriol Paulo
@@ -95055,6 +95444,7 @@ Ostpommersch
 Ostpreußen
 Ostrava
 Ostreville
+Ostring (Bern)
 Ostrumelien
 Ostryocarpus
 Ostsee
@@ -95282,6 +95672,7 @@ Pacific Coastal Airlines
 Pacific Islanders
 Pacific Motor Vehicle Company
 Pacific Motor and Automobile Company
+Pacific Tri-Nations 1987
 Pacific West Conference
 Pacific-12 Conference
 Packard (Automobilhersteller)
@@ -95337,6 +95728,7 @@ Paliano
 Palindrom
 Palisades Tahoe
 Palisades Tahoe Aerial Tram
+Pallacanestro Trapani
 Palladium (Schiff, 1977)
 Palladium Autocars
 Pallhausen (Freising)
@@ -96132,6 +96524,7 @@ Peter Braunegger
 Peter Brearley
 Peter Bridgwater
 Peter Brown (Schauspieler)
+Peter Brüchmann
 Peter Canero
 Peter Capaldi
 Peter Casparsson
@@ -96281,6 +96674,7 @@ Petros VII.
 Petrus Abaelardus
 Petrus Steigenberger
 Petrus van Boxtel
+Petruskirche (Kafarnaum)
 Petruslied
 Pets (2016)
 Pets 2
@@ -96306,6 +96700,7 @@ Pfarrei
 Pfarrgemeinde
 Pfarrhaus (Böhen)
 Pfarrhaus Frankenried (Mauerstetten)
+Pfarrhaus Miel
 Pfarrkirche
 Pfarrkirche Christi Himmelfahrt (Freising)
 Pfarrkirche St. Lantpert
@@ -96321,6 +96716,7 @@ Pferch
 Pferderennen
 Pferdesport
 Pferdezucht
+Pferdsfeld (Hunsrück)
 Pfingstmontag
 Pfingstsonntag
 Pfizer
@@ -96800,6 +97196,7 @@ Platymiscium
 Platypodium
 Platysepalum
 Platz an der Sonne
+Platzsturm
 Plauen
 Plautdietsch
 Play the Game
@@ -97439,6 +97836,7 @@ Prozessordnung
 Prozessorkern
 Prudhoe Bay
 Prudhoe-Bay-Ölfeld
+Pruitt-Igoe
 Prunel
 Prurigo
 Pryor (Oklahoma)
@@ -98003,6 +98401,7 @@ Rainer Schedlinski
 Rainer Werning
 Rainier Motor Car Company
 Raito Automobile Company
+Raivydas Stanys
 Raj Kumar Saini
 Raj Kumar Singh
 Raj Nath Singh
@@ -98176,6 +98575,7 @@ Rantasalmi
 Raosaheb Danve
 Raoul Coutard
 Raoul Follereau
+Raoul Mutter
 Raoul Peck
 Raoul Reinert
 Raoul Wallenberg Centre for Human Rights
@@ -98589,6 +98989,7 @@ Reinhold Bötzel
 Reinhold Mack
 Reinhold Merkelbach
 Reinhold Messner
+Reinhold Pauli
 Reinhold Sallbach
 Reinhold Schommers
 Reinout Scholten van Aschat
@@ -98647,6 +99048,7 @@ Renaldo Hill
 Renata Cytacka
 Renata Salazar Ivancan
 Renate Götschl
+Renate Günthert
 Renate Heuer
 Renate Lingor
 Renate Wittern-Sterzel
@@ -98900,6 +99302,7 @@ Rhinitis
 Rhino Records
 Rhinovirus
 Rhizobiales
+Rho-Faktor
 Rhode Island
 Rhode Island Auto Carriage Company
 Rhode Island College
@@ -99003,6 +99406,7 @@ Richard Hertwig
 Richard Hidalgo
 Richard Hines
 Richard Hofmann (Fußballspieler)
+Richard Huber
 Richard Hubin
 Richard Hudson (Politiker)
 Richard Hughes (Fußballspieler)
@@ -99188,6 +99592,7 @@ Ritz Crackers
 Ritz Cyclecar Company
 Rivash
 Rivat & Bouchard
+River Claire (Roseau)
 River Phoenix
 Riverboat
 Riverside County
@@ -99272,6 +99677,7 @@ Robert Califf
 Robert Carl Blank
 Robert Carlyle
 Robert Cecil, 1. Viscount Cecil of Chelwood
+Robert Cissé
 Robert Coldwell Wood
 Robert Cowan
 Robert Cushman Murphy
@@ -99515,6 +99921,7 @@ Rockstar Vienna
 Rocky Mountain Athletic Conference
 Rocky Mountains
 Roclincourt
+Rocques
 Rocquigny (Pas-de-Calais)
 Rod Daniel
 Rod Garossino
@@ -99551,6 +99958,7 @@ Roebling-Planche
 Roewe
 Rogelio Martínez Furé
 Roger
+Roger A. Brady
 Roger American Mechanical Carriage Company
 Roger Arnaldez
 Roger Bastide
@@ -99870,6 +100278,7 @@ Royal Canadian Mounted Police
 Royal Caribbean
 Royal Caribbean Group
 Royal College of Surgeons of England
+Royal Commission
 Royal Cyclecar Company
 Royal Edinburgh Military Tattoo
 Royal Enfield
@@ -99930,6 +100339,7 @@ Rudi Gores
 Rudi Lausarot
 Rudolf Amon
 Rudolf Basedau
+Rudolf Bernhardt (Verwaltungsjurist)
 Rudolf Diesel
 Rudolf Donath (Schauspieler)
 Rudolf Finsterer
@@ -99955,6 +100365,7 @@ Rudolf Wessely
 Rudolf Zender
 Rudolf von Scherer
 Rudolf-Kalweit-Stadion
+Rudolph A. Akanlu
 Rudolph Giuliani
 Rudolph Minkowski
 Rudolph Perfect Roadster
@@ -100080,6 +100491,7 @@ Rupertia
 Rupertstag
 Ruprecht-Karls-Universität Heidelberg
 Rural Municipality of Corman Park No. 344
+Ruschmeier
 Ruska Automobielen
 Russ Freeman (Pianist)
 Russ Mayberry
@@ -100133,6 +100545,7 @@ Ruth Parnitzke
 Ruth Schaumann
 Ruth Schönthal
 Ruth Stephan
+Ruthard
 Ruthvika Shivani
 Rutshuru (Territorium)
 Ruttanapak Oupthong
@@ -100211,6 +100624,7 @@ Rónald Gómez
 Röck (Automobilhersteller)
 Röhm-Putsch
 Röhr Auto
+Röhren
 Röhrenwurm
 Römerstraße
 Römisch-deutscher König
@@ -100447,6 +100861,7 @@ Sadet Karabulut
 Sadhu Singh
 Saduq (Verwaltungsbezirk)
 Saehan Motor
+Saen Mueang Ma
 Saenara Motor Company
 Saf-T-Cab Corporation
 Safadasht
@@ -100569,6 +100984,7 @@ Salomé Haller
 Salon Helga
 Salonmusik
 Salonwagen
+Salonwagen König Ludwigs II. von Bayern
 Salpetersäure
 Salt Lake City
 Salt Lake County
@@ -100787,9 +101203,11 @@ Sandhaie
 Sandhya Mridul
 Sandhya Roy
 Sandi Putros
+Sandline International
 Sandmückenfieber
 Sandmückenfieber-Virus
 Sandmückenfieber-Virus Sabin
+Sandon (Essex)
 Sandpapier
 Sandplatz (Tennis)
 Sandra Andreis
@@ -101076,6 +101494,7 @@ Satyricon (Petron)
 Satyrspiel
 Satz des Thales
 Satz von Plancherel
+Satz von Seifert und van Kampen
 Satzklammer
 Satzung (Privatrecht)
 Satzung (öffentliches Recht)
@@ -101370,6 +101789,7 @@ Schlick
 Schlig Automobile Works
 Schlomo Hofmeister
 Schloss Chillon
+Schloss Gimborn
 Schloss Haidenburg
 Schloss Hartenfels
 Schloss Kirchheimbolanden
@@ -101446,6 +101866,7 @@ Schram Motor Car Company
 Schreibdidaktik
 Schreiben
 Schreibforschung
+Schreibmaschinenmuseum Beck
 Schreibtelegraf
 Schreinsbücher
 Schrift
@@ -101594,6 +102015,7 @@ Schöpfung
 Schüler
 Schülervertretung
 Schütte-Lanz
+Schüttgut (Begriffsklärung)
 Schütz-Werke-Verzeichnis
 Schütze (Sternbild)
 Schāhnāme
@@ -101721,6 +102143,7 @@ Searchmont Motor
 Searoader Cars
 Sears
 Sears Motor Car Works
+Season Zero
 Seasons in the Abyss
 Seaspray Beach Buggies
 Seaton-Petter
@@ -101960,6 +102383,7 @@ Sepia bidhaia
 Sepidan (Verwaltungsbezirk)
 Sepiddasht
 Septemberbibel
+Septmoncel les Molunes
 Sequoia (Automarke)
 Sera Cahoone
 Sera SA
@@ -102013,6 +102437,7 @@ Serhij Matwjejew
 Serhij Polunin
 Serial
 Serie A 1986/87
+Seriell
 Serielle Musik
 Serienjunkies.de
 Serienmord
@@ -102469,6 +102894,7 @@ Sigrid Marquardt
 Sigurd Hoël
 Sigurd Røen
 Sigvart Dagsland
+Siham Bouhlal
 Siilinjärvi
 Sikhismus
 Siki Reddy
@@ -102673,6 +103099,7 @@ Sinti
 Sinti und Roma
 Sinusthrombose
 Sinuston
+Sinzinger (Adelsgeschlecht)
 Siobhan Hayes
 Sion Hart Rogers
 Sioux
@@ -102779,6 +103206,7 @@ Skythen
 Skytraders
 Skytrans Airlines
 Slaby-Beringer
+Slant Magazine
 Slapstick
 Slatina pod Hazmburkem
 Slatiňanská továrna automobilů R. A. Smekal
@@ -102851,6 +103279,7 @@ So Chong-ju
 So-Jun Ikkyu
 SoFi Stadium
 Soames (Automarke)
+Sobottka
 SocArXiv
 Socata TB
 Social Bookmarks
@@ -103582,6 +104011,7 @@ Srinivasa Ramanujan
 Srubna-Kultur
 Ssu-ma Ch'ien
 St Barth Commuter
+St Columba’s Church
 St Margaret’s Church
 St Martin’s Church (Canterbury)
 St Paul's Anglican School, Bald Hills
@@ -103595,6 +104025,7 @@ St. Georg (Sachsbach)
 St. Georg (Svätý Jur)
 St. George (Utah)
 St. George’s Anglican Church (Antigua)
+St. Gertrud (Binsfeld)
 St. Helena (Insel)
 St. Helena, Ascension und Tristan da Cunha
 St. James’s Gazette
@@ -103698,6 +104129,7 @@ Stadlhof (Bernhardswald)
 Stadt Brüssel
 Stadt Frankfurt (Schiff)
 Stadt Mainz (Schiff)
+Stadt der Fremden
 Stadtarchiv Freising
 Stadtbahn
 Stadtbaugeschichte
@@ -103928,6 +104360,7 @@ Statesman (Automarke)
 Statesman Journal
 Statesman-Journal
 Station Inn
+Station touristique Stoneham
 Statische Typisierung
 Statista
 Statistik
@@ -104023,6 +104456,7 @@ Stefano Galvani
 Stefano Margoni
 Stefano Massini
 Stefanou
+Stefanowa
 Steffan Liebig
 Steffen Busse
 Steffen Nowak
@@ -104049,6 +104483,7 @@ Steiner – Das Eiserne Kreuz
 Steinfrucht
 Steinglas
 Steinkohle
+Steinkreise von Kerr Batch
 Steinmetz Electric Motor Car Corporation
 Steinrinnen (Bernhardswald)
 Steinschloss #Zündmechanismus
@@ -104167,6 +104602,7 @@ Steve Cohen
 Steve Coulter
 Steve Grissom
 Steve Harper (Fußballspieler, 1975)
+Steve Henry
 Steve James (Regisseur)
 Steve Jones (Golfspieler)
 Steve Lawrence (Radsportler)
@@ -104747,6 +105183,7 @@ Susangerd
 Susann Utes
 Susanna Gartmayer
 Susanna Yoko Henkel
+Susanne Baer
 Susanne Blumenthal
 Susanne Bohl
 Susanne Theumer
@@ -104780,6 +105217,7 @@ Sušice
 Svelte (Automarke)
 Sven Beuchler
 Sven Bremer (Fußballspieler)
+Sven Eggert (Volleyballspieler)
 Sven Henkler
 Sven Kacirek
 Sven Kubis
@@ -104879,6 +105317,7 @@ Synagoge (Ansbach)
 Synagoge (Mediaș)
 Synagoge (Parma)
 Synagoge (Veria)
+Synagoge Beth Zion
 Synapomorphie
 Synchrodrive
 Synchron
@@ -104938,6 +105377,7 @@ Sápmi
 São Miguel da Boa Vista
 São Paulo
 São Paulo Challenger 1999
+São Pedro (Trancoso)
 São Tomé und Príncipe
 Sächsische Kanzleisprache
 Sächsischer Fußball-Verband
@@ -105441,6 +105881,7 @@ Taller Danrée y Silveira
 Talleres Hereter
 Talleres Zaragoza
 Tallinn
+Talsperre Jesenice
 Talwind
 Tamag
 Tamami Tanaka
@@ -105607,6 +106048,7 @@ Tatjana Iwanowna Tomaschowa
 Tatjana Walerjewna Dektjarjowa
 Tatonka Products
 Tatort (Fernsehreihe)
+Tatort: Bienzle und der Tod im Teig
 Tatort: Dagoberts Enkel
 Tatort: Doppelspiel
 Tatra Trucks
@@ -105956,6 +106398,7 @@ The Abyss (Band)
 The Advocate
 The Ajax Motor Vehicle Company
 The Alan Parsons Project
+The Alligator Wine
 The Amazing Spider-Man (2012)
 The Amazing Spider-Man 2: Rise of Electro
 The American Journal of Medicine
@@ -107135,6 +107578,7 @@ Tottenham Hotspur
 Totti Bergh
 Tour Championship (Golf)
 Tour de San Luis
+Tour de Yorkshire 2017
 Tour de l’Avenir
 Tour der British and Irish Lions nach Australien 2013
 Tour du Loir-et-Cher
@@ -107167,6 +107611,7 @@ Townend Engineering
 Townhall
 Townsend (Automobilhersteller)
 Townsend Bell
+Township
 Township (Südliches Afrika)
 Toxicity
 Toxikologie
@@ -107559,6 +108004,7 @@ Tunisair
 Tunisair Express
 Tunliu
 Tunneleffekt
+Tunnelfinisher
 Tuomas Ketola
 Tupi-Sprache
 Tupolew Tu-144
@@ -107791,6 +108237,7 @@ US Open 2003
 US Open 2003/Herreneinzel
 US Open 2014/Herreneinzel
 US Open 2016/Dameneinzel
+US Open 2016/Herreneinzel
 US-Bundesstaat
 US-Dollar
 US-Finanzministerium
@@ -107889,6 +108336,7 @@ Ulrich von Hutten
 Ulrich von Liechtenstein
 Ulrichstag
 Ulrike Beimpold
+Ulrike Blome
 Ulrike Folkerts
 Ulrike Kriegler
 Ulrike Liebert
@@ -108288,6 +108736,7 @@ Universitätsbibliothek der Technischen Universität München
 Universitätsklinikum Mannheim
 Universitätsstadt
 Université catholique de Louvain
+Universul
 Universum
 Universum (Handelsmarke)
 União Democrática Timorense
@@ -108595,6 +109044,7 @@ Varavi
 Vardan Ovsepian
 Vareille et Godet
 Varennes-en-Argonne
+Variable-Data Intelligent PostScript Printware
 Variables Kapital
 Variantenwörterbuch des Deutschen
 Variationen und Fuge über ein Thema von Händel
@@ -108678,6 +109128,7 @@ Vektor
 Vektor (Biologie)
 Velar
 Veli Saarinen
+Veliaj
 Velie
 Veljko Paunović
 Velocette
@@ -108883,6 +109334,7 @@ Verwaltungsabkommen
 Verwaltungsberater
 Verwaltungsbezirk
 Verwaltungseinheit
+Verwaltungsgebäude Schulstraße 5
 Verwaltungsgemeinschaft Aidenbach
 Verwaltungsgerichtsbarkeit (Deutschland)
 Verwaltungsgliederung
@@ -108951,6 +109403,7 @@ Vico nel Lazio
 Victims of Communism Memorial Foundation
 Victoire von Frankreich
 Victor Alcántara
+Victor Amadeus (Hessen-Rotenburg)
 Victor Automobile Company
 Victor Blüthgen
 Victor Espiritu
@@ -109030,6 +109483,7 @@ Vietnamkrieg
 ViewSonic
 Vifabio
 Viggo Mortensen
+Vigilante – Bis zum letzten Atemzug
 Vigna
 Vigo (Comarca)
 Vigo (Gerichtsbezirk)
@@ -109296,6 +109750,7 @@ Volker Pispers
 Volker Sellin
 Volker Senftleben
 Volker Ullrich (Politiker)
+Volker Wiese
 Volksbuch
 Volkseigener Betrieb
 Volkseinkommen
@@ -109486,6 +109941,7 @@ WM Motor Technology
 WMS Industries
 WP Indústria e Comércio de Plástico Reforçado
 WS Atkins PLC
+WSA World Tour 2014/15
 WWE WrestleMania
 Waaijenberg Mobiliteit
 Wachen! Wachen!
@@ -109529,6 +109985,7 @@ Wahlen in der Demokratischen Republik Kongo 2018
 Wahlfeld in Wola
 Wahlgerät
 Wahlkampf
+Wahlkreis Ostviipuri
 Wahlliste
 Wahlmonarchie
 Wahlrecht
@@ -110251,6 +110708,7 @@ Werkzeugstahl
 Werma Automóveis
 Werne
 Werner Angress
+Werner Bergmann (Historiker)
 Werner Besch
 Werner Blumenberg
 Werner Conze
@@ -111070,6 +111528,7 @@ Wladimir Wladimirowitsch Kara-Mursa
 Wladislaw
 Wladislaw Nikolajewitsch Radimow
 Wladyslaw Waschtschuk
+Wobbeindex
 Woche
 Woche der Solidarität mit den Völkern der Gebiete ohne Selbstregierung
 Woche des Sehens
@@ -111109,6 +111568,7 @@ Wolfenbüttel
 Wolfersdorf
 Wolfersdorf (Bernhardswald)
 Wolferszwing
+Wolfgang (Begriffsklärung)
 Wolfgang (Wrestler)
 Wolfgang A. Herrmann
 Wolfgang Amadeus Mozart
@@ -111716,6 +112176,7 @@ Zawe Ashton
 Zayandeh Rud
 Zazeran
 Zbrojovka Brno
+Zdenko Kožul
 Zdeněk Smetana
 Zdzisław Kapka
 Zealia
@@ -111732,6 +112193,7 @@ Zeeshan Ashraf
 Zehak
 Zehak (Verwaltungsbezirk)
 Zehn-Punkte-Programm
+Zehna
 Zehntes Buch Sozialgesetzbuch
 Zeichen
 Zeichentrickfilm
@@ -111923,6 +112385,7 @@ Zorex
 Zornia
 Zoroastrismus
 Zorro
+Zotti
 Zotye International
 Zoubir Zmit
 Zoé Félix
@@ -112046,6 +112509,7 @@ transistor
 Ángel Cabrera (Golfspieler)
 Ángel Mariscal
 Ángel Médici
+Ángel Omarini
 Ángel Rivero Méndez
 Ángel Trinidad
 Ángeles Montolio
@@ -112066,6 +112530,7 @@ transistor
 Äolisches Griechisch
 Äquator
 Äquatorialguinea
+Äquatorialguineische Volleyballnationalmannschaft der Frauen
 Äquinoktium
 Äquivalentdosis
 Ärzte ohne Grenzen
@@ -112078,6 +112543,7 @@ transistor
 Ätiologie (Medizin)
 Ätolien-Akarnanien
 Ätzen
+Årstaviken
 Åsa Dornbusch
 Åsa Svensson
 Åtvidabergs Vagnfabrik
@@ -112269,6 +112735,7 @@ transistor
 Üsenberger
 Þorsteinn frá Hamri
 Þóra Arnórsdóttir
+Čermany
 Česká automobilová společnost
 Đorđe Višacki
 Ēriks Rags

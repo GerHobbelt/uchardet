@@ -1,5 +1,5 @@
 revision: 1111702
-title: Mainile
+title: "Miguel L\xF3pez de Legazpi"
 url: https://ga.wikipedia.org/wiki/Mainile
 
 

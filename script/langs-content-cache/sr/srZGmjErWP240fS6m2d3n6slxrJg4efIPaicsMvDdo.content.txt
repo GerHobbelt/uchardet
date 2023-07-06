@@ -1,5 +1,5 @@
 revision: 25931226
-title: Collembola
+title: Folsomides mosambicensis
 url: https://sr.wikipedia.org/wiki/Collembola
 
 

@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Assedio di Leningrado
-Rivalità cestistica Cantù-Milano
-La macchina del tempo (programma televisivo)
-Contrada della Quercia
-Diocesi di Santo Ângelo
-Trechmannite
-Chiesa di San Francesco (Schio)
-Bound for Glory 2009
-Alan Dugdale
-Isa (Kagoshima)
-Whiteite-(CaMnMg)
-79286 Hexiantu
-Luigi Cucchi
-Aeroporto di Lilongwe-Kamuzu
-R136c
-Onda sfigmica
-Tedburn St Mary
-Tre Carrare
-Kayqubad I
-Wynton Kelly
-Stagno di Is Benas
-Koolhoven F.K.58
-Trocadero
-Pepeni
-Stazione di Aboshi
-Saint-Antoine-de-Tilly
-Filipe Dos Santos
-Justin Hardee
-Comatulida
-Nomi della Georgia
+Battaglia di Inō
+Celestino Spini
+Monte Carlo Rolex Masters 2010 - Doppio
+13179 Johncochrane
+Quei bravi ragazzi
+Lyskamm
+Smith Island (Maryland)
+Parco di Colfiorito
+Bolton Buccaneers
+Wilfried Puis
+Bossey (Francia)
+Parsau
+Prealpi della Chartreuse
+Viva Forever
+Warlus
+Folco II d'Angiò
+Love Outside the Window
+Parker Brothers
+Kotouba
+FIGlet
+Euro Dance 5
+Petrez Williams
+Joe Daley
+Cattedrale presbiteriana di Rio de Janeiro
+Distretto di Saposoa
+Peter Cipollone
+Mazeppa (Minnesota)
+Insieme (Vanoni Paoli)
+Contea di Washington (Texas)
+Les Bordes-sur-Lez
 "Weird Al" Yankovic
 "Weird Al" Yankovic (album)
 ''Babbacombe'' Lee
@@ -281,6 +281,7 @@ Nomi della Georgia
 12,8 cm PaK 44
 122 Leadenhall Street
 12306 Pebronstein
+125 Liberatrix
 127005 Pratchett
 13 - Se perdi... muori
 13 agosto
@@ -621,6 +622,7 @@ Nomi della Georgia
 26 ottobre
 26 settembre
 2600 a.C.
+261930 Moorhead
 264 a.C.
 27 a.C.
 27 agosto
@@ -796,6 +798,7 @@ Nomi della Georgia
 4281 Pounds
 42º Congresso degli Stati Uniti d'America
 433 Eros
+4334 Foo
 43º Congresso degli Stati Uniti d'America
 44 Andromedae
 44 a.C.
@@ -817,6 +820,7 @@ Nomi della Georgia
 494 a.C.
 496 a.C.
 499 a.C.
+4:17 am
 4Gamer.net
 4X (videogiochi)
 4hero
@@ -930,6 +934,7 @@ Nomi della Georgia
 770 Eastern Parkway
 776 a.C.
 78 a.C.
+79286 Hexiantu
 8 Canada Square
 8 a.C.
 8 agosto
@@ -993,6 +998,7 @@ A History of Violence
 A Knight at the Opera
 A Letter to Elia
 A Matter of Choice
+A Modern Courtship
 A Moment Like This
 A Muppets Christmas: Letters To Santa
 A Muppets Christmas: Letters to Santa (Soundtrack from the TV Special)
@@ -1092,6 +1098,7 @@ AGM-88 HARM
 AGO Ao 192
 AGO Ao 225
 AGSM Verona Calcio Femminile 2017-2018
+AGSM Verona F.C. Grezzana 2014-2015
 AIM-120 AMRAAM
 AIM-120 Amraam
 AIM-132 ASRAAM
@@ -1192,6 +1199,7 @@ Abbazia di Montecassino
 Abbazia di Saint-Denis
 Abbazia di San Colombano
 Abbazia di San Fruttuoso
+Abbazia di San Maurizio
 Abbazia di San Pietro (Salisburgo)
 Abbazia di Sant'Agostino
 Abbazia di Westminster
@@ -1207,6 +1215,7 @@ Abbreviazioni standard degli autori botanici
 Abby Cadabby
 Abby Lockhart
 Abd Allah dell'Arabia Saudita
+Abdel Wahab Abdullah Salih
 Abdolkarim Soroush
 Abdul Kalam
 Abdul Shamsid-Deen
@@ -1600,6 +1609,7 @@ Aermacchi MB-326
 Aermacchi MB-339
 Aermacchi SF-260
 Aero Fighters
+Aero L-29 Delfin
 Aeroambulanza
 Aerobiosi
 Aerofoni
@@ -1619,6 +1629,7 @@ Aeroporto Internazionale di Miami
 Aeroporto Internazionale di Pelotas
 Aeroporto di Aguadilla-Borinquen
 Aeroporto di Amendola
+Aeroporto di Lilongwe-Kamuzu
 Aeroporto di Londra-Heathrow
 Aeroporto di San Juan-Isla Verde
 Aeroporto di Tolosa Blagnac
@@ -1910,6 +1921,7 @@ Alan Cottrell
 Alan Daicz
 Alan Dale
 Alan Davidson (scrittore 1924)
+Alan Dugdale
 Alan King Tennis Classic 1973
 Alan Lloyd Hodgkin
 Alan McGee
@@ -2058,6 +2070,7 @@ Aldo Mondino
 Aldo Moro
 Aldo Moro - Il presidente
 Aldo Serena
+Aldo Viglione
 Aldo eremita
 Aldous Huxley
 Aldrovanda vesiculosa
@@ -2083,6 +2096,7 @@ Aleksandra Panova
 Aleksandra Vujović
 Aleksanteri Saarvala
 Aleksej Nemov
+Aleksej Semënovič Šein
 Aleksejs Saramotins
 Alenatea
 Aleppo
@@ -2913,6 +2927,7 @@ Andreas Leupold
 Andreas Mogensen
 Andreas Svanebo
 Andreas Wecker
+Andrei di Polock
 Andrej Urlep
 Andretti Autosport
 Andrew Bennison
@@ -2955,6 +2970,7 @@ Andrzej Kubica
 Andrzej Pluta
 Andrzej Wajda
 André Antoine
+André Bettencourt
 André Cymone
 André Daina
 André Florschütz
@@ -4789,6 +4805,7 @@ Aura William
 Aurangabad (Maharashtra)
 Aurat March
 Aurea Repubblica Ambrosiana
+Aureliano Galeazzo
 Aurelie Lemanceau
 Aurelio Crugnola
 Auriac (Corrèze)
@@ -5071,6 +5088,7 @@ BMW 139
 BMW 801
 BMW Ljubljana Open 2007
 BMW M20
+BMW Tennis Championship
 BMW Tennis Championship 2007
 BPER Banca
 BRIT Award
@@ -5177,6 +5195,7 @@ Bag (Ungheria)
 Bagaggera
 Bagas
 Bagatelle per un massacro
+Bagaza virus
 Baggy (genere musicale)
 Baghaï
 Baghdad
@@ -5247,6 +5266,7 @@ Ballspielverein Borussia 09 Dortmund II
 Balléville
 Balme
 Balsa (informatica)
+Baltagiya
 Baltasar Albéniz
 Baltimora
 Baltimora and Ohio
@@ -5388,6 +5408,7 @@ Barbican Centre
 Barbican Estate
 Barbie
 Barbie Girl
+Barbieri (cognome)
 Barbora Strýcová
 Barbosa (Brasile)
 Barbra Streisand
@@ -5639,7 +5660,9 @@ Battaglia dell'Isola numero 10
 Battaglia della Bicocca
 Battaglia della Neretva
 Battaglia della Sutjeska
+Battaglia della Trebbia (disambigua)
 Battaglia della baia di Mobile
+Battaglia della baia di Vigo
 Battaglia delle Forche Caudine
 Battaglia delle Midway
 Battaglia delle aringhe
@@ -6120,6 +6143,7 @@ Belinda Bencic
 Belisario
 Belize
 Bell & Howell
+Bell Challenge 2013 - Singolare
 Bell Labs
 Bell OH-58 Kiowa
 Bell P-39 Airacobra
@@ -6551,6 +6575,7 @@ Biganos
 Bigelf
 Bighorn Country
 Bihar
+Bihar (disambigua)
 Biju Janata Dal
 Bike Channel
 Biker Mice da Marte
@@ -6715,6 +6740,7 @@ Bismarck (Dakota del Nord)
 Bismuto
 Bisonte americano
 Bissau
+Bissektipelta archibaldi
 Bisten-en-Lorraine
 Bistroff
 BitLocker
@@ -6805,6 +6831,7 @@ Blanche Ravalec
 Blanche-Église
 Blanquefort (Gironda)
 Blanzée
+Blaque
 Blas Piñar
 Blasimon
 Blastula
@@ -7261,6 +7288,8 @@ Bou Meng
 Boucheporn
 Bouconville-sur-Madt
 Boudofo
+Boudouaou
+Bouffémont
 Bougaribaya
 Bouhmama
 Bouillon (Belgio)
@@ -7273,6 +7302,7 @@ Bouligny
 Boullay-les-Troux
 Boulogne-sur-Mer
 Bouncy techno
+Bound for Glory 2009
 Bouquemont
 Bourdelles
 Bourdonnay
@@ -7825,6 +7855,7 @@ Buongiorno (singolo Gigi D'Alessio)
 Buongiorno benessere
 Buono a sapersi
 Buono del tesoro poliennale
+Buoux
 Burbank (contea di Los Angeles)
 Bure (Francia)
 Bures-sur-Yvette
@@ -7946,6 +7977,7 @@ Bücker Bü 182
 Bülach
 Büttelborn
 Březí (Boemia centrale)
+Bắc Trung Bộ
 C (linguaggio)
 C sharp
 C'era una volta una principessa (miniserie televisiva)
@@ -8049,6 +8081,7 @@ Cabo Rojo (Porto Rico)
 Cabrata
 Cabreros del Río
 Cabreúva
+Cabricán
 Cabrillanes
 Cabrália Paulista
 Cacabelos
@@ -8083,6 +8116,7 @@ Caduta di Robespierre
 Caerostrini
 Caerostris
 Caesar
+Caesar IV
 Cafasse
 Cafelândia (San Paolo)
 Caffè
@@ -9049,6 +9083,7 @@ Campionato del mondo di hockey su pista
 Campionato del mondo di hockey su pista femminile
 Campionato del mondo endurance
 Campionato del mondo formula 1 motonautica
+Campionato del mondo juniores di scacchi
 Campionato del mondo rally
 Campionato del mondo rallycross
 Campionato di Formula E 2014-2015
@@ -9201,6 +9236,7 @@ Campionato tedesco di hockey su pista 1988
 Campionato tedesco di hockey su pista 1989
 Campionato tedesco di hockey su pista 1990
 Campionato tedesco di hockey su pista 1991
+Campionato turkmeno di calcio
 Campionatore
 Campione (scienze)
 Campo (Spagna)
@@ -9376,6 +9412,7 @@ Canottieri Olona
 Canso
 Cantabria
 Cantalupa
+Cantamaggio
 Cantando sotto il vischio
 Cantante
 Cantautore
@@ -9979,6 +10016,7 @@ Casa Baio
 Casa Bianca
 Casa Branca
 Casa Chabad
+Casa Chiavacci
 Casa Desolata
 Casa Ricordi
 Casa Savoia
@@ -10054,6 +10092,7 @@ Cassano Magnago
 Cassano d'Adda
 Casseuil
 Cassia antica
+Cassie (disambigua)
 Cassina Valsassina
 Cassio Cherea
 Cassiodoro
@@ -10070,6 +10109,7 @@ Castejón del Puente
 Castel San Giovanni
 Castel Sant'Angelo
 Castel d'Appio
+Castel del Monte Chardonnay frizzante
 Castelflorite
 Castelfranco Piandiscò
 Castelfranco di Sopra
@@ -10630,6 +10670,7 @@ Ce jour là, tout a changé
 Cea (Spagna)
 Cebanico
 Cebrones del Río
+Cecco della botte
 Cecil B. DeMille
 Cecil Bisshopp
 Cecil Lambert
@@ -10816,6 +10857,7 @@ Cesare Barbetti
 Cesare Baronio
 Cesare Battisti (1954)
 Cesare Beccaria
+Cesare Beruto
 Cesare Borgia
 Cesare Cantù
 Cesare Cardini
@@ -11024,6 +11066,7 @@ Charles Maurras
 Charles Mingus
 Charles Molloy
 Charles Ogle (politico)
+Charles Pelham, IV conte di Yarborough
 Charles Poletti
 Charles Renouvier
 Charles Robert Richet
@@ -11394,12 +11437,15 @@ Chiesa di Drothem
 Chiesa di Nostra Signora Assunta (Grondona)
 Chiesa di San Bartolomeo (Teramo)
 Chiesa di San Bernardino
+Chiesa di San Bernardo (Arezzo)
 Chiesa di San Colombano maggiore
 Chiesa di San Domenico (Teramo)
 Chiesa di San Filippo Neri (Camerino)
 Chiesa di San Filippo Neri (Castelfranco di Sopra)
+Chiesa di San Francesco (Schio)
 Chiesa di San Giorgio (Celle Ligure)
 Chiesa di San Giovanni Battista
+Chiesa di San Giovanni Battista (Farnetella)
 Chiesa di San Giovanni Battista (Montechiarugolo)
 Chiesa di San Giovanni Battista (Tomar)
 Chiesa di San Giovanni Battista (Zerfaliu)
@@ -11930,6 +11976,7 @@ Cirenaica italiana
 Cirene
 Cirié
 Ciro Ascione
+Cirrhilabrus cyanopleura
 Cisalpino (azienda)
 Cisano Bergamasco
 Cisco Systems
@@ -12513,6 +12560,7 @@ Clojure
 Clonaggio
 Cloro
 Cloruro di argento
+Closer (Ne-Yo)
 Closteroviridae
 Clostridi
 Clostridia
@@ -12787,6 +12835,7 @@ Collegio elettorale degli Stati Uniti d'America
 Collegio elettorale di Lodi I
 Collegio elettorale di Montepulciano (Regno d'Italia)
 Collegio elettorale di Montepulciano (Regno di Sardegna)
+Collegio elettorale di San Martino Siccomario
 Collegio elettorale di Siena (Regno d'Italia)
 Collegio femminile Beth Rivkah
 Collegio rabbinico d'America
@@ -12896,6 +12945,7 @@ Comandanti dei campi di concentramento e sterminio nazisti
 Comandi di Google
 Comandi di volo e sistemi di controllo del volo
 Comaromidae
+Comatulida
 Combattenti per la Libertà
 Combattimento
 Combinata alpina
@@ -12944,6 +12994,7 @@ Comitato Olimpico Nazionale Turco
 Comitato Olimpico degli Stati Uniti
 Comitato Paralimpico Internazionale
 Comitato di Liberazione Nazionale
+Comitato di sicurezza generale
 Comitato europeo di normazione
 Comitato italiano gas
 Comitato olimpico nazionale
@@ -13150,6 +13201,7 @@ Comunità autonome della Spagna
 Comunità del Belgio
 Comunità di Madrid
 Comunità di wikipedia
+Comunità ebraica di Savoca
 Comunità ebraica di Siracusa
 Comunità economica europea
 Comunità europea del carbone e dell'acciaio
@@ -13689,6 +13741,7 @@ Continente europeo
 Contini Bonacossi
 Continuous Wave
 Contrabbasso
+Contrada della Quercia
 Contraddizione
 Contrafforte
 Contraltista
@@ -14217,6 +14270,7 @@ Corrado Farina
 Corrado Gaipa
 Corrado II il Salico
 Corrado IV di Svevia
+Corrado Vescovo
 Corrado di Meißen
 Correggese Calcio 1948
 Corrente continua
@@ -14364,6 +14418,7 @@ Cotone (botanica)
 Cotone (filo)
 Cotone (tessuto)
 Cotral
+Cottens
 Cotton Fields
 Cotton Fitzsimmons
 Coubeyrac
@@ -14413,6 +14468,7 @@ Cover
 Coverdale•Page
 Cowboy
 Cox-Klemin XA-1
+Coșula
 Crack!
 Cracker
 Crackle (servizio)
@@ -14437,6 +14493,7 @@ Cras Taranto
 Crash (The Human League)
 Crass
 Crass Records
+Cratere Catullus
 Cratere De Witt
 Cratere Dickens
 Cratere Geissler
@@ -14882,6 +14939,7 @@ Cyclura cornuta stejnegeri
 Cyclus Open de Tenis 2007
 Cygnus (zoologia)
 Cygnus X
+Cygnus atratus
 Cynara Kesster
 Cyndi Lauper
 Cynthia Cooper
@@ -14926,6 +14984,7 @@ D (linguaggio dati)
 D (linguaggio)
 D Train (gruppo musicale)
 D'Amico International Shipping
+D'Arrest
 D'You Know What I Mean?
 D'yer Mak'er
 D-Generation X
@@ -15142,6 +15201,7 @@ Damblain
 Dame Dash Music Group
 Damian Lillard
 Damian Wayne
+Damiano (disambigua)
 Damiano Cunego
 Damiano Damiani
 Damien Sandow
@@ -15218,6 +15278,7 @@ Daniel Fredheim Holm
 Daniel Garrison Brinton
 Daniel Goldhagen
 Daniel Harvey Hill
+Daniel Høegh
 Daniel Inouye
 Daniel J. Bloomberg
 Daniel Jude Gennis
@@ -15321,6 +15382,7 @@ Darlington Football Club
 Darmstadt
 Darmstadt Tennis International
 Darmstadtio
+Darnell Harris
 Darnets
 Darney
 Darney-aux-Chênes
@@ -15487,6 +15549,7 @@ David Hall
 David Hayes Agnew
 David Hemblen
 David Henry Hwang
+David Higgins (tiratore)
 David Hixon
 David Hubel
 David Hume
@@ -15906,6 +15969,7 @@ Design Science License
 Design industriale
 Design pattern
 Desio
+Desire (Eunjung)
 Desiree Akhavan
 Desktop Window Manager
 Desktop computer
@@ -16233,14 +16297,17 @@ Diocesi di Keta-Akatsi
 Diocesi di Laredo
 Diocesi di Mantova
 Diocesi di Mayagüez
+Diocesi di Muzia
 Diocesi di Pavia
 Diocesi di Ponce
 Diocesi di Potenza Picena
 Diocesi di Saint-Hyacinthe
+Diocesi di Santo Ângelo
 Diocesi di Savona-Noli
 Diocesi di Shaoguan
 Diocesi di Teramo-Atri
 Diocesi di Tolentino
+Diocesi di Torri della Concordia
 Diocesi di Urbisaglia
 Diocesi suffraganea
 Diocleziano
@@ -16365,6 +16432,7 @@ Diritti umani negli Stati Uniti d'America
 Diritto
 Diritto all'oblio
 Diritto alla riservatezza
+Diritto d'offesa
 Diritto degli Stati Uniti d'America
 Diritto dell'Unione europea
 Diritto dello spettacolo
@@ -16491,6 +16559,7 @@ Disgiunzione esclusiva
 Disgiunzione logica
 Dish (gruppo musicale)
 Disinfezione
+Diskpart
 Dislessia
 Dislike to False Metal
 Dislocamento
@@ -16922,6 +16991,7 @@ Documenta X
 Documentario
 Documentario (film)
 Documenti
+Documento di economia e finanza
 Documento programmatico sulla sicurezza
 Dodecafonia
 Dodecaneso
@@ -17234,6 +17304,7 @@ Dorso (nuoto)
 Dortan
 Dortmund
 Doslidnyc'ke
+Dot Lake Village
 Dott. Bunsen Honeydew
 Dottor Destiny
 Dottor Fate
@@ -17568,6 +17639,7 @@ Dōbutsu no Mori
 Dōbutsu no Mori: Hohinda Mura Dayori
 Dřevčice
 Dřísy
+Dəmirçi (Sədərək)
 E Polis
 E dopo le uccido
 E pluribus unum
@@ -17591,6 +17663,7 @@ E-Prix di Seoul 2022
 E-Prix di Vancouver 2022
 E-book
 E-mail
+E-mu Emax
 E. Bennett Walsh
 E. E. Cummings
 E.B. Henderson
@@ -17669,6 +17742,7 @@ Eastbourne International 1973
 Easter egg
 Eastern Canada Professional Soccer League
 Eastern Montana
+Eastling
 Eastport (New York)
 Easy listening
 Easy to Love (Chet Baker)
@@ -17690,6 +17764,7 @@ Ebreo che odia sé stesso
 Eburacum
 Eccellenza 2017-2018
 Eccellenza Liguria 2016-2017
+Eccellenza Lombardia 1992-1993
 Eccentricità (orbita)
 Eccentricità orbitale
 Eccidio dei Varano
@@ -17706,6 +17781,7 @@ Echinoidea
 Echiura
 Echo, il delfino
 Ecista
+Eclipse
 Eclipse (informatica)
 Eclipse Foundation
 Eclipso
@@ -18003,6 +18079,7 @@ Elefante africano
 Elefante da guerra
 Elektra Bregenz
 Elektra Records
+Elektron (lega)
 Eleme (Nigeria)
 Elemedia
 Elementary (serie televisiva)
@@ -18320,6 +18397,7 @@ Elezioni presidenziali in Guinea del 2015
 Elezioni presidenziali in Guinea del 2020
 Elezioni presidenziali in Guinea del 2025
 Elezioni presidenziali in India del 2017
+Elezioni presidenziali in Mauritania del 1997
 Elezioni presidenziali negli Stati Uniti d'America del 1796
 Elezioni presidenziali negli Stati Uniti d'America del 1836
 Elezioni presidenziali negli Stati Uniti d'America del 1840
@@ -18951,6 +19029,7 @@ Episodi di L'incredibile Hulk (terza stagione)
 Episodi di L'ora di Hitchcock (seconda stagione)
 Episodi di Lancer (seconda stagione)
 Episodi di Law & Order - Il verdetto
+Episodi di Le ragazze del centralino (seconda stagione)
 Episodi di Low Winter Sun
 Episodi di Major Crimes (seconda stagione)
 Episodi di Melrose Place (prima stagione)
@@ -19139,6 +19218,7 @@ Erede presuntivo
 Ereditarietà (informatica)
 Ereditarietà genetica
 Ereditarietà multipla
+Eredivisie 1966-1967
 Eredivisie 1986-1987
 Eremitaggio
 Eresidae
@@ -19180,6 +19260,7 @@ Erich Koch
 Erich Raeder
 Erich Rutemöller
 Erich Segal
+Erich Zander
 Erich Zawinul
 Erich von dem Bach-Zelewski
 Eridu
@@ -19196,6 +19277,7 @@ Erika Okuda
 Erika Sawajiri
 Erin O'Toole
 Erin Routliffe
+Erin Thorn
 Erina Hayase
 Erina Nakayama (attrice)
 Erinaceus europaeus
@@ -19676,6 +19758,7 @@ Evita (musical)
 Evita Perón
 Evolution (software)
 Evoluzione
+Evoluzione molecolare
 Evoluzione stellare
 Evoluzione territoriale degli Stati Uniti d'America
 Evron
@@ -19784,6 +19867,7 @@ FD Trinitron/WEGA
 FDJ (ciclismo)
 FFG Prag FG 227
 FGIN-127
+FIA Alternative Energies Cup 2012
 FIAT Torino (pallacanestro femminile)
 FIBA Americas Championship
 FIBA Americas Championship 1992
@@ -20114,6 +20198,7 @@ Federico Augusto di Anhalt-Dessau
 Federico Barbarossa
 Federico Bebi
 Federico Campaiola
+Federico Cherubini
 Federico Confalonieri
 Federico Di Pofi
 Federico Fellini
@@ -20367,6 +20452,7 @@ Festival internazionale del cinema di Berlino
 Festival internazionale del cinema di San Sebastián
 Festival internazionale del film di Roma
 Festival musicale
+Festival scacchistico internazionale di Padova
 Festival teatro canzone Giorgio Gaber
 Festivalbar
 Festività romane
@@ -20395,6 +20481,7 @@ Fidelity Investments
 Fidia (azienda)
 FidoNet
 Fielder Cook
+Fiend Without a Face
 Fiera Milano
 Fieseler F 5
 Fieseler Fi 103
@@ -20441,6 +20528,7 @@ File system
 Filiberto Scarpelli
 Filighera
 Filip Dylewicz
+Filipe Dos Santos
 Filippine
 Filippine nella seconda guerra mondiale
 Filippo Blanc
@@ -21632,6 +21720,7 @@ Freccia del tempo
 Frecciarossa
 Fred Astaire
 Fred Astaire (serie televisiva)
+Fred Burns
 Fred Cruz
 Fred Ebb
 Fred Friday
@@ -21995,6 +22084,7 @@ Fußballclub Carl Zeiss Jena
 Fußballclub Ingolstadt 04
 Fußballclub Viktoria Köln 1904
 Fußballsportverein Frankfurt 1899
+Fußballsportverein Frankfurt 1899 2016-2017
 Fußballverein Illertissen 1921
 Fær Øer
 Fèves
@@ -22695,6 +22785,7 @@ Germana Dominici
 Germana Longo
 Germani
 Germania
+Germania (Costa Rica)
 Germania (provincia romana)
 Germania Est ai Giochi olimpici
 Germania Ovest
@@ -22988,6 +23079,7 @@ Giles Fletcher il Vecchio
 Gilgameš
 Gilippo
 Gillette Stadium
+Gillian Rubinstein
 Gillingham Football Club 2010–2011
 Gillingham Football Club 2011-2012
 Gimel-les-Cascades
@@ -23226,6 +23318,7 @@ Giovanni Battista Libero Badarò
 Giovanni Battista Rampoldi
 Giovanni Battista Re
 Giovanni Boccaccio
+Giovanni Boi
 Giovanni Brunero
 Giovanni Brusatori
 Giovanni Cheli
@@ -23307,6 +23400,7 @@ Giro di Lombardia
 Giro di Lombardia 1927
 Giro di Lombardia 1931
 Giro di Lombardia 1933
+Giro di Sardegna 1997
 Giro di Svizzera
 Giro di Svizzera 1933
 Giro di Svizzera 1934
@@ -23484,6 +23578,7 @@ Giuseppe Berto
 Giuseppe Bertolucci
 Giuseppe Bonaparte
 Giuseppe Burzio
+Giuseppe Castelli (architetto)
 Giuseppe Catalani
 Giuseppe Cocchiara
 Giuseppe Colla
@@ -24207,6 +24302,7 @@ Grand Est
 Grand Nancy Volley-Ball 2019-2020
 Grand Palais
 Grand Prix (tennis)
+Grand Prix Hassan II 1987
 Grand Rapids (Michigan)
 Grand River (Dakota del Sud)
 Grand Royal
@@ -24372,6 +24468,7 @@ Greve in Chianti
 Grey December
 Greyhawk
 Grezzago
+Grieder
 Griff
 Grigio
 Grignols (Gironda)
@@ -24728,6 +24825,7 @@ Guitar World
 Guittone d'Arezzo
 Gujan-Mestras
 Gujarat
+Guldbagge 1969
 Gulfport (Mississippi)
 Gumond
 Gunboat diplomacy
@@ -26103,6 +26201,7 @@ Hypsosinga
 Hysteria (The Human League)
 Hänsel e Gretel
 Håkon Skogseid
+Hébertville
 Héctor Rial
 Hémilly
 Héming
@@ -27091,6 +27190,7 @@ Incognito (film 1999)
 Incognito (gruppo musicale)
 Incompatible Timesharing System
 Inconscio
+Incontenibile
 Incoronazione della Regina Elisabetta II
 Incoronazione della regina Elisabetta II
 Incoronazione di re Carlo III e della regina Camilla
@@ -27112,6 +27212,7 @@ Indel B
 Indemoniato (film)
 Independence (Missouri)
 Independence Day
+Independent Spirit Award (Empire Awards)
 Independent Spirit Award per il miglior montaggio
 Independent Spirit Awards
 Independent Spirit Awards 2019
@@ -27610,9 +27711,11 @@ Irruzione di via Fracchia
 Irvin McDowell
 Irvine (California)
 Irving Berlin
+Irving Fryar
 Irving Rapper
 Irwin Allen
 Iré-le-Sec
+Isa (Kagoshima)
 Isaac Asimov
 Isaac Bashevis Singer
 Isaac Corry
@@ -27673,6 +27776,7 @@ Island Records
 Islanda
 Islanda ai XVII Giochi olimpici invernali
 Isle-Saint-Georges
+Ismaning Challenger 2022
 Isn't It Romantic? (Chet Baker)
 Isn't She Lovely?
 Isobel
@@ -28011,6 +28115,7 @@ Jack Snow
 Jack Starrett
 Jack Stokes
 Jack T. Chance
+Jack Thibeau
 Jack Tworkow
 Jack Twyman
 Jack W. Szostak
@@ -28558,6 +28663,7 @@ Jessye Norman
 Jesús Franco
 Jesús Garay (calciatore)
 Jesús María Pereda
+Jesús María Pérez
 Jesús Piñero
 Jet Propulsion Laboratory
 Jethro Tull (gruppo musicale)
@@ -29032,6 +29138,7 @@ John Wooden
 John Young (politico)
 John Young Mason
 John Zachery Young
+John Zaremba
 John and the Hole
 John de Lancie
 John van Salee de Grasse
@@ -29149,6 +29256,7 @@ Joseph Chamberlain
 Joseph Cinque
 Joseph Demicoli
 Joseph Ducreux
+Joseph Duncan (politico)
 Joseph E. Hallonquist
 Joseph Eggleston Johnston
 Joseph Erlanger
@@ -29188,6 +29296,7 @@ Josh Childress
 Josh Freeman
 Josh Howard
 Josh McLaglen
+Josh McRoberts
 Josh Mostel
 Josh Trank
 Joshua Chamberlain
@@ -29214,6 +29323,7 @@ José López Rega
 José María Orúe
 José María Sánchez
 José María Zárraga
+José Nilson dos Santos Silva
 José Padilha
 José Patiño Rosales
 José Ricardo Barbosa Ribeiro Drumond
@@ -29255,6 +29365,7 @@ Juan Carlos Blanco Estrade
 Juan Carlos I di Spagna
 Juan Carlos di Borbone
 Juan Evangelista Venegas
+Juan Gil Navarro
 Juan Gisbert
 Juan Manuel Santos
 Juan María Bordaberry
@@ -29350,6 +29461,7 @@ Julius Lenhart
 Julius Lothar Meyer
 Julius Streicher
 Julius Wagner-Jauregg
+Julodinae
 Julvécourt
 Jumbotron
 Jumilhac-le-Grand
@@ -29451,6 +29563,7 @@ Justified & Stripped Tour
 Justified and Stripped Tour
 Justin & Christina
 Justin Blackmon
+Justin Hardee
 Justin Hawkins
 Justin Lin
 Justin Raimondo
@@ -29600,6 +29713,7 @@ Kanō Jigorō
 Kaohsiung Challenger 2007
 Kaori Yamamoto
 Kapogea
+Kappa (lettera greca)
 Kappa (mitologia)
 Kappelkinger
 Kapust
@@ -29607,6 +29721,7 @@ Kara Braxton
 Kara Zor-El
 Karachi
 Karakoro (Mali)
+Karancskeszi
 Karasu
 Karate
 Kareem Abdul-Jabbar
@@ -29728,6 +29843,8 @@ Kawhi Leonard
 Kay Yow
 Kayes
 Kayfabe
+Kayoa
+Kayqubad I
 Kazakistan
 Kazakistan ai XVII Giochi olimpici invernali
 Kazehakase
@@ -30096,6 +30213,7 @@ Koninklijke Racing Club Genk
 Konkan
 Konnan
 Konojedy
+Konosuba! - This Wonderful World
 Konqueror
 Konrad Adenauer
 Konrad Burdach
@@ -30112,6 +30230,7 @@ Konstrakta
 Kontéla
 Konětopy
 Kool & the Gang
+Koolhoven F.K.58
 Kopa Antiano
 Korea (film)
 Korea: Battleground for Liberty
@@ -30228,6 +30347,7 @@ Kurt Weill
 Kurumamichi (metropolitana di Nagoya)
 Kusuma Karunaratne
 Kutha
+Kutzenhausen (Germania)
 Kuwait
 Kuwait Air Force
 Kuznetsov NK-10
@@ -30650,6 +30770,7 @@ La luna in fondo al pozzo
 La luna nel deserto
 La lunga linea grigia
 La lupa (film 1996)
+La macchina del tempo (programma televisivo)
 La macchina del tempo (serie animata)
 La macchina della realtà
 La magia di Oz
@@ -31150,6 +31271,7 @@ Laura Boccanera
 Laura Casarotto
 Laura Cosenza
 Laura Fraser
+Laura Fygi
 Laura Innes
 Laura Johnson
 Laura Landi
@@ -31263,6 +31385,7 @@ Le Puid
 Le Puy (Gironda)
 Le Rheu
 Le Roulier
+Le Samyn 2022
 Le Saulcy
 Le Scienze
 Le Superchicche
@@ -31431,6 +31554,7 @@ Legend (film 2015)
 Legendary Pictures
 Legends of Tomorrow
 Legends of the Superheroes
+Leges Antoniae
 Leges Liciniae Sextiae
 Legge 20 luglio 2004, n. 189
 Legge Acerbo
@@ -31494,6 +31618,7 @@ Lehigh (Iowa)
 Lei (rete televisiva)
 Lei'd in Hawaii
 Leib Groner
+Leibnitz
 Leicester City Football Club 2010-2011
 Leicester City Football Club 2011-2012
 Leicester Square
@@ -32426,6 +32551,7 @@ Linguistica sincronica
 Linguistica storica
 Linguistica testuale
 Linguistics
+Linguère
 Linimo
 Links
 Linneo
@@ -33183,6 +33309,7 @@ Luigi Carpentieri
 Luigi Cherubini
 Luigi Ciavardini
 Luigi Comencini
+Luigi Cucchi
 Luigi D'Alessio
 Luigi Dallapiccola
 Luigi Di Maio
@@ -33539,6 +33666,7 @@ MTV (Italia)
 MTV Europe Music Award
 MTV Europe Music Awards
 MTV Europe Music Awards 2003
+MTV Europe Music Awards 2013
 MTV Movie & TV Awards
 MTV Movie Award
 MTV Movie Award al miglior cattivo
@@ -33607,6 +33735,7 @@ Macello (Italia)
 Macerata
 Macerata Campania
 Macerata Feltria
+Macey (Manica)
 Mach (kernel)
 Macheren
 Machismo
@@ -33849,6 +33978,7 @@ Maki Sakai
 Making Money
 Makoto (musicista)
 Makoto Nonomura
+Maksim Bel'kov
 Maksim Gor'kij
 Maksym Jevtušenko
 Maksïm Şevçenko
@@ -33926,6 +34056,7 @@ Mami (Piso 21 e Black Eyed Peas)
 Mami Nishino
 Mamirolle (film)
 Mamma Mia (ABBA)
+Mamma Natale
 Mammalia
 Mammiferi
 Mammiferi marini
@@ -34005,6 +34136,7 @@ Manishtusu
 Manlio Dovì
 Manly
 Manna (album)
+Mannhai
 Mannheim
 Mannie Jackson
 Mannix
@@ -34422,6 +34554,7 @@ Marie Wilson
 Marie de Hennezel
 Marie-Antoinette (miniserie televisiva)
 Marie-Jeanne Bécu, contessa Du Barry
+Mariehamn
 Mariella Nava
 Marienlyst Stadion
 Marieulles
@@ -34551,6 +34684,7 @@ Mark Waid
 Mark Warkentien
 Mark Waters
 Mark Watson-Gandy
+Mark e Martha
 Marketing
 Marko Kon
 Marko Pantić
@@ -34681,6 +34815,7 @@ Martinópolis
 Martinček
 Martire
 Martiri dei massacri di settembre
+Martiri di Fiesole
 Martiri di Otranto
 Martirio (cristianesimo)
 Martirio (ebraismo)
@@ -35122,6 +35257,7 @@ Mazères (Gironda)
 Maëlia Gentil
 Maîtresse-en-titre
 Maïwenn
+Mbazi (Nyamagabe)
 McComb (Mississippi)
 McCoy (serie televisiva)
 McDonald's
@@ -36038,6 +36174,7 @@ Mighty Fine
 Mighty Magiswords
 Mighty ReArranger
 Migidae
+Migidio Bourifa
 Miglio (unità di misura)
 Miglio nautico
 Migliori marcatori NBA
@@ -36181,6 +36318,7 @@ Milton Keynes Dons Football Club 2011-2012
 Milton-Freewater
 Milvus migrans
 Milwaukee Bucks
+Milwaukee Bucks 1972-1973
 Milza
 Milza accessoria
 Milze
@@ -36379,6 +36517,7 @@ Mittersheim
 Mittlefest
 Miturgidae
 Mitzi McCall
+Mitzvah
 Mivar
 Miwako Wagatsuma
 Mix Master Mike
@@ -36773,6 +36912,7 @@ Montes di Plutone
 Montes di Venere
 Montes lunari
 Montesacro
+Montesanto (Sellano)
 Montesquieu
 Monteu da Po
 Montevarchi Calcio Aquila 1902 1984-1985
@@ -36844,6 +36984,7 @@ Moombahton
 Moon (Björk)
 Moon Hyun-sung
 Moonbase
+Moonbase 8
 Moonbeam (singolo)
 Mooney M20
 Moonlander
@@ -36928,6 +37069,7 @@ Morte di san Francesco (Annibale Carracci)
 Morten Meldal
 Morten Olsen
 Morterone
+Morti nel 453
 Morti nel 697
 Morto vivente
 Morton Feldman
@@ -37187,6 +37329,7 @@ Mummia del Similaun
 Mumok
 Munetaka Aoki
 Munich Machine
+Munichia
 Municipal Corporations Act 1835
 Municipal Olympique Mougins Volley-ball 2019-2020
 Municipalità del Giappone
@@ -37232,6 +37375,7 @@ Murry Wilson
 Murs-et-Gélignieux
 Murutinga do Sul
 Murvaux
+Musa itinerans
 Musashino
 Muscolo
 Muscolo quadricipite
@@ -37822,6 +37966,7 @@ Nati il 1º maggio
 Nati l'8 marzo
 Nati nel 1858
 Nati nel 1992/Ottobre
+Nati nel 600
 Nation (romanzo)
 National Academy of Recording Arts and Sciences
 National Aerospace Development Administration
@@ -38517,6 +38662,7 @@ Nicollette Sheridan
 Nicolás García (calciatore)
 Nicolás Rossi (calciatore 2002)
 Nicolás Stefanelli
+Nicolò Massa (musicista)
 Nicomedia
 Nicosia
 Nicosia Lawson
@@ -38733,6 +38879,7 @@ Nomenclatura chimica
 Nomenclatura chimica inorganica
 Nomenclatura di Plutone
 Nomexy
+Nomi della Georgia
 Nompatelize
 Non (DC Comics)
 Non Abbiamo Bisogno
@@ -38821,6 +38968,7 @@ North American Soccer League
 North American Soccer League (2011)
 North American XF-108 Rapier
 North American YF-93
+North Eastham
 North Jersey
 North Las Vegas
 North Miami (Florida)
@@ -38887,6 +39035,7 @@ Notte dei cristalli
 Notte dei poeti assassinati
 Notte delle matite
 Notte di mezza estate
+Notte di piaceri
 Notte e nebbia
 Notte folle a Manhattan
 Notte più lunga
@@ -39486,6 +39635,7 @@ Onda Mobile Communication
 Onda Verde (Brasile)
 Onda d'urto (fisica)
 Onda d'urto (fluidodinamica)
+Onda sfigmica
 Ondas Awards 1998
 Ondatra zibethicus
 Onde corte
@@ -40040,6 +40190,7 @@ Ospedale psichiatrico di Teramo
 Ospedale psichiatrico giudiziario
 Ospite
 Ospite (biologia)
+Ossendrecht
 Osservatori dell'Assemblea generale delle Nazioni Unite
 Osservatorio Jodrell Bank
 Osservatorio di Greenwich
@@ -40264,6 +40415,7 @@ Paco Ignacio Taibo II
 Paco, el elegante
 Pacullidae
 Paddle
+Paddy Moore
 Paderno d'Adda
 Padoux
 Padova
@@ -40318,6 +40470,7 @@ Pajares de los Oteros
 Pajewo-Cyty
 Paju (film)
 Pakistan
+Pala di Londra
 Pala di San Pietro di Muralto
 PalaBanca
 PalaBassano
@@ -41128,6 +41281,7 @@ Paul Gascoigne
 Paul Gerken
 Paul Glass
 Paul Greengard
+Paul Grégoire
 Paul Hamm
 Paul Hermann Müller
 Paul Hildgartner
@@ -41153,6 +41307,7 @@ Paul Newman
 Paul Nurse
 Paul Oakenfold
 Paul Pfeiffer
+Paul Picot
 Paul Pierce
 Paul Rachman
 Paul Rassinier
@@ -41225,6 +41380,7 @@ Pavshim druzjiam
 Paweł Leończyk
 Pawhuska
 Pawnee
+Pax Baldwin
 Pay TV
 Pay tv
 Pay-per-view
@@ -41381,6 +41537,7 @@ People's Choice Awards 2012
 People's Platinum Jubilee Peagentry
 Pep Munné
 Pepe il Re dei Gamberi
+Pepeni
 Peperoni
 Peplomero
 Pepper Anderson agente speciale
@@ -41765,6 +41922,7 @@ Philip Dunne
 Philip Glass
 Philip Glenister
 Philip Guston
+Philip Hellquist
 Philip Henry Sheridan
 Philip Henson
 Philip Kissick Lawrence
@@ -42015,6 +42173,7 @@ Pietro Aldobrandini
 Pietro Badoglio
 Pietro Bembo
 Pietro Biondi
+Pietro Branchina
 Pietro D'Elia
 Pietro Gazzera
 Pietro Grasso
@@ -42637,6 +42796,7 @@ Port Vale Football Club 2010–2011
 Port Vale Football Club 2011-2012
 Porta (informatica)
 Porta PS/2
+Porta Romana (Firenze)
 Porta Scea
 Porta parallela
 Portabilità
@@ -43053,6 +43213,7 @@ Premio Locus per il miglior libro per ragazzi
 Premio Lunezia
 Premio MVP della Major League Soccer
 Premio Marcello Mastroianni
+Premio Masterton
 Premio Nebula
 Premio Nobel
 Premio Nobel per la Fisica
@@ -43075,6 +43236,7 @@ Premium Crime
 Première Ligue de Soccer du Québec
 Premolare
 Premolo
+Premuda (esploratore)
 Prendere o lasciare (Alex Britti)
 Prenome
 Prequel
@@ -43330,6 +43492,7 @@ Principe
 Principe Ivan
 Principe delle Asturie
 Principe di Galles
+Principe di Ligne
 Principe di Piemonte
 Principe elettore
 Principessa
@@ -44121,6 +44284,7 @@ R.G. Springsteen
 R.U.R.
 R.U.R. (Rossum's Universal Robots)
 R101 TV
+R136c
 R2-D2
 RAI 2
 RAI Mux A
@@ -44359,6 +44523,7 @@ Raker Qarrigat
 Raleigh (Carolina del Nord)
 Rallentatore
 Rally di Finlandia 2003
+Rally di Svezia 2022
 Ralph Baer
 Ralph Bellamy
 Ralph Block
@@ -45155,6 +45320,7 @@ Resistenza olandese
 Resistenza polacca
 Resistenza sovietica
 Resistenza tedesca
+Resistenzialismo versus resistenza
 Resistività elettrica
 Resistore
 Respect
@@ -45648,6 +45814,7 @@ Riunificazione tedesca
 Riunione di famiglia
 Riva presso Chieri
 Rivalba
+Rivalità cestistica Cantù-Milano
 Rivals
 Rivalsa
 Rivalta di Torino
@@ -46190,6 +46357,7 @@ Ronnie Milsap
 Ronny Rothschild
 Ronvaux
 Ronzino
+Root (Person of Interest)
 Root Down
 Root Down EP
 Roperuelos del Páramo
@@ -46236,6 +46404,7 @@ Rosiers-de-Juillac
 Rosita, la Monstrua de las Cuevas
 Rositz
 Roslind Godlovitch
+Rosmunda (singolo)
 Rosolia
 Rospez
 Ross Case
@@ -46682,6 +46851,7 @@ Saint-André-et-Appelles
 Saint-André-le-Bouchoux
 Saint-André-sur-Vieux-Jonc
 Saint-Angel (Corrèze)
+Saint-Antoine-de-Tilly
 Saint-Antoine-du-Queyret
 Saint-Antoine-sur-l'Isle
 Saint-Aubin (Île-de-France)
@@ -47128,6 +47298,7 @@ Salò o le 120 giornate di Sodoma
 Sam & Dave
 Sam Adams
 Sam Barry
+Sam Billie Bill
 Sam Bird
 Sam Catlin
 Sam Cooke
@@ -47363,6 +47534,7 @@ Sanniti
 Sanremese Calcio
 Sanremese Calcio 1984-1985
 Sanremo
+Sanremo Open 1990 - Singolare
 Sanremo Tennis Cup 2007
 Sanry-lès-Vigy
 Sanry-sur-Nied
@@ -47412,6 +47584,7 @@ Santa Maria Capua Vetere
 Santa Maria Hoè
 Santa Maria da Serra
 Santa Maria del Soccorso (metropolitana di Roma)
+Santa Maria della Salute a Primavalle (titolo cardinalizio)
 Santa Maria di Rambona
 Santa Marina del Rey
 Santa María de Dulcis
@@ -47472,8 +47645,10 @@ Santo Tomé (Corrientes)
 Santo patrono
 Santo vs. The Clones
 Santos
+Santos Cabrera
 Santosh Sivan
 Santovenia de la Valdoncina
+Santuario dell'Incidella
 Santuario della Madonna dell'Icona
 Santuario della Madonna delle Grazie (Teramo)
 Santópolis do Aguapeí
@@ -47783,6 +47958,7 @@ Schlitzie
 Schmittviller
 Schmölln
 Schneckenbusch
+Schola Cantorum Aetnensis
 Scholar
 Schopfheim
 Schorbach
@@ -48135,6 +48311,7 @@ Seisenshi Dunbine
 Seisonoidea
 Seito Shokun!
 Seiyō Uchino
+Sekou Oliseh
 Sela (Star Trek)
 Sela Ward
 Selciato del gigante
@@ -48230,6 +48407,7 @@ Sentimentalismo
 Sentinum
 Sentō Meka Xabungle
 Senza di loro l'inferno è vuoto
+Senza limite
 Senza limiti (film 1989)
 Senza ragione
 Senza scopo di lucro
@@ -48285,6 +48463,7 @@ Serdica
 Seregno
 Serena Rossi
 Serena Verdirosi
+Serena Viviani
 Serena Williams
 Serenissima
 Serenissima Repubblica di Venezia
@@ -48459,6 +48638,7 @@ Serie A2 2022-2023 (pallacanestro maschile)
 Serie B
 Serie B (pallacanestro femminile)
 Serie B (pallavolo maschile)
+Serie B 1967-1968 (pallacanestro femminile)
 Serie B 1984 (calcio femminile)
 Serie B 1984-1985
 Serie B 1985 (calcio femminile)
@@ -48893,6 +49073,7 @@ Siderite
 Siderurgia
 Sideways (album Men Without Hats)
 Sideways (singolo Men Without Hats)
+Sidi Boumoussa
 Sidibéla
 Sidney (Montana)
 Sidney J. Furie
@@ -49586,6 +49767,7 @@ Soldier's Fortune
 Sole (divinità)
 Sole Luna Doc-film Festival
 Solenogastres
+Solfara Pietre bianche
 Solfato ferrico ammonico
 Solgne
 Solid Gold Hits
@@ -49905,6 +50087,7 @@ Spartiacque
 Spartito
 Spartizioni della Polonia
 Spasibo (Nikolaj Noskov)
+Spathariko
 Spatiatoridae
 Spaventapasseri (DC Comics)
 Spaventapasseri (Il mago di Oz)
@@ -50212,6 +50395,7 @@ Stagione regolare
 Stagione sportiva
 Stagioni dei Detroit Lions
 Stagno (elemento chimico)
+Stagno di Is Benas
 Stai fresco, Scooby-Doo!
 Stainville
 Stairway to Heaven
@@ -50422,6 +50606,7 @@ Stavros Kaplanidis
 Stay-behind
 Stayin' Alive
 Stazione Spaziale Internazionale
+Stazione di Aboshi
 Stazione di Agematsu
 Stazione di Aichi-Mito
 Stazione di Aimi
@@ -50830,6 +51015,7 @@ Steven Eckholdt
 Steven Heine
 Steven Jackson (giocatore di football americano)
 Steven Knight
+Steven Lindsey
 Steven Lovy
 Steven Meisel
 Steven Michael Quezada
@@ -51248,6 +51434,7 @@ Stress da vampiro
 Stressati
 Stretch Murphy
 Stretto di Messina
+Stretto di Wetar
 Strike Fighters Flight Simulator
 Strikeforce
 String skipping
@@ -51335,6 +51522,7 @@ Sturm und Drang
 Sturmabteilung
 Sturnidae
 Sturzelbronn
+Stuttgart Masters 2000 - Qualificazioni singolare
 Style Wars
 Stylocidaris affinis
 Stylus Magazine
@@ -51383,6 +51571,7 @@ Suddivisioni dell'India
 Suddivisioni della Birmania
 Suddivisioni della Bosnia ed Erzegovina
 Suddivisioni della Corea del Nord
+Sudeste Rio-Grandense
 Sudeti
 Sudovo Hlavno
 Sue Gunter
@@ -51438,6 +51627,7 @@ SummerSlam (2013)
 Summertime (brano musicale)
 Summit (New Jersey)
 Summit (supercomputer)
+Summorum Pontificum
 Sumner (Washington)
 Sumner Welles
 Sun Coast
@@ -51489,6 +51679,7 @@ Super Formation Soccer 95: della Serie A
 Super Formation Soccer 96: World Club Edition
 Super Friends
 Super Hits (album Earth, Wind & Fire)
+Super League 2020-2021 (calcio femminile Belgio)
 Super Size Me
 Super Smash Bros. Brawl
 Super Smash Bros. Ultimate
@@ -51815,6 +52006,7 @@ Synthpunk
 Syraka
 Syrakousai
 Syreeta Wright
+Syriac
 Syskey
 Sysprep
 System Idle Process
@@ -52298,6 +52490,7 @@ Ted Brown
 Ted Kennedy
 Ted Knight (personaggio)
 Ted Roter
+Tedburn St Mary
 Teddy Bridgewater
 Teddy Riley
 Tedeschi
@@ -52372,6 +52565,7 @@ Telescopio Spaziale Spitzer
 Telescopio robotico
 Telescrivente
 Telespettatore
+Telestar
 Telestes souffia
 Teletext
 Telethon
@@ -52450,6 +52644,7 @@ Tempo di Planck
 Tempo di reazione
 Tempo di sistema
 Tempo esadecimale
+Tempo medio di indisponibilità
 Tempo metrico
 Tempo newtoniano nelle scienze economiche
 Tempo profondo
@@ -52465,6 +52660,7 @@ Ten Years of Harmony
 TenFourFox
 Tenacità
 Tenaris
+Tenax (Firenze)
 Tenay
 Tencent
 Tencent Holdings
@@ -53025,6 +53221,7 @@ The Fairylogue and Radio-Plays
 The Fall of the House of Usher (opera)
 The Fiddler of the Reel
 The Fifth Elephant
+The Fight
 The Fighting Brothers
 The Firemen
 The Firemen 2: Pete & Danny
@@ -53054,6 +53251,7 @@ The Ghosts of Versailles
 The Giant of Thunder Mountain
 The Girl Is Mine
 The Girl You Lost to Cocaine
+The Girl of the West
 The Glory Boys
 The Golden Age (fumetto)
 The Grandmaster
@@ -53117,6 +53315,7 @@ The John Butler Trio
 The Journeys and the Experiences of Death
 The Juniper Tree (film)
 The KLF
+The Kentuckian
 The Key to Reserva
 The Kid from Not-So-Big
 The Kids (Jamiroquai)
@@ -53271,6 +53470,7 @@ The Red Skelton Show
 The Red Spectacles
 The Return of Amy Winehouse
 The Return of Amy Winehouse in Europe
+The Return of Draw Egan
 The Return of the Space Cowboy
 The Revenant (romanzo)
 The Reykjavik Grapevine
@@ -53478,6 +53678,7 @@ Think for Yourself
 Thiomargarita magnifica
 Thionville
 Thiraucourt
+Third World (album)
 Thirteen - 13 anni
 Thirty Minute Theatre
 Thiruvananthapuram
@@ -53553,6 +53754,7 @@ Thomas Woolner
 Thomas de Camoys
 Thomas von Heesen
 Thomas-Morse XP-13 Viper
+Thomaz Koch
 Thomisidae
 Thommanon
 Thommy Hutson
@@ -53846,6 +54048,7 @@ Tom DeNucci
 Tom Dumoulin
 Tom Edlefsen
 Tom Farnell
+Tom Fillingham
 Tom Foley
 Tom Gehrels
 Tom Gibson
@@ -53919,6 +54122,7 @@ Tomoki Hirose
 Tomora
 Tomorrow Never Knows
 Tomorrow Never Knows (album)
+Tomoya Ugajin
 Tomoyuki Ishida
 Toms River
 Tonalità (musica)
@@ -54216,6 +54420,7 @@ Touring Club Italiano
 Tournée
 Tours
 Tours Volley-Ball 2019-2020
+Tourtrès
 Toussieux
 Tower 42
 Tower Bridge
@@ -54448,6 +54653,7 @@ Traxx
 Trazana Beverley
 Trazione ferroviaria
 Tre (Alex Britti)
+Tre Carrare
 Tre Venezie
 Tre cuori in affitto
 Tre fratelli
@@ -54470,6 +54676,7 @@ Treblinka
 Trebur
 Treccani
 Trechaleidae
+Trechmannite
 Treia
 Treignac
 Trekking
@@ -54607,6 +54814,7 @@ Trinità (cristianesimo)
 Trins
 Trinwillershagen
 Triodo
+Triopha maculata
 Triossido di xeno
 Trip hop
 Triple Crown Championship
@@ -54635,6 +54843,7 @@ Triumph of a Heart
 Triveneto
 Trivio
 Troade
+Trocadero
 Trochanteriidae
 Troche
 Trochilidae
@@ -54718,6 +54927,7 @@ Tsunami
 Tsurumai Line
 Tsurusato (metropolitana di Nagoya)
 Tu Youyou
+Tu che m'ascolti insegnami
 Tu che ne sai
 Tu vuò fa l'americano (Gigi D'Alessio)
 TuS Düsseldorf Nord 2017-2018
@@ -55220,6 +55430,7 @@ Un angelo poco... custode
 Un asso nella manica
 Un bon patriote
 Un cappello pieno di stelle
+Un colpo da due miliardi
 Un colpo perfetto
 Un cuore in inverno
 Un cuore malato
@@ -55231,6 +55442,7 @@ Un lupo mannaro americano a Londra
 Un maggiolino tutto matto
 Un magnifico ceffo da galera
 Un marziano di nome Ennio
+Un milione di anni fa
 Un monello alla corte d'Inghilterra
 Un nuovo amore
 Un nuovo bacio
@@ -55718,6 +55930,7 @@ Urina
 Urlatori alla sbarra
 Urmet
 Urochordata
+Uroš Drezgić
 Ursa (DC Comics)
 Ursa (zoologia)
 Ursidae
@@ -56597,6 +56810,7 @@ Vicepresidente degli Stati Uniti d'America
 Vicepresidenti dell'India
 Vicequestore aggiunto
 Viceregno di Napoli
+Viceré
 Viceré d'Irlanda
 Vicesindaco
 Vicherat
@@ -56890,6 +57104,7 @@ Vira (disambigua)
 Vira Carbone
 Vira Nirvana Samvat
 Viradouro
+Viral
 Virelade
 Viremia
 Virgaviridae
@@ -57026,6 +57241,7 @@ Vite a legno
 Vitellio
 Vitello tonnato
 Viterbo
+Vitinho (calciatore aprile 1999)
 Vitomil Zupan
 Vitrac-sur-Montane
 Vitroselenia
@@ -57038,6 +57254,7 @@ Vittime della seconda guerra mondiale
 Vittime delle Brigate Rosse
 Vittoncourt
 Vittore Pisani
+Vittoria (Italia)
 Vittoria Febbi
 Vittoria Luisa di Borbone-Francia
 Vittoria d'Assia-Darmstadt
@@ -57082,6 +57299,7 @@ Vivere e morire a Los Angeles
 Vivere senza di te
 Vivi (Gigi D'Alessio)
 Vivian Campbell
+Viviana Ballabio
 Vivien Bridson
 Vivien Leigh
 Viviers (Mosella)
@@ -57177,9 +57395,11 @@ Volley Treviso 2011-2012
 Volley-Ball Club Chamalières 2019-2020
 Volley-Ball Nantes 2019-2020
 Vollmershain
+Vollore-Ville
 Volmerange-les-Mines
 Volmerange-lès-Boulay
 Volmunster
+Volo Batik Air 7703
 Volontari delle Nazioni Unite
 Volontari per destinazione ignota
 Volontà di vivere
@@ -57200,6 +57420,7 @@ Volturno
 Volumen (DVD)
 Volumen Plus
 Volvera
+Volvo PV
 Vomécourt
 Vomécourt-sur-Madon
 Von Flores
@@ -57678,12 +57899,14 @@ White Hart Lane
 White Horse (New Jersey)
 White Knuckle Ride
 White League
+White Lion
 White Star Line
 White pride
 Whitechocolatespaceegg
 Whitefish (Montana)
 Whitehall
 Whitehaven
+Whiteite-(CaMnMg)
 Whitesnake
 Whitestown (Indiana)
 Whitney Goin
@@ -57706,6 +57929,7 @@ Wichita Falls
 Wichita Vortex Sutra
 Wicked (musical)
 Widescreen
+Widmann (disambigua)
 Wiebe
 Wieck auf dem Darß
 Wieger
@@ -58185,6 +58409,7 @@ Wyatt Earp
 Wycombe Wanderers Football Club 2010–2011
 Wycombe Wanderers Football Club 2011-2012
 Wynn Resorts Limited
+Wynton Kelly
 Wynyard (Sydney)
 Wyoming
 Włodzimierz Krzyżanowski
@@ -58360,6 +58585,7 @@ Yann Malcor
 Yanni Regäsel
 Yao Ming
 Yardville
+Yasakani no Magatama
 Yasodharapura
 Yasuhiko Okudera
 Yasuko Matsuo
@@ -58542,6 +58768,7 @@ Zac Brown Band
 Zac Efron
 Zacapu
 Zacarias
+Zacarías González Velázquez
 Zach Edey
 Zach Muscat
 Zachariah Chandler
@@ -58619,6 +58846,7 @@ Ziggurat
 Ziggurat Interactive
 Zignago Vetro
 Zigomar (film 1964)
+Zigzag
 Zildjian
 Zilius Zox
 Zilla (zoologia)
@@ -58741,6 +58969,7 @@ transistor
 Álvares Florence
 Álvares Machado
 Álvaro Obregón (Michoacán)
+Álvaro Vaz de Almada, I conte di Avranches
 Álvaro de Carvalho
 Ángel Atienza
 Ángel Gabilondo
@@ -59041,6 +59270,7 @@ transistor
 12,8 cm PaK 44
 122 Leadenhall Street
 12306 Pebronstein
+125 Liberatrix
 127005 Pratchett
 13 - Se perdi... muori
 13 agosto
@@ -59056,6 +59286,7 @@ transistor
 13 novembre
 13 ottobre
 13 settembre
+13179 Johncochrane
 132º Gruppo
 135 a.C.
 13733 Dylanyoung
@@ -59381,6 +59612,7 @@ transistor
 26 ottobre
 26 settembre
 2600 a.C.
+261930 Moorhead
 264 a.C.
 27 a.C.
 27 agosto
@@ -59556,6 +59788,7 @@ transistor
 4281 Pounds
 42º Congresso degli Stati Uniti d'America
 433 Eros
+4334 Foo
 43º Congresso degli Stati Uniti d'America
 44 Andromedae
 44 a.C.
@@ -59577,6 +59810,7 @@ transistor
 494 a.C.
 496 a.C.
 499 a.C.
+4:17 am
 4Gamer.net
 4X (videogiochi)
 4hero
@@ -59754,6 +59988,7 @@ A History of Violence
 A Knight at the Opera
 A Letter to Elia
 A Matter of Choice
+A Modern Courtship
 A Moment Like This
 A Muppets Christmas: Letters To Santa
 A Muppets Christmas: Letters to Santa (Soundtrack from the TV Special)
@@ -59853,6 +60088,7 @@ AGM-88 HARM
 AGO Ao 192
 AGO Ao 225
 AGSM Verona Calcio Femminile 2017-2018
+AGSM Verona F.C. Grezzana 2014-2015
 AIM-120 AMRAAM
 AIM-120 Amraam
 AIM-132 ASRAAM
@@ -59953,6 +60189,7 @@ Abbazia di Montecassino
 Abbazia di Saint-Denis
 Abbazia di San Colombano
 Abbazia di San Fruttuoso
+Abbazia di San Maurizio
 Abbazia di San Pietro (Salisburgo)
 Abbazia di Sant'Agostino
 Abbazia di Westminster
@@ -59968,6 +60205,7 @@ Abbreviazioni standard degli autori botanici
 Abby Cadabby
 Abby Lockhart
 Abd Allah dell'Arabia Saudita
+Abdel Wahab Abdullah Salih
 Abdolkarim Soroush
 Abdul Kalam
 Abdul Shamsid-Deen
@@ -60361,6 +60599,7 @@ Aermacchi MB-326
 Aermacchi MB-339
 Aermacchi SF-260
 Aero Fighters
+Aero L-29 Delfin
 Aeroambulanza
 Aerobiosi
 Aerofoni
@@ -60821,6 +61060,7 @@ Aldo Mondino
 Aldo Moro
 Aldo Moro - Il presidente
 Aldo Serena
+Aldo Viglione
 Aldo eremita
 Aldous Huxley
 Aldrovanda vesiculosa
@@ -60846,6 +61086,7 @@ Aleksandra Panova
 Aleksandra Vujović
 Aleksanteri Saarvala
 Aleksej Nemov
+Aleksej Semënovič Šein
 Aleksejs Saramotins
 Alenatea
 Aleppo
@@ -61676,6 +61917,7 @@ Andreas Leupold
 Andreas Mogensen
 Andreas Svanebo
 Andreas Wecker
+Andrei di Polock
 Andrej Urlep
 Andretti Autosport
 Andrew Bennison
@@ -61718,6 +61960,7 @@ Andrzej Kubica
 Andrzej Pluta
 Andrzej Wajda
 André Antoine
+André Bettencourt
 André Cymone
 André Daina
 André Florschütz
@@ -63552,6 +63795,7 @@ Aura William
 Aurangabad (Maharashtra)
 Aurat March
 Aurea Repubblica Ambrosiana
+Aureliano Galeazzo
 Aurelie Lemanceau
 Aurelio Crugnola
 Auriac (Corrèze)
@@ -63834,6 +64078,7 @@ BMW 139
 BMW 801
 BMW Ljubljana Open 2007
 BMW M20
+BMW Tennis Championship
 BMW Tennis Championship 2007
 BPER Banca
 BRIT Award
@@ -63940,6 +64185,7 @@ Bag (Ungheria)
 Bagaggera
 Bagas
 Bagatelle per un massacro
+Bagaza virus
 Baggy (genere musicale)
 Baghaï
 Baghdad
@@ -64010,6 +64256,7 @@ Ballspielverein Borussia 09 Dortmund II
 Balléville
 Balme
 Balsa (informatica)
+Baltagiya
 Baltasar Albéniz
 Baltimora
 Baltimora and Ohio
@@ -64151,6 +64398,7 @@ Barbican Centre
 Barbican Estate
 Barbie
 Barbie Girl
+Barbieri (cognome)
 Barbora Strýcová
 Barbosa (Brasile)
 Barbra Streisand
@@ -64402,7 +64650,9 @@ Battaglia dell'Isola numero 10
 Battaglia della Bicocca
 Battaglia della Neretva
 Battaglia della Sutjeska
+Battaglia della Trebbia (disambigua)
 Battaglia della baia di Mobile
+Battaglia della baia di Vigo
 Battaglia delle Forche Caudine
 Battaglia delle Midway
 Battaglia delle aringhe
@@ -64534,6 +64784,7 @@ Battaglia di High Bridge
 Battaglia di Hoke's Run
 Battaglia di Hunterstown
 Battaglia di Imera (480 a.C.)
+Battaglia di Inō
 Battaglia di Iuka
 Battaglia di Iwo Jima
 Battaglia di Jackson (Mississippi)
@@ -64883,6 +65134,7 @@ Belinda Bencic
 Belisario
 Belize
 Bell & Howell
+Bell Challenge 2013 - Singolare
 Bell Labs
 Bell OH-58 Kiowa
 Bell P-39 Airacobra
@@ -65314,6 +65566,7 @@ Biganos
 Bigelf
 Bighorn Country
 Bihar
+Bihar (disambigua)
 Biju Janata Dal
 Bike Channel
 Biker Mice da Marte
@@ -65478,6 +65731,7 @@ Bismarck (Dakota del Nord)
 Bismuto
 Bisonte americano
 Bissau
+Bissektipelta archibaldi
 Bisten-en-Lorraine
 Bistroff
 BitLocker
@@ -65568,6 +65822,7 @@ Blanche Ravalec
 Blanche-Église
 Blanquefort (Gironda)
 Blanzée
+Blaque
 Blas Piñar
 Blasimon
 Blastula
@@ -65839,6 +66094,7 @@ Bolt (DC Comics)
 Bolt (browser)
 Bolt-on
 Boltaña
+Bolton Buccaneers
 Bolton Wanderers Football Club 2010-2011
 Bolton Wanderers Football Club 2011-2012
 Bolzano
@@ -66003,6 +66259,7 @@ Bosnia Erzegovina
 Bosnia ed Erzegovina
 Bosnia ed Erzegovina ai XVII Giochi olimpici invernali
 Boss Bitch (singolo)
+Bossey (Francia)
 Bossolo
 Bossugan
 Boston
@@ -66024,6 +66281,8 @@ Bou Meng
 Boucheporn
 Bouconville-sur-Madt
 Boudofo
+Boudouaou
+Bouffémont
 Bougaribaya
 Bouhmama
 Bouillon (Belgio)
@@ -66589,6 +66848,7 @@ Buongiorno (singolo Gigi D'Alessio)
 Buongiorno benessere
 Buono a sapersi
 Buono del tesoro poliennale
+Buoux
 Burbank (contea di Los Angeles)
 Bure (Francia)
 Bures-sur-Yvette
@@ -66710,6 +66970,7 @@ Bücker Bü 182
 Bülach
 Büttelborn
 Březí (Boemia centrale)
+Bắc Trung Bộ
 C (linguaggio)
 C sharp
 C'era una volta una principessa (miniserie televisiva)
@@ -66813,6 +67074,7 @@ Cabo Rojo (Porto Rico)
 Cabrata
 Cabreros del Río
 Cabreúva
+Cabricán
 Cabrillanes
 Cabrália Paulista
 Cacabelos
@@ -66847,6 +67109,7 @@ Caduta di Robespierre
 Caerostrini
 Caerostris
 Caesar
+Caesar IV
 Cafasse
 Cafelândia (San Paolo)
 Caffè
@@ -67813,6 +68076,7 @@ Campionato del mondo di hockey su pista
 Campionato del mondo di hockey su pista femminile
 Campionato del mondo endurance
 Campionato del mondo formula 1 motonautica
+Campionato del mondo juniores di scacchi
 Campionato del mondo rally
 Campionato del mondo rallycross
 Campionato di Formula E 2014-2015
@@ -67965,6 +68229,7 @@ Campionato tedesco di hockey su pista 1988
 Campionato tedesco di hockey su pista 1989
 Campionato tedesco di hockey su pista 1990
 Campionato tedesco di hockey su pista 1991
+Campionato turkmeno di calcio
 Campionatore
 Campione (scienze)
 Campo (Spagna)
@@ -68140,6 +68405,7 @@ Canottieri Olona
 Canso
 Cantabria
 Cantalupa
+Cantamaggio
 Cantando sotto il vischio
 Cantante
 Cantautore
@@ -68743,6 +69009,7 @@ Casa Baio
 Casa Bianca
 Casa Branca
 Casa Chabad
+Casa Chiavacci
 Casa Desolata
 Casa Ricordi
 Casa Savoia
@@ -68818,6 +69085,7 @@ Cassano Magnago
 Cassano d'Adda
 Casseuil
 Cassia antica
+Cassie (disambigua)
 Cassina Valsassina
 Cassio Cherea
 Cassiodoro
@@ -68834,6 +69102,7 @@ Castejón del Puente
 Castel San Giovanni
 Castel Sant'Angelo
 Castel d'Appio
+Castel del Monte Chardonnay frizzante
 Castelflorite
 Castelfranco Piandiscò
 Castelfranco di Sopra
@@ -69337,6 +69606,7 @@ Cattedrale di Santa Maria e San Filippo Howard
 Cattedrale di Southwark
 Cattedrale di Westminster
 Cattedrale di York
+Cattedrale presbiteriana di Rio de Janeiro
 Cattenom
 Cattività avignonese
 Cattivo
@@ -69394,6 +69664,7 @@ Ce jour là, tout a changé
 Cea (Spagna)
 Cebanico
 Cebrones del Río
+Cecco della botte
 Cecil B. DeMille
 Cecil Bisshopp
 Cecil Lambert
@@ -69425,6 +69696,7 @@ Celebration Day
 Celebrità della Hollywood Walk of Fame
 Celera Genomics
 Celeste Pin
+Celestino Spini
 Celgene
 Celia Cruz
 Celia Henebury
@@ -69580,6 +69852,7 @@ Cesare Barbetti
 Cesare Baronio
 Cesare Battisti (1954)
 Cesare Beccaria
+Cesare Beruto
 Cesare Borgia
 Cesare Cantù
 Cesare Cardini
@@ -69788,6 +70061,7 @@ Charles Maurras
 Charles Mingus
 Charles Molloy
 Charles Ogle (politico)
+Charles Pelham, IV conte di Yarborough
 Charles Poletti
 Charles Renouvier
 Charles Robert Richet
@@ -70158,6 +70432,7 @@ Chiesa di Drothem
 Chiesa di Nostra Signora Assunta (Grondona)
 Chiesa di San Bartolomeo (Teramo)
 Chiesa di San Bernardino
+Chiesa di San Bernardo (Arezzo)
 Chiesa di San Colombano maggiore
 Chiesa di San Domenico (Teramo)
 Chiesa di San Filippo Neri (Camerino)
@@ -70165,6 +70440,7 @@ Chiesa di San Filippo Neri (Castelfranco di Sopra)
 Chiesa di San Francesco (Schio)
 Chiesa di San Giorgio (Celle Ligure)
 Chiesa di San Giovanni Battista
+Chiesa di San Giovanni Battista (Farnetella)
 Chiesa di San Giovanni Battista (Montechiarugolo)
 Chiesa di San Giovanni Battista (Tomar)
 Chiesa di San Giovanni Battista (Zerfaliu)
@@ -70695,6 +70971,7 @@ Cirenaica italiana
 Cirene
 Cirié
 Ciro Ascione
+Cirrhilabrus cyanopleura
 Cisalpino (azienda)
 Cisano Bergamasco
 Cisco Systems
@@ -71278,6 +71555,7 @@ Clojure
 Clonaggio
 Cloro
 Cloruro di argento
+Closer (Ne-Yo)
 Closteroviridae
 Clostridi
 Clostridia
@@ -71552,6 +71830,7 @@ Collegio elettorale degli Stati Uniti d'America
 Collegio elettorale di Lodi I
 Collegio elettorale di Montepulciano (Regno d'Italia)
 Collegio elettorale di Montepulciano (Regno di Sardegna)
+Collegio elettorale di San Martino Siccomario
 Collegio elettorale di Siena (Regno d'Italia)
 Collegio femminile Beth Rivkah
 Collegio rabbinico d'America
@@ -71710,6 +71989,7 @@ Comitato Olimpico Nazionale Turco
 Comitato Olimpico degli Stati Uniti
 Comitato Paralimpico Internazionale
 Comitato di Liberazione Nazionale
+Comitato di sicurezza generale
 Comitato europeo di normazione
 Comitato italiano gas
 Comitato olimpico nazionale
@@ -71916,6 +72196,7 @@ Comunità autonome della Spagna
 Comunità del Belgio
 Comunità di Madrid
 Comunità di wikipedia
+Comunità ebraica di Savoca
 Comunità ebraica di Siracusa
 Comunità economica europea
 Comunità europea del carbone e dell'acciaio
@@ -72422,6 +72703,7 @@ Contea di Warren (New Jersey)
 Contea di Washington (Florida)
 Contea di Washington (Mississippi)
 Contea di Washington (Oklahoma)
+Contea di Washington (Texas)
 Contea di Washoe
 Contea di Wayne (Mississippi)
 Contea di Webster (Mississippi)
@@ -72984,6 +73266,7 @@ Corrado Farina
 Corrado Gaipa
 Corrado II il Salico
 Corrado IV di Svevia
+Corrado Vescovo
 Corrado di Meißen
 Correggese Calcio 1948
 Corrente continua
@@ -73131,6 +73414,7 @@ Cotone (botanica)
 Cotone (filo)
 Cotone (tessuto)
 Cotral
+Cottens
 Cotton Fields
 Cotton Fitzsimmons
 Coubeyrac
@@ -73180,6 +73464,7 @@ Cover
 Coverdale•Page
 Cowboy
 Cox-Klemin XA-1
+Coșula
 Crack!
 Cracker
 Crackle (servizio)
@@ -73204,6 +73489,7 @@ Cras Taranto
 Crash (The Human League)
 Crass
 Crass Records
+Cratere Catullus
 Cratere De Witt
 Cratere Dickens
 Cratere Geissler
@@ -73649,6 +73935,7 @@ Cyclura cornuta stejnegeri
 Cyclus Open de Tenis 2007
 Cygnus (zoologia)
 Cygnus X
+Cygnus atratus
 Cynara Kesster
 Cyndi Lauper
 Cynthia Cooper
@@ -73693,6 +73980,7 @@ D (linguaggio dati)
 D (linguaggio)
 D Train (gruppo musicale)
 D'Amico International Shipping
+D'Arrest
 D'You Know What I Mean?
 D'yer Mak'er
 D-Generation X
@@ -73909,6 +74197,7 @@ Damblain
 Dame Dash Music Group
 Damian Lillard
 Damian Wayne
+Damiano (disambigua)
 Damiano Cunego
 Damiano Damiani
 Damien Sandow
@@ -73985,6 +74274,7 @@ Daniel Fredheim Holm
 Daniel Garrison Brinton
 Daniel Goldhagen
 Daniel Harvey Hill
+Daniel Høegh
 Daniel Inouye
 Daniel J. Bloomberg
 Daniel Jude Gennis
@@ -74088,6 +74378,7 @@ Darlington Football Club
 Darmstadt
 Darmstadt Tennis International
 Darmstadtio
+Darnell Harris
 Darnets
 Darney
 Darney-aux-Chênes
@@ -74254,6 +74545,7 @@ David Hall
 David Hayes Agnew
 David Hemblen
 David Henry Hwang
+David Higgins (tiratore)
 David Hixon
 David Hubel
 David Hume
@@ -74673,6 +74965,7 @@ Design Science License
 Design industriale
 Design pattern
 Desio
+Desire (Eunjung)
 Desiree Akhavan
 Desktop Window Manager
 Desktop computer
@@ -75000,6 +75293,7 @@ Diocesi di Keta-Akatsi
 Diocesi di Laredo
 Diocesi di Mantova
 Diocesi di Mayagüez
+Diocesi di Muzia
 Diocesi di Pavia
 Diocesi di Ponce
 Diocesi di Potenza Picena
@@ -75009,6 +75303,7 @@ Diocesi di Savona-Noli
 Diocesi di Shaoguan
 Diocesi di Teramo-Atri
 Diocesi di Tolentino
+Diocesi di Torri della Concordia
 Diocesi di Urbisaglia
 Diocesi suffraganea
 Diocleziano
@@ -75133,6 +75428,7 @@ Diritti umani negli Stati Uniti d'America
 Diritto
 Diritto all'oblio
 Diritto alla riservatezza
+Diritto d'offesa
 Diritto degli Stati Uniti d'America
 Diritto dell'Unione europea
 Diritto dello spettacolo
@@ -75259,6 +75555,7 @@ Disgiunzione esclusiva
 Disgiunzione logica
 Dish (gruppo musicale)
 Disinfezione
+Diskpart
 Dislessia
 Dislike to False Metal
 Dislocamento
@@ -75512,6 +75809,7 @@ Distretto di Sahibzada Ajit Singh Nagar
 Distretto di San Juan Bautista (Ica)
 Distretto di Sangli
 Distretto di Sangrur
+Distretto di Saposoa
 Distretto di Satara
 Distretto di Sembabule
 Distretto di Serere
@@ -75690,6 +75988,7 @@ Documenta X
 Documentario
 Documentario (film)
 Documenti
+Documento di economia e finanza
 Documento programmatico sulla sicurezza
 Dodecafonia
 Dodecaneso
@@ -76002,6 +76301,7 @@ Dorso (nuoto)
 Dortan
 Dortmund
 Doslidnyc'ke
+Dot Lake Village
 Dott. Bunsen Honeydew
 Dottor Destiny
 Dottor Fate
@@ -76336,6 +76636,7 @@ Dōbutsu no Mori
 Dōbutsu no Mori: Hohinda Mura Dayori
 Dřevčice
 Dřísy
+Dəmirçi (Sədərək)
 E Polis
 E dopo le uccido
 E pluribus unum
@@ -76359,6 +76660,7 @@ E-Prix di Seoul 2022
 E-Prix di Vancouver 2022
 E-book
 E-mail
+E-mu Emax
 E. Bennett Walsh
 E. E. Cummings
 E.B. Henderson
@@ -76437,6 +76739,7 @@ Eastbourne International 1973
 Easter egg
 Eastern Canada Professional Soccer League
 Eastern Montana
+Eastling
 Eastport (New York)
 Easy listening
 Easy to Love (Chet Baker)
@@ -76458,6 +76761,7 @@ Ebreo che odia sé stesso
 Eburacum
 Eccellenza 2017-2018
 Eccellenza Liguria 2016-2017
+Eccellenza Lombardia 1992-1993
 Eccentricità (orbita)
 Eccentricità orbitale
 Eccidio dei Varano
@@ -76474,6 +76778,7 @@ Echinoidea
 Echiura
 Echo, il delfino
 Ecista
+Eclipse
 Eclipse (informatica)
 Eclipse Foundation
 Eclipso
@@ -76771,6 +77076,7 @@ Elefante africano
 Elefante da guerra
 Elektra Bregenz
 Elektra Records
+Elektron (lega)
 Eleme (Nigeria)
 Elemedia
 Elementary (serie televisiva)
@@ -77088,6 +77394,7 @@ Elezioni presidenziali in Guinea del 2015
 Elezioni presidenziali in Guinea del 2020
 Elezioni presidenziali in Guinea del 2025
 Elezioni presidenziali in India del 2017
+Elezioni presidenziali in Mauritania del 1997
 Elezioni presidenziali negli Stati Uniti d'America del 1796
 Elezioni presidenziali negli Stati Uniti d'America del 1836
 Elezioni presidenziali negli Stati Uniti d'America del 1840
@@ -77719,6 +78026,7 @@ Episodi di L'incredibile Hulk (terza stagione)
 Episodi di L'ora di Hitchcock (seconda stagione)
 Episodi di Lancer (seconda stagione)
 Episodi di Law & Order - Il verdetto
+Episodi di Le ragazze del centralino (seconda stagione)
 Episodi di Low Winter Sun
 Episodi di Major Crimes (seconda stagione)
 Episodi di Melrose Place (prima stagione)
@@ -77907,6 +78215,7 @@ Erede presuntivo
 Ereditarietà (informatica)
 Ereditarietà genetica
 Ereditarietà multipla
+Eredivisie 1966-1967
 Eredivisie 1986-1987
 Eremitaggio
 Eresidae
@@ -77948,6 +78257,7 @@ Erich Koch
 Erich Raeder
 Erich Rutemöller
 Erich Segal
+Erich Zander
 Erich Zawinul
 Erich von dem Bach-Zelewski
 Eridu
@@ -77964,6 +78274,7 @@ Erika Okuda
 Erika Sawajiri
 Erin O'Toole
 Erin Routliffe
+Erin Thorn
 Erina Hayase
 Erina Nakayama (attrice)
 Erinaceus europaeus
@@ -78315,6 +78626,7 @@ Euphorbia pithyusa
 Euplectes progne
 Eureka Email
 Euripide
+Euro Dance 5
 Euro disco
 EuroChallenge 2008-2009
 EuroCup Women
@@ -78444,6 +78756,7 @@ Evita (musical)
 Evita Perón
 Evolution (software)
 Evoluzione
+Evoluzione molecolare
 Evoluzione stellare
 Evoluzione territoriale degli Stati Uniti d'America
 Evron
@@ -78552,6 +78865,7 @@ FD Trinitron/WEGA
 FDJ (ciclismo)
 FFG Prag FG 227
 FGIN-127
+FIA Alternative Energies Cup 2012
 FIAT Torino (pallacanestro femminile)
 FIBA Americas Championship
 FIBA Americas Championship 1992
@@ -78560,6 +78874,7 @@ FIBA Europe
 FIBA Europe Cup 2020-2021
 FIBA European Champions Cup 1980-1981
 FIFA Futsal World Cup
+FIGlet
 FIMI (azienda)
 FIRST
 FK DAC 1904 Dunajská Streda
@@ -78882,6 +79197,7 @@ Federico Augusto di Anhalt-Dessau
 Federico Barbarossa
 Federico Bebi
 Federico Campaiola
+Federico Cherubini
 Federico Confalonieri
 Federico Di Pofi
 Federico Fellini
@@ -79135,6 +79451,7 @@ Festival internazionale del cinema di Berlino
 Festival internazionale del cinema di San Sebastián
 Festival internazionale del film di Roma
 Festival musicale
+Festival scacchistico internazionale di Padova
 Festival teatro canzone Giorgio Gaber
 Festivalbar
 Festività romane
@@ -79163,6 +79480,7 @@ Fidelity Investments
 Fidia (azienda)
 FidoNet
 Fielder Cook
+Fiend Without a Face
 Fiera Milano
 Fieseler F 5
 Fieseler Fi 103
@@ -79720,6 +80038,7 @@ Fokker D.XXI
 Fokker F.VI
 Folclore
 Folclore d'Italia
+Folco II d'Angiò
 Folco Portinari (saggista)
 Folgoso de la Ribera
 Foligno
@@ -80401,6 +80720,7 @@ Freccia del tempo
 Frecciarossa
 Fred Astaire
 Fred Astaire (serie televisiva)
+Fred Burns
 Fred Cruz
 Fred Ebb
 Fred Friday
@@ -80764,6 +81084,7 @@ Fußballclub Carl Zeiss Jena
 Fußballclub Ingolstadt 04
 Fußballclub Viktoria Köln 1904
 Fußballsportverein Frankfurt 1899
+Fußballsportverein Frankfurt 1899 2016-2017
 Fußballverein Illertissen 1921
 Fær Øer
 Fèves
@@ -81464,6 +81785,7 @@ Germana Dominici
 Germana Longo
 Germani
 Germania
+Germania (Costa Rica)
 Germania (provincia romana)
 Germania Est ai Giochi olimpici
 Germania Ovest
@@ -81757,6 +82079,7 @@ Giles Fletcher il Vecchio
 Gilgameš
 Gilippo
 Gillette Stadium
+Gillian Rubinstein
 Gillingham Football Club 2010–2011
 Gillingham Football Club 2011-2012
 Gimel-les-Cascades
@@ -81995,6 +82318,7 @@ Giovanni Battista Libero Badarò
 Giovanni Battista Rampoldi
 Giovanni Battista Re
 Giovanni Boccaccio
+Giovanni Boi
 Giovanni Brunero
 Giovanni Brusatori
 Giovanni Cheli
@@ -82076,6 +82400,7 @@ Giro di Lombardia
 Giro di Lombardia 1927
 Giro di Lombardia 1931
 Giro di Lombardia 1933
+Giro di Sardegna 1997
 Giro di Svizzera
 Giro di Svizzera 1933
 Giro di Svizzera 1934
@@ -82253,6 +82578,7 @@ Giuseppe Berto
 Giuseppe Bertolucci
 Giuseppe Bonaparte
 Giuseppe Burzio
+Giuseppe Castelli (architetto)
 Giuseppe Catalani
 Giuseppe Cocchiara
 Giuseppe Colla
@@ -82976,6 +83302,7 @@ Grand Est
 Grand Nancy Volley-Ball 2019-2020
 Grand Palais
 Grand Prix (tennis)
+Grand Prix Hassan II 1987
 Grand Rapids (Michigan)
 Grand River (Dakota del Sud)
 Grand Royal
@@ -83141,6 +83468,7 @@ Greve in Chianti
 Grey December
 Greyhawk
 Grezzago
+Grieder
 Griff
 Grigio
 Grignols (Gironda)
@@ -83497,6 +83825,7 @@ Guitar World
 Guittone d'Arezzo
 Gujan-Mestras
 Gujarat
+Guldbagge 1969
 Gulfport (Mississippi)
 Gumond
 Gunboat diplomacy
@@ -84872,6 +85201,7 @@ Hypsosinga
 Hysteria (The Human League)
 Hänsel e Gretel
 Håkon Skogseid
+Hébertville
 Héctor Rial
 Hémilly
 Héming
@@ -85860,6 +86190,7 @@ Incognito (film 1999)
 Incognito (gruppo musicale)
 Incompatible Timesharing System
 Inconscio
+Incontenibile
 Incoronazione della Regina Elisabetta II
 Incoronazione della regina Elisabetta II
 Incoronazione di re Carlo III e della regina Camilla
@@ -85881,6 +86212,7 @@ Indel B
 Indemoniato (film)
 Independence (Missouri)
 Independence Day
+Independent Spirit Award (Empire Awards)
 Independent Spirit Award per il miglior montaggio
 Independent Spirit Awards
 Independent Spirit Awards 2019
@@ -86073,6 +86405,7 @@ Inside Björk
 Inside Out II
 Inside Out Music America
 Insiders
+Insieme (Vanoni Paoli)
 Insight (serie televisiva)
 Insigne e Reale Ordine di San Gennaro
 Insigne e reale ordine di San Gennaro
@@ -86379,6 +86712,7 @@ Irruzione di via Fracchia
 Irvin McDowell
 Irvine (California)
 Irving Berlin
+Irving Fryar
 Irving Rapper
 Irwin Allen
 Iré-le-Sec
@@ -86443,6 +86777,7 @@ Island Records
 Islanda
 Islanda ai XVII Giochi olimpici invernali
 Isle-Saint-Georges
+Ismaning Challenger 2022
 Isn't It Romantic? (Chet Baker)
 Isn't She Lovely?
 Isobel
@@ -86781,6 +87116,7 @@ Jack Snow
 Jack Starrett
 Jack Stokes
 Jack T. Chance
+Jack Thibeau
 Jack Tworkow
 Jack Twyman
 Jack W. Szostak
@@ -87328,6 +87664,7 @@ Jessye Norman
 Jesús Franco
 Jesús Garay (calciatore)
 Jesús María Pereda
+Jesús María Pérez
 Jesús Piñero
 Jet Propulsion Laboratory
 Jethro Tull (gruppo musicale)
@@ -87464,6 +87801,7 @@ Joe Brennan
 Joe Chill
 Joe Cocker
 Joe Colombo (Music)
+Joe Daley
 Joe Dumars
 Joe Fulks
 Joe Galli
@@ -87802,6 +88140,7 @@ John Wooden
 John Young (politico)
 John Young Mason
 John Zachery Young
+John Zaremba
 John and the Hole
 John de Lancie
 John van Salee de Grasse
@@ -87919,6 +88258,7 @@ Joseph Chamberlain
 Joseph Cinque
 Joseph Demicoli
 Joseph Ducreux
+Joseph Duncan (politico)
 Joseph E. Hallonquist
 Joseph Eggleston Johnston
 Joseph Erlanger
@@ -87958,6 +88298,7 @@ Josh Childress
 Josh Freeman
 Josh Howard
 Josh McLaglen
+Josh McRoberts
 Josh Mostel
 Josh Trank
 Joshua Chamberlain
@@ -87984,6 +88325,7 @@ José López Rega
 José María Orúe
 José María Sánchez
 José María Zárraga
+José Nilson dos Santos Silva
 José Padilha
 José Patiño Rosales
 José Ricardo Barbosa Ribeiro Drumond
@@ -88025,6 +88367,7 @@ Juan Carlos Blanco Estrade
 Juan Carlos I di Spagna
 Juan Carlos di Borbone
 Juan Evangelista Venegas
+Juan Gil Navarro
 Juan Gisbert
 Juan Manuel Santos
 Juan María Bordaberry
@@ -88120,6 +88463,7 @@ Julius Lenhart
 Julius Lothar Meyer
 Julius Streicher
 Julius Wagner-Jauregg
+Julodinae
 Julvécourt
 Jumbotron
 Jumilhac-le-Grand
@@ -88371,6 +88715,7 @@ Kanō Jigorō
 Kaohsiung Challenger 2007
 Kaori Yamamoto
 Kapogea
+Kappa (lettera greca)
 Kappa (mitologia)
 Kappelkinger
 Kapust
@@ -88378,6 +88723,7 @@ Kara Braxton
 Kara Zor-El
 Karachi
 Karakoro (Mali)
+Karancskeszi
 Karasu
 Karate
 Kareem Abdul-Jabbar
@@ -88499,6 +88845,7 @@ Kawhi Leonard
 Kay Yow
 Kayes
 Kayfabe
+Kayoa
 Kayqubad I
 Kazakistan
 Kazakistan ai XVII Giochi olimpici invernali
@@ -88868,6 +89215,7 @@ Koninklijke Racing Club Genk
 Konkan
 Konnan
 Konojedy
+Konosuba! - This Wonderful World
 Konqueror
 Konrad Adenauer
 Konrad Burdach
@@ -89001,6 +89349,7 @@ Kurt Weill
 Kurumamichi (metropolitana di Nagoya)
 Kusuma Karunaratne
 Kutha
+Kutzenhausen (Germania)
 Kuwait
 Kuwait Air Force
 Kuznetsov NK-10
@@ -89924,6 +90273,7 @@ Laura Boccanera
 Laura Casarotto
 Laura Cosenza
 Laura Fraser
+Laura Fygi
 Laura Innes
 Laura Johnson
 Laura Landi
@@ -90037,6 +90387,7 @@ Le Puid
 Le Puy (Gironda)
 Le Rheu
 Le Roulier
+Le Samyn 2022
 Le Saulcy
 Le Scienze
 Le Superchicche
@@ -90205,6 +90556,7 @@ Legend (film 2015)
 Legendary Pictures
 Legends of Tomorrow
 Legends of the Superheroes
+Leges Antoniae
 Leges Liciniae Sextiae
 Legge 20 luglio 2004, n. 189
 Legge Acerbo
@@ -90268,6 +90620,7 @@ Lehigh (Iowa)
 Lei (rete televisiva)
 Lei'd in Hawaii
 Leib Groner
+Leibnitz
 Leicester City Football Club 2010-2011
 Leicester City Football Club 2011-2012
 Leicester Square
@@ -90438,6 +90791,7 @@ Les Amants terribles
 Les Angles-sur-Corrèze
 Les Artigues-de-Lussac
 Les Billaux
+Les Bordes-sur-Lez
 Les Esseintes
 Les Forges (Vosgi)
 Les Frères corses (film)
@@ -91200,6 +91554,7 @@ Linguistica sincronica
 Linguistica storica
 Linguistica testuale
 Linguistics
+Linguère
 Linimo
 Links
 Linneo
@@ -91767,6 +92122,7 @@ Love Light in Flight
 Love Machine (Girls Aloud)
 Love Me Do
 Love Never Felt So Good
+Love Outside the Window
 Love So Soft
 Love Song (Chet Baker)
 Love Songs (The Beatles)
@@ -92200,6 +92556,7 @@ Lynn Stalmaster
 Lynne Thigpen
 Lynx (software)
 Lynx rufus
+Lyskamm
 Lyssa Drak
 László Cseh
 Lázaro Cárdenas (Michoacán)
@@ -92314,6 +92671,7 @@ MTV (Italia)
 MTV Europe Music Award
 MTV Europe Music Awards
 MTV Europe Music Awards 2003
+MTV Europe Music Awards 2013
 MTV Movie & TV Awards
 MTV Movie Award
 MTV Movie Award al miglior cattivo
@@ -92382,6 +92740,7 @@ Macello (Italia)
 Macerata
 Macerata Campania
 Macerata Feltria
+Macey (Manica)
 Mach (kernel)
 Macheren
 Machismo
@@ -92624,6 +92983,7 @@ Maki Sakai
 Making Money
 Makoto (musicista)
 Makoto Nonomura
+Maksim Bel'kov
 Maksim Gor'kij
 Maksym Jevtušenko
 Maksïm Şevçenko
@@ -92701,6 +93061,7 @@ Mami (Piso 21 e Black Eyed Peas)
 Mami Nishino
 Mamirolle (film)
 Mamma Mia (ABBA)
+Mamma Natale
 Mammalia
 Mammiferi
 Mammiferi marini
@@ -92780,6 +93141,7 @@ Manishtusu
 Manlio Dovì
 Manly
 Manna (album)
+Mannhai
 Mannheim
 Mannie Jackson
 Mannix
@@ -93197,6 +93559,7 @@ Marie Wilson
 Marie de Hennezel
 Marie-Antoinette (miniserie televisiva)
 Marie-Jeanne Bécu, contessa Du Barry
+Mariehamn
 Mariella Nava
 Marienlyst Stadion
 Marieulles
@@ -93326,6 +93689,7 @@ Mark Waid
 Mark Warkentien
 Mark Waters
 Mark Watson-Gandy
+Mark e Martha
 Marketing
 Marko Kon
 Marko Pantić
@@ -93456,6 +93820,7 @@ Martinópolis
 Martinček
 Martire
 Martiri dei massacri di settembre
+Martiri di Fiesole
 Martiri di Otranto
 Martirio (cristianesimo)
 Martirio (ebraismo)
@@ -93886,6 +94251,7 @@ Mayré Martínez
 Mazara del Vallo
 Mazda
 Mazeley
+Mazeppa (Minnesota)
 Mazion
 Mazirot
 Maziya Sports and Recreation Club
@@ -93897,6 +94263,7 @@ Mazères (Gironda)
 Maëlia Gentil
 Maîtresse-en-titre
 Maïwenn
+Mbazi (Nyamagabe)
 McComb (Mississippi)
 McCoy (serie televisiva)
 McDonald's
@@ -94813,6 +95180,7 @@ Mighty Fine
 Mighty Magiswords
 Mighty ReArranger
 Migidae
+Migidio Bourifa
 Miglio (unità di misura)
 Miglio nautico
 Migliori marcatori NBA
@@ -94956,6 +95324,7 @@ Milton Keynes Dons Football Club 2011-2012
 Milton-Freewater
 Milvus migrans
 Milwaukee Bucks
+Milwaukee Bucks 1972-1973
 Milza
 Milza accessoria
 Milze
@@ -95154,6 +95523,7 @@ Mittersheim
 Mittlefest
 Miturgidae
 Mitzi McCall
+Mitzvah
 Mivar
 Miwako Wagatsuma
 Mix Master Mike
@@ -95495,6 +95865,7 @@ Monte Bubbonia
 Monte Bussaia
 Monte Carlo
 Monte Carlo Open 1973
+Monte Carlo Rolex Masters 2010 - Doppio
 Monte Carlo quantistico
 Monte Castelo (San Paolo)
 Monte Cavallo (Italia)
@@ -95548,6 +95919,7 @@ Montes di Plutone
 Montes di Venere
 Montes lunari
 Montesacro
+Montesanto (Sellano)
 Montesquieu
 Monteu da Po
 Montevarchi Calcio Aquila 1902 1984-1985
@@ -95619,6 +95991,7 @@ Moombahton
 Moon (Björk)
 Moon Hyun-sung
 Moonbase
+Moonbase 8
 Moonbeam (singolo)
 Mooney M20
 Moonlander
@@ -95703,6 +96076,7 @@ Morte di san Francesco (Annibale Carracci)
 Morten Meldal
 Morten Olsen
 Morterone
+Morti nel 453
 Morti nel 697
 Morto vivente
 Morton Feldman
@@ -95962,6 +96336,7 @@ Mummia del Similaun
 Mumok
 Munetaka Aoki
 Munich Machine
+Munichia
 Municipal Corporations Act 1835
 Municipal Olympique Mougins Volley-ball 2019-2020
 Municipalità del Giappone
@@ -96007,6 +96382,7 @@ Murry Wilson
 Murs-et-Gélignieux
 Murutinga do Sul
 Murvaux
+Musa itinerans
 Musashino
 Muscolo
 Muscolo quadricipite
@@ -96597,6 +96973,7 @@ Nati il 1º maggio
 Nati l'8 marzo
 Nati nel 1858
 Nati nel 1992/Ottobre
+Nati nel 600
 Nation (romanzo)
 National Academy of Recording Arts and Sciences
 National Aerospace Development Administration
@@ -97292,6 +97669,7 @@ Nicollette Sheridan
 Nicolás García (calciatore)
 Nicolás Rossi (calciatore 2002)
 Nicolás Stefanelli
+Nicolò Massa (musicista)
 Nicomedia
 Nicosia
 Nicosia Lawson
@@ -97597,6 +97975,7 @@ North American Soccer League
 North American Soccer League (2011)
 North American XF-108 Rapier
 North American YF-93
+North Eastham
 North Jersey
 North Las Vegas
 North Miami (Florida)
@@ -97663,6 +98042,7 @@ Notte dei cristalli
 Notte dei poeti assassinati
 Notte delle matite
 Notte di mezza estate
+Notte di piaceri
 Notte e nebbia
 Notte folle a Manhattan
 Notte più lunga
@@ -98817,6 +99197,7 @@ Ospedale psichiatrico di Teramo
 Ospedale psichiatrico giudiziario
 Ospite
 Ospite (biologia)
+Ossendrecht
 Osservatori dell'Assemblea generale delle Nazioni Unite
 Osservatorio Jodrell Bank
 Osservatorio di Greenwich
@@ -99041,6 +99422,7 @@ Paco Ignacio Taibo II
 Paco, el elegante
 Pacullidae
 Paddle
+Paddy Moore
 Paderno d'Adda
 Padoux
 Padova
@@ -99095,6 +99477,7 @@ Pajares de los Oteros
 Pajewo-Cyty
 Paju (film)
 Pakistan
+Pala di Londra
 Pala di San Pietro di Muralto
 PalaBanca
 PalaBassano
@@ -99536,6 +99919,7 @@ Parco dei Mulini
 Parco del Medio Olona
 Parco dell'Adda Nord
 Parco delle grotte del Río Camuy
+Parco di Colfiorito
 Parco locale del bosco di Legnano
 Parco naturale regionale di Portofino
 Parco nazionale Botum Sakor
@@ -99584,6 +99968,7 @@ Park Chan-wook
 Park Hong-soo
 Park Hyoung-ik
 Park Lane
+Parker Brothers
 Parker Lewis
 Parker Sawyers
 Parker Young
@@ -99626,6 +100011,7 @@ Parrocchia
 Parrocchia di Tensas
 Parrocchie della Louisiana
 Parroco
+Parsau
 Parsec
 Parser
 Part-Time Lover
@@ -99905,6 +100291,7 @@ Paul Gascoigne
 Paul Gerken
 Paul Glass
 Paul Greengard
+Paul Grégoire
 Paul Hamm
 Paul Hermann Müller
 Paul Hildgartner
@@ -99930,6 +100317,7 @@ Paul Newman
 Paul Nurse
 Paul Oakenfold
 Paul Pfeiffer
+Paul Picot
 Paul Pierce
 Paul Rachman
 Paul Rassinier
@@ -100002,6 +100390,7 @@ Pavshim druzjiam
 Paweł Leończyk
 Pawhuska
 Pawnee
+Pax Baldwin
 Pay TV
 Pay tv
 Pay-per-view
@@ -100392,6 +100781,7 @@ Peter Carington, VI barone Carrington
 Peter Carruthers
 Peter Charles Doherty
 Peter Charlton
+Peter Cipollone
 Peter Darling
 Peter De Clercq
 Peter Dennis Mitchell
@@ -100467,6 +100857,7 @@ Petit-Tenquin
 Petite-Rosselle
 Petra Kvitová
 Petrarca
+Petrez Williams
 Petri Heino
 Petriolo
 Petrolchimica
@@ -100543,6 +100934,7 @@ Philip Dunne
 Philip Glass
 Philip Glenister
 Philip Guston
+Philip Hellquist
 Philip Henry Sheridan
 Philip Henson
 Philip Kissick Lawrence
@@ -100793,6 +101185,7 @@ Pietro Aldobrandini
 Pietro Badoglio
 Pietro Bembo
 Pietro Biondi
+Pietro Branchina
 Pietro D'Elia
 Pietro Gazzera
 Pietro Grasso
@@ -101415,6 +101808,7 @@ Port Vale Football Club 2010–2011
 Port Vale Football Club 2011-2012
 Porta (informatica)
 Porta PS/2
+Porta Romana (Firenze)
 Porta Scea
 Porta parallela
 Portabilità
@@ -101668,6 +102062,7 @@ Preah Palilay
 Preah Pithu
 Preah Vihear Protected Forest
 Prealpi
+Prealpi della Chartreuse
 Preben Elkjær Larsen
 Preben Langdal
 Preboot Execution Environment
@@ -101831,6 +102226,7 @@ Premio Locus per il miglior libro per ragazzi
 Premio Lunezia
 Premio MVP della Major League Soccer
 Premio Marcello Mastroianni
+Premio Masterton
 Premio Nebula
 Premio Nobel
 Premio Nobel per la Fisica
@@ -101853,6 +102249,7 @@ Premium Crime
 Première Ligue de Soccer du Québec
 Premolare
 Premolo
+Premuda (esploratore)
 Prendere o lasciare (Alex Britti)
 Prenome
 Prequel
@@ -102108,6 +102505,7 @@ Principe
 Principe Ivan
 Principe delle Asturie
 Principe di Galles
+Principe di Ligne
 Principe di Piemonte
 Principe elettore
 Principessa
@@ -103138,6 +103536,7 @@ Raker Qarrigat
 Raleigh (Carolina del Nord)
 Rallentatore
 Rally di Finlandia 2003
+Rally di Svezia 2022
 Ralph Baer
 Ralph Bellamy
 Ralph Block
@@ -103934,6 +104333,7 @@ Resistenza olandese
 Resistenza polacca
 Resistenza sovietica
 Resistenza tedesca
+Resistenzialismo versus resistenza
 Resistività elettrica
 Resistore
 Respect
@@ -104970,6 +105370,7 @@ Ronnie Milsap
 Ronny Rothschild
 Ronvaux
 Ronzino
+Root (Person of Interest)
 Root Down
 Root Down EP
 Roperuelos del Páramo
@@ -105016,6 +105417,7 @@ Rosiers-de-Juillac
 Rosita, la Monstrua de las Cuevas
 Rositz
 Roslind Godlovitch
+Rosmunda (singolo)
 Rosolia
 Rospez
 Ross Case
@@ -105909,6 +106311,7 @@ Salò o le 120 giornate di Sodoma
 Sam & Dave
 Sam Adams
 Sam Barry
+Sam Billie Bill
 Sam Bird
 Sam Catlin
 Sam Cooke
@@ -106144,6 +106547,7 @@ Sanniti
 Sanremese Calcio
 Sanremese Calcio 1984-1985
 Sanremo
+Sanremo Open 1990 - Singolare
 Sanremo Tennis Cup 2007
 Sanry-lès-Vigy
 Sanry-sur-Nied
@@ -106193,6 +106597,7 @@ Santa Maria Capua Vetere
 Santa Maria Hoè
 Santa Maria da Serra
 Santa Maria del Soccorso (metropolitana di Roma)
+Santa Maria della Salute a Primavalle (titolo cardinalizio)
 Santa Maria di Rambona
 Santa Marina del Rey
 Santa María de Dulcis
@@ -106253,8 +106658,10 @@ Santo Tomé (Corrientes)
 Santo patrono
 Santo vs. The Clones
 Santos
+Santos Cabrera
 Santosh Sivan
 Santovenia de la Valdoncina
+Santuario dell'Incidella
 Santuario della Madonna dell'Icona
 Santuario della Madonna delle Grazie (Teramo)
 Santópolis do Aguapeí
@@ -106564,6 +106971,7 @@ Schlitzie
 Schmittviller
 Schmölln
 Schneckenbusch
+Schola Cantorum Aetnensis
 Scholar
 Schopfheim
 Schorbach
@@ -106916,6 +107324,7 @@ Seisenshi Dunbine
 Seisonoidea
 Seito Shokun!
 Seiyō Uchino
+Sekou Oliseh
 Sela (Star Trek)
 Sela Ward
 Selciato del gigante
@@ -107011,6 +107420,7 @@ Sentimentalismo
 Sentinum
 Sentō Meka Xabungle
 Senza di loro l'inferno è vuoto
+Senza limite
 Senza limiti (film 1989)
 Senza ragione
 Senza scopo di lucro
@@ -107066,6 +107476,7 @@ Serdica
 Seregno
 Serena Rossi
 Serena Verdirosi
+Serena Viviani
 Serena Williams
 Serenissima
 Serenissima Repubblica di Venezia
@@ -107240,6 +107651,7 @@ Serie A2 2022-2023 (pallacanestro maschile)
 Serie B
 Serie B (pallacanestro femminile)
 Serie B (pallavolo maschile)
+Serie B 1967-1968 (pallacanestro femminile)
 Serie B 1984 (calcio femminile)
 Serie B 1984-1985
 Serie B 1985 (calcio femminile)
@@ -107674,6 +108086,7 @@ Siderite
 Siderurgia
 Sideways (album Men Without Hats)
 Sideways (singolo Men Without Hats)
+Sidi Boumoussa
 Sidibéla
 Sidney (Montana)
 Sidney J. Furie
@@ -108175,6 +108588,7 @@ Smirne
 Smita Bhide
 Smite
 Smith & Wesson
+Smith Island (Maryland)
 Smithfield (Londra)
 Smoke Abatement Act
 Smokey Robinson
@@ -108367,6 +108781,7 @@ Soldier's Fortune
 Sole (divinità)
 Sole Luna Doc-film Festival
 Solenogastres
+Solfara Pietre bianche
 Solfato ferrico ammonico
 Solgne
 Solid Gold Hits
@@ -108686,6 +109101,7 @@ Spartiacque
 Spartito
 Spartizioni della Polonia
 Spasibo (Nikolaj Noskov)
+Spathariko
 Spatiatoridae
 Spaventapasseri (DC Comics)
 Spaventapasseri (Il mago di Oz)
@@ -109613,6 +110029,7 @@ Steven Eckholdt
 Steven Heine
 Steven Jackson (giocatore di football americano)
 Steven Knight
+Steven Lindsey
 Steven Lovy
 Steven Meisel
 Steven Michael Quezada
@@ -110031,6 +110448,7 @@ Stress da vampiro
 Stressati
 Stretch Murphy
 Stretto di Messina
+Stretto di Wetar
 Strike Fighters Flight Simulator
 Strikeforce
 String skipping
@@ -110118,6 +110536,7 @@ Sturm und Drang
 Sturmabteilung
 Sturnidae
 Sturzelbronn
+Stuttgart Masters 2000 - Qualificazioni singolare
 Style Wars
 Stylocidaris affinis
 Stylus Magazine
@@ -110166,6 +110585,7 @@ Suddivisioni dell'India
 Suddivisioni della Birmania
 Suddivisioni della Bosnia ed Erzegovina
 Suddivisioni della Corea del Nord
+Sudeste Rio-Grandense
 Sudeti
 Sudovo Hlavno
 Sue Gunter
@@ -110221,6 +110641,7 @@ SummerSlam (2013)
 Summertime (brano musicale)
 Summit (New Jersey)
 Summit (supercomputer)
+Summorum Pontificum
 Sumner (Washington)
 Sumner Welles
 Sun Coast
@@ -110272,6 +110693,7 @@ Super Formation Soccer 95: della Serie A
 Super Formation Soccer 96: World Club Edition
 Super Friends
 Super Hits (album Earth, Wind & Fire)
+Super League 2020-2021 (calcio femminile Belgio)
 Super Size Me
 Super Smash Bros. Brawl
 Super Smash Bros. Ultimate
@@ -110598,6 +111020,7 @@ Synthpunk
 Syraka
 Syrakousai
 Syreeta Wright
+Syriac
 Syskey
 Sysprep
 System Idle Process
@@ -111156,6 +111579,7 @@ Telescopio Spaziale Spitzer
 Telescopio robotico
 Telescrivente
 Telespettatore
+Telestar
 Telestes souffia
 Teletext
 Telethon
@@ -111234,6 +111658,7 @@ Tempo di Planck
 Tempo di reazione
 Tempo di sistema
 Tempo esadecimale
+Tempo medio di indisponibilità
 Tempo metrico
 Tempo newtoniano nelle scienze economiche
 Tempo profondo
@@ -111249,6 +111674,7 @@ Ten Years of Harmony
 TenFourFox
 Tenacità
 Tenaris
+Tenax (Firenze)
 Tenay
 Tencent
 Tencent Holdings
@@ -111809,6 +112235,7 @@ The Fairylogue and Radio-Plays
 The Fall of the House of Usher (opera)
 The Fiddler of the Reel
 The Fifth Elephant
+The Fight
 The Fighting Brothers
 The Firemen
 The Firemen 2: Pete & Danny
@@ -111838,6 +112265,7 @@ The Ghosts of Versailles
 The Giant of Thunder Mountain
 The Girl Is Mine
 The Girl You Lost to Cocaine
+The Girl of the West
 The Glory Boys
 The Golden Age (fumetto)
 The Grandmaster
@@ -111901,6 +112329,7 @@ The John Butler Trio
 The Journeys and the Experiences of Death
 The Juniper Tree (film)
 The KLF
+The Kentuckian
 The Key to Reserva
 The Kid from Not-So-Big
 The Kids (Jamiroquai)
@@ -112055,6 +112484,7 @@ The Red Skelton Show
 The Red Spectacles
 The Return of Amy Winehouse
 The Return of Amy Winehouse in Europe
+The Return of Draw Egan
 The Return of the Space Cowboy
 The Revenant (romanzo)
 The Reykjavik Grapevine
@@ -112262,6 +112692,7 @@ Think for Yourself
 Thiomargarita magnifica
 Thionville
 Thiraucourt
+Third World (album)
 Thirteen - 13 anni
 Thirty Minute Theatre
 Thiruvananthapuram
@@ -112337,6 +112768,7 @@ Thomas Woolner
 Thomas de Camoys
 Thomas von Heesen
 Thomas-Morse XP-13 Viper
+Thomaz Koch
 Thomisidae
 Thommanon
 Thommy Hutson
@@ -112630,6 +113062,7 @@ Tom DeNucci
 Tom Dumoulin
 Tom Edlefsen
 Tom Farnell
+Tom Fillingham
 Tom Foley
 Tom Gehrels
 Tom Gibson
@@ -112703,6 +113136,7 @@ Tomoki Hirose
 Tomora
 Tomorrow Never Knows
 Tomorrow Never Knows (album)
+Tomoya Ugajin
 Tomoyuki Ishida
 Toms River
 Tonalità (musica)
@@ -113000,6 +113434,7 @@ Touring Club Italiano
 Tournée
 Tours
 Tours Volley-Ball 2019-2020
+Tourtrès
 Toussieux
 Tower 42
 Tower Bridge
@@ -113393,6 +113828,7 @@ Trinità (cristianesimo)
 Trins
 Trinwillershagen
 Triodo
+Triopha maculata
 Triossido di xeno
 Trip hop
 Triple Crown Championship
@@ -113505,6 +113941,7 @@ Tsunami
 Tsurumai Line
 Tsurusato (metropolitana di Nagoya)
 Tu Youyou
+Tu che m'ascolti insegnami
 Tu che ne sai
 Tu vuò fa l'americano (Gigi D'Alessio)
 TuS Düsseldorf Nord 2017-2018
@@ -114007,6 +114444,7 @@ Un angelo poco... custode
 Un asso nella manica
 Un bon patriote
 Un cappello pieno di stelle
+Un colpo da due miliardi
 Un colpo perfetto
 Un cuore in inverno
 Un cuore malato
@@ -114018,6 +114456,7 @@ Un lupo mannaro americano a Londra
 Un maggiolino tutto matto
 Un magnifico ceffo da galera
 Un marziano di nome Ennio
+Un milione di anni fa
 Un monello alla corte d'Inghilterra
 Un nuovo amore
 Un nuovo bacio
@@ -114505,6 +114944,7 @@ Urina
 Urlatori alla sbarra
 Urmet
 Urochordata
+Uroš Drezgić
 Ursa (DC Comics)
 Ursa (zoologia)
 Ursidae
@@ -115384,6 +115824,7 @@ Vicepresidente degli Stati Uniti d'America
 Vicepresidenti dell'India
 Vicequestore aggiunto
 Viceregno di Napoli
+Viceré
 Viceré d'Irlanda
 Vicesindaco
 Vicherat
@@ -115677,6 +116118,7 @@ Vira (disambigua)
 Vira Carbone
 Vira Nirvana Samvat
 Viradouro
+Viral
 Virelade
 Viremia
 Virgaviridae
@@ -115813,6 +116255,7 @@ Vite a legno
 Vitellio
 Vitello tonnato
 Viterbo
+Vitinho (calciatore aprile 1999)
 Vitomil Zupan
 Vitrac-sur-Montane
 Vitroselenia
@@ -115825,6 +116268,7 @@ Vittime della seconda guerra mondiale
 Vittime delle Brigate Rosse
 Vittoncourt
 Vittore Pisani
+Vittoria (Italia)
 Vittoria Febbi
 Vittoria Luisa di Borbone-Francia
 Vittoria d'Assia-Darmstadt
@@ -115858,6 +116302,7 @@ Vittorio Silvestrucci
 Vittorio Vighi
 Vitória Brasil
 Vitória Sport Clube
+Viva Forever
 Viva l'Italia (film 2012)
 Viva la vida (Coldplay)
 Vivaldi
@@ -115869,6 +116314,7 @@ Vivere e morire a Los Angeles
 Vivere senza di te
 Vivi (Gigi D'Alessio)
 Vivian Campbell
+Viviana Ballabio
 Vivien Bridson
 Vivien Leigh
 Viviers (Mosella)
@@ -115964,9 +116410,11 @@ Volley Treviso 2011-2012
 Volley-Ball Club Chamalières 2019-2020
 Volley-Ball Nantes 2019-2020
 Vollmershain
+Vollore-Ville
 Volmerange-les-Mines
 Volmerange-lès-Boulay
 Volmunster
+Volo Batik Air 7703
 Volontari delle Nazioni Unite
 Volontari per destinazione ignota
 Volontà di vivere
@@ -115987,6 +116435,7 @@ Volturno
 Volumen (DVD)
 Volumen Plus
 Volvera
+Volvo PV
 Vomécourt
 Vomécourt-sur-Madon
 Von Flores
@@ -116239,6 +116688,7 @@ Wargame
 WarioWare: Smooth Moves
 Waris Dirie
 Warlock - L'angelo dell'apocalisse
+Warlus
 Warner Bros.
 Warner Bros. Animation
 Warner Bros. Discovery
@@ -116465,6 +116915,7 @@ White Hart Lane
 White Horse (New Jersey)
 White Knuckle Ride
 White League
+White Lion
 White Star Line
 White pride
 Whitechocolatespaceegg
@@ -116494,6 +116945,7 @@ Wichita Falls
 Wichita Vortex Sutra
 Wicked (musical)
 Widescreen
+Widmann (disambigua)
 Wiebe
 Wieck auf dem Darß
 Wieger
@@ -116527,6 +116979,7 @@ Wildebeest Society
 Wilderness (foresta)
 Wilderness Survival
 Wilfred Podestá
+Wilfried Puis
 Wilhelm Bauer
 Wilhelm Frick
 Wilhelm Furtwängler
@@ -117149,6 +117602,7 @@ Yann Malcor
 Yanni Regäsel
 Yao Ming
 Yardville
+Yasakani no Magatama
 Yasodharapura
 Yasuhiko Okudera
 Yasuko Matsuo
@@ -117331,6 +117785,7 @@ Zac Brown Band
 Zac Efron
 Zacapu
 Zacarias
+Zacarías González Velázquez
 Zach Edey
 Zach Muscat
 Zachariah Chandler
@@ -117408,6 +117863,7 @@ Ziggurat
 Ziggurat Interactive
 Zignago Vetro
 Zigomar (film 1964)
+Zigzag
 Zildjian
 Zilius Zox
 Zilla (zoologia)
@@ -117530,6 +117986,7 @@ transistor
 Álvares Florence
 Álvares Machado
 Álvaro Obregón (Michoacán)
+Álvaro Vaz de Almada, I conte di Avranches
 Álvaro de Carvalho
 Ángel Atienza
 Ángel Gabilondo

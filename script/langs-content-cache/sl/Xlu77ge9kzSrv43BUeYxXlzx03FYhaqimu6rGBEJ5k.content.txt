@@ -1,5 +1,5 @@
 revision: 4926636
-title: .357 Magnum
+title: .38 Special
 url: https://sl.wikipedia.org/wiki/.357_Magnum
 
 

@@ -1,5 +1,5 @@
 revision: 70399495
-title: Language
+title: Linguistics
 url: https://vi.wikipedia.org/wiki/Ti%E1%BA%BFng_Anh
 
 

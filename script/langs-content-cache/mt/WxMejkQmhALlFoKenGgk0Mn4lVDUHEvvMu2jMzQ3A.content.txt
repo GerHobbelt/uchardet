@@ -1,5 +1,5 @@
 revision: 267202
-title: Charles Vidor
+title: Claude Boissol
 url: https://mt.wikipedia.org/wiki/Vittorio_De_Sica
 
 
