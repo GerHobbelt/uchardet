@@ -1,5 +1,5 @@
 revision: 25164037
-title: Influenzavirus D
+title: Virus
 url: https://sr.wikipedia.org/wiki/Virus_gripa
 
 

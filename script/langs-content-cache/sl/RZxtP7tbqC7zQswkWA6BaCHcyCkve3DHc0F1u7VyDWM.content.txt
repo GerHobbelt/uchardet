@@ -1,5 +1,5 @@
 revision: 5845104
-title: .22 LR
+title: .22 Long
 url: https://sl.wikipedia.org/wiki/.22_LR
 
 

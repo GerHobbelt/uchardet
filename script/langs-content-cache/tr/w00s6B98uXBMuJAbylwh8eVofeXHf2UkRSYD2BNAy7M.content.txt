@@ -1,5 +1,5 @@
 revision: 29818598
-title: Leoncito Astronomical Complex
+title: "Custer G\xF6zlemevi"
 url: https://tr.wikipedia.org/wiki/G%C3%B6zlemevleri_listesi
 
 

@@ -1,5 +1,5 @@
 revision: 5788359
-title: Seznam mest na Finskem
+title: "\xC4\xE4nekoski"
 url: https://sl.wikipedia.org/wiki/Seznam_mest_na_Finskem
 
 

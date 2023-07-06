@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Kremlin ta’ Moska
-Tim nazzjonali tal-futbol tas-Slovakkja
-Marrara
-Ġnus Magħquda
-Dasyuridae
-Festival tal-Eurovision
-David Woodard
-Kung fu
-Wikiversità
-Derivata
-Suffiss
-Jamie Pace
-Aleksandr Yakovlevich Khinchin
-Tim nazzjonali tal-futbol tal-Ġermanja
-San Girgor Nażjanżenu
-Kastell ta' Kronborg
-François Couperin
-Reuben Gauci
-Samir Handanovič
-Kruċjata
-Korea ta' Fuq
-Angola
-Tupaja ta' saqajħ twal
-Rowen Muscat
-Lolly Debattista
-Premier League Malti 1930–31
-Norveġja
-Chow Chow
-Pangolin
-Arjan Swinkels
+Festival tal-Eurovision 2017
+Anastasia Golovina
+Aaron Camilleri Cauchi
+Esperantoloġija
+Thylophorops
+Diana Çuli
+Zond 5
+Swieqi United FC
+Chase Elliott
+-voru
+Storja tal-femminiżmu
+Catherine Middleton
+Fiġi
+Portugall
+Evangelista Menga
+Home Nations
+Carl Reiner
+Skarpan
+It-Trinità Mqaddsa
+Mabel Strickland
+Pajsaġġ tax-Xogħol fil-Minjieri ta' Cornwall u l-Punent ta' Devon
+Tallinn
+Mérida (Veneżwela)
+Jores Okore
+Tim nazzjonali tal-futbol tal-Iżrael
+Premier League Malti 1939–40
+Blagoje Marjanović
+Minusculodelphis
+Robert Tappan Morris
+Ġlormu
 'Verschlossene Auster' award
 -Għarab
 -faġija
@@ -761,6 +761,7 @@ Abades
 Abbas ibn Abd al-Muttalib
 Abbasidi
 Abbaye de Sellières
+Abbazija ta' Lorsch
 Abbey Road
 Abbottabad
 Abbozz ta' Drittijiet tal-Istati Uniti
@@ -1059,6 +1060,7 @@ Ajruport Internazzjonali ta' Punta del Este
 Ajruport Internazzjonali ta' Recife
 Ajruport Internazzjonali ta' Salvador
 Ajruport Internazzjonali ta' São Paulo-Guarulhos
+Ajruport Internazzjonali ta' Tan Son Nhat
 Ajruport Internazzjonali ta' Tocumen
 Ajruport Internazzjonali ta' Viru Viru
 Ajruport Internazzjonali ta' Zurich
@@ -1277,6 +1279,7 @@ Aleksandr Kuchma
 Aleksandr Lyapunov
 Aleksandr Trofimov
 Aleksandr Trophimov
+Aleksandr Yakovlevich Khinchin
 Aleksandr Zhidkov
 Aleksandro Silbernik
 Aleksandrs Cauņa
@@ -1525,6 +1528,7 @@ Alūksne
 Amadeus Austrian Music Awards
 Amami Oshima
 Amanda Busuttil
+Amanda Michalka
 Amantea
 Amapá
 Amar Jawan Jyoti
@@ -2104,6 +2108,7 @@ Aristotli
 Aritmetika
 Aritmetika modulari
 Arjan Bellai
+Arjan Swinkels
 Arjan Xhumba
 Arjaneżmu
 Arjen Robben
@@ -2473,11 +2478,13 @@ Augustus Constantin
 Augustus De Morgan
 Aurangzeb
 Aurelijus Skarbalius
+Aurelio González
 Aurelio Vidmar
 Aurora Pro Patria 1919
 Aurtis Whitley
 Aurélien Chedjou
 Aurélien Joachim
+Auschwitz
 AustLit
 Austin Brown
 Austin Gatt
@@ -2485,6 +2492,7 @@ Austin Romine
 Australian Capital Territory
 Australian National Kennel Council
 Australidelphia
+Australopithecus
 Austria
 Austria Vienna
 Austria Wien
@@ -2844,6 +2852,7 @@ Basilicata
 Basketball
 Basketball (kanzunetta ta' Tiara)
 Baskitbol
+Baskitbol fil-Logħob tal-Pajjiżi ż-Żgħar tal-Ewropa 2009
 Baskov Lane
 Bassma Al Jandaly
 Bastia
@@ -3238,6 +3247,7 @@ Blends & Remixes Of Someone Else (album ta' Ira Losco)
 Blerim Džemaili
 Bliet Serbi
 Blithe Spirit
+Blogg
 Blokk tax-Xellug
 Bloodbath in Paradise
 Bloomfield Stadium
@@ -3278,6 +3288,7 @@ Boca Juniors
 Boca Juniors Athletic Club
 Boca Juniors Athletic Club (basketball)
 Boccaccio
+Bochotnica
 Bochum
 Bodil Awards
 Boedo (Buenos Aires)
@@ -3436,6 +3447,7 @@ Bremen
 Bremerhaven
 Brendan Behan
 Brendan Rodgers
+Brendi
 Brennero
 Brent Sancho
 Brescia
@@ -3465,6 +3477,7 @@ Brian Spiteri
 Brian Talbot
 Brian W. Kernighan
 Bridge (mużika)
+Bridgetown
 Brielle
 Brigadier ġeneral
 Brigitta Boccoli
@@ -3511,6 +3524,7 @@ Bruno Ibañez
 Bruno Mussolini
 Bruno Nappi
 Bruno Paixão
+Bruno Pesaola
 Brussel
 Brussell
 Brussell u l-Unjoni Ewropea
@@ -3785,6 +3799,7 @@ Cantabria
 Cantilena
 Canzonissima
 Cape Town
+Cape Town Stadium
 Capitano della Verga
 Capitol Records
 Capitol Wrestling Corporation
@@ -4113,6 +4128,7 @@ Chemistry
 Chengdu
 Chennaiyin FC
 Cherbourg-Octeville
+Chersonesus Tawrika
 Cherven
 Chester City FC
 Chester FC
@@ -4151,6 +4167,7 @@ Chordate
 Chororapithecus
 Chororapithecus abyssinicus
 Chorzów
+Chow Chow
 Chris Albright
 Chris Blackwell
 Chris Brunt
@@ -4159,6 +4176,7 @@ Chris Cox
 Chris Doran
 Chris Fearne
 Chris Hogg
+Chris Lait
 Chris Lawler
 Chris Okoh
 Chris Philipps
@@ -4955,6 +4973,7 @@ David Villa
 David Waefelaer
 David Wagner (futboler)
 David Webb
+David Woodard
 David Zdrilic
 David di Donatello for Best Actor
 David di Donatello for Best Director
@@ -5138,6 +5157,7 @@ Dentina
 Dentist
 Denver
 Denys de la Patellière
+Denílson Pereira Neves
 Deon Burton
 Department of Defense Medal for Distinguished Public Service
 Deportes Magallanes
@@ -5164,6 +5184,7 @@ Derbys tal-futbol Bavarjani
 Derek Boateng
 Derek Nimmo
 Derek Saunders
+Derivata
 Derivata parziale
 Derk Boerrigter
 Derlis Gómez
@@ -5258,6 +5279,7 @@ Digger Okonkwo
 Digital Millennium Copyright Act
 Digrafu (ortografija)
 Digão
+Diiriye Guure
 Dijabete
 Dijabete mellitus
 Dijakritika
@@ -5366,6 +5388,7 @@ Distinguished Service Medal
 Distrett federali (Stati Uniti)
 Distrett federali tal-Urali
 Distrett federali tal-Volga
+Distrett ta' Constanța
 Distrett ta' Dâmbovița
 Distrett ta' Gangdong
 Distrett ta' La Punta
@@ -6122,6 +6145,7 @@ Emmanuel Pappoe
 Emmanuel Petit
 Emmanuel de Rohan-Polduc
 Emmanuele Vitale
+Emmeline Pankhurst
 Emmen
 Emmy & The Emmys
 Emmy Bezzina
@@ -6528,6 +6552,7 @@ Eżaminatur tal-privattivi
 Eżekjel
 Eżempji
 Eżistenza ta' Alla
+Eżistenzjaliżmu Nisrani
 Eżodu
 Eχ-attament
 Eχ-attamenti
@@ -6806,6 +6831,7 @@ FK Borac Čačak
 FK Budućnost Podgorica
 FK Dukla Banská Bystrica
 FK Ekranas
+FK Ekranas (2020)
 FK Hajduk Beograd
 FK Inter Bratislava
 FK Jagodina
@@ -6870,6 +6896,7 @@ FK Zeta
 FK Čelik Nikšić
 FK Čukarički
 FK Šiauliai
+FK Širvėna
 FK Žalgiris
 FK Žalgiris Vilnius
 FK Željezničar Sarajevo
@@ -7096,7 +7123,9 @@ Fenek ta' Amami
 Fenek ta' denbu qotni
 Fenek ta' denbu qotni tad-deżert
 Fenek ta' denbu qotni tal-Messiku
+Fenek ta' denbu qotni tal-muntanji ta' Davis
 Fenek ta' denbu qotni tat-Tres Marias
+Fenek tal-bassasa
 Fenek tat-Tres Marias
 Fenek tax-xmara
 Fenek ħmar antilop
@@ -7476,6 +7505,7 @@ Fortuna Dusseldorf
 Fortuna Düsseldorf
 Fortuna Sittard
 Fortunato Mizzi
+Fortune Maphosa
 Fortune Teller
 Fortune Teller (album ta' Ira Losco)
 Fortún Ximénez
@@ -7660,6 +7690,7 @@ Franza
 Franza fil-Festival tal-Eurovision
 François Boucher
 François Colin de Blamont
+François Couperin
 François Hollande
 François Sterchele
 François d'Arouet
@@ -8582,6 +8613,7 @@ Griegi tal-Pont
 Grigoryi Surkis
 Grimsby Town FC
 Grodno
+Groeberiidae
 GroenLinks
 Groenlandja
 Groningen
@@ -8825,10 +8857,12 @@ Għaqda tal-Malti – Università
 Għar Dalam
 Għar Sibudu
 Għar ta' Altamira
+Għar ta' Gorham
 Għarab
 Għarabja Sawdija
 Għarabja Sawdita
 Għarb
+Għarb Rangers FC
 Għarbi
 Għarbi Alġerin
 Għarbi Klassiku
@@ -9560,6 +9594,7 @@ Id-derby ta' Manchester
 Ida Dalser
 Idaho
 Ideogramma
+Idrija
 Idriss Carlos Kameni
 Idrodinamika
 Idroossidu ta' l-Aluminju
@@ -9622,6 +9657,7 @@ Il-Kmamar ta' Raffaello
 Il-Knisja ta’ Ġesù Kristu tal-Qaddisin tal-Aħħar Jiem
 Il-Konti ta' Monte Cristo
 Il-Korp tal-Pulizija ta’ Malta
+Il-Ktieb tar-Riħ u l-Fjuri
 Il-Kummissarju Rex
 Il-Kwadruplu
 Il-Lhud
@@ -9943,12 +9979,14 @@ Ipertermija
 Ipokriti
 Ipoteżi ta' Riemann
 Ipoteżi ta' Sapir-Whorf
+Ipoġew ta' Ħal Saflieni
 Ipoġew ta’ Ħal Saflieni
 Ipparku
 Ippasu
 Ippolita Gonzaga
 Ippolito d'Este
 Ippopotamu
+Ipproċessar testwali
 Ipswich
 Ipswich Town FC
 Ir-4 Dinastija
@@ -10127,6 +10165,7 @@ It-tieni ittra ta’ Pietru
 It-tieni ittra ta’ Ġwanni
 It-tieni logutenent
 It-tieni triumvirat
+It-turiżmu f'Ċipru
 Itaipava Arena Fonte Nova
 Itaipava Arena Pernambuco
 Italian Armed Forces
@@ -10280,6 +10319,7 @@ Jacky Mathijssen
 Jacob
 Jacob Alo Strauss
 Jacob Ballas
+Jacob Bernoulli
 Jacob Borg
 Jacob Burckhardt
 Jacob Levecq
@@ -10313,6 +10353,7 @@ Jaipur
 Jairzinho
 Jaisalmer
 Jake Darmanin
+Jakob Hurt
 Jakob Jantscher
 Jakob Locher
 Jakob Wimpfeling
@@ -10361,6 +10402,8 @@ Jamie Campbell Bower
 Jamie Carragher
 Jamie Lee Curtis
 Jamie O'Hara
+Jamie Pace
+Jamāhīriyya
 Jan Breydel Stadion
 Jan Børge Poulsen
 Jan Comenius
@@ -10499,6 +10542,7 @@ Jeannot Szwarc
 Jeddah
 Jef Geeraerts
 Jeff Agoos
+Jeff Garlin
 Jeff Strasser
 Jefferson
 Jefferson Farfán
@@ -10540,6 +10584,7 @@ Jerko Tipuric
 Jermain Defoe
 Jermaine Defoe
 Jermaine Jenas
+Jeroen Simaeys
 Jerome Damon
 Jerome Efong Nzolo
 Jerome Murphy-O'Connor
@@ -10643,6 +10688,7 @@ Joe Grima
 Joe Hart
 Joe Jordan
 Joe Ledley
+Joe Magunda
 Joe Micallef Stafrace
 Joe Mifsud
 Joe Nathan
@@ -11607,6 +11653,7 @@ Kassis
 Kastell ta' Auckland
 Kastell ta' Balmoral
 Kastell ta' Durham
+Kastell ta' Kronborg
 Kastell ta' Praga
 Kastell ta' Spiš
 Kastell ta' Windsor
@@ -11639,6 +11686,7 @@ Katidral ta' Burgos
 Katidral ta' Canterbury
 Katidral ta' Chartres
 Katidral ta' Durham
+Katidral ta' Köln
 Katidral ta' Reims
 Katidral ta' Roskilde
 Katidral ta' San Pawl
@@ -11994,7 +12042,9 @@ Knisja Ortodossa Rumena
 Knisja Ortodossa Russa
 Knisja Ortodossa Serba
 Knisja Ortodossa tal-Lvant
+Knisja Parrokjali tal-Madonna tal-Karmnu
 Knisja Universali tas-Saltna ta’ Alla
+Knisja Vera ta' Ġesù
 Knisja kattolika
 Knisja ta' San Mark, Rabat
 Knisja ta' San Nikola tas-Saqaf
@@ -12009,6 +12059,7 @@ Knisja tal-Iskozja
 Knisja tal-Lunzjata
 Knisja tal-Madonna tal-Vitorja, Valletta
 Knisja tal-Madonna ta’ Damasku, Valletta
+Knisja tal-Pellegrinaġġ ta' San Ġwann ta' Nepomuk
 Knisja tal-Qalb l-Aktar Imqaddsa tal-Mulej
 Knisja tal-Verġni Marija ta' Arakos
 Knisja tal-Vitorja
@@ -12272,6 +12323,7 @@ Krav Maga
 Kreazzjoniżmu
 Krejattività
 Kremazzjoni
+Kremlin ta' Kazan
 Kremlin ta’ Moska
 Krepuskulari
 Krikk ta' Muller
@@ -12379,6 +12431,7 @@ Kumpless ta' Edipu
 Kumsusan Palace of the Sun
 Kundizzjoni tax-xifer
 Kunejformi
+Kung fu
 Kungress
 Kungress Ewkaristiku 1913
 Kungress tal Monastir
@@ -13028,6 +13081,7 @@ Liebru tal-ġnub bojod
 Liebru tas-savana Afrikana
 Liebru taż-żarbuna tas-silġ
 Liebru xkupa
+Liebru Ġappuniż
 Liechtenstein
 Lier, Belġju
 Lierse SK
@@ -13236,6 +13290,8 @@ Lista ta' Prim Ministri tal-Belarussja
 Lista ta' Prim Ministri tal-Gujana
 Lista ta' Prim Ministri tal-Ungerija
 Lista ta' Siti ta' Wirt Dinji fl-Ażerbajġan
+Lista ta' Siti ta' Wirt Dinji fl-Italja
+Lista ta' Siti ta' Wirt Dinji fl-Ungerija
 Lista ta' banek f'Malta
 Lista ta' bijomolekuli
 Lista ta' bliet ospitanti tal-Festival tal-Eurovision
@@ -13683,6 +13739,7 @@ Luís Alonso Pérez
 Luís Boa Morte
 Luís Delgado
 Luís Figo
+Luís Mendes de Vasconcellos
 Luís Miguel Brito
 Luís Oliveira Gonçalves
 Luċerna
@@ -13962,6 +14019,7 @@ Manuel Antonio Cange
 Manuel Cange
 Manuel De Sica
 Manuel Estiarte
+Manuel Ferreira
 Manuel Mallia
 Manuel Marani
 Manuel Mejuto Gonzalez
@@ -14152,6 +14210,7 @@ Marija I tal-Portugall
 Marija Magdalena
 Marija Tereża
 Marija Šestić
+Marijampolė City
 Marijan Brnčić
 Marijo Strahonja
 Marijuana
@@ -14295,6 +14354,7 @@ Marouane Chamakh
 Marouane Fellaini
 Marozia
 Marquesas Islands
+Marrara
 Marriage Italian-Style
 Marsa
 Marsa FC
@@ -15132,6 +15192,7 @@ Monasteru
 Monasteru ta' Alcobaça
 Monasteru ta' Batalha
 Monasteru ta' Horezu
+Monasteru ta' Maulbronn
 Monasteru ta' Saint-Paul-de-Mausole
 Monasteru ta' São Vicente de Fora
 Monasteru tal-Ġlormini
@@ -16221,18 +16282,22 @@ Opossum grazzjuż tal-Brażil
 Opossum irqiq
 Opossum irqiq griż
 Opossum irqiq skur
+Opossum irqiq ta' Dorothy
 Opossum irqiq ta' Junin
 Opossum irqiq ta' Panama
 Opossum nanu mistur tal-Bolivja
 Opossum sorċid
+Opossum sufi
 Opossum ta' denbu oħxon eleganti
 Opossum ta' denbu qasir sepja ta' Nofs in-nhar
+Opossum ta' denbu qasir tal-ġnub ħomor tal-kappa
 Opossum ta' denbu sufi
 Opossum ta' spallejh suwed
 Opossum tal-Patagonja
 Opossum ġurdien
 Opossum ġurdien aħmar
 Opossum ġurdien irqiq ta' Junin
+Opossum ġurdien ta' Guajira
 Opossum ġurdien ta' Linnaeus
 Opossum ġurdien ta' denbu oħxon
 Opossum ġurdien ta' denbu oħxon eleganti
@@ -16426,6 +16491,7 @@ Ortodoss Serb
 Ortodoss tal-Lvant
 Ortognalità
 Ortografija
+Ortografija Litwana
 Orvieto
 Orycteropodidae
 Orycteropus
@@ -16482,6 +16548,7 @@ Oscar Ustari
 Oscar Wilde
 Oscar del Calcio
 Osh Region
+Oskar Schindler
 Oskars Kļava
 Osmosi inversa
 Osnabrück
@@ -16830,6 +16897,7 @@ Park Nazzjonali ta' Pirin
 Park Nazzjonali tal-Għerien ta' Naracoorte
 Park Ridge
 Park Storiku ta' Ayutthaya
+Park Storiku ta' Sukhothai
 Parken Stadium
 Parkstadion
 Parlament
@@ -17521,6 +17589,7 @@ Pirenej
 Pirew
 Pirex
 Pirinej
+Pirinej-Monte Perdido
 Pirma lyga
 Pirro
 Pirroniżmu
@@ -17590,6 +17659,7 @@ Planck constant
 Planetetheriini
 Planetetherium
 Planetetherium mirabile
+Planigale
 Plant
 Plantae
 Plastic artist
@@ -17730,6 +17800,7 @@ Poplu Taljan
 Popolazzjoni
 Popstars
 Populares
+Porfirio Barba-Jacob
 Porfirju (filosfu)
 Pornografija
 Porphyrios Dikaios
@@ -18875,6 +18946,7 @@ Republika
 Republika Srpska
 Rerum Novarum
 Reservist
+Residenzi tal-Familja Savoia
 Responsabilità soċjali tal-intrapriża
 Restawr
 Resurrection of Christ
@@ -18884,6 +18956,7 @@ Rettili
 Rettilu
 Reuben
 Reuben Debono
+Reuben Gauci
 Reuters
 Revaz Dzodzuashvili
 Revierderby
@@ -19227,6 +19300,7 @@ Rogerio Ceni
 Rogyapas
 Rogério Ceni
 Roh Tae-woo
+Roi Mata
 Rokokò
 Roland Bergström
 Roland Citherlet
@@ -19384,6 +19458,7 @@ Rudi Verkempinck
 Rudi Völler
 Rudison
 Rudnya
+Rudolf Diesel
 Rudolf II
 Rudolf Kumhofer
 Rudolf Laban
@@ -19682,6 +19757,7 @@ Sami Khedira
 Samir Abbasov
 Samir Alakbarov
 Samir Aliyev
+Samir Handanovič
 Samir Javadzadeh
 Samir Nasri
 Sammaurese Calcio
@@ -19727,6 +19803,7 @@ San Francisco International Film Festival
 San Franġisk t'Assisi
 San Gejtanu
 San Giorgio Bigarello
+San Girgor Nażjanżenu
 San Girgor il-Kbir
 San Glormu
 San Injazju ta' Loyola
@@ -20066,6 +20143,7 @@ Semitiku
 Semitiżmi
 Sena akkademika
 Sena bisestili
+Sena dawl
 Sena ekkleżjastika
 Senat Ruman
 Senat tal-Messiku
@@ -20390,6 +20468,7 @@ Sikolo-Għarbi
 Sikulo-Normann
 Silas Boyd-Wickizer
 Silesian grawnd
+Siligo
 Silikejt
 Silikon
 Silistra
@@ -20591,6 +20670,7 @@ Société française de gravure
 Société géologique de France
 Société linnéenne de Normandie
 Socjeta' Filarmonika Vilhena
+Socjetà Filarmonika Madonna ta' Fatima
 Sodju
 Sofiane Feghouli
 Sofiane Melliti
@@ -21193,6 +21273,7 @@ Stéphane Grichting
 Stéphane Lannoy
 Suavi Atasagun
 Sub judice
+Subak
 Subh-i-Azal
 Submarine
 Subotica
@@ -21305,6 +21386,7 @@ Surinam (Renju tal-Olanda)
 Surinam (kolonja Olandiża)
 Surmast tal-orkestra
 Surrealiżmu
+Surtsey
 Susan Atkins
 Susan Pollexfen
 Susanna Hall
@@ -21969,6 +22051,7 @@ Teorija newtrali tal-evoluzzjoni molekolari
 Teorija ta' Sturm-Liouville
 Teorija tal-Forom
 Teorija tal-Prinċipji ul-Patrametri
+Teorija tal-grafi
 Teorija tan-numri
 Teorija tar-relattività
 Teoriku militari
@@ -22889,6 +22972,7 @@ Tony Ward
 Tony Watt
 Toots Thielemans
 Torah
+Toratau
 Tore André Flo
 Toribio Mejía Xesspe
 Torino
@@ -23063,6 +23147,7 @@ Trofew Zarra
 Trogir
 Troilus and Cressida
 Trojany
+Trojja
 Tromsø IL
 Trondheim
 Tronie
@@ -23115,6 +23200,7 @@ Tupaja
 Tupaja rqiq
 Tupaja ta' Nikobar
 Tupaja ta' Palaw
+Tupaja ta' saqajħ twal
 Tupaja tal-muntanji
 Tural Jalilov
 Tural Narimanov
@@ -24344,6 +24430,7 @@ Winston Parks
 Wintermoods
 Wisla Krakow
 Wisley Garden
+Wismar
 Wistin Abela
 Wisła Kraków
 Wisła Płock
@@ -24973,6 +25060,7 @@ transistor
 Ġustinjanu I
 Ġuże Porsella-Flores
 Ġużeppi
+Ġużeppi Caruana
 Ġużeppi De Piro
 Ġużeppi I tal-Portugall
 Ġużeppi Mercieca
@@ -24995,6 +25083,7 @@ transistor
 Ġwann Mamo
 Ġwanni I tal-Portugall
 Ġwanni III
+Ġwanni Kriżostmu
 Ġwanni Pawlu II
 Ġwanni VI tal-Portugall
 Ġwanni VIII Palaiologos
@@ -25902,6 +25991,7 @@ Aalborg Municipality
 Aalesunds FK
 Aarhus GF
 Aarhus Gymnastikforening
+Aaron Camilleri Cauchi
 Aaron Ciantar
 Aaron Hunt
 Aaron Lennon
@@ -25913,6 +26003,7 @@ Abades
 Abbas ibn Abd al-Muttalib
 Abbasidi
 Abbaye de Sellières
+Abbazija ta' Lorsch
 Abbey Road
 Abbottabad
 Abbozz ta' Drittijiet tal-Istati Uniti
@@ -26211,6 +26302,7 @@ Ajruport Internazzjonali ta' Punta del Este
 Ajruport Internazzjonali ta' Recife
 Ajruport Internazzjonali ta' Salvador
 Ajruport Internazzjonali ta' São Paulo-Guarulhos
+Ajruport Internazzjonali ta' Tan Son Nhat
 Ajruport Internazzjonali ta' Tocumen
 Ajruport Internazzjonali ta' Viru Viru
 Ajruport Internazzjonali ta' Zurich
@@ -26678,6 +26770,7 @@ Alūksne
 Amadeus Austrian Music Awards
 Amami Oshima
 Amanda Busuttil
+Amanda Michalka
 Amantea
 Amapá
 Amar Jawan Jyoti
@@ -26775,6 +26868,7 @@ Anar Nazirov
 Anarkiżmu
 Anas ibn Malik
 Anassimandru
+Anastasia Golovina
 Anastasios Kakos
 Anastasiya Prikhodko
 Anastasiya Prykhodko
@@ -27627,11 +27721,13 @@ Augustus Constantin
 Augustus De Morgan
 Aurangzeb
 Aurelijus Skarbalius
+Aurelio González
 Aurelio Vidmar
 Aurora Pro Patria 1919
 Aurtis Whitley
 Aurélien Chedjou
 Aurélien Joachim
+Auschwitz
 AustLit
 Austin Brown
 Austin Gatt
@@ -27639,6 +27735,7 @@ Austin Romine
 Australian Capital Territory
 Australian National Kennel Council
 Australidelphia
+Australopithecus
 Austria
 Austria Vienna
 Austria Wien
@@ -27998,6 +28095,7 @@ Basilicata
 Basketball
 Basketball (kanzunetta ta' Tiara)
 Baskitbol
+Baskitbol fil-Logħob tal-Pajjiżi ż-Żgħar tal-Ewropa 2009
 Baskov Lane
 Bassma Al Jandaly
 Bastia
@@ -28392,6 +28490,7 @@ Blends & Remixes Of Someone Else (album ta' Ira Losco)
 Blerim Džemaili
 Bliet Serbi
 Blithe Spirit
+Blogg
 Blokk tax-Xellug
 Bloodbath in Paradise
 Bloomfield Stadium
@@ -28432,6 +28531,7 @@ Boca Juniors
 Boca Juniors Athletic Club
 Boca Juniors Athletic Club (basketball)
 Boccaccio
+Bochotnica
 Bochum
 Bodil Awards
 Boedo (Buenos Aires)
@@ -28590,6 +28690,7 @@ Bremen
 Bremerhaven
 Brendan Behan
 Brendan Rodgers
+Brendi
 Brennero
 Brent Sancho
 Brescia
@@ -28619,6 +28720,7 @@ Brian Spiteri
 Brian Talbot
 Brian W. Kernighan
 Bridge (mużika)
+Bridgetown
 Brielle
 Brigadier ġeneral
 Brigitta Boccoli
@@ -28665,6 +28767,7 @@ Bruno Ibañez
 Bruno Mussolini
 Bruno Nappi
 Bruno Paixão
+Bruno Pesaola
 Brussel
 Brussell
 Brussell u l-Unjoni Ewropea
@@ -28939,6 +29042,7 @@ Cantabria
 Cantilena
 Canzonissima
 Cape Town
+Cape Town Stadium
 Capitano della Verga
 Capitol Records
 Capitol Wrestling Corporation
@@ -28990,6 +29094,7 @@ Carl Linnaeus
 Carl Ludwig Nietzsche
 Carl Lueg
 Carl Regan
+Carl Reiner
 Carl Schmitt
 Carl Spaatz
 Carl Valeri
@@ -29102,6 +29207,7 @@ Catanzaro
 Catanzaro Calcio 2011
 Catherine
 Catherine Hardwicke
+Catherine Middleton
 Catherine of Aragon
 Catopuma
 Cayetano Redondo Aceña
@@ -29251,6 +29357,7 @@ Charlottenburg-Wilmersdorf
 Charlton Athletic FC
 Charlton FC
 Chartres
+Chase Elliott
 Chasia
 Chatham House Prize
 Chatham Islands
@@ -29267,6 +29374,7 @@ Chemistry
 Chengdu
 Chennaiyin FC
 Cherbourg-Octeville
+Chersonesus Tawrika
 Cherven
 Chester City FC
 Chester FC
@@ -29314,6 +29422,7 @@ Chris Cox
 Chris Doran
 Chris Fearne
 Chris Hogg
+Chris Lait
 Chris Lawler
 Chris Okoh
 Chris Philipps
@@ -30294,6 +30403,7 @@ Dentina
 Dentist
 Denver
 Denys de la Patellière
+Denílson Pereira Neves
 Deon Burton
 Department of Defense Medal for Distinguished Public Service
 Deportes Magallanes
@@ -30359,6 +30469,7 @@ Diana Churchill
 Diana Danielle
 Diana Gurtskaya
 Diana Patterson
+Diana Çuli
 Diana, Prinċipessa ta' Wales
 Diario Marca
 Diarkija
@@ -30415,6 +30526,7 @@ Digger Okonkwo
 Digital Millennium Copyright Act
 Digrafu (ortografija)
 Digão
+Diiriye Guure
 Dijabete
 Dijabete mellitus
 Dijakritika
@@ -30523,6 +30635,7 @@ Distinguished Service Medal
 Distrett federali (Stati Uniti)
 Distrett federali tal-Urali
 Distrett federali tal-Volga
+Distrett ta' Constanța
 Distrett ta' Dâmbovița
 Distrett ta' Gangdong
 Distrett ta' La Punta
@@ -31279,6 +31392,7 @@ Emmanuel Pappoe
 Emmanuel Petit
 Emmanuel de Rohan-Polduc
 Emmanuele Vitale
+Emmeline Pankhurst
 Emmen
 Emmy & The Emmys
 Emmy Bezzina
@@ -31478,6 +31592,7 @@ Eskişehirspor
 Espejo, Spain
 Esperantista
 Esperanto
+Esperantoloġija
 Esploratur
 Esploraturi Russi
 Esporte Clube Bahia
@@ -31685,6 +31800,7 @@ Eżaminatur tal-privattivi
 Eżekjel
 Eżempji
 Eżistenza ta' Alla
+Eżistenzjaliżmu Nisrani
 Eżodu
 Eχ-attament
 Eχ-attamenti
@@ -31963,6 +32079,7 @@ FK Borac Čačak
 FK Budućnost Podgorica
 FK Dukla Banská Bystrica
 FK Ekranas
+FK Ekranas (2020)
 FK Hajduk Beograd
 FK Inter Bratislava
 FK Jagodina
@@ -32027,6 +32144,7 @@ FK Zeta
 FK Čelik Nikšić
 FK Čukarički
 FK Šiauliai
+FK Širvėna
 FK Žalgiris
 FK Žalgiris Vilnius
 FK Željezničar Sarajevo
@@ -32253,7 +32371,9 @@ Fenek ta' Amami
 Fenek ta' denbu qotni
 Fenek ta' denbu qotni tad-deżert
 Fenek ta' denbu qotni tal-Messiku
+Fenek ta' denbu qotni tal-muntanji ta' Davis
 Fenek ta' denbu qotni tat-Tres Marias
+Fenek tal-bassasa
 Fenek tat-Tres Marias
 Fenek tax-xmara
 Fenek ħmar antilop
@@ -32633,6 +32753,7 @@ Fortuna Dusseldorf
 Fortuna Düsseldorf
 Fortuna Sittard
 Fortunato Mizzi
+Fortune Maphosa
 Fortune Teller
 Fortune Teller (album ta' Ira Losco)
 Fortún Ximénez
@@ -33740,6 +33861,7 @@ Griegi tal-Pont
 Grigoryi Surkis
 Grimsby Town FC
 Grodno
+Groeberiidae
 GroenLinks
 Groenlandja
 Groningen
@@ -33983,10 +34105,12 @@ Għaqda tal-Malti – Università
 Għar Dalam
 Għar Sibudu
 Għar ta' Altamira
+Għar ta' Gorham
 Għarab
 Għarabja Sawdija
 Għarabja Sawdita
 Għarb
+Għarb Rangers FC
 Għarbi
 Għarbi Alġerin
 Għarbi Klassiku
@@ -34718,6 +34842,7 @@ Id-derby ta' Manchester
 Ida Dalser
 Idaho
 Ideogramma
+Idrija
 Idriss Carlos Kameni
 Idrodinamika
 Idroossidu ta' l-Aluminju
@@ -34780,6 +34905,7 @@ Il-Kmamar ta' Raffaello
 Il-Knisja ta’ Ġesù Kristu tal-Qaddisin tal-Aħħar Jiem
 Il-Konti ta' Monte Cristo
 Il-Korp tal-Pulizija ta’ Malta
+Il-Ktieb tar-Riħ u l-Fjuri
 Il-Kummissarju Rex
 Il-Kwadruplu
 Il-Lhud
@@ -35101,12 +35227,14 @@ Ipertermija
 Ipokriti
 Ipoteżi ta' Riemann
 Ipoteżi ta' Sapir-Whorf
+Ipoġew ta' Ħal Saflieni
 Ipoġew ta’ Ħal Saflieni
 Ipparku
 Ippasu
 Ippolita Gonzaga
 Ippolito d'Este
 Ippopotamu
+Ipproċessar testwali
 Ipswich
 Ipswich Town FC
 Ir-4 Dinastija
@@ -35285,6 +35413,7 @@ It-tieni ittra ta’ Pietru
 It-tieni ittra ta’ Ġwanni
 It-tieni logutenent
 It-tieni triumvirat
+It-turiżmu f'Ċipru
 Itaipava Arena Fonte Nova
 Itaipava Arena Pernambuco
 Italian Armed Forces
@@ -35438,6 +35567,7 @@ Jacky Mathijssen
 Jacob
 Jacob Alo Strauss
 Jacob Ballas
+Jacob Bernoulli
 Jacob Borg
 Jacob Burckhardt
 Jacob Levecq
@@ -35471,6 +35601,7 @@ Jaipur
 Jairzinho
 Jaisalmer
 Jake Darmanin
+Jakob Hurt
 Jakob Jantscher
 Jakob Locher
 Jakob Wimpfeling
@@ -35520,6 +35651,7 @@ Jamie Carragher
 Jamie Lee Curtis
 Jamie O'Hara
 Jamie Pace
+Jamāhīriyya
 Jan Breydel Stadion
 Jan Børge Poulsen
 Jan Comenius
@@ -35658,6 +35790,7 @@ Jeannot Szwarc
 Jeddah
 Jef Geeraerts
 Jeff Agoos
+Jeff Garlin
 Jeff Strasser
 Jefferson
 Jefferson Farfán
@@ -35699,6 +35832,7 @@ Jerko Tipuric
 Jermain Defoe
 Jermaine Defoe
 Jermaine Jenas
+Jeroen Simaeys
 Jerome Damon
 Jerome Efong Nzolo
 Jerome Murphy-O'Connor
@@ -35802,6 +35936,7 @@ Joe Grima
 Joe Hart
 Joe Jordan
 Joe Ledley
+Joe Magunda
 Joe Micallef Stafrace
 Joe Mifsud
 Joe Nathan
@@ -36017,6 +36152,7 @@ Jordan of Hauteville
 Jordi Alba
 Jordi Cruyff
 Jordi Roura
+Jores Okore
 Jorge Afonso
 Jorge Barrios
 Jorge Carlos Fonseca
@@ -36799,6 +36935,7 @@ Katidral ta' Burgos
 Katidral ta' Canterbury
 Katidral ta' Chartres
 Katidral ta' Durham
+Katidral ta' Köln
 Katidral ta' Reims
 Katidral ta' Roskilde
 Katidral ta' San Pawl
@@ -37154,7 +37291,9 @@ Knisja Ortodossa Rumena
 Knisja Ortodossa Russa
 Knisja Ortodossa Serba
 Knisja Ortodossa tal-Lvant
+Knisja Parrokjali tal-Madonna tal-Karmnu
 Knisja Universali tas-Saltna ta’ Alla
+Knisja Vera ta' Ġesù
 Knisja kattolika
 Knisja ta' San Mark, Rabat
 Knisja ta' San Nikola tas-Saqaf
@@ -37169,6 +37308,7 @@ Knisja tal-Iskozja
 Knisja tal-Lunzjata
 Knisja tal-Madonna tal-Vitorja, Valletta
 Knisja tal-Madonna ta’ Damasku, Valletta
+Knisja tal-Pellegrinaġġ ta' San Ġwann ta' Nepomuk
 Knisja tal-Qalb l-Aktar Imqaddsa tal-Mulej
 Knisja tal-Verġni Marija ta' Arakos
 Knisja tal-Vitorja
@@ -37432,6 +37572,7 @@ Krav Maga
 Kreazzjoniżmu
 Krejattività
 Kremazzjoni
+Kremlin ta' Kazan
 Kremlin ta’ Moska
 Krepuskulari
 Krikk ta' Muller
@@ -38189,6 +38330,7 @@ Liebru tal-ġnub bojod
 Liebru tas-savana Afrikana
 Liebru taż-żarbuna tas-silġ
 Liebru xkupa
+Liebru Ġappuniż
 Liechtenstein
 Lier, Belġju
 Lierse SK
@@ -38397,6 +38539,8 @@ Lista ta' Prim Ministri tal-Belarussja
 Lista ta' Prim Ministri tal-Gujana
 Lista ta' Prim Ministri tal-Ungerija
 Lista ta' Siti ta' Wirt Dinji fl-Ażerbajġan
+Lista ta' Siti ta' Wirt Dinji fl-Italja
+Lista ta' Siti ta' Wirt Dinji fl-Ungerija
 Lista ta' banek f'Malta
 Lista ta' bijomolekuli
 Lista ta' bliet ospitanti tal-Festival tal-Eurovision
@@ -38844,6 +38988,7 @@ Luís Alonso Pérez
 Luís Boa Morte
 Luís Delgado
 Luís Figo
+Luís Mendes de Vasconcellos
 Luís Miguel Brito
 Luís Oliveira Gonçalves
 Luċerna
@@ -39123,6 +39268,7 @@ Manuel Antonio Cange
 Manuel Cange
 Manuel De Sica
 Manuel Estiarte
+Manuel Ferreira
 Manuel Mallia
 Manuel Marani
 Manuel Mejuto Gonzalez
@@ -39313,6 +39459,7 @@ Marija I tal-Portugall
 Marija Magdalena
 Marija Tereża
 Marija Šestić
+Marijampolė City
 Marijan Brnčić
 Marijo Strahonja
 Marijuana
@@ -40294,6 +40441,7 @@ Monasteru
 Monasteru ta' Alcobaça
 Monasteru ta' Batalha
 Monasteru ta' Horezu
+Monasteru ta' Maulbronn
 Monasteru ta' Saint-Paul-de-Mausole
 Monasteru ta' São Vicente de Fora
 Monasteru tal-Ġlormini
@@ -40586,6 +40734,7 @@ Måneskin
 Médaille militaire
 Mémoires de guerre
 Mérida (Spanja)
+Mérida (Veneżwela)
 Míchel Salgado
 Mírzá Mihdí
 Mírzá Muhammad `Alí
@@ -41383,18 +41532,22 @@ Opossum grazzjuż tal-Brażil
 Opossum irqiq
 Opossum irqiq griż
 Opossum irqiq skur
+Opossum irqiq ta' Dorothy
 Opossum irqiq ta' Junin
 Opossum irqiq ta' Panama
 Opossum nanu mistur tal-Bolivja
 Opossum sorċid
+Opossum sufi
 Opossum ta' denbu oħxon eleganti
 Opossum ta' denbu qasir sepja ta' Nofs in-nhar
+Opossum ta' denbu qasir tal-ġnub ħomor tal-kappa
 Opossum ta' denbu sufi
 Opossum ta' spallejh suwed
 Opossum tal-Patagonja
 Opossum ġurdien
 Opossum ġurdien aħmar
 Opossum ġurdien irqiq ta' Junin
+Opossum ġurdien ta' Guajira
 Opossum ġurdien ta' Linnaeus
 Opossum ġurdien ta' denbu oħxon
 Opossum ġurdien ta' denbu oħxon eleganti
@@ -41588,6 +41741,7 @@ Ortodoss Serb
 Ortodoss tal-Lvant
 Ortognalità
 Ortografija
+Ortografija Litwana
 Orvieto
 Orycteropodidae
 Orycteropus
@@ -41644,6 +41798,7 @@ Oscar Ustari
 Oscar Wilde
 Oscar del Calcio
 Osh Region
+Oskar Schindler
 Oskars Kļava
 Osmosi inversa
 Osnabrück
@@ -41798,6 +41953,7 @@ Pajjiżi ġirien li jdawru l-Unjoni Ewropea
 Pajottenland
 Pajsaġġ Kulturali tat-Tinqix fuq il-Blat f'Gobustan
 Pajsaġġ Kulturali ta’ Lednice-Valtice
+Pajsaġġ tax-Xogħol fil-Minjieri ta' Cornwall u l-Punent ta' Devon
 Pajsaġġ urban
 Pakistan
 Pakruojis
@@ -41992,6 +42148,7 @@ Park Nazzjonali ta' Pirin
 Park Nazzjonali tal-Għerien ta' Naracoorte
 Park Ridge
 Park Storiku ta' Ayutthaya
+Park Storiku ta' Sukhothai
 Parken Stadium
 Parkstadion
 Parlament
@@ -42683,6 +42840,7 @@ Pirenej
 Pirew
 Pirex
 Pirinej
+Pirinej-Monte Perdido
 Pirma lyga
 Pirro
 Pirroniżmu
@@ -42752,6 +42910,7 @@ Planck constant
 Planetetheriini
 Planetetherium
 Planetetherium mirabile
+Planigale
 Plant
 Plantae
 Plastic artist
@@ -42892,6 +43051,7 @@ Poplu Taljan
 Popolazzjoni
 Popstars
 Populares
+Porfirio Barba-Jacob
 Porfirju (filosfu)
 Pornografija
 Porphyrios Dikaios
@@ -44037,6 +44197,7 @@ Republika
 Republika Srpska
 Rerum Novarum
 Reservist
+Residenzi tal-Familja Savoia
 Responsabilità soċjali tal-intrapriża
 Restawr
 Resurrection of Christ
@@ -44390,6 +44551,7 @@ Rogerio Ceni
 Rogyapas
 Rogério Ceni
 Roh Tae-woo
+Roi Mata
 Rokokò
 Roland Bergström
 Roland Citherlet
@@ -44547,6 +44709,7 @@ Rudi Verkempinck
 Rudi Völler
 Rudison
 Rudnya
+Rudolf Diesel
 Rudolf II
 Rudolf Kumhofer
 Rudolf Laban
@@ -45231,6 +45394,7 @@ Semitiku
 Semitiżmi
 Sena akkademika
 Sena bisestili
+Sena dawl
 Sena ekkleżjastika
 Senat Ruman
 Senat tal-Messiku
@@ -45555,6 +45719,7 @@ Sikolo-Għarbi
 Sikulo-Normann
 Silas Boyd-Wickizer
 Silesian grawnd
+Siligo
 Silikejt
 Silikon
 Silistra
@@ -45676,6 +45841,7 @@ Skandinavja
 Skandju
 Skandlu tal-futbol Taljan tal-2006
 Skarabew
+Skarpan
 Skeda tal-Kampjonati Ewropej tal-Futbol 2008
 Skeda tat-Tazza tad-Dinja tal-Futbol 2006
 Skejting artistiku
@@ -45756,6 +45922,7 @@ Société française de gravure
 Société géologique de France
 Société linnéenne de Normandie
 Socjeta' Filarmonika Vilhena
+Socjetà Filarmonika Madonna ta' Fatima
 Sodju
 Sofiane Feghouli
 Sofiane Melliti
@@ -46309,6 +46476,7 @@ Storja tal-Kompjuters
 Storja tal-Lhud f'Malta
 Storja tal-UEFA Champions League
 Storja tal-Ungerija
+Storja tal-femminiżmu
 Storja tal-lingwa Maltija
 Storja tal-Ġappun
 Storja tar-Repubblika tal-Maċedonja
@@ -46358,6 +46526,7 @@ Stéphane Grichting
 Stéphane Lannoy
 Suavi Atasagun
 Sub judice
+Subak
 Subh-i-Azal
 Submarine
 Subotica
@@ -46470,6 +46639,7 @@ Surinam (Renju tal-Olanda)
 Surinam (kolonja Olandiża)
 Surmast tal-orkestra
 Surrealiżmu
+Surtsey
 Susan Atkins
 Susan Pollexfen
 Susanna Hall
@@ -47134,6 +47304,7 @@ Teorija newtrali tal-evoluzzjoni molekolari
 Teorija ta' Sturm-Liouville
 Teorija tal-Forom
 Teorija tal-Prinċipji ul-Patrametri
+Teorija tal-grafi
 Teorija tan-numri
 Teorija tar-relattività
 Teoriku militari
@@ -47349,6 +47520,7 @@ Thylamys
 Thylamys elegans
 Thylamys eleganti
 Thylamys pallidior
+Thylophorops
 Thyrohyrax
 Thyrohyrax domorictus
 Thyrohyrax litholagus
@@ -48054,6 +48226,7 @@ Tony Ward
 Tony Watt
 Toots Thielemans
 Torah
+Toratau
 Tore André Flo
 Toribio Mejía Xesspe
 Torino
@@ -48228,6 +48401,7 @@ Trofew Zarra
 Trogir
 Troilus and Cressida
 Trojany
+Trojja
 Tromsø IL
 Trondheim
 Tronie
@@ -49510,6 +49684,7 @@ Winston Parks
 Wintermoods
 Wisla Krakow
 Wisley Garden
+Wismar
 Wistin Abela
 Wisła Kraków
 Wisła Płock
@@ -49806,6 +49981,7 @@ Zoia Ceaușescu
 Zolfu
 Zoli Ádok
 Zoltán Czibor
+Zond 5
 Zoological Society of London
 Zoran Barisic
 Zoran Levnaić
@@ -50139,6 +50315,7 @@ transistor
 Ġustinjanu I
 Ġuże Porsella-Flores
 Ġużeppi
+Ġużeppi Caruana
 Ġużeppi De Piro
 Ġużeppi I tal-Portugall
 Ġużeppi Mercieca
@@ -50161,6 +50338,7 @@ transistor
 Ġwann Mamo
 Ġwanni I tal-Portugall
 Ġwanni III
+Ġwanni Kriżostmu
 Ġwanni Pawlu II
 Ġwanni VI tal-Portugall
 Ġwanni VIII Palaiologos
@@ -50404,3 +50582,1007 @@ transistor
 ایران.
 بھارت.
 ​​reġjonali
+
+12 ta' Mejju
+Abacus
+Alan Turing
+Apparat Periferali
+Apple
+Apple Computer
+Applikazzjonijiet
+Applikazzjonijiet (Kompjuter)
+Arkitettura ta' Von Neumann
+Arloġġ
+Assembly
+Atanasoff-Berry
+Berkeley Software Distribution
+Bill Gates
+Bill Joy
+Binarja
+Bob Miner
+Brian W. Kernighan
+COBOL
+Charles Babbage
+Claude Shannon
+Dennis M. Ritchie
+Deċimali
+Disk drajvs
+Diġitali
+EDSAC
+ENIAC
+Elettronika
+Elettroniku
+FORTRAN
+Firmwer
+Gordon E. Moore
+Hardwer
+Harvard Mark I
+Il-liġi ta' Moore
+Informazzjoni
+Input
+Intel
+Internet
+Inġinerija tas-softwer
+Ir-Regola ta' Moore
+James Gosling
+John W. Tukey
+Joseph Marie Jacquard
+Joystiks
+Kijbord
+Kompjuter Personali
+Kompjuter kwantistiku
+Kompjuters analogi
+Konrad Zuse
+Kriptografiaj
+Kumpaniji tal-Kompjuters (Internazzjonali)
+Kumpaniji tal-Kompjuters (Malta)
+Larry Ellison
+Lingwa C (Kompjuters)
+Lingwa Java (Kompjuters)
+Lingwa Pascal (Kompjuters)
+Lingwi ta' Livell Għola (Kompjuters)
+Macintosh
+Magna
+Magna Jacquard
+Magna ta' Turing
+Magna tad-differenza
+Marc Ewing
+Mekkaniżmu Antikythera
+Memorja (Kompjuters)
+Memorja ta' kompjuter
+Microsoft
+Moniter
+Network
+Networks
+New York
+Nies Importanti fid-Dinja tal-Kompjuters
+Niklaus Wirth
+Numru ta' Bernoulli
+Oracle
+Oracle Corporation
+Output
+Pariġi
+Printers
+Programm
+Programm (Kompjuter)
+Programmatur
+Proċess
+Proċessur Ċentrali (Kompjuters)
+Red Hat Linux
+Rikonoxximent tas-smigħ
+Semikondutturi
+Silikon
+Sistema Operattiva
+Sistema operattiva
+Skeners
+Snin Medjevali
+Softwer
+Steve Jobs
+Storja tal-Kompjuters
+Struzzjonijiet
+Sun Microsystems
+Transistor
+Utent
+Vijdjo kards
+Wikizzjunarju
+Wilhelm Schickard
+World Wide Web
+Xjenza tal-kompjuter
+Ċippa
+Ċirkwit Integrat
+Ċirkwit integrat
+
+Congratulations (Eurovision)
+Festival tal-Eurovision
+Festival tal-Eurovision 1956
+Festival tal-Eurovision 1957
+Festival tal-Eurovision 1958
+Festival tal-Eurovision 1959
+Festival tal-Eurovision 1960
+Festival tal-Eurovision 1961
+Festival tal-Eurovision 1962
+Festival tal-Eurovision 1963
+Festival tal-Eurovision 1964
+Festival tal-Eurovision 1965
+Festival tal-Eurovision 1966
+Festival tal-Eurovision 1967
+Festival tal-Eurovision 1968
+Festival tal-Eurovision 1969
+Festival tal-Eurovision 1970
+Festival tal-Eurovision 1972
+Festival tal-Eurovision 1973
+Festival tal-Eurovision 1974
+Festival tal-Eurovision 1975
+Festival tal-Eurovision 1976
+Festival tal-Eurovision 1977
+Festival tal-Eurovision 1978
+Festival tal-Eurovision 1979
+Festival tal-Eurovision 1980
+Festival tal-Eurovision 1981
+Festival tal-Eurovision 1982
+Festival tal-Eurovision 1983
+Festival tal-Eurovision 1984
+Festival tal-Eurovision 1985
+Festival tal-Eurovision 1986
+Festival tal-Eurovision 1987
+Festival tal-Eurovision 1988
+Festival tal-Eurovision 1989
+Festival tal-Eurovision 1990
+Festival tal-Eurovision 1991
+Festival tal-Eurovision 1992
+Festival tal-Eurovision 1993
+Festival tal-Eurovision 1995
+Festival tal-Eurovision 1996
+Festival tal-Eurovision 1998
+Festival tal-Eurovision 1999
+Festival tal-Eurovision 2001
+Festival tal-Eurovision 2002
+Festival tal-Eurovision 2003
+Festival tal-Eurovision 2004
+Festival tal-Eurovision 2005
+Festival tal-Eurovision 2006
+Festival tal-Eurovision 2007
+Festival tal-Eurovision 2008
+Festival tal-Eurovision 2010
+Festival tal-Eurovision 2011
+Festival tal-Eurovision 2012
+Festival tal-Eurovision 2013
+Festival tal-Eurovision 2014
+Festival tal-Eurovision 2015
+Festival tal-Eurovision 2016
+Festival tal-Eurovision 2018
+Festival tal-Eurovision 2019
+Festival tal-Eurovision 2020
+List tal-preżentaturi tal-Festival tal-Eurovision
+Lista ta' bliet ospitanti tal-Festival tal-Eurovision
+Parteċipazzjoni fil-Festival tal-Eurovision
+Rebbieħa tal-Festival tal-Eurovision
+Ukrajna
+Votazzjoni fil-Festival tal-Eurovision
+Wikimedia Commons
+
+Anghel Nicolau
+Bulgarija
+Bulgaru
+Chișinău
+Jean Charcot
+Lingwa Franċiża
+Lingwa Russa
+Mediċina
+Moldova
+PhD fil-filosofija
+Psikjatra
+Russja
+Tabib
+Varna
+
+12 ta' Marzu
+Amerika
+Artist
+Awstralja
+Belt Valletta
+Bronż
+Ewropa
+Fgura
+Gudja
+Injam
+Irħam
+Kalabrija
+Kartapesta
+Mario Mauro
+Milied
+Mosta
+Napli
+Ragusa
+Sqallija
+Tafal
+Trinidad u Tobago
+Vittorio Prodi
+Wikimedia Commons
+Ħaż-Żabbar
+
+Ameridelphia
+Amerika
+Chironectes
+Didelphidae
+Didelphimorphia
+Didelphinae
+Didelphini
+Didelphis
+Didelphoidea
+Familja (bijoloġija)
+Hyperdidelphys
+Infraklassi
+Klassi (bijoloġija)
+Kolokolo
+Lutreolina
+Mammalia
+Mammiferu
+Marsupjal
+Metatheria
+Opossum
+Philander
+Sottofamilja
+Sottoklassi (bijoloġija)
+Superfamilja (tassonomija)
+Superordni
+Theria
+Thylophorops chapadmalensis
+Thylophorops perplana
+Tribù (bijoloġija)
+Ġeneru
+
+Albanija
+Assemblea Parlamentari tal-Kunsill tal-Ewropa
+Attivist
+Attivist għad-drittijet umani
+Bregu i ashpër
+Elvira Dones
+Federazzjoni tan-Nisa tal-Albanija
+Flora Brovina
+Helena Kadare
+Hije që mbeten pas
+ISNI (identifikatur)
+Irma Kurti
+Klara Buda
+Kunsill tal-Ewropa
+Mimoza Ahmeti
+Musine Kokalari
+Partit Soċjali Demokratiku Albaniż
+Rrethi i kujtesës
+Rreze Abdullahu
+SUDOC (identifikatur)
+Tirana
+Università ta' Tirana
+Ġurnalist
+
+Apollo 8
+Arġentina
+Baikonur
+Belt ta' New York
+Bernard Lovell
+Eugene Cernan
+Frank Borman
+Id-Dinja
+Inġinier
+Kazan
+Każakistan
+Krimea
+Lingwa Russa
+Moska
+Mużew
+Osservatorju ta' Jodrell Bank
+Oċean Indjan
+Pavel Popovich
+Qamar
+Renju Unit
+Richard Nixon
+Russja
+Stati Uniti
+Unjoni Sovjetika
+Valery Bykovsky
+Vitaly Sevastyanov
+Wikimedia Commons
+Xjenza
+Yevpatoria
+
+Attard FC
+Fgura United FC
+Grawnd Nazzjonali Ta' Qali
+Gudja United FC
+Għargħur FC
+Għaxaq FC
+Għoti tal-penalties
+It-Tielet Diviżjoni Maltija
+It-Tielet Diviżjoni Maltija 2013–14
+Kalkara FC
+Kirkop United FC
+Klabb tal-futbol
+Malta Football Association
+Melita FC
+Mtafra FC
+Mtarfa FC
+Mġarr United FC
+Naxxar Lions FC
+Pembroke Athleta FC
+Qrendi FC
+Senglea Athletic FC
+Sirens FC
+Sportika SA
+St. Lucia FC
+St. Venera Lightning FC
+Ta' Qali
+Ta' Xbiex SC
+Tielet Diviżjoni Maltija
+Xewkija Tigers
+Xgħajra Tornadoes
+Xgħajra Tornadoes FC
+Żebbuġ Rangers FC
+Żejtun Corinthians FC
+
+Bill Elliott
+Dawsonville
+Hendrick Motorsports
+NASCAR Cup Series
+NASCAR Rookie of the Year
+NASCAR's Most Popular Driver Award
+Sewwieq tat-tlielaq tal-karozzi
+Stati Uniti
+Stati Uniti tal-Amerika
+
+Affiss
+Akwarju
+Aġġettiv
+Bradipu
+Bradypus spp.
+Detritivoru
+Dieta
+Erbivoru
+Folivoru
+Frottivoru
+Fruġivoru
+Għażżien
+Humivoru
+Insettivoru
+Karnivoru
+Limnivoru
+Mikovoru
+Mukivoru
+Nektarivoru
+Omnivoru
+Panthera spp.
+Pollinivoru
+Sangwinivoru
+Tigra
+
+Abigail Adams
+Catharine Macaulay
+Christine de Pizan
+Doi (identifier)
+Hedvig Charlotta Nordenflycht
+Isabeau tal-Bavarja
+Jeremy Bentham
+Kultura
+London School of Economics
+Mary Wollstonecraft
+Moviment Feminista
+PMID (identifier)
+Platun
+Virginia Woolf
+
+Adelaide Cottage
+Akkademja Militari Rjali ta' Sandhurst
+Anmer Hall
+Anna, Prinċipessa Rjali
+Arthur Matthews
+Artistokratika
+Autumn Kelly
+British Airways
+Buckinghamshire
+Carole Middleton
+Clarence House
+Dame Grand Cross of the Royal Victorian Order
+Diana Spencer
+Durham (kontea)
+Familja ta' Windsor
+Family of Catherine, Princess of Wales
+Filantropu
+Filippu t'Edinburgh
+Grace Matthews
+Harry ta' Wales
+Ingliż Brittaniku
+James Middleton
+Karlu ta' Wales
+Karlu, prinċep ta' Wales
+Kastell ta' Windsor
+Katerina ta' Siena
+Kenja
+Kensington Palace
+Leeds
+Lingwa Ingliża
+Londra
+Michael Middleton
+Negozjant
+Ordni tat-Takkalja
+Palazz ta' Buckingham
+Persuna prominenti
+Peter Philipps
+Pippa Middleton
+Pjanu
+Prince George of Wales
+Prince Louis of Wales
+Princess Charlotte of Wales
+Queen Elizabeth II Diamond Jubilee Medal
+Reading
+Renju Unit
+Reġina Eliżabetta II
+Richard Windsor, duka ta' Gloucester
+Royal Berkshire Hospital
+Royal Family Order of Elizabeth II
+Royal Victorian Order
+Sunderland
+The Guardian
+The Sun
+The Times
+Universià ta' Saint Andrews
+Wembley Stadium
+Westminster Abbey
+Wikimedia Commons
+William ta' Wales
+William, Prince of Wales
+Zermatt
+Żvizzera
+
+A Portuguesa
+Abkażja
+Albanija
+Andorra
+Aníbal Cavaco Silva
+Armenja
+Arċipelagu
+Assemblea tar-Repubblika (Portugall)
+Assunção Esteves
+Awstrija
+Ażerbajġan
+Bandiera tal-Portugall
+Battalja ta' São Mamede
+Belarussja
+Belt tal-Vatikan
+Belġju
+Bożnija-Ħerzegovina
+Bulgarija
+Danimarka
+Demografija tal-Portugall
+Densità tal-popolazzjoni
+Dominju tal-aqwa livell nazzjonali
+Emblema tal-Portugall
+Estonja
+Ewropa
+Finlandja
+Franza
+Georgia
+Greċja
+ISO 4217
+Indiċi tal-Iżvilupp Uman
+Italja
+Iżlanda
+Kanada
+Każakistan
+Kontea tal-Portugall
+Kroazja
+Latvja
+Liechtenstein
+Lingwa Portugiża
+Lingwa uffiċjali
+Lista ta' kodiċi telefoniċi
+Lista ta' pajjiżi skont il-popolazzjoni
+Lista ta' pajjiżi skont l-Indiċi tal-Iżvilupp Uman
+Lista ta' pajjiżi skont l-erja
+Litwanja
+Liżbona
+Lussemburgu
+Manifestis Probatum
+Moldova
+Monaco
+Montenegro
+Nagorno-Karabakh
+Norveġja
+Ossezja t'Isfel
+Oċean Atlantiku
+Pajjiżi l-Baxxi
+Pajjiżi tad-dinja
+Parità tas-saħħa tax-xiri
+Pedro Passos Coelho
+Peninżula Iberjana
+Per capita
+Perċentwal
+Polonja
+Popolazzjoni
+Porto
+Portugall kontinentali
+President tal-Portugall
+Prim Ministru tal-Portugall
+Prodott gross domestiku
+Renju Unit
+Renju tal-Portugall
+Repubblika kostituzzjonali
+Repubblika tal-Irlanda
+Repubblika tal-Maċedonja ta' Fuq
+Rivoluzzjoni tal-5 ta' Ottubru 1910
+Rivoluzzjoni tal-Qronfol
+Rumanija
+Russja
+San Marino
+Semi-presidenzjali
+Serbja
+Slovakkja
+Slovenja
+Spanja
+Stat unitarju
+Stati Uniti
+Storja tal-Portugall
+Transnistrija
+Trattat ta' Zamora
+Turkija
+Ukrajna
+Ungerija
+Valuta
+Ċekja
+Ċipru
+Ġermanja
+Ħin Koordinat Universalment
+Ħin tal-Ewropa tal-Punent
+Żona tal-ħin
+Żvezja
+Żvizzera
+
+Boksing
+British Home Championship
+Curling
+Futbol
+Gurnsey
+Għawm
+Gżejjer Brittaniċi
+Hockey
+Ingilterra
+Irlanda
+Irlanda ta' Fuq
+Isle of Man
+Jersey
+Krikit
+Logħob tal-Commonwealth
+Premier League
+Premiership Rugby
+Qdif (sport)
+Renju Unit
+Repubblika tal-Irlanda
+Rugby
+Rugby league
+Rugby union
+Six Nations Championship
+Skerma
+Skijjar
+Skozja
+Stat Ħieles tal-Irlanda
+Tennis
+Tim nazzjonali tal-futbol ta' Wales
+Tim nazzjonali tal-futbol tal-Ingilterra
+Tim nazzjonali tal-futbol tal-Irlanda (IFA)
+Tim nazzjonali tal-futbol tal-Iskozja
+Wales
+Ċikliżmu
+
+Beverly Hills
+Direttur tal-films
+Estelle Reiner
+Kawżi naturali
+Komiku
+Lingwa Ingliża
+Lucas Reiner
+Mark Twain Prize for American Humor
+Mount Sinai Memorial Park
+Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series
+Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series
+Primetime Emmy Award for Outstanding Writing for a Comedy Series
+Producer ċinematografiku
+Produttur tat-televiżjoni
+Rob Reiner
+Star on Hollywood Walk of Fame
+Stati Uniti
+Sylivia Ann Reiner
+The Bronx
+United States Army Air Forces
+Xeneġġatur
+
+Annimal
+Artiġjan
+Ateni
+Injam
+Mammiferu
+Medjuevu
+Rettilu
+Sengħa
+
+Afrika t'Isfel
+Arthur Woolf
+Awstralja
+Cornwall
+Devon
+Ewropa
+Gżejjer Verġni Brittaniċi
+Isle of Man
+Messiku
+New Zealand
+Qatar
+Renju Unit
+Repubblika tal-Irlanda
+Richard Trevithick
+Sit ta' Wirt Dinji
+Skozja
+Spanja
+Wales
+
+20/20 (serje televiżiva tal-Istati Uniti)
+A. H. Tammsaare
+Abkażja
+Ain Lutsepp
+Akkademja tal-Mużika u Teatru Estonjana
+Albanija
+Albert Kusnets
+Alexander Friedrich von Hueck
+Alexander Goldstein (kittieb)
+Alfred Rosenberg
+Allan Murdmaa
+Amsterdam
+Anarkista individwalista
+Anatomija
+Anatomija tal-pjanti
+Andorra
+Andorra la Vella
+Andres Mustonen
+Andres Oper
+Andres Siim
+Andres Tarand
+Andrus Johani
+Anett Kontaveit
+Ankara
+Annapolis
+Annapolis, Maryland
+Ants Oras
+Anu Lamp
+Anu Tali
+Armenja
+Arnold Rüütel
+Arvo Mets
+Asja tal-Punent
+Ateni
+Awstrija
+Ayuntamiento de Tallin
+Ażerbajġan
+Bandiera tad-Danimarka
+Battalja ta' Lyndanisse
+Baħar Baltiku
+Beijing
+Belarussja
+Belgrad
+Belt primat
+Belt ta' San Marino
+Belt tal-Vatikan
+Belġju
+Bożnija u Ħerżegovina
+Bratislava
+Brussell
+Brussell u l-Unjoni Ewropea
+Budapest
+Bukarest
+Bulgarija
+Carl Hiekisch
+Carmen Kass
+Cartoonist
+Chișinău
+Christian August Lorentzen
+Danimarka
+Dartford
+Dipendenzi tal-Kuruna
+Doris Kareva
+Douglas (Isle of Man)
+Dramaturgu
+Edmund Russow
+Edmund S. Valtman
+Edukazzjoni
+Eero Endjärv
+Eili Sild
+Eino Tamberg
+Elazıg
+Ellen Liiger
+Elmo Tiisvald
+Ene Riisna
+Enn Vetemaa
+Eri Klas
+Estofilu
+Estonja
+Evald Okas
+Evi Rauer
+Ewropa
+Ewropa tal-Lvant
+Ewropa tal-Punent
+Ewropa Ċentrali
+Filologu
+Finlandja
+Forzi tad-Difiża Estonjani
+Franz Anton Schiefner
+Franza
+Georgia
+Gert Kullamäe
+Ghent
+Glam punk
+Golf tal-Finlandja
+Greċja
+Groningen
+Guernsey
+Gżejjer Faroe
+Gżejjer Åland
+Haabersti
+Hangzhou
+Harriet Toompere
+Harry Männil
+Helsinki
+Hollywood (industrija tal-films)
+Id-Dinja
+Indrek Pertelson
+Indrek Sirel
+Ingrid Rüütel
+Inġinier elettriku
+Irina Embrich
+Isle of Man
+Istoloġija
+Italja
+Ivo Lill
+Ivo Uukkivi
+Iżlanda
+JK Nõmme Kalju
+Jaan Kross
+Jaan Tallinn
+Jacob De la Gardie
+Jacob Johan Hastfer
+Jan Mayen
+Jan Uuspõld
+Jersey
+Joel Lindpere
+Johann Urb
+Juhan Parts
+Julius Iversen
+Jüri Arrak
+Jüri Vips
+Kaisa Roose
+Kaljo Raid
+Kalle Lasn
+Kalle Randalu
+Kampi elettromanjetiċi
+Kampjonat tal-Formula 2 tal-FIA
+Kapitali Ewropea tal-Kultura
+Katrin Koov
+Katrin Pärn
+Katrin Siska
+Każakistan
+Ken-Marti Vaher
+Kesklinn, Tallinn
+Kiiri Tamm
+Klaudia Tiitsmaa
+Kopenħagen
+Kotka
+Kristen Michal
+Kristen Viikmäe
+Kristiine
+Kroazja
+Kultura
+Kungress tal-Estonja
+Lasnamäe
+Latvja
+Lauri Lagle
+Lega Anseatika
+Leila Säälik
+Lennart Georg Meri
+Lennart Meri
+Lepo Sumera
+Liechtenstein
+Liina Tennosaar
+Lingwa Estonjana
+Linnart Mäll
+Lisbona
+Lista ta' bliet u rħula fl-Estonja
+Lista ta' pajjiżi transkontinentali
+Lista ta' stati b'rikonoxximent limitat
+Litwanja
+Livonia Svediża
+Liżbona
+Ljubljana
+Logħob Olimpiku tas-Sajf 2000
+Logħob Olimpiku tas-Sajf 2004
+Logħob Olimpiku tas-Sajf tal-1924
+Logħob Olimpiku tas-Sajf tal-1928
+Lokazzjoni tal-istituzzjonijiet tal-Unjoni Ewropea
+Londra
+Longyearbyen
+Lussemburgu
+Lussemburgu (belt)
+Lübeck
+Magnus Gabriel De la Gardie
+Mailis Reps
+Malmö Municipality
+Malmö Opera and Music Theatre
+Margit Mutso
+Mari Lill
+Marie Under
+Mariehamn
+Marina Kaljurand
+Mart Poom
+Mart Sander
+Martin Müürsepp
+Martin Puhvel
+Membru tal-Parlament Ewropew
+Michael Sittow
+Mihhail Kõlvart
+Mikk Mikiver
+Mikk Murdvee
+Miliza Korjus
+Ministeru tal-Ġustizzja (Estonja)
+Ministeru tar-Reich għat-Territorji Okkupati tal-Lvant
+Ministru tad-Difiża (Estonja)
+Ministru tal-Affarijiet Barranin (Estonja)
+Ministru tal-Affarijiet Ekonomiċi u l-Infrastruttura (Estonja)
+Ministru tal-Edukazzjoni u r-Riċerka (Estonja)
+Minsk
+Moldova
+Monaco
+Montenegro
+Moska
+Muniċipalità ta' Malmö
+Mustamäe
+Mużew tax-Xogħol
+Nagorno-Karabakh
+Neeme Järvi
+Netherlands
+Netherlands Radio Symphony Orchestra
+Nikosija
+Nikosija ta' Fuq
+Nofsinhar tal-Ewropa
+Norveġja
+Nursultan
+Nõmme
+Olaf von Wrangel
+Olonkinbyen
+Operetta
+Opra Nazzjonali Estonjana
+Orkestra Sarasota
+Ossezja t'Isfel
+Otepää
+Ott Sepp
+Otto von Kotzebue
+Paavo Järvi
+Pajjiżi l-Baxxi
+Papwa Ginea Ġdida
+Pariġi
+Paul Aron
+Paul Kuusberg
+Paul-Eerik Rummo
+Peeter Järvelaid
+Peter P. Silvester
+Phaleristics
+Pirita
+Podgorica
+Polonja
+Premju Nobel
+Premju Nobel fil-letteratura
+Premju Pulitzer għall-Karikaturi Editorjali
+Premju tal-Akkademja għall-Aħjar Attriċi Sostennarja
+President tal-Estonja
+Priit Loog
+Prim Ministru tal-Estonja
+Prixtina
+Punk rock
+Pärnu
+Pääru Oja
+Põhja-Tallinn
+Rakvere
+Ralf Aron
+Rejkjavik
+Remy Põld
+Renju Unit
+Renju tal-Olanda
+Repubblika tal-Irlanda
+Repubblika tal-Maċedonja ta' Fuq
+Repubblika Ċeka
+Rinaxximent Ingliż
+Rumanija
+Russja
+Saint Helier
+Saint Peter Port
+San Marino
+San Pietruburgu
+Schwerin
+Serbja
+Sergei Pareiko
+Siiri Oviir
+Siiri Vallner
+Sit ta' Wirt Dinji
+Skandinavja
+Skopje
+Skrun (band)
+Skype
+Slovakkja
+Slovenja
+Sofija
+Spanja
+Stati Uniti
+Stepanakert
+Stokkolma
+Studio glass
+Sukhumi
+Sulev Mäeltsemees
+Svalbard
+TO. H. Tammsaare
+Tallinn Town Hall
+Tanel Ingi
+Tbilisi
+Tehumardi
+Territorji Barranin Brittaniċi
+Territorju dipendenti
+Tibetoloġija
+Tiiu Kuik
+Tim nazzjonali tal-futbol tal-Estonja
+Tirana
+Tiraspol
+Toomas Kallaste
+Toomas Krõm
+Tramuntana tal-Ewropa
+Transnistrija
+Tskhinvali
+Turkija
+Turku
+Tórshavn
+Tõnis Lukas
+Tõnu Kaljuste
+Tõnu Trubetsky
+Tõnu Õnnepalu
+UTC+2
+Udo Kasemets
+Ugala
+Ukrajna
+Ungerija
+Università ta’ Tallinn
+Università ta’ Tartu
+Unjoni ta' Pro Patria u Res Publica
+Uno Loop
+Urjo Kareda
+Urmas Alender
+Urmas Paet
+Urmas Reinsalu
+Ursula Ratasepp
+Vaduz
+Valdemar II
+Valletta
+Valter Palm
+Valve Pormeister
+Vanilla Ninja
+Varsavja
+Vello Viisimaa
+Venezja
+Venezwela
+Vers vojt
+Vidrik Rootare
+Vincent Zigas
+Vjenna
+Vladimir-Georg Karassev-Orgusaar
+Wikimedia Commons
+Yerevan
+Ċipru
+Ċipru ta' Fuq
+Ġermaniżi Baltiċi
+Ġermanja
+Ġermanja Nażista
+Ġibiltà
+Ħelsinki
+Żagreb
+Żvezja
+Żvizzera

@@ -1,5 +1,5 @@
 revision: 6550782
-title: PGC 1168069
+title: PGC 1168601
 url: https://sk.wikipedia.org/wiki/Zoznam_PGC_objektov_1168001_%E2%80%93_1169000
 
 

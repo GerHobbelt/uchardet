@@ -1,5 +1,5 @@
 revision: 15234728
-title: CamCutter
+title: Technology
 url: https://ro.wikipedia.org/wiki/Avid_Technology
 
 

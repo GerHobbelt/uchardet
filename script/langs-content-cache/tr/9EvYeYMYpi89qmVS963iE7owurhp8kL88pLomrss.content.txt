@@ -1,5 +1,5 @@
 revision: 29863778
-title: Politics
+title: '''de siyaset'
 url: https://tr.wikipedia.org/wiki/Siyaset
 
 

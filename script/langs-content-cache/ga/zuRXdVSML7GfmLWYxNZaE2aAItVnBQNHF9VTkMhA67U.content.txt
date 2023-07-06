@@ -1,5 +1,5 @@
 revision: 1133227
-title: "D\xE9ithe na gCeilteach"
+title: Bourbon-Lancy
 url: https://ga.wikipedia.org/wiki/D%C3%A9ithe_Ceilteacha
 
 

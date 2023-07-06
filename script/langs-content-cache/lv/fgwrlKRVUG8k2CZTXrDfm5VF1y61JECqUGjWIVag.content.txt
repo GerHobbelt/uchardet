@@ -1,5 +1,5 @@
 revision: 3490477
-title: Hafnijs
+title: "Hafnija karb\u012Bds"
 url: https://lv.wikipedia.org/wiki/Hafnijs
 
 

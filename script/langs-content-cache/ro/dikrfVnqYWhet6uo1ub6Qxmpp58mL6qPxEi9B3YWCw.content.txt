@@ -1,5 +1,5 @@
 revision: 15581222
-title: Armata Republicii Populare Chineze
+title: "Grade militare \xEEn Armata Chinez\u0103"
 url: https://ro.wikipedia.org/wiki/Armata_Republicii_Populare_Chineze
 
 

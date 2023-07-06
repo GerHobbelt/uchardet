@@ -1,5 +1,5 @@
 revision: 290113
-title: Swieqi
+title: Swieqi United FC
 url: https://mt.wikipedia.org/wiki/Swieqi_United_FC
 
 

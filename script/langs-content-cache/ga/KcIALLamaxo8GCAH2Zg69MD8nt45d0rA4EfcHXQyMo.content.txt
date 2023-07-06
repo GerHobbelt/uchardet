@@ -1,5 +1,5 @@
 revision: 1090554
-title: 428 (uimhir)
+title: 490 (uimhir)
 url: https://ga.wikipedia.org/wiki/400_(uimhir)
 
 

@@ -1,5 +1,5 @@
 revision: 21442436
-title: Pohjois-Kyproksen turkkilaisen tasavallan lippu
+title: Kyproksen tasavallan lippu
 url: https://fi.wikipedia.org/wiki/Kyproksen_tasavalta
 
 

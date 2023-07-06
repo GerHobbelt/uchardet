@@ -1,5 +1,5 @@
 revision: 52521964
-title: Technology
+title: Communication
 url: https://sv.wikipedia.org/wiki/Informationsteknik
 
 

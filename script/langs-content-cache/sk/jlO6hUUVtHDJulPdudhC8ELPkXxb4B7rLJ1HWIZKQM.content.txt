@@ -1,5 +1,5 @@
 revision: 6550290
-title: "Zoznam PGC objektov 713001 \u2013 714000"
+title: PGC 713584
 url: https://sk.wikipedia.org/wiki/Zoznam_PGC_objektov_713001_%E2%80%93_714000
 
 

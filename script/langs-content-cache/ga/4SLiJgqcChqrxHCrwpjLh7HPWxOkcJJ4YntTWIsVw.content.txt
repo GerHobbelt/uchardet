@@ -1,5 +1,5 @@
 revision: 1127432
-title: Poblacht Weimar
+title: Ludwig Rubiner
 url: https://ga.wikipedia.org/wiki/Poblacht_Weimar
 
 
