@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Ejby Kirke (Middelfart Kommune)
-Løftekrog
-Jul med Trines mor
-Mon Repos (Korfu)
-Epifyt
-Kronik
-Ilja Kutepov
-Brian O. Jørgensen
-386 f.Kr.
-Mitsubishi Space Gear
-Cold Case Hammarskjöld
-Automobilmuseer
-Vredefort-krateret
-Robert Bresson
-Francis Dundas
-Jefim Geller
-Iosif Ivanovici
-747 f.Kr.
-Agle Station
-Ernie Fletcher
-Riddersalen
-Morten Kjeldgaard
-Puncak Jaya
-Vadim Salmanov
-Varde (gravsted)
-Sekken
-Sjølla
-Den engelske patient
-Kexholms län
-Division II i ishockey 1962-63
+Ultraviolet lys
+John Wells
+Beigangs Internationale Musikfestival
+Itsi Bitsi
+WiMP
+Fran González
+50-kroneseddel
+Grundlovsdag (Norge)
+Jurij Ter-Osipov
+Mandalay
+Georg Sjøht
+Lungafloden
+Holm (Sydslesvig)
+Beauraing
+Grundstensnedlæggelsen ved Gustav Adolphs Kirke
+1. etape af PostNord Danmark Rundt 2021
+K.C. Undercover
+Xiomara Castro
+Lawrence Terry
+Moritz af Sachsen (1696-1750)
+Avantgarde Music
+Spørgeskemasystem
+Kryptering
+Anarka-feminisme
+Hausen
+Genie Gets Her Wish
+Hanne Nørrisgaard
+Dreadlocks
+Christian Lerche-Lerchenborg (1865-1937)
+Administration
 "Animal" (Conor Maynard sang)
 "Animal" (Def Leppard sang)
 "Animal" (Fuck Like a Beast)
@@ -786,6 +786,7 @@ Division II i ishockey 1962-63
 343 Industries
 3753 Cruithne
 384 f.Kr.
+386 f.Kr.
 39th Annual Grammy Awards
 3D-computergrafik
 3D-film
@@ -931,6 +932,7 @@ Division II i ishockey 1962-63
 71. vestlige længdekreds
 73rd Golden Globe Awards
 74. østlige længdekreds
+747 f.Kr.
 77th Golden Globe Awards
 7IN—83–88
 7L & Esoteric
@@ -1862,6 +1864,7 @@ Aggressiv
 Aghira
 Agincourt
 Agios Theodoros (Larnaca)
+Agle Station
 Aglovale
 Agnes Ayres
 Agnes Moorehead
@@ -5026,6 +5029,7 @@ Automobile and Touring Club of Libya
 Automobile and Touring Club of Mozambique
 Automobile and Touring Club of Nigeria
 Automobile and Touring Club of Syria
+Automobilmuseer
 Automotive Association of Brazil
 Automotive Association of Touring and Sports of Panama
 Automotive Club of Nicaragua
@@ -7871,6 +7875,7 @@ Brian May
 Brian McFadden
 Brian McLean
 Brian Mikkelsen
+Brian O. Jørgensen
 Brian Oliver
 Brian Schatz
 Brian Schmidt
@@ -10918,6 +10923,7 @@ Colby (Cumbria)
 Colby O'Donis
 Colchester Castle
 Colchester United F.C.
+Cold Case Hammarskjöld
 Cold Chisel
 Cold Heaven
 Cold Turkey (album)
@@ -13070,6 +13076,7 @@ Den enestående Jord
 Den engelske borgerkrig
 Den engelske kanal
 Den engelske kirke
+Den engelske patient
 Den engelske patient (film)
 Den eurasiske økonomiske union
 Den finsk-sovjetiske ikke-angrebspagt af 1932
@@ -13934,6 +13941,7 @@ Division 1 Féminine 2013-14
 Division 1 Féminine 2014-15
 Division 1 Féminine 2021-22
 Division I i ishockey 1955-56
+Division II i ishockey 1962-63
 Division of Motor Vehicles
 Divisionisme
 Divisionstegn
@@ -15388,6 +15396,7 @@ Eisso Woltjer
 Eivind Astrup
 Eizi Matuda
 Eizo Sakamoto
+Ejby Kirke (Middelfart Kommune)
 Ejendom
 Ejendomsmægler
 Ejendomsret
@@ -16103,6 +16112,7 @@ Epic Records
 Epica (band)
 Epidemi
 Epidemic
+Epifyt
 Epilepsi
 Epilog
 Epipaschia superatalis
@@ -16278,6 +16288,7 @@ Ernestine Schumann-Heink
 Ernesto Mauri
 Ernesto Teodoro Moneta
 Ernie Brandts
+Ernie Fletcher
 Ernie Kovacs
 Ernie Wilkins
 Ernst 1. af Sachsen-Coburg og Gotha
@@ -18725,6 +18736,7 @@ Francis Cooke
 Francis Crick
 Francis Crozier
 Francis Drake
+Francis Dundas
 Francis Ford Coppola
 Francis Greenway
 Francis H. Rowley
@@ -25178,6 +25190,7 @@ Ile aux Noix
 Iliaden
 Iliescu
 Ilja Ivasjka
+Ilja Kutepov
 Ilja M. Frank
 Ilja Metjnikov
 Ilja Sakharov
@@ -25723,6 +25736,7 @@ Ioannis Tzounis
 Ion Nunweiller
 Ionkanal
 Ionmotor
+Iosif Ivanovici
 Ip Man
 Ip Man (film fra 2008)
 Ip Man (filmserie)
@@ -26984,6 +26998,7 @@ Jeffrey J. Haboush
 Jeffrey Jones
 Jeffrey Ofori
 Jeffry Wyattville
+Jefim Geller
 Jeg - en kvinde 2
 Jeg - en marki
 Jeg bruker ikke kondom
@@ -28569,6 +28584,7 @@ Juha-Pekka Leppäluoto
 Jukka Koskinen
 Jul i Juleland
 Jul i Valhal
+Jul med Trines mor
 Julebombningerne af Hanoi
 Julefrokost
 Julekalender
@@ -30982,6 +30998,7 @@ Kromosomtal
 Krone (plantedel)
 Kronen (Storbritannien)
 Kronider
+Kronik
 Kroning
 Kroning af Charles III og Camilla
 Kronisk traumatisk encefalopati
@@ -34054,6 +34071,7 @@ Lövsta
 Lövstafjärden
 Löwchen
 Løbesport
+Løftekrog
 Løg (plantedel)
 Løgkuppel
 Løgnedetektor
@@ -37227,6 +37245,7 @@ Mitsubishi A6M Zero
 Mitsubishi G3M
 Mitsubishi G4M
 Mitsubishi Motors
+Mitsubishi Space Gear
 Mitsuru Mukojima
 Mitsuteru Yokoyama
 Mitt Romney
@@ -37413,6 +37432,7 @@ Moment of Glory (album)
 Moments
 Momodu Mutairu
 Mon (folk)
+Mon Repos (Korfu)
 Mon-folket
 Mona (band)
 Mona Barrie
@@ -37672,6 +37692,7 @@ Morten Bisgaard
 Morten Bjerre
 Morten Harket
 Morten Helveg Petersen
+Morten Kjeldgaard
 Morten Krogh
 Morten Levinsen
 Morten Løkkegaard
@@ -44466,6 +44487,7 @@ Pulán District
 Pumped Up Kicks
 Pumpkin Boy
 Pumpkin's Delight
+Puncak Jaya
 Pund (masseenhed)
 Pundtegn
 Pungmejse
@@ -46040,6 +46062,7 @@ Robert Blake
 Robert Bodzianny
 Robert Bosch GmbH
 Robert Boulter
+Robert Bresson
 Robert Brown (neuseeländischer Botaniker)
 Robert Brown (of Campster)
 Robert Brown (schottischer Botaniker)
@@ -48218,6 +48241,7 @@ Sejlere
 Sejlskib
 Sejlsport
 Sejr over mørket
+Sekken
 Sekondløjtnant
 Sekretariat
 Sekretariatet for FN's højkommissær for menneskerettigheder
@@ -49095,6 +49119,7 @@ Sjælland
 Sjællands Tidende
 Sjællandske Medier
 Sjælør Station
+Sjølla
 Sjølund (Kolding Kommune)
 Skabelse
 Skadedyr
@@ -57504,6 +57529,7 @@ Vadefugle
 Vadehavet
 Vader (band)
 Vadim Kuzmin (fysiker)
+Vadim Salmanov
 Vadkær Å
 Vadum
 Vagabond
@@ -57716,6 +57742,7 @@ Vanylven
 Var (departement)
 Varbergs kommun
 Varde
+Varde (gravsted)
 Varde Idrætsforening
 Varel
 Varemærke
@@ -58646,6 +58673,7 @@ VoxHall
 Voyage, Voyage
 Voyeurisme
 Vrede
+Vredefort-krateret
 Vredens druer (film)
 Vreid
 Vue Cinemas
@@ -61157,6 +61185,7 @@ transistor
 1. division i ishockey 1984-85
 1. division i ishockey 1998-99
 1. division i ishockey 1999-2000
+1. etape af PostNord Danmark Rundt 2021
 1. februar
 1. indokinesiske krig
 1. infanteribrigade (Malaysia)
@@ -61805,6 +61834,7 @@ transistor
 50 First Dates
 50 State Quarters
 50 Years
+50-kroneseddel
 509th Operations Group
 50th Annual Grammy Awards
 51. østlige længdekreds
@@ -62604,6 +62634,7 @@ Adina Porter
 Adjudant
 Adjunkt
 Adm. direktør
+Administration
 Administrationsvej
 Administrative counties i Wales
 Administrative områder på Nauru
@@ -64052,6 +64083,7 @@ Anambra
 Ananas
 Ananda
 Ananda Mahidol
+Anarka-feminisme
 Anarkiet
 Anastacia
 Anastasija Zujeva
@@ -66003,6 +66035,7 @@ Avant-garde
 Avantasia
 Avantasia (single)
 Avantgarde
+Avantgarde Music
 Avantgarde musik
 Avarere
 Avarta
@@ -66861,6 +66894,7 @@ Beaufront Castle
 Beaumont (Texas)
 Beaumont Castle
 Beaumys Castle
+Beauraing
 Beaurains
 Beautiful (Christina Aguilera sang)
 Beautiful (Christina Aguilera)
@@ -66955,6 +66989,7 @@ Behind the Mask (Michael Jackson sang)
 Behind the Screen
 Behold My Wife! (film fra 1920)
 Behrang Safari
+Beigangs Internationale Musikfestival
 Beige
 Beijing
 Being Flynn
@@ -71316,6 +71351,7 @@ Christian Kampmann
 Christian Karlsson (record producer)
 Christian Lacroix
 Christian Leopold von Buch
+Christian Lerche-Lerchenborg (1865-1937)
 Christian Lous Lange
 Christian Lundby
 Christian Maggio
@@ -75396,6 +75432,7 @@ Drangedal Station
 Draupadi (1931 film)
 Dravidiske sprog
 Drawbridge
+Dreadlocks
 Dreadzone
 Dream (Michael Bublé-album)
 Dream Evil
@@ -81078,6 +81115,7 @@ Georg Ludvig von Køller-Banner
 Georg Mohr-konkurrencen
 Georg Rosenkilde
 Georg Rudolf Boehmer
+Georg Sjøht
 Georg Solti
 Georg Stumme
 Georg Sverdrup
@@ -82665,11 +82703,13 @@ Grundfør
 Grundlinje
 Grundlov
 Grundloven
+Grundlovsdag (Norge)
 Grundlæggelsen af det moderne Singapore
 Grundlæggende SI-enheder
 Grundset Station
 Grundsetmoen Station
 Grundskole
+Grundstensnedlæggelsen ved Gustav Adolphs Kirke
 Grundstof
 Grundtvig
 Grundtvig-Selskabet
@@ -83501,6 +83541,7 @@ Hanne Boel
 Hanne Dahl
 Hanne Hellesen
 Hanne Irgens
+Hanne Nørrisgaard
 Hannek
 Hannemarie Ragn Jensen
 Hannes Alfvén
@@ -83840,6 +83881,7 @@ Haus of Gaga
 Hausa
 Hausa (folk)
 Hauschka
+Hausen
 Haussmanns fornyelse af Paris
 Haussmanns renovering af Paris
 Haustlöng
@@ -84994,6 +85036,7 @@ Hollænderi
 Holløse (Gribskov Kommune)
 Holløselund
 Holm & Grut
+Holm (Sydslesvig)
 Holm (ø)
 Holmby Hills
 Holmegaard Glasværk
@@ -87035,6 +87078,7 @@ Italienske modstandsbevægelse
 Italienske og franske musikudtryk
 Itasca County
 Ithaka
+Itsi Bitsi
 Itte Detenamo
 Itzehoe
 Itzhak Perlman
@@ -89017,6 +89061,7 @@ John Watson Gordon
 John Watts
 John Watts (cherokee høvding )
 John Wayne
+John Wells
 John Wells (filmmaker)
 John Wetton
 John Wick (film)
@@ -89761,6 +89806,7 @@ Jurij Basjmet
 Jurij Gagarin
 Jurij Ozerov
 Jurij Taritj
+Jurij Ter-Osipov
 Jurij Veklenko
 Juris Doctor
 Jurisdiktion
@@ -89936,6 +89982,7 @@ K-pop
 K. Barry Sharpless
 K.B. Andersen
 K.B.-Hallen
+K.C. Undercover
 K.D. Lang
 K.D. Rushforth
 K.E. Murashkinsky
@@ -92917,6 +92964,7 @@ Lawrence Lasker
 Lawrence Marion Ames
 Lawrence Naesen
 Lawrence Shove
+Lawrence Terry
 Lawrence Tibbett
 Lawrence Turman
 Lawrence Weiner
@@ -94830,6 +94878,7 @@ Lundtofte Boldklub
 Lundtofte Sogn
 Lundy
 Lunefulde måne
+Lungafloden
 Lungebetændelse
 Lungeemfysem
 Lungekræft
@@ -95825,6 +95874,7 @@ Manchukuo
 Mand og mand imellem
 Mand til alle tider (film fra 1966)
 Mandag
+Mandalay
 Mandarin (sprog)
 Mandas
 Mandatområde
@@ -111557,6 +111607,7 @@ Spærring
 Spætter
 Spættet bredpande
 Spøgelseskrigen
+Spørgeskemasystem
 Spørgsmålstegn
 Square Enix
 Square Enix Europe
@@ -121150,6 +121201,7 @@ Xiao Zhan
 Xie Hangsheng
 Ximena Hermoso
 Xing Wen Li
+Xiomara Castro
 Xscape
 Xuan-loc
 Y-12 National Security Complex
