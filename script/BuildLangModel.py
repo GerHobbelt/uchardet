@@ -1150,7 +1150,7 @@ for lang_arg in langs:
   # The list is ordered by unicode code points (hence can be used
   # generically for various encoding schemes as it is not encoding
   # specific) allowing to search from code points efficiently by a divide
-  # and conqueer search algorithm.
+  # and conquer search algorithm.
   # Each code point is immediately followed by its order.
 
   # Keep the freq_count more frequent characters.
@@ -1189,7 +1189,7 @@ for lang_arg in langs:
   # Order by code point.
   sorted_chars = sorted(sorted_chars, key=operator.itemgetter(0))
 
-  CTOM_str = 'static const int Unicode_Char_size = {};\n'.format(len(sorted_chars))
+  CTOM_str = '#define Unicode_Char_size    {}\n\n'.format(len(sorted_chars))
 
   CTOM_str += 'static const unsigned int Unicode_CharOrder[]'
   CTOM_str += ' =\n{'
@@ -1207,6 +1207,7 @@ for lang_arg in langs:
     max_char_width = math.floor(math.log10(sorted_chars[0][0])) + 1
     max_order_width = math.floor(math.log10(max_order)) + 1
 
+  sorted_order = []
   for char, ratio, order in sorted_chars:
       if column % 8 == 0:
           CTOM_str += '\n  '
@@ -1216,8 +1217,28 @@ for lang_arg in langs:
       CTOM_str += '{:>{width}}, '.format(char, width=max_char_width)
       CTOM_str += '{:>{width}},'.format(order, width=max_order_width)
 
+      sorted_order.append((order, ratio))
+
   CTOM_str += '\n};\n\n'
   c_code += CTOM_str
+
+  if not model_is_empty:
+      sorted_order = sorted(sorted_order, key=operator.itemgetter(0))
+
+      CTOM_str = 'static const float OrderToRatio[]'
+      CTOM_str += ' =\n{'
+      column = 0
+
+      for order, ratio in sorted_order:
+          if column % 8 == 0:
+              CTOM_str += '\n  '
+          else:
+              CTOM_str += ' '
+          column += 1
+          CTOM_str += '{:0.9f}, '.format(ratio)
+
+      CTOM_str += '\n};\n\n'
+      c_code += CTOM_str
 
   ########### SEQUENCES ###########
 
@@ -1303,6 +1324,7 @@ for lang_arg in langs:
       line_width = 40
 
   flimit = 128
+  alphabet_width = len(very_frequent_characters)
   cmap = very_frequent_characters[:flimit-1]
 
   lo_c = 1000000000
@@ -1322,10 +1344,18 @@ for lang_arg in langs:
           index = first_char + (hi_c + 1) * second_char
           sorted_seqs_hf[index] = order
 
+  if flimit < alphabet_width:
+      frequent_cmap_prefix = 'Frequent'
+  else:
+      frequent_cmap_prefix = ''
+
+  c_code += '\n\n#define {}UnicodeAlphabetWidth         {}\n'.format(language_c, alphabet_width)
+  c_code += '#define {}UnicodeCharToOrderIsReduced  {}\n'.format(language_c, 0 if flimit < alphabet_width else 0)
+      
   c_code += '\n\n#define {}FCMLowerBound  {}\n'.format(language_c, lo_c)
   c_code += '#define {}FCMUpperBound  {}\n\n\n'.format(language_c, hi_c)
 
-  FC_str = 'static const PRUint8 {}FrequentCharMapping[]'.format(language_c)
+  FC_str = 'static const PRUint8 {}{}UnicodeCharToOrder[]'.format(language_c, frequent_cmap_prefix)
   FC_str += ' =\n{'
 
   count = 0
@@ -1354,9 +1384,9 @@ for lang_arg in langs:
   for second_char in cmap:
       LM_str += '0,'
       # Let's not make too long lines.
-      count += 1
       if count % line_width == 0:
           LM_str += '\n  '
+      count += 1
 
   for first_char in cmap:
       LM_str += '\n  '
@@ -1388,9 +1418,9 @@ for lang_arg in langs:
               LM_str += '0,'
 
           # Let's not make too long lines.
-          count += 1
           if count % line_width == 0:
               LM_str += '\n  '
+          count += 1
 
   LM_str += '\n};\n'
   c_code += LM_str
@@ -1402,10 +1432,10 @@ for lang_arg in langs:
       SM_str += '{}_CharToOrderMap,'.format(charset_c)
       SM_str += '\n  {}FCMLowerBound,'.format(language_c)
       SM_str += '\n  {}FCMUpperBound,'.format(language_c)
-      SM_str += '\n  {}FrequentCharMapping,'.format(language_c)
+      SM_str += '\n  {}{}UnicodeCharToOrder,'.format(language_c, frequent_cmap_prefix)
       SM_str += '\n  {}CompactedLangModel,'.format(language_c)
       SM_str += '\n  {},'.format(freq_count)
-      SM_str += '\n  (float){},'.format(ratio_2)
+      SM_str += '\n  {}f,'.format(ratio_2)
       SM_str += '\n  {},'.format('PR_TRUE' if lang.use_ascii else 'PR_FALSE')
       SM_str += '\n  "{}",'.format(charset)
       SM_str += '\n  "{}"'.format(lang.code)
@@ -1416,17 +1446,19 @@ for lang_arg in langs:
   SM_str += '\n{'
   SM_str += '\n  "{}",'.format(lang.code)
   SM_str += '\n  Unicode_CharOrder,'
-  SM_str += '\n  {},'.format(len(sorted_chars)) # Order is wrong!
+  SM_str += '\n  Unicode_Char_size,'
   SM_str += '\n  {}FCMLowerBound,'.format(language_c)
   SM_str += '\n  {}FCMUpperBound,'.format(language_c)
-  SM_str += '\n  {}FrequentCharMapping,'.format(language_c)
+  SM_str += '\n  {}UnicodeCharToOrderIsReduced,\n'.format(language_c)
+  SM_str += '\n  {}{}UnicodeCharToOrder,'.format(language_c, frequent_cmap_prefix)
+  SM_str += '\n  OrderToRatio,'
   SM_str += '\n  {}CompactedLangModel,'.format(language_c)
   SM_str += '\n  {},'.format(freq_count)
   SM_str += '\n  {},'.format(very_freq_count)
-  SM_str += '\n  (float){},'.format(very_freq_ratio)
+  SM_str += '\n  {}f,'.format(very_freq_ratio)
   SM_str += '\n  {},'.format(low_freq_order)
-  SM_str += '\n  (float){},'.format(low_freq_ratio)
-  SM_str += '\n  (float){},'.format(accumulated_ratios)
+  SM_str += '\n  {}f,'.format(low_freq_ratio)
+  SM_str += '\n  {}f,'.format(accumulated_ratios)
   SM_str += '\n};'
   c_code += SM_str
 
