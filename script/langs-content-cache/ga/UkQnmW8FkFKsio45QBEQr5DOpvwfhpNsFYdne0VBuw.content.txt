@@ -1,5 +1,5 @@
 revision: 1118230
-title: Maeatae
+title: "Aodh\xE1n mac Gabhr\xE1in"
 url: https://ga.wikipedia.org/wiki/Aodh%C3%A1n_mac_Gabhr%C3%A1in
 
 

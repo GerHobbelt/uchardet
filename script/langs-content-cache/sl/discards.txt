@@ -7,6 +7,7 @@
 1 E4 m
 1 E5 m
 10.
+10. divizija
 100.
 1000. - 1049.
 101.
@@ -253,12 +254,15 @@ Alfa Romeo P1
 Amazon
 Anarhizem v Španiji
 Andrej Kregar
+Antonio Magri
 Atentat na Hitlerja (20. julij 1994)
 Attalea
 Baba Yaga
 Biatlon na Zimskih olimpijskih igrah 2010 – ženska štafeta
 Biatlon na Zimskih olimpijskih igrah 2018 - individualno (moški)
 Biology
+Bitka za Kijev
+Blum-Blum-Shubov generator psevdonaključnih števil
 Bogdana Kurbus
 Bojan Štumberger
 Borislav Božović
@@ -297,6 +301,7 @@ Erich Straube
 Ernest Franz
 Ernesto Breda
 Eurocopter Fennec
+Ezzelino da Romano
 Fadil Hadžić
 Faux, Ardennes
 Felicity Huffman
@@ -350,6 +355,7 @@ Izrojena porazdelitev
 Ižica
 I–L
 Janez Jenko (duhovnik)
+John Charteris
 John Winslow (častnik Britanske kopenske vojske)
 John Yeldham Whitfield
 Josip Babin
@@ -430,6 +436,7 @@ Partito della Rifondazione Comunista
 Pas-de-Calais (razločitev)
 Pitts Model 12
 Plant
+Plezališče
 Podpeč
 Podpeč pod Marofom
 Poimenski seznam narodnih herojev Jugoslavije
@@ -459,6 +466,7 @@ Seznam afganistanskih generalov
 Seznam albanskih Američanov
 Seznam ameriških tenisačev
 Seznam ameriških zgodovinarjev
+Seznam argentinskih generalov
 Seznam astrahanskih kanov
 Seznam astronomov
 Seznam avstralskih generalov
@@ -533,6 +541,7 @@ Trnjani
 Trégor
 Tunizijska četverica za dialog
 Tupoljev Tu-75
+Turbočrpalka
 USNS Mary Sears (T-AGS-65)
 USS Louisville (SSN-724)
 UTC−11:00
@@ -546,6 +555,7 @@ Vitoria
 Vrednikov jetičnik
 Waldemar von Gazen
 Walter Melzer
+William Arthur Macdonald Stawell
 William Phillips (častnik Britanske kopenske vojske)
 William Robert Norris Hinde
 William Wellington Godfrey
@@ -553,6 +563,7 @@ Wolfgang Schenck
 Włodzimierz Wachowicz
 Y–Ž
 Zadnja večerja (Tintoretto)
+Zastava Kitajske
 Zgodovina znanosti in tehnike v Španiji
 Zsolt Baumgartner
 Zvezdana Sterle
@@ -581,25 +592,3 @@ u
 Župnija Trbovlje - Sveta Marija
 Župnija Vranja Peč
 Župnija Šempeter v Savinjski dolini
-
-Plezališče
-
-Zastava Kitajske
-
-Blum-Blum-Shubov generator psevdonaključnih števil
-
-Turbočrpalka
-
-10. divizija
-
-William Arthur Macdonald Stawell
-
-Bitka za Kijev
-
-John Charteris
-
-Ezzelino da Romano
-
-Antonio Magri
-
-Seznam argentinskih generalov

@@ -26,16 +26,20 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 1017
 1018
 103 Tauri
+1039
 1043
 1067
 1084
 11 Eanáir
 1119
+112 RC
 1197
 12 Iúil
 12 Lúnasa
+1218
 127 RC
 1273
+1280idí RC
 13 Eanáir
 1343
 1368
@@ -54,6 +58,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 152 (uimhir)
 1540idí RC
 156
+158
 15ú haois
 16 Aibreán
 16 Bealtaine
@@ -168,7 +173,9 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 31 Iúil
 330idí RC
 334 RC
+355
 361 RC
+37 RC
 387 RC
 390 (uimhir)
 391 (uimhir)
@@ -190,6 +197,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 535 RC
 54 (uimhir)
 546 (uimhir)
+593
 6 Aibreán
 6 Bealtaine
 6 Lúnasa
@@ -223,6 +231,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 84 RC
 845
 867 (uimhir)
+890í
 8ú haois
 9 Aibreán
 9 Bealtaine
@@ -243,6 +252,7 @@ A Christmas Carol (scannán 2009)
 A Doubtful Paradise
 A Nation Deceived
 A Rush of Blood to the Head
+A Streetcar Named Marge
 A Tale of Two Springfields
 A Test Before Trying
 A' Bhruaich
@@ -284,6 +294,7 @@ Aibítir Choireallach
 Aided Nath Í ocus a adnacol
 Ailbéideacht
 Ailpíneach
+Aimsir
 Ainmhaithe in Arkansas
 Ainmhaithe in Carolina Thuaidh
 Ainmhaithe in Florida
@@ -636,6 +647,7 @@ Atlanta, Texas
 Atlantic coastal plain
 Atriplex hortensis
 Atsugi
+Atáirgeadh
 Atáirgeadh gnéasach
 Audrey Roberts
 Auguste R. Lindt
@@ -726,6 +738,7 @@ Billy Kenneally
 Billy Mayhew
 Binn Chuilceach
 Binns Bridge
+Birchfield
 Birmingham City F.C.
 Bishopsworth
 Black Hills
@@ -734,6 +747,7 @@ Black Widower
 Blackwood, Caerphilly
 Bladhraigh
 Blaenau Gwent
+Blitzkrieg
 Bláth (planda)
 Bláthra
 Bob / Cecil L'Ively
@@ -745,6 +759,7 @@ Botai
 Boy in the bubble
 Braine-l'Alleud
 Brake My Wife, Please
+Brandon, Dakota Theas
 Brandon, Mississippi
 Brandwood End
 Brassica napus
@@ -789,6 +804,7 @@ Béal Átha hÉis
 Bóraihidríd
 Búdachas
 Búdaipeist
+CSI: Crime Scene Investigation (sraith teilifíse)
 Caddo Valley, Arkansas
 Caerfyrddin
 Caernarfon
@@ -910,6 +926,7 @@ Clasaic (sacar)
 Claudia Kohde-Kilsch
 Claudius
 Cleveland Majic
+Cliabhán
 Clochrán dubh is bán
 Cluain Bláthach
 Cluain Bolg
@@ -1063,6 +1080,7 @@ Contae Robeson, Carolina Thuaidh
 Contae Rockland
 Contae Roosevelt, Nua-Mheicsiceo
 Contae Sandoval, Nua-Mheicsiceo
+Contae Sanpete, Utah
 Contae Sauk, Wisconsin
 Contae Schley, Georgia
 Contae Sequoyah, Oklahoma
@@ -1119,6 +1137,7 @@ Creideamh
 Creideamh in Éirinn
 Cricieth
 Crios Seismeach New Madrid
+Cripteagrafaíocht
 Crook and Ladder
 Cros Naomh Seoirse
 Cros Phádraig
@@ -1144,7 +1163,9 @@ Curzon Gate
 Cwm Cadnant
 Cybill
 Cág cosdearg
+Cáiliú Corn FIFA an Domhain 2018 – Grúpa D UEFA
 Cáin bhreisluacha
+Cáithnín fo-adamhach
 Cárta líonra
 Céilí
 Céim dochtúireachta
@@ -1245,6 +1266,7 @@ Duibhlinn
 Dumha Dhearc
 Dumha Goirt Thiar
 Dundalk Football Club
+Dungaraí (éadach)
 Dylan Haskins
 Dysnomia (gealach)
 Dáileadh cosmapolaiteach
@@ -1262,6 +1284,7 @@ Dúghlas (Oileán Mhanann)
 D’où viens-tu Johnny?
 E. E. Smith
 EISSN (identifier)
+Ealaín na hIndia
 Eamhnú núicléach
 Eantalpacht
 Earth
@@ -1327,6 +1350,7 @@ Faith Off
 Family Gay
 Farnborough, Hampshire
 Fat Man and Little Boy
+Fathachréalta dhearg
 Father Knows Worst
 Faustino García-Moncó
 Faversham agus Kent Lár (Toghcheantar na Ríochta Aontaithe)
@@ -1388,6 +1412,7 @@ Fuinneamh
 Fuinneamh agus cumhacht hidrileictreach
 Fuinneamh in California
 Fuinneamh in Montana
+Fuinneamh núicléach
 Fuinneog
 Fuinneog dhaite
 Fuiseog bháneiteach
@@ -1471,6 +1496,7 @@ Gina Seddon
 Ginealach Chloinne Fheorais
 Giolla Mo Choinni Ua Cathail
 Giomnáisiam
+Girl's in the Band
 Give Me Your Answer, Do!
 Giúdaigh Aisceanazaíocha
 Glanrosc tuaisceartach
@@ -1483,6 +1509,7 @@ Gleann na Mong
 Glen Park, Victoria
 Gloine
 Gluaiseacht na hAisghairme
+Glútan
 Gobadán scodalach
 Gobharnóirí Massachusetts
 Gobharnóirí New Jersey
@@ -1571,6 +1598,7 @@ Hundred of Duffield
 Huntersville, Carolina Thuaidh
 Hurricane Neddy
 I Know That Voice
+I Still Know What You Did Last Summer
 I Won't Be Home for Christmas
 ISO 3166-2:AU
 ISO 639:man
@@ -1617,6 +1645,7 @@ Innéacs na n-ábhar a bhaineann leis Montana
 Innéacs na n-ábhar a bhaineann leis Nua-Mheicsiceo
 Innéacs na n-ábhar a bhaineann leis Pennsylvania
 Insane Clown Poppy
+Inse Ghall
 Insecta
 Institiúid Teicneolaíochta Dhún Dealgan
 International membership of Ukraine
@@ -1626,6 +1655,7 @@ Iompar in Massachusetts
 Iompar in Tennessee
 Iompar in Wisconsin
 Iomáint
+Ionad na gCluichí Eorpacha
 Ionradh na Normannach ar Éirinn
 Ionsaí buamála ar scoil i gCabúl (2021)
 Iosrael
@@ -1738,6 +1768,7 @@ Kree Harrison
 Kreuzlingen
 Kuala Lumpur
 Květa Peschke
+La Crosse, Wisconsin
 La Liga
 Labbe à longue queue
 Lablab purpureus
@@ -1760,11 +1791,14 @@ Leacain (idirdhealú)
 Leacain, Contae na hIarmhí
 Leamhán gallda
 Leander Paes
+Leath Mhogha
+Leathanach cairpéid
 Leeton
 Left Behind
 Leibhéaladh canúintí
 Leic Snámha
 Leictreachas
+Leictreinceifealagrafaíocht
 Leif Garrett
 Leifteanant
 Leithinis Uíbh Ráthaig
@@ -1780,6 +1814,7 @@ Liam Skelly
 Liam Ó Déasaigh
 Liezel Huber
 Lilith
+Limisín
 Linda Bhreathnach
 Lindsay Davenport
 Linton, Dakota Thuaidh
@@ -1889,6 +1924,7 @@ Léarscáil
 Léim chuaille
 Léiritheacht
 Líbeartaí Thuaidh Luimnigh
+Líoma (toradh)
 Líonraí Gaeilge
 Lóegaire Búadach
 Lóma an Aigéin Chiúin
@@ -2016,6 +2052,7 @@ Moon Over Ireland
 Moriath
 Moroni Olsen
 Morse Code
+Mosman
 Mother Simpson
 Mount & Blade
 Mount Gester
@@ -2067,6 +2104,7 @@ National City, California
 Natural Born Kissers
 Neachtan
 Neachtar
+Neale Fenn
 Neamhfhicsean
 Neamhspleách (polaiteoir)
 Neamhspleách (polaitíocht)
@@ -2348,6 +2386,7 @@ Robert Silverberg
 Robot
 Robot Chicken: Star Wars Episode II
 Robot Chicken: Star Wars Episode III
+Rock Hill, Carolina Theas
 Roger Marino
 Roger Stalley
 Rogyapas
@@ -2473,7 +2512,9 @@ Simpsoncalifragilisticexpiala(Annoyed Grunt)cious
 Simpsons Bible Stories
 Sint-Pieters-Leeuw
 Siombail cheimiceach
+Siombailí Staít Colorado
 Siombailí Staít Massachusetts
+Siombailí Staít Washington
 Sipéir Beilgeach Laekenois
 Sir Gawain and the Green Knight
 Sireacó
@@ -2551,6 +2592,7 @@ Sumpter, Arkansas
 Sumter, Carolina Theas
 Surrey Heath (Toghcheantar na Ríochta Aontaithe)
 Surrey Thiar Theas (Toghcheantar na Ríochta Aontaithe)
+Suí aniar
 Suíochán
 Sweets and Sour Marge
 Syandan Patrika
@@ -2572,6 +2614,7 @@ Sódhaigh Beag
 Sóisialach
 T. W. Rolleston
 TPEG
+Tabú
 Tacsanomaíocht (bitheolaíocht)
 Tadhg Mór Ó Ceallaigh
 Taigh na Creige
@@ -2584,6 +2627,7 @@ Taranto
 Tarbh Créatach
 Teach
 Teach Giúise
+Teacher's Pet (scannán)
 Teafa
 Teaghlach de Clare
 Teaghlach na bPlantaigíneach
@@ -2619,6 +2663,7 @@ The Changing of the Guardian
 The Chopper
 The Colm and Lucy Show
 The D'oh-cial Network
+The Daughter Also Rises
 The Day the Earth Stood Cool
 The Dead Zone (film)
 The Derek Davis Show
@@ -2661,6 +2706,7 @@ The Simpsons (séasúr 19)
 The Simpsons (séasúr 30)
 The Son Also Draws
 The Springfield Connection
+The Spy Who Learned Me
 The Strong Arms of the Ma
 The Tenth Level
 The Tigger Movie
@@ -2730,6 +2776,7 @@ Tracey Carey-Archer
 Traein
 Tragopogon porrifolius
 Trasfhoirmeoir
+Trash of the Titans
 Treasure Coast
 Treehouse of Horror III
 Treehouse of Horror VI
@@ -2755,6 +2802,7 @@ Turasóireacht
 Turbo squamiger
 Two Mules for Sister Sara
 Tyrone Productions
+Tábla peiriadach
 Táinseamh
 Tánaiste
 Tíortha Comhdhéanaimh na Ríochta Aontaithe
@@ -2831,6 +2879,7 @@ Whistle While Your Wife Works
 White Peak
 White Springs, Florida
 Whitmore Park
+Wild Barts Can't Be Broken
 Wild Things
 Wilhelm Cuno
 Wilhelm Marx
@@ -2884,43 +2933,3 @@ diode
 Órshúileach ceannsceadach
 Ósta Lincoln
 ↑
-
-1280idí RC
-
-1218
-
-Birchfield
-
-Suí aniar
-
-355
-
-Wild Barts Can't Be Broken
-
-Cáiliú Corn FIFA an Domhain 2018 – Grúpa D UEFA
-
-Siombailí Staít Colorado
-
-Cáithnín fo-adamhach
-
-Neale Fenn
-
-Leathanach cairpéid
-
-Leath Mhogha
-
-I Still Know What You Did Last Summer
-
-Teacher's Pet (scannán)
-
-Contae Sanpete, Utah
-
-CSI: Crime Scene Investigation (sraith teilifíse)
-
-The Spy Who Learned Me
-
-Ionad na gCluichí Eorpacha
-
-Atáirgeadh
-
-Brandon, Dakota Theas

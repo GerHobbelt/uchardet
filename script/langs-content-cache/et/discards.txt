@@ -27,6 +27,7 @@
 1881
 1882
 1886
+19. sajand eKr
 19. veebruar
 1922
 1928
@@ -55,6 +56,7 @@
 2013
 2015 Sunderland City Council election
 24. aprill
+482
 5. aastatuhat eKr
 9. aastatuhat eKr
 A Grammar of Motives
@@ -81,6 +83,7 @@ Archie Yates
 Arthur Hiller
 Asilah
 Asula
+Aurustumissoojus
 Austria keisririik
 Autonoomne maakond
 Ayoub El Kaabi
@@ -108,6 +111,7 @@ Calliostoma valkuri
 Chaplin
 Charlie inglid
 City Plaza
+Clathrus ruber
 Clytemnestra
 Colton Sissons
 Cube
@@ -144,12 +148,14 @@ Francesco Bianchini
 Fumaarhape
 Fushun
 Gaberston Mill
+George Bähr
 George Gordon
 Gianfranco Marrone
 Giorgi Koshadze
 Giánnis Karagiánnis
 Giánnis Savvidákis
 Glütsiin
+Grace Kelly (singel)
 Grammar
 Granada emiraat
 Griffin Music
@@ -173,6 +179,7 @@ Husainiidide dünastia
 I
 III Riigiduuma (Venemaa Keisririik)
 ISO 639-2
+Ibrahim Boubacar Keïta
 Ibrahim Taha
 Indiaanlased
 Interregnum
@@ -183,6 +190,7 @@ Jaapani lauljate loend
 Jamie Lidell
 Jaotuskromatograafia
 Jarrod Pughsley
+Jean Umiker-Sebeok
 Jennifer Granholm
 Jinan
 Jini dünastia (266–420)
@@ -192,6 +200,7 @@ Joonpind
 Joxe Azurmendi
 Jury Duty
 Juunioride jalgpalli maailmameistrivõistlused
+Járnsaxa
 Jääkaine
 Kaaren Kaer
 Kanarbikulaadsed
@@ -231,6 +240,7 @@ Liikumine
 Lil Wayne
 Linnaseleib
 Lisa Andreas
+Lissaboni taifa
 List of Big Brother Brasil housemates
 Literaadid
 Luhasoo
@@ -241,6 +251,7 @@ Lääne-Sahara geograafia
 Lääne-Viru maakond
 Lía Víssi
 Lüsiin
+MCP
 Maakonnalinn
 Malai-polüneesia keeled
 Male (täpsustus)
@@ -284,8 +295,11 @@ Palembang
 Pascal Baylon
 Peipsivenelased
 Plant
+Poleerimine
 Porra antequerana
 Principality of Ake
+Provints (Hiina)
+Pungasoomus
 Puurimislaev
 Põhja-Aafrika antiikajal
 Põhja-Ameerika
@@ -301,6 +315,7 @@ Richard Antons
 Riik (bioloogia)
 Riisipere jaama tee
 Rincewind
+Robert Barker
 Robot
 Rogyapas
 Rooma inkvisitsioon
@@ -336,12 +351,15 @@ Streptococcus porcinus
 Sufrid
 Sumeria
 Surnud 2007
+Surnud 22. juunil
+Surnud 7. detsembril
 Surnud 8. jaanuaril
 Suur-Kaiman
 Suurlinnapiirkond
 Svante Hakamäki
 Synergistetes
 Sõnajärg
+Taani filmikunst
 Tainan
 Taking Care of Business (film)
 Temperatuur
@@ -365,6 +383,7 @@ Vaabu lõugas
 Vahid! Vahid!
 Vaikiv olek
 Valgus
+Valter Vaasa
 Vene-Rootsi sõda (1656–1661)
 Verisk Analytics
 Vesiir
@@ -382,29 +401,3 @@ transistor
 Ühiskondlikult kasulik töö
 Ülemaailmne majanduskriis
 ‘Alī ibn Abī Ţālib
-
-Surnud 7. detsembril
-
-Aurustumissoojus
-
-Valter Vaasa
-
-MCP
-
-482
-
-Járnsaxa
-
-Provints (Hiina)
-
-Surnud 22. juunil
-
-Taani filmikunst
-
-George Bähr
-
-Grace Kelly (singel)
-
-Ibrahim Boubacar Keïta
-
-Lissaboni taifa

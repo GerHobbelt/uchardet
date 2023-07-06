@@ -15,6 +15,7 @@ $50SAT
 1512. gads
 1523. gads
 1541. gads
+1548. gads
 16mm kamera
 1784. gads
 1848. gada Ungārijas revolūcija
@@ -52,6 +53,7 @@ $50SAT
 2000. gada vasaras olimpiskās spēles
 2000.—2001. gada NBA sezona
 2002. gads
+2003. gada Tour de France
 2004. gada ASV prezidenta vēlēšanas
 2006. gada F1 sezona
 2006. gada Pasaules čempionāts basketbolā
@@ -135,6 +137,7 @@ Atraitnes
 Augstie papēži
 Augusts (personvārds)
 Auns
+Aurore Jéan
 Austrumvācija 1972. gada vasaras olimpiskajās spēlēs
 Austrumvācija 1980. gada vasaras olimpiskajās spēlēs
 Austrālija 1928. gada vasaras olimpiskajās spēlēs
@@ -164,8 +167,10 @@ Bird
 Birma 1972. gada vasaras olimpiskajās spēlēs
 Biržu pagasts
 Bitu nobīde
+Biznesa modelis
 Bjūu Knaps
 Bobslejs 2010. gada ziemas olimpiskajās spēlēs
+Bohēmija 1912. gada vasaras olimpiskajās spēlēs
 Bojas apriņķis
 Boriša iela (Ščecina)
 Botai
@@ -178,7 +183,9 @@ Britu Vesindija olimpiskajās spēlēs
 Broka
 Buccaneer RMM
 Buck–boost converter
+Burtnieki (nozīmju atdalīšana)
 Burundi 1996. gada vasaras olimpiskajās spēlēs
+Bērenss
 CHOMPTT
 CSUNSAT-1
 Carl Davis (boxer)
@@ -291,6 +298,7 @@ Gerijs Tobiāns
 Giant (1956. gada filma)
 Glamūra fotogrāfija
 Glass
+Globālais konosamenta identifikācijas numurs
 Glāss
 Goba
 Google platforma
@@ -340,6 +348,7 @@ Irāna olimpiskajās spēlēs
 Iskra-MAI-85
 Itālija 1992. gada vasaras olimpiskajās spēlēs
 Izvarošana Japānas okupācijas laikā
+JDRS 1
 Jacques and November
 Jana Dukatova
 Janiks Borels
@@ -396,6 +405,7 @@ Kosmos-2419
 Kosmos-2445
 Kosmos-2455
 Kovāržs
+Krievu formālisms
 Kristruna Gudnadoutira
 Kristīna Teišere
 Krutupīte
@@ -424,6 +434,7 @@ Lauku iela (Jūrmala)
 Lemur-2 34
 Lemur-2 41
 Leo Rendolfs
+Let It Be (albums)
 Libāna 1988. gada vasaras olimpiskajās spēlēs
 Libānas administratīvais iedalījums
 Lielbritānija 1928. gada vasaras olimpiskajās spēlēs
@@ -457,6 +468,7 @@ Markomani
 Maroka 1960. gada vasaras olimpiskajās spēlēs
 Marsden State School
 Martins Tištans
+Marīns
 Maskavas lielkņazs
 Mauritānija 1984. gada vasaras olimpiskajās spēlēs
 Mauritānija 1996. gada vasaras olimpiskajās spēlēs
@@ -466,6 +478,7 @@ Maļinovka (Aizkalnes pagasts)
 Maņkivkas rajons
 Mehils Versleiss
 Meierovica 3. Ministru kabinets
+Meirānu ciems
 Meksika 2004. gada vasaras olimpiskajās spēlēs
 Melderes
 Melderi
@@ -474,6 +487,8 @@ Melānija Skillmena
 Metropole (filma)
 Michaela Hübschle
 Microsat-TD
+Miera iela
+Mihaels Rešs
 Mihailovska (Sverdlovskas apgabals)
 Mikronēzija 2004. gada vasaras olimpiskajās spēlēs
 Military
@@ -653,6 +668,7 @@ Spānija 1968. gada vasaras olimpiskajās spēlēs
 Spānija 2012. gada vasaras olimpiskajās spēlēs
 Spānija 2018. gada ziemas olimpiskajās spēlēs
 Staciāna Stitsa
+Staicele
 Starptautiskā hokeja līga (1992—1996)
 Stefans III (pāvests)
 Stefans Mbija
@@ -682,6 +698,7 @@ The Broadway Melody
 The Corries
 The Lives of a Bengal Lancer
 The Stars Fell on Henrietta
+The Talk of the Town
 Theretra lycetus
 Tianjin Daxue 1
 Tiesu ekspertīzes fotogrāfija
@@ -693,6 +710,7 @@ Tomass De Gents
 Tomasu Morstedu
 Tonga 1988. gada vasaras olimpiskajās spēlēs
 Torress
+Tosio Asakura
 Trejdaivu sunītis
 Treviss Stīvenss
 Triathlon at the 2018 Summer Youth Olympics
@@ -802,39 +820,3 @@ dabiskā vide
 Žanna d'Arka (1948. gada filma)
 Žemaišu valoda
 Žilbērs Duklo-Lasalls
-
-Burtnieki (nozīmju atdalīšana)
-
-Miera iela
-
-Staicele
-
-Biznesa modelis
-
-1548. gads
-
-Marīns
-
-Globālais konosamenta identifikācijas numurs
-
-Tosio Asakura
-
-Krievu formālisms
-
-Aurore Jéan
-
-Bērenss
-
-2003. gada Tour de France
-
-Let It Be (albums)
-
-Meirānu ciems
-
-Bohēmija 1912. gada vasaras olimpiskajās spēlēs
-
-Mihaels Rešs
-
-JDRS 1
-
-The Talk of the Town

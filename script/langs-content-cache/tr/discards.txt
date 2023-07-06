@@ -266,6 +266,7 @@ Asteriks ve Oburiks Sezar'a Karşı
 Ateş Arabaları
 Atlanta, Georgia
 Atlantik Okyanusu
+Auston Trusty
 Avala Tower
 Avustralya Kraliyet Hava Kuvvetleri
 Ay Krateri Radyo Teleskopu
@@ -380,6 +381,7 @@ Ceritler, Mut
 Cervia
 Cesar (anlam ayrımı)
 Cezayir
+Chaima
 Chandrayaan-3
 Chaplin
 Charles Randolph
@@ -454,6 +456,7 @@ Dibekli, Doğu Azerbaycan
 Diego Forlán
 Digimon Tamers karakterleri listesi
 Digimon World Re:Digitize
+Dimitır Stançov
 Dioscorides Pedanius
 Divarlı, Çiftlik
 Dişli balinalar
@@ -558,6 +561,7 @@ Fons Panis
 Força
 Foshay Tower
 Fossilworks
+Foster's Lager
 France Football
 Francesca Dallapé
 Franke Previte
@@ -648,6 +652,7 @@ Hassas türler
 Hava mikrobiyolojisi
 Havacılık
 Haverhill, Suffolk
+Hazırlık sınıfı
 Heartland Wrestling Association
 Hebe Uhart
 Here Kitty
@@ -776,6 +781,7 @@ Kemal Akbaba
 Kemal Okyay
 Kemer, Doğanhisar
 Kendine acıma
+Kenya başbakanı
 Khatun
 King-Crane Komisyonu
 Kirix Strata
@@ -802,6 +808,7 @@ Kozağzı, Bafra
 Krali Bimbalov
 Kraljevi ulice
 Krsnik
+Kukuletalı iskete
 Kunduz, Artova
 Kurt Rusterholz
 Kurtuluş Yolu
@@ -885,6 +892,7 @@ Madeira Nehri
 Madihá halkı
 Madrid
 Mae Young Classic (2017)
+Maine Bulvarı Balık Pazarı
 Maja Blagdan
 Malatya'da 1942 Türkiye yerel seçimleri
 Malatya'da 1977 Türkiye yerel seçimleri
@@ -1168,6 +1176,7 @@ Sergio Mattarella
 Sergio Ramos
 Sestriere
 Seviyorum
+Seydouba Soumah
 Sezar
 Sezaropapizm
 Shache Havalimanı
@@ -1226,11 +1235,13 @@ TSV Rain/Lech
 TV3 Slovenia
 Talasgücü Belediyespor
 Taraf
+Tatsumi Fujinami
 Taxman
 Taşkın İlter
 Taşlıgeçit, Pınarbaşı
 Team Bahrain Victorious
 Tek maçlı eleme sistemi
+Tepeli
 Terzi
 The A.V. Club
 The After Hours Tour
@@ -1428,6 +1439,7 @@ Zond programı
 Çılgın bilim adamı
 Örümcek
 Öğümsöğüt, Şehitkamil
+Üre döngüsü
 Üsküdar'da Sabah Oldu
 Üçüncü görüş
 İhtiyar Adam ve Deniz (film)
@@ -1459,23 +1471,3 @@ Zond programı
 Şeyhoğlu, Göynücek
 Şinasi Orel
 Žilina
-
-Üre döngüsü
-
-Kukuletalı iskete
-
-Auston Trusty
-
-Tatsumi Fujinami
-
-Foster's Lager
-
-Dimitır Stançov
-
-Kenya başbakanı
-
-Maine Bulvarı Balık Pazarı
-
-Seydouba Soumah
-
-Chaima

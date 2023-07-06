@@ -14,6 +14,7 @@
 1980
 2. storočie pred Kr.
 20. roky 11. storočia pred Kr.
+20. roky 19. storočia pred Kr.
 2053
 3. máj
 3. storočie pred Kr.
@@ -27,6 +28,7 @@
 50. roky 18. storočia
 6. storočie pred Kr.
 610 pred Kr.
+687 pred Kr.
 7. storočie pred Kr.
 753 pred Kr.
 776 pred Kr.
@@ -36,6 +38,7 @@
 Aaron Aguilera
 Abbeho kondenzor
 Accoudoir
+Adresár (informatika)
 Africké ríše
 Aguilera
 Akcesia (územie)
@@ -75,6 +78,7 @@ Austenit
 Axel Springer (vydavateľstvo)
 Baba Yaga
 Bacteria
+Bad Karma Boy (album)
 Bajuvariovia
 Bambus
 Baterka
@@ -95,6 +99,7 @@ Bitka pri Kannách
 Blitzkrieg
 Britsko-ruská dohoda
 Bruno Alias
+Bruyères
 Caesar
 Caesarova občianska vojna
 Cakóni
@@ -219,6 +224,7 @@ Kurbin (okres)
 Kvapalinové chladenie (spaľovacie motory)
 La aguilera
 Language
+Lantages
 Latinské cisárstvo
 Leopold III.
 Libra (hmotnosť)
@@ -272,6 +278,7 @@ My Kind of Christmas
 Mäsožravec
 Mäsožravosť
 Nemecká sedliacka vojna
+Nemocenské poistenie
 Neubergská zmluva
 Nikelkadmiový akumulátor
 Nikolett Szabóová
@@ -321,12 +328,14 @@ PGC 2127560
 Pabst
 Pach
 Parafín
+Pauko
 Paul Szabo
 Pavlína Springerová
 Personálne manažérstvo
 Perturbácia
 Peter Horváth (1943)
 Pod Dúbravou (Banská Bystrica)
+Podmienenosť
 Podnož
 Pohovor
 Polabčina
@@ -355,10 +364,12 @@ Profession de foi
 Protilietadlové delo
 Prstenec
 Prstenec planéty
+Prvá republika
 Pui#Ponor
 Päťhviezdičkový štadión UEFA
 RAM
 Reduced instruction set computer
+Regine Debatty
 Republika
 Reventador
 Rhésos
@@ -452,6 +463,7 @@ Vodné dielo
 Volebná komisia
 Volebné právo
 Volvo Amazon
+Vrbenského ulica (Bratislava)
 Vreckový počítač
 Všeobecný encyklopedický slovník
 Xerox
@@ -588,27 +600,3 @@ vreckový elektrický lampáš
 Štadión (moderný)
 Žrebec
 ↑
-
-Podmienenosť
-
-Nemocenské poistenie
-
-687 pred Kr.
-
-Bad Karma Boy (album)
-
-Pauko
-
-Prvá republika
-
-Bruyères
-
-20. roky 19. storočia pred Kr.
-
-Adresár (informatika)
-
-Lantages
-
-Vrbenského ulica (Bratislava)
-
-Regine Debatty

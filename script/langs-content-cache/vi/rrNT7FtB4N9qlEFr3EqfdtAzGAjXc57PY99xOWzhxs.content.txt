@@ -1,5 +1,6 @@
 revision: 70095308
-title: "V\u0103n ph\xF2ng Th\u1ED1ng k\xEA qu\u1ED1c gia Trung Qu\u1ED1c"
+title: "Danh s\xE1ch c\xE1c khu b\u1EA3o t\u1ED3n thi\xEAn nhi\xEAn qu\u1ED1c gia\
+  \ t\u1EA1i Trung Qu\u1ED1c"
 url: https://vi.wikipedia.org/wiki/Trung_Qu%E1%BB%91c
 
 

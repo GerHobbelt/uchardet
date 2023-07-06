@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Pere Mesquida Obrador
-Piscataway (àrea no incorporada)
-Orazio Scaletta
-Ancistrus lithurgicus
-Laflammeïta
-Bunzac
-Acrochordonichthys gyrinus
-Game of Thrones Theme
-Gorka García Zubikarai
-Habitatge al carrer Sant Miquel, 4 (Sant Vicenç dels Horts)
-Estació d'Aeri de Montserrat
-Joan Riedweg Pérez
-Adolfo Venturi
-Oreoglanis hypsiurus
-Història de l'hoquei sobre gel a Catalunya
-Regent's University London
-Serrà
-Vernaya
-Griveta boscana
-La flaqueza del bolchevique (pel·lícula)
-La Peirota
-Eystein I de Noruega
-Therese Malfatti
-Ian Jack
-Polifònica de Puig-reig
-Can Solei (Beuda)
-Alice in Wonderland (pel·lícula de 2010)
-Buhid (llengua)
-Al-Zaazu'
-Temporada 2016-17 de l'NBA
+Mar dels Cosmonautes
+Tennis als Jocs Olímpics d'estiu de 1912 - Individual femení interior
+Graus militars de la Unió Soviètica
+Atelopus halihelos
+Els Banys de la Presta
+Franz Bernreiter
+Distrofina
+Sondre Justad
+Gelació
+Saint-Malo-en-Donziois
+USAN
+Aba d'Olba
+Hyphessobrycon balbus
+Centre Cívic Mestre Salvador Fàbregas
+Till Eulenspiegel
+Cantó de Bulgnéville
+Priconodon
+Joan Barbucal·le
+Glacera de Blaitière
+Jardiner regent
+Jordi Serra
+Witold Leszczyński
+Susis
+Llista de monuments de Sallent
+Domènec Segimon Artells
+Blasdell
+The Chosen Family
+Antoni Obrador i Adrover
+Uhha-Ziti
+Catalina Bufí Juan
 'Arab al-Rashayida
 'Azza
 'Eina'
@@ -1177,6 +1177,7 @@ Aberdeen Gardens
 Abezames
 Abhijeet Gupta
 Abhijit Banerjee
+Abidji
 Abigail Spears
 Abilene (Kansas)
 Abilene (Texas)
@@ -1232,6 +1233,7 @@ Abu Dis
 Abu Said Bahadur Khan
 Abu Salabikh
 Abu Salih
+Abu l-Ghazi Khan II
 Abudefduf bengalensis
 Abudefduf margariteus
 Abudefduf natalensis
@@ -1580,6 +1582,7 @@ Acrocephalus luscinius
 Acrocephalus rodericanus
 Acroceras
 Acrochaene
+Acrochordonichthys gyrinus
 Acrochordonichthys strigosus
 Acrocomia
 Acrodipsas illidgei
@@ -1842,6 +1845,7 @@ Adolfas Šleževičius
 Adolfo Bautista
 Adolfo Suárez González
 Adolfo Suárez, el presidente
+Adolfo Venturi
 Adolph Deutsch
 Adolph Green
 Adolph Zukor
@@ -1924,6 +1928,7 @@ Adventureland (videojoc)
 Advocat
 Aechmea
 Aeci (metge)
+Aeció (pintor)
 Aedesia
 Aegerten
 Aegialeus (mythology)
@@ -2063,6 +2068,7 @@ Afrithelphusa afzelii
 Afrithelphusa gerhildae
 Afrithelphusa leonensis
 Afrithelphusa monodosus
+Afrixalus aureus
 Afrixalus knysnae
 Afrixalus lacteus
 Afrixalus sylvaticus
@@ -2530,6 +2536,7 @@ Al-Subayba
 Al-Ubeidiya
 Al-Walaja
 Al-Yamun
+Al-Zaazu'
 Al-Àdil I
 Al-Àixraf Khalil
 Al-Àndalus
@@ -2629,6 +2636,7 @@ Alberic
 Alberic O'Kelly de Galway
 Alberico Archinto
 Albericus siegfriedi
+Albericus tuberculus
 Albert Arnheiter
 Albert Barillé
 Albert Blees
@@ -2638,6 +2646,7 @@ Albert Celades
 Albert Celades i López
 Albert Coates
 Albert Cotó
+Albert Demangeon
 Albert Donés i Antequera
 Albert E. Brumley
 Albert E. Smith (producer)
@@ -3168,6 +3177,7 @@ Alice Walker
 Alice Wong
 Alice in Chains
 Alice in Wonderland (pel·lícula de 1976)
+Alice in Wonderland (pel·lícula de 2010)
 Alice to Taiyō
 Alicia
 Alicia Garza
@@ -4194,6 +4204,7 @@ Ancistrostylis
 Ancistrothyrsus
 Ancistrotropis
 Ancistrus galani
+Ancistrus lithurgicus
 Anco Software
 Ancona (Droma)
 Ancteville
@@ -4667,6 +4678,7 @@ Anjelica Huston
 Ankara
 Ankaragücü
 Anke Behmer
+Ankinovitxita
 Ankyropetalum
 Ankō Itosu
 Ann Glover
@@ -5148,6 +5160,7 @@ Antonio Miguel Mateu Lahoz
 Antonio Munguía
 Antonio Panzieri
 Antonio País
+Antonio Pedro Miralles
 Antonio Porpetta
 Antonio Pérez del Hierro
 Antonio Rukavina
@@ -6134,6 +6147,7 @@ Arquitectura General per a Enginyeria de Textos
 Arquitectura barroca
 Arquitectura de Mesopotàmia
 Arquitectura de Rússia
+Arquitectura del Renaixement
 Arquitectura del Tercer Reich
 Arquitectura dels Estats Units
 Arquitectura dravidiana
@@ -6359,6 +6373,7 @@ Arturo Fasana
 Arturo Merzario
 Arturo Pérez-Reverte
 Arturo Ripstein
+Arturo Vanbianchi
 Arturo Vidal
 Arturo Álvarez-Buylla Roces
 Artus Aux-Cousteaux
@@ -7226,6 +7241,7 @@ Aus tiefer Not schrei ich zu dir, BWV 38
 Ausança
 Auschwitz
 Auschwitz-Birkenau
+Ausesken
 Auspici
 Austerlitz 1805
 Austin
@@ -7380,6 +7396,7 @@ Avatar (pel·lícula)
 Avatar 3
 Avatar 4
 Avelino Corma Canós
+Avellaneda
 Avellanita
 Avellanosa de Muñó
 Avellara
@@ -7480,6 +7497,7 @@ Azadirachta
 Azalea
 Azanza
 Azara
+Azarah
 Azarquiel
 Azay-le-Rideau (municipi)
 Azay-sur-Cher
@@ -7557,6 +7575,7 @@ BGM-109 Tomahawk
 BIBSYS
 BIOMASS
 BLITS
+BMW 600
 BMX Freestyle Simulator
 BMX Kidz
 BMX Ninja
@@ -8074,6 +8093,7 @@ Barcelona Occidental
 Barcelona Oriental
 Barcelona SC
 Barcelona Sporting Club
+Barceloneta
 Barcelonès
 Barcelonès Nord
 Barcial del Barco
@@ -8129,6 +8149,7 @@ Barnum's American Museum
 Barnum's Aquarial Gardens
 Baron (Saona i Loira)
 Barongia
+Baronia d'Arenós
 Baronia de Castellnou
 Baroniella
 Barque sortant du port de Trouville
@@ -8251,6 +8272,7 @@ Basistemon
 Baskaran Adhiban
 Baskervilla
 Baslieux
+Basma
 Basquetbol
 Bass Lake
 Bass Reeves
@@ -8364,6 +8386,7 @@ Batalla de Saratoga
 Batalla de Sargaton
 Batalla de Sisauranon
 Batalla de Solachon
+Batalla de Sprimont
 Batalla de Springfield (1780)
 Batalla de St. Lucia
 Batalla de Starobilsk
@@ -8649,6 +8672,7 @@ Beauchamp Seymour, 1st Baron Alcester
 Beauchamps (Manche)
 Beauchêne (Loir i Cher)
 Beaucoudray
+Beaufai
 Beauficel
 Beaufort Burdekin
 Beaufortia
@@ -8884,6 +8908,7 @@ Ben E. King
 Ben Gazzara
 Ben Harper
 Ben Hebard Fuller
+Ben Hetherington
 Ben Hunt-Davis
 Ben Hur (pel·lícula del 1959)
 Ben Jackson (desenvolupador de videojocs)
@@ -9158,6 +9183,7 @@ Berzelia
 Berzosa de Bureba
 Berzé-la-Ville
 Berzé-le-Châtel
+Berç Türker
 Besaias
 Besame Mucho
 Besants i rodelles
@@ -9672,6 +9698,7 @@ Blanc
 Blanc i negre
 Blanca Casas Brullet
 Blanca Portillo Martínez de Velasco
+Blancafort
 Blancafòrt
 Blanchetia
 Blanchetiastrum
@@ -10277,6 +10304,7 @@ Boschia
 Boschniakia
 Boscia
 Bosconian
+Boscos semiperennifolis de la vall del Brahmaputra
 Boscos tropicals i subtropicals de frondoses secs
 Bosea
 Bosistoa
@@ -10393,6 +10421,7 @@ Boulevard of Broken Dreams
 Bounces (videojoc)
 Bound for Glory
 Boundary Waters
+Bounyong Boupha
 Bouquet d'illusions
 Bourbach-le-Bas
 Bourbach-le-Haut
@@ -11179,6 +11208,7 @@ Buglossoides
 Bugny
 Bugsy
 Bugsy (videojoc d'ordinador)
+Buhid (llengua)
 Buhl (Alt Rin)
 Buichi Terasawa
 Buissoncourt
@@ -11259,6 +11289,7 @@ Bunolagus monticularis
 Bunomys coelestis
 Bunomys prolatus
 Bunopithecus hoolock
+Bunzac
 Bunzi
 Buonaventura Ligli
 Buphthalmum
@@ -11326,6 +11357,7 @@ Burseraceae
 Burt Bacharach
 Burt Lancaster
 Burthecourt-aux-Chênes
+Burtita
 Burton Jastram
 Burtonia
 Burttdavya
@@ -12341,6 +12373,7 @@ Can Bofill (Tordera)
 Can Borrell
 Can Carreras (Madremanya)
 Can Casacuberta
+Can Colomer dels Escarabats
 Can Flores
 Can Font (la Cellera de Ter)
 Can Llopard de Baix
@@ -12349,6 +12382,7 @@ Can Padellàs
 Can Pereres Vell
 Can Pous (Salt)
 Can Riera (l'Hospitalet de Llobregat)
+Can Solei (Beuda)
 Can Travi Vell
 Can Vall
 Can Valls (Sant Vicenç de Montalt)
@@ -12494,6 +12528,7 @@ Cantuffa
 Cantàbria
 Cantó d'Ernée
 Cantó de Blanzac-Porcheresse
+Cantó de Bordèras de Loron
 Cantó de Cancon
 Cantó de Ginebra
 Cantó de Malzéville
@@ -12866,6 +12901,7 @@ Carl Klose
 Carl Laemmle
 Carl Lehle
 Carl Lovsted
+Carl Mansker
 Carl Maria von Weber
 Carl Medjani
 Carl Monssen
@@ -13243,6 +13279,7 @@ Casa Taliesin
 Casa Universal de Justícia
 Casa Uralita
 Casa Vella de Borrell
+Casa a l'avinguda Blondel, 26 (Lleida)
 Casa ancestral
 Casa d'Ucraïna
 Casa d'Àustria
@@ -13283,6 +13320,7 @@ Caseolus subcalliferus
 Casernes dels Marines
 Casernes dels Marines, Washington DC
 Cases Computer Simulations
+Cases de palla de Cordeville, a Auvers-sur-Oise
 Casey Affleck
 Casey Bee Games
 Casey Dellacqua
@@ -13292,6 +13330,7 @@ Casiano Masi Edu
 Casidarròca
 Casimirella
 Casimiroa
+Casino Eldense
 Casino Royale (pel·lícula de 1967)
 Casino Royale (pel·lícula del 1967)
 Casparia
@@ -13346,6 +13385,7 @@ Castell de Miravet
 Castell de Montboló
 Castell de Piera
 Castell de Vernet
+Castell de la Portella
 Castell de mota i pati
 Castell monestir d'Escornalbou
 Castella
@@ -13573,6 +13613,7 @@ Cayuela
 Cayuses
 Cazurra
 Cazuza
+Caça de balenes a les Illes Fèroe
 Caça de bruixes
 Caça esportiva
 Caçador
@@ -16241,6 +16282,7 @@ Cluster (sonda)
 Clutia
 Clux-Villeneuve
 Cluència
+Clyde (Carolina del Nord)
 Clyde Hefer
 Clyde King
 Clyde Tolson
@@ -16683,6 +16725,7 @@ Colt New Service
 Colt Official Police
 Colubrina
 Columba argentina
+Columba de Rieti
 Columba junoniae
 Columba pallidiceps
 Columbia
@@ -18278,6 +18321,7 @@ Coryanthes
 Corybas
 Corycium
 Corydalis
+Corydoras osteocarus
 Corylopsis
 Corylus
 Corymbia
@@ -21294,6 +21338,7 @@ Diafragma (múscul)
 Diagonal (periòdic)
 Diagrama color-color
 Diagrama de Hertzsprung-Russell
+Diagrama termodinàmic
 Diagramma labiosum
 Diagramma melanacrum
 Diagramma pictum
@@ -21422,6 +21467,7 @@ Dibrachionostylus
 Dibromodiethyl sulfone
 Dibuix
 Dicaeum quadricolor
+Dicamptodon
 Dicari
 Dicarpellum
 Dicarpidium
@@ -22008,6 +22054,7 @@ Dipturus johannisdavisi
 Dipturus laevis
 Dipturus lanceorostratus
 Dipturus lemprieri
+Dipturus olseni
 Dipturus sp. nov. L
 Dipturus springeri
 Dipturus stenorhynchus
@@ -22101,6 +22148,7 @@ Discoclaoxylon
 Discocleidion
 Discocnide
 Discoglypremna
+Discogobio macrophysallidos
 Discografia de Radiohead
 Discografia oficial de The Beatles
 Discogràfica
@@ -22588,6 +22636,7 @@ Doederleinia berycoides
 Doellia
 Doellingeria
 Doerpfeldia
+Doerun
 Dofins
 Dofí de Hector
 Dofí de franja blanca
@@ -23879,6 +23928,7 @@ Edward Blyth
 Edward Burns
 Edward C. Prescott
 Edward Clarke
+Edward Cocker
 Edward Codrington
 Edward Coley Burne-Jones
 Edward Elgar
@@ -23935,6 +23985,7 @@ Edwin van Haastert
 Eero Saarinen
 Eerste Divisie
 Eesti Päevaleht
+Eeva Kilpi
 Eeva Park
 Eeyorius hutchinsi
 Efecte Edison
@@ -25026,6 +25077,7 @@ Emet (Oklahoma)
 Emicida
 Emicocarpus
 Emigració
+Emil Bohn
 Emil Hácha
 Emil Knecht
 Emil Kostadinov
@@ -26256,6 +26308,7 @@ Església Ortodoxa Oriental
 Església Ortodoxa Russa
 Església Ortodoxa de Geòrgia
 Església catòlica
+Església d'Irlanda
 Església de Saint James (Londres)
 Església de San Jerónimo el Real
 Església de Sant Llorenç de Lleida
@@ -26460,6 +26513,7 @@ Estació Naval Pearl Harbor
 Estació Naval Roosevelt Roads
 Estació Naval Souda Bay
 Estació Naval d'Informàtica i Telecomunicacions Nàpols
+Estació d'Aeri de Montserrat
 Estació de Bellavista
 Estació de Madrid - Puerta de Atocha
 Estació de Paddington
@@ -27236,6 +27290,7 @@ Evasió o victòria
 Evaun
 Eve Ensler
 Eve Harlow
+Eve's bayou (L'estany de l'Eva)
 Evegnée
 Evelin Jahl
 Evelina Cabrera
@@ -27483,6 +27538,7 @@ Eyeshield 21
 Eyong Enoh
 Eysenhardtia
 Eysson
+Eystein I de Noruega
 Eysturoy
 Ezequiel Lavezzi
 Ezosciadium
@@ -27996,6 +28052,7 @@ Fatuma Roba
 Fatwa
 Faucaria
 Faucherea
+Faufau (cràter)
 Faujasia
 Faujasiopsis
 Faula
@@ -28524,6 +28581,7 @@ Festival Internacional de Cinema del Caire
 Festival Internacional de Curtmetratges d'Oberhausen
 Festival Internacional de Curtmetratges de Tampere
 Festival Internacional de Curtmetratges i Pel·lícules Animades de Sant Petersburg
+Festival Internacional de Música de Cadaqués
 Festival Internacional de l'Erotisme de Brussel·les
 Festival Internacional del Nou Cinema Llatinoamericà de l'Havana
 Festival International de Cinema Francòfon de Namur
@@ -29105,8 +29163,10 @@ Fonscochlea billakalina
 Font (tipografia)
 Font Mil
 Font de Borrell
+Font de Gió
 Font de l'Oreneta
 Font de la Vall de Santa Creu
+Font del Gatell (Sant Quirze Safaja)
 Font del Roure (Sant Genís dels Agudells)
 Font del Salencar
 Font documental
@@ -29146,6 +29206,7 @@ Football Champions
 Football Club Internazionale Milano
 Football Club København
 Football Club Lorient Bretagne Sud
+Football Club Numància
 Football Club Red Bull Salzburg
 Football Club de Metz
 Football Club de Nantes
@@ -29166,6 +29227,7 @@ Foquista
 For Gold or Glory
 For Queen and Country
 For Sale: a Baby
+For the Boys
 For the Cause of Suffrage
 For the Love of Rusty
 Fora de la llei
@@ -30610,6 +30672,7 @@ Game One
 Game Over (videojoc)
 Game Republic
 Game of Thrones
+Game of Thrones Theme
 GamePro
 Gamepad
 Gamergy
@@ -30693,6 +30756,7 @@ Garhadiolus
 Gari Biasillo
 Garinh
 Garland (Texas)
+Garnatxa blanca
 Garnieria
 Garnotia
 Garota Nacional
@@ -30757,6 +30821,7 @@ Gaseta de Madrid
 Gashadokuro
 Gashowu
 Gasoil
+Gaspar Espuña i Berga
 Gaspar Núñez de Arce
 Gaspar Rosés i Arús
 Gaspare Spontini
@@ -30830,6 +30895,7 @@ Gatopardo (revista)
 Gatteville-le-Phare
 Gatumdu
 Gatyona
+Gau d'Alta Silèsia
 Gaudichaudia
 Gaudinia
 Gaudí
@@ -31648,6 +31714,7 @@ Giovanni Antonio Guadagni
 Giovanni Battista Mesmer
 Giovanni Battista Pergolesi
 Giovanni Battista Rotario
+Giovanni Benelli
 Giovanni Boccaccio
 Giovanni Bononcini
 Giovanni Botero
@@ -32000,6 +32067,7 @@ Gnatífer
 Gnawa
 Gnephosis
 Gnetophyta
+Gneu Domici Ahenobarb (cònsol 162 aC)
 Gneu Juli Agrícola
 Gneu Pompeu Magne
 Gneu Servili Gemin
@@ -32267,6 +32335,7 @@ Goril·la
 Goril·la de muntanya
 Gorinchem
 Gorizia
+Gorka García Zubikarai
 Gorod Zero
 Gorodkovia
 Gorra frígia
@@ -32851,6 +32920,7 @@ Grisó petit
 Grit Breuer
 Grito de Baire
 Griu de Redovà
+Griveta boscana
 Gro Harlem Brundtland
 Grobya
 GroenLinks
@@ -33698,6 +33768,7 @@ Göttingen
 Gülsüm Kav
 Gümülcineli Damat Nasuh Paixà
 Gümüş
+Güneri Bey
 Günther Thiersch
 Gürcü Ağa Yússuf Paixà
 Gürcü Ismaïl Paixà
@@ -33795,6 +33866,7 @@ Habitatge al carrer Major de Remolins, 42 (Tortosa)
 Habitatge al carrer Peresall, 10 (Tremp)
 Habitatge al carrer Peresall, 12 (Tremp)
 Habitatge al carrer Peresall, 18 (Tremp)
+Habitatge al carrer Sant Miquel, 4 (Sant Vicenç dels Horts)
 Habitatge al carrer de Santa Anna, 21 (Tortosa)
 Habitatge al passeig del Vall, 10 (Tremp)
 Habitatge al passeig del Vall, 32 (Tremp)
@@ -34116,6 +34188,7 @@ Hampstead Heath
 Hampton Court
 Hampton Roads
 Hamptons at Boca Raton
+Hamza ibn Alí
 Hamàs
 Han Dang
 Han Fu
@@ -34446,6 +34519,7 @@ Harry Blackstaffe
 Harry C. Wheeler
 Harry DeBaecke
 Harry Dean Stanton
+Harry Elkes
 Harry Fry
 Harry Hickox
 Harry Jorgensen
@@ -34904,6 +34978,7 @@ Hemiandra
 Hemianthus
 Hemiarius sona
 Hemiarrhena
+Hemibarbus songloensis
 Hemiboea
 Hemichaena
 Hemichordata
@@ -35181,6 +35256,7 @@ Herklotsichthys lossei
 Herklotsichthys punctatus
 Herklotsichthys quadrimaculatus
 Herklotsichthys spilurus
+Herlincourt
 Herlock Holmes and the Baskerville Curse
 Herma Bauma
 Herman Bailey
@@ -35811,6 +35887,7 @@ Història de Colorado
 Història de França
 Història de Geòrgia
 Història de Kansas
+Història de Mallorca
 Història de Mesopotàmia
 Història de Missouri
 Història de Nebraska
@@ -35826,6 +35903,7 @@ Història de l'art
 Història de l'equipació del Futbol Club Barcelona
 Història de l'esclavatge
 Història de l'escriptura
+Història de l'hoquei sobre gel a Catalunya
 Història de l'observació de les supernoves
 Història de l'Índia
 Història de la Comunitat Europea del Carbó i de l'Acer (1945-1957)
@@ -36885,6 +36963,7 @@ Héctor Moreno
 Héctor Pedro Scarone
 Hégenheim
 Hélas pour moi
+Hélène de Mandrot
 Hémevez
 Hénaménil
 Hércules de Brito Ruas
@@ -36978,6 +37057,7 @@ ITunes
 ITunes Music Store
 ITunes Originals
 ITunes Store
+IV Regió Militar
 IX Legislatura del Parlament Europeu
 Iacob Felecan
 Iacopo da Varazze
@@ -37006,6 +37086,7 @@ Ian Goldberg
 Ian Hart
 Ian Hetherington
 Ian Holm
+Ian Jack
 Ian Livingstone
 Ian MacDonald
 Ian McArdle
@@ -37534,6 +37615,7 @@ Incarum
 Incarvillea
 Incendi
 Incendi del Reichstag
+Incendis de l'Empordà de 2006
 Incentive Software
 Incest
 Incident de l'U-2 (1960)
@@ -37754,6 +37836,7 @@ Innocenci XII
 Innocenci XIII
 Innocent Bystanders
 Innokenti Smoktunovski
+Innsbrook
 Inocarpus
 Inopsidium
 Inosan
@@ -38159,6 +38242,7 @@ Iryanthera
 Iryna Kulesha
 Iryna Lishchynska
 Iryna Yatchenko
+Irène Joliot-Curie
 Irène Némirovsky
 Is This Love (cançó de Bob Marley & The Wailers)
 Isaac Albéniz
@@ -38288,6 +38372,7 @@ Isometrum
 Ison d'Aigalaias
 Isonandra
 Isonema
+Isoperla asiatica
 Isophysis
 Isoplexis
 Isopogon
@@ -38702,6 +38787,7 @@ Jack Murdoch
 Jack Nicholson
 Jack Ruby
 Jack Sock
+Jack Sparrow
 Jack Swilling
 Jack Taylor (nedador)
 Jack Tramiel
@@ -39723,6 +39809,7 @@ Joan Peiró i Belis
 Joan Rafart i Roldán
 Joan Ramon i Pera
 Joan Reventós i Carner
+Joan Riedweg Pérez
 Joan Sabaté i Borràs
 Joan Sallent i Prat
 Joan Sans i Alsina
@@ -40214,6 +40301,7 @@ John Nance Garner
 John Nevell
 John Newcombe
 John Norris (Royal Navy officer)
+John Norton (waterpolista)
 John Nunn
 John Nunn (remer)
 John O'Brien (desenvolupador de videojocs)
@@ -40343,6 +40431,7 @@ Johnny Ringo
 Johnny Rivers
 Johnny Torrio
 Johnny Weissmuller
+Johnson Bwalya
 Johnson Publishing Company
 Johnsonia
 Johnstonalia
@@ -40603,6 +40692,7 @@ Josep Maria Bartomeu i Floreta
 Josep Maria Batlle i Farran
 Josep Maria Benaiges
 Josep Maria Bofill i Pichot
+Josep Maria Dalmau i Puig de la Bellacasa
 Josep Maria Elias i Xivillé
 Josep Maria Espinàs
 Josep Maria Esquerda i Segués
@@ -40626,6 +40716,7 @@ Josep Mompou i Dencausse
 Josep Mussons i Mata
 Josep Obiols i Navarro
 Josep Oriol Mestres i Esplugas
+Josep Palomer i Alsina
 Josep Pau Garcia Castany
 Josep Piqué i Camps
 Josep Pla i Casadevall
@@ -40636,6 +40727,7 @@ Josep Quirante Pineda
 Josep Raich
 Josep Renom i Costa
 Josep Rodríguez (bibliògraf)
+Josep Rodríguez Ferrer
 Josep Romeu i Figueras
 Josep Rosell i Casablancas
 Josep Samitier
@@ -41008,6 +41100,7 @@ Juan Pablo Mártir Rizo
 Juan Pablo Raba
 Juan Pablo Sorín
 Juan Pablo Vizcardo y Guzmán
+Juan Peláez González
 Juan Pérez de Tudela
 Juan Roberto Seminario
 Juan Rodríguez de Fonseca
@@ -41459,6 +41552,7 @@ Kalaylıkoz Hacı Ahmed Paixà
 Kalbreyeriella
 Kalevi Aho
 Kalhora
+Kali Linux
 Kali Yuga
 Kali macrodon
 Kali normani
@@ -41586,6 +41680,7 @@ Karkin
 Karl A. Wittfogel
 Karl Aletter
 Karl Böhm
+Karl Decker (futbolista)
 Karl Ditters von Dittersdorf
 Karl Ferdinand Braun
 Karl Filtsch
@@ -42459,6 +42554,7 @@ Krameriaceae
 Krapfia
 Krapovickasia
 Krascheninnikovia
+Krasni Gai
 Krasnovia
 Krastiu Semerdzhiev
 Kraunhia
@@ -42497,6 +42593,7 @@ Kristy Pigeon
 Kristyan Ferrer
 Krivi Rih
 Krom el Guerrero
+Krombia
 Krome Studios Melbourne
 Kronstadt
 Kropótkine
@@ -42828,6 +42925,7 @@ La Bóveda de Toro
 La Cage aux Folles
 La Cagoule
 La Campana de Gràcia
+La Canonja
 La Capèla de Biront
 La Capèla de Marmanda
 La Cardeuse de matelas
@@ -42910,6 +43008,7 @@ La Cubana
 La Cueva de Roa
 La Cuisine de l'ogre
 La Curée
+La Cygne
 La Dame fantôme
 La Damnation de Faust (pel·lícula)
 La Danse du feu (pel·lícula de 1899)
@@ -43038,6 +43137,7 @@ La Nouvelle Peine de mort
 La Nueva Yma Sumac (Lo que nos dejó la revolución)
 La Orotava
 La Parada (Òlt i Garona)
+La Peirota
 La Pena (Droma)
 La Perle des servantes
 La Pernelle
@@ -43130,6 +43230,7 @@ La Vau d'Ais
 La Vaufrancha
 La Vavetz
 La Vendelée
+La Verneda i la Pau
 La Veu de Catalunya
 La Vialadiau
 La Vialatèla
@@ -43168,6 +43269,7 @@ La dona a l'Antic Egipte
 La dona del campió
 La donna del moro
 La estrategia del caracol
+La flaqueza del bolchevique (pel·lícula)
 La força de la tendresa
 La fuga de Segovia
 La fuga de Tarzan
@@ -43194,6 +43296,7 @@ La meva família i altres animals (pel·lícula)
 La meva família i altres animals (sèrie de televisió)
 La meva obsessió per Helena
 La meva vida (Mosley)
+La mort d'un viatjant (pel·lícula de 1985)
 La mosquitera (pel·lícula)
 La muntanya de Sainte-Victoire vista des de Bibémus
 La muralla
@@ -43240,6 +43343,7 @@ La volta al món en vuitanta dies (pel·lícula)
 La xarxa social
 La zona morta
 La última cena
+La última cinta
 LaLiga
 LaSexta
 LaTasha Colander
@@ -43321,6 +43425,7 @@ Lactuca
 Lacturidae
 Lacunaria
 Lacus Fucinus
+Lacón
 Ladapèira
 Ladeania
 Ladenbergia
@@ -43364,6 +43469,7 @@ Laetia
 Laevicaulis haroldi
 Lafayette (Indiana)
 Lafayette Escadrille
+Laflammeïta
 Lafoensia
 Lafuentea
 Lag ba-Ómer
@@ -45009,6 +45115,7 @@ Leymus
 Leysera
 Leça Futebol Clube
 Leïla Slimani
+Leònida Malatesta de Roncofreddo
 León Trotsky
 León de Arroyal
 Leżajsk
@@ -45695,6 +45802,7 @@ Llacuna d'Alvarado
 Llagunoa
 Llamasoft
 Llana
+Llanera
 Llano de Bureba
 Llanterna màgica
 Llança
@@ -46084,6 +46192,7 @@ Llista d'obertures d'escacs
 Llista d'obertures d'escacs amb nom de persona
 Llista d'objectes de JoJo's Bizarre Adventure items
 Llista d'oficials i líders del Partit Nazi
+Llista d'ordinadors ficticis
 Llista d'ordres de plantes
 Llista d'ossos dels Pirineus
 Llista d'universitats de Finlàndia
@@ -46214,6 +46323,7 @@ Llista de púlsars de raigs X
 Llista de quàsars
 Llista de reis de Castella
 Llista de reis de França
+Llista de reis dels francs
 Llista de reis sumeris
 Llista de rellotgers catalans
 Llista de reserves índies dels Estats Units
@@ -46229,6 +46339,7 @@ Llista de topònims de Bausen
 Llista de topònims de Breda
 Llista de topònims de Tavèrnoles
 Llista de topònims de Tremp
+Llista de topònims de Vallcebre
 Llista de torneigs d'escacs d'alt nivell
 Llista de torneigs d'escacs round-robin
 Llista de vaixells actuals de la Marina dels Estats Units
@@ -46294,6 +46405,7 @@ Lloyds Banking Group
 Lluc (evangelista)
 Llucià
 Lluita
+Lluita als Jocs Olímpics d'estiu de 1904 - Pes ploma
 Lluita als Jocs Olímpics d'estiu de 1920
 Lluita als Jocs Olímpics d'estiu de 1924
 Lluita de classes
@@ -46382,6 +46494,7 @@ Lo Bois (Droma)
 Lo Borg (Cruesa)
 Lo Borg (Droma)
 Lo Brulh
+Lo Calvari (Torre-serona)
 Lo Chafau
 Lo Chambon de Sent Sarnin
 Lo Chambon de Senta Crotz
@@ -46413,6 +46526,7 @@ Lo Raiet
 Lo Schiavo
 Lo Temple (Òlt i Garona)
 Lo Tolonet
+Lo Tòr
 Lo Vilar de Dun
 Loasa
 Loasaceae
@@ -46759,6 +46873,7 @@ Lost Caves
 Lost Girl
 Lost Odyssey
 Lost Patrol
+Lost in Space (sèrie de televisió de 1965)
 Lost in Translation
 LostWinds
 Lotella phycis
@@ -46802,6 +46917,7 @@ Louis Helm
 Louis Henri Sullivan
 Louis Hostin
 Louis Hugh Wilson, Jr.
+Louis Le Prince
 Louis Leakey
 Louis Lebègue Duportail
 Louis Malle
@@ -46955,6 +47071,7 @@ Lucasfilm
 Lucasfilm Games
 Lucasflim
 Lucca
+Luce Fabbri
 Lucelle
 Lucena
 Lucenay-l'Évêque
@@ -46964,11 +47081,14 @@ Lucho González
 Luci Appuleu
 Luci Baines Johnson
 Luci Flavi Silva
+Luci Juni Moderat Columel·la
+Luci Papiri Cras (cònsol 368 aC)
 Luci d'Adrianòpolis
 Lucia Bassi
 Lucian Bute
 Lucian Sânmărtean
 Luciano Becchio
+Luciano Germán Vella
 Luciano Narsingh
 Luciano Negrini
 Luciano Pavarotti
@@ -48052,6 +48172,7 @@ Mallerenga blava
 Mallomys gunung
 Mallophyton
 Mallorca
+Mallorca Summer Cup
 Mallory Jansen
 Mallotus
 Malmea
@@ -48534,6 +48655,7 @@ Marc Erwich
 Marc Guggenheim
 Marc Huster
 Marc Meseguer
+Marc Minuci Fes
 Marc Muniesa
 Marc Muniesa i Martínez
 Marc Overmars
@@ -48663,6 +48785,7 @@ Mare Teresa
 Mare de Déu
 Mare de Déu de Meritxell
 Mare de Déu de la Candela
+Mare de Déu de les Pedreres
 Mare de Déu del Roser de l'Ametlla de Casserres
 Marea
 Marek Gołąb
@@ -48718,6 +48841,7 @@ Margaritopsis
 Margeir Pétursson
 Margelliantha
 Margherita Buy
+Margherita Cagol
 Margherita Dall'Aglio
 Margherita Sarfatti
 Marginatocereus
@@ -48803,11 +48927,13 @@ Maria Vergova-Petkova
 Maria Vicol
 Maria Xaràpova
 Maria de Betània
+Maria de Frederic
 Maria de Lurdes Mutola
 Maria de la Mercè de Borbó-Dues Sicílies
 Maria del Pilar Maspons i Labrós
 Maria, mare de Jesús
 Maria-Lluïsa de França
+MariaDB
 Mariaan de Swardt
 Mariage de raison et mariage d'amour
 Mariage par correspondance
@@ -49374,6 +49500,7 @@ María Isabel Salud Areste
 María Isabel Urrutia Ocoró
 María José Català Verdet
 María José Martínez
+María José Masip Sanchis
 María León Barrios
 María Luisa Bemberg
 María Luisa Ponte Mancini
@@ -49413,6 +49540,7 @@ Masatoshi Nakayama
 Masaya Tokuhiro
 Masayoshi Itō
 Masayoshi Ōhira
+Masayuki
 Masayuki Hisataka
 Masayuki Ishikawa
 Masayuki Kusumi
@@ -49460,6 +49588,7 @@ Massacre de polonesos a Volínia
 Massacres d'Adana
 Massai
 Massai (mimbreny)
+Massicites
 Massilly
 Massimiliano Allegri
 Massimo Dapporto
@@ -50253,6 +50382,7 @@ Memorial
 Memorial Alekhine
 Memorial Capablanca
 Memorial Sloan Kettering Cancer Center
+Memorial Steilneset
 Memories & Dreams
 Memories Within Miss Aggie
 Memoràndum de Budapest
@@ -50347,6 +50477,7 @@ Mercy-le-Bas
 Mercy-le-Haut
 Mercè Aroz i Ibáñez
 Mercè Bayona i Codina
+Mercè Rossell Domènech
 Mercè Vilaret i Llop
 Mere Hüseyin Paixà
 Meredith McGrath
@@ -50391,6 +50522,7 @@ Meridià 150 a l'est
 Meridià 150 a l'oest
 Meridià 155 a l'est
 Meridià 155 a l'oest
+Meridià 157 a l'est
 Meridià 160 a l'est
 Meridià 160 a l'oest
 Meridià 165 a l'est
@@ -51420,6 +51552,7 @@ Mingrelians
 Mini Estadi
 Mini-Putt
 MiniDiscs (Hacked)
+Minidoka
 Miniestadi
 Minigun
 Minilabrus striatus
@@ -51489,6 +51622,7 @@ Miou-Miou
 Miquel Arcàngel Fargas i Roca
 Miquel Asins
 Miquel Bofill i Abelló
+Miquel Boix i Carreras
 Miquel Brasó i Vaqués
 Miquel Casablancas i Juanicó
 Miquel II de Rússia
@@ -51757,6 +51891,7 @@ Modest Mussorgski
 Modest Mússorgski
 Modest de Trèveris
 Modesto Lafuente
+Modi Fabidi
 Modiola
 Modiolastrum
 Modoc (grup humà)
@@ -51980,6 +52115,7 @@ Monkey Island 2: LeChuck's Revenge
 Monnaie (Indre i Loira)
 Monnina
 Mono (llengua)
+Mono con gallinas
 Monoblastozoa
 Monocarpia
 Monocentris japonica
@@ -52877,6 +53013,7 @@ Museu Pelé
 Museu Pergamon
 Museu Rafael Casanova
 Museu Torre Balldovina
+Museu d'Arqueologia de Catalunya (Girona)
 Museu d'Art Asiàtic de Berlín
 Museu d'Art Contemporani d'Elx
 Museu d'Art Contemporani de Barcelona
@@ -52903,6 +53040,7 @@ Museu de la Casa de Leighton
 Museu de la Llengua Portuguesa
 Museu de la Mediterrània
 Museu de la Stasi
+Museu de la catedral de Ferrara
 Museu de la comunicació
 Museu del Disseny de Barcelona
 Museu del FC Barcelona
@@ -52931,6 +53069,7 @@ Mussolini
 Mussols
 Mussy-la-Fosse
 Mussy-sous-Dun
+Mustafà ibn Mahmud
 Mustela
 Mustela lutreola
 Mustela lutreolina
@@ -53257,6 +53396,7 @@ Múrcia
 Múrmansk
 Múscul
 Múscul antagonista
+Múscul braquial
 Múscul esquelètic
 Múscul llis
 Músic
@@ -53408,6 +53548,7 @@ Nadius americans
 Nadja Uhl
 Nadzeya Astapchuk
 Nafissatou Thiam
+Nafta
 Nagaland
 Nagapattinam
 Nagarjunakonda
@@ -53502,6 +53643,7 @@ Nannobrachium achirus
 Nannobrachium atrum
 Nannobrachium indicum
 Nannobrachium lineatum
+Nannobrachium nigrum
 Nannocampus elegans
 Nannocampus pictus
 Nannocampus subosseus
@@ -53702,6 +53844,7 @@ Natasha Morrison
 Natges
 Nathalie Baye
 Nathalie Dechy
+Nathalie Lemel
 Nathalie Poza
 Nathalie Poza Maupain
 Nathaliella
@@ -54410,6 +54553,7 @@ Neutroni
 Neutrí
 Neutròfil
 Neutró
+Neuvelle-lès-Cromary
 Neuves-Maisons
 Neuville-au-Plain
 Neuville-en-Beaumont
@@ -56489,6 +56633,7 @@ Orania
 Oranienbaum
 Oraniopsis
 Orazio Benevoli
+Orazio Scaletta
 Orbaneja Riopico
 Orbea
 Orbeanthus
@@ -56501,6 +56646,7 @@ Orbivestus
 Orbix the Terrorball
 Orchaise
 Orchamps-Vennes
+Orchards
 Orchas
 Orchidaceae
 Orchidactyla
@@ -56642,6 +56788,7 @@ Oreocnemis phoenix
 Oreocnide
 Oreocomopsis
 Oreodaphne
+Oreoglanis hypsiurus
 Oreolalax chuanbeiensis
 Oreolalax liangbeiensis
 Oreolalax omeimontis
@@ -56722,6 +56869,7 @@ Orgull nacional
 Orgànul
 Orgànuls
 Orhan Oguz
+Orhan Oğuz
 Ori and the Blind Forest
 Oriastrum
 Oribasia
@@ -57324,6 +57472,7 @@ Oyez Project
 Oysterville (Washington)
 Oyuncak Hikayesi 3
 Oz Software
+Ozark (sèrie de televisió)
 Ozenay
 Ozerailles
 Ozeville
@@ -57881,6 +58030,7 @@ Papualthia
 Papuanthes
 Papuechites
 Paquerina
+Paquito García Gómez
 Para Academy
 Para Assault Course
 Para recibir el canto de los pájaros
@@ -59560,6 +59710,7 @@ Pere Agustí Morlà
 Pere Antiga i Suñer
 Pere Arbués
 Pere Arquillué i Cortadella
+Pere Barrera i Volar
 Pere Bohigas i Balaguer
 Pere Borrell
 Pere Cabot i Roldós
@@ -59568,6 +59719,7 @@ Pere Casaldàliga i Pla
 Pere Casas Torres
 Pere Comas i Calvet
 Pere Coromines i Montanya
+Pere Cortès Moll
 Pere Dan
 Pere Domingo i Sanjuán
 Pere Estrems
@@ -59576,6 +59728,7 @@ Pere II del Brasil
 Pere Jacint Morlà
 Pere Joan Cererols i Fornells
 Pere Macias i Arau
+Pere Mesquida Obrador
 Pere Mir i Puig
 Pere Muñoz i Hernández
 Pere Màrtir d'Angleria
@@ -59627,6 +59780,7 @@ Pericopsis
 Perideridia
 Peridiscaceae
 Peridiscus
+Peridotita
 Periestes
 Perifèria d'Àtica
 Perifèric
@@ -59892,6 +60046,7 @@ Peter Kubelka
 Peter Lammer
 Peter Lang (publishing company)
 Peter Lawrence
+Peter Lax
 Peter Liepa
 Peter Luttenberger
 Peter M Harrap
@@ -59966,6 +60121,7 @@ Petopentia
 Petr Cermak
 Petr Jákl
 Petra Felke
+Petra Krause
 Petra Kvitova
 Petra Kvitová
 Petra Müller
@@ -60302,6 +60458,7 @@ Philipp de Mons
 Philippe Bernat-Salles
 Philippe Chatrier Award
 Philippe Christanval
+Philippe Couillard
 Philippe Coutinho Correia
 Philippe Garrel
 Philippe Lamberts
@@ -60927,6 +61084,7 @@ Pirão
 Piròlisi
 Pis de soroll
 Pisanka
+Piscataway (àrea no incorporada)
 Piscidia
 Piscina
 Piso Zero
@@ -61717,6 +61875,7 @@ Pol Galofre i Molero
 Pol Nord
 Pol Pot
 Pol Sud
+Pol d'inaccessibilitat
 Pol nord
 Pol sud
 Polanisia
@@ -62237,6 +62396,7 @@ Portaveu (desambiguació)
 Portbail
 Porte monumentale
 Portea
+Portella Gran
 Portenschlagiella
 Porter (futbol)
 Porterandia
@@ -62264,6 +62424,7 @@ Portulaca
 Portulacaceae
 Portulacaria
 Portunyol riverense
+Portè
 Porífer
 Poseidon: Planet Eleven
 Posició fortificada de Lieja
@@ -63459,6 +63620,7 @@ Provença
 Proverbi
 Providence (Rhode Island)
 Providence Park
+Província Central (Sri Lanka)
 Província d'Herat
 Província d'Inquisivi
 Província d'Omsk
@@ -64007,6 +64169,7 @@ Psycho Pigs UXB
 Psycho Soldier
 Psychoda
 Psychoda bicordata
+Psychoda hemicorcula
 Psychodidae
 Psychodini
 Psychopsis
@@ -64573,6 +64736,7 @@ Quan Ji
 Quan Shang
 Quan Yi
 Quan bull la sang
+Quan la pols es fa cendra
 Quanah Parker
 Quantico
 Quantificació digital
@@ -65596,6 +65760,7 @@ Redmond (Washington)
 Redondo Beach
 Redox
 Reducció
+Reducció de Clemmensen
 Reducte Nacional de Bèlgica
 Reebok
 Reed Diamond
@@ -67456,6 +67621,7 @@ Roelos de Sayago
 Roemeria
 Roepera
 Roeperocharis
+Roergue
 Rofiac (Òlt i Garona)
 Rogadius asper
 Rogadius melanopterus
@@ -67550,6 +67716,7 @@ Rolf Liebermann
 Rolf Milser
 Rolf Spring
 Rolf Thorsen
+Rolf Witthöft
 Rolf de Heer
 Rollandia microptera
 Rollaround
@@ -67647,6 +67814,7 @@ Ronald Hilton
 Ronald Koeman
 Ronald M. Bozman
 Ronald Neame
+Ronald Osvaldo Cerritos Flores
 Ronald Pope
 Ronald Reagan
 Ronald Rhodes (desenvolupador de videojocs)
@@ -68819,6 +68987,7 @@ Salacia
 Salacighia
 Saladí
 Salafisme
+Salah al-Din
 Salamanca
 Salamander (videojoc arcade)
 Salamander (videojoc)
@@ -68915,6 +69084,7 @@ Salsabila Khairunnisa
 Salsola
 Salt Lake City
 Salt a l'illa
+Salt amb esquís als Jocs Olímpics d'hivern de 1972
 Salt de llargada
 Salt de perxa
 Salt enrere
@@ -68945,6 +69115,7 @@ Salvador Moncada
 Salvador Riera
 Salvador Sadurní
 Salvador Seguí i Rubinat
+Salvador Vergara Larralde
 Salvadora
 Salvadoraceae
 Salvadoropsis
@@ -69106,6 +69277,7 @@ San Diego Comic-Con
 San Diego Reader
 San Esteban del Molar
 San Felice del Molise
+San Felipe el Real
 San Francisco
 San Francisco (Califòrnia)
 San Francisco Chronicle
@@ -69345,6 +69517,7 @@ Santa Maria de Breda
 Santa Maria de Mur
 Santa Maria de Vilabertran
 Santa Maria del Fiore
+Santa Marinella
 Santa Marta (Òlt i Garona)
 Santa María Rivarredonda
 Santa María de Valverde (Zamora)
@@ -69410,6 +69583,7 @@ Santovenia
 Santoña
 Sants Trafficante
 Santuari Impala de Kisumu
+Santuari d'animals
 Santuari del Bom Jesus de Matosinhos
 Santuari del Báb
 Sanuki dialect
@@ -70217,6 +70391,7 @@ Scrubs
 Scuba Dive (videojoc)
 Scuba Kidz
 Scuderia Ferrari
+Scum of the Earth!
 Scumball
 Scump
 Scurrula
@@ -70497,6 +70672,7 @@ Segregació racial als Estats Units
 Segrest
 Segrià
 Seguieria
+Segur de Calafell
 Seguretat
 Seguretat informàtica
 Segódnia
@@ -71021,6 +71197,7 @@ Serrivomer jesperseni
 Serrières (Saona i Loira)
 Serrouville
 Serruria
+Serrà
 Sersalisia
 Sertanejo
 Sertifera
@@ -71561,6 +71738,7 @@ Siegfried Brietzke
 Siegfried Denk
 Siegfried Fricke
 Siegfried Kurtz
+Siegfried Matthus
 Siegrun Siegl
 Siehe zu, daß deine Gottesfurcht nicht Heuchelei sei, BWV 179
 Siehe, der Hüter Israel, BWV Anh. 15
@@ -72019,6 +72197,7 @@ Siris
 Sirius FM-5
 Sirochloa
 Sirwood
+Sis dies de Buenos Aires
 Sis fragates originals de la Marina dels Estats Units
 Sisena Croada
 Sisena flota (Estats Units)
@@ -72795,6 +72974,7 @@ Spenceria
 Spend Spend Spend
 Speocirolana thermydromis
 Speoplatyrhinus poulsoni
+Speos Artemidos
 Speothos
 Speranskia
 Spergula
@@ -73983,6 +74163,7 @@ Succinea quadrasi
 Succisa
 Succisella
 Succowia
+Succés
 Sucker Free City
 Suckleya
 Sucre
@@ -75640,6 +75821,7 @@ Temporada 1992-1993 del FC Barcelona
 Temporada 1993-1994 del FC Barcelona
 Temporada 1994-1995 del FC Barcelona
 Temporada 1995-1996 del FC Barcelona
+Temporada 1995-1996 del RCD Espanyol
 Temporada 1996 de Fórmula 1
 Temporada 1996-1997 del FC Barcelona
 Temporada 1997-1998 del FC Barcelona
@@ -75661,6 +75843,7 @@ Temporada 2012-2013 del FC Barcelona
 Temporada 2013-2014 del FC Barcelona
 Temporada 2014-2015 del FC Barcelona
 Temporada 2015-2016 del FC Barcelona
+Temporada 2016-17 de l'NBA
 Temporada 2016-2017 del FC Barcelona
 Temporada 2016-2017 del Teatre Nacional de Catalunya
 Temporada 2017-2018 del FC Barcelona
@@ -76559,6 +76742,7 @@ The Pajama Game
 The Paper
 The Paranoia Complex
 The Party's Over (1965 film)
+The Passion Flower (pel·lícula de 1921)
 The Pawn
 The Pawnbroker
 The Pawnshop
@@ -76831,6 +77015,7 @@ There Be Dragons
 There There
 Thereianthus
 Theresa Barrera
+Therese Malfatti
 Theresia Kiesl
 Theriophonum
 Thermae Romae
@@ -77580,6 +77765,7 @@ Tomblaine
 Tombstone (Arizona)
 Tomcat (videojoc)
 Tomehane! Suzuri Kōkō Shodōbu
+Tomelloso Club de Fútbol
 Tomentaurum
 Tomi Nybäck
 Tomicha cawstoni
@@ -79810,6 +79996,7 @@ USS Gridley (DLG-21)
 USS Hannah
 USS Idaho (BB-42)
 USS Independence (LCS-2)
+USS Iowa (BB-61)
 USS John F. Kennedy (CVN-79)
 USS Kentucky (SSBN-737)
 USS Kitty Hawk (CV-63)
@@ -80637,6 +80824,7 @@ Valentí Fuster Carulla
 Valentín Pàvlov
 Valença
 Valer Toma
+Valeri Borzov
 Valeri Dolinin
 Valeri Serra i Boldú
 Valeria Bufanu
@@ -81092,6 +81280,7 @@ Venus Bucureşti
 Venus Express
 Venus Williams
 Venècia
+Venèla
 Vepris
 Ver (Manche)
 Vera Anisimova
@@ -81144,6 +81333,7 @@ Vermell
 Vermes
 Vermivora bachmanii
 Vermont
+Vernaya
 Verne (Doubs)
 Vernejas
 Vernet
@@ -81339,6 +81529,7 @@ Victoria and Albert Museum
 Victoria's Secret
 Victorian Hard Court Championships
 Victorian Honour Roll of Women
+Victorina Durán
 Victorio
 Victory Road (videojoc)
 Victòria (Austràlia)
@@ -81896,6 +82087,7 @@ Vitex
 Viticella
 Vitinha (footballer, born 2000)
 Vitis
+Vito Taccone
 Vitrey
 Vitrimont
 Vitry-en-Charollais
@@ -82253,6 +82445,7 @@ Vèrtebres
 Vèrtebres cervicals
 Vèrtex geodèsic
 Vèrç (Droma)
+Vélez de Benaudalla
 Véretz
 Vérissey
 Vézelise
@@ -83515,6 +83708,7 @@ Xbox One
 Xecutor
 Xeic Ahmad Iassín
 Xeiene
+Xekliàievo
 Xeminí Atséret
 Xenacanthus
 Xenacoelomorpha
@@ -84220,6 +84414,7 @@ Zapoteca (llengua)
 Zappos
 Zaragoza Club Deportivo
 Zaragoza de Viala
+Zardón
 Zarema Kasaeva
 Zarzià
 Zarzosa de Río Pisuerga
@@ -84791,6 +84986,7 @@ transistor
 Çerkes Mehmed Ali Paixà
 Çorlulu Damat Ali Paixà
 Çorlulu Köse Bahir Mustafà Paixà
+Çò des de Pishon
 Ègloga
 Èpica
 Època (astronomia)
@@ -84993,6 +85189,7 @@ transistor
 ŠK Slovan Bratislava
 Štefan Füle
 Šárka Kašpárková
+Žlkovce
 Șișești, Mehedinți
 Ștefan Constantin Berariu
 Ștefan Dobay
@@ -86015,6 +86212,7 @@ Aaronsohnia
 Aayushdeora maadus
 Ab urbe condita
 Ab-Soul
+Aba d'Olba
 Ababda
 Abadia de Westminster
 Abajas
@@ -86093,6 +86291,7 @@ Aberdeen Gardens
 Abezames
 Abhijeet Gupta
 Abhijit Banerjee
+Abidji
 Abigail Spears
 Abilene (Kansas)
 Abilene (Texas)
@@ -86148,6 +86347,7 @@ Abu Dis
 Abu Said Bahadur Khan
 Abu Salabikh
 Abu Salih
+Abu l-Ghazi Khan II
 Abudefduf bengalensis
 Abudefduf margariteus
 Abudefduf natalensis
@@ -86842,6 +87042,7 @@ Adventureland (videojoc)
 Advocat
 Aechmea
 Aeci (metge)
+Aeció (pintor)
 Aedesia
 Aegerten
 Aegialeus (mythology)
@@ -86981,6 +87182,7 @@ Afrithelphusa afzelii
 Afrithelphusa gerhildae
 Afrithelphusa leonensis
 Afrithelphusa monodosus
+Afrixalus aureus
 Afrixalus knysnae
 Afrixalus lacteus
 Afrixalus sylvaticus
@@ -87548,6 +87750,7 @@ Alberic
 Alberic O'Kelly de Galway
 Alberico Archinto
 Albericus siegfriedi
+Albericus tuberculus
 Albert Arnheiter
 Albert Barillé
 Albert Blees
@@ -87557,6 +87760,7 @@ Albert Celades
 Albert Celades i López
 Albert Coates
 Albert Cotó
+Albert Demangeon
 Albert Donés i Antequera
 Albert E. Brumley
 Albert E. Smith (producer)
@@ -89588,6 +89792,7 @@ Anjelica Huston
 Ankara
 Ankaragücü
 Anke Behmer
+Ankinovitxita
 Ankyropetalum
 Ankō Itosu
 Ann Glover
@@ -90010,6 +90215,7 @@ Antoni Maria Ques Ventanyol
 Antoni Maria de Ferrater i Bofill
 Antoni Mateu Ferrer
 Antoni Maura i Montaner
+Antoni Obrador i Adrover
 Antoni Oliver i Gras
 Antoni Olmo
 Antoni Olmo i Ramírez
@@ -90069,6 +90275,7 @@ Antonio Miguel Mateu Lahoz
 Antonio Munguía
 Antonio Panzieri
 Antonio País
+Antonio Pedro Miralles
 Antonio Porpetta
 Antonio Pérez del Hierro
 Antonio Rukavina
@@ -91055,6 +91262,7 @@ Arquitectura General per a Enginyeria de Textos
 Arquitectura barroca
 Arquitectura de Mesopotàmia
 Arquitectura de Rússia
+Arquitectura del Renaixement
 Arquitectura del Tercer Reich
 Arquitectura dels Estats Units
 Arquitectura dravidiana
@@ -91280,6 +91488,7 @@ Arturo Fasana
 Arturo Merzario
 Arturo Pérez-Reverte
 Arturo Ripstein
+Arturo Vanbianchi
 Arturo Vidal
 Arturo Álvarez-Buylla Roces
 Artus Aux-Cousteaux
@@ -92147,6 +92356,7 @@ Aus tiefer Not schrei ich zu dir, BWV 38
 Ausança
 Auschwitz
 Auschwitz-Birkenau
+Ausesken
 Auspici
 Austerlitz 1805
 Austin
@@ -92301,6 +92511,7 @@ Avatar (pel·lícula)
 Avatar 3
 Avatar 4
 Avelino Corma Canós
+Avellaneda
 Avellanita
 Avellanosa de Muñó
 Avellara
@@ -92401,6 +92612,7 @@ Azadirachta
 Azalea
 Azanza
 Azara
+Azarah
 Azarquiel
 Azay-le-Rideau (municipi)
 Azay-sur-Cher
@@ -92478,6 +92690,7 @@ BGM-109 Tomahawk
 BIBSYS
 BIOMASS
 BLITS
+BMW 600
 BMX Freestyle Simulator
 BMX Kidz
 BMX Ninja
@@ -92995,6 +93208,7 @@ Barcelona Occidental
 Barcelona Oriental
 Barcelona SC
 Barcelona Sporting Club
+Barceloneta
 Barcelonès
 Barcelonès Nord
 Barcial del Barco
@@ -93050,6 +93264,7 @@ Barnum's American Museum
 Barnum's Aquarial Gardens
 Baron (Saona i Loira)
 Barongia
+Baronia d'Arenós
 Baronia de Castellnou
 Baroniella
 Barque sortant du port de Trouville
@@ -93172,6 +93387,7 @@ Basistemon
 Baskaran Adhiban
 Baskervilla
 Baslieux
+Basma
 Basquetbol
 Bass Lake
 Bass Reeves
@@ -93285,6 +93501,7 @@ Batalla de Saratoga
 Batalla de Sargaton
 Batalla de Sisauranon
 Batalla de Solachon
+Batalla de Sprimont
 Batalla de Springfield (1780)
 Batalla de St. Lucia
 Batalla de Starobilsk
@@ -93570,6 +93787,7 @@ Beauchamp Seymour, 1st Baron Alcester
 Beauchamps (Manche)
 Beauchêne (Loir i Cher)
 Beaucoudray
+Beaufai
 Beauficel
 Beaufort Burdekin
 Beaufortia
@@ -93805,6 +94023,7 @@ Ben E. King
 Ben Gazzara
 Ben Harper
 Ben Hebard Fuller
+Ben Hetherington
 Ben Hunt-Davis
 Ben Hur (pel·lícula del 1959)
 Ben Jackson (desenvolupador de videojocs)
@@ -94079,6 +94298,7 @@ Berzelia
 Berzosa de Bureba
 Berzé-la-Ville
 Berzé-le-Châtel
+Berç Türker
 Besaias
 Besame Mucho
 Besants i rodelles
@@ -94593,6 +94813,7 @@ Blanc
 Blanc i negre
 Blanca Casas Brullet
 Blanca Portillo Martínez de Velasco
+Blancafort
 Blancafòrt
 Blanchetia
 Blanchetiastrum
@@ -94608,6 +94829,7 @@ Blanot (Saona i Loira)
 Blanqueig de diners
 Blanzy
 Blarians
+Blasdell
 Blasonament
 Blast Lärmen, ihr Feinde!, BWV 205a
 Blast i Diògenes de Roma
@@ -95198,6 +95420,7 @@ Boschia
 Boschniakia
 Boscia
 Bosconian
+Boscos semiperennifolis de la vall del Brahmaputra
 Boscos tropicals i subtropicals de frondoses secs
 Bosea
 Bosistoa
@@ -95314,6 +95537,7 @@ Boulevard of Broken Dreams
 Bounces (videojoc)
 Bound for Glory
 Boundary Waters
+Bounyong Boupha
 Bouquet d'illusions
 Bourbach-le-Bas
 Bourbach-le-Haut
@@ -96249,6 +96473,7 @@ Burseraceae
 Burt Bacharach
 Burt Lancaster
 Burthecourt-aux-Chênes
+Burtita
 Burton Jastram
 Burtonia
 Burttdavya
@@ -97264,6 +97489,7 @@ Can Bofill (Tordera)
 Can Borrell
 Can Carreras (Madremanya)
 Can Casacuberta
+Can Colomer dels Escarabats
 Can Flores
 Can Font (la Cellera de Ter)
 Can Llopard de Baix
@@ -97418,6 +97644,8 @@ Cantuffa
 Cantàbria
 Cantó d'Ernée
 Cantó de Blanzac-Porcheresse
+Cantó de Bordèras de Loron
+Cantó de Bulgnéville
 Cantó de Cancon
 Cantó de Ginebra
 Cantó de Malzéville
@@ -97790,6 +98018,7 @@ Carl Klose
 Carl Laemmle
 Carl Lehle
 Carl Lovsted
+Carl Mansker
 Carl Maria von Weber
 Carl Medjani
 Carl Monssen
@@ -98167,6 +98396,7 @@ Casa Taliesin
 Casa Universal de Justícia
 Casa Uralita
 Casa Vella de Borrell
+Casa a l'avinguda Blondel, 26 (Lleida)
 Casa ancestral
 Casa d'Ucraïna
 Casa d'Àustria
@@ -98207,6 +98437,7 @@ Caseolus subcalliferus
 Casernes dels Marines
 Casernes dels Marines, Washington DC
 Cases Computer Simulations
+Cases de palla de Cordeville, a Auvers-sur-Oise
 Casey Affleck
 Casey Bee Games
 Casey Dellacqua
@@ -98216,6 +98447,7 @@ Casiano Masi Edu
 Casidarròca
 Casimirella
 Casimiroa
+Casino Eldense
 Casino Royale (pel·lícula de 1967)
 Casino Royale (pel·lícula del 1967)
 Casparia
@@ -98270,6 +98502,7 @@ Castell de Miravet
 Castell de Montboló
 Castell de Piera
 Castell de Vernet
+Castell de la Portella
 Castell de mota i pati
 Castell monestir d'Escornalbou
 Castella
@@ -98337,6 +98570,7 @@ Catalanitat
 Catalans
 Catalepidia
 Catalepis
+Catalina Bufí Juan
 Catalina Saavedra
 Catalina Sandino Moreno
 Catalpa
@@ -98497,6 +98731,7 @@ Cayuela
 Cayuses
 Cazurra
 Cazuza
+Caça de balenes a les Illes Fèroe
 Caça de bruixes
 Caça esportiva
 Caçador
@@ -98644,6 +98879,7 @@ Centre Català de Caracas
 Centre Catòlic de Blanes
 Centre Cira
 Centre Comarcal Lleidatà
+Centre Cívic Mestre Salvador Fàbregas
 Centre Democràtic Social / Partit Popular (Portugal)
 Centre Europeu de Prediccions Meteorològiques a Mitjà Termini
 Centre Europeu de Prevenció i Control de Malalties
@@ -101165,6 +101401,7 @@ Cluster (sonda)
 Clutia
 Clux-Villeneuve
 Cluència
+Clyde (Carolina del Nord)
 Clyde Hefer
 Clyde King
 Clyde Tolson
@@ -101607,6 +101844,7 @@ Colt New Service
 Colt Official Police
 Colubrina
 Columba argentina
+Columba de Rieti
 Columba junoniae
 Columba pallidiceps
 Columbia
@@ -103202,6 +103440,7 @@ Coryanthes
 Corybas
 Corycium
 Corydalis
+Corydoras osteocarus
 Corylopsis
 Corylus
 Corymbia
@@ -106218,6 +106457,7 @@ Diafragma (múscul)
 Diagonal (periòdic)
 Diagrama color-color
 Diagrama de Hertzsprung-Russell
+Diagrama termodinàmic
 Diagramma labiosum
 Diagramma melanacrum
 Diagramma pictum
@@ -106346,6 +106586,7 @@ Dibrachionostylus
 Dibromodiethyl sulfone
 Dibuix
 Dicaeum quadricolor
+Dicamptodon
 Dicari
 Dicarpellum
 Dicarpidium
@@ -106932,6 +107173,7 @@ Dipturus johannisdavisi
 Dipturus laevis
 Dipturus lanceorostratus
 Dipturus lemprieri
+Dipturus olseni
 Dipturus sp. nov. L
 Dipturus springeri
 Dipturus stenorhynchus
@@ -107025,6 +107267,7 @@ Discoclaoxylon
 Discocleidion
 Discocnide
 Discoglypremna
+Discogobio macrophysallidos
 Discografia de Radiohead
 Discografia oficial de The Beatles
 Discogràfica
@@ -107337,6 +107580,7 @@ Districte federal
 Districte teatral
 Districtes d'Israel
 Districtes de Sevilla
+Distrofina
 Disturbis de Kosovo (2004)
 Disturbis del 6 de febrer de 1934
 Distyliopsis
@@ -107512,6 +107756,7 @@ Doederleinia berycoides
 Doellia
 Doellingeria
 Doerpfeldia
+Doerun
 Dofins
 Dofí de Hector
 Dofí de franja blanca
@@ -107641,6 +107886,7 @@ Domènec Balmanya i Perera
 Domènec Carulla
 Domènec Fita i Molat
 Domènec Rovira (desambiguació)
+Domènec Segimon Artells
 Domènec de Guzmán
 Domèstics
 Domèvre-en-Haye
@@ -108803,6 +109049,7 @@ Edward Blyth
 Edward Burns
 Edward C. Prescott
 Edward Clarke
+Edward Cocker
 Edward Codrington
 Edward Coley Burne-Jones
 Edward Elgar
@@ -108859,6 +109106,7 @@ Edwin van Haastert
 Eero Saarinen
 Eerste Divisie
 Eesti Päevaleht
+Eeva Kilpi
 Eeva Park
 Eeyorius hutchinsi
 Efecte Edison
@@ -109811,6 +110059,7 @@ Els Amics de Josep Sunyol
 Els Aspres
 Els Banys d'Arles
 Els Banys d'Arles i Palaldà
+Els Banys de la Presta
 Els Banys i Palaldà
 Els Bonds
 Els Contes de la cripta
@@ -109950,6 +110199,7 @@ Emet (Oklahoma)
 Emicida
 Emicocarpus
 Emigració
+Emil Bohn
 Emil Hácha
 Emil Knecht
 Emil Kostadinov
@@ -111180,6 +111430,7 @@ Església Ortodoxa Oriental
 Església Ortodoxa Russa
 Església Ortodoxa de Geòrgia
 Església catòlica
+Església d'Irlanda
 Església de Saint James (Londres)
 Església de San Jerónimo el Real
 Església de Sant Llorenç de Lleida
@@ -112161,6 +112412,7 @@ Evasió o victòria
 Evaun
 Eve Ensler
 Eve Harlow
+Eve's bayou (L'estany de l'Eva)
 Evegnée
 Evelin Jahl
 Evelina Cabrera
@@ -112922,6 +113174,7 @@ Fatuma Roba
 Fatwa
 Faucaria
 Faucherea
+Faufau (cràter)
 Faujasia
 Faujasiopsis
 Faula
@@ -113450,6 +113703,7 @@ Festival Internacional de Cinema del Caire
 Festival Internacional de Curtmetratges d'Oberhausen
 Festival Internacional de Curtmetratges de Tampere
 Festival Internacional de Curtmetratges i Pel·lícules Animades de Sant Petersburg
+Festival Internacional de Música de Cadaqués
 Festival Internacional de l'Erotisme de Brussel·les
 Festival Internacional del Nou Cinema Llatinoamericà de l'Havana
 Festival International de Cinema Francòfon de Namur
@@ -114031,8 +114285,10 @@ Fonscochlea billakalina
 Font (tipografia)
 Font Mil
 Font de Borrell
+Font de Gió
 Font de l'Oreneta
 Font de la Vall de Santa Creu
+Font del Gatell (Sant Quirze Safaja)
 Font del Roure (Sant Genís dels Agudells)
 Font del Salencar
 Font documental
@@ -114072,6 +114328,7 @@ Football Champions
 Football Club Internazionale Milano
 Football Club København
 Football Club Lorient Bretagne Sud
+Football Club Numància
 Football Club Red Bull Salzburg
 Football Club de Metz
 Football Club de Nantes
@@ -114092,6 +114349,7 @@ Foquista
 For Gold or Glory
 For Queen and Country
 For Sale: a Baby
+For the Boys
 For the Cause of Suffrage
 For the Love of Rusty
 Fora de la llei
@@ -114656,6 +114914,7 @@ Franz Abt
 Franz Aigner
 Franz Andrysek
 Franz Anton Beckenbauer
+Franz Bernreiter
 Franz Federschmidt
 Franz Grassmann
 Franz Held
@@ -115620,6 +115879,7 @@ Garhadiolus
 Gari Biasillo
 Garinh
 Garland (Texas)
+Garnatxa blanca
 Garnieria
 Garnotia
 Garota Nacional
@@ -115684,6 +115944,7 @@ Gaseta de Madrid
 Gashadokuro
 Gashowu
 Gasoil
+Gaspar Espuña i Berga
 Gaspar Núñez de Arce
 Gaspar Rosés i Arús
 Gaspare Spontini
@@ -115757,6 +116018,7 @@ Gatopardo (revista)
 Gatteville-le-Phare
 Gatumdu
 Gatyona
+Gau d'Alta Silèsia
 Gaudichaudia
 Gaudinia
 Gaudí
@@ -115862,6 +116124,7 @@ Geiswasser
 Geitonoplesium
 Gekkan Shōjo Nozaki-kun
 Gel de sílice
+Gelació
 Gelarquniq
 Gelasia
 Gelasine
@@ -116575,6 +116838,7 @@ Giovanni Antonio Guadagni
 Giovanni Battista Mesmer
 Giovanni Battista Pergolesi
 Giovanni Battista Rotario
+Giovanni Benelli
 Giovanni Boccaccio
 Giovanni Bononcini
 Giovanni Botero
@@ -116682,6 +116946,7 @@ Gizeux
 Gièvres
 Giéville
 Gjellerupia
+Glacera de Blaitière
 Glacial Kame
 Glades
 Gladiator
@@ -116927,6 +117192,7 @@ Gnatífer
 Gnawa
 Gnephosis
 Gnetophyta
+Gneu Domici Ahenobarb (cònsol 162 aC)
 Gneu Juli Agrícola
 Gneu Pompeu Magne
 Gneu Servili Gemin
@@ -117647,6 +117913,7 @@ Grau de salari a les Forces Armades dels Estats Units
 Grau militar
 Grauanthus
 Graus de llibertat (estadística)
+Graus militars de la Unió Soviètica
 Gravador
 Gravastar
 Gravesia
@@ -118627,6 +118894,7 @@ Göttingen
 Gülsüm Kav
 Gümülcineli Damat Nasuh Paixà
 Gümüş
+Güneri Bey
 Günther Thiersch
 Gürcü Ağa Yússuf Paixà
 Gürcü Ismaïl Paixà
@@ -119046,6 +119314,7 @@ Hampstead Heath
 Hampton Court
 Hampton Roads
 Hamptons at Boca Raton
+Hamza ibn Alí
 Hamàs
 Han Dang
 Han Fu
@@ -119376,6 +119645,7 @@ Harry Blackstaffe
 Harry C. Wheeler
 Harry DeBaecke
 Harry Dean Stanton
+Harry Elkes
 Harry Fry
 Harry Hickox
 Harry Jorgensen
@@ -119834,6 +120104,7 @@ Hemiandra
 Hemianthus
 Hemiarius sona
 Hemiarrhena
+Hemibarbus songloensis
 Hemiboea
 Hemichaena
 Hemichordata
@@ -120111,6 +120382,7 @@ Herklotsichthys lossei
 Herklotsichthys punctatus
 Herklotsichthys quadrimaculatus
 Herklotsichthys spilurus
+Herlincourt
 Herlock Holmes and the Baskerville Curse
 Herma Bauma
 Herman Bailey
@@ -120741,6 +121013,7 @@ Història de Colorado
 Història de França
 Història de Geòrgia
 Història de Kansas
+Història de Mallorca
 Història de Mesopotàmia
 Història de Missouri
 Història de Nebraska
@@ -121719,6 +121992,7 @@ Hypersports
 Hypertelis
 Hyperthelia
 Hyphaene
+Hyphessobrycon balbus
 Hyphessobrycon paucilepis
 Hypnos monopterygius
 Hypoatherina barnesi
@@ -121816,6 +122090,7 @@ Héctor Moreno
 Héctor Pedro Scarone
 Hégenheim
 Hélas pour moi
+Hélène de Mandrot
 Hémevez
 Hénaménil
 Hércules de Brito Ruas
@@ -121909,6 +122184,7 @@ ITunes
 ITunes Music Store
 ITunes Originals
 ITunes Store
+IV Regió Militar
 IX Legislatura del Parlament Europeu
 Iacob Felecan
 Iacopo da Varazze
@@ -122466,6 +122742,7 @@ Incarum
 Incarvillea
 Incendi
 Incendi del Reichstag
+Incendis de l'Empordà de 2006
 Incentive Software
 Incest
 Incident de l'U-2 (1960)
@@ -122686,6 +122963,7 @@ Innocenci XII
 Innocenci XIII
 Innocent Bystanders
 Innokenti Smoktunovski
+Innsbrook
 Inocarpus
 Inopsidium
 Inosan
@@ -123091,6 +123369,7 @@ Iryanthera
 Iryna Kulesha
 Iryna Lishchynska
 Iryna Yatchenko
+Irène Joliot-Curie
 Irène Némirovsky
 Is This Love (cançó de Bob Marley & The Wailers)
 Isaac Albéniz
@@ -123220,6 +123499,7 @@ Isometrum
 Ison d'Aigalaias
 Isonandra
 Isonema
+Isoperla asiatica
 Isophysis
 Isoplexis
 Isopogon
@@ -123634,6 +123914,7 @@ Jack Murdoch
 Jack Nicholson
 Jack Ruby
 Jack Sock
+Jack Sparrow
 Jack Swilling
 Jack Taylor (nedador)
 Jack Tramiel
@@ -124019,6 +124300,7 @@ Jardinella acuminata
 Jardinella colmani
 Jardinella jesswiseae
 Jardinella pallida
+Jardiner regent
 Jardineria
 Jardins Botànics Reials de Kew
 Jardins de Can Mantega
@@ -124577,6 +124859,7 @@ Joan Bakewell
 Joan Baptista
 Joan Baptista Bruguera i Moreres
 Joan Baptista Cabanilles
+Joan Barbucal·le
 Joan Benoit
 Joan Biskupic
 Joan Bodon
@@ -125147,6 +125430,7 @@ John Nance Garner
 John Nevell
 John Newcombe
 John Norris (Royal Navy officer)
+John Norton (waterpolista)
 John Nunn
 John Nunn (remer)
 John O'Brien (desenvolupador de videojocs)
@@ -125276,6 +125560,7 @@ Johnny Ringo
 Johnny Rivers
 Johnny Torrio
 Johnny Weissmuller
+Johnson Bwalya
 Johnson Publishing Company
 Johnsonia
 Johnstonalia
@@ -125414,6 +125699,7 @@ Jordi Roura i Solà
 Jordi Rubió i Balaguer
 Jordi Sargatal
 Jordi Savall
+Jordi Serra
 Jordi Solé i Tura
 Jordi Vila i Foruny
 Jordi Vilajoana i Rovira
@@ -125536,6 +125822,7 @@ Josep Maria Bartomeu i Floreta
 Josep Maria Batlle i Farran
 Josep Maria Benaiges
 Josep Maria Bofill i Pichot
+Josep Maria Dalmau i Puig de la Bellacasa
 Josep Maria Elias i Xivillé
 Josep Maria Espinàs
 Josep Maria Esquerda i Segués
@@ -125559,6 +125846,7 @@ Josep Mompou i Dencausse
 Josep Mussons i Mata
 Josep Obiols i Navarro
 Josep Oriol Mestres i Esplugas
+Josep Palomer i Alsina
 Josep Pau Garcia Castany
 Josep Piqué i Camps
 Josep Pla i Casadevall
@@ -125569,6 +125857,7 @@ Josep Quirante Pineda
 Josep Raich
 Josep Renom i Costa
 Josep Rodríguez (bibliògraf)
+Josep Rodríguez Ferrer
 Josep Romeu i Figueras
 Josep Rosell i Casablancas
 Josep Samitier
@@ -125941,6 +126230,7 @@ Juan Pablo Mártir Rizo
 Juan Pablo Raba
 Juan Pablo Sorín
 Juan Pablo Vizcardo y Guzmán
+Juan Peláez González
 Juan Pérez de Tudela
 Juan Roberto Seminario
 Juan Rodríguez de Fonseca
@@ -126392,6 +126682,7 @@ Kalaylıkoz Hacı Ahmed Paixà
 Kalbreyeriella
 Kalevi Aho
 Kalhora
+Kali Linux
 Kali Yuga
 Kali macrodon
 Kali normani
@@ -126519,6 +126810,7 @@ Karkin
 Karl A. Wittfogel
 Karl Aletter
 Karl Böhm
+Karl Decker (futbolista)
 Karl Ditters von Dittersdorf
 Karl Ferdinand Braun
 Karl Filtsch
@@ -127392,6 +127684,7 @@ Krameriaceae
 Krapfia
 Krapovickasia
 Krascheninnikovia
+Krasni Gai
 Krasnovia
 Krastiu Semerdzhiev
 Kraunhia
@@ -127430,6 +127723,7 @@ Kristy Pigeon
 Kristyan Ferrer
 Krivi Rih
 Krom el Guerrero
+Krombia
 Krome Studios Melbourne
 Kronstadt
 Kropótkine
@@ -127761,6 +128055,7 @@ La Bóveda de Toro
 La Cage aux Folles
 La Cagoule
 La Campana de Gràcia
+La Canonja
 La Capèla de Biront
 La Capèla de Marmanda
 La Cardeuse de matelas
@@ -127843,6 +128138,7 @@ La Cubana
 La Cueva de Roa
 La Cuisine de l'ogre
 La Curée
+La Cygne
 La Dame fantôme
 La Damnation de Faust (pel·lícula)
 La Danse du feu (pel·lícula de 1899)
@@ -128064,6 +128360,7 @@ La Vau d'Ais
 La Vaufrancha
 La Vavetz
 La Vendelée
+La Verneda i la Pau
 La Veu de Catalunya
 La Vialadiau
 La Vialatèla
@@ -128129,6 +128426,7 @@ La meva família i altres animals (pel·lícula)
 La meva família i altres animals (sèrie de televisió)
 La meva obsessió per Helena
 La meva vida (Mosley)
+La mort d'un viatjant (pel·lícula de 1985)
 La mosquitera (pel·lícula)
 La muntanya de Sainte-Victoire vista des de Bibémus
 La muralla
@@ -128175,6 +128473,7 @@ La volta al món en vuitanta dies (pel·lícula)
 La xarxa social
 La zona morta
 La última cena
+La última cinta
 LaLiga
 LaSexta
 LaTasha Colander
@@ -128256,6 +128555,7 @@ Lactuca
 Lacturidae
 Lacunaria
 Lacus Fucinus
+Lacón
 Ladapèira
 Ladeania
 Ladenbergia
@@ -129945,6 +130245,7 @@ Leymus
 Leysera
 Leça Futebol Clube
 Leïla Slimani
+Leònida Malatesta de Roncofreddo
 León Trotsky
 León de Arroyal
 Leżajsk
@@ -130631,6 +130932,7 @@ Llacuna d'Alvarado
 Llagunoa
 Llamasoft
 Llana
+Llanera
 Llano de Bureba
 Llanterna màgica
 Llança
@@ -131020,6 +131322,7 @@ Llista d'obertures d'escacs
 Llista d'obertures d'escacs amb nom de persona
 Llista d'objectes de JoJo's Bizarre Adventure items
 Llista d'oficials i líders del Partit Nazi
+Llista d'ordinadors ficticis
 Llista d'ordres de plantes
 Llista d'ossos dels Pirineus
 Llista d'universitats de Finlàndia
@@ -131095,6 +131398,7 @@ Llista de ministres de l'Interior d'Espanya
 Llista de missions Apol·lo
 Llista de missions diplomàtiques de la Unió Europea
 Llista de missions diplomàtiques dels Estats Units
+Llista de monuments de Sallent
 Llista de monuments de Tremp
 Llista de moviments feixistes
 Llista de moviments feixistes per països
@@ -131150,6 +131454,7 @@ Llista de púlsars de raigs X
 Llista de quàsars
 Llista de reis de Castella
 Llista de reis de França
+Llista de reis dels francs
 Llista de reis sumeris
 Llista de rellotgers catalans
 Llista de reserves índies dels Estats Units
@@ -131165,6 +131470,7 @@ Llista de topònims de Bausen
 Llista de topònims de Breda
 Llista de topònims de Tavèrnoles
 Llista de topònims de Tremp
+Llista de topònims de Vallcebre
 Llista de torneigs d'escacs d'alt nivell
 Llista de torneigs d'escacs round-robin
 Llista de vaixells actuals de la Marina dels Estats Units
@@ -131230,6 +131536,7 @@ Lloyds Banking Group
 Lluc (evangelista)
 Llucià
 Lluita
+Lluita als Jocs Olímpics d'estiu de 1904 - Pes ploma
 Lluita als Jocs Olímpics d'estiu de 1920
 Lluita als Jocs Olímpics d'estiu de 1924
 Lluita de classes
@@ -131318,6 +131625,7 @@ Lo Bois (Droma)
 Lo Borg (Cruesa)
 Lo Borg (Droma)
 Lo Brulh
+Lo Calvari (Torre-serona)
 Lo Chafau
 Lo Chambon de Sent Sarnin
 Lo Chambon de Senta Crotz
@@ -131349,6 +131657,7 @@ Lo Raiet
 Lo Schiavo
 Lo Temple (Òlt i Garona)
 Lo Tolonet
+Lo Tòr
 Lo Vilar de Dun
 Loasa
 Loasaceae
@@ -131695,6 +132004,7 @@ Lost Caves
 Lost Girl
 Lost Odyssey
 Lost Patrol
+Lost in Space (sèrie de televisió de 1965)
 Lost in Translation
 LostWinds
 Lotella phycis
@@ -131738,6 +132048,7 @@ Louis Helm
 Louis Henri Sullivan
 Louis Hostin
 Louis Hugh Wilson, Jr.
+Louis Le Prince
 Louis Leakey
 Louis Lebègue Duportail
 Louis Malle
@@ -131891,6 +132202,7 @@ Lucasfilm
 Lucasfilm Games
 Lucasflim
 Lucca
+Luce Fabbri
 Lucelle
 Lucena
 Lucenay-l'Évêque
@@ -131900,11 +132212,14 @@ Lucho González
 Luci Appuleu
 Luci Baines Johnson
 Luci Flavi Silva
+Luci Juni Moderat Columel·la
+Luci Papiri Cras (cònsol 368 aC)
 Luci d'Adrianòpolis
 Lucia Bassi
 Lucian Bute
 Lucian Sânmărtean
 Luciano Becchio
+Luciano Germán Vella
 Luciano Narsingh
 Luciano Negrini
 Luciano Pavarotti
@@ -132988,6 +133303,7 @@ Mallerenga blava
 Mallomys gunung
 Mallophyton
 Mallorca
+Mallorca Summer Cup
 Mallory Jansen
 Mallotus
 Malmea
@@ -133419,6 +133735,7 @@ Mar del Carib
 Mar del Japó
 Mar del Nord
 Mar del Plata
+Mar dels Cosmonautes
 Mar negre
 Mara Santangelo
 Maracanaço
@@ -133470,6 +133787,7 @@ Marc Erwich
 Marc Guggenheim
 Marc Huster
 Marc Meseguer
+Marc Minuci Fes
 Marc Muniesa
 Marc Muniesa i Martínez
 Marc Overmars
@@ -133599,6 +133917,7 @@ Mare Teresa
 Mare de Déu
 Mare de Déu de Meritxell
 Mare de Déu de la Candela
+Mare de Déu de les Pedreres
 Mare de Déu del Roser de l'Ametlla de Casserres
 Marea
 Marek Gołąb
@@ -133654,6 +133973,7 @@ Margaritopsis
 Margeir Pétursson
 Margelliantha
 Margherita Buy
+Margherita Cagol
 Margherita Dall'Aglio
 Margherita Sarfatti
 Marginatocereus
@@ -133739,11 +134059,13 @@ Maria Vergova-Petkova
 Maria Vicol
 Maria Xaràpova
 Maria de Betània
+Maria de Frederic
 Maria de Lurdes Mutola
 Maria de la Mercè de Borbó-Dues Sicílies
 Maria del Pilar Maspons i Labrós
 Maria, mare de Jesús
 Maria-Lluïsa de França
+MariaDB
 Mariaan de Swardt
 Mariage de raison et mariage d'amour
 Mariage par correspondance
@@ -134310,6 +134632,7 @@ María Isabel Salud Areste
 María Isabel Urrutia Ocoró
 María José Català Verdet
 María José Martínez
+María José Masip Sanchis
 María León Barrios
 María Luisa Bemberg
 María Luisa Ponte Mancini
@@ -134349,6 +134672,7 @@ Masatoshi Nakayama
 Masaya Tokuhiro
 Masayoshi Itō
 Masayoshi Ōhira
+Masayuki
 Masayuki Hisataka
 Masayuki Ishikawa
 Masayuki Kusumi
@@ -134396,6 +134720,7 @@ Massacre de polonesos a Volínia
 Massacres d'Adana
 Massai
 Massai (mimbreny)
+Massicites
 Massilly
 Massimiliano Allegri
 Massimo Dapporto
@@ -135189,6 +135514,7 @@ Memorial
 Memorial Alekhine
 Memorial Capablanca
 Memorial Sloan Kettering Cancer Center
+Memorial Steilneset
 Memories & Dreams
 Memories Within Miss Aggie
 Memoràndum de Budapest
@@ -135283,6 +135609,7 @@ Mercy-le-Bas
 Mercy-le-Haut
 Mercè Aroz i Ibáñez
 Mercè Bayona i Codina
+Mercè Rossell Domènech
 Mercè Vilaret i Llop
 Mere Hüseyin Paixà
 Meredith McGrath
@@ -135327,6 +135654,7 @@ Meridià 150 a l'est
 Meridià 150 a l'oest
 Meridià 155 a l'est
 Meridià 155 a l'oest
+Meridià 157 a l'est
 Meridià 160 a l'est
 Meridià 160 a l'oest
 Meridià 165 a l'est
@@ -136356,6 +136684,7 @@ Mingrelians
 Mini Estadi
 Mini-Putt
 MiniDiscs (Hacked)
+Minidoka
 Miniestadi
 Minigun
 Minilabrus striatus
@@ -136425,6 +136754,7 @@ Miou-Miou
 Miquel Arcàngel Fargas i Roca
 Miquel Asins
 Miquel Bofill i Abelló
+Miquel Boix i Carreras
 Miquel Brasó i Vaqués
 Miquel Casablancas i Juanicó
 Miquel II de Rússia
@@ -136693,6 +137023,7 @@ Modest Mussorgski
 Modest Mússorgski
 Modest de Trèveris
 Modesto Lafuente
+Modi Fabidi
 Modiola
 Modiolastrum
 Modoc (grup humà)
@@ -136916,6 +137247,7 @@ Monkey Island 2: LeChuck's Revenge
 Monnaie (Indre i Loira)
 Monnina
 Mono (llengua)
+Mono con gallinas
 Monoblastozoa
 Monocarpia
 Monocentris japonica
@@ -137813,6 +138145,7 @@ Museu Pelé
 Museu Pergamon
 Museu Rafael Casanova
 Museu Torre Balldovina
+Museu d'Arqueologia de Catalunya (Girona)
 Museu d'Art Asiàtic de Berlín
 Museu d'Art Contemporani d'Elx
 Museu d'Art Contemporani de Barcelona
@@ -137839,6 +138172,7 @@ Museu de la Casa de Leighton
 Museu de la Llengua Portuguesa
 Museu de la Mediterrània
 Museu de la Stasi
+Museu de la catedral de Ferrara
 Museu de la comunicació
 Museu del Disseny de Barcelona
 Museu del FC Barcelona
@@ -137867,6 +138201,7 @@ Mussolini
 Mussols
 Mussy-la-Fosse
 Mussy-sous-Dun
+Mustafà ibn Mahmud
 Mustela
 Mustela lutreola
 Mustela lutreolina
@@ -138193,6 +138528,7 @@ Múrcia
 Múrmansk
 Múscul
 Múscul antagonista
+Múscul braquial
 Múscul esquelètic
 Múscul llis
 Músic
@@ -138344,6 +138680,7 @@ Nadius americans
 Nadja Uhl
 Nadzeya Astapchuk
 Nafissatou Thiam
+Nafta
 Nagaland
 Nagapattinam
 Nagarjunakonda
@@ -138438,6 +138775,7 @@ Nannobrachium achirus
 Nannobrachium atrum
 Nannobrachium indicum
 Nannobrachium lineatum
+Nannobrachium nigrum
 Nannocampus elegans
 Nannocampus pictus
 Nannocampus subosseus
@@ -138638,6 +138976,7 @@ Natasha Morrison
 Natges
 Nathalie Baye
 Nathalie Dechy
+Nathalie Lemel
 Nathalie Poza
 Nathalie Poza Maupain
 Nathaliella
@@ -139346,6 +139685,7 @@ Neutroni
 Neutrí
 Neutròfil
 Neutró
+Neuvelle-lès-Cromary
 Neuves-Maisons
 Neuville-au-Plain
 Neuville-en-Beaumont
@@ -141438,6 +141778,7 @@ Orbivestus
 Orbix the Terrorball
 Orchaise
 Orchamps-Vennes
+Orchards
 Orchas
 Orchidaceae
 Orchidactyla
@@ -141660,6 +142001,7 @@ Orgull nacional
 Orgànul
 Orgànuls
 Orhan Oguz
+Orhan Oğuz
 Ori and the Blind Forest
 Oriastrum
 Oribasia
@@ -142262,6 +142604,7 @@ Oyez Project
 Oysterville (Washington)
 Oyuncak Hikayesi 3
 Oz Software
+Ozark (sèrie de televisió)
 Ozenay
 Ozerailles
 Ozeville
@@ -142819,6 +143162,7 @@ Papualthia
 Papuanthes
 Papuechites
 Paquerina
+Paquito García Gómez
 Para Academy
 Para Assault Course
 Para recibir el canto de los pájaros
@@ -144498,6 +144842,7 @@ Pere Agustí Morlà
 Pere Antiga i Suñer
 Pere Arbués
 Pere Arquillué i Cortadella
+Pere Barrera i Volar
 Pere Bohigas i Balaguer
 Pere Borrell
 Pere Cabot i Roldós
@@ -144506,6 +144851,7 @@ Pere Casaldàliga i Pla
 Pere Casas Torres
 Pere Comas i Calvet
 Pere Coromines i Montanya
+Pere Cortès Moll
 Pere Dan
 Pere Domingo i Sanjuán
 Pere Estrems
@@ -144566,6 +144912,7 @@ Pericopsis
 Perideridia
 Peridiscaceae
 Peridiscus
+Peridotita
 Periestes
 Perifèria d'Àtica
 Perifèric
@@ -144831,6 +145178,7 @@ Peter Kubelka
 Peter Lammer
 Peter Lang (publishing company)
 Peter Lawrence
+Peter Lax
 Peter Liepa
 Peter Luttenberger
 Peter M Harrap
@@ -144905,6 +145253,7 @@ Petopentia
 Petr Cermak
 Petr Jákl
 Petra Felke
+Petra Krause
 Petra Kvitova
 Petra Kvitová
 Petra Müller
@@ -145241,6 +145590,7 @@ Philipp de Mons
 Philippe Bernat-Salles
 Philippe Chatrier Award
 Philippe Christanval
+Philippe Couillard
 Philippe Coutinho Correia
 Philippe Garrel
 Philippe Lamberts
@@ -146657,6 +147007,7 @@ Pol Galofre i Molero
 Pol Nord
 Pol Pot
 Pol Sud
+Pol d'inaccessibilitat
 Pol nord
 Pol sud
 Polanisia
@@ -147177,6 +147528,7 @@ Portaveu (desambiguació)
 Portbail
 Porte monumentale
 Portea
+Portella Gran
 Portenschlagiella
 Porter (futbol)
 Porterandia
@@ -147204,6 +147556,7 @@ Portulaca
 Portulacaceae
 Portulacaria
 Portunyol riverense
+Portè
 Porífer
 Poseidon: Planet Eleven
 Posició fortificada de Lieja
@@ -147684,6 +148037,7 @@ Priacanthus tayenus
 Priapulida
 Priapúlid
 Price Tag
+Priconodon
 Pride and Prejudice
 Priestleya
 Prietella phreatophila
@@ -148399,6 +148753,7 @@ Provença
 Proverbi
 Providence (Rhode Island)
 Providence Park
+Província Central (Sri Lanka)
 Província d'Herat
 Província d'Inquisivi
 Província d'Omsk
@@ -148947,6 +149302,7 @@ Psycho Pigs UXB
 Psycho Soldier
 Psychoda
 Psychoda bicordata
+Psychoda hemicorcula
 Psychodidae
 Psychodini
 Psychopsis
@@ -149513,6 +149869,7 @@ Quan Ji
 Quan Shang
 Quan Yi
 Quan bull la sang
+Quan la pols es fa cendra
 Quanah Parker
 Quantico
 Quantificació digital
@@ -150536,6 +150893,7 @@ Redmond (Washington)
 Redondo Beach
 Redox
 Reducció
+Reducció de Clemmensen
 Reducte Nacional de Bèlgica
 Reebok
 Reed Diamond
@@ -152396,6 +152754,7 @@ Roelos de Sayago
 Roemeria
 Roepera
 Roeperocharis
+Roergue
 Rofiac (Òlt i Garona)
 Rogadius asper
 Rogadius melanopterus
@@ -152490,6 +152849,7 @@ Rolf Liebermann
 Rolf Milser
 Rolf Spring
 Rolf Thorsen
+Rolf Witthöft
 Rolf de Heer
 Rollandia microptera
 Rollaround
@@ -152587,6 +152947,7 @@ Ronald Hilton
 Ronald Koeman
 Ronald M. Bozman
 Ronald Neame
+Ronald Osvaldo Cerritos Flores
 Ronald Pope
 Ronald Reagan
 Ronald Rhodes (desenvolupador de videojocs)
@@ -153545,6 +153906,7 @@ Saint-Lô-d'Ourville
 Saint-Malo-de-Beignon
 Saint-Malo-de-la-Lande
 Saint-Malo-des-Trois-Fontaines
+Saint-Malo-en-Donziois
 Saint-Mandé
 Saint-Marc-du-Cor
 Saint-Marcel (Meurthe i Mosel·la)
@@ -153759,6 +154121,7 @@ Salacia
 Salacighia
 Saladí
 Salafisme
+Salah al-Din
 Salamanca
 Salamander (videojoc arcade)
 Salamander (videojoc)
@@ -153855,6 +154218,7 @@ Salsabila Khairunnisa
 Salsola
 Salt Lake City
 Salt a l'illa
+Salt amb esquís als Jocs Olímpics d'hivern de 1972
 Salt de llargada
 Salt de perxa
 Salt enrere
@@ -153885,6 +154249,7 @@ Salvador Moncada
 Salvador Riera
 Salvador Sadurní
 Salvador Seguí i Rubinat
+Salvador Vergara Larralde
 Salvadora
 Salvadoraceae
 Salvadoropsis
@@ -154046,6 +154411,7 @@ San Diego Comic-Con
 San Diego Reader
 San Esteban del Molar
 San Felice del Molise
+San Felipe el Real
 San Francisco
 San Francisco (Califòrnia)
 San Francisco Chronicle
@@ -154285,6 +154651,7 @@ Santa Maria de Breda
 Santa Maria de Mur
 Santa Maria de Vilabertran
 Santa Maria del Fiore
+Santa Marinella
 Santa Marta (Òlt i Garona)
 Santa María Rivarredonda
 Santa María de Valverde (Zamora)
@@ -154350,6 +154717,7 @@ Santovenia
 Santoña
 Sants Trafficante
 Santuari Impala de Kisumu
+Santuari d'animals
 Santuari del Bom Jesus de Matosinhos
 Santuari del Báb
 Sanuki dialect
@@ -155157,6 +155525,7 @@ Scrubs
 Scuba Dive (videojoc)
 Scuba Kidz
 Scuderia Ferrari
+Scum of the Earth!
 Scumball
 Scump
 Scurrula
@@ -155437,6 +155806,7 @@ Segregació racial als Estats Units
 Segrest
 Segrià
 Seguieria
+Segur de Calafell
 Seguretat
 Seguretat informàtica
 Segódnia
@@ -156502,6 +156872,7 @@ Siegfried Brietzke
 Siegfried Denk
 Siegfried Fricke
 Siegfried Kurtz
+Siegfried Matthus
 Siegrun Siegl
 Siehe zu, daß deine Gottesfurcht nicht Heuchelei sei, BWV 179
 Siehe, der Hüter Israel, BWV Anh. 15
@@ -156960,6 +157331,7 @@ Siris
 Sirius FM-5
 Sirochloa
 Sirwood
+Sis dies de Buenos Aires
 Sis fragates originals de la Marina dels Estats Units
 Sisena Croada
 Sisena flota (Estats Units)
@@ -157456,6 +157828,7 @@ Sondernach
 Sonderothamnus
 Sondersdorf
 Sondottia
+Sondre Justad
 Sonequa Martin-Green
 Sonerila
 Sonet 18
@@ -157736,6 +158109,7 @@ Spenceria
 Spend Spend Spend
 Speocirolana thermydromis
 Speoplatyrhinus poulsoni
+Speos Artemidos
 Speothos
 Speranskia
 Spergula
@@ -158924,6 +159298,7 @@ Succinea quadrasi
 Succisa
 Succisella
 Succowia
+Succés
 Sucker Free City
 Suckleya
 Sucre
@@ -159315,6 +159690,7 @@ Suscia
 Sushi
 Susi Sánchez
 Susinos del Páramo
+Susis
 Suso Cecchi d'Amico
 Suspens
 Susqueda
@@ -160581,6 +160957,7 @@ Temporada 1992-1993 del FC Barcelona
 Temporada 1993-1994 del FC Barcelona
 Temporada 1994-1995 del FC Barcelona
 Temporada 1995-1996 del FC Barcelona
+Temporada 1995-1996 del RCD Espanyol
 Temporada 1996 de Fórmula 1
 Temporada 1996-1997 del FC Barcelona
 Temporada 1997-1998 del FC Barcelona
@@ -160644,6 +161021,7 @@ Tennis als Jocs Olímpics
 Tennis als Jocs Olímpics d'estiu de 1900 - Dobles mixtos
 Tennis als Jocs Olímpics d'estiu de 1912 - Dobles mixtos
 Tennis als Jocs Olímpics d'estiu de 1912 - Dobles mixtos interior
+Tennis als Jocs Olímpics d'estiu de 1912 - Individual femení interior
 Tennis als Jocs Olímpics d'estiu de 1920
 Tennis als Jocs Olímpics d'estiu de 1920 - Dobles mixtos
 Tennis als Jocs Olímpics d'estiu de 1924
@@ -161185,6 +161563,7 @@ The Chapman Report
 The Cheerleaders
 The Children
 The Choirboys
+The Chosen Family
 The Cincinnati Enquirer
 The Circus
 The Citadel (pel·lícula de 1938)
@@ -161501,6 +161880,7 @@ The Pajama Game
 The Paper
 The Paranoia Complex
 The Party's Over (1965 film)
+The Passion Flower (pel·lícula de 1921)
 The Pawn
 The Pawnbroker
 The Pawnshop
@@ -162198,6 +162578,7 @@ Tilia
 Tiliacora
 Tilingia
 Tiliqua adelaidensis
+Till Eulenspiegel
 Till The Clouds Roll By
 Tillaea
 Tillandsia
@@ -162523,6 +162904,7 @@ Tomblaine
 Tombstone (Arizona)
 Tomcat (videojoc)
 Tomehane! Suzuri Kōkō Shodōbu
+Tomelloso Club de Fútbol
 Tomentaurum
 Tomi Nybäck
 Tomicha cawstoni
@@ -164753,6 +165135,7 @@ USS Gridley (DLG-21)
 USS Hannah
 USS Idaho (BB-42)
 USS Independence (LCS-2)
+USS Iowa (BB-61)
 USS John F. Kennedy (CVN-79)
 USS Kentucky (SSBN-737)
 USS Kitty Hawk (CV-63)
@@ -164826,6 +165209,7 @@ Ugo Spirito
 Ugo Tognazzi
 Ugunskrusts
 Uherska Skalice
+Uhha-Ziti
 Uhuru Kenyatta
 Uittienia
 Ukiyo-e
@@ -165580,6 +165964,7 @@ Valentí Fuster Carulla
 Valentín Pàvlov
 Valença
 Valer Toma
+Valeri Borzov
 Valeri Dolinin
 Valeri Serra i Boldú
 Valeria Bufanu
@@ -166035,6 +166420,7 @@ Venus Bucureşti
 Venus Express
 Venus Williams
 Venècia
+Venèla
 Vepris
 Ver (Manche)
 Vera Anisimova
@@ -166283,6 +166669,7 @@ Victoria and Albert Museum
 Victoria's Secret
 Victorian Hard Court Championships
 Victorian Honour Roll of Women
+Victorina Durán
 Victorio
 Victory Road (videojoc)
 Victòria (Austràlia)
@@ -166840,6 +167227,7 @@ Vitex
 Viticella
 Vitinha (footballer, born 2000)
 Vitis
+Vito Taccone
 Vitrey
 Vitrimont
 Vitry-en-Charollais
@@ -167197,6 +167585,7 @@ Vèrtebres
 Vèrtebres cervicals
 Vèrtex geodèsic
 Vèrç (Droma)
+Vélez de Benaudalla
 Véretz
 Vérissey
 Vézelise
@@ -168151,6 +168540,7 @@ With a Song in My Heart
 Withania
 Witheringia
 Without a Trace
+Witold Leszczyński
 Witsenia
 Wittelsheim
 Wittenheim
@@ -168459,6 +168849,7 @@ Xbox One
 Xecutor
 Xeic Ahmad Iassín
 Xeiene
+Xekliàievo
 Xeminí Atséret
 Xenacanthus
 Xenacoelomorpha
@@ -169164,6 +169555,7 @@ Zapoteca (llengua)
 Zappos
 Zaragoza Club Deportivo
 Zaragoza de Viala
+Zardón
 Zarema Kasaeva
 Zarzià
 Zarzosa de Río Pisuerga
@@ -169735,6 +170127,7 @@ transistor
 Çerkes Mehmed Ali Paixà
 Çorlulu Damat Ali Paixà
 Çorlulu Köse Bahir Mustafà Paixà
+Çò des de Pishon
 Ègloga
 Èpica
 Època (astronomia)
@@ -169937,6 +170330,7 @@ transistor
 ŠK Slovan Bratislava
 Štefan Füle
 Šárka Kašpárková
+Žlkovce
 Șișești, Mehedinți
 Ștefan Constantin Berariu
 Ștefan Dobay

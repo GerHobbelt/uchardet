@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Želovce
-Seznam zápasů konžské demokratické republiky na MS
-Québec (rozcestník)
-Perișani
-Samačablo
-Jan Ludevít Procházka
-Sluneční stráň
-Mary Harrisonová McKeeová
-Kostel Nanebevstoupení Páně (Lampertice)
-Bobrovití
-UTC−10:00
-Nikola Šuhaj
-Jadavaranské ropné pole
-Sergej Žukov
-Sambar
-Maple Falls
-Svazek obcí Dobříšska a Novoknínska
-Heinz Fütterer
-Milan Zloković
-Americké dopisy
-Lemma (lingvistika)
-Naučná stezka Gruň – Bílý Kříž
-Pomník padlým 1. a 2. světové války (Lamač)
-Severozápadokavkazské jazyky
-Okamžik co mění život
-Franziska Schenková
-Kaple svatého Šebestiána (Mikulov)
-Ordino
-Skála (Vítkovská vrchovina)
-Val Poschiavo
+Satelitní gliová buňka
+Terč (film)
+František Xaver Němeček
+Webové geodatové služby
+Albín Bok
+Diagnostické proužky pro analýzu moči
+Josef Rejfíř
+Raimon Panikkar
+Letošník
+Steve Bould
+French Open 2015 – mužská dvouhra
+Keptuška
+Dáša Cortésová
+Joseph Sullivan
+Bull in the Heather
+Podbřežice
+Pavel Minařík
+Karel Maxmilián Thurn-Valsássina
+Menkent
+Zlatý míč 1976
+Francie na Letních olympijských hrách 1956
+Meditace o první filosofii
+Daxová
+Aktion Gitter
+Emiliano Martínez
+Bargello
+Václav Procházka (lékař)
+Hale County
+Novopskov
+Studečky
 "Still Life" (American Concert 1981)
 '74 Jailbreak
 'Ndrangheta
@@ -224,6 +224,7 @@ Val Poschiavo
 12th Planet
 12th Planet (musician)
 13 (linka metra v Paříži)
+13 (číslo)
 13. březen
 13. duben
 13. květen
@@ -340,6 +341,7 @@ Val Poschiavo
 18. červen
 18. červenec
 18. říjen
+183 př. n. l.
 187 Ride or Die
 1889 VFA season
 1896 v dopravě
@@ -426,6 +428,7 @@ Val Poschiavo
 1976 v hudbě
 1976 ve filmu
 1977 v hudbě
+1977 v loďstvech
 1977 ve filmu
 1978 Tongan general election
 1978 v hudbě
@@ -1032,6 +1035,7 @@ Val Poschiavo
 82. výsadková divize Spojených států amerických
 87 př. n. l.
 875 North Michigan Avenue
+879 (číslo)
 89. ročník udílení Oscarů
 9. březen
 9. duben
@@ -1807,6 +1811,7 @@ Adventures by Disney
 Adventures of Sherlock Holmes; or, Held for Ransom
 Adventures of Superman
 Advokát
+Advokát (kniha)
 Adéla Gondíková
 Adéla Lounková
 Adélina země
@@ -2324,7 +2329,9 @@ Albinismus
 Albion P. Howe
 Albrecht Altdorfer
 Albrecht Dürer
+Albrecht III. Saský
 Albrecht Kossel
+Albrecht Penck
 Albrecht VII. Habsburský
 Album Animalism
 Albuminový papír
@@ -2466,6 +2473,7 @@ Alexander Horváth
 Alexander Ireland
 Alexander Kidd
 Alexander Kluge
+Alexander Koch
 Alexander Kozák
 Alexander Langsdorff
 Alexander Maletin
@@ -2527,6 +2535,7 @@ Alexandr Konstantinovič Ščetinin
 Alexandr Koškin
 Alexandr Kramer
 Alexandr Kulagin
+Alexandr Kurljandskij
 Alexandr Lavejkin
 Alexandr Lazutkin
 Alexandr Lebzjak
@@ -2711,6 +2720,7 @@ Algona (Washington)
 Algoritmus
 Algoritmus A*
 Ali Brezovský
+Aliance Zelení a Levice
 Aliance pro budoucnost Rakouska
 Aliance rebelů
 Alibaba Group
@@ -2766,6 +2776,7 @@ Alkalofil
 Alkoholický nápoj
 Alkoholismus
 Alkyoneus
+Alkéstis
 All 'N All
 All Ends
 All Hell's Breakin' Loose
@@ -3107,6 +3118,7 @@ Americká psychiatrická společnost
 Americká revoluce
 Americká válka za nezávislost
 Americké Panenské ostrovy
+Americké dopisy
 Americké psycho
 Americké přírodovědné muzeum
 Americké tankové kanóny za druhé světové války
@@ -3145,6 +3157,7 @@ Amin Maalouf
 Aminokyselina
 Amir Khan (boxer)
 Amir Mokri
+Amiran Kardanov
 Amish in the City
 Amitai Etzioni
 Amite County
@@ -3359,6 +3372,7 @@ Andrej Chotějev
 Andrej Dmitrijevič Sacharov
 Andrej Feďajev
 Andrej Golubjev
+Andrej Hodek
 Andrej Hryc
 Andrej Karlov
 Andrej Kim Cheon-ae
@@ -3507,6 +3521,7 @@ Andy Iles
 Andy Irvine (hudebník)
 Andy Kim
 Andy Kubert
+Andy Lau
 Andy Mackay
 Andy McCulloch
 Andy Mitchell
@@ -3819,6 +3834,7 @@ Antaios
 Antal Kocsis
 Antal Melis
 Antal Szendey
+Antalya Open 2019 – mužská dvouhra
 Antanas Bagdonavičius
 Antanas Sniečkus
 Antarctica
@@ -4037,6 +4053,7 @@ Antropogenní jezero
 Antropologický slovník
 Antropologie
 Antroposofie
+Antti Raanta
 Antukový dvorec
 Antun Bogetić
 Antverpská univerzita
@@ -4140,6 +4157,7 @@ Aqqaluaq B. Egede
 Aquaman
 Aquaman (film)
 Aquaman and the Lost Kingdom
+Aquaria (počítačová hra)
 Aquasky
 Aquificae
 Aquila (letadlová loď)
@@ -4543,6 +4561,7 @@ Arts and Crafts
 Arts and Crafts Movement
 Artturi Ilmari Virtanen
 Artur Fischer
+Artur Malawski
 Artur Olech
 Artur Sasko-Koburský
 Artur Schnabel
@@ -5493,6 +5512,7 @@ Banda (film)
 Bandera County
 Bandit Rock
 Bandita
+Bang! (píseň)
 Bangarang
 Bangka-Belitung
 Bangkok
@@ -5688,6 +5708,7 @@ Bartolomè Esteban Murillo
 Bartoloměj Josef Kulhavý
 Barton County (Kansas)
 Barton County (Missouri)
+Bartow (Georgie)
 Bartow County
 Bartragh
 Bartłomiej Pawełczak
@@ -5818,6 +5839,7 @@ Bazilika svatého Remigia (Remeš)
 Bazén
 Baškortostán
 Bašár al-Asad
+Bažant diamantový
 Bažina
 Be Here Now
 Be My Baby
@@ -6207,6 +6229,7 @@ Bergen
 Bergen County
 Bergey's Manual of Systematic Bacteriology
 Bergisch Gladbach
+Bergvallův systém
 Berkeley County (Jižní Karolína)
 Berkeley County (Západní Virginie)
 Berkheya
@@ -6233,6 +6256,7 @@ Berlínská zeď
 Berlínské spiknutí
 Berlínský mezinárodní filmový festival
 Berlínští filharmonikové
+Bermontiáda
 Bermudský trojúhelník
 Bermudy
 Bermudy na Letních olympijských hrách 1976
@@ -6490,6 +6514,7 @@ Bicí souprava
 Biedermeier
 Biela skala
 Bielefeld
+Biely kameň
 Biennale di Venezia
 Bienville Parish
 Bifenazate
@@ -6960,6 +6985,7 @@ Blast First
 Blast Paris Major 2023
 Blaster (Star Wars)
 Blatník (tvrz)
+Blato (Chorvatsko)
 Blaze Bayley
 Blazing Angels 2: Secret Missions of WWII
 Blazing Angels: Squadrons of WWII
@@ -7175,6 +7201,7 @@ Bobby Wellins
 Bobigny
 Bobina Ulrichová
 Bobovité
+Bobrovití
 Bobule
 Boby na zimních olympijských hrách
 Bobři (hudební skupina)
@@ -7288,6 +7315,7 @@ Boj o ostrov
 Boj o život
 Bojacá
 Bojan Prešern
+Bojana
 Bojana Jovanovská
 Boje o Chattanoogu
 Boje o Nizozemskou východní Indii (1941–1942)
@@ -7981,6 +8009,7 @@ Brooklyn Public Library
 Brooklyn Technical High School
 Brooklyn Vegan
 Brooklynské muzeum
+Brooks County
 Brooks County (Georgie)
 Brooks County (Texas)
 Broome County
@@ -8323,6 +8352,7 @@ Buršácký spolek
 Buržoazie
 Bus Stop
 Business
+Business Accelerator VŠE
 Business Insider
 Business Process Model and Notation
 Business Review Weekly
@@ -8435,6 +8465,7 @@ Búrské války
 Büsingen am Hochrhein
 Bývalé obce v Paříži
 Bývalé pařížské městské obvody
+Băbeni
 Běchovice
 Běh do schodů
 Běh na 10 000 metrů
@@ -9119,6 +9150,7 @@ Carl Gustaf Verner von Heidenstam
 Carl Gustav Jacob Jacobi
 Carl Gustav Jung
 Carl Hahn
+Carl Heinrich Bloch
 Carl Hubbell
 Carl Klose
 Carl Lehle
@@ -9431,6 +9463,7 @@ Catron County
 Catskill Mountains
 Cattaraugus County
 Caucasalia
+Cauchyho–Schwarzova nerovnost
 Causa Wardových
 Cavalcantia
 Cavalier (Nedor Comics)
@@ -10204,6 +10237,7 @@ Chlamydióza
 Chlamydophila psittaci
 Chlamydophora
 Chlapci a chlapi
+Chlapec, který věděl příliš mnoho
 Chlodvík I.
 Chloe Bennet
 Chloe Hoskingová
@@ -10227,6 +10261,7 @@ Chlorpyrifos-methyl
 Chloróza
 Chloé Zhaová
 Chloë Moretzová
+Chlum (Orlická tabule, 359 m)
 Chlum (přírodní rezervace)
 Chlupáček (Pilosella)
 Chléb
@@ -11873,6 +11908,7 @@ Dag Bredberg
 Dag Hammarskjöld
 Daggett County
 Dagmar Burešová
+Dagmar Havlová
 Dagmar Hochová
 Dagmar Lerchová
 Dagmar Lhotová
@@ -12676,6 +12712,7 @@ Dayanita Singhová
 Daydream (album, Mariah Carey)
 Daydream Nation
 Dayton
+Dayton (Tennessee)
 Dazed and Confused (píseň)
 Dačov Lom
 Daň z nemovitosti
@@ -12987,6 +13024,7 @@ Denton, Greater Manchester
 Denver
 Denver Broncos
 Denys Berinchyk
+Denys Maljuska
 Dené-kavkazské jazyky
 Deník (Vltava Labe Media)
 Deník (noviny)
@@ -13242,6 +13280,7 @@ Dicoria
 Dicranocarpus
 Dictionary of the English Language
 Dictyoglomi
+Didactica magna
 Didaktická literatura
 Didaktik
 Didaktik 40
@@ -13853,8 +13892,10 @@ Domov na konci světa
 Domove, sladký domove
 Domy pana Sartoria
 Domácnost
+Domácí práce
 Domácí sluha
 Domácí štěstí
+Domène
 Doména (biologie)
 Doména nejvyššího řádu
 Don Adams
@@ -14046,6 +14087,7 @@ Dornier Do R Superwal
 Dorobaea
 Dorothea Douglassová Chambersová
 Dorothea Langeová
+Dorothea von Medem
 Dorothea von Rodde-Schlözerová
 Dorothy Crowfoot Hodgkin
 Dorothy Day
@@ -14216,6 +14258,7 @@ Drahomíra Vihanová
 Drahomíra Vlachová
 Drahomíra ze Stodor
 Drake (umělec)
+Drake Batherson
 Drakengard 2
 Drakunkulóza
 Drama
@@ -14280,6 +14323,7 @@ Druchema
 Druh 8472
 Druhové jméno
 Druhy hlasů
+Druhá Barrosova komise
 Druhá Nadace
 Druhá Polská republika
 Druhá anglo-nizozemská válka
@@ -14442,6 +14486,7 @@ Dura (Hebron)
 Duran Duran
 Durban
 Durex
+Durga McBroom
 Durham
 Durham (Severní Karolína)
 Durham County (Severní Karolína)
@@ -14691,6 +14736,7 @@ Děkanát a vikariát
 Dělba moci
 Dělení Afriky
 Dělení Polska
+Dělnická strana sociální spravedlnosti
 Dělnická třída
 Dělník
 Děloha
@@ -14736,6 +14782,7 @@ Dům Svobodného tisku
 Dům U Bílého věnce
 Dům U Hybernů
 Dům U Mouřenína
+Dům U Turků
 Dům U Černého slona (Týnská)
 Dům bouří
 Dům granátových jablek
@@ -15062,6 +15109,7 @@ Edouard Marcelle
 Edred
 Edson Chagas
 Edu Lobo
+Eduard Antoch
 Eduard August Hannoverský (1767)
 Eduard Bass
 Eduard Bernstein
@@ -15226,6 +15274,7 @@ Egyptská vlajka
 Egyptské hieroglyfy
 Egyptské království
 Ehud Olmert
+Eichendorffové
 Eider
 Eidos Interactive
 Eifel
@@ -16247,6 +16296,7 @@ Eugenius
 Eugeniusz Rudnik
 Eugène Atget
 Eugène Constant
+Eugène Cuvelier
 Eukaryota
 Eukaryotická buňka
 Eumir Marcial
@@ -16322,6 +16372,7 @@ Eurozóna
 Eurybia
 Eurybia (rod)
 Eurydochus
+Eurykrates
 Eurynomé
 Euryops
 Eurythmics
@@ -16329,6 +16380,7 @@ Eusebio Sempere
 Eusebius (papež)
 Euskaltel–Euskadi
 Eustace Miles
+Eustachius van Lieshout
 Eutanazie
 Euterpé
 Eutetras
@@ -16460,6 +16512,7 @@ Evropská liga UEFA 2011/12
 Evropská liga UEFA 2012/13
 Evropská liga UEFA 2017/18
 Evropská liga UEFA 2022/2023
+Evropská liga UEFA 2023/2024
 Evropská léková agentura
 Evropská migrační krize
 Evropská měnová unie
@@ -16757,6 +16810,7 @@ FK Jablonec
 FK Králův Dvůr
 FK Loko Vltavín
 FK Lokomotiv Moskva
+FK Mladost Podgorica
 FK Mladá Boleslav
 FK Motorlet Praha
 FK Mutěnice
@@ -18069,6 +18123,7 @@ František I. Rakouský
 František II. Pálffy
 František Jakubec starší (fotbalista)
 František Janeček (producent)
+František Jedlička (teolog)
 František Josef I.
 František Josef z Thun-Hohensteinu
 František Julián von Braida
@@ -18084,6 +18139,7 @@ František Kovářík
 František Kočí
 František Krasl
 František Kreuzmann starší
+František Krutílek
 František Kudrna
 František Kupka
 František Ladislav Rieger
@@ -18182,6 +18238,7 @@ Franz von Papen
 Franz von Rapp
 Franz von Suppé
 Franziska Buch
+Franziska Schenková
 Franziska van Almsicková
 Franzobel
 François Arago
@@ -18628,6 +18685,7 @@ GNK Dinamo Zagreb
 GNOME
 GNOME Terminal
 GNU General Public License
+GNU Health
 GNU Hurd
 GOST 10859
 GP Industria & Artigianato di Larciano
@@ -19413,6 +19471,7 @@ Gerry Duggan
 Gerry Goffin
 Gerry Rafferty
 Gerry Weber Open 2012
+Gerry Weber Open 2017 – mužská čtyřhra
 Gerry and the Pacemakers
 Gershon Kingsley
 Gershwinova cena
@@ -19426,6 +19485,7 @@ Gertrude Samuels
 Gertrude Steinová
 Gerty Coriová
 Gerwazy Son Gyeong-yun
+Geschaderův dům
 Gesto por la Paz
 Get Along
 Get Me Bodied
@@ -19529,6 +19589,7 @@ Gilberto Agustoni
 Gilberto Benetton
 Gilberto Carrillo
 Gilberto Gil
+Gilberto Silva
 Gilbertovy ostrovy
 Gilboa
 Gilchrist County
@@ -20793,6 +20854,7 @@ HQ-61
 HTMS Chakri Naruebet
 HZ (character encoding)
 Ha lachma anja
+Ha-Zorea
 Haakon County
 Haakon Sigurdsson
 Haas-Haus
@@ -21122,6 +21184,7 @@ Hans Olsson
 Hans Rosling
 Hans Scharoun
 Hans Schlegel
+Hans Schreiber
 Hans Schäfer
 Hans Schöchlin
 Hans Selye
@@ -21540,6 +21603,7 @@ Hedvábí
 Hedy Lamarrová
 Hedypnois
 Hedžet
+Hegemone (měsíc)
 Hegemonní maskulinita
 Heian sandan
 Heidelberg
@@ -21583,6 +21647,7 @@ Heinrich Wilhelm Olbers
 Heinrich von Kleist
 Heinz Field
 Heinz Fischer
+Heinz Fütterer
 Heinz Guley
 Heinz Günthardt
 Heinz Kaufmann
@@ -22169,6 +22234,7 @@ Historické provincie Finska
 Historický lexikon Švýcarska
 Historický materialismus
 Historický román
+Historie Amway
 Historie Davis Cupu
 Historie bisexuality
 Historie provincií v Číně
@@ -22408,6 +22474,7 @@ Honoré Gabriel Riqueti de Mirabeau
 Honoré de Balzac
 Honoré d’Urfé
 Honoré-Beaugrand (stanice metra v Montréalu)
+Honoré-Charles Reille
 Honzíkova cesta
 Hoobastank
 Hood County
@@ -22480,6 +22547,7 @@ Horní Střítež
 Horní Uhry
 Horní Ves (železniční zastávka)
 Horní Vestec
+Horní Věstonice
 Horní čelist
 Horný Lieskov
 Horor
@@ -22601,6 +22669,7 @@ Howlandův ostrov
 Hoyo de Manzanares
 Hoyt Axton
 Hořejší jezero
+Hořejší rybník (Hloubětín)
 Hoření
 Hoření kyslíku
 Hoření křemíku
@@ -22812,6 +22881,7 @@ Hugo Theorell
 Hugo Waser
 Hugo Weaving
 Hugo von Hofmannsthal
+Hugo z hor
 Hugues Aufray
 Hulk Vs.
 Hull House
@@ -22980,6 +23050,7 @@ Hymenostemma
 Hymenostephium
 Hymenothrix
 Hymenoxys
+Hymna Cerezo Ósaka
 Hymna Spojeného království
 Hymna Spojených států amerických
 Hyméttos
@@ -23430,6 +23501,7 @@ ISO/TR 11941
 ISO/TS 16949
 ITU T.61
 ITunes
+IV. třída okresu Klatovy
 IZombie
 Iain Banks
 Iain Brambell
@@ -23641,6 +23713,7 @@ Immigration and Nationality Act of 1965
 Immortality
 Immortals Fenyx Rising
 Immunization Act (Japan)
+Imogen Cunninghamová
 Imogen Stubbs
 Imovica
 Impact Records
@@ -23905,6 +23978,7 @@ Intel Pentium
 Inteligence
 Inteligenční kvocient
 Inter Continental Air Transport
+InterCity 125
 Intercity-Express
 Intercontinental Rally Challenge 2008
 Intercontinental Rally Challenge 2009
@@ -24196,6 +24270,7 @@ Isaac Thomas Thornycroft
 Isaak Dunajevskij
 Isaak Markovič Chalatnikov
 Isabel Marant
+Isabela Antonie z Croÿ
 Isabela Francouzská (1242-1271)
 Isabela Francouzská (1242–1271)
 Isabela Henegavská
@@ -24371,6 +24446,7 @@ Ivan Laing
 Ivan Landsmann
 Ivan Larsen
 Ivan Lendl
+Ivan Ljachov
 Ivan Ljubičić
 Ivan M. Havel
 Ivan Mauger
@@ -24754,6 +24830,7 @@ Jacques-Germain Soufflot
 Jacqui True
 Jad Vašem
 Jadakiss
+Jadavaranské ropné pole
 Jaden Schwartz
 Jaderná elektrárna
 Jaderná elektrárna Chaj-jang
@@ -24809,6 +24886,7 @@ Jake Wetzel
 Jakko Jakszyk
 Jaknovo
 Jako klíště
+Jako solný sloup
 Jakob Grob
 Jakob Hlasek
 Jakob Schneider
@@ -24879,6 +24957,7 @@ James Bond
 James Boswell
 James Boyd (boxer)
 James Brady
+James Bragge
 James Braxton Craven Jr.
 James Brolin
 James Brown
@@ -25175,6 +25254,7 @@ Jan Laichter
 Jan Lašťovička
 Jan Lucemburský
 Jan Lucemburský (velkovévoda)
+Jan Ludevít Procházka
 Jan Lukas
 Jan Malík (pěvec)
 Jan Malý (fotograf)
@@ -25282,6 +25362,7 @@ Jan Vyklický
 Jan Vyčítal
 Jan Václav Stamic
 Jan Václav Xaver Frey von Freyenfels
+Jan Víšek (architekt)
 Jan W. Speerger
 Jan Weinlich
 Jan Weiss
@@ -25732,6 +25813,7 @@ Jean Zay
 Jean-Baptiste Alexandre Le Blond
 Jean-Baptiste Baudin
 Jean-Baptiste Colbert
+Jean-Baptiste Gramaye
 Jean-Baptiste Lamarck
 Jean-Baptiste Mauzaisse
 Jean-Baptiste Papin
@@ -25986,6 +26068,7 @@ Jenson Button
 Jeordie White
 Jeph Loeb
 Jerauld County
+Jere Lehtinen
 Jereem Richards
 Jeremiah Brown (veslař)
 Jeremy (píseň)
@@ -26399,6 +26482,7 @@ Jindřich Korutanský
 Jindřich Kumpošt
 Jindřich Náz
 Jindřich Pokorný
+Jindřich Stuart, lord Darnley
 Jindřich Urbánek (soudce)
 Jindřich Uzel
 Jindřich VI. Anglický
@@ -26530,6 +26614,7 @@ Jiří Lang
 Jiří Lanský
 Jiří Lopata
 Jiří Lundák
+Jiří Lutovský
 Jiří Lábus
 Jiří Macháně
 Jiří Macháček
@@ -26648,6 +26733,7 @@ Jižní Korea na Letních olympijských hrách 2004
 Jižní Korea na Letních olympijských hrách 2008
 Jižní Korea na Letních olympijských hrách 2012
 Jižní Město
+Jižní Orkneje
 Jižní Osetie
 Jižní Pohjanmaa
 Jižní Rhodesie
@@ -27516,6 +27602,7 @@ Josef Kolečko
 Josef Kolmaš
 Josef Koudelka
 Josef Kovalčuk
+Josef Kozák (konstruktér)
 Josef Kořínek (fotbalista)
 Josef Košťálek
 Josef Kylies
@@ -27875,6 +27962,7 @@ Juan Venegas
 Juan de Borja Lanzol de Romaní starší
 Juan de la Cierva
 Juan del Encina
+Juanito
 Juanmi (1993)
 Jubilejní kolonie
 Juda Makabejský
@@ -27980,6 +28068,7 @@ Julian Nowak
 Julian Schnabel
 Julian Schwinger
 Julian Tuwim
+Juliana z Lutychu
 Julianna Kim Yeon-i
 Julie Andrewsová
 Julie Ann Taylorová
@@ -28228,6 +28317,7 @@ Jódži Jamamoto
 Jóhann Jóhannsson
 Jóičiró Nambu
 Jóko Hikasaová
+Jón Daði Böðvarsson
 Jónské ostrovy (kraj)
 Józef B. Nowakowski
 Józef Bohdan Zaleski
@@ -28265,6 +28355,7 @@ Július Toček
 Jülich
 Jün-nan
 Jürgen Becker (teolog)
+Jürgen Damm
 Jürgen Fanghänel
 Jürgen Grabowski
 Jürgen Habermas
@@ -28533,8 +28624,10 @@ Kansas City Chiefs
 Kansas City Southern Skyways
 Kanta-Häme
 Kanton (Čína)
+Kanton Acheux-en-Amiénois
 Kanton Brest-Saint-Pierre
 Kanton Chabeuil
+Kanton Colombes-Nord-Est
 Kanton Gray
 Kanton Laval-Nord-Est
 Kanton Oradour-sur-Vayres
@@ -28582,6 +28675,7 @@ Kaple svatého Floriána (Kladno)
 Kaple svatého Linharta (Karlovy Vary)
 Kaple svatého Vavřince (Karlovy Vary)
 Kaple svatého Václava (Keblice)
+Kaple svatého Šebestiána (Mikulov)
 Kaplová hrobka
 Kapoidní rasa
 Kappa number
@@ -28600,6 +28694,7 @@ Karabiniéři
 Karadarja
 Karaginský ostrov
 Karaitský judaismus
+Karamelizace
 Karantánie
 Karanténa
 Karas obecný
@@ -28688,6 +28783,7 @@ Karel Josef Voračický z Paběnic
 Karel Kahovec
 Karel Kaplan
 Karel Klostermann
+Karel Kníže
 Karel Kolský
 Karel Kolář
 Karel Koutský (historik)
@@ -28890,6 +28986,7 @@ Karsten Finger
 Karsten Forsterling
 Karsten Schmelling
 Kartel
+Kartena
 Kartografie
 Karty figur
 Kartágo
@@ -28953,6 +29050,7 @@ Katarzyna Kawaová
 Katarzyna Nosowska
 Katarzyna Piterová
 Katastrofa
+Katastrofický film
 Katastrofy a neštěstí 1946
 Katastrofy a neštěstí 2016
 Katastrofy a neštěstí 2017
@@ -29819,6 +29917,7 @@ Klášter celestýnů v Paříži
 Klášterec nad Ohří
 Klášterní cela
 Klášterní klenba
+Klášterský Mlýn
 Klínovec
 Klínovecká hornatina
 Klínové písmo
@@ -30203,6 +30302,7 @@ Konvence z Montreux
 Konvergence (evoluce)
 Konvertoplán
 Konvertáza
+Konvoluční kód
 Konvář politik
 Konzervatismus
 Konzervativismus
@@ -30311,12 +30411,14 @@ Kosmický let
 Kosmický prostor
 Kosmodrom Si-čchang
 Kosmonaut
+Kosov (okres Šumperk)
 Kosovo
 Kosovská literatura
 Kossuth County
 Kostarika
 Kostel
 Kostel Božího Těla
+Kostel Nanebevstoupení Páně (Lampertice)
 Kostel Nanebevzetí Panny Marie (Kladno)
 Kostel Neposkvrněného početí Panny Marie (Strašnice)
 Kostel Panny Marie Pomocnice na Chlumku
@@ -30666,6 +30768,7 @@ Kulturální studia
 Kulíkovití
 Kumafos
 Kumrán
+Kunda (řeka)
 Kundun
 Kuneš ze Zvole
 Kung Fu (seriál, 2021)
@@ -30709,6 +30812,7 @@ Kurt Angle
 Kurt Cobain
 Kurt Daluege
 Kurt Georg Kiesinger
+Kurt Hahn
 Kurt Helmudt
 Kurt Hiller
 Kurt Krenn
@@ -30752,6 +30856,7 @@ Kvajáva
 Kvakeři
 Kvalifikace na Mistrovství Evropy ve fotbale 2016 – skupina I
 Kvalifikace na Mistrovství světa ve fotbale 1994 (CAF)
+Kvalifikace na Mistrovství světa ve fotbale 2018 (CONCACAF)
 Kvalita při svařování
 Kvant-1
 Kvant-2
@@ -31150,6 +31255,7 @@ Lachiš
 Lachnophyllum
 Lachnorhiza
 Lachnospermum
+Lachtan ostrovní
 Lachtanovití
 Lackawanna County
 Laclede County
@@ -31278,6 +31384,7 @@ Lake Shore Drive
 Lake Washington Ship Canal
 Lake and Peninsula Borough
 Lake of the Woods County
+Lakeith Stanfield
 Lakeland North
 Lakeland South
 Lakeridge
@@ -31478,6 +31585,7 @@ Latinské karty
 Latinský pohár
 Latirhinus
 Latisha Chan
+Latte art
 Latter Days: Best of Led Zeppelin Volume Two
 Lattice Semiconductor
 Latécoère
@@ -31680,6 +31788,7 @@ Lední hokej na olympijských hrách
 Ledovec
 Ledová jádra
 Ledová ňadra
+Ledový den
 Ledový příkrov
 Ledvina
 Ledňáček říční
@@ -31794,6 +31903,7 @@ Leland Stanford
 Lemar
 Lemegeton
 Lemhi County
+Lemma (lingvistika)
 Lemmings
 Lemon Jelly
 Lemonade
@@ -31942,6 +32052,7 @@ Leppävirta
 Lepra
 Leptinella
 Leptocarpha
+Lepton
 Leptorhynchos (rostlina)
 Leptostelma
 Leri Chabelovi
@@ -33873,6 +33984,7 @@ Louka pod Rančem
 Louky Keijsers
 Louky u Dlouhé Lomnice
 Louna Ladevant
+Lounská pahorkatina
 Louny
 Loup County
 Lourdes Grobetová
@@ -34342,6 +34454,7 @@ László Bulcsú
 László Fábián (kanoista)
 László Lóránd
 László Moholy-Nagy
+László Nagy
 László Orbán
 László Papp
 László Szigeti (politik)
@@ -34847,6 +34960,7 @@ Malcolm Young
 Malcolm v nesnázích
 Maledivská vlajka
 Maledivy
+Maleevus
 Malešice
 Malfunkshun
 Malheur County
@@ -35049,6 +35163,7 @@ Mao Ce-tung
 Maoismus
 Maorové
 Mapa Zeměplochy
+Maple Falls
 Maple Heights-Lake Desire
 Maple Leaf Publishing
 Maple Valley (Washington)
@@ -35737,6 +35852,7 @@ Martin Stránský
 Martin Toni
 Martin Trnavský
 Martin Těšitel
+Martin Uvíra (1976)
 Martin V.
 Martin Velíšek
 Martin Veselovský
@@ -37498,6 +37614,7 @@ Mihail Andricu
 Mihaly Csikszentmihalyi
 Mihrimah Sultan
 Mihulotvaří
+Mihály Deák-Bárdos
 Mihăiță Vasile Țigănescu
 Mijako Išiuči
 Mijuki Sawaširová
@@ -37603,6 +37720,7 @@ Mikuláš Koperník
 Mikuláš Kusánský
 Mikuláš Nickleby
 Mikuláš V.
+Mikuláš V. Krnovský
 Mikuláš z Riesenburka
 Mikuláš Řecký a Dánský
 Milada Čejková
@@ -37656,6 +37774,7 @@ Milan Svoboda
 Milan Sýkora (textař)
 Milan Uhde
 Milan Volf
+Milan Zloković
 Milan Zuna (politik)
 Milan Černohouz
 Milan Škampa
@@ -37674,6 +37793,7 @@ Milena Černá
 Milenec
 Milenec lady Chatterleyové
 Milenec sopky (kniha)
+Milenecký tunel
 Miles Burke
 Miles Davis
 Miles Gordon Technology
@@ -37981,6 +38101,7 @@ Miroslav Šuba
 Miroslav Šuta
 Miroslav Žbirka
 Miroslava Besserová
+Miroslava Kolářová
 Miroslava Křivánková
 Miroslava Pešíková
 Miroslava Pleštilová
@@ -38005,6 +38126,7 @@ Misgendering
 Misha Aloyan
 Misha Mengelberg
 Misha Rachlevsky
+Mishima Zaibatsu
 Mishka Henner
 Mishka Shubaly
 Misogynie
@@ -38806,6 +38928,7 @@ Moskva
 Moskva (raketový křižník)
 Moss Hart
 Mossack Fonseca
+Mossijská království
 Most (město)
 Most (nádraží)
 Most Evropy
@@ -39078,6 +39201,7 @@ Musturbace
 Muswellbrook
 Musée Carnavalet
 Musée Cernuschi
+Musée Dapper
 Musée Grévin
 Musée Rodin
 Musée d'Orsay
@@ -39614,6 +39738,7 @@ Narcinovití
 Nardophyllum
 Narelle Autio
 Narnie
+Narsé
 Naruhito
 Naruto: Clash of Ninja Revolution
 Naruto: Rise of a Ninja
@@ -39735,6 +39860,7 @@ Naucalpan
 Naughty Girl
 Naumkeag
 Nauru
+Naučná stezka Gruň – Bílý Kříž
 Nava Semel
 Navacerrada
 Navahové
@@ -40085,6 +40211,7 @@ Nevada County (Arkansas)
 Nevada County (Kalifornie)
 Never Can Say Goodbye
 Never Enough
+Never Too Late
 Never Too Late (píseň, Three Days Grace)
 Nevergonnascore
 Nevermind
@@ -40430,6 +40557,7 @@ Niklas Sundin
 Nikodemos Papavasiliou
 Nikol Pašinjan
 Nikola Mektić
+Nikola Šuhaj
 Nikolaas Tinbergen
 Nikolai Aksyonov
 Nikolai Kuznetsov
@@ -40452,6 +40580,7 @@ Nikolaj Nikolajevič Asejev
 Nikolaj Nikolajevič Semjonov
 Nikolaj Petrovič Ivanov
 Nikolaj Rukavišnikov
+Nikolaj Sergejevič Korotkov
 Nikolaj Slavjanov
 Nikolaj Spiňov
 Nikolaj Černěckij
@@ -40880,6 +41009,7 @@ Novinář
 Novinářská fotografie
 Novičok
 Novo Nordisk
+Novo Selo (Vrapčište)
 Novocaine
 Novodobá klenba
 Novogotika
@@ -41050,6 +41180,7 @@ Nádraží Holešovice (stanice metra)
 Nádraží Hostivař (zastávka)
 Nágarí
 Náhoda (román)
+Náhodný turista
 Náhorní plošina
 Náhorně-karabašská republika
 Náhradníci
@@ -41191,6 +41322,7 @@ Nížina
 Núbie
 Núria Espert
 Nüshu
+Nýrská kauza
 Něco divokého
 Něco na té Mary je
 Někde ve městě
@@ -41397,6 +41529,7 @@ Obsah GC
 Obscured by Clouds
 Obsedantně kompulzivní porucha
 Observatoř
+Observatoř La Silla
 Obsidián
 Obsluhoval jsem anglického krále
 Obuvnictví
@@ -41616,6 +41749,7 @@ Oireachtas
 Oiva Lommi
 Okaloosa County
 Okami
+Okamžik co mění život
 Okanogan County
 Okarína
 Okcitánie (region)
@@ -42025,6 +42159,7 @@ Operace Forager
 Operace Gomora
 Operace Himmler
 Operace Jicuv
+Operace Prime Chance
 Operace Seelöwe
 Operace Spojenecká síla
 Operace Steel
@@ -42103,6 +42238,7 @@ Orchestr Dalibora Brázdy
 Orchestr Karla Vlacha
 Orchonské písmo
 Ordinace v růžové zahradě
+Ordino
 Ordovik
 Ordre de la Libération
 Oregon
@@ -42620,6 +42756,7 @@ Pablo Agüero
 Pablo Andújar
 Pablo Bartholomew
 Pablo Casado
+Pablo Casals
 Pablo Chacón
 Pablo Cuevas
 Pablo García Baena
@@ -43253,6 +43390,7 @@ Patrick Maurin
 Patrick Maynard Stuart Blackett
 Patrick McEnroe
 Patrick McMullan
+Patrick Michael O'Regan
 Patrick Modiano
 Patrick Moraz
 Patrick Philbin
@@ -43337,6 +43475,7 @@ Paul Greg
 Paul Haarhuis
 Paul Hanley
 Paul Hardcastle
+Paul Haviland
 Paul Heinrich Dietrich von Holbach
 Paul Henderson (fotograf)
 Paul Henri d'Estournelles de Constant
@@ -43842,6 +43981,7 @@ Percy Williams Bridgman
 Perdicium
 Pere Aragonès
 Pere Camps
+Peregrine Osborne, 2. vévoda z Leedsu
 Perevalovo
 Perezia
 Perfect (hudební skupina)
@@ -43868,6 +44008,7 @@ Periodikum
 Peripleura
 Perityle
 Perivale
+Perișani
 Perkins County (Jižní Dakota)
 Perkins County (Nebraska)
 Perkusy
@@ -44340,6 +44481,7 @@ Pharrell Williams
 Phases
 Phasmophobia
 Phelan Hill
+Phelps
 Phelps County (Missouri)
 Phelps County (Nebraska)
 Phil Anselmo
@@ -45248,6 +45390,7 @@ Polygamie
 Polygon
 Polygon (webové stránky)
 Polyhymnia
+Polykaprolakton
 Polykarp Kusch
 Polymerázová řetězová reakce
 Polymnia (rod)
@@ -45280,6 +45423,7 @@ Pomník Ludwiga van Beethovena (Karlovy Vary)
 Pomník T. G. Masaryka (Karlovy Vary)
 Pomník mezinárodní solidarity protifašistické koalice – STALAG VIII B
 Pomník obětem 1. a 2. světové války (Karlovy Vary)
+Pomník padlým 1. a 2. světové války (Lamač)
 Pomník vojákům Americké armády
 Pomocný biskup
 Pomocný technický prapor
@@ -46146,6 +46290,7 @@ Procol Harum
 Prodigy (rapper)
 Prodloužení
 Producent (umění)
+Product placement
 Production I.G
 Profese
 Profesionál
@@ -46866,6 +47011,7 @@ Přetahování lanem na letních olympijských hrách
 Přezdívka
 Přezdívky států Spojených států amerických
 Přeřeknutí
+Přibyslav (Nová Paka)
 Přichází apokalypsa
 Připoutejte se, prosím!
 Přirozené právo
@@ -46997,6 +47143,7 @@ Quartier de Grenelle
 Quartier de Rochechouart
 Quartier de la Goutte-d'Or
 Quartier de la Villette
+Quartier des Ternes
 Quartier du Montparnasse
 Quay County
 Quazal
@@ -47055,6 +47202,7 @@ Quito
 Quiver
 Québec
 Québec (provincie)
+Québec (rozcestník)
 Qwest Center
 R U the Girl?
 R&B punk
@@ -47378,6 +47526,7 @@ Ram It Down
 Ramanathan Krišnan
 Ramaz Paliani
 Ramesse III.
+Ramesse V.
 Rameš Krišnan
 Rami Malek
 Ramin Djawadi
@@ -47435,6 +47584,7 @@ Randy Warshaw
 Randy Weston
 Randy Williams
 Raneferef
+Ranelagh (stanice metra v Paříži)
 Rangers - Plavci
 Rangers FC
 Rangers – Plavci
@@ -47848,6 +47998,7 @@ Renaissance (album, Beyoncé)
 Renat Mirzalijev
 Renata Voráčová
 Renate & Werner Leismann
+Renate Grasbergerová
 Renate Krügerová
 Renato Barbieri
 Renato Bosatta
@@ -47939,6 +48090,7 @@ Republikánská garda
 Republikánská strana (USA)
 Republikánská unitární koalice
 Repulse records
+Request for Comments
 Requirements engineering
 Reroute to Remain
 Resident Evil 4
@@ -49110,6 +49262,7 @@ Ronan Keating
 Roni Milo
 Roniel Iglesias
 Ronja
+Ronna
 Ronnie Harris
 Ronnie Hellström
 Ronnie James Dio
@@ -49638,6 +49791,8 @@ Rychlobruslení na Zimních olympijských hrách 2018 – 5000 metrů ženy
 Rychlobruslení na zimních olympijských hrách
 Rychlost
 Rychlost světla
+Rychlostní silnice R2 (Slovensko)
+Rychlostní silnice S74 (Polsko)
 Rychlostní silnice v Česku
 Rychlořezná ocel
 Rychtář
@@ -50158,8 +50313,10 @@ Samantha Who?
 Samaritáni
 Samaritánské písmo
 Samarkand
+Samačablo
 Samařsko
 Samaří
+Sambar
 Sambo
 Sametová revoluce
 Samir Amin
@@ -50765,6 +50922,7 @@ Scythris farrata
 Scénografie
 Scénář
 Scénáře socioekonomického vývoje
+Sdej Trumot
 Sdružení pro výpočetní techniku
 Sdružený parní stroj
 Sdílení času
@@ -51058,6 +51216,7 @@ Sergej Zaljotin
 Sergej Šepelev
 Sergej Širokov
 Sergej Ščerbakov
+Sergej Žukov
 Sergejus Jovaisa
 Sergey Brin
 Sergey Danilchenko
@@ -51182,6 +51341,7 @@ Severní Korea na Letních olympijských hrách 2004
 Severní Kypr
 Severní Makedonie
 Severní Mariany
+Severní Mylva
 Severní Nikósie
 Severní Osetie-Alanie
 Severní Pohjanmaa
@@ -51220,6 +51380,7 @@ Severovýchod
 Severovýchodní Afrika
 Severovýchodní Indie
 Severozápadní univerzita
+Severozápadokavkazské jazyky
 Severočeský kraj
 Severská kombinace
 Severská kombinace na zimních olympijských hrách
@@ -51424,6 +51585,7 @@ Seznam měst v Mosambiku
 Seznam měst v Rakousku
 Seznam měst v Rumunsku
 Seznam měst v Severní Karolíny
+Seznam měst v Turkmenistánu
 Seznam měst v Česku podle počtu obyvatel
 Seznam měst ve Španělsku
 Seznam namurských markrabat
@@ -51631,6 +51793,7 @@ Seznam světového dědictví v Evropě, A–Ch
 Seznam světového dědictví v Evropě, I–M
 Seznam systémů taxonomie rostlin
 Seznam technologií firmy AMD
+Seznam technologií používaných v procesorech
 Seznam technologií společnosti AMD
 Seznam technologií ve Star Treku
 Seznam televizních seriálů vysílaných na The CW
@@ -51647,6 +51810,7 @@ Seznam vedlejších postav seriálu Simpsonovi
 Seznam videoher Simpsonových
 Seznam videoher Top Gun
 Seznam videoher společnosti Ubisoft
+Seznam vrcholů v Bukovských vrších
 Seznam vévodů z Newcastlu
 Seznam vévodů z Yorku
 Seznam vítězek turnajů Premier
@@ -51660,10 +51824,12 @@ Seznam zepelínů
 Seznam zvířat seriálu Simpsonovi
 Seznam zámků na Loiře
 Seznam zápasů kolumbijské fotbalové reprezentace na MS
+Seznam zápasů konžské demokratické republiky na MS
 Seznam závislých území
 Seznam úmrtí v rock and rollu
 Seznam československých velvyslanců ve Spojeném království
 Seznam českých coververzí zahraničních skladeb
+Seznam českých příjmení, Ť
 Seznam českých secesních architektů
 Seznam českých velvyslanců ve Spojeném království
 Seznam čestných občanů města Paříže
@@ -51905,6 +52071,7 @@ Show Boat
 Show Tyry Banksové
 Showbiz Kids: The Steely Dan Story, 1972–1980
 Showtime at the Apollo
+Shrewsbury Town FC
 Shromáždění Republiky Kosovo
 Shropshire
 Shrule
@@ -52021,6 +52188,8 @@ Silnice II/118
 Silnice II/209
 Silnice II/238
 Silnice II/274
+Silnice II/277
+Silnice II/605
 Silniční doprava
 Silniční fréza
 Silniční obchvat
@@ -52374,6 +52543,7 @@ Skylink
 Skylla
 Skyman (Columbia Comics)
 Skyways
+Skála (Vítkovská vrchovina)
 Skála Parnas
 Skåne
 Skřivan
@@ -52551,6 +52721,7 @@ Sluneční hmotnost
 Sluneční skvrna
 Sluneční sonda
 Sluneční soustava
+Sluneční stráň
 Sluneční vítr
 Sluneční zářivost
 Služba
@@ -52579,6 +52750,7 @@ Smells Like Children Tour
 Smetanova síň
 Smetánka (seriál)
 Smečno
+Smil III. z Lichtenburka
 Smile (hudební skupina)
 Smiley Smile
 Smile×Smile
@@ -53118,6 +53290,7 @@ Souborový systém
 Soudal–Quick-Step
 Soudce Dredd (film)
 Soudné sestry
+Soudní dohled nad výchovou nezletilého
 Soudní moc
 Soudní porota
 Soudný den
@@ -53314,6 +53487,7 @@ Spirits Having Flown
 Spirituál (hudba)
 Spirituál Kvintet
 Spirituál kvintet
+Spirituály a balady
 Spirochéty
 Spirogyra
 Spirogyra nitida
@@ -53387,6 +53561,7 @@ Společnost Dcer křesťanské lásky svatého Vincence de Paul
 Společnost Maxe Plancka
 Společnost mrtvých básníků
 Společnost národů
+Společnost česko-korejského přátelství Pektusan
 Společná korejská vlajka
 Společná základna Lewis-McChord
 Společné německé družstvo
@@ -53425,6 +53600,7 @@ Sportovci ROV na Letních olympijských hrách 2020
 Sportovec
 Sportovní federace
 Sportovní gymnastika na Letních olympijských hrách 1908
+Sportovní gymnastika na Letních olympijských hrách 1956
 Sportovní gymnastika na letních olympijských hrách
 Sportovní hala Fortuna
 Sportovní klub
@@ -54348,6 +54524,7 @@ Streptokok
 Streptomycin
 Stres
 Stres ve třech
+Stresa
 Stretch
 Striated swallow
 Strigzscara - Warwolf
@@ -54362,6 +54539,7 @@ Stripped (The Rolling Stones)
 Stripped (album)
 Strnad
 Strnad obecný
+Strnad zahradní
 Strobocalyx
 Stroh Peak
 Stroj
@@ -54530,6 +54708,7 @@ Střední Sulawesi
 Střední angličtina
 Střední délka života
 Střední paleolit
+Střední průmyslová škola a Vyšší odborná škola Kladno
 Střední průmyslová škola stavební a Obchodní akademie Kladno
 Střední třída
 Střední východ
@@ -54993,6 +55172,7 @@ Svaz pro budoucnost Rakouska
 Svaz přátel SSSR v Československu
 Svaz světů
 Svazek manželský
+Svazek obcí Dobříšska a Novoknínska
 Svazijsko
 Svazijsko na zimních olympijských hrách
 Svařovací zdroj
@@ -55221,6 +55401,7 @@ Symptom
 Syn Reův
 Synagoga na Kladně
 Synagoga v Bejt Alfa
+Synalovské kopaniny
 Syncalathium
 Syncarpha
 Syncephalum
@@ -55289,6 +55470,7 @@ Sádočné
 Sádra
 Sádrovec
 Sága rodu Forsytů
+Sálový kostel
 Sálská dynastie
 Sám doma 2: Ztracen v New Yorku
 Sámer Issa
@@ -56161,6 +56343,7 @@ Thalassarche
 Thalia Tran
 Thalía
 Thames & Hudson
+Thames Barrier Park
 Thaminophyllum
 Thanos (Marvel Cinematic Universe)
 That's Why God Made the Radio
@@ -56185,6 +56368,7 @@ The Adventures of Superpup
 The Adventures of Tintin: The Secret of the Unicorn
 The Advocate (Austrálie)
 The Afghan Whigs
+The Agronomist
 The Airship
 The Alan Parsons Project
 The Albatross EP
@@ -56918,6 +57102,7 @@ The Take Over, The Breaks Over
 The Talk
 The Tallis Scholars
 The Tarriers
+The Tattooist
 The Teenagers
 The Telegraph
 The Telegraph-Herald
@@ -57547,6 +57732,7 @@ Tkalcovský stav
 Tkaničky
 Tlanalapa
 Tleskač
+Tlouštkovací frézka
 Tlouštík Homer
 Tlusté střevo
 Tlustý Tony
@@ -57611,6 +57797,7 @@ Tokijský proces
 Tokio
 Tokio Hotel
 Toktar Aubakirov
+Tokušima
 Toky uhlíku
 Tokyo (píseň, Owl City)
 Tokyo Underground
@@ -57683,6 +57870,7 @@ Tom Harmon
 Tom Hiddleston
 Tom Hirsch
 Tom Holland (herec)
+Tom Holland (spisovatel)
 Tom Hooper
 Tom Howard (fotograf)
 Tom James
@@ -57746,6 +57934,7 @@ Tomislav Ivančić
 Tomislav Smoljanović
 Tomki Němec
 Tommaso Campanella
+Tommaso Giordani
 Tommy (album)
 Tommy (film)
 Tommy (soundtrack)
@@ -57946,6 +58135,7 @@ Toronto
 Toronto Comicon
 Toronto FC
 Toronto International Film Festival
+Toronto Maple Leafs 2008/2009
 Toronto Rocks
 Torpédo
 Torpédo Mark 46
@@ -58623,6 +58813,7 @@ Tyler Toffoli
 Tyler, The Creator
 Tyler, the Creator
 Tyleropappus
+Tylovo náměstí (Praha)
 Tympanon
 Tympány
 Tyna Ezenma
@@ -58852,6 +59043,7 @@ Třída Roberts
 Třída Rudderow
 Třída S (1917)
 Třída S (1931)
+Třída S 152
 Třída S a T
 Třída Scott
 Třída Shakespeare
@@ -58900,6 +59092,7 @@ UCI Continental Circuits
 UCI ProSeries
 UCI ProSeries 2022
 UCI World Tour
+UCI World Tour 2023
 UCI WorldTeam
 UCLA Bruins football
 UD Almería
@@ -58994,6 +59187,7 @@ USSF D2 Pro League
 UTC+3
 UTC-6
 UTC−07:00
+UTC−10:00
 UTF-1
 UTF-16
 UTF-32
@@ -59536,6 +59730,7 @@ Vakuum
 Val Camonica
 Val Logsdon Fitch
 Val Marie
+Val Poschiavo
 Val Verde County
 Val d'Orcia
 Val di Noto
@@ -59923,6 +60118,7 @@ Velký státní chural
 Velký třesk
 Velký vůz
 Velký závod 2
+Velký Špičák
 Vellereophyton
 Velmoc
 Velnias
@@ -60159,6 +60355,7 @@ Vices & Virtues Tour
 Vichairachanon Khadpo
 Vichry zimy (Hra o trůny)
 Vichy
+Vicious Cycle
 Vickers Type 170 Vanguard
 Vickers VC.1 Viking
 Vickers Vulcan
@@ -60665,6 +60862,7 @@ Vladimír Kořístek
 Vladimír Kratina
 Vladimír Kudla
 Vladimír Kulhánek (politik)
+Vladimír Labant
 Vladimír Laštůvka
 Vladimír Marek
 Vladimír Medek
@@ -60767,6 +60965,7 @@ Vlastimil Novobilský
 Vlastimil Pantůček
 Vlastimil Zavřel
 Vlastimil Zábranský
+Vlastimila Karlasová
 Vlastislav Bříza
 Vlastislav Janík
 Vlastislav Toman
@@ -61101,6 +61300,7 @@ Vražda
 Vražda Jána Kuciaka a Martiny Kušnírové
 Vražda na jachtě
 Vražda prvního stupně
+Vražda rodiny Mijazawových
 Vraždy v Midsomeru
 Vraždy v Yorkshiru: 1974
 Vraždy v Yorkshiru: 1983
@@ -61175,6 +61375,7 @@ Vykořisťování
 Vykřičník
 Vylodění v Normandii
 Vyloďovací člun
+Vympel R-27
 Vymírání
 Vymírání K-T
 Vymírání na konci křídy
@@ -61285,10 +61486,12 @@ Václav Kolář (pedagog)
 Václav Kopta
 Václav Koubek
 Václav Kozák
+Václav Kočka (historik)
 Václav Kratochvíl
 Václav Kratochvíl (archivář)
 Václav Kratochvíl (rozcestník)
 Václav Kratochvíl (voják)
+Václav Král (představitel protinacistického odboje)
 Václav Králík z Buřenic
 Václav Kubrt
 Václav Kučera
@@ -61344,6 +61547,7 @@ Válka světů
 Válka v Afghánistánu (2001–2021)
 Válka v Bosně a Hercegovině
 Válka v Iráku
+Válka v Jižní Osetii (2008)
 Válka v Jugoslávii
 Válka v Kosovu
 Válka v Tichomoří
@@ -61357,6 +61561,7 @@ Vánoce
 Vánoce bez Rodneyho
 Vánoční
 Vánoční koleda (Dickens)
+Vánoční oratorium
 Vánoční ostrov
 Vánoční pudink
 Vánoční příměří
@@ -61594,6 +61799,7 @@ Věra Špinarová
 Věroslav Sláma
 Věslav Michalik
 Věta (lingvistika)
+Věta o translaci
 Větrná energie
 Větrník (divadlo)
 Větrný mlýn v Bílině
@@ -61685,6 +61891,7 @@ Wake County
 Wake Forest University
 Wake Up and Dream
 Wakefield
+Wakefield (rozcestník)
 Wakulla County
 Waldbrand (kámen)
 Waldemar Matuška
@@ -62836,6 +63043,7 @@ Wolfgangsee
 Wolfova–Rayetova hvězda
 Wolfram Huhn
 Wolfram von Eschenbach
+Wolfrumova vila
 Wolfsbane
 Wolfsburg
 Wollastonia
@@ -63273,6 +63481,7 @@ Zack Kassian
 Zack Snyder
 Zack Snyder's Justice League
 Zadní Kopanina
+Zadražil
 Zafkiel
 Zager and Evans
 Zaha Hadid
@@ -63304,6 +63513,7 @@ Zalău
 Zam Johnson
 Zambie
 Zambie na Letních olympijských hrách 1984
+Zambijská kuchyně
 Zamilovaní andělé
 Zamrzlá loď kapitána Flinta
 Zaměstnanec
@@ -63374,6 +63584,7 @@ Zbigniew Brzezinski
 Zbigniew Dłubak
 Zbigniew Pietrzykowski
 Zbigniew Robert Promiński
+Zbojnická jeskyně
 Zborov (Strašnice)
 Zbraslav
 Zbraslavský klášter
@@ -63659,6 +63870,7 @@ Zinek
 Zinetula Biljaletdinov
 Zip Code Tour
 Zipari
+Zisis Babanasis
 Zisk a ztráta
 Zisk před úroky a zdaněním
 Zisk v krajkách
@@ -63832,6 +64044,7 @@ Zpětná kompatibilita
 Zpětná vazba
 Zpětné vazby klimatických změn
 Zpěv drozda (sci-fi román)
+Zpěv před evangeliem
 Zpěv vzdálené Země
 Zpěvák
 Zpěvák-skladatel
@@ -63871,6 +64084,7 @@ Zubr evropský
 Zucchero
 Zugspitze
 Zuma (album)
+Zumba
 Zurich
 Zutphen (hrabství)
 Zuzana Brabcová
@@ -64071,6 +64285,7 @@ Zápisky o skandálu
 Záplavy (přírodní rezervace)
 Záplevák
 Zápor
+Záporka
 Zásady (chemie)
 Záseka
 Záskalie (okres Považská Bystrica)
@@ -64246,6 +64461,7 @@ tranzistor
 Újezd (okres Olomouc)
 Újezd nad Lesy
 Újezd pod Kladnem
+Újezd pod Přimdou
 Újezd u Průhonic
 Úkol (Star Trek: Stanice Deep Space Nine)
 Úlet ibisů skalních z pražské zoologické zahrady
@@ -64292,6 +64508,7 @@ tranzistor
 Ústav pro studium totalitních režimů
 Ústav pro českou literaturu Akademie věd České republiky
 Ústav soudního lékařství v Paříži
+Ústav translatologie Filozofické fakulty Univerzity Karlovy
 Ústav vědeckých informací pro společenské vědy
 Ústava
 Ústava (Platón)
@@ -64563,6 +64780,7 @@ tranzistor
 Česká mužská basketbalová reprezentace
 Česká mužská házenkářská reprezentace
 Česká národní banka
+Česká nářeční skupina
 Česká obchodní inspekce
 Česká pirátská strana
 Česká placka
@@ -64755,6 +64973,7 @@ tranzistor
 Číslo popisné
 Číňané
 Číšníci
+Ďumbierské sedlo
 Ďurkovce
 Ďurďové
 Ďábel (film)
@@ -65555,6 +65774,7 @@ tranzistor
 12th Planet
 12th Planet (musician)
 13 (linka metra v Paříži)
+13 (číslo)
 13. březen
 13. duben
 13. květen
@@ -65671,6 +65891,7 @@ tranzistor
 18. červen
 18. červenec
 18. říjen
+183 př. n. l.
 187 Ride or Die
 1889 VFA season
 1896 v dopravě
@@ -65757,6 +65978,7 @@ tranzistor
 1976 v hudbě
 1976 ve filmu
 1977 v hudbě
+1977 v loďstvech
 1977 ve filmu
 1978 Tongan general election
 1978 v hudbě
@@ -66363,6 +66585,7 @@ tranzistor
 82. výsadková divize Spojených států amerických
 87 př. n. l.
 875 North Michigan Avenue
+879 (číslo)
 89. ročník udílení Oscarů
 9. březen
 9. duben
@@ -67138,6 +67361,7 @@ Adventures by Disney
 Adventures of Sherlock Holmes; or, Held for Ransom
 Adventures of Superman
 Advokát
+Advokát (kniha)
 Adéla Gondíková
 Adéla Lounková
 Adélina země
@@ -67404,6 +67628,7 @@ Akt sestupující se schodů
 Akta X
 Aktinobakterie
 Aktinová filamenta
+Aktion Gitter
 Aktivismus
 Aktivista
 Aktivovaný kal
@@ -67655,7 +67880,9 @@ Albinismus
 Albion P. Howe
 Albrecht Altdorfer
 Albrecht Dürer
+Albrecht III. Saský
 Albrecht Kossel
+Albrecht Penck
 Albrecht VII. Habsburský
 Album Animalism
 Albuminový papír
@@ -67663,6 +67890,7 @@ Albuquerque
 Albánie
 Albánská armáda
 Albánská literatura
+Albín Bok
 Alcalá de Henares
 Alchemy Semiconductor
 Alcobendas
@@ -67797,6 +68025,7 @@ Alexander Horváth
 Alexander Ireland
 Alexander Kidd
 Alexander Kluge
+Alexander Koch
 Alexander Kozák
 Alexander Langsdorff
 Alexander Maletin
@@ -67858,6 +68087,7 @@ Alexandr Konstantinovič Ščetinin
 Alexandr Koškin
 Alexandr Kramer
 Alexandr Kulagin
+Alexandr Kurljandskij
 Alexandr Lavejkin
 Alexandr Lazutkin
 Alexandr Lebzjak
@@ -68042,6 +68272,7 @@ Algona (Washington)
 Algoritmus
 Algoritmus A*
 Ali Brezovský
+Aliance Zelení a Levice
 Aliance pro budoucnost Rakouska
 Aliance rebelů
 Alibaba Group
@@ -68097,6 +68328,7 @@ Alkalofil
 Alkoholický nápoj
 Alkoholismus
 Alkyoneus
+Alkéstis
 All 'N All
 All Ends
 All Hell's Breakin' Loose
@@ -68477,6 +68709,7 @@ Amin Maalouf
 Aminokyselina
 Amir Khan (boxer)
 Amir Mokri
+Amiran Kardanov
 Amish in the City
 Amitai Etzioni
 Amite County
@@ -68691,6 +68924,7 @@ Andrej Chotějev
 Andrej Dmitrijevič Sacharov
 Andrej Feďajev
 Andrej Golubjev
+Andrej Hodek
 Andrej Hryc
 Andrej Karlov
 Andrej Kim Cheon-ae
@@ -68839,6 +69073,7 @@ Andy Iles
 Andy Irvine (hudebník)
 Andy Kim
 Andy Kubert
+Andy Lau
 Andy Mackay
 Andy McCulloch
 Andy Mitchell
@@ -69151,6 +69386,7 @@ Antaios
 Antal Kocsis
 Antal Melis
 Antal Szendey
+Antalya Open 2019 – mužská dvouhra
 Antanas Bagdonavičius
 Antanas Sniečkus
 Antarctica
@@ -69369,6 +69605,7 @@ Antropogenní jezero
 Antropologický slovník
 Antropologie
 Antroposofie
+Antti Raanta
 Antukový dvorec
 Antun Bogetić
 Antverpská univerzita
@@ -69472,6 +69709,7 @@ Aqqaluaq B. Egede
 Aquaman
 Aquaman (film)
 Aquaman and the Lost Kingdom
+Aquaria (počítačová hra)
 Aquasky
 Aquificae
 Aquila (letadlová loď)
@@ -69875,6 +70113,7 @@ Arts and Crafts
 Arts and Crafts Movement
 Artturi Ilmari Virtanen
 Artur Fischer
+Artur Malawski
 Artur Olech
 Artur Sasko-Koburský
 Artur Schnabel
@@ -70825,6 +71064,7 @@ Banda (film)
 Bandera County
 Bandit Rock
 Bandita
+Bang! (píseň)
 Bangarang
 Bangka-Belitung
 Bangkok
@@ -70921,6 +71161,7 @@ Barcode of Life Data System
 Bard High School Early College
 Bardova univerzita
 Barentsovo moře
+Bargello
 Baring (Washington)
 Barionová hvězda
 Barkleyanthus
@@ -71020,6 +71261,7 @@ Bartolomè Esteban Murillo
 Bartoloměj Josef Kulhavý
 Barton County (Kansas)
 Barton County (Missouri)
+Bartow (Georgie)
 Bartow County
 Bartragh
 Bartłomiej Pawełczak
@@ -71150,6 +71392,7 @@ Bazilika svatého Remigia (Remeš)
 Bazén
 Baškortostán
 Bašár al-Asad
+Bažant diamantový
 Bažina
 Be Here Now
 Be My Baby
@@ -71539,6 +71782,7 @@ Bergen
 Bergen County
 Bergey's Manual of Systematic Bacteriology
 Bergisch Gladbach
+Bergvallův systém
 Berkeley County (Jižní Karolína)
 Berkeley County (Západní Virginie)
 Berkheya
@@ -71565,6 +71809,7 @@ Berlínská zeď
 Berlínské spiknutí
 Berlínský mezinárodní filmový festival
 Berlínští filharmonikové
+Bermontiáda
 Bermudský trojúhelník
 Bermudy
 Bermudy na Letních olympijských hrách 1976
@@ -71822,6 +72067,7 @@ Bicí souprava
 Biedermeier
 Biela skala
 Bielefeld
+Biely kameň
 Biennale di Venezia
 Bienville Parish
 Bifenazate
@@ -72292,6 +72538,7 @@ Blast First
 Blast Paris Major 2023
 Blaster (Star Wars)
 Blatník (tvrz)
+Blato (Chorvatsko)
 Blaze Bayley
 Blazing Angels 2: Secret Missions of WWII
 Blazing Angels: Squadrons of WWII
@@ -72621,6 +72868,7 @@ Boj o ostrov
 Boj o život
 Bojacá
 Bojan Prešern
+Bojana
 Bojana Jovanovská
 Boje o Chattanoogu
 Boje o Nizozemskou východní Indii (1941–1942)
@@ -73314,6 +73562,7 @@ Brooklyn Public Library
 Brooklyn Technical High School
 Brooklyn Vegan
 Brooklynské muzeum
+Brooks County
 Brooks County (Georgie)
 Brooks County (Texas)
 Broome County
@@ -73656,6 +73905,7 @@ Buršácký spolek
 Buržoazie
 Bus Stop
 Business
+Business Accelerator VŠE
 Business Insider
 Business Process Model and Notation
 Business Review Weekly
@@ -73768,6 +74018,7 @@ Búrské války
 Büsingen am Hochrhein
 Bývalé obce v Paříži
 Bývalé pařížské městské obvody
+Băbeni
 Běchovice
 Běh do schodů
 Běh na 10 000 metrů
@@ -74452,6 +74703,7 @@ Carl Gustaf Verner von Heidenstam
 Carl Gustav Jacob Jacobi
 Carl Gustav Jung
 Carl Hahn
+Carl Heinrich Bloch
 Carl Hubbell
 Carl Klose
 Carl Lehle
@@ -74764,6 +75016,7 @@ Catron County
 Catskill Mountains
 Cattaraugus County
 Caucasalia
+Cauchyho–Schwarzova nerovnost
 Causa Wardových
 Cavalcantia
 Cavalier (Nedor Comics)
@@ -75537,6 +75790,7 @@ Chlamydióza
 Chlamydophila psittaci
 Chlamydophora
 Chlapci a chlapi
+Chlapec, který věděl příliš mnoho
 Chlodvík I.
 Chloe Bennet
 Chloe Hoskingová
@@ -75560,6 +75814,7 @@ Chlorpyrifos-methyl
 Chloróza
 Chloé Zhaová
 Chloë Moretzová
+Chlum (Orlická tabule, 359 m)
 Chlum (přírodní rezervace)
 Chlupáček (Pilosella)
 Chléb
@@ -77206,6 +77461,7 @@ Dag Bredberg
 Dag Hammarskjöld
 Daggett County
 Dagmar Burešová
+Dagmar Havlová
 Dagmar Hochová
 Dagmar Lerchová
 Dagmar Lhotová
@@ -78009,6 +78265,7 @@ Dayanita Singhová
 Daydream (album, Mariah Carey)
 Daydream Nation
 Dayton
+Dayton (Tennessee)
 Dazed and Confused (píseň)
 Dačov Lom
 Daň z nemovitosti
@@ -78320,6 +78577,7 @@ Denton, Greater Manchester
 Denver
 Denver Broncos
 Denys Berinchyk
+Denys Maljuska
 Dené-kavkazské jazyky
 Deník (Vltava Labe Media)
 Deník (noviny)
@@ -78488,6 +78746,7 @@ Diabetes mellitus
 Diacranthera
 Diadém
 Diageo
+Diagnostické proužky pro analýzu moči
 Diagnostický a statistický manuál mentálních poruch
 Diagnostika
 Diagnóza (medicína)
@@ -78575,6 +78834,7 @@ Dicoria
 Dicranocarpus
 Dictionary of the English Language
 Dictyoglomi
+Didactica magna
 Didaktická literatura
 Didaktik
 Didaktik 40
@@ -79186,8 +79446,10 @@ Domov na konci světa
 Domove, sladký domove
 Domy pana Sartoria
 Domácnost
+Domácí práce
 Domácí sluha
 Domácí štěstí
+Domène
 Doména (biologie)
 Doména nejvyššího řádu
 Don Adams
@@ -79379,6 +79641,7 @@ Dornier Do R Superwal
 Dorobaea
 Dorothea Douglassová Chambersová
 Dorothea Langeová
+Dorothea von Medem
 Dorothea von Rodde-Schlözerová
 Dorothy Crowfoot Hodgkin
 Dorothy Day
@@ -79549,6 +79812,7 @@ Drahomíra Vihanová
 Drahomíra Vlachová
 Drahomíra ze Stodor
 Drake (umělec)
+Drake Batherson
 Drakengard 2
 Drakunkulóza
 Drama
@@ -79613,6 +79877,7 @@ Druchema
 Druh 8472
 Druhové jméno
 Druhy hlasů
+Druhá Barrosova komise
 Druhá Nadace
 Druhá Polská republika
 Druhá anglo-nizozemská válka
@@ -79775,6 +80040,7 @@ Dura (Hebron)
 Duran Duran
 Durban
 Durex
+Durga McBroom
 Durham
 Durham (Severní Karolína)
 Durham County (Severní Karolína)
@@ -79962,6 +80228,7 @@ Dánská ženská basketbalová reprezentace
 Dánština
 Dávivec
 Dávkový soubor
+Dáša Cortésová
 Dâmbovița
 Dâmbovița (řeka)
 Dédalo (R01)
@@ -80024,6 +80291,7 @@ Děkanát a vikariát
 Dělba moci
 Dělení Afriky
 Dělení Polska
+Dělnická strana sociální spravedlnosti
 Dělnická třída
 Dělník
 Děloha
@@ -80069,6 +80337,7 @@ Dům Svobodného tisku
 Dům U Bílého věnce
 Dům U Hybernů
 Dům U Mouřenína
+Dům U Turků
 Dům U Černého slona (Týnská)
 Dům bouří
 Dům granátových jablek
@@ -80395,6 +80664,7 @@ Edouard Marcelle
 Edred
 Edson Chagas
 Edu Lobo
+Eduard Antoch
 Eduard August Hannoverský (1767)
 Eduard Bass
 Eduard Bernstein
@@ -80559,6 +80829,7 @@ Egyptská vlajka
 Egyptské hieroglyfy
 Egyptské království
 Ehud Olmert
+Eichendorffové
 Eider
 Eidos Interactive
 Eifel
@@ -80968,6 +81239,7 @@ Emile Berliner
 Emile Levisetti
 Emilia (rod)
 Emilia-Romagna
+Emiliano Martínez
 Emilie Řepíková
 Emiliella
 Emilio Correa (boxer born 1953)
@@ -81580,6 +81852,7 @@ Eugenius
 Eugeniusz Rudnik
 Eugène Atget
 Eugène Constant
+Eugène Cuvelier
 Eukaryota
 Eukaryotická buňka
 Eumir Marcial
@@ -81655,6 +81928,7 @@ Eurozóna
 Eurybia
 Eurybia (rod)
 Eurydochus
+Eurykrates
 Eurynomé
 Euryops
 Eurythmics
@@ -81662,6 +81936,7 @@ Eusebio Sempere
 Eusebius (papež)
 Euskaltel–Euskadi
 Eustace Miles
+Eustachius van Lieshout
 Eutanazie
 Euterpé
 Eutetras
@@ -81793,6 +82068,7 @@ Evropská liga UEFA 2011/12
 Evropská liga UEFA 2012/13
 Evropská liga UEFA 2017/18
 Evropská liga UEFA 2022/2023
+Evropská liga UEFA 2023/2024
 Evropská léková agentura
 Evropská migrační krize
 Evropská měnová unie
@@ -82090,6 +82366,7 @@ FK Jablonec
 FK Králův Dvůr
 FK Loko Vltavín
 FK Lokomotiv Moskva
+FK Mladost Podgorica
 FK Mladá Boleslav
 FK Motorlet Praha
 FK Mutěnice
@@ -83402,6 +83679,7 @@ František I. Rakouský
 František II. Pálffy
 František Jakubec starší (fotbalista)
 František Janeček (producent)
+František Jedlička (teolog)
 František Josef I.
 František Josef z Thun-Hohensteinu
 František Julián von Braida
@@ -83417,6 +83695,7 @@ František Kovářík
 František Kočí
 František Krasl
 František Kreuzmann starší
+František Krutílek
 František Kudrna
 František Kupka
 František Ladislav Rieger
@@ -83461,6 +83740,7 @@ František Vilém Sieber
 František Vodička (herec)
 František Vrána (rozcestník)
 František Xaver Bourbonsko-Parmský
+František Xaver Němeček
 František Xaver Šalda
 František Xavier Hong Gyo-man
 František Yi Bo-hyeon
@@ -83715,6 +83995,7 @@ French Open 2011
 French Open 2012
 French Open 2012 – mužská dvouhra
 French Open 2014 – ženská čtyřhra
+French Open 2015 – mužská dvouhra
 French Open 2021
 French Open 2021 – dvouhra juniorek
 French Open 2021 – ženská dvouhra
@@ -83962,6 +84243,7 @@ GNK Dinamo Zagreb
 GNOME
 GNOME Terminal
 GNU General Public License
+GNU Health
 GNU Hurd
 GOST 10859
 GP Industria & Artigianato di Larciano
@@ -84747,6 +85029,7 @@ Gerry Duggan
 Gerry Goffin
 Gerry Rafferty
 Gerry Weber Open 2012
+Gerry Weber Open 2017 – mužská čtyřhra
 Gerry and the Pacemakers
 Gershon Kingsley
 Gershwinova cena
@@ -84760,6 +85043,7 @@ Gertrude Samuels
 Gertrude Steinová
 Gerty Coriová
 Gerwazy Son Gyeong-yun
+Geschaderův dům
 Gesto por la Paz
 Get Along
 Get Me Bodied
@@ -84863,6 +85147,7 @@ Gilberto Agustoni
 Gilberto Benetton
 Gilberto Carrillo
 Gilberto Gil
+Gilberto Silva
 Gilbertovy ostrovy
 Gilboa
 Gilchrist County
@@ -86127,6 +86412,7 @@ HQ-61
 HTMS Chakri Naruebet
 HZ (character encoding)
 Ha lachma anja
+Ha-Zorea
 Haakon County
 Haakon Sigurdsson
 Haas-Haus
@@ -86201,6 +86487,7 @@ Hal Holbrook
 Hal Moore
 Halapartna
 Haldan Keffer Hartline
+Hale County
 Hale County (Alabama)
 Hale County (Texas)
 Halel
@@ -86456,6 +86743,7 @@ Hans Olsson
 Hans Rosling
 Hans Scharoun
 Hans Schlegel
+Hans Schreiber
 Hans Schäfer
 Hans Schöchlin
 Hans Selye
@@ -86874,6 +87162,7 @@ Hedvábí
 Hedy Lamarrová
 Hedypnois
 Hedžet
+Hegemone (měsíc)
 Hegemonní maskulinita
 Heian sandan
 Heidelberg
@@ -87504,6 +87793,7 @@ Historické provincie Finska
 Historický lexikon Švýcarska
 Historický materialismus
 Historický román
+Historie Amway
 Historie Davis Cupu
 Historie bisexuality
 Historie provincií v Číně
@@ -87743,6 +88033,7 @@ Honoré Gabriel Riqueti de Mirabeau
 Honoré de Balzac
 Honoré d’Urfé
 Honoré-Beaugrand (stanice metra v Montréalu)
+Honoré-Charles Reille
 Honzíkova cesta
 Hoobastank
 Hood County
@@ -87815,6 +88106,7 @@ Horní Střítež
 Horní Uhry
 Horní Ves (železniční zastávka)
 Horní Vestec
+Horní Věstonice
 Horní čelist
 Horný Lieskov
 Horor
@@ -87936,6 +88228,7 @@ Howlandův ostrov
 Hoyo de Manzanares
 Hoyt Axton
 Hořejší jezero
+Hořejší rybník (Hloubětín)
 Hoření
 Hoření kyslíku
 Hoření křemíku
@@ -88147,6 +88440,7 @@ Hugo Theorell
 Hugo Waser
 Hugo Weaving
 Hugo von Hofmannsthal
+Hugo z hor
 Hugues Aufray
 Hulk Vs.
 Hull House
@@ -88315,6 +88609,7 @@ Hymenostemma
 Hymenostephium
 Hymenothrix
 Hymenoxys
+Hymna Cerezo Ósaka
 Hymna Spojeného království
 Hymna Spojených států amerických
 Hyméttos
@@ -88765,6 +89060,7 @@ ISO/TR 11941
 ISO/TS 16949
 ITU T.61
 ITunes
+IV. třída okresu Klatovy
 IZombie
 Iain Banks
 Iain Brambell
@@ -88976,6 +89272,7 @@ Immigration and Nationality Act of 1965
 Immortality
 Immortals Fenyx Rising
 Immunization Act (Japan)
+Imogen Cunninghamová
 Imogen Stubbs
 Imovica
 Impact Records
@@ -89240,6 +89537,7 @@ Intel Pentium
 Inteligence
 Inteligenční kvocient
 Inter Continental Air Transport
+InterCity 125
 Intercity-Express
 Intercontinental Rally Challenge 2008
 Intercontinental Rally Challenge 2009
@@ -89531,6 +89829,7 @@ Isaac Thomas Thornycroft
 Isaak Dunajevskij
 Isaak Markovič Chalatnikov
 Isabel Marant
+Isabela Antonie z Croÿ
 Isabela Francouzská (1242-1271)
 Isabela Francouzská (1242–1271)
 Isabela Henegavská
@@ -89706,6 +90005,7 @@ Ivan Laing
 Ivan Landsmann
 Ivan Larsen
 Ivan Lendl
+Ivan Ljachov
 Ivan Ljubičić
 Ivan M. Havel
 Ivan Mauger
@@ -90145,6 +90445,7 @@ Jake Wetzel
 Jakko Jakszyk
 Jaknovo
 Jako klíště
+Jako solný sloup
 Jakob Grob
 Jakob Hlasek
 Jakob Schneider
@@ -90215,6 +90516,7 @@ James Bond
 James Boswell
 James Boyd (boxer)
 James Brady
+James Bragge
 James Braxton Craven Jr.
 James Brolin
 James Brown
@@ -90619,6 +90921,7 @@ Jan Vyklický
 Jan Vyčítal
 Jan Václav Stamic
 Jan Václav Xaver Frey von Freyenfels
+Jan Víšek (architekt)
 Jan W. Speerger
 Jan Weinlich
 Jan Weiss
@@ -91069,6 +91372,7 @@ Jean Zay
 Jean-Baptiste Alexandre Le Blond
 Jean-Baptiste Baudin
 Jean-Baptiste Colbert
+Jean-Baptiste Gramaye
 Jean-Baptiste Lamarck
 Jean-Baptiste Mauzaisse
 Jean-Baptiste Papin
@@ -91323,6 +91627,7 @@ Jenson Button
 Jeordie White
 Jeph Loeb
 Jerauld County
+Jere Lehtinen
 Jereem Richards
 Jeremiah Brown (veslař)
 Jeremy (píseň)
@@ -91736,6 +92041,7 @@ Jindřich Korutanský
 Jindřich Kumpošt
 Jindřich Náz
 Jindřich Pokorný
+Jindřich Stuart, lord Darnley
 Jindřich Urbánek (soudce)
 Jindřich Uzel
 Jindřich VI. Anglický
@@ -91867,6 +92173,7 @@ Jiří Lang
 Jiří Lanský
 Jiří Lopata
 Jiří Lundák
+Jiří Lutovský
 Jiří Lábus
 Jiří Macháně
 Jiří Macháček
@@ -91985,6 +92292,7 @@ Jižní Korea na Letních olympijských hrách 2004
 Jižní Korea na Letních olympijských hrách 2008
 Jižní Korea na Letních olympijských hrách 2012
 Jižní Město
+Jižní Orkneje
 Jižní Osetie
 Jižní Pohjanmaa
 Jižní Rhodesie
@@ -92853,6 +93161,7 @@ Josef Kolečko
 Josef Kolmaš
 Josef Koudelka
 Josef Kovalčuk
+Josef Kozák (konstruktér)
 Josef Kořínek (fotbalista)
 Josef Košťálek
 Josef Kylies
@@ -92884,6 +93193,7 @@ Josef Polášek
 Josef Pongratz
 Josef Protiva
 Josef Rauvolf
+Josef Rejfíř
 Josef Rom
 Josef Rostislav Stejskal
 Josef Rusek
@@ -93020,6 +93330,7 @@ Joseph Schildkraut
 Joseph Sheridan Le Fanu
 Joseph Stiglitz
 Joseph Stilwell
+Joseph Sullivan
 Joseph Sullivan (veslař)
 Joseph Ventaja
 Joseph Vissers
@@ -93212,6 +93523,7 @@ Juan Venegas
 Juan de Borja Lanzol de Romaní starší
 Juan de la Cierva
 Juan del Encina
+Juanito
 Juanmi (1993)
 Jubilejní kolonie
 Juda Makabejský
@@ -93317,6 +93629,7 @@ Julian Nowak
 Julian Schnabel
 Julian Schwinger
 Julian Tuwim
+Juliana z Lutychu
 Julianna Kim Yeon-i
 Julie Andrewsová
 Julie Ann Taylorová
@@ -93565,6 +93878,7 @@ Jódži Jamamoto
 Jóhann Jóhannsson
 Jóičiró Nambu
 Jóko Hikasaová
+Jón Daði Böðvarsson
 Jónské ostrovy (kraj)
 Józef B. Nowakowski
 Józef Bohdan Zaleski
@@ -93602,6 +93916,7 @@ Július Toček
 Jülich
 Jün-nan
 Jürgen Becker (teolog)
+Jürgen Damm
 Jürgen Fanghänel
 Jürgen Grabowski
 Jürgen Habermas
@@ -93870,8 +94185,10 @@ Kansas City Chiefs
 Kansas City Southern Skyways
 Kanta-Häme
 Kanton (Čína)
+Kanton Acheux-en-Amiénois
 Kanton Brest-Saint-Pierre
 Kanton Chabeuil
+Kanton Colombes-Nord-Est
 Kanton Gray
 Kanton Laval-Nord-Est
 Kanton Oradour-sur-Vayres
@@ -93938,6 +94255,7 @@ Karabiniéři
 Karadarja
 Karaginský ostrov
 Karaitský judaismus
+Karamelizace
 Karantánie
 Karanténa
 Karas obecný
@@ -94026,6 +94344,7 @@ Karel Josef Voračický z Paběnic
 Karel Kahovec
 Karel Kaplan
 Karel Klostermann
+Karel Kníže
 Karel Kolský
 Karel Kolář
 Karel Koutský (historik)
@@ -94038,6 +94357,7 @@ Karel Lucemburský
 Karel Lucemburský (1927–1977)
 Karel Ludvík Rakousko-Těšínský
 Karel Makonj
+Karel Maxmilián Thurn-Valsássina
 Karel May
 Karel Mašek
 Karel Mejta (1928)
@@ -94228,6 +94548,7 @@ Karsten Finger
 Karsten Forsterling
 Karsten Schmelling
 Kartel
+Kartena
 Kartografie
 Karty figur
 Kartágo
@@ -94291,6 +94612,7 @@ Katarzyna Kawaová
 Katarzyna Nosowska
 Katarzyna Piterová
 Katastrofa
+Katastrofický film
 Katastrofy a neštěstí 1946
 Katastrofy a neštěstí 2016
 Katastrofy a neštěstí 2017
@@ -94662,6 +94984,7 @@ Kenzaburó Óe
 Ken’iči Fukui
 Keokuk County
 Kepler (sonda)
+Keptuška
 Kerak
 Keramická hlína
 Keramický nůž
@@ -95157,6 +95480,7 @@ Klášter celestýnů v Paříži
 Klášterec nad Ohří
 Klášterní cela
 Klášterní klenba
+Klášterský Mlýn
 Klínovec
 Klínovecká hornatina
 Klínové písmo
@@ -95541,6 +95865,7 @@ Konvence z Montreux
 Konvergence (evoluce)
 Konvertoplán
 Konvertáza
+Konvoluční kód
 Konvář politik
 Konzervatismus
 Konzervativismus
@@ -95649,6 +95974,7 @@ Kosmický let
 Kosmický prostor
 Kosmodrom Si-čchang
 Kosmonaut
+Kosov (okres Šumperk)
 Kosovo
 Kosovská literatura
 Kossuth County
@@ -96005,6 +96331,7 @@ Kulturální studia
 Kulíkovití
 Kumafos
 Kumrán
+Kunda (řeka)
 Kundun
 Kuneš ze Zvole
 Kung Fu (seriál, 2021)
@@ -96048,6 +96375,7 @@ Kurt Angle
 Kurt Cobain
 Kurt Daluege
 Kurt Georg Kiesinger
+Kurt Hahn
 Kurt Helmudt
 Kurt Hiller
 Kurt Krenn
@@ -96091,6 +96419,7 @@ Kvajáva
 Kvakeři
 Kvalifikace na Mistrovství Evropy ve fotbale 2016 – skupina I
 Kvalifikace na Mistrovství světa ve fotbale 1994 (CAF)
+Kvalifikace na Mistrovství světa ve fotbale 2018 (CONCACAF)
 Kvalita při svařování
 Kvant-1
 Kvant-2
@@ -96489,6 +96818,7 @@ Lachiš
 Lachnophyllum
 Lachnorhiza
 Lachnospermum
+Lachtan ostrovní
 Lachtanovití
 Lackawanna County
 Laclede County
@@ -96617,6 +96947,7 @@ Lake Shore Drive
 Lake Washington Ship Canal
 Lake and Peninsula Borough
 Lake of the Woods County
+Lakeith Stanfield
 Lakeland North
 Lakeland South
 Lakeridge
@@ -96817,6 +97148,7 @@ Latinské karty
 Latinský pohár
 Latirhinus
 Latisha Chan
+Latte art
 Latter Days: Best of Led Zeppelin Volume Two
 Lattice Semiconductor
 Latécoère
@@ -97019,6 +97351,7 @@ Lední hokej na olympijských hrách
 Ledovec
 Ledová jádra
 Ledová ňadra
+Ledový den
 Ledový příkrov
 Ledvina
 Ledňáček říční
@@ -97282,6 +97615,7 @@ Leppävirta
 Lepra
 Leptinella
 Leptocarpha
+Lepton
 Leptorhynchos (rostlina)
 Leptostelma
 Leri Chabelovi
@@ -98087,6 +98421,7 @@ Letoun
 Letouni
 Letounovití
 Letová paluba
+Letošník
 Lettowia
 Letzlingen
 Letňany
@@ -99213,6 +99548,7 @@ Louka pod Rančem
 Louky Keijsers
 Louky u Dlouhé Lomnice
 Louna Ladevant
+Lounská pahorkatina
 Louny
 Loup County
 Lourdes Grobetová
@@ -99682,6 +100018,7 @@ László Bulcsú
 László Fábián (kanoista)
 László Lóránd
 László Moholy-Nagy
+László Nagy
 László Orbán
 László Papp
 László Szigeti (politik)
@@ -100187,6 +100524,7 @@ Malcolm Young
 Malcolm v nesnázích
 Maledivská vlajka
 Maledivy
+Maleevus
 Malešice
 Malfunkshun
 Malheur County
@@ -101078,6 +101416,7 @@ Martin Stránský
 Martin Toni
 Martin Trnavský
 Martin Těšitel
+Martin Uvíra (1976)
 Martin V.
 Martin Velíšek
 Martin Veselovský
@@ -101722,6 +102061,7 @@ Medina (Washington)
 Medina County (Ohio)
 Medina County (Texas)
 Meditace
+Meditace o první filosofii
 Medián
 Mediæval Bæbes
 Medosavka hlučná
@@ -101877,6 +102217,7 @@ Meningitida
 Meningokok
 Meningokoková vakcína
 Menkare
+Menkent
 Mennofer
 Mennonité
 Menoitios
@@ -102839,6 +103180,7 @@ Mihail Andricu
 Mihaly Csikszentmihalyi
 Mihrimah Sultan
 Mihulotvaří
+Mihály Deák-Bárdos
 Mihăiță Vasile Țigănescu
 Mijako Išiuči
 Mijuki Sawaširová
@@ -102944,6 +103286,7 @@ Mikuláš Koperník
 Mikuláš Kusánský
 Mikuláš Nickleby
 Mikuláš V.
+Mikuláš V. Krnovský
 Mikuláš z Riesenburka
 Mikuláš Řecký a Dánský
 Milada Čejková
@@ -103016,6 +103359,7 @@ Milena Černá
 Milenec
 Milenec lady Chatterleyové
 Milenec sopky (kniha)
+Milenecký tunel
 Miles Burke
 Miles Davis
 Miles Gordon Technology
@@ -103323,6 +103667,7 @@ Miroslav Šuba
 Miroslav Šuta
 Miroslav Žbirka
 Miroslava Besserová
+Miroslava Kolářová
 Miroslava Křivánková
 Miroslava Pešíková
 Miroslava Pleštilová
@@ -103347,6 +103692,7 @@ Misgendering
 Misha Aloyan
 Misha Mengelberg
 Misha Rachlevsky
+Mishima Zaibatsu
 Mishka Henner
 Mishka Shubaly
 Misogynie
@@ -104148,6 +104494,7 @@ Moskva
 Moskva (raketový křižník)
 Moss Hart
 Mossack Fonseca
+Mossijská království
 Most (město)
 Most (nádraží)
 Most Evropy
@@ -104420,6 +104767,7 @@ Musturbace
 Muswellbrook
 Musée Carnavalet
 Musée Cernuschi
+Musée Dapper
 Musée Grévin
 Musée Rodin
 Musée d'Orsay
@@ -104956,6 +105304,7 @@ Narcinovití
 Nardophyllum
 Narelle Autio
 Narnie
+Narsé
 Naruhito
 Naruto: Clash of Ninja Revolution
 Naruto: Rise of a Ninja
@@ -105428,6 +105777,7 @@ Nevada County (Arkansas)
 Nevada County (Kalifornie)
 Never Can Say Goodbye
 Never Enough
+Never Too Late
 Never Too Late (píseň, Three Days Grace)
 Nevergonnascore
 Nevermind
@@ -105796,6 +106146,7 @@ Nikolaj Nikolajevič Asejev
 Nikolaj Nikolajevič Semjonov
 Nikolaj Petrovič Ivanov
 Nikolaj Rukavišnikov
+Nikolaj Sergejevič Korotkov
 Nikolaj Slavjanov
 Nikolaj Spiňov
 Nikolaj Černěckij
@@ -106224,6 +106575,7 @@ Novinář
 Novinářská fotografie
 Novičok
 Novo Nordisk
+Novo Selo (Vrapčište)
 Novocaine
 Novodobá klenba
 Novogotika
@@ -106231,6 +106583,7 @@ Novokantovství
 Novoměstské divadlo
 Novoměstský ústav šlechtičen u sv. Andělů
 Novooleksandrivka
+Novopskov
 Novoromantismus
 Novorománský sloh
 Novorozenec
@@ -106394,6 +106747,7 @@ Nádraží Holešovice (stanice metra)
 Nádraží Hostivař (zastávka)
 Nágarí
 Náhoda (román)
+Náhodný turista
 Náhorní plošina
 Náhorně-karabašská republika
 Náhradníci
@@ -106535,6 +106889,7 @@ Nížina
 Núbie
 Núria Espert
 Nüshu
+Nýrská kauza
 Něco divokého
 Něco na té Mary je
 Někde ve městě
@@ -106741,6 +107096,7 @@ Obsah GC
 Obscured by Clouds
 Obsedantně kompulzivní porucha
 Observatoř
+Observatoř La Silla
 Obsidián
 Obsluhoval jsem anglického krále
 Obuvnictví
@@ -107370,6 +107726,7 @@ Operace Forager
 Operace Gomora
 Operace Himmler
 Operace Jicuv
+Operace Prime Chance
 Operace Seelöwe
 Operace Spojenecká síla
 Operace Steel
@@ -107966,6 +108323,7 @@ Pablo Agüero
 Pablo Andújar
 Pablo Bartholomew
 Pablo Casado
+Pablo Casals
 Pablo Chacón
 Pablo Cuevas
 Pablo García Baena
@@ -108599,6 +108957,7 @@ Patrick Maurin
 Patrick Maynard Stuart Blackett
 Patrick McEnroe
 Patrick McMullan
+Patrick Michael O'Regan
 Patrick Modiano
 Patrick Moraz
 Patrick Philbin
@@ -108683,6 +109042,7 @@ Paul Greg
 Paul Haarhuis
 Paul Hanley
 Paul Hardcastle
+Paul Haviland
 Paul Heinrich Dietrich von Holbach
 Paul Henderson (fotograf)
 Paul Henri d'Estournelles de Constant
@@ -108868,6 +109228,7 @@ Pavel Lohonka
 Pavel Lukeš
 Pavel Mayer (astronom)
 Pavel Medek
+Pavel Minařík
 Pavel Noha
 Pavel Novák (zpěvák)
 Pavel Němčický
@@ -109188,6 +109549,7 @@ Percy Williams Bridgman
 Perdicium
 Pere Aragonès
 Pere Camps
+Peregrine Osborne, 2. vévoda z Leedsu
 Perevalovo
 Perezia
 Perfect (hudební skupina)
@@ -109687,6 +110049,7 @@ Pharrell Williams
 Phases
 Phasmophobia
 Phelan Hill
+Phelps
 Phelps County (Missouri)
 Phelps County (Nebraska)
 Phil Anselmo
@@ -110260,6 +110623,7 @@ Podachaenium
 Podanthus
 Podběl lékařský
 Podbělice
+Podbřežice
 Podcasting
 Poddruh
 Podej mi ruku...
@@ -110595,6 +110959,7 @@ Polygamie
 Polygon
 Polygon (webové stránky)
 Polyhymnia
+Polykaprolakton
 Polykarp Kusch
 Polymerázová řetězová reakce
 Polymnia (rod)
@@ -111494,6 +111859,7 @@ Procol Harum
 Prodigy (rapper)
 Prodloužení
 Producent (umění)
+Product placement
 Production I.G
 Profese
 Profesionál
@@ -112214,6 +112580,7 @@ Přetahování lanem na letních olympijských hrách
 Přezdívka
 Přezdívky států Spojených států amerických
 Přeřeknutí
+Přibyslav (Nová Paka)
 Přichází apokalypsa
 Připoutejte se, prosím!
 Přirozené právo
@@ -112345,6 +112712,7 @@ Quartier de Grenelle
 Quartier de Rochechouart
 Quartier de la Goutte-d'Or
 Quartier de la Villette
+Quartier des Ternes
 Quartier du Montparnasse
 Quay County
 Quazal
@@ -112611,6 +112979,7 @@ Raiffeisenbank
 Raillardella
 Railway Air Services
 Raimkul Malakhbekov
+Raimon Panikkar
 Raimu
 Raimund Hörmann
 Raimund Schreier
@@ -112727,6 +113096,7 @@ Ram It Down
 Ramanathan Krišnan
 Ramaz Paliani
 Ramesse III.
+Ramesse V.
 Rameš Krišnan
 Rami Malek
 Ramin Djawadi
@@ -112784,6 +113154,7 @@ Randy Warshaw
 Randy Weston
 Randy Williams
 Raneferef
+Ranelagh (stanice metra v Paříži)
 Rangers - Plavci
 Rangers FC
 Rangers – Plavci
@@ -113197,6 +113568,7 @@ Renaissance (album, Beyoncé)
 Renat Mirzalijev
 Renata Voráčová
 Renate & Werner Leismann
+Renate Grasbergerová
 Renate Krügerová
 Renato Barbieri
 Renato Bosatta
@@ -113288,6 +113660,7 @@ Republikánská garda
 Republikánská strana (USA)
 Republikánská unitární koalice
 Repulse records
+Request for Comments
 Requirements engineering
 Reroute to Remain
 Resident Evil 4
@@ -114459,6 +114832,7 @@ Ronan Keating
 Roni Milo
 Roniel Iglesias
 Ronja
+Ronna
 Ronnie Harris
 Ronnie Hellström
 Ronnie James Dio
@@ -114987,6 +115361,8 @@ Rychlobruslení na Zimních olympijských hrách 2018 – 5000 metrů ženy
 Rychlobruslení na zimních olympijských hrách
 Rychlost
 Rychlost světla
+Rychlostní silnice R2 (Slovensko)
+Rychlostní silnice S74 (Polsko)
 Rychlostní silnice v Česku
 Rychlořezná ocel
 Rychtář
@@ -115823,6 +116199,7 @@ Satan
 Satan on Fire
 Satanismus
 Satanské verše (román)
+Satelitní gliová buňka
 Satelitní město
 Satelitní televize
 Satellite Award
@@ -116116,6 +116493,7 @@ Scythris farrata
 Scénografie
 Scénář
 Scénáře socioekonomického vývoje
+Sdej Trumot
 Sdružení pro výpočetní techniku
 Sdružený parní stroj
 Sdílení času
@@ -116534,6 +116912,7 @@ Severní Korea na Letních olympijských hrách 2004
 Severní Kypr
 Severní Makedonie
 Severní Mariany
+Severní Mylva
 Severní Nikósie
 Severní Osetie-Alanie
 Severní Pohjanmaa
@@ -116777,6 +117156,7 @@ Seznam měst v Mosambiku
 Seznam měst v Rakousku
 Seznam měst v Rumunsku
 Seznam měst v Severní Karolíny
+Seznam měst v Turkmenistánu
 Seznam měst v Česku podle počtu obyvatel
 Seznam měst ve Španělsku
 Seznam namurských markrabat
@@ -116984,6 +117364,7 @@ Seznam světového dědictví v Evropě, A–Ch
 Seznam světového dědictví v Evropě, I–M
 Seznam systémů taxonomie rostlin
 Seznam technologií firmy AMD
+Seznam technologií používaných v procesorech
 Seznam technologií společnosti AMD
 Seznam technologií ve Star Treku
 Seznam televizních seriálů vysílaných na The CW
@@ -117000,6 +117381,7 @@ Seznam vedlejších postav seriálu Simpsonovi
 Seznam videoher Simpsonových
 Seznam videoher Top Gun
 Seznam videoher společnosti Ubisoft
+Seznam vrcholů v Bukovských vrších
 Seznam vévodů z Newcastlu
 Seznam vévodů z Yorku
 Seznam vítězek turnajů Premier
@@ -117018,6 +117400,7 @@ Seznam závislých území
 Seznam úmrtí v rock and rollu
 Seznam československých velvyslanců ve Spojeném království
 Seznam českých coververzí zahraničních skladeb
+Seznam českých příjmení, Ť
 Seznam českých secesních architektů
 Seznam českých velvyslanců ve Spojeném království
 Seznam čestných občanů města Paříže
@@ -117259,6 +117642,7 @@ Show Boat
 Show Tyry Banksové
 Showbiz Kids: The Steely Dan Story, 1972–1980
 Showtime at the Apollo
+Shrewsbury Town FC
 Shromáždění Republiky Kosovo
 Shropshire
 Shrule
@@ -117375,6 +117759,8 @@ Silnice II/118
 Silnice II/209
 Silnice II/238
 Silnice II/274
+Silnice II/277
+Silnice II/605
 Silniční doprava
 Silniční fréza
 Silniční obchvat
@@ -117935,6 +118321,7 @@ Smells Like Children Tour
 Smetanova síň
 Smetánka (seriál)
 Smečno
+Smil III. z Lichtenburka
 Smile (hudební skupina)
 Smiley Smile
 Smile×Smile
@@ -118474,6 +118861,7 @@ Souborový systém
 Soudal–Quick-Step
 Soudce Dredd (film)
 Soudné sestry
+Soudní dohled nad výchovou nezletilého
 Soudní moc
 Soudní porota
 Soudný den
@@ -118670,6 +119058,7 @@ Spirits Having Flown
 Spirituál (hudba)
 Spirituál Kvintet
 Spirituál kvintet
+Spirituály a balady
 Spirochéty
 Spirogyra
 Spirogyra nitida
@@ -118743,6 +119132,7 @@ Společnost Dcer křesťanské lásky svatého Vincence de Paul
 Společnost Maxe Plancka
 Společnost mrtvých básníků
 Společnost národů
+Společnost česko-korejského přátelství Pektusan
 Společná korejská vlajka
 Společná základna Lewis-McChord
 Společné německé družstvo
@@ -118781,6 +119171,7 @@ Sportovci ROV na Letních olympijských hrách 2020
 Sportovec
 Sportovní federace
 Sportovní gymnastika na Letních olympijských hrách 1908
+Sportovní gymnastika na Letních olympijských hrách 1956
 Sportovní gymnastika na letních olympijských hrách
 Sportovní hala Fortuna
 Sportovní klub
@@ -119423,6 +119814,7 @@ Steuben County (New York)
 Steve Albini
 Steve Allen
 Steve Bolton
+Steve Bould
 Steve Buscemi
 Steve Campbell
 Steve Cauthen
@@ -119704,6 +120096,7 @@ Streptokok
 Streptomycin
 Stres
 Stres ve třech
+Stresa
 Stretch
 Striated swallow
 Strigzscara - Warwolf
@@ -119718,6 +120111,7 @@ Stripped (The Rolling Stones)
 Stripped (album)
 Strnad
 Strnad obecný
+Strnad zahradní
 Strobocalyx
 Stroh Peak
 Stroj
@@ -119773,6 +120167,7 @@ Stuartovci
 Student
 Studená válka
 Studeněves
+Studečky
 Studie jednoho strachu
 Studies in Natural Language Processing
 Studio 57
@@ -119886,6 +120281,7 @@ Střední Sulawesi
 Střední angličtina
 Střední délka života
 Střední paleolit
+Střední průmyslová škola a Vyšší odborná škola Kladno
 Střední průmyslová škola stavební a Obchodní akademie Kladno
 Střední třída
 Střední východ
@@ -120578,6 +120974,7 @@ Symptom
 Syn Reův
 Synagoga na Kladně
 Synagoga v Bejt Alfa
+Synalovské kopaniny
 Syncalathium
 Syncarpha
 Syncephalum
@@ -120646,6 +121043,7 @@ Sádočné
 Sádra
 Sádrovec
 Sága rodu Forsytů
+Sálový kostel
 Sálská dynastie
 Sám doma 2: Ztracen v New Yorku
 Sámer Issa
@@ -121438,6 +121836,7 @@ Tervel Pulev
 Tervo
 Terén
 Teréza Nováková
+Terč (film)
 Tesco
 Teskera
 Tesla (podnik)
@@ -121518,6 +121917,7 @@ Thalassarche
 Thalia Tran
 Thalía
 Thames & Hudson
+Thames Barrier Park
 Thaminophyllum
 Thanos (Marvel Cinematic Universe)
 That's Why God Made the Radio
@@ -121542,6 +121942,7 @@ The Adventures of Superpup
 The Adventures of Tintin: The Secret of the Unicorn
 The Advocate (Austrálie)
 The Afghan Whigs
+The Agronomist
 The Airship
 The Alan Parsons Project
 The Albatross EP
@@ -122275,6 +122676,7 @@ The Take Over, The Breaks Over
 The Talk
 The Tallis Scholars
 The Tarriers
+The Tattooist
 The Teenagers
 The Telegraph
 The Telegraph-Herald
@@ -122904,6 +123306,7 @@ Tkalcovský stav
 Tkaničky
 Tlanalapa
 Tleskač
+Tlouštkovací frézka
 Tlouštík Homer
 Tlusté střevo
 Tlustý Tony
@@ -122968,6 +123371,7 @@ Tokijský proces
 Tokio
 Tokio Hotel
 Toktar Aubakirov
+Tokušima
 Toky uhlíku
 Tokyo (píseň, Owl City)
 Tokyo Underground
@@ -123040,6 +123444,7 @@ Tom Harmon
 Tom Hiddleston
 Tom Hirsch
 Tom Holland (herec)
+Tom Holland (spisovatel)
 Tom Hooper
 Tom Howard (fotograf)
 Tom James
@@ -123103,6 +123508,7 @@ Tomislav Ivančić
 Tomislav Smoljanović
 Tomki Němec
 Tommaso Campanella
+Tommaso Giordani
 Tommy (album)
 Tommy (film)
 Tommy (soundtrack)
@@ -123303,6 +123709,7 @@ Toronto
 Toronto Comicon
 Toronto FC
 Toronto International Film Festival
+Toronto Maple Leafs 2008/2009
 Toronto Rocks
 Torpédo
 Torpédo Mark 46
@@ -123980,6 +124387,7 @@ Tyler Toffoli
 Tyler, The Creator
 Tyler, the Creator
 Tyleropappus
+Tylovo náměstí (Praha)
 Tympanon
 Tympány
 Tyna Ezenma
@@ -124209,6 +124617,7 @@ Třída Roberts
 Třída Rudderow
 Třída S (1917)
 Třída S (1931)
+Třída S 152
 Třída S a T
 Třída Scott
 Třída Shakespeare
@@ -124257,6 +124666,7 @@ UCI Continental Circuits
 UCI ProSeries
 UCI ProSeries 2022
 UCI World Tour
+UCI World Tour 2023
 UCI WorldTeam
 UCLA Bruins football
 UD Almería
@@ -125282,6 +125692,7 @@ Velký státní chural
 Velký třesk
 Velký vůz
 Velký závod 2
+Velký Špičák
 Vellereophyton
 Velmoc
 Velnias
@@ -125518,6 +125929,7 @@ Vices & Virtues Tour
 Vichairachanon Khadpo
 Vichry zimy (Hra o trůny)
 Vichy
+Vicious Cycle
 Vickers Type 170 Vanguard
 Vickers VC.1 Viking
 Vickers Vulcan
@@ -126024,6 +126436,7 @@ Vladimír Kořístek
 Vladimír Kratina
 Vladimír Kudla
 Vladimír Kulhánek (politik)
+Vladimír Labant
 Vladimír Laštůvka
 Vladimír Marek
 Vladimír Medek
@@ -126126,6 +126539,7 @@ Vlastimil Novobilský
 Vlastimil Pantůček
 Vlastimil Zavřel
 Vlastimil Zábranský
+Vlastimila Karlasová
 Vlastislav Bříza
 Vlastislav Janík
 Vlastislav Toman
@@ -126460,6 +126874,7 @@ Vražda
 Vražda Jána Kuciaka a Martiny Kušnírové
 Vražda na jachtě
 Vražda prvního stupně
+Vražda rodiny Mijazawových
 Vraždy v Midsomeru
 Vraždy v Yorkshiru: 1974
 Vraždy v Yorkshiru: 1983
@@ -126534,6 +126949,7 @@ Vykořisťování
 Vykřičník
 Vylodění v Normandii
 Vyloďovací člun
+Vympel R-27
 Vymírání
 Vymírání K-T
 Vymírání na konci křídy
@@ -126644,10 +127060,12 @@ Václav Kolář (pedagog)
 Václav Kopta
 Václav Koubek
 Václav Kozák
+Václav Kočka (historik)
 Václav Kratochvíl
 Václav Kratochvíl (archivář)
 Václav Kratochvíl (rozcestník)
 Václav Kratochvíl (voják)
+Václav Král (představitel protinacistického odboje)
 Václav Králík z Buřenic
 Václav Kubrt
 Václav Kučera
@@ -126662,6 +127080,7 @@ Václav Pavkovič
 Václav Pařík (politik)
 Václav Polák
 Václav Prejzek
+Václav Procházka (lékař)
 Václav Procházka (politik)
 Václav Radimský
 Václav Renč
@@ -126703,6 +127122,7 @@ Válka světů
 Válka v Afghánistánu (2001–2021)
 Válka v Bosně a Hercegovině
 Válka v Iráku
+Válka v Jižní Osetii (2008)
 Válka v Jugoslávii
 Válka v Kosovu
 Válka v Tichomoří
@@ -126716,6 +127136,7 @@ Vánoce
 Vánoce bez Rodneyho
 Vánoční
 Vánoční koleda (Dickens)
+Vánoční oratorium
 Vánoční ostrov
 Vánoční pudink
 Vánoční příměří
@@ -126953,6 +127374,7 @@ Věra Špinarová
 Věroslav Sláma
 Věslav Michalik
 Věta (lingvistika)
+Věta o translaci
 Větrná energie
 Větrník (divadlo)
 Větrný mlýn v Bílině
@@ -127044,6 +127466,7 @@ Wake County
 Wake Forest University
 Wake Up and Dream
 Wakefield
+Wakefield (rozcestník)
 Wakulla County
 Waldbrand (kámen)
 Waldemar Matuška
@@ -127398,6 +127821,7 @@ Weber County
 Webová hra
 Webová kamera
 Webová stránka
+Webové geodatové služby
 Webový prohlížeč
 Webový vyhledávač
 Website
@@ -128195,6 +128619,7 @@ Wolfgangsee
 Wolfova–Rayetova hvězda
 Wolfram Huhn
 Wolfram von Eschenbach
+Wolfrumova vila
 Wolfsbane
 Wolfsburg
 Wollastonia
@@ -128632,6 +129057,7 @@ Zack Kassian
 Zack Snyder
 Zack Snyder's Justice League
 Zadní Kopanina
+Zadražil
 Zafkiel
 Zager and Evans
 Zaha Hadid
@@ -128663,6 +129089,7 @@ Zalău
 Zam Johnson
 Zambie
 Zambie na Letních olympijských hrách 1984
+Zambijská kuchyně
 Zamilovaní andělé
 Zamrzlá loď kapitána Flinta
 Zaměstnanec
@@ -128733,6 +129160,7 @@ Zbigniew Brzezinski
 Zbigniew Dłubak
 Zbigniew Pietrzykowski
 Zbigniew Robert Promiński
+Zbojnická jeskyně
 Zborov (Strašnice)
 Zbraslav
 Zbraslavský klášter
@@ -129018,6 +129446,7 @@ Zinek
 Zinetula Biljaletdinov
 Zip Code Tour
 Zipari
+Zisis Babanasis
 Zisk a ztráta
 Zisk před úroky a zdaněním
 Zisk v krajkách
@@ -129075,6 +129504,7 @@ Zlatý glóbus za nejlepší ženský herecký výkon ve vedlejší roli
 Zlatý kompas
 Zlatý lev
 Zlatý míč
+Zlatý míč 1976
 Zlatý míč 1991
 Zlatý pohár CONCACAF
 Zlatý pohár CONCACAF 2021
@@ -129191,6 +129621,7 @@ Zpětná kompatibilita
 Zpětná vazba
 Zpětné vazby klimatických změn
 Zpěv drozda (sci-fi román)
+Zpěv před evangeliem
 Zpěv vzdálené Země
 Zpěvák
 Zpěvák-skladatel
@@ -129230,6 +129661,7 @@ Zubr evropský
 Zucchero
 Zugspitze
 Zuma (album)
+Zumba
 Zurich
 Zutphen (hrabství)
 Zuzana Brabcová
@@ -129430,6 +129862,7 @@ Zápisky o skandálu
 Záplavy (přírodní rezervace)
 Záplevák
 Zápor
+Záporka
 Zásady (chemie)
 Záseka
 Záskalie (okres Považská Bystrica)
@@ -129605,6 +130038,7 @@ tranzistor
 Újezd (okres Olomouc)
 Újezd nad Lesy
 Újezd pod Kladnem
+Újezd pod Přimdou
 Újezd u Průhonic
 Úkol (Star Trek: Stanice Deep Space Nine)
 Úlet ibisů skalních z pražské zoologické zahrady
@@ -129651,6 +130085,7 @@ tranzistor
 Ústav pro studium totalitních režimů
 Ústav pro českou literaturu Akademie věd České republiky
 Ústav soudního lékařství v Paříži
+Ústav translatologie Filozofické fakulty Univerzity Karlovy
 Ústav vědeckých informací pro společenské vědy
 Ústava
 Ústava (Platón)
@@ -129922,6 +130357,7 @@ tranzistor
 Česká mužská basketbalová reprezentace
 Česká mužská házenkářská reprezentace
 Česká národní banka
+Česká nářeční skupina
 Česká obchodní inspekce
 Česká pirátská strana
 Česká placka
@@ -130114,6 +130550,7 @@ tranzistor
 Číslo popisné
 Číňané
 Číšníci
+Ďumbierské sedlo
 Ďurkovce
 Ďurďové
 Ďábel (film)

@@ -1,5 +1,5 @@
 revision: 6283613
-title: '"Glass cockpit" pilotska kabina'
+title: Glass
 url: https://hr.wikipedia.org/wiki/%22Glass_cockpit%22_pilotska_kabina
 
 

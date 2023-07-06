@@ -1,5 +1,5 @@
 revision: 65944034
-title: "V\xEDrus RNA"
+title: Virus
 url: https://pt.wikipedia.org/wiki/V%C3%ADrus
 
 

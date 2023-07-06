@@ -34,6 +34,7 @@ Bona Dea
 Botai
 Brady Corbet
 Bread
+Bryce Dallas Howard
 Ceylanodrilus
 Choga Mami
 Det Nye Testamentes Kanoniske Bøker
@@ -47,6 +48,7 @@ Fysikk
 Gjennomgående fag
 Guilty (sang)
 Guy Larnach-Nevill, 4th Marquess of Abergavenny
+Gøy med Per Asplin
 Hansel & Gretel Get Baked
 Herman Zanstra
 Hydrogen
@@ -76,6 +78,7 @@ OPI
 Opium
 Ousmane Dembélé
 Owen County
+Pathfinder Force
 Paul Janes
 Pendlingsomland
 Promagistrat
@@ -104,9 +107,3 @@ Vestfold sykepleierhøgskole
 Vestvannene
 Washington State Ferries
 Willy Busch
-
-Pathfinder Force
-
-Bryce Dallas Howard
-
-Gøy med Per Asplin
