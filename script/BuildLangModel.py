@@ -57,6 +57,7 @@ import hmac
 import hashlib
 import base64
 import yaml
+import bisect
 
 
 # Custom modules.
@@ -81,7 +82,7 @@ cmdline.add_option('--max-page',
                    help = 'Maximum number of Wikipedia pages to parse (useful for debugging).',
                    action = 'store', type = 'int', dest = 'max_page', default = None)
 cmdline.add_option('--max-chars',
-                   help = 'Maximum number of characters to process. (default: 3000000)',
+                   help = 'Maximum number of characters to process. (default: 4000000)',
                    action = 'store', type = 'int', dest = 'max_chars', default = 4000000)
 cmdline.add_option('--max-depth',
                    help = 'Maximum depth when following links from start page (default: 4).',
@@ -252,11 +253,14 @@ for lang_arg in langs:
   except Exception as error:
       sys.stderr.write("Skipped adding 30 random Wikipedia articles: {}\n".format(error))
       pass
-                  
+
   if debug: sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
 
   visited_pages = []
   discarded_pages = []
+  discarded_delta_pages = []
+  marked_pages = []             # a SORTED array   , used to help speed up deduplication searches
+  marked_delta_pages = []       # an UNSORTED array, used to help speed up deduplication searches
   processed_pages_count = 0
 
   # The full list of letter characters.
@@ -370,35 +374,56 @@ for lang_arg in langs:
   def visit_pages(cache_dir, titles, depth, lang, logfd):
       global visited_pages
       global discarded_pages
+      global discarded_delta_pages
+      global marked_pages
+      global marked_delta_pages
       global processed_pages_count
       global options
       global characters
       global debug
+
+      occurrences = sum(characters.values())
+      sys.stderr.write('\nPreloaded {} from cache: {}/{} chars = {:0.1f}% (by processing {} cached pages)\n'.format(lang.name, occurrences, options.max_chars, occurrences * 100.0 / options.max_chars, processed_pages_count))
 
       # append the titles from cache before we start:
       titles = load_links_from_cache(cache_dir, titles)
 
       discarded_pages = load_discards_from_cache(cache_dir, discarded_pages)
 
+      marked_delta_pages += visited_pages
+      marked_delta_pages += discarded_pages
+
       next_titles = []
-      
+
       while len(titles) > 0:
+	      # update our sorted marker cache table, which is used by the is_already_marked() API
+		  # to give use O(log(N)) performance for our inner deduplication scans...
+          update_marked_pages_search_index()
+
           extra_titles = []
-        
+
           if options.max_page is not None:
               max_titles = int(options.max_page/(options.max_depth * options.max_depth))
           else:
               max_titles = sys.maxsize
 
           store_links_in_cache(cache_dir, titles)
-          prev_discard_count = len(discarded_pages)
-              
+
+          # speed optimization: work with batches of about 100 pages/titles:
+          remaining_titles = titles[100:]
+          # ^^^^^^^^^^^^^^^^^^^^^^^^^ this is potentially *huge* list, which we DO NOT check
+          # in the inner deduplication scans in order to speed up the outer loop to O(N log(N))
+          # instead of the naive O(N^2) we had before.
+          titles = titles[:100]                # one batch of 100 titles
+
           for title in titles:
-              if title in visited_pages:
+              #if title in visited_pages:
+              #    continue
+              #if title in discarded_pages:
+              #    continue
+              if is_already_marked(title):
                   continue
-              if title in discarded_pages:
-                  continue
-                  
+
               occurrences = sum(characters.values())
               if occurrences > options.max_chars:
                   if debug: sys.stderr.write('Stop criterium: occurrences > options.max_chars: {} > {}\n'.format(occurrences, options.max_chars))
@@ -416,25 +441,28 @@ for lang_arg in langs:
                   sys.stderr.write('Skipping internal page: {}\n'.format(title))
                   continue
 
-              discard_count = len(discarded_pages)
-              if discard_count >= prev_discard_count + 10:
-                  prev_discard_count = discard_count
-                  store_discards_in_cache(cache_dir, discarded_pages)
+              store_discards_in_cache(cache_dir, discarded_delta_pages)
+              discarded_delta_pages = []
 
               sys.stderr.write('.')
               sys.stderr.flush()
+
               visited_pages.append(title)
+              marked_delta_pages.append(title)
               try:
                   page = wikipedia.page(title, auto_suggest=True, preload=True)
               except (wikipedia.exceptions.PageError,
                       wikipedia.exceptions.DisambiguationError) as error:
+                  sys.stderr.write('(E)')
+                  sys.stderr.flush()
+
                   # extract the suggestions from the error message, iff any:
                   sl = []
                   error_msg = "{}".format(error)
                   if 'may refer to:' in error_msg:
                       sl = error_msg.strip().splitlines()
                       # ditch the initial error line:
-                      if not debug: 
+                      if not debug:
                           error_msg = sl.pop(0) + ' [...]'
                       else:
                           sl.pop(0)
@@ -443,14 +471,19 @@ for lang_arg in langs:
                   try:
                       suggestions = wikipedia.search(title)
                   except Exception as error:
-                      discarded_pages.append(title)
+                      discarded_delta_pages.append(title)
+                      marked_delta_pages.append(title)
                       sys.stderr.write("\n(P1) Discarding page {} and failed to obtain suggestions: {}\n".format(title, error))
                       continue
-                      
+
+                  sys.stderr.write('(S)')
+                  sys.stderr.flush()
+
                   suggestions = [] + suggestions + sl
                   if not suggestions:
                       # Let's just discard a page when I get an exception.
-                      discarded_pages.append(title)
+                      discarded_delta_pages.append(title)
+                      marked_delta_pages.append(title)
                       sys.stderr.write("\n(P2) Discarding page {}; no new suggestions: {}\n".format(title, error_msg))
                   else:
                       # filter the suggestions list so we don't inject duplicates
@@ -458,51 +491,63 @@ for lang_arg in langs:
                       for suggestion in suggestions:
                           if len(suggestion) == 0:
                               continue
-                          if suggestion in titles or \
-                             suggestion in sl or \
-                             suggestion in extra_titles or \
-                             suggestion in visited_pages or \
-                             suggestion in discarded_pages:
+                          if len(suggestion) <= 4:      # SPECIAL OPTIMIZATION: ignore (links to) pages with (very) short titles.
+                              continue
+                          if is_already_marked(suggestion):
+                              continue
+                          if suggestion in sl or \
+                             suggestion in extra_titles:
+                              continue
+                          #if suggestion in visited_pages or \
+                          #   suggestion in discarded_pages:
+                          #    continue
+                          if suggestion in titles:
                               continue
                           sl.append(suggestion)
                       suggestions = sl
                       if not suggestions:
                           # Let's just discard a page when I get an exception.
-                          discarded_pages.append(title)
+                          discarded_delta_pages.append(title)
+                          marked_delta_pages.append(title)
                           sys.stderr.write("\n(P3) Discarding page {}: {}\n".format(title, error_msg))
                       else:
-                          random.shuffle(suggestions)
+                          #random.shuffle(suggestions)
                           if len(suggestions) > max_titles:
                               suggestions = suggestions[:max_titles]
-                          discarded_pages.append(title)
+                          discarded_delta_pages.append(title)
+                          marked_delta_pages.append(title)
                           sys.stderr.write("\n(P4) Discarding page {}: {}\n     ==> adding these suggestions instead: {}\n".format(title, error_msg, suggestions))
                           extra_titles += suggestions
-                          store_links_in_cache(cache_dir, extra_titles)
+                          store_links_in_cache(cache_dir, suggestions)
                   continue
               except Exception as error:
-                  discarded_pages.append(title)
+                  discarded_delta_pages.append(title)
+                  marked_delta_pages.append(title)
                   sys.stderr.write("\n(P5) Discarding page {}: {}\n".format(title, error))
                   continue
-                  
+
+              sys.stderr.write(':')
+              sys.stderr.flush()
+
               logfd.write("\n{} (revision {})".format(title, page.revision_id))
               logfd.flush()
 
               if debug: sys.stderr.write("\n{} (revision {}) -> {}\n".format(title, page.revision_id, page.url))
 
               content = page.content.strip()
-              
+
               # Nuke LaTeX math lines as best we can.
               #
-              # those come out as, for example:    
+              # those come out as, for example:
               #   {\displaystyle {\tfrac {p+q}{2}}=50{\tfrac {1}{2}}}
               content = re.sub(r'\{\s*\\displaystyle[^\n]*\}', ' ', content)
-              
+
               # only count (and cache) non-empty pages against the configured page count maximum:
               if (len(content) != 0):
                   process_text(content, lang)
                   processed_pages_count += 1
                   store_content_in_cache(cache_dir, page.url, content, title, page.revision_id)
-                  
+
               if debug: sys.stderr.write('processing links [{}]\n'.format(page.links))
               try:
                   links = page.links
@@ -511,26 +556,44 @@ for lang_arg in langs:
                   for link in links:
                       if len(link) == 0:
                           continue
-                      if link in titles or \
-                         link in ll or \
-                         link in extra_titles or \
-                         link in visited_pages or \
-                         link in discarded_pages:
+                      if len(link) <= 4:      # SPECIAL OPTIMIZATION: ignore (links to) pages with (very) short titles.
+                          continue
+                      #if link in visited_pages or \
+                      #   link in discarded_pages:
+                      #    continue
+                      if is_already_marked(link):
+                          continue
+                      if link in ll or \
+                         link in extra_titles:
+                          continue
+                      if link in titles:
                           continue
                       ll.append(link)
                   links = ll
-                  random.shuffle(links)
+                  #random.shuffle(links)
                   if len(links) > max_titles:
                       links = links[:max_titles]
                   next_titles += links
-                  store_links_in_cache(cache_dir, next_titles)
+                  store_links_in_cache(cache_dir, links)
               except KeyError as error:
                   if debug: sys.stderr.write('links append error: {}\n'.format(error))
                   pass
-                  
-          # all titles have been consumed. Now check if here's any extras, and if not not, then descend into the next depth level of links:
-          random.shuffle(extra_titles)
-          titles = extra_titles
+
+          # all titles in the batch have been consumed. Now check if here's any remaining and/or extras, and if not not, then descend into the next depth level of links:
+
+          #remaining_titles.sort()
+          #remaining_titles = sort_and_append_nonduplicate_titles(remaining_titles, extra_titles)
+          #
+          # ^^^^^^^^^^^^^^^ instead of these costly lines do this:
+          # VVVVVVVVVVvvvvv is faster, yet suffers from carrying duplicates after a while.
+          #                 Alas.
+          #                 Those will be filtered out quickly using O(log(N)) binary search in the end via `is_already_marked()`
+          remaining_titles += extra_titles
+
+          # ??? don't shuffle here: it's costly on a large array. And it's not strictly necessary anyway.
+          random.shuffle(remaining_titles)
+
+          titles = remaining_titles
           if len(titles) > 0:
               continue
 
@@ -543,7 +606,73 @@ for lang_arg in langs:
           titles = next_titles
           next_titles = []
 
-      store_discards_in_cache(cache_dir, discarded_pages)
+      store_discards_in_cache(cache_dir, discarded_delta_pages)
+
+
+  def sort_and_append_nonduplicate_titles(alist, titles):
+      global debug
+
+      titles.sort()
+
+      # We assume alist[] is already sorted!
+      #
+      # Also note that this code uses the for/else a.k.a. while/else construct explicitly.
+      # Finally something I *like* about Python! :-) [GHo]
+      #
+      # https://stackoverflow.com/questions/9979970/why-does-python-use-else-after-for-and-while-loops
+      rv = alist[:]
+      i = 0
+      j = 0
+      while i < len(alist):
+          if j >= len(titles):
+              break   # done
+          title = titles[j]
+          t0 = alist[i]
+          while t0 < title:
+              i += 1
+              if i >= len(alist):
+                  break
+              t0 = alist[i]
+
+          # when we get here, we're guaranteed to have t0 >= title or reached end of marked_pages[] hence *fictive* t0 > title
+          while t0 == title:
+              # skip/discard incoming duplicate(s) in titles[]:
+              j += 1
+              if j >= len(titles):
+                  break   # done
+              title = titles[j]
+          else:
+              # when we get here, we're guaranteed to NOT have run out of titles[] to add, i.e. we still have a title pending:
+              rv.append(title)
+              j += 1
+      else:
+          # when we get here, we're guaranteed to NOT have run out of titles[] to add, i.e. we still have title(s) pending:
+          while j < len(titles):
+              title = titles[j]
+              rv.append(title)
+              j += 1
+
+      rv.sort()
+      return rv
+
+  def update_marked_pages_search_index():
+      global marked_pages
+      global marked_delta_pages
+      global debug
+
+      marked_pages = sort_and_append_nonduplicate_titles(marked_pages, marked_delta_pages)
+      marked_delta_pages = []
+
+  def is_already_marked(item):
+      global marked_pages
+      global marked_delta_pages
+
+      # Locate the leftmost value exactly equal to item
+      i = bisect.bisect_left(marked_pages, item)
+      if i != len(marked_pages) and marked_pages[i] == item:
+          return True
+
+      return item in marked_delta_pages
 
   def store_content_in_cache(cache_dir, url, content, title, revision_id):
       global debug
@@ -554,7 +683,7 @@ for lang_arg in langs:
       unique_fname = hashstr.replace('=', '')
       unique_fname = re.sub(r'[^a-zA-Z0-9_-]+', '', unique_fname)
       unique_fname = unique_fname[-50:] + '.content.txt'
-      
+
       fpath = os.path.join(cache_dir, unique_fname)
       if (len(content) > 0):
           if debug: sys.stderr.write('Cache content (size: {}) for URL {} -> filename: {}\n'.format(len(content), url, fpath))
@@ -566,9 +695,9 @@ for lang_arg in langs:
               )
               c_fd.write(yaml.dump(header))
               c_fd.write('\n\n---\n\n')
-              
+
               c_fd.write(content)
-              
+
               sys.stderr.write('_')
               sys.stderr.flush()
 
@@ -576,22 +705,42 @@ for lang_arg in langs:
       global debug
 
       if (len(links) > 0):
-          cached_set = load_links_from_cache(cache_dir, [])
+          cached_set = []              # load_links_from_cache(cache_dir, [])
+          links = links[:]
+          links.sort()
 
+          prev_title = ''
           for title in links:
               title = title.strip()
               if len(title) == 0:
                   continue
-              if title in cached_set:
+              if len(title) <= 4:      # SPECIAL OPTIMIZATION: ignore (links to) pages with (very) short titles.
+                  continue
+              if title == prev_title:
                   continue
               cached_set.append(title)
+              prev_title = title
 
           fpath = os.path.join(cache_dir, 'links.txt')
-          with open(fpath, mode='w', encoding='utf-8') as c_fd:
+          with open(fpath, mode='a', encoding='utf-8') as c_fd:
               c_fd.write("\n")
               c_fd.write("\n".join(cached_set))
               c_fd.write("\n")
-  
+
+  def dedup_links_in_cache(cache_dir, links):
+      global debug
+
+      #links = load_links_from_cache(cache_dir, [])
+      # ^^^^ this loads the links cache **deduplicated**!
+      #
+      # all we have to do now is rewrite the cache file:
+
+      fpath = os.path.join(cache_dir, 'links.txt')
+      with open(fpath, mode='w', encoding='utf-8') as c_fd:
+          c_fd.write("\n")
+          c_fd.write("\n".join(links))
+          c_fd.write("\n")
+
   def load_links_from_cache(cache_dir, titles):
       global debug
 
@@ -599,38 +748,64 @@ for lang_arg in langs:
       if os.path.isfile(fpath):
           with open(fpath, mode='r', encoding='utf-8') as c_fd:
               content = c_fd.read()
-              
-          lines = content.strip().splitlines()
 
+          lines = content.strip().splitlines()
+          lines.sort()
+
+          prev_title = ''
           for title in lines:
               if len(title) == 0:
                   continue
-              if title in titles:
+              if len(title) <= 4:      # SPECIAL OPTIMIZATION: ignore (links to) pages with (very) short titles.
+                  continue
+              if title == prev_title:
                   continue
               titles.append(title)
-          
+              prev_title = title
+
+      # rewrite the cache DEDUPLICATED:
+      dedup_links_in_cache(cache_dir, titles)
+
       return titles
 
   def store_discards_in_cache(cache_dir, discarded_pages):
       global debug
 
       if (len(discarded_pages) > 0):
-          cached_set = load_discards_from_cache(cache_dir, [])
+          cached_set = []      # load_discards_from_cache(cache_dir, [])
+          discarded_pages = discarded_pages[:]
+          discarded_pages.sort()
 
+          prev_title = ''
           for title in discarded_pages:
               title = title.strip()
               if len(title) == 0:
                   continue
-              if title in cached_set:
+              if title == prev_title:
                   continue
               cached_set.append(title)
+              prev_title = title
 
           fpath = os.path.join(cache_dir, 'discards.txt')
-          with open(fpath, mode='w', encoding='utf-8') as c_fd:
+          with open(fpath, mode='a', encoding='utf-8') as c_fd:
               c_fd.write("\n")
               c_fd.write("\n".join(cached_set))
               c_fd.write("\n")
-  
+
+  def dedup_discards_in_cache(cache_dir, discarded_pages):
+      global debug
+
+      #discarded_pages = load_discards_from_cache(cache_dir, [])
+      # ^^^^ this loads the discards cache **deduplicated**!
+      #
+      # all we have to do now is rewrite the cache file:
+
+      fpath = os.path.join(cache_dir, 'discards.txt')
+      with open(fpath, mode='w', encoding='utf-8') as c_fd:
+          c_fd.write("\n")
+          c_fd.write("\n".join(discarded_pages))
+          c_fd.write("\n")
+
   def load_discards_from_cache(cache_dir, titles):
       global debug
 
@@ -638,21 +813,29 @@ for lang_arg in langs:
       if os.path.isfile(fpath):
           with open(fpath, mode='r', encoding='utf-8') as c_fd:
               content = c_fd.read()
-              
-          lines = content.strip().splitlines()
 
+          lines = content.strip().splitlines()
+          lines.sort()
+
+          prev_title = ''
           for title in lines:
               if len(title) == 0:
                   continue
-              if title in titles:
+              if title == prev_title:
                   continue
               titles.append(title)
-          
+              prev_title = title
+
+      # rewrite the cache DEDUPLICATED:
+      dedup_discards_in_cache(cache_dir, titles)
+
       return titles
-    
+
   def visit_pages_cache(cache_dir, lang, logfd):
       global visited_pages
       global discarded_pages
+      global marked_pages
+      global marked_delta_pages
       global processed_pages_count
       global options
       global characters
@@ -662,7 +845,7 @@ for lang_arg in langs:
       try:
           cachefiles = [f for f in os.listdir(cache_dir) if os.path.isfile(os.path.join(cache_dir, f)) and ('.content.txt' in f)]
           # sys.stderr.write('Cache file list: {}\n'.format(cachefiles))
-      
+
           for title in cachefiles:
               occurrences = sum(characters.values())
               #if occurrences > options.max_chars:
@@ -679,10 +862,10 @@ for lang_arg in langs:
               sys.stderr.write('+')
               sys.stderr.flush()
 
-              fpath = os.path.join(cache_dir, title)          
+              fpath = os.path.join(cache_dir, title)
               with open(fpath, mode='r', encoding='utf-8') as cache_fd:
                   content = cache_fd.read()
-                  
+
               # decode cache file header:
               ch = content.split('\n---\n\n', maxsplit=1)
               cheader = ch[0]
@@ -694,10 +877,11 @@ for lang_arg in langs:
               page_revision = dct['revision']
 
               # mark page as visited:
-              if page_title in visited_pages:
-                  continue
+              #if page_title in visited_pages:
+              #    continue
               visited_pages.append(page_title)
-                  
+              marked_delta_pages.append(page_title)
+
               logfd.write("\n{} (revision {}; CACHED)".format(page_title, page_revision))
               logfd.flush()
 
@@ -707,7 +891,7 @@ for lang_arg in langs:
               if (len(content) != 0):
                   process_text(content, lang)
                   processed_pages_count += 1
-              
+
       except FileNotFoundError as error:
           sys.stderr.write('\nWARNING: No cached content files at {}?\n    {}\n'.format(cache_dir, error))
           pass
@@ -730,7 +914,7 @@ for lang_arg in langs:
   try:
       cache_dir = current_dir + '/langs-content-cache/'+ lang_arg
       os.makedirs(cache_dir, exist_ok=True)
-      
+
       visit_pages_cache(cache_dir, lang, logfd)
       visit_pages(cache_dir, lang.start_pages, 0, lang, logfd)
   except requests.exceptions.ConnectionError:
@@ -1119,13 +1303,13 @@ for lang_arg in langs:
       line_width = (freq_count + 2) / 3
   if line_width > 40:
       line_width = 40
-  
+
   if freq_count < 100:
-      LM_str = 'static const PRUint8 {}LangModel[]'.format(language_c) 
+      LM_str = 'static const PRUint8 {}LangModel[]'.format(language_c)
       LM_str += ' =\n{'
       for line in range(0, freq_count):
           LM_str += '\n  '
-          
+
           for column in range(0, freq_count):
               # Let's not make too long lines.
               if freq_count > 40 and column > 0 and column < freq_count - 5 and column % line_width == 0:
@@ -1159,10 +1343,10 @@ for lang_arg in langs:
   else:
       FC_str = 'static const PRUint8 {}FrequentCharMapping[]'.format(language_c)
       FC_str += ' =\n{'
-      
+
       flimit = 128
       cmap = very_frequent_characters[:flimit-1]
-      
+
       lo_c = 1000000000
       hi_c = 0
       for char in cmap:
@@ -1170,13 +1354,13 @@ for lang_arg in langs:
               hi_c = char
           if char < lo_c:
               lo_c = char
-      
+
       count = 0
       for char in range(lo_c, hi_c + 1):
           count += 1
           if count % 20 == 0:
               FC_str += '\n  '
-              
+
           if char in cmap:
               FC_str += "{},".format(cmap.index(char) + 1)
           else:
@@ -1184,11 +1368,11 @@ for lang_arg in langs:
 
       FC_str += '\n};\n'
       c_code += FC_str
-          
+
       c_code += '\n\n#define {}FCMLowerBound  {}\n'.format(language_c, lo_c)
       c_code += '#define {}FCMUpperBound  {}\n\n\n'.format(language_c, hi_c)
-          
-      LM_str = 'static const PRUint8 {}CompactedLangModel[]'.format(language_c) 
+
+      LM_str = 'static const PRUint8 {}CompactedLangModel[]'.format(language_c)
       LM_str += ' =\n{'
 
       # first row:
@@ -1217,7 +1401,7 @@ for lang_arg in langs:
           # catch-all for all the infrequent second_chars:
           LM_str += '0,'
           count = 1
-          
+
           for second_char in cmap:
               if (first_char, second_char) in sequences:
                   for order, (seq, _) in enumerate(sorted_seqs):
@@ -1234,7 +1418,7 @@ for lang_arg in langs:
                       LM_str += '0,'
               else:
                   LM_str += '0,'
-          
+
               # Let's not make too long lines.
               count += 1
               if count % line_width == 0:
