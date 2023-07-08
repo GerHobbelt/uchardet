@@ -1,5 +1,5 @@
 revision: 286724
-title: computer
+title: transistor
 url: https://mt.wikipedia.org/wiki/Kompjuter
 
 
