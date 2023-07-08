@@ -220,9 +220,9 @@ float nsLanguageDetector::GetConfidence(void)
     //float neutralSeqs  = mSeqCounters[LANG_NEUTRAL_CAT];
     float negativeSeqs = mSeqCounters[LANG_NEGATIVE_CAT];
 
-    r = (positiveSeqs + probableSeqs / 4 - negativeSeqs * 4) / mTotalSeqs;
+    r = (positiveSeqs + probableSeqs / 4 - negativeSeqs * 4) / mTotalSeqs / mModel->accumulatedFreqRatio;
     /* The more characters outside the expected characters
-     * (proportionnaly to the size of the text), the less confident we
+     * (proportionally to the size of the text), the less confident we
      * become in the current language.
      * Note that we removed punctuations and various symbols which are
      * therefore somehow more "neutral".
