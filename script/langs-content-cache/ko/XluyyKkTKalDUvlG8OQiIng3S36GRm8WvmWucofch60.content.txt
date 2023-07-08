@@ -1,5 +1,5 @@
 revision: 35104462
-title: "\uC9C8\uB7C9 \uC21C \uBE14\uB799\uD640 \uBAA9\uB85D"
+title: "\uD56D\uC131\uC9C8\uB7C9\uAE09 \uBE14\uB799\uD640"
 url: https://ko.wikipedia.org/wiki/%EB%B8%94%EB%9E%99%ED%99%80
 
 

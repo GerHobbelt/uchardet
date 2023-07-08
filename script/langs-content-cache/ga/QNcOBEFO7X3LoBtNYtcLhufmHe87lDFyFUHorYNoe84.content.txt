@@ -1,5 +1,5 @@
 revision: 1160939
-title: "Contae Th\xEDr Eoghain"
+title: Gerry McHugh
 url: https://ga.wikipedia.org/wiki/Contae_Th%C3%ADr_Eoghain
 
 

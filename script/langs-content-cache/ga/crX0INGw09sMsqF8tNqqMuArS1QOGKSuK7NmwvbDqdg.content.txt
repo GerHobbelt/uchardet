@@ -1,5 +1,5 @@
 revision: 1140818
-title: "Sinn F\xE9in"
+title: "Shinn F\xE9in"
 url: https://ga.wikipedia.org/wiki/Sinn_F%C3%A9in
 
 

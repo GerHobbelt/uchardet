@@ -1,5 +1,6 @@
 revision: 33644659
-title: "\uC5B4\uC2A4, \uC708\uB4DC & \uD30C\uC774\uC5B4"
+title: "In the Name of Love (\uC5B4\uC2A4, \uC708\uB4DC & \uD30C\uC774\uC5B4\uC758\
+  \ \uC74C\uBC18)"
 url: https://ko.wikipedia.org/wiki/%EC%96%B4%EC%8A%A4,_%EC%9C%88%EB%93%9C_%26_%ED%8C%8C%EC%9D%B4%EC%96%B4
 
 

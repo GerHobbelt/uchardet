@@ -1,5 +1,5 @@
 revision: 4409475
-title: "\u10DC\u10D8\u10D2\u10D4\u10E0\u10D8\u10D0"
+title: "\u10D9\u10DE\u10D0\u10E2\u10D8 (\u10D4\u10DC\u10D0)"
 url: https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%98%E1%83%92%E1%83%94%E1%83%A0%E1%83%98%E1%83%90
 
 

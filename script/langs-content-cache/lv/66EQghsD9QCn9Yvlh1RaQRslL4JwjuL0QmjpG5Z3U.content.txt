@@ -1,5 +1,6 @@
 revision: 3870990
-title: Latvijas PSR
+title: "Broc\u0113nu pils\u0113tas priek\u0161s\u0113d\u0113t\u0101ju uzskait\u012B\
+  jums"
 url: https://lv.wikipedia.org/wiki/Latvijas_PSR
 
 

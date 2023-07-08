@@ -1,5 +1,5 @@
 revision: 1167785
-title: "Gaelscoil de h\xCDde"
+title: "Gaelscoil Ph\xE1draig Naofa"
 url: https://ga.wikipedia.org/wiki/Liosta_Gaelscoileanna_in_%C3%89irinn
 
 

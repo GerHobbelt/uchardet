@@ -1,5 +1,5 @@
 revision: 1109208
-title: Friedrich Hayek
+title: Friedrich von Hayek
 url: https://ga.wikipedia.org/wiki/Friedrich_Hayek
 
 

@@ -1,5 +1,5 @@
 revision: 1080552
-title: "\xC9nnae Cennsalach"
+title: Cath Cruachan Claonta
 url: https://ga.wikipedia.org/wiki/%C3%89nnae_Cennsalach
 
 

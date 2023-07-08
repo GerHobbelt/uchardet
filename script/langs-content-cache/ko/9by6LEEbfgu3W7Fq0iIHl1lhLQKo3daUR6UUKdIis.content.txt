@@ -1,5 +1,5 @@
 revision: 35123311
-title: "\uC720\uC804 \uBD80\uD638"
+title: "\uC720\uC804 \uC554\uD638"
 url: https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%A0%84_%EB%B6%80%ED%98%B8
 
 

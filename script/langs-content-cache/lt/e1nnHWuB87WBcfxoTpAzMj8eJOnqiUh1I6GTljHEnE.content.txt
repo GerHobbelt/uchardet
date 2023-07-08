@@ -1,5 +1,5 @@
 revision: 6971802
-title: "Rietavo savivaldyb\u0117je"
+title: "Rietavo savivaldyb\u0117"
 url: https://lt.wikipedia.org/wiki/Rietavo_savivaldyb%C4%97
 
 

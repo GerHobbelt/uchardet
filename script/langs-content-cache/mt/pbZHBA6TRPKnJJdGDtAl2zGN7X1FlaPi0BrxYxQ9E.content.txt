@@ -1,5 +1,5 @@
 revision: 279473
-title: El Jadida
+title: "Andr\xE9 Guelfi"
 url: https://mt.wikipedia.org/wiki/El_Jadida
 
 

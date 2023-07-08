@@ -1,5 +1,5 @@
 revision: 21131785
-title: "Kazakstan kes\xE4olympialaisissa 2008"
+title: "Bulgaria kes\xE4olympialaisissa 2008"
 url: https://fi.wikipedia.org/wiki/Kes%C3%A4olympialaiset_2008
 
 

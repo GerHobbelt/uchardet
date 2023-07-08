@@ -1,5 +1,5 @@
 revision: 3229008
-title: 2007 UCI ProTour
+title: 2010. gada UCI ProTour
 url: https://lv.wikipedia.org/wiki/UCI_ProTour
 
 

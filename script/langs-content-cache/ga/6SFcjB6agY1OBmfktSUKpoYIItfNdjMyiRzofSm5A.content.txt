@@ -1,5 +1,5 @@
 revision: 1169493
-title: "Contae Bhaile \xC1tha Cliath"
+title: "An Caisle\xE1n Nua, \xC1th Cliath"
 url: https://ga.wikipedia.org/wiki/Contae_Bhaile_%C3%81tha_Cliath
 
 

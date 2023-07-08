@@ -1,5 +1,5 @@
 revision: 1112592
-title: "CLG An Fheothanach/Caisle\xE1n U\xED Mhath\xFAna"
+title: "U\xED Mhath\xFAna"
 url: https://ga.wikipedia.org/wiki/CLG_An_Fheothanach/Caisle%C3%A1n_U%C3%AD_Mhath%C3%BAna
 
 

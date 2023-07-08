@@ -1,5 +1,5 @@
 revision: 34936860
-title: "\uC11C\uAE30 2019 \uBE14\uB808\uC774\uB4DC \uB7EC\uB108"
+title: "\uBE14\uB808\uC774\uB4DC \uB7EC\uB108 3"
 url: https://ko.wikipedia.org/wiki/%EB%B8%94%EB%A0%88%EC%9D%B4%EB%93%9C_%EB%9F%AC%EB%84%88
 
 

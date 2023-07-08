@@ -1,5 +1,5 @@
 revision: 6656829
-title: Bdellomicrovirus
+title: Virus
 url: https://hr.wikipedia.org/wiki/Virusi
 
 

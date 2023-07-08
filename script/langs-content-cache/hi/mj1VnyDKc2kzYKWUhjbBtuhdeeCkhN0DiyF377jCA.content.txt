@@ -1,5 +1,5 @@
 revision: 5878661
-title: Left ventricular hypertrophy
+title: Myocardial infarction management
 url: https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A5%83%E0%A4%A6%E0%A4%AF%E0%A4%BE%E0%A4%98%E0%A4%BE%E0%A4%A4
 
 

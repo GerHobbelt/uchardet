@@ -1,5 +1,5 @@
 revision: 1129327
-title: "An L\xFAnasa"
+title: Lughnasadh
 url: https://ga.wikipedia.org/wiki/An_L%C3%BAnasa
 
 

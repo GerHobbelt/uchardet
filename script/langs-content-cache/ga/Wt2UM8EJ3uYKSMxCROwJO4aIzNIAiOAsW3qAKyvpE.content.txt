@@ -1,5 +1,5 @@
 revision: 1138754
-title: Sedulius Scottus
+title: Marianus Scotus Beannaithe
 url: https://ga.wikipedia.org/wiki/Sedulius_Scottus
 
 

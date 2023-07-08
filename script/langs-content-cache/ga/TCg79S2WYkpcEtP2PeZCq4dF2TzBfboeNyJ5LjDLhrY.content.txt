@@ -1,5 +1,5 @@
 revision: 1140321
-title: "B\xE9ar"
+title: "B\xE9ar spad\xE1nta"
 url: https://ga.wikipedia.org/wiki/B%C3%A9ar
 
 

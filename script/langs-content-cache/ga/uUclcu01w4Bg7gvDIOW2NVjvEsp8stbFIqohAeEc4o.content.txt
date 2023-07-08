@@ -1,5 +1,5 @@
 revision: 1106216
-title: Nuadha
+title: Nuadhu
 url: https://ga.wikipedia.org/wiki/Nuadha
 
 

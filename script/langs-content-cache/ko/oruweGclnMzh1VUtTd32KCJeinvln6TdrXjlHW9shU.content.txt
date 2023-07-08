@@ -1,5 +1,5 @@
 revision: 35129504
-title: "\uC900\uB9C8\uBC29\uC9C4"
+title: "\uB2E4\uC911\uB9C8\uBC29\uC9C4"
 url: https://ko.wikipedia.org/wiki/%EB%A7%88%EB%B0%A9%EC%A7%84
 
 

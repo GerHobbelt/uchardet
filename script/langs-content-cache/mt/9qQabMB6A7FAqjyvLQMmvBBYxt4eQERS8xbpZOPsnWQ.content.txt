@@ -1,5 +1,5 @@
 revision: 269543
-title: Steve Jobs
+title: Reed Paul
 url: https://mt.wikipedia.org/wiki/Steve_Jobs
 
 

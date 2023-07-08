@@ -1,5 +1,5 @@
 revision: 20602220
-title: Harry Chapin
+title: Classics (Harry Chapin albumi)
 url: https://fi.wikipedia.org/wiki/Harry_Chapin
 
 

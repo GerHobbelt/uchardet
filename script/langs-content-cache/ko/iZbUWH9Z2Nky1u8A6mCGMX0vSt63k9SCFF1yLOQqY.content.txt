@@ -1,5 +1,6 @@
 revision: 32900008
-title: "2000\uB144 \uD558\uACC4 \uC62C\uB9BC\uD53D \uBCF5\uC2F1"
+title: "2004\uB144 \uD558\uACC4 \uC62C\uB9BC\uD53D \uBE0C\uB8E8\uB098\uC774 \uC120\
+  \uC218\uB2E8"
 url: https://ko.wikipedia.org/wiki/2000%EB%85%84_%ED%95%98%EA%B3%84_%EC%98%AC%EB%A6%BC%ED%94%BD
 
 

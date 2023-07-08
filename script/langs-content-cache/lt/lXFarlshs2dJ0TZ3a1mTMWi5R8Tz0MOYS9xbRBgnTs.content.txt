@@ -1,5 +1,5 @@
 revision: 6942424
-title: Dragon Ball
+title: 'Dragon Ball: Mystical Adventure'
 url: https://lt.wikipedia.org/wiki/Dragon_Ball
 
 

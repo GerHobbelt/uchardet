@@ -1,5 +1,5 @@
 revision: 4981483
-title: 100 Kila
+title: Jazz guitar
 url: https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%AE%E0%A4%BE_%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80
 
 

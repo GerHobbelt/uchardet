@@ -1,5 +1,5 @@
 revision: 1130308
-title: "Bertie \xD3 hEachthairn"
+title: Bertie Ahern
 url: https://ga.wikipedia.org/wiki/Bertie_%C3%93_hEachthairn
 
 

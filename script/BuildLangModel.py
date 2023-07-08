@@ -396,8 +396,8 @@ for lang_arg in langs:
       next_titles = []
 
       while len(titles) > 0:
-	      # update our sorted marker cache table, which is used by the is_already_marked() API
-		  # to give use O(log(N)) performance for our inner deduplication scans...
+          # update our sorted marker cache table, which is used by the is_already_marked() API
+          # to give use O(log(N)) performance for our inner deduplication scans...
           update_marked_pages_search_index()
 
           extra_titles = []
@@ -425,7 +425,7 @@ for lang_arg in langs:
                   continue
 
               occurrences = sum(characters.values())
-              if occurrences > options.max_chars:
+              if occurrences / 1.02 > options.max_chars:    # HACKY: heuristically compensate for overlapping wikipages producing a single cache page for content that is counted double/triple/... in this function
                   if debug: sys.stderr.write('Stop criterium: occurrences > options.max_chars: {} > {}\n'.format(occurrences, options.max_chars))
                   return
 
@@ -935,35 +935,37 @@ for lang_arg in langs:
   n_char = len(characters)
   occurrences = sum(characters.values())
 
-  logfd.write("\n{} characters appeared {} times.\n".format(n_char, occurrences))
+  logfd.write("\n{} characters appeared {} times.\n\n".format(n_char, occurrences))
   for char in characters:
       ratios[char] = characters[char] / occurrences
-      #logfd.write("Character '{}' usage: {} ({} %)\n".format(chr(char),
-      #                                                       characters[char],
-      #                                                       ratios[char] * 100))
 
   sorted_ratios = sorted(ratios.items(), key=operator.itemgetter(1),
                          reverse=True)
+
+  for order, (char, ratio) in enumerate(sorted_ratios):
+      logfd.write("[{:2}] Character '{}' usage: {} ({:.9f} %)\n".format(order, chr(char),
+                                                             characters[char],
+                                                             ratios[char] * 100))
+
   # Accumulated ratios of the frequent chars.
   accumulated_ratios = 0
 
-  # If there is no alphabet defined, we just use the first 64 letters, which was
+  # If there is no alphabet defined, we just use the first `freq_count_limit` letters, which was
   # the original default.
   # If there is an alphabet, we make sure all the alphabet characters are in the
   # frequent list, and we stop then. There may therefore be more or less than
   # 64 frequent characters depending on the language.
   logfd.write('\nMost Frequent characters:')
   # sys.stderr.write('\nAlphabet: {}, frequent_ranges: {}, lang: {}\n'.format(lang.alphabet, lang.frequent_ranges, lang.name))
-  very_frequent_characters = []
   very_freq_count = 0
   very_freq_ratio = 0
+  freq_count_limit = 128
   if lang.alphabet is None and lang.frequent_ranges is None:
-      freq_count = min(64, len(sorted_ratios))
+      freq_count = min(freq_count_limit, len(sorted_ratios))
       for order, (char, ratio) in enumerate(sorted_ratios):
           if order >= freq_count:
               break
-          logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
-          very_frequent_characters.append(char)
+          logfd.write("\n[{:2}] Char {}: {:.9f} %".format(order, chr(char), ratio * 100))
           accumulated_ratios += ratio
           if very_freq_ratio < 0.4:
             very_freq_count += 1
@@ -975,8 +977,7 @@ for lang_arg in langs:
               break
           if chr(char) in lang.alphabet:
               lang.alphabet.remove(chr(char))
-          logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
-          very_frequent_characters.append(char)
+          logfd.write("\n[{:2}] Char {}: {:.9f} %".format(order, chr(char), ratio * 100))
           accumulated_ratios += ratio
           freq_count += 1
           if very_freq_ratio < 0.4:
@@ -999,18 +1000,18 @@ for lang_arg in langs:
       # ranges.
       freq_count = 0
       for order, (char, ratio) in enumerate(sorted_ratios):
+        if order >= freq_count_limit and ratio < 0.0005:
+          break
         for start, end in lang.frequent_ranges:
           if char >= start and char <= end:
             freq_count += 1
             accumulated_ratios += ratio
-            logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
-            very_frequent_characters.append(char)
+            logfd.write("\n[{:2}] Char {}: {:.9f} %".format(order, chr(char), ratio * 100))
             frequent_ranges_size -= 1
             break
         else:
           # A frequent character in the non-frequent range.
-          logfd.write("\n[{:2}] Char {}: {} %".format(order, chr(char), ratio * 100))
-          very_frequent_characters.append(char)
+          logfd.write("\n[{:2}] Char {}: {:.9f} %".format(order, chr(char), ratio * 100))
           freq_count += 1
           accumulated_ratios += ratio
 
@@ -1030,10 +1031,50 @@ for lang_arg in langs:
     else:
       break
 
+  # Keep the freq_count more frequent characters.
+  sorted_chars = [(char, freq, order) for order, (char, freq) in
+                  enumerate(sorted_ratios)][:freq_count]
+  max_order = len(sorted_chars)
+
+  # Add equivalency characters.
+  equivalent = []
+  if lang.case_mapping:
+      for char, ratio, order in sorted_chars:
+          uppercased = chr(char).upper()
+          try:
+            if char != ord(uppercased):
+                equivalent += [(ord(uppercased), ratio, order)]
+          except TypeError:
+            # This happens for some case such as 'SS' as uppercase of 'ß'.
+            # Just ignore such cases.
+            sys.stderr.write("Ignoring '{}' as uppercase equivalent of '{}'.\n".format(uppercased, char))
+
+  if lang.alphabet_mapping is not None:
+    for alt_c in lang.alphabet_mapping:
+      for char, ratio, order in sorted_chars:
+        if alt_c == chr(char):
+          sys.stderr.write("ALREADY {}\n".format(alt_c))
+          exit(1)
+        elif char == ord(lang.alphabet_mapping[alt_c]):
+          equivalent += [(ord(alt_c), ratio, order)]
+          break
+      else:
+        sys.stderr.write("Base equivalent for {} not found in frequent characters!\n".format(alt_c))
+        exit(1)
+
+  sorted_chars += equivalent
+
+  # Order by code point.
+  sorted_chars = sorted(sorted_chars, key=operator.itemgetter(0))
+  max_order = len(sorted_chars)
+
+  lo_c = sorted_chars[0][0]
+  hi_c = sorted_chars[max_order -  1][0]
+
   logfd.write("\n\nThe first {} characters have an accumulated ratio of {}.\n".format(freq_count, accumulated_ratios))
   logfd.write("The first {} characters have an accumulated ratio of {}.\n".format(very_freq_count, very_freq_ratio))
   logfd.write("All characters whose order is over {} have an accumulated ratio of {}.\n".format(low_freq_order, low_freq_ratio))
-
+  
   sys.stderr.write('\nGenerating language model CHARACTER MAP file...\n')
 
   with open(current_dir + '/header-template.cpp', mode='r', encoding='utf-8') as header_fd:
@@ -1056,6 +1097,7 @@ for lang_arg in langs:
  * RET: carriage/return.
  * SYM: symbol (punctuation) that does not belong to word.
  * NUM: 0 - 9.
+ * IRR: irrelevant character (which does belong to a word)
  *
  * Other characters are ordered by probabilities
  * (0 is the most common character in the language).
@@ -1068,6 +1110,9 @@ for lang_arg in langs:
  * even though they are both used for French. Same for the euro sign.
  */
 """
+
+  c_code += '\n\n\n#define IRR     {}\n\n'.format(freq_count)
+  c_code += '#define {}OrderWidth         (IRR + 1)\n\n\n'.format(language_c)
 
   for charset in lang_charsets:
       charset_c = charset.replace('-', '_').title()
@@ -1122,7 +1167,7 @@ for lang_arg in langs:
                       uchar = local_lowercase(uchar, lang)
                   if lang.alphabet_mapping is not None and uchar in lang.alphabet_mapping:
                       uchar = lang.alphabet_mapping[uchar]
-                  for order, (char, ratio) in enumerate(sorted_ratios):
+                  for char, ratio, order in sorted_chars:
                       if char == ord(uchar):
                           CTOM_str += '{:3},'.format(min(249, order))
                           break
@@ -1135,7 +1180,7 @@ for lang_arg in langs:
                       # It may be an interesting alternative to add another
                       # constant for any character with an order > freqCharCount.
                       # Maybe IRR (irrelevant character) or simply CHR.
-                      CTOM_str += '{:3},'.format(min(249, n_char))
+                      CTOM_str += '{:3},'.format('IRR')
                       n_char += 1
           CTOM_str += ' /* {:X}X */'.format(line)
       CTOM_str += '\n};\n/* '
@@ -1150,48 +1195,12 @@ for lang_arg in langs:
   # The list is ordered by unicode code points (hence can be used
   # generically for various encoding schemes as it is not encoding
   # specific) allowing to search from code points efficiently by a divide
-  # and conqueer search algorithm.
+  # and conquer search algorithm.
   # Each code point is immediately followed by its order.
 
-  # Keep the freq_count more frequent characters.
-  sorted_chars = [(char, freq, order) for order, (char, freq) in
-                  enumerate(sorted_ratios)][:freq_count]
-  max_order = len(sorted_chars)
-
-  # Add equivalency characters.
-  equivalent = []
-  if lang.case_mapping:
-      for char, ratio, order in sorted_chars:
-          uppercased = chr(char).upper()
-          try:
-            if char != ord(uppercased):
-                equivalent += [(ord(uppercased), ratio, order)]
-          except TypeError:
-            # This happens for some case such as 'SS' as uppercase of 'ß'.
-            # Just ignore such cases.
-            sys.stderr.write("Ignoring '{}' as uppercase equivalent of '{}'.\n".format(uppercased, char))
-
-  if lang.alphabet_mapping is not None:
-    for alt_c in lang.alphabet_mapping:
-      for char, ratio, order in sorted_chars:
-        if alt_c == chr(char):
-          sys.stderr.write("ALREADY {}\n".format(alt_c))
-          exit(1)
-        elif char == ord(lang.alphabet_mapping[alt_c]):
-          equivalent += [(ord(alt_c), ratio, order)]
-          break
-      else:
-        sys.stderr.write("Base equivalent for {} not found in frequent characters!\n".format(alt_c))
-        exit(1)
-
-  sorted_chars += equivalent
-
-  # Order by code point.
-  sorted_chars = sorted(sorted_chars, key=operator.itemgetter(0))
-
-  CTOM_str = 'static const int Unicode_Char_size = {};\n'.format(len(sorted_chars))
-
-  CTOM_str += 'static const unsigned int Unicode_CharOrder[]'
+  CTOM_str = '#define Unicode_Char_size    {}\n\n'.format(max_order)
+  
+  CTOM_str += 'static const PRUint32 Unicode_CharOrder[]'
   CTOM_str += ' =\n{'
   column = 0
 
@@ -1204,9 +1213,10 @@ for lang_arg in langs:
     max_order_width = 2
   else:
     model_is_empty = 0
-    max_char_width = math.floor(math.log10(sorted_chars[0][0])) + 1
+    max_char_width = math.floor(math.log10(sorted_chars[max_order - 1][0])) + 1
     max_order_width = math.floor(math.log10(max_order)) + 1
 
+  sorted_order = []
   for char, ratio, order in sorted_chars:
       if column % 8 == 0:
           CTOM_str += '\n  '
@@ -1216,8 +1226,38 @@ for lang_arg in langs:
       CTOM_str += '{:>{width}}, '.format(char, width=max_char_width)
       CTOM_str += '{:>{width}},'.format(order, width=max_order_width)
 
+      sorted_order.append((order, ratio))
+
   CTOM_str += '\n};\n\n'
   c_code += CTOM_str
+
+  if not model_is_empty:
+      sorted_order = sorted(sorted_order, key=operator.itemgetter(0))
+
+      CTOM_str = 'static const float OrderToRatio[]'
+      CTOM_str += ' =\n{'
+      column = 0
+      prev_order = -1
+
+      for order, ratio in sorted_order:
+          if order == prev_order:
+              continue
+          prev_order = order
+
+          if column % 8 == 0:
+              CTOM_str += '\n  '
+          else:
+              CTOM_str += ' '
+          column += 1
+          CTOM_str += '{:0.9f}f, '.format(ratio)
+
+      CTOM_str += '\n  0\n};\n\n'
+      c_code += CTOM_str
+
+  invalid_order_nr = 1000000
+  char_order_lookup = [invalid_order_nr] * (hi_c + 1)
+  for char, ratio, order in sorted_chars:
+      char_order_lookup[char] = order
 
   ########### SEQUENCES ###########
 
@@ -1252,7 +1292,7 @@ for lang_arg in langs:
       break
 
   if order_3 == -1 or order_2 == -1:
-    # This would probably never happens. It would require a language with
+    # This would probably never happen. It would require a language with
     # very few possible sequences and each of the sequences are widely
     # used. Just add this code for completion, but it won't likely ever be
     # run.
@@ -1276,19 +1316,19 @@ for lang_arg in langs:
  * - Positive sequences: first {} ({})
  * - Probable sequences: next {} ({}-{}) ({})
  * - Neutral sequences: last {} ({})
- * - Negative sequences: {} (off-ratio)
- *
- * Negative sequences: TODO""".format(len(visited_pages),
-                                        sum(characters.values()),
-                                        len(sorted_seqs),
-                                        freq_count * freq_count,
-                                        order_3, ratio_3,
-                                        order_2 - order_3,
-                                        order_2, order_3,
-                                        ratio_2 - ratio_3,
-                                        freq_count * freq_count - order_2,
-                                        1 - ratio_2,
-                                        freq_count * freq_count - len(sorted_seqs))
+ * - Negative sequences: {} (off-ratio, TODO)
+ */
+""".format(len(visited_pages),
+            sum(characters.values()),
+            len(sorted_seqs),
+            freq_count * freq_count,
+            order_3, ratio_3,
+            order_2 - order_3,
+            order_2, order_3,
+            ratio_2 - ratio_3,
+            freq_count * freq_count - order_2,
+            1 - ratio_2,
+            freq_count * freq_count - len(sorted_seqs))
 
   logfd.write("\nFirst {} (typical positive ratio): {}".format(order_3, ratio_3))
   logfd.write("\nNext {} ({}-{}): {}".format(order_2 - order_3,
@@ -1296,149 +1336,175 @@ for lang_arg in langs:
                                              ratio_2 - ratio_3))
   logfd.write("\nRest: {}".format(1 - ratio_2))
 
-  c_code += "\n */\n"
+  line_count = math.ceil(freq_count / 40)
+  line_width = math.ceil(freq_count / line_count)
 
-  line_width = (freq_count + 1) / 2
-  if line_width > 40:
-      line_width = (freq_count + 2) / 3
-  if line_width > 40:
-      line_width = 40
+  alphabet_width = len(sorted_chars)
 
-  if freq_count < 100:
-      LM_str = 'static const PRUint8 {}LangModel[]'.format(language_c)
-      LM_str += ' =\n{'
-      for line in range(0, freq_count):
-          LM_str += '\n  '
+  # prep for speedup: filter/reduce sorted_seqs to sequences matching the reduced cmap[] charset:
+  sorted_seqs_hf = {}
+  for order, (seq, _) in enumerate(sorted_seqs):
+      first_char = seq[0]
+      second_char = seq[1]
+      if first_char <= hi_c and second_char <= hi_c and \
+         char_order_lookup[first_char] < freq_count and char_order_lookup[second_char] < freq_count \
+      :
+          index = first_char + (hi_c + 1) * second_char
+          sorted_seqs_hf[index] = order
 
-          for column in range(0, freq_count):
-              # Let's not make too long lines.
-              if freq_count > 40 and column > 0 and column < freq_count - 5 and column % line_width == 0:
-                  LM_str += '\n   '
-              first_order = int(line)
-              second_order = column
-              if first_order < len(sorted_ratios) and second_order < len(sorted_ratios):
-                  (first_char, _) = sorted_ratios[first_order]
-                  (second_char, _) = sorted_ratios[second_order]
-                  if (first_char, second_char) in sequences:
-                      for order, (seq, _) in enumerate(sorted_seqs):
-                          if seq == (first_char, second_char):
-                              if order < order_3:
-                                  LM_str += '3,'
-                              elif order < order_2:
-                                  LM_str += '2,'
-                              else:
-                                  LM_str += '1,'
-                              break
-                      else:
-                          pass # impossible!
-                          LM_str += '0,'
-                  else:
-                      LM_str += '0,'
-              else:
-                  # It may indeed happen that we find less than 64 letters used for a
-                  # given language.
-                  LM_str += '0,'
-      LM_str += '\n};\n'
-      c_code += LM_str
+  if freq_count_limit < alphabet_width:
+      frequent_cmap_prefix = 'Frequent'
   else:
-      FC_str = 'static const PRUint8 {}FrequentCharMapping[]'.format(language_c)
+      frequent_cmap_prefix = ''
+
+  c_code += '#define {}UnicodeCharToOrderIsReduced  {}\n'.format(language_c, 1 if freq_count_limit < alphabet_width else 0)
+      
+  c_code += '\n\n#define {}FCMLowerBound  {}\n'.format(language_c, lo_c)
+  c_code += '#define {}FCMUpperBound  {}\n\n\n'.format(language_c, hi_c)
+
+  FC_str = 'static const PRUint8 {}{}UnicodeCharToOrder[]'.format(language_c, frequent_cmap_prefix)
+  FC_str += ' =\n{'
+
+  longest_irr_run_start = -1
+  longest_irr_run_length = 0
+  current_irr_run_start = -1
+  current_irr_run_length = 0
+  for char in range(lo_c, hi_c + 1):
+      order = char_order_lookup[char]
+      if order < freq_count:
+          if current_irr_run_length > longest_irr_run_length:
+              longest_irr_run_start = current_irr_run_start
+              longest_irr_run_length = current_irr_run_length
+          current_irr_run_start = -1
+          current_irr_run_length = 0
+      else:                                 # invalid_order_nr
+          if current_irr_run_start < 0:
+              current_irr_run_start = char
+              current_irr_run_length = 0
+          current_irr_run_length += 1
+  if current_irr_run_length > longest_irr_run_length:
+      longest_irr_run_start = current_irr_run_start
+      longest_irr_run_length = current_irr_run_length
+  # heuristic:
+  if longest_irr_run_length < 40:
+      longest_irr_run_start = -1
+      longest_irr_run_length = 0
+
+  count = 0
+  for char in range(lo_c, hi_c + 1):
+      if longest_irr_run_length > 0 and char == longest_irr_run_start:
+          pass # break
+
+      if count % 20 == 0:
+          FC_str += '\n  '
+      count += 1
+
+      order = char_order_lookup[char]
+      if order < freq_count:
+          FC_str += "{},".format(order)
+      else:
+          FC_str += "{},".format('IRR')     # invalid_order_nr
+
+  FC_str += '\n};\n\n'
+  c_code += FC_str
+
+  if longest_irr_run_length > 0:
+      SM_str = '\n'
+      SM_str += '\n#define {}{}UnicodeCharToOrderFirstTableChunkSize    {}'.format(language_c, frequent_cmap_prefix, longest_irr_run_start - lo_c)
+      SM_str += '\n#define {}{}UnicodeCharToOrderSecondTableChunkOffset {}'.format(language_c, frequent_cmap_prefix, longest_irr_run_start + longest_irr_run_length - lo_c)
+      SM_str += '\n#define {}{}UnicodeCharToOrderSecondTableChunkSize   {}'.format(language_c, frequent_cmap_prefix, hi_c + 1 - (longest_irr_run_start + longest_irr_run_length))
+      SM_str += '\n\n\n'
+      c_code += SM_str
+  
+      FC_str = 'static const PRUint8 {}{}UnicodeCharToOrder2[]'.format(language_c, frequent_cmap_prefix)
       FC_str += ' =\n{'
 
-      flimit = 128
-      cmap = very_frequent_characters[:flimit-1]
-
-      lo_c = 1000000000
-      hi_c = 0
-      for char in cmap:
-          if char > hi_c:
-              hi_c = char
-          if char < lo_c:
-              lo_c = char
-
       count = 0
-      for char in range(lo_c, hi_c + 1):
-          count += 1
+      for char in range(longest_irr_run_start + longest_irr_run_length, hi_c + 1):
           if count % 20 == 0:
               FC_str += '\n  '
-
-          if char in cmap:
-              FC_str += "{},".format(cmap.index(char) + 1)
-          else:
-              FC_str += "0,"
-
-      FC_str += '\n};\n'
-      c_code += FC_str
-
-      c_code += '\n\n#define {}FCMLowerBound  {}\n'.format(language_c, lo_c)
-      c_code += '#define {}FCMUpperBound  {}\n\n\n'.format(language_c, hi_c)
-
-      LM_str = 'static const PRUint8 {}CompactedLangModel[]'.format(language_c)
-      LM_str += ' =\n{'
-
-      # first row:
-      #
-      # catch-all for all the infrequent first_chars;
-      # first column is catch-all for all the infrequent second_chars:
-      LM_str += '\n  0,'
-      count = 1
-      for second_char in cmap:
-          LM_str += '0,'
-          # Let's not make too long lines.
           count += 1
+
+          order = char_order_lookup[char]
+          if order < freq_count:
+              FC_str += "{},".format(order)
+          else:
+              FC_str += "{},".format('IRR')     # invalid_order_nr
+
+  FC_str += '\n};\n\n'
+  c_code += FC_str
+
+  LM_str = 'static const PRUint8 {}CompactedLangModel[]'.format(language_c)
+  LM_str += ' =\n{'
+
+  # last row:
+  #
+  # catch-all for all the infrequent first_chars;
+  # last column is catch-all for all the infrequent second_chars:
+
+  omap = [0] * freq_count
+  for char, ratio, order in sorted_chars:
+      if order < freq_count:
+          omap[order] = char
+
+  count = 0
+  for first_order in range(0, freq_count - 1):
+      first_char = omap[first_order]
+
+      if debug:
+          sys.stderr.write('first_order: {}, first_char: {}, lo_c: {}, hi_c: {}, freq_count_limit: {}\n'.format(first_order, first_char, lo_c, hi_c, freq_count_limit))
+      else:
+          sys.stderr.write('#')
+          sys.stderr.flush()
+
+      for second_order in range(0, freq_count - 1):
+          second_char = omap[second_order]
+
+          # Let's not make too long lines.
           if count % line_width == 0:
               LM_str += '\n  '
 
-
-      for first_char in cmap:
-          LM_str += '\n  '
-
-          if debug:
-              sys.stderr.write('first_char: {}, lo_c: {}, hi_c: {}, size: {}, flimit: {}\n'.format(first_char, lo_c, hi_c, len(cmap), flimit))
-          else:
-              sys.stderr.write('#')
-              sys.stderr.flush()
-
-          # catch-all for all the infrequent second_chars:
-          LM_str += '0,'
-          count = 1
-
-          for second_char in cmap:
-              if (first_char, second_char) in sequences:
-                  for order, (seq, _) in enumerate(sorted_seqs):
-                      if seq == (first_char, second_char):
-                          if order < order_3:
-                              LM_str += '3,'
-                          elif order < order_2:
-                              LM_str += '2,'
-                          else:
-                              LM_str += '1,'
-                          break
-                  else:
-                      pass # impossible!
-                      LM_str += '0,'
+          index = first_char + (hi_c + 1) * second_char
+          if (index in sorted_seqs_hf):
+              order = sorted_seqs_hf[index]
+              if order < order_3:
+                  LM_str += '3,'
+              elif order < order_2:
+                  LM_str += '2,'
               else:
-                  LM_str += '0,'
+                  LM_str += '1,'
+          else:
+              LM_str += '0,'
 
-              # Let's not make too long lines.
-              count += 1
-              if count % line_width == 0:
-                  LM_str += '\n  '
+          count += 1
 
-      LM_str += '\n};\n'
-      c_code += LM_str
+      # catch-all for all the infrequent second_chars:
+
+      # Let's not make too long lines.
+      if count % line_width == 0:
+          LM_str += '\n  '
+      LM_str += '0,'
+      count += 1
+
+  # catch-all for all the infrequent first_chars:
+  for first_order in omap:
+      # Let's not make too long lines.
+      if count % line_width == 0:
+          LM_str += '\n  '
+      LM_str += '0,'
+      count += 1
+
+  LM_str += '\n};\n'
+  c_code += LM_str
 
   for charset in lang_charsets:
       charset_c = charset.replace('-', '_').title()
       SM_str = '\n\nconst SequenceModel {}{}Model ='.format(charset_c, language_c)
       SM_str += '\n{\n  '
       SM_str += '{}_CharToOrderMap,'.format(charset_c)
-      if freq_count < 100:
-          SM_str += '\n  {}LangModel,'.format(language_c)
-      else:
-          # TODO:
-          SM_str += '\n  {}CompactedLangModel,'.format(language_c)
-      SM_str += '\n  {},'.format(freq_count)
-      SM_str += '\n  (float){},'.format(ratio_2)
+      SM_str += '\n  {}CompactedLangModel,'.format(language_c)
+      SM_str += '\n  {}OrderWidth,'.format(language_c)
+      SM_str += '\n  {}f,'.format(ratio_2)
       SM_str += '\n  {},'.format('PR_TRUE' if lang.use_ascii else 'PR_FALSE')
       SM_str += '\n  "{}",'.format(charset)
       SM_str += '\n  "{}"'.format(lang.code)
@@ -1449,18 +1515,29 @@ for lang_arg in langs:
   SM_str += '\n{'
   SM_str += '\n  "{}",'.format(lang.code)
   SM_str += '\n  Unicode_CharOrder,'
-  SM_str += '\n  {},'.format(len(sorted_chars)) # Order is wrong!
-  if freq_count < 100:
-      SM_str += '\n  {}LangModel,'.format(language_c)
+  SM_str += '\n  Unicode_Char_size,\n'
+  SM_str += '\n  {}FCMLowerBound,'.format(language_c)
+  SM_str += '\n  {}FCMUpperBound,'.format(language_c)
+  SM_str += '\n  {}UnicodeCharToOrderIsReduced,'.format(language_c)
+  SM_str += '\n  {}{}UnicodeCharToOrder,'.format(language_c, frequent_cmap_prefix)
+  if longest_irr_run_length > 0:
+      SM_str += '\n  {}{}UnicodeCharToOrderFirstTableChunkSize,'.format(language_c, frequent_cmap_prefix)
+      SM_str += '\n  {}{}UnicodeCharToOrderSecondTableChunkOffset,'.format(language_c, frequent_cmap_prefix)
+      SM_str += '\n  {}{}UnicodeCharToOrderSecondTableChunkSize,'.format(language_c, frequent_cmap_prefix)
+      SM_str += '\n  {}{}UnicodeCharToOrder2,'.format(language_c, frequent_cmap_prefix)
   else:
-      # TODO:
-      SM_str += '\n  {}CompactedLangModel,'.format(language_c)
-  SM_str += '\n  {},'.format(freq_count)
+      SM_str += '\n  {}FCMUpperBound + 1 - {}FCMLowerBound,'.format(language_c, language_c)
+      SM_str += '\n  0,'
+      SM_str += '\n  0,'
+      SM_str += '\n  NULL,'
+  SM_str += '\n  OrderToRatio,'
+  SM_str += '\n  {}CompactedLangModel,'.format(language_c)
+  SM_str += '\n  {}OrderWidth,'.format(language_c)
   SM_str += '\n  {},'.format(very_freq_count)
-  SM_str += '\n  (float){},'.format(very_freq_ratio)
+  SM_str += '\n  {}f,'.format(very_freq_ratio)
   SM_str += '\n  {},'.format(low_freq_order)
-  SM_str += '\n  (float){},'.format(low_freq_ratio)
-  SM_str += '\n  (float){},'.format(accumulated_ratios)
+  SM_str += '\n  {}f,'.format(low_freq_ratio)
+  SM_str += '\n  {}f,'.format(accumulated_ratios)
   SM_str += '\n};'
   c_code += SM_str
 

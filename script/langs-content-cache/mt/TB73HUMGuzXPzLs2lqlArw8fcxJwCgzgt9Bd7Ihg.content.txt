@@ -1,5 +1,5 @@
 revision: 287531
-title: Nora Gal
+title: Boris Kuzmin
 url: https://mt.wikipedia.org/wiki/Nora_Gal
 
 

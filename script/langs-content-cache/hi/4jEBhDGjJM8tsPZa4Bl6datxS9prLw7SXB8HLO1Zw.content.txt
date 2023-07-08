@@ -1,5 +1,5 @@
 revision: 4965987
-title: ISO 4217
+title: Congolese franc
 url: https://hi.wikipedia.org/wiki/%E0%A4%86%E0%A4%88%E0%A4%8F%E0%A4%B8%E0%A4%93_%E0%A5%AA%E0%A5%A8%E0%A5%A7%E0%A5%AD
 
 

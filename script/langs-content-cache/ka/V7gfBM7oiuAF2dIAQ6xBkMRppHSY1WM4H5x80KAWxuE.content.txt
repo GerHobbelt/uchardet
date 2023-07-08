@@ -1,5 +1,5 @@
 revision: 4088380
-title: Bebeji
+title: Warawa
 url: https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%9C%E1%83%9D%E1%83%A1_%E1%83%A8%E1%83%A2%E1%83%90%E1%83%A2%E1%83%98
 
 

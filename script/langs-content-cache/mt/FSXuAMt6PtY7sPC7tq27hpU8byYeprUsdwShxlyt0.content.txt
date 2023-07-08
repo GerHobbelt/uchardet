@@ -1,5 +1,5 @@
 revision: 214850
-title: -voru
+title: Bird
 url: https://mt.wikipedia.org/wiki/-voru
 
 

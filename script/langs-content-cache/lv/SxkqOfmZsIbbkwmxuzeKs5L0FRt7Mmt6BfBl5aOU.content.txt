@@ -1,5 +1,5 @@
 revision: 2906245
-title: RIM-161 Standard missile 3
+title: Raytheon
 url: https://lv.wikipedia.org/wiki/RIM-161_Standard_missile_3
 
 

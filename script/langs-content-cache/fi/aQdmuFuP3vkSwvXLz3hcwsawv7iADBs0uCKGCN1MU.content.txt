@@ -1,5 +1,5 @@
 revision: 21036419
-title: ISO 3166-2:AI
+title: ISO 3166-2:DZ
 url: https://fi.wikipedia.org/wiki/Luettelo_ISO_3166_-standardin_koodeista
 
 

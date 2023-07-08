@@ -1,5 +1,5 @@
 revision: 1167277
-title: "Comhairle Earra-Gh\xE0idheal agus Bh\xF2id"
+title: Inbhir Dhobhrain
 url: https://ga.wikipedia.org/wiki/Comhairle_Earra-Gh%C3%A0idheal_agus_Bh%C3%B2id
 
 

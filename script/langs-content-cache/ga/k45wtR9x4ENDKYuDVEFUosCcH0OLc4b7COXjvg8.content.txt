@@ -1,5 +1,5 @@
 revision: 1132914
-title: "Liosta de Bhar\xFAntachta\xED"
+title: Hiberno-Norman
 url: https://ga.wikipedia.org/wiki/Liosta_de_Bhar%C3%BAntachta%C3%AD
 
 

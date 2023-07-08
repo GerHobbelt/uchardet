@@ -1,6 +1,5 @@
 revision: 34918192
-title: "2004\uB144 \uD558\uACC4 \uC62C\uB9BC\uD53D \uC721\uC0C1 - \uC5EC\uC790 400\
-  \ \uBBF8\uD130 \uD5C8\uB4E4"
+title: "\uC54C\uB809\uC0B0\uB4DC\uB77C \uBD88\uB77C\uB178\uBC14"
 url: https://ko.wikipedia.org/wiki/%EC%9C%A1%EC%83%81_%EC%84%B8%EA%B3%84_%EA%B8%B0%EB%A1%9D
 
 

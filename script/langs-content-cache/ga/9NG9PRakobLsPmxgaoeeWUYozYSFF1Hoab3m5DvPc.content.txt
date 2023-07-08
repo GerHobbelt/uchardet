@@ -1,5 +1,5 @@
 revision: 1053842
-title: Aidhne
+title: "An Sr\xE1idbhaile (Gaillimh)"
 url: https://ga.wikipedia.org/wiki/Aidhne
 
 

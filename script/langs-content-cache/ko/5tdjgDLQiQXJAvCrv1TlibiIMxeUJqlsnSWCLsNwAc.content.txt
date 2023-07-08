@@ -1,5 +1,5 @@
 revision: 35019077
-title: "\uBC14\uC774\uB7EC\uC2A4\uC131 \uB2E8\uBC31\uC9C8"
+title: "\uB3D9\uBB3C\uBC14\uC774\uB7EC\uC2A4"
 url: https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4
 
 

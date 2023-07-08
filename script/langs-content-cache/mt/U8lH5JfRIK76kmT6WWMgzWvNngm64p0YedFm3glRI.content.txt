@@ -1,5 +1,5 @@
 revision: 281829
-title: "\xC9dith Piaf"
+title: "Hymne \xE0 l'amour"
 url: https://mt.wikipedia.org/wiki/%C3%89dith_Piaf
 
 

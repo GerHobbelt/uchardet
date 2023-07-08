@@ -1,5 +1,5 @@
 revision: 1110031
-title: "M\xE1ire Mhic Giolla \xCDosa"
+title: "Institi\xFAid an L\xE9inn Dl\xED Ghairmi\xFAil"
 url: https://ga.wikipedia.org/wiki/M%C3%A1ire_Mhic_Giolla_%C3%8Dosa
 
 

@@ -1,5 +1,5 @@
 revision: 6819767
-title: angl.
+title: Anglai
 url: https://lt.wikipedia.org/wiki/Anglai
 
 

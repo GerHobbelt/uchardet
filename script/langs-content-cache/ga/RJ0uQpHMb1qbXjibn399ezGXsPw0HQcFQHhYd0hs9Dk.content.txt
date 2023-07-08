@@ -1,5 +1,5 @@
 revision: 1155990
-title: An tSeic
+title: Pardubice
 url: https://ga.wikipedia.org/wiki/An_tSeic
 
 

@@ -1,5 +1,5 @@
 revision: 3274316
-title: Progress M-37
+title: Progress M-M
 url: https://lv.wikipedia.org/wiki/Progress-M
 
 

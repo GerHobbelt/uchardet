@@ -1,5 +1,5 @@
 revision: 34275182
-title: "\uC544\uB9C8\uC874 \uC6F9 \uC11C\uBE44\uC2A4"
+title: "\uC544\uB9C8\uC874 DynamoDB"
 url: https://ko.wikipedia.org/wiki/%EC%95%84%EB%A7%88%EC%A1%B4_%EC%9B%B9_%EC%84%9C%EB%B9%84%EC%8A%A4
 
 

@@ -1,5 +1,5 @@
 revision: 3823814
-title: Roberts Djuvals
+title: The Natural
 url: https://lv.wikipedia.org/wiki/Roberts_Djuvals
 
 

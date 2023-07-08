@@ -1,5 +1,5 @@
 revision: 21629041
-title: Kansas
+title: Wichitan osavaltionyliopisto
 url: https://fi.wikipedia.org/wiki/Kansas
 
 

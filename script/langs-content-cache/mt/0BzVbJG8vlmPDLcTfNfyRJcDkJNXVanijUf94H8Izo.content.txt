@@ -1,5 +1,5 @@
 revision: 282287
-title: "Nouvelle F\xE9d\xE9ration-Board"
+title: Luc Misson
 url: https://mt.wikipedia.org/wiki/Nouvelle_F%C3%A9d%C3%A9ration-Board
 
 

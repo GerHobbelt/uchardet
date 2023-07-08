@@ -1,5 +1,5 @@
 revision: 290829
-title: SK Sturm Graz
+title: Ladislav Jurkemik
 url: https://mt.wikipedia.org/wiki/SK_Sturm_Graz
 
 

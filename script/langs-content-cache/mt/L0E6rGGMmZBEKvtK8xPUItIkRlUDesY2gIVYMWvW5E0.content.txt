@@ -1,5 +1,5 @@
 revision: 281492
-title: Albert Einstein
+title: Photoelectric effect
 url: https://mt.wikipedia.org/wiki/Albert_Einstein
 
 

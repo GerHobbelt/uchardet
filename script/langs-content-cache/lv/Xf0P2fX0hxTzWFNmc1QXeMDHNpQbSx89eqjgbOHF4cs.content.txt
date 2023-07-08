@@ -1,5 +1,5 @@
 revision: 3502020
-title: Synergium
+title: "Lokaliz\u0101cijas"
 url: https://lv.wikipedia.org/wiki/Synergium
 
 

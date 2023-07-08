@@ -1,5 +1,5 @@
-revision: 4528832
-title: Magister militum
+revision: 4529798
+title: "\u0415\u045E\u0445\u0435\u0440\u044B\u0439"
 url: https://be.wikipedia.org/wiki/%D0%A1%D1%82%D1%8B%D0%BB%D1%96%D1%85%D0%BE%D0%BD
 
 
@@ -10,7 +10,7 @@ url: https://be.wikipedia.org/wiki/%D0%A1%D1%82%D1%8B%D0%BB%D1%96%D1%85%D0%BE%D0
 Забіты ў Равене па загаду Ганорыя.
 
 
-== Зноскі ==
+== Заўвагі ==
 
 
 == Літаратура ==

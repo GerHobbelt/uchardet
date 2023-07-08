@@ -1,5 +1,5 @@
 revision: 3341330
-title: Kosmos-2576
+title: Kosmos-2536
 url: https://lv.wikipedia.org/wiki/Kosmos-2516
 
 

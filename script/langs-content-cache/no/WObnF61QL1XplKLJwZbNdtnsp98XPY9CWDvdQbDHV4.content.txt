@@ -1,5 +1,5 @@
 revision: 18677652
-title: Botai
+title: Botia lohachata
 url: https://no.wikipedia.org/wiki/Botia
 
 

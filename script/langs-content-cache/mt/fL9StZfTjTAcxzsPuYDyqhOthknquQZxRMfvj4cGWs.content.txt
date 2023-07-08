@@ -1,5 +1,5 @@
 revision: 282814
-title: UEFA Champions League
+title: Famagusta
 url: https://mt.wikipedia.org/wiki/UEFA_Champions_League
 
 

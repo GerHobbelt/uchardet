@@ -1,5 +1,5 @@
 revision: 5652452
-title: '''s-Hertogenboschi vald'
+title: '''s-Hertogenboschi vapp'
 url: https://et.wikipedia.org/wiki/%27s-Hertogenboschi_vald
 
 

@@ -1,5 +1,5 @@
 revision: 33802690
-title: "\uC9C0\uAD6C"
+title: Avi Shlaim
 url: https://ko.wikipedia.org/wiki/%EC%9A%94%EB%A5%B4%EB%8B%A8%EA%B0%95_%EC%84%9C%EC%95%88_%EC%A7%80%EA%B5%AC
 
 

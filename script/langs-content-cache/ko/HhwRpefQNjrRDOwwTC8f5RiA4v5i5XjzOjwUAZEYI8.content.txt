@@ -1,5 +1,5 @@
 revision: 33512292
-title: "\uC624\uC158\uC2A4"
+title: "\uB85C\uB791 \uB4DC\uBC14\uC2A4"
 url: https://ko.wikipedia.org/wiki/%EC%98%A4%EC%85%98%EC%8A%A4
 
 

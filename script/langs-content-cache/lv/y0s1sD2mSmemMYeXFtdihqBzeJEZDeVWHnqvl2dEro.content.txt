@@ -1,5 +1,5 @@
 revision: 3506210
-title: "Kassalie\u0161i"
+title: Novopole
 url: https://lv.wikipedia.org/wiki/Riebi%C5%86u_novada_ciemu_uzskait%C4%ABjums
 
 

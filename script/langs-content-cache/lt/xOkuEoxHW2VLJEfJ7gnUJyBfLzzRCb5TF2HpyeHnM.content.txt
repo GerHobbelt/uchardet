@@ -1,5 +1,5 @@
 revision: 5009865
-title: Juki-vapo kalbos
+title: Jukiai
 url: https://lt.wikipedia.org/wiki/Juki%C5%B3_kalbos
 
 

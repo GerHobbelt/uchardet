@@ -1,5 +1,5 @@
 revision: 274012
-title: Bavarja
+title: "Markus S\xF6der"
 url: https://mt.wikipedia.org/wiki/Bavarja
 
 

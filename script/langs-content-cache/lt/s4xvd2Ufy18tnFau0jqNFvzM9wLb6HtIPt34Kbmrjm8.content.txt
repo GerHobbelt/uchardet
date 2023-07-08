@@ -1,5 +1,5 @@
 revision: 6676677
-title: "Giedrai\u010Diai (gimin\u0117)"
+title: Juozapas Jonas Giedraitis
 url: https://lt.wikipedia.org/wiki/Giedrai%C4%8Diai_(gimin%C4%97)
 
 

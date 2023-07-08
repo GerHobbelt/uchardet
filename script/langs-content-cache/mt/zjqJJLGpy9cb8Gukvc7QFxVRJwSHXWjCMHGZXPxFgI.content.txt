@@ -1,5 +1,5 @@
 revision: 292070
-title: "Vi\u010Bi President tal-Istati Uniti"
+title: History
 url: https://mt.wikipedia.org/wiki/Stati_Uniti
 
 

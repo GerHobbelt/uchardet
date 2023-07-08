@@ -1,5 +1,5 @@
 revision: 289999
-title: "Lingwa Ingli\u017Ca"
+title: "Ingli\u017C"
 url: https://mt.wikipedia.org/wiki/Lingwa_Ingli%C5%BCa
 
 

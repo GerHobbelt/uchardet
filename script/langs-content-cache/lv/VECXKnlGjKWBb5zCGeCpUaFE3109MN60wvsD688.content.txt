@@ -1,5 +1,5 @@
 revision: 3084571
-title: Kosmos-2594
+title: Kosmos-2502
 url: https://lv.wikipedia.org/wiki/Kosmos-2501
 
 

@@ -1,5 +1,5 @@
 revision: 35086476
-title: "\uBCF4\uC644\uB300\uCCB4 \uC758\uC0AC\uC18C\uD1B5"
+title: Teaching Exceptional Children
 url: https://ko.wikipedia.org/wiki/%EB%B3%B4%EC%99%84%EB%8C%80%EC%B2%B4_%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5
 
 

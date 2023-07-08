@@ -1,5 +1,5 @@
 revision: 3783132
-title: "Plat\u012Bba"
+title: Virsmas laukums
 url: https://lv.wikipedia.org/wiki/Laukums
 
 

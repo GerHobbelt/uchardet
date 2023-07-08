@@ -1,5 +1,5 @@
 revision: 1086359
-title: Charles Manson
+title: Vincent Bugliosi
 url: https://ga.wikipedia.org/wiki/Charles_Manson
 
 

@@ -1,5 +1,5 @@
 revision: 6385427
-title: '"Suurt Eestimaa nimistut"'
+title: "\"V\xE4ikest Eestimaa nimistut\""
 url: https://et.wikipedia.org/wiki/13._sajand_Eestis
 
 
