@@ -1195,8 +1195,7 @@ for lang_arg in langs:
                       # It may be an interesting alternative to add another
                       # constant for any character with an order > freqCharCount.
                       # Maybe IRR (irrelevant character) or simply CHR.
-                      CTOM_str += '{:3},'.format('IRR')
-                      n_char += 1
+                      CTOM_str += '{:3},'.format(249)    # min(249, freq_count)
           CTOM_str += ' /* {:X}X */'.format(line)
       CTOM_str += '\n};\n/* '
       CTOM_str += 'X0  X1  X2  X3  X4  X5  X6  X7  X8  X9  XA  XB  XC  XD  XE  XF'
