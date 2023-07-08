@@ -1437,8 +1437,8 @@ for lang_arg in langs:
           else:
               FC_str += "{},".format('IRR')     # invalid_order_nr
 
-  FC_str += '\n};\n\n'
-  c_code += FC_str
+      FC_str += '\n};\n\n'
+      c_code += FC_str
 
   LM_str = 'static const PRUint8 {}CompactedLangModel[]'.format(language_c)
   LM_str += ' =\n{'
@@ -1535,7 +1535,7 @@ for lang_arg in langs:
       SM_str += '\n  {}FCMUpperBound + 1 - {}FCMLowerBound,'.format(language_c, language_c)
       SM_str += '\n  0,'
       SM_str += '\n  0,'
-      SM_str += '\n  NULL,'
+      SM_str += '\n  nullptr,'
   SM_str += '\n  OrderToRatio,'
   SM_str += '\n  {}CompactedLangModel,'.format(language_c)
   SM_str += '\n  {}OrderWidth,'.format(language_c)
