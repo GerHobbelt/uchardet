@@ -55,9 +55,15 @@ typedef struct
 {
   const char*          langName;
 
-  /* Table mapping codepoints to character orders. */
+  /* Table mapping codepoints to character orders encoded as a series of (codepoint, char_order) pairs, sorted by codepoint, ascending. */
   const PRUint32*      charOrderTable;
   int                  charOrderTableSize;
+
+  /* Table mapping Unicode codepoints to chararacter orders: bounds: mapping table has slots for [Lowerbound]..[UpperBound] */
+  int UnicodeCharToOrderMapLowerBound;
+  int UnicodeCharToOrderMapLowerBound;
+  /* Table mapping Unicode codepoints to chararacter orders: lookup is [codepoint - LowerBound], value obtained in char_order index. */
+  const PRUint8* const UnicodeCharToOrderMap;
 
   /* freqCharCount x freqCharCount table of 2-char sequence's frequencies. */
   const PRUint8* const precedenceMatrix;
