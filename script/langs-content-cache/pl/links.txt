@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Jan Piskorski (polityk)
-David Whittaker
-Ugarci (Bośnia i Hercegowina)
-Krupy (województwo lubelskie)
-1925 w filmie
-Henry Carr
-Neurografia
-Masters
-Marie Anne de La Tremoille
-Stanisław Balicki
-Sauczanki (przystanek kolejowy)
-Lake Sarasota
-Na Uralu
-Michał Zieniawa
-Lincoln Capri
-Sosnowa Wola (gmina Gościeradów)
-Baštra
-Al-Minja
-Hanna Wilczyńska-Toczko
-Mennevret
-Skoki narciarskie na ogólnopolskiej olimpiadzie młodzieży
-Stadion Cần Thơ
-Lac de l’Eychauda
-Curtis Cokes
-Wąwóz Homole
-Wei He
-Hamad I ibn Muhammad asz-Szarki
-Jezioro Dobrosułowskie
-Brody (gromada w powiecie sulechowskim)
-The Rest of Pendragon
+Buzd
+MacKay Brook (dopływ East Branch River John)
+Zmiana boisk
+Jean-Claude Gayssot
+Zaraza macierzankowa
+Arkadiusz Pawełczyk
+Skalniczka stokowa
+Zamek Lombardzki
+Dzieło
+Subwersja (sztuka)
+Micheil Alawidze
+Wikariat apostolski Arabii Północnej
+Flora (żaglowiec)
+Spiczyńce
+Kruševo (Republika Serbska)
+Bolesław Andrzejewski
+Placówka Kontrolna Małego Ruchu Granicznego Chochołów
+Tadeusz Socha (piłkarz)
+Ahasver von Lehndorff
+Brygada Lotnictwa Marynarki Wojennej
+Deus ex machina (ujednoznacznienie)
+Bruno Götze
+Ríkarður Jónsson
+U.S. International Classic 2017
+Monaster Smolny
+Centrum Kultury i Biblioteka Publiczna Gminy Słupsk
+William Pryor Letchworth
+Jana Sorgers
+Wojny śląskie
+Šikulje (kanton tuzlański)
 &Twice
 (1) Ceres
 (10140) Villon
@@ -101,6 +101,7 @@ The Rest of Pendragon
 (145452) 2005 RN43
 (15760) Albion
 (164207) 2004 GU9
+(16522) Tell
 (174567) Varda
 (19521) Chaos
 (19664) Yancey
@@ -455,6 +456,7 @@ The Rest of Pendragon
 19 września
 1917 (film)
 1925 w filmie
+1929 w sztukach plastycznych
 1945 w literaturze
 1947 NBA Draft
 1948 NBA Draft
@@ -1106,6 +1108,7 @@ The Rest of Pendragon
 65 Pułk Artylerii Lekkiej (II RP)
 65 Starogardzki Pułk Piechoty
 65 mm armata górska mle 1906
+66 (gra karciana)
 66 Kaszubski Pułk Piechoty
 67 Dywizjon Artylerii Lekkiej
 67 Pułk Piechoty (II RP)
@@ -1390,6 +1393,7 @@ Abby Hughes
 Abchazja
 Abd al-Aziz Buteflika
 Abd al-Fattah as-Sisi
+Abd al-Karim asz-Szajchli
 Abdat Musa
 Abdolhamed Mirzaali
 Abdollah Riazi
@@ -1486,6 +1490,7 @@ Abuse (internet)
 Abwehrgruppe-301
 Abánades
 Academi
+Acantholochus australiensis
 Acanthurus nigrofuscus
 Acciaiuoli
 Acclaim Entertainment
@@ -1554,6 +1559,7 @@ Adam Bartoš
 Adam Boniecki (heraldyk)
 Adam Burski
 Adam Chadaj
+Adam Chmielewski
 Adam Chmielowski
 Adam Clayton
 Adam Cole (wrestler)
@@ -1613,6 +1619,7 @@ Adam Wodziczko
 Adam Zagajewski
 Adam Zajíček
 Adam Zając (biolog)
+Adam Zejer
 Adam z Bremy
 Adam Łącki
 Adama Coulibaly
@@ -2218,6 +2225,7 @@ Al-Mazra’a (As-Suwajda)
 Al-Mazrufa
 Al-Mazula (Aleppo)
 Al-Ma’amil
+Al-Minja
 Al-Misanna (Afrin)
 Al-Misanna (Al-Bab)
 Al-Misara
@@ -2903,6 +2911,7 @@ Amazing Grace
 Amazon
 Amazonka
 Ambasada Libii w Polsce
+Ambasada Peru w Warszawie
 Ambasadorowie Stanów Zjednoczonych w Wielkiej Brytanii
 Ambazonia
 Amberg
@@ -3126,6 +3135,7 @@ Andrea Meneghin
 Andrea Negroni
 Andrea Petković
 Andrea Pirlo
+Andrea Santarelli
 Andrea Sestini Hlaváčková
 Andrea Temesvári
 Andrea Várkonyi
@@ -3433,6 +3443,7 @@ Anna Pankratowa
 Anna Paquin
 Anna Rupprecht
 Anna Smasznowa
+Anna Terrón i Cusí
 Anna Walentynowicz
 Anna Watkins
 Anna Zaporożanowa
@@ -3542,6 +3553,7 @@ Anthony Salvin
 Anthony Steen
 Anthony Teachey
 Anthony Tudor
+Anthony Wayne
 Antigua i Barbuda
 Antigua i Barbuda na Letnich Igrzyskach Olimpijskich 2012
 Antiquities (Magic: The Gathering)
@@ -3906,6 +3918,7 @@ Arizona
 Arizona Robbins
 Ariège (departament)
 Arjabhata
+Arjun Pandit
 Arka Gdynia (piłka nożna)
 Arka Gdynia (rugby)
 Arkadia (powiat łowicki)
@@ -5210,6 +5223,7 @@ Barham Salih
 Bariera dźwięku (film)
 Bariera geograficzna
 Barierka (Bednary)
+Bariery hybrydowe
 Barik (Syria)
 Barjac (Ariège)
 Bark (gmina)
@@ -5467,6 +5481,7 @@ Battle Born
 Battle Creek (Michigan)
 Battle Royale (Magic: The Gathering)
 Battle for Zendikar
+Battlestar Galactica: Blood & Chrome
 Battuszijja
 Batu Kawan
 Batumi
@@ -5584,6 +5599,7 @@ Bańgów (gmina)
 Bańka spekulacyjna w Japonii
 Baśnie (komiks)
 Başak Eraydın
+Baštra
 Bażant zwyczajny
 Bażantarnia (Bugaj)
 Ba’aj
@@ -5951,6 +5967,7 @@ Bestwina (gmina)
 Beszcz
 Besòs
 Beta (Magic: The Gathering)
+Beta Circini
 Betchat
 Beth Phoenix
 Bethanie Mattek-Sands
@@ -5960,6 +5977,7 @@ Betlanovce
 Betlejem
 Betlejemskie Światło Pokoju
 Beton
+Beton wałowany
 Betrayers of Kamigawa
 Betsi Flin
 Betsi Flint
@@ -6035,6 +6053,7 @@ Biandronno
 Biarritz
 Biathlon
 Biathlon na Zimowych Igrzyskach Azjatyckich 1990
+Biathlon na Zimowych Igrzyskach Azjatyckich 2011
 Biathlon na Zimowych Igrzyskach Olimpijskich 1984
 Biathlon na Zimowych Igrzyskach Olimpijskich 1988
 Biathlon na zimowych igrzyskach olimpijskich
@@ -6245,6 +6264,7 @@ Bieszczadzka Kolejka Leśna
 Bieszczadzki Park Narodowy
 Bieszczadzkie Anioły
 Bieszczadzkie Spotkania ze Sztuką „Rozsypaniec”
+Biełosława
 Biełsat TV
 Bieńczyce (Kraków)
 Bieżeństwo
@@ -6357,6 +6377,7 @@ Biocenoza
 Biochemiczna kaskada
 Biofilm
 Biografia
+Bioherma
 Bioinżynieria
 Biologia
 Biologia molekularna
@@ -6626,6 +6647,7 @@ Blatnice (powiat Třebíč)
 Blaškovec
 Blaževdol
 Blažkov (powiat Zdziar nad Sazawą)
+Blender (magazyn)
 Blenheim Palace
 Blichowo (gromada)
 Blinjska Greda
@@ -6741,6 +6763,7 @@ Bobrowniki nad Radomką (gmina)
 Bobrowy Dom
 Bobry (Niskie Wielkie)
 Bobry (gmina Ełk)
+Bobryćka Bolarka
 Bobrůvka (powiat Zdziar nad Sazawą)
 Bobsleje
 Boby-Wieś
@@ -6821,6 +6844,7 @@ Bogdašić (Chorwacja)
 Boginka
 Bogoria (powiat staszowski)
 Bogota
+Boguchwał (herb szlachecki)
 Boguchwała
 Boguchwała (gmina)
 Boguchwała (gromada)
@@ -7315,6 +7339,7 @@ Breg pri Temenici
 Breg pri Zagradcu
 Bregano
 Breitenbach am Herzberg
+Breitenfurt bei Wien
 Breithorn (Alpy Berchtesgadeńskie)
 Brema
 Brenda Fricker
@@ -7373,6 +7398,7 @@ Brico Dépôt
 Bridge Street
 Bridge over Troubled Water (album Simona & Garfunkela)
 Bridge over Troubled Water (piosenka)
+Bridgertonowie (cykl książkowy)
 Bridgestone
 Bridgestone Doubles Championships 1979
 Bridget Moynahan
@@ -7448,6 +7474,7 @@ Brodowce
 Brodowe Łąki (gromada 1954–1959)
 Brodowe Łąki (gromada 1961–1972)
 Brodowo (Giże)
+Brody (gromada w powiecie sulechowskim)
 Brodziszów (gmina)
 Brodziszów (gromada)
 Brokeback
@@ -9209,6 +9236,7 @@ Charles Townes
 Charles Traoré
 Charles Wheatstone
 Charles Wills
+Charles Winder
 Charles Wright
 Charles Yorke
 Charles and Ray Eames
@@ -9678,6 +9706,7 @@ Chris Menges
 Chris Monroe
 Chris Mullin
 Chris Paul
+Chris Poland
 Chris Porter (koszykarz)
 Chris Terrio
 Chris Von Erich
@@ -11137,6 +11166,7 @@ Culiseta
 Cullen Jones
 Culpiu
 Culver City
+Cumandá
 Cumberland Posey
 Cumbia rap
 Cunardo
@@ -11152,6 +11182,7 @@ Curly Putman
 Curly coated retriever
 Cursa de Bombers
 Curt Gowdy Media Award
+Curtis Cokes
 Curtis Mayfield
 Curtiss-Wright XF-87 Blackhawk
 Cuszima
@@ -11709,6 +11740,7 @@ Dallas Shirley
 Dallas Stars
 Dallas-Fort Worth Film Critics Association
 Dalmacja
+Dalzell
 Dama (Aleppo)
 Dama (Syria)
 Dama z gronostajem
@@ -12000,6 +12032,7 @@ David Von Erich
 David Walsh
 David Walters
 David Watkin
+David Whittaker
 David de Gea
 David di Donatello
 David „Honeyboy” Edwards
@@ -12196,6 +12229,7 @@ Delimitacja
 Delina Boshoff
 Della Rovere
 Della Scala
+Delley-Portalban
 Delling
 Delme
 Delos
@@ -12223,6 +12257,7 @@ Demokracja
 Demokracja ludowa
 Demokracja parlamentarna
 Demokracja szlachecka
+Demokratyczna Republika Gruzji
 Demokratyczna Republika Konga
 Demokratyczna Republika Konga na Letnich Igrzyskach Olimpijskich 2012
 Demokratyzm
@@ -12304,6 +12339,7 @@ Depozyt (powieść)
 Depresja (choroba)
 Depresja (geografia)
 Deptford
+Deptford (ujednoznacznienie)
 Deputowany
 Der Bulle von Tölz
 Der Club der grünen Witwen
@@ -12507,6 +12543,7 @@ Diecezja włocławska
 Diecezja łódzko-poznańska
 Diecezja śląsko-łódzka
 Diecezja świdnicka
+Diego Campos
 Diego Capel
 Diego Maradona
 Diego Mariño
@@ -12911,6 +12948,7 @@ Dolna Kanada
 Dolna Saksonia
 Dolnik (województwo dolnośląskie)
 Dolny Taras (Bydgoszcz)
+Dolny Wielbłąd
 Dolny Śląsk
 Dolná Lehota (powiat Brezno)
 Dolní Dunajovice
@@ -14849,6 +14887,7 @@ Działoszyce (gmina)
 Działoszyn
 Działy (Glichów)
 Dzidzileyla
+Dzidzitata
 Dziechlino
 Dzieciniec
 Dziecinów (powiat otwocki)
@@ -15488,6 +15527,7 @@ Edward III
 Edward III (sztuka)
 Edward J. Hickox
 Edward Kosiński
+Edward Koziński
 Edward Maufe
 Edward Mills Purcell
 Edward Norwich
@@ -15544,6 +15584,7 @@ Efekt cieplarniany
 Efekt dynatronowy
 Efekt fotoelektryczny
 Efekt leniwej baterii
+Efekt mezomeryczny
 Efekt pamięci
 Efekt św. Mateusza
 Efford
@@ -15627,6 +15668,7 @@ Ekspansja języków indoeuropejskich
 Ekspedycja 47
 Eksperyment
 Eksperymenty medyczne i pseudomedyczne w Auschwitz
+Ekspiacja
 Eksploatacja
 Eksplozja kambryjska
 Eksplozja na moście Krymskim
@@ -16507,6 +16549,7 @@ Eutymiusz I (patriarcha Jerozolimy)
 Eutymiusz II (patriarcha Jerozolimy)
 Euzebiusz Fert
 Euzebiusz z Cezarei
+Euzebiusz z Doryleum
 Eva Birnerová
 Eva Doležalová (lekkoatletka)
 Eva Dyrberg
@@ -16850,6 +16893,7 @@ Fałkowo
 Fałków
 Fałszerstwo
 Fałszywe Folio
+Fața Motrului
 Faʻafafine
 Fdb.pl
 Fearless (album Taylor Swift)
@@ -17183,6 +17227,7 @@ Finnmark
 Finowie
 Fintice
 Fiodor Dostojewski
+Fiodor Rumynski
 Fiolet krystaliczny
 Fiona Ferro
 Fiorello La Guardia
@@ -17635,6 +17680,7 @@ Fran Mérida
 Fran Vázquez
 Franc Pierchorowicz
 Franc Rodé
+Franca Rame
 Francaltroff
 Frances Conroy
 Frances Pomeroy Naismith Award
@@ -19001,6 +19047,7 @@ Germanizm
 Germignaga
 Germigny-l’Exempt
 Germinal Beerschot
+Germán Cobos
 Germán Pezzella
 Gero (arcybiskup Kolonii)
 Geroldshausen (Bawaria)
@@ -19126,6 +19173,7 @@ Gil Halstead
 Gil Torres
 Gilberto Silva
 Giles Gilbert Scott
+Gilles Godefroy
 Gilles Müller
 Gillespie, Kidd & Coia
 Gillette Stadium
@@ -19445,6 +19493,7 @@ Gmina Krustpils
 Gmina Krzynowłoga Mała
 Gmina Krško
 Gmina Kuldyga
+Gmina Käina
 Gmina Kārsava
 Gmina Lielvārde
 Gmina Limbaži
@@ -19539,6 +19588,7 @@ Gmina Zemunik Donji
 Gmina Zilupe
 Gmina górnicza
 Gmina miejska
+Gmina miejska Ptuj
 Gmina miejsko-wiejska
 Gmina obwarzankowa
 Gmina wiejska
@@ -19754,6 +19804,7 @@ Gorce
 Gorczański Park Narodowy
 Gordius z Jerozolimy
 Gordon Banks
+Gordon Gould
 Gordon Pirie
 Gordon Solie
 Gorenja vas (gmina Ivančna Gorica)
@@ -21063,6 +21114,7 @@ Główny układ zgodności tkankowej
 Główny zbiornik wód podziemnych
 Głębia Challengera
 Głęboczek (województwo zachodniopomorskie)
+Głęboczek (Żagno)
 Głębokie (powiat drawski)
 Głębokość zanurzenia okrętu podwodnego
 Gənclik Navahı
@@ -21245,6 +21297,7 @@ Halvor Næs
 Halwijja
 Ham (Plymouth)
 Hama Kabir
+Hamad I ibn Muhammad asz-Szarki
 Hamad Ndikumana
 Hamamatsu
 Hamari Traoré
@@ -21316,6 +21369,7 @@ Hanna Falk
 Hanna Mizgajska
 Hanna Reitsch
 Hanna Rudzka-Cybis
+Hanna Wilczyńska-Toczko
 Hannah Stewart
 Hannes Arch
 Hanningfield Green
@@ -21717,6 +21771,7 @@ Henri de Baillet-Latour
 Henri de Dion
 Henrieta Nagyová
 Henrietta Adelajda Sabaudzka
+Henry Carr
 Henry Cavill
 Henry Condell
 Henry Dreyer
@@ -22350,6 +22405,7 @@ Historyczny zespół miasta Poznania
 Historyzm (architektura)
 Historyzm w Niemczech
 Hiszpania
+Hiszpania na Letnich Igrzyskach Olimpijskich 1932
 Hiszpania na Letnich Igrzyskach Olimpijskich 2012
 Hiszpanie
 Hiszpańska Biblioteka Narodowa
@@ -22686,6 +22742,7 @@ Hrabstwo Leelanau
 Hrabstwo Lenawee
 Hrabstwo Livingston (Michigan)
 Hrabstwo Los Angeles
+Hrabstwo Louisa
 Hrabstwo Luce
 Hrabstwo Mackinac
 Hrabstwo Macomb
@@ -22884,6 +22941,7 @@ Hurbóż
 Huron (jezioro)
 Hurones
 Hurricanes (Super Rugby)
+Hurt (polski zespół muzyczny)
 Hurt (utwór Nine Inch Nails)
 Hurtova Lhota
 Husajn asz-Szafi’i
@@ -23153,6 +23211,7 @@ I liga polska w rugby (2008/2009)
 I liga północnomacedońska w piłce nożnej mężczyzn
 I liga rumuńska w piłce nożnej mężczyzn
 I liga słowacka w piłce nożnej mężczyzn
+I liga urugwajska w piłce nożnej (1968)
 I najazd mongolski na Polskę
 I rozbiór Polski
 I sekretarze KC PZPR
@@ -23270,6 +23329,7 @@ Ibbin Siman
 Ibeas de Juarros
 Iberyjska Federacja Anarchistyczna
 Ibn al-Nadim
+Ibrahim Abdul Razak
 Ibrahim Afellay
 Ibrahimijja
 Ibrillos
@@ -23480,6 +23540,7 @@ Imre Hollai
 Imre Németh (lekkoatleta)
 Imre Thököly
 Imtan
+In Awe
 In Extremis
 In Japan!
 In My Life (singel Ozzy'ego Osbourne'a)
@@ -24428,6 +24489,7 @@ Jadwiga z Wesseksu
 Jadwiga Śląska
 Jadwisin (Podlesie)
 Jadów
+Jafrem Sakałou
 Jagdgeschwader 1 (1917–1918)
 Jagdgeschwader 5
 Jagdgeschwader 53
@@ -24645,6 +24707,7 @@ Jan (syn Ludwika VIII Lwa)
 Jan A.P. Kaczmarek
 Jan Abezier
 Jan Albert Waza
+Jan Andrzej Głogowski
 Jan Andrzej Morsztyn
 Jan Anioła
 Jan Antoszkiewicz
@@ -24789,6 +24852,7 @@ Jan Patočka
 Jan Paweł II
 Jan Paweł Woronicz
 Jan Piotr Norblin
+Jan Piskorski (polityk)
 Jan Piłsudski
 Jan Pokeršnik
 Jan Pospieszalski
@@ -25641,6 +25705,7 @@ Jezioro (Łazisko)
 Jezioro Aralskie
 Jezioro Barlineckie
 Jezioro Der-Chantecoq
+Jezioro Dobrosułowskie
 Jezioro Górne
 Jezioro Jezuickie
 Jezioro Jezuickie Małe
@@ -28244,7 +28309,9 @@ Kikół
 Kilianów
 Kilikia Erywań
 Kilimany
+Kilkivan
 Killa Hakan
+Killers
 Killing Me Softly with His Song
 Kilobajt
 Kilogram
@@ -28436,6 +28503,7 @@ Klasyfikacja miejscowości w Polsce
 Klasyfikacja minerałów Strunza
 Klasztor
 Klasztor Bernardynów w Bydgoszczy
+Klasztor Kapucynów w Prudniku
 Klasztor Karmelitów Bosych w Czernej
 Klasztor Karmelitów w Bydgoszczy
 Klasztor Klarysek w Bydgoszczy
@@ -29023,6 +29091,7 @@ Komisja Europejska
 Komisja Heraldyczna
 Komisja Kolonizacyjna
 Komisja Ochrony Środowiska Morskiego Bałtyku
+Komisja Specjalna do Walki z Nadużyciami i Szkodnictwem Gospodarczym
 Komisja Standaryzacji Nazw Geograficznych poza Granicami Rzeczypospolitej Polskiej
 Komisja Ustalania Nazw Miejscowości
 Komisja parlamentarna
@@ -29997,6 +30066,7 @@ Kościół św. Anny w Rogowie
 Kościół św. Antoniego Padewskiego w Gnojnie
 Kościół św. Antoniego w Dąbrowie Górniczej
 Kościół św. Antoniego z Padwy w Chorzowie
+Kościół św. Apostołów Szymona i Judy Tadeusza w Kołaczkowie
 Kościół św. Barbary w Chorzowie
 Kościół św. Barbary w Dołdze
 Kościół św. Barbary w Dąbrowie Górniczej
@@ -30284,6 +30354,7 @@ Krobielowice
 Krobusz
 Krocze
 Kroczyce (gmina)
+Krocząc wśród cieni
 Krok (władca Czech)
 Krokiet (gra)
 Krokiet na letnich igrzyskach olimpijskich
@@ -30332,6 +30403,7 @@ Krumvíř
 Krupe (gromada)
 Krupski Młyn (gmina)
 Krupski Młyn (gromada)
+Krupy (województwo lubelskie)
 Krusze (województwo warmińsko-mazurskie)
 Kruszewiec (województwo warmińsko-mazurskie)
 Kruszewnia (województwo wielkopolskie)
@@ -30740,6 +30812,7 @@ Księstwo oświęcimskie
 Księstwo pomorskie
 Księstwo siewierskie
 Księstwo strzeleckie
+Księstwo trembowelskie
 Księstwo włodzimierskie
 Księstwo zatorskie
 Księstwo ziębickie
@@ -31064,6 +31137,7 @@ Kwiatkowice (Kraśnik)
 Kwiatkowo (województwo mazowieckie)
 Kwiatkowo k. Duczymina
 Kwiatoniów
+Kwiatownik żółtorzytny
 Kwiatuszki Małe
 Kwiatuszki Wielkie
 Kwiatów
@@ -31324,6 +31398,7 @@ Labrador (region)
 Labrador Retriever (singel)
 Labrador retriever
 Lac de Neuchâtel
+Lac de l’Eychauda
 Lacave (Ariège)
 Lachowo
 Lacka Buda
@@ -31379,6 +31454,7 @@ Lake Elmo
 Lake Hughes
 Lake Los Angeles
 Lake Placid
+Lake Sarasota
 Lake Tanganyika Stadium
 Lake Torpedo Boat Company
 Lakeshore Entertainment
@@ -31634,6 +31710,7 @@ Latynos
 Latynosi
 Laucha (Hörsel)
 Laudert
+Laukahi
 Launcelot Brown
 Laura Asadauskaitė
 Laura Ballinger
@@ -31969,6 +32046,7 @@ Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2008 – rzut młotem mężczyz
 Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2012
 Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2012 – rzut młotem mężczyzn
 Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2016 – rzut młotem mężczyzn
+Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2016 – siedmiobój kobiet
 Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2020
 Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2020 – rzut młotem mężczyzn
 Lekkoatletyka na Letniej Uniwersjadzie 1959
@@ -32181,6 +32259,7 @@ Lesůňky
 Let It Be
 Let It Die (singel Ozzy’ego Osbourne’a)
 Let Me Hear You Scream
+Let Us Pray
 Letanovce
 Letni pałac arcybiskupi w Bratysławie
 Letnia Uniwersjada 1979
@@ -32408,6 +32487,7 @@ Lidzbark Warmiński
 Lidzbark Warmiński (gmina wiejska)
 Liechtenstein
 Liechtenstein na Letnich Igrzyskach Olimpijskich 2012
+Liechtensteiner Fussballverband
 Liechtensteinowie
 Lienz
 Liesek (przystanek kolejowy)
@@ -32573,6 +32653,7 @@ Lin-Manuel Miranda
 Lina Krasnorucka
 Linarczyk
 Linas Banys
+Lincoln Capri
 Lincoln Near-Earth Asteroid Research
 Lincoln Park (Michigan)
 Linda Blair
@@ -33584,6 +33665,7 @@ Liquigas-Doimo
 Liryka
 Lis rudy
 Lis srebrny
+Lis stepowy
 Lis-Kula (pociąg pancerny)
 Lisa Carrington
 Lisa Demetz
@@ -34308,6 +34390,7 @@ Lubkowo (powiat bytowski)
 Lublana
 Lublin
 Lublin (KL)
+Lublin Airport
 Lubliniec
 Lubmin
 Lubniewice
@@ -34368,6 +34451,7 @@ Luchino Visconti (senior Mediolanu)
 Luché-Thouarsais
 Lucia Valerio
 Lucian Mureşan
+Luciana (Hiszpania)
 Luciana Masante
 Lucianna z Rochefort
 Luciano Pavarotti
@@ -34620,6 +34704,7 @@ Luxembourg Open 2019
 Luzaga
 Luzay
 Luzón
+Luís Vinício
 Lučany nad Nisou
 Lučarjev Kal
 Lučice (Czechy)
@@ -35264,6 +35349,7 @@ Mame Biram Diouf
 Mamlicz
 Mamo tyś płakała
 Mamolar
+Mamou
 Mamoutou N’Diaye
 Mamry
 Mamuna
@@ -35669,6 +35755,7 @@ Mariawityzm
 Mariańskie Porzecze
 Mariańskie Porzecze (gromada)
 Maribor
+Marie Anne de La Tremoille
 Marie Dorin Habert
 Marie François Xavier Bichat
 Marie Louise of Bourbon-Parma
@@ -35840,6 +35927,7 @@ Marma al-Hadżar
 Marmaras
 Marmur
 Marnate
+Marne (Iowa)
 Maroilles
 Maroko
 Maroko na Letnich Igrzyskach Olimpijskich 2012
@@ -36122,6 +36210,7 @@ Master of Ceremony
 Mastercard
 Mastering
 Mastermind (gra planszowa)
+Masters
 Masters Edition
 Masters Edition II
 Masters Edition III
@@ -36873,6 +36962,7 @@ Menetou-Couture
 Mengálvio
 Menhartice
 Mennetou-sur-Cher
+Mennevret
 Mennica
 Mennica w Bydgoszczy
 Mennonici
@@ -37263,6 +37353,7 @@ Michaił Gorbaczow
 Michaił Iowczuk
 Michaił Kaufman
 Michaił Kriwonosow
+Michaił Marczuk
 Michaił Miszustin
 Michaił Tal
 Michaił Tuchaczewski
@@ -37309,6 +37400,7 @@ Michał Kubiak (siatkarz)
 Michał Kądzioła
 Michał Laskowski (biochemik)
 Michał Lipcsey-Steiner
+Michał Lisiecki
 Michał Mikołajczak
 Michał Pawlicki
 Michał Pazdan
@@ -37334,6 +37426,7 @@ Michał Winiarski
 Michał Wołodyjowski
 Michał Zalewski
 Michał Zdzichowski
+Michał Zieniawa
 Michał z Ceseny
 Michał Żurek
 Michałkowice
@@ -37655,6 +37748,7 @@ Mikroprocesor
 Mikroregion
 Mikroregion Feira de Santana
 Mikroregion Pirapora
+Mikroregion Três Lagoas
 Mikrosekunda
 Mikroskop
 Mikroskop elektronowy
@@ -38163,6 +38257,7 @@ Mistrzostwa Europy w Piłce Siatkowej Mężczyzn 2015
 Mistrzostwa Europy w Piłce Siatkowej Mężczyzn 2017
 Mistrzostwa Europy w Piłce Siatkowej Mężczyzn 2019
 Mistrzostwa Europy w Piłce Siatkowej Mężczyzn 2021
+Mistrzostwa Europy w Podnoszeniu Ciężarów 1930
 Mistrzostwa Europy w Podnoszeniu Ciężarów 2009
 Mistrzostwa Europy w Pływaniu 2020
 Mistrzostwa Europy w Pływaniu 2022
@@ -39062,6 +39157,7 @@ Moncalvillo
 Monceau-Saint-Waast
 Moncourt
 Mondorf-les-Bains
+Mondragón
 Mondéjar
 Monera (biologia)
 Moneta
@@ -39079,6 +39175,7 @@ Monica Niculescu
 Monica Puig
 Monica Seles
 Monika Bejnar
+Monika Bociąga-Jasik
 Monika Choděrová
 Monika Drybulska
 Monika Matowska
@@ -39913,6 +40010,7 @@ Myxococcia
 Myśla (dopływ Bugu)
 Myślenice
 Myślibórz
+Myślidar
 Myśliwiec (wieś)
 Myślęcin (województwo wielkopolskie)
 Myślęcinek (Bydgoszcz)
@@ -40083,8 +40181,10 @@ NGC 141
 NGC 2429
 NGC 2894
 NGC 3246
+NGC 3803
 NGC 390
 NGC 5882
+NGC 6896
 NGC 6946
 NGC 6948
 NGC 7185
@@ -40118,6 +40218,7 @@ NXT Women’s Tag Team Championship
 NXT: The Great American Bash (2021)
 Na Górze (Poręby)
 Na Przełaj
+Na Uralu
 Na Zachodzie bez zmian (film 2022)
 Na Zamłyniu
 Na dnie w Paryżu i w Londynie
@@ -40272,6 +40373,7 @@ Najdłuższe rzeki świata
 Najdłuższy marsz Billy’ego Lynna
 Najgłębsze jeziora Polski
 Najlepsze lata naszego życia
+Najlepszy Młody Zawodnik PLK
 Najmniejsze miasto Polski
 Najmusy
 Najsilniejsze trzęsienia ziemi w historii
@@ -40506,6 +40608,7 @@ Natolin (powiat miński)
 Natolin (powiat węgrowski)
 Natrix
 Natrix helvetica
+Natunaornis gigoura
 Natura
 Natura 2000
 Naturalny satelita
@@ -40693,6 +40796,7 @@ Neuilly-en-Dun
 Neumarkt (Tyrol Południowy)
 Neung-sur-Beuvron
 Neurochirurgia
+Neurografia
 Neuroinfekcja
 Neurologia
 Neuron
@@ -41039,6 +41143,7 @@ Nikolčice
 Nikon (przedsiębiorstwo)
 Nikos Galis
 Nikołaj Baskow
+Nikołaj Bułganin
 Nikołaj Czernych
 Nikołaj Karamzin
 Nikołaj Przewalski
@@ -41325,6 +41430,7 @@ Novaki Ozaljski
 Novakovec Bisaški
 Novi (Michigan)
 Novo Mjesto
+Novo Selo (gmina Gradiška)
 Novo Selo Podravsko
 Novo Zvečevo
 Novosedly (kraj południowomorawski)
@@ -41544,6 +41650,7 @@ Nowa Zagora
 Nowa Zagość
 Nowa Zelandia
 Nowa Zelandia na Letnich Igrzyskach Olimpijskich 2012
+Nowa Zelandia na Zimowych Igrzyskach Olimpijskich 1968
 Nowa Ziemia (miejscowość)
 Nowa Zienkowizna
 Nowa fala (muzyka)
@@ -41842,6 +41949,7 @@ Obiekty sakralne w Bydgoszczy
 Obiekty użytecznosci publicznej
 Obiektyw szerokokątny
 Obies
+Obihiro
 Objawienie Pańskie
 Objawienie w Gietrzwałdzie
 Objawy negatywne
@@ -42270,6 +42378,7 @@ Off the Wall
 Off the Wall (singel)
 Offa z Esseksu
 Offenberg (gmina)
+Offham (Kent)
 Ofiarowanie Pańskie
 Ofiary wojny rosyjsko-ukraińskiej
 Ofiary zbrodni katyńskiej – zamordowani w Charkowie
@@ -42611,6 +42720,7 @@ Olaf V
 Olaine
 Olancha
 Olang
+Olangchung Gola
 Olaus Magnus
 Olav Bjaaland
 Olav Økern
@@ -43358,6 +43468,7 @@ Osamu Shimomura
 Osan Air Base
 Oscar Alberto Ortiz
 Oscar Cantoni
+Oscar Cruz
 Oscar Garré
 Oscar Gjøslien
 Oscar Niemeyer
@@ -43374,6 +43485,7 @@ Oscar za najlepszą scenografię
 Oscyloskop
 Osdag (biskup Hildesheim)
 Osetia Południowa
+Osetnik
 Osewo
 Oshima (półwysep)
 Osiczki (rejon radomyski)
@@ -44294,6 +44406,7 @@ Parafia św. Józefa Robotnika w Kraśniku
 Parafia św. Józefa Rzemieślnika w Nowej Wsi Ełckiej
 Parafia św. Józefa Rzemieślnika w Robakowie
 Parafia św. Józefa Rzemieślnika w Swarzędzu
+Parafia św. Józefa w Camden
 Parafia św. Józefa w Chorzowie
 Parafia św. Józefa w Puławach
 Parafia św. Józefa w Zaborze
@@ -44535,6 +44648,7 @@ Parski (województwo kujawsko-pomorskie)
 Partecipazio
 Parteniusz (patriarcha Jerozolimy)
 Partenope (1889)
+Parter
 Partia Akcji Demokratycznej
 Partia Centrum (Finlandia)
 Partia Demokratyczna (Japonia)
@@ -45872,6 +45986,7 @@ Philipp Sigismund z Brunszwik
 Philipp von Cobenzl
 Philipp z Katzenelnbogen
 Philippe Barbarin
+Philippe Favre
 Philippe Gilbert
 Philippe Ouédraogo
 Philippe Rousselot
@@ -46130,6 +46245,7 @@ Pietro Rava
 Pietro Serantoni
 Pietro Vierchowod
 Pietrowice
+Pietrowsko-Razumowskaja
 Pietrzykowice (gmina Kąty Wrocławskie)
 Pietrówka (gromada)
 Pietà
@@ -47596,6 +47712,7 @@ Podanie
 Podanie (literatura)
 Podatek dochodowy
 Podatek dochodowy od osób prawnych
+Podatek kwotowy
 Podatek od ponadnormatywnych wypłat wynagrodzeń
 Podatek pogłówny
 Podbagienko
@@ -47802,6 +47919,7 @@ Podział władz
 Podzielnik kosztów
 Podziemia Tarnogórsko-Bytomskie
 Podziemne przejście dla pieszych
+Podziemnica południowa
 Podzwierzyniec (Tarnobrzeg)
 Podčauš
 Poděšín
@@ -48426,6 +48544,7 @@ Port Canaveral
 Port Drzewny w Bydgoszczy
 Port Huron
 Port Lotniczy Gdańsk im. Lecha Wałęsy
+Port Royal (Karolina Południowa)
 Port Vell
 Port lotniczy
 Port lotniczy Al Asad
@@ -48464,6 +48583,7 @@ Port lotniczy Rijad
 Port lotniczy Rzeszów-Jasionka
 Port lotniczy Saint Louis
 Port lotniczy Sauhadż-Mubarak
+Port lotniczy Sefwi Bekwai
 Port lotniczy Shannon
 Port lotniczy Stara Zagora
 Port lotniczy Szardża
@@ -49690,6 +49810,7 @@ Prostopadłość
 Prostownik
 Prostownik selenowy
 Prostytucja
+Prostějov místní nádraží
 Proszowice
 Proszowice (gmina w województwie kieleckim)
 Proszowice (gmina)
@@ -49789,6 +49910,7 @@ Pruszków
 Prva liga Jugoslavije (1951)
 Prwa makedonska fudbałska liga
 Prwa makedonska fudbałska liga (2017/2018)
+Pryma (imię)
 Prymas Polski
 Prymasowski Instytut Kultury Chrześcijańskiej
 Prypeć (rzeka)
@@ -50150,6 +50272,7 @@ Przywilej koszycki
 Przywiśle (Tarnobrzeg)
 Przywory (gmina)
 Przywory (gromada)
+Przywrotnik pospolity
 Przywódcy Korei Północnej
 Przywódcy Libii
 Przyłubie (przystanek kolejowy)
@@ -50253,6 +50376,7 @@ Pszczelarstwo
 Pszczyna
 Pszczyna (gmina)
 Pszczółczyn (gromada)
+Pszczółka
 Pszczółki (stacja kolejowa)
 Pszenica
 Pszonka (gmina)
@@ -50301,6 +50425,7 @@ Puchar CECAFA
 Puchar CEDEAO
 Puchar CEMAC
 Puchar COSAFA
+Puchar Caldera
 Puchar Czech w piłce nożnej
 Puchar Davisa
 Puchar Davisa 2009
@@ -50629,6 +50754,7 @@ Pętla Kujawska
 Pętla Toruńska
 Pęzino (przystanek kolejowy)
 Pěnčín (powiat Jablonec nad Nysą)
+Pınar Deniz
 Płaca
 Płaca minimalna
 Płaczewo (powiat starogardzki)
@@ -50710,6 +50836,7 @@ Pływalnia
 Pływalność
 Pływanie
 Pływanie (sport)
+Pływanie na Letnich Igrzyskach Olimpijskich 1900 – pływanie podwodne
 Pływanie na Letnich Igrzyskach Olimpijskich 2008 – 4 × 100 m stylem dowolnym mężczyzn
 Pływanie na Letnich Igrzyskach Olimpijskich 2008 – 400 m stylem zmiennym mężczyzn
 Pływanie na Letnich Igrzyskach Olimpijskich 2012
@@ -51486,6 +51613,7 @@ Ratusz we Wrocławiu
 Ratyzbona
 Raucourt-au-Bois
 Raugiszki
+Raul Nałęcz-Małachowski
 Raul Rusescu
 Rauman Lukko
 Rauno Miettinen
@@ -51773,6 +51901,7 @@ Reguła prawej dłoni
 Reguła śruby prawoskrętnej
 Reguła św. Franciszka
 Reguły
+Regów Nowy
 Rehab (piosenka Amy Winehouse)
 Rehaupal
 Rehovë
@@ -51796,6 +51925,7 @@ Reinhard Hauke
 Reinhard Lettmann
 Reinhard Marx
 Reinhard Moll
+Reinhold Bartsch
 Reinhold Trampler
 Reino Ragnar Lehto
 Reinoso
@@ -51887,6 +52017,7 @@ Rejon trocki
 Rejon tulczyński
 Rejon uciański
 Rejon umocniony
+Rejon wierchowski
 Rejon wileński
 Rejon winnicki
 Rejon wisagiński
@@ -53098,6 +53229,7 @@ Rokytnice nad Rokytnou
 Rola (gleba)
 Roland Emmerich
 Roland Garros
+Roland Guneš
 Roland Minson
 Roland Weisselberg
 Rolando Blackman
@@ -54321,6 +54453,7 @@ Sadowie (gmina)
 Sadowie (gromada)
 Sadownictwo
 Sadowo (województwo kujawsko-pomorskie)
+Sadun Ghajdan
 Sadurki (gromada)
 Sadykierz (województwo kujawsko-pomorskie)
 Sadłowice (województwo lubelskie)
@@ -54537,6 +54670,7 @@ Salina Kosgei
 Salinillas de Bureba
 Salish Sea
 Saliszowie Nadmorscy
+Sallanches
 Sallent de Nargó
 Sally Field
 Sally Hawkins
@@ -54821,6 +54955,7 @@ Sankcje gospodarcze
 Sankcje międzynarodowe w związku z wojną rosyjsko-ukraińską
 Sankei Shimbun
 Sankha
+Sankt Florian
 Sankt Goar
 Sankt Moritz
 Sankt Niklaus
@@ -54907,6 +55042,7 @@ Santa Cruz de Paniagua
 Santa Cruz de la Salceda
 Santa Cruz de la Sierra (Hiszpania)
 Santa Cruz del Valle Urbión
+Santa Cruz do Escalvado
 Santa Engracia del Jubera
 Santa Eugènia de Berga
 Santa Eulàlia de Riuprimer
@@ -55054,6 +55190,7 @@ Saturday Night Fever: The Original Movie Sound Track
 Saturn
 Satyra
 Saucedilla
+Sauczanki (przystanek kolejowy)
 Saudyjska Agencja Prasowa
 Sauhadż
 Sauhadż (muhafaza)
@@ -55375,6 +55512,7 @@ Semousies
 Semper Femina
 Sen nocy letniej
 Sen zimowy
+Senat Południowej Afryki
 Senat Rzeczypospolitej Polskiej
 Senat Stanów Zjednoczonych
 Senator
@@ -56174,6 +56312,7 @@ Skoki do wody na letnich igrzyskach olimpijskich
 Skoki na trampolinie
 Skoki narciarskie
 Skoki narciarskie na Mistrzostwach Świata Juniorów w Narciarstwie Klasycznym 1998
+Skoki narciarskie na ogólnopolskiej olimpiadzie młodzieży
 Skoki narciarskie na zimowej uniwersjadzie
 Skoki narciarskie na Łotwie
 Skoki przez przeszkody
@@ -56235,6 +56374,7 @@ Skrzypce
 Skrzypieniec
 Skrzypiów
 Skrzyżowanie
+Skrzyżowanie pod Dębem
 Skrýchov u Malšic
 Skuhrov (kraj Wysoczyna)
 Skuhrov (kraj liberecki)
@@ -56332,6 +56472,7 @@ Small Business Administration
 Smardzewo (powiat płocki)
 Smash (serial telewizyjny)
 Smażenie
+Smedstorp
 Smerek (szczyt)
 Smerek (wieś)
 Smile Like You Mean It
@@ -56757,6 +56898,7 @@ Sonic Distribution
 Sonic the Hedgehog 3
 Sonisphere Festival
 Sonja (królowa Norwegii)
+Sonja Wiedemann
 Sonneborn (Turyngia)
 Sonnets from the Crimea (przekład cyklu Adama Mickiewicza)
 Sonny Perdue
@@ -56808,6 +56950,7 @@ Sos sojowy
 Sosna
 Sosna gęstokwiatowa
 Sosna zwyczajna
+Sosnowa Wola (gmina Gościeradów)
 Sosnowica (województwo lubelskie)
 Sosnowiec
 Sosnów (Polska)
@@ -57198,6 +57341,7 @@ Stadion Borg El Arab
 Stadion Centralny Paxtakor w Taszkencie
 Stadion Cheju World Cup
 Stadion Crvena zvezda
+Stadion Cần Thơ
 Stadion Daegu
 Stadion Daejon World Cup
 Stadion Docklands
@@ -57349,6 +57493,7 @@ Staniszcze Wielkie (gromada 1969–1972)
 Staniszewo (województwo pomorskie)
 Stanisław Adam Żurowski
 Stanisław August Poniatowski
+Stanisław Balicki
 Stanisław Barańczak
 Stanisław Bartkowiak
 Stanisław Bobrowski
@@ -57365,6 +57510,7 @@ Stanisław Estreicher
 Stanisław Gall
 Stanisław Gawlikowski
 Stanisław Gawłowski
+Stanisław Goczałkowski
 Stanisław Gościniak
 Stanisław Grochowiak
 Stanisław Głuszcz
@@ -57740,6 +57886,7 @@ Stefan Szelestowski
 Stefan Tonczew
 Stefan Ulbig
 Stefan V węgierski
+Stefan Wicik
 Stefan Wiechecki
 Stefan Wierzbowski (1666–1713)
 Stefan Wittenberg
@@ -57958,6 +58105,7 @@ Stożek Diraca
 Stożek rogówki
 Stożek wypukły
 Strach
+Strach (powieść)
 Strach ma wielkie oczy
 Strachocin (województwo dolnośląskie)
 Strachotín
@@ -57980,6 +58128,7 @@ Strajk generalny (syndykalizm)
 Strajk głodowy
 Strajk scenarzystów w Stanach Zjednoczonych
 Strajk w Żyrardowie (1883)
+Straka
 Strakov
 Stralsund
 Strane (Republika Serbska)
@@ -57998,6 +58147,7 @@ Strategia organizacji
 Strategia życiowa
 Stratford St. Mary
 Stratford-upon-Avon
+Stratis Miriwilis
 Stratosfera
 Straty materialne Polski w czasie II wojny światowej
 Straubing
@@ -58191,6 +58341,7 @@ Studzianki (gromada w powiecie białostockim)
 Studzianki (gromada w powiecie kozienickim)
 Studzianki (gromada w powiecie kraśnickim)
 Studzienica (Zawiszyce)
+Studzienka w Piasecznie
 Studzienki (województwo kujawsko-pomorskie)
 Studénka
 Stupa
@@ -59309,6 +59460,7 @@ Sárvár
 Sázava (kraj Wysoczyna)
 Sázavka
 São Luís
+São Miguel do Guamá
 São Paulo
 São Paulo FC
 Séamus Coleman
@@ -59580,6 +59732,7 @@ Taborzyszcze (rejon radomyski)
 Tabórz
 Tacciana Puczak
 Tachykardia
+Taco Hemingway
 Taczalin
 Tadahira Fujiwara
 Tadao Andō
@@ -60023,6 +60176,7 @@ Tears in Heaven
 Teaser
 Teatr
 Teatr Bolszoj
+Teatr Dramatyczny im. Jerzego Szaniawskiego w Wałbrzychu
 Teatr Járy Cimrmana
 Teatr Kameralny w Bydgoszczy
 Teatr Ludowy w Krakowie
@@ -60511,6 +60665,7 @@ The Promise (singel Girls Aloud)
 The Rakes
 The Raven Shadows
 The Remix Suite
+The Rest of Pendragon
 The Road Warriors
 The Rock ’n’ Roll Express
 The Rolling Stones
@@ -61247,6 +61402,7 @@ Toto Ltd.
 Tottenham Hotspur F.C.
 Tottori
 Touch (piosenka The Supermes)
+Touch and Go
 Touchay
 Toulouse Business School
 Tour DuPont
@@ -62035,6 +62191,7 @@ Turniczka Chałubińskiego
 Turniej Ośmiu Narodów U20
 Turniej UEMOA
 Turno (gmina)
+Turno (osada w województwie lubelskim)
 Turnov
 Turntablizm
 Turobin
@@ -62438,6 +62595,7 @@ USS Dolphin (AGSS-555)
 USS Dolphin (SS-169)
 USS G-1 (SS-19½)
 USS G-4 (SS-26)
+USS Gilmer
 USS Glenard P. Lipscomb (SSN-685)
 USS Halibut (SSGN-587)
 USS Harry S. Truman (CVN-75)
@@ -62555,6 +62713,7 @@ Uettingen
 Uffenheim
 Uganda
 Uganda na Letnich Igrzyskach Olimpijskich 2012
+Ugarci (Bośnia i Hercegowina)
 Ugiertowo
 Ugo Locatelli
 Ugoda (województwo kujawsko-pomorskie)
@@ -62675,6 +62834,7 @@ Ulica Stary Port w Bydgoszczy
 Ulica Stefana Batorego w Bydgoszczy
 Ulica Szubińska w Bydgoszczy
 Ulica Tadeusza Kościuszki w Sanoku
+Ulica Tadeusza Pawlikowskiego w Krakowie
 Ulica Tarnogórska w Gliwicach
 Ulica Teodora Kalidego w Chorzowie
 Ulica Toruńska w Bydgoszczy
@@ -62821,6 +62981,7 @@ Unia personalna
 Unia polsko-litewska
 Unia w Krewie
 Unici
+Unieboż
 Uniejowice
 Uniejów
 Uniejów (gmina)
@@ -63139,6 +63300,7 @@ Uwe Nogga
 Uwolnić orkę 2
 Uwłaszczenie chłopów
 Uwłaszczenie nomenklatury
+Uxbridge (Kanada)
 Uza (singel)
 Uzależnienie (film)
 Uzarzewo
@@ -63734,6 +63896,7 @@ Vladimír Maška
 Vladimír Menšík
 Vladimír Pospíšil
 Vladimír Vašek
+Vladimír Čech (reżyser)
 Vladimíra Racková
 Vladislav
 Vladislav Ermilov
@@ -63768,6 +63931,7 @@ Volksparkstadion
 Volkswagen
 Volkswagen Amarok
 Volkswagen Group
+Vollmersweiler
 Voltaire
 Volver
 Volvo Car Corporation
@@ -63871,6 +64035,7 @@ W rytmie hip-hopu
 W stepie szerokim (pieśń)
 W upalną noc
 W.H. Auden
+WASP-28 b
 WB-10
 WHiH NewsFront
 WMPD Rugby Olsztyn
@@ -64398,6 +64563,7 @@ Ween: The Prophecy
 Weezer
 Weganizm
 Wehrmacht
+Wei He
 Weichbild
 Weiden in der Oberpfalz
 Weihai
@@ -64853,6 +65019,7 @@ Wiesław Pałczyński
 Wiesław Perszke
 Wiesław Piotrowski
 Wiesław Skrzydło
+Wiesław Theiss
 Wiesław Wojtkuński
 Wietnam
 Wietnam Północny
@@ -65256,6 +65423,7 @@ Windsor Green
 Windykajmy
 Windyki (gromada)
 Winfield House
+Winful Cobbinah
 Wing Chun
 Wing Commander (seria)
 Winian żelaza
@@ -66204,6 +66372,8 @@ Wybory parlamentarne w Islandii w 1933 roku
 Wybory parlamentarne w Islandii w 1934 roku
 Wybory parlamentarne w Islandii w 1937 roku
 Wybory parlamentarne w Izraelu w 1965 roku
+Wybory parlamentarne w Izraelu w 2013 roku
+Wybory parlamentarne w Izraelu w 2020 roku
 Wybory parlamentarne w Japonii w 2009 roku
 Wybory parlamentarne w Polsce w 1947 roku
 Wybory parlamentarne w Polsce w 1989 roku
@@ -66504,6 +66674,7 @@ Wyspy Szczurze
 Wyspy Świętego Tomasza i Książęca
 Wyspy Świętego Tomasza i Książęca na Letnich Igrzyskach Olimpijskich 2012
 Wystawa (Tarnobrzeg)
+Wystawa przemysłowa w Poznaniu (1908)
 Wystawa światowa
 Występ (województwo kujawsko-pomorskie)
 Występ (województwo warmińsko-mazurskie)
@@ -66701,6 +66872,7 @@ Wątrobiak zarodkowy
 Wąwolnica (gmina)
 Wąwolnica (gromada)
 Wąwolnica (powiat puławski)
+Wąwóz Homole
 Wąż Eskulapa
 Wąż morski (kryptozoologia)
 Wētā FX
@@ -68866,6 +69038,7 @@ zimowe igrzyska olimpijskie
 Åbo Akademi
 Åseda
 Çlirim Hoxha
+Çubuk
 Çıraqqala Siyəzən
 Échallon
 Éclaibes
@@ -69108,6 +69281,7 @@ zimowe igrzyska olimpijskie
 Łopiennik Górny (gmina)
 Łopiennik Górny (gromada)
 Łopuchowo (gromada)
+Łopuszany
 Łopuszno
 Łopuszno (gmina)
 Łora Jakowlewa
@@ -70014,6 +70188,7 @@ zimowe igrzyska olimpijskie
 (145452) 2005 RN43
 (15760) Albion
 (164207) 2004 GU9
+(16522) Tell
 (174567) Varda
 (19521) Chaos
 (19664) Yancey
@@ -70368,6 +70543,7 @@ zimowe igrzyska olimpijskie
 19 września
 1917 (film)
 1925 w filmie
+1929 w sztukach plastycznych
 1945 w literaturze
 1947 NBA Draft
 1948 NBA Draft
@@ -71019,6 +71195,7 @@ zimowe igrzyska olimpijskie
 65 Pułk Artylerii Lekkiej (II RP)
 65 Starogardzki Pułk Piechoty
 65 mm armata górska mle 1906
+66 (gra karciana)
 66 Kaszubski Pułk Piechoty
 67 Dywizjon Artylerii Lekkiej
 67 Pułk Piechoty (II RP)
@@ -71303,6 +71480,7 @@ Abby Hughes
 Abchazja
 Abd al-Aziz Buteflika
 Abd al-Fattah as-Sisi
+Abd al-Karim asz-Szajchli
 Abdat Musa
 Abdolhamed Mirzaali
 Abdollah Riazi
@@ -71399,6 +71577,7 @@ Abuse (internet)
 Abwehrgruppe-301
 Abánades
 Academi
+Acantholochus australiensis
 Acanthurus nigrofuscus
 Acciaiuoli
 Acclaim Entertainment
@@ -71467,6 +71646,7 @@ Adam Bartoš
 Adam Boniecki (heraldyk)
 Adam Burski
 Adam Chadaj
+Adam Chmielewski
 Adam Chmielowski
 Adam Clayton
 Adam Cole (wrestler)
@@ -71526,6 +71706,7 @@ Adam Wodziczko
 Adam Zagajewski
 Adam Zajíček
 Adam Zając (biolog)
+Adam Zejer
 Adam z Bremy
 Adam Łącki
 Adama Coulibaly
@@ -71799,6 +71980,7 @@ Aguilar de Segarra
 Aguilera
 Agustín Canobbio
 Agustín Rogel
+Ahasver von Lehndorff
 Ahigal
 Ahmad Hasan al-Bakr
 Ahmad Jamal
@@ -72817,6 +72999,7 @@ Amazing Grace
 Amazon
 Amazonka
 Ambasada Libii w Polsce
+Ambasada Peru w Warszawie
 Ambasadorowie Stanów Zjednoczonych w Wielkiej Brytanii
 Ambazonia
 Amberg
@@ -73040,6 +73223,7 @@ Andrea Meneghin
 Andrea Negroni
 Andrea Petković
 Andrea Pirlo
+Andrea Santarelli
 Andrea Sestini Hlaváčková
 Andrea Temesvári
 Andrea Várkonyi
@@ -73347,6 +73531,7 @@ Anna Pankratowa
 Anna Paquin
 Anna Rupprecht
 Anna Smasznowa
+Anna Terrón i Cusí
 Anna Walentynowicz
 Anna Watkins
 Anna Zaporożanowa
@@ -73456,6 +73641,7 @@ Anthony Salvin
 Anthony Steen
 Anthony Teachey
 Anthony Tudor
+Anthony Wayne
 Antigua i Barbuda
 Antigua i Barbuda na Letnich Igrzyskach Olimpijskich 2012
 Antiquities (Magic: The Gathering)
@@ -73820,6 +74006,7 @@ Arizona
 Arizona Robbins
 Ariège (departament)
 Arjabhata
+Arjun Pandit
 Arka Gdynia (piłka nożna)
 Arka Gdynia (rugby)
 Arkadia (powiat łowicki)
@@ -73828,6 +74015,7 @@ Arkadiusz Gołaś
 Arkadiusz Kuzio-Podrucki
 Arkadiusz Malczewski
 Arkadiusz Malinowski
+Arkadiusz Pawełczyk
 Arkadiusz Skrzypiński
 Arkadiusz Toński
 Arkadiusz Wiśniewski (muzyk)
@@ -75124,6 +75312,7 @@ Barham Salih
 Bariera dźwięku (film)
 Bariera geograficzna
 Barierka (Bednary)
+Bariery hybrydowe
 Barik (Syria)
 Barjac (Ariège)
 Bark (gmina)
@@ -75381,6 +75570,7 @@ Battle Born
 Battle Creek (Michigan)
 Battle Royale (Magic: The Gathering)
 Battle for Zendikar
+Battlestar Galactica: Blood & Chrome
 Battuszijja
 Batu Kawan
 Batumi
@@ -75866,6 +76056,7 @@ Bestwina (gmina)
 Beszcz
 Besòs
 Beta (Magic: The Gathering)
+Beta Circini
 Betchat
 Beth Phoenix
 Bethanie Mattek-Sands
@@ -75875,6 +76066,7 @@ Betlanovce
 Betlejem
 Betlejemskie Światło Pokoju
 Beton
+Beton wałowany
 Betrayers of Kamigawa
 Betsi Flin
 Betsi Flint
@@ -75950,6 +76142,7 @@ Biandronno
 Biarritz
 Biathlon
 Biathlon na Zimowych Igrzyskach Azjatyckich 1990
+Biathlon na Zimowych Igrzyskach Azjatyckich 2011
 Biathlon na Zimowych Igrzyskach Olimpijskich 1984
 Biathlon na Zimowych Igrzyskach Olimpijskich 1988
 Biathlon na zimowych igrzyskach olimpijskich
@@ -76160,6 +76353,7 @@ Bieszczadzka Kolejka Leśna
 Bieszczadzki Park Narodowy
 Bieszczadzkie Anioły
 Bieszczadzkie Spotkania ze Sztuką „Rozsypaniec”
+Biełosława
 Biełsat TV
 Bieńczyce (Kraków)
 Bieżeństwo
@@ -76272,6 +76466,7 @@ Biocenoza
 Biochemiczna kaskada
 Biofilm
 Biografia
+Bioherma
 Bioinżynieria
 Biologia
 Biologia molekularna
@@ -76541,6 +76736,7 @@ Blatnice (powiat Třebíč)
 Blaškovec
 Blaževdol
 Blažkov (powiat Zdziar nad Sazawą)
+Blender (magazyn)
 Blenheim Palace
 Blichowo (gromada)
 Blinjska Greda
@@ -76656,6 +76852,7 @@ Bobrowniki nad Radomką (gmina)
 Bobrowy Dom
 Bobry (Niskie Wielkie)
 Bobry (gmina Ełk)
+Bobryćka Bolarka
 Bobrůvka (powiat Zdziar nad Sazawą)
 Bobsleje
 Boby-Wieś
@@ -76736,6 +76933,7 @@ Bogdašić (Chorwacja)
 Boginka
 Bogoria (powiat staszowski)
 Bogota
+Boguchwał (herb szlachecki)
 Boguchwała
 Boguchwała (gmina)
 Boguchwała (gromada)
@@ -76823,6 +77021,7 @@ Bole (Chiny)
 Boleradice
 Boleszyn (gromada)
 Bolesław (gmina w powiecie olkuskim)
+Bolesław Andrzejewski
 Bolesław Bierut
 Bolesław Drobner
 Bolesław Hryniewiecki
@@ -77230,6 +77429,7 @@ Breg pri Temenici
 Breg pri Zagradcu
 Bregano
 Breitenbach am Herzberg
+Breitenfurt bei Wien
 Breithorn (Alpy Berchtesgadeńskie)
 Brema
 Brenda Fricker
@@ -77288,6 +77488,7 @@ Brico Dépôt
 Bridge Street
 Bridge over Troubled Water (album Simona & Garfunkela)
 Bridge over Troubled Water (piosenka)
+Bridgertonowie (cykl książkowy)
 Bridgestone
 Bridgestone Doubles Championships 1979
 Bridget Moynahan
@@ -77473,6 +77674,7 @@ Bruno (biskup Hildesheim)
 Bruno Brokken
 Bruno Chizzo
 Bruno Conti
+Bruno Götze
 Bruno II z Bergu
 Bruno III z Bergu
 Bruno Latour
@@ -78842,6 +79044,7 @@ Centrum Korona
 Centrum Kosmiczne Uchinoura
 Centrum Kosmiczne imienia Johna F. Kennedy’ego
 Centrum Kulturowo-Archeologiczne w Nowej Słupi
+Centrum Kultury i Biblioteka Publiczna Gminy Słupsk
 Centrum LIM
 Centrum Lotów Kosmicznych Tanegashima
 Centrum Nauki Kopernik w Warszawie
@@ -79125,6 +79328,7 @@ Charles Townes
 Charles Traoré
 Charles Wheatstone
 Charles Wills
+Charles Winder
 Charles Wright
 Charles Yorke
 Charles and Ray Eames
@@ -79594,6 +79798,7 @@ Chris Menges
 Chris Monroe
 Chris Mullin
 Chris Paul
+Chris Poland
 Chris Porter (koszykarz)
 Chris Terrio
 Chris Von Erich
@@ -81053,6 +81258,7 @@ Culiseta
 Cullen Jones
 Culpiu
 Culver City
+Cumandá
 Cumberland Posey
 Cumbia rap
 Cunardo
@@ -81626,6 +81832,7 @@ Dallas Shirley
 Dallas Stars
 Dallas-Fort Worth Film Critics Association
 Dalmacja
+Dalzell
 Dama (Aleppo)
 Dama (Syria)
 Dama z gronostajem
@@ -82114,6 +82321,7 @@ Delimitacja
 Delina Boshoff
 Della Rovere
 Della Scala
+Delley-Portalban
 Delling
 Delme
 Delos
@@ -82141,6 +82349,7 @@ Demokracja
 Demokracja ludowa
 Demokracja parlamentarna
 Demokracja szlachecka
+Demokratyczna Republika Gruzji
 Demokratyczna Republika Konga
 Demokratyczna Republika Konga na Letnich Igrzyskach Olimpijskich 2012
 Demokratyzm
@@ -82222,6 +82431,7 @@ Depozyt (powieść)
 Depresja (choroba)
 Depresja (geografia)
 Deptford
+Deptford (ujednoznacznienie)
 Deputowany
 Der Bulle von Tölz
 Der Club der grünen Witwen
@@ -82280,6 +82490,7 @@ Detroit Pistons
 Detroit Red Wings
 Detroit: Become Human
 Deus Mortem
+Deus ex machina (ujednoznacznienie)
 Deuteranomalia
 Deuteranopia
 Deutsch Jahrndorf
@@ -82425,6 +82636,7 @@ Diecezja włocławska
 Diecezja łódzko-poznańska
 Diecezja śląsko-łódzka
 Diecezja świdnicka
+Diego Campos
 Diego Capel
 Diego Maradona
 Diego Mariño
@@ -82829,6 +83041,7 @@ Dolna Kanada
 Dolna Saksonia
 Dolnik (województwo dolnośląskie)
 Dolny Taras (Bydgoszcz)
+Dolny Wielbłąd
 Dolny Śląsk
 Dolná Lehota (powiat Brezno)
 Dolní Dunajovice
@@ -84767,6 +84980,7 @@ Działoszyce (gmina)
 Działoszyn
 Działy (Glichów)
 Dzidzileyla
+Dzidzitata
 Dziechlino
 Dzieciniec
 Dziecinów (powiat otwocki)
@@ -84861,6 +85075,7 @@ Dziewiąty
 Dziewkowice (gromada)
 Dziewoklucz
 Dziećmierowo
+Dzieło
 Dzieło sztuki
 Dzień
 Dzień Dziękczynienia
@@ -85406,6 +85621,7 @@ Edward III
 Edward III (sztuka)
 Edward J. Hickox
 Edward Kosiński
+Edward Koziński
 Edward Maufe
 Edward Mills Purcell
 Edward Norwich
@@ -85462,6 +85678,7 @@ Efekt cieplarniany
 Efekt dynatronowy
 Efekt fotoelektryczny
 Efekt leniwej baterii
+Efekt mezomeryczny
 Efekt pamięci
 Efekt św. Mateusza
 Efford
@@ -85545,6 +85762,7 @@ Ekspansja języków indoeuropejskich
 Ekspedycja 47
 Eksperyment
 Eksperymenty medyczne i pseudomedyczne w Auschwitz
+Ekspiacja
 Eksploatacja
 Eksplozja kambryjska
 Eksplozja na moście Krymskim
@@ -86425,6 +86643,7 @@ Eutymiusz I (patriarcha Jerozolimy)
 Eutymiusz II (patriarcha Jerozolimy)
 Euzebiusz Fert
 Euzebiusz z Cezarei
+Euzebiusz z Doryleum
 Eva Birnerová
 Eva Doležalová (lekkoatletka)
 Eva Dyrberg
@@ -86768,6 +86987,7 @@ Fałkowo
 Fałków
 Fałszerstwo
 Fałszywe Folio
+Fața Motrului
 Faʻafafine
 Fdb.pl
 Fearless (album Taylor Swift)
@@ -87101,6 +87321,7 @@ Finnmark
 Finowie
 Fintice
 Fiodor Dostojewski
+Fiodor Rumynski
 Fiolet krystaliczny
 Fiona Ferro
 Fiorello La Guardia
@@ -87288,6 +87509,7 @@ Flis, to jest Spuszczanie statków Wisłą i inszymi rzekami do niej przypadają
 Flisak
 Flisy (Bydgoszcz)
 Flisz karpacki
+Flora (żaglowiec)
 Flora bakteryjna jelita
 Flora fizjologiczna
 Flora fizjologiczna człowieka
@@ -87553,6 +87775,7 @@ Fran Mérida
 Fran Vázquez
 Franc Pierchorowicz
 Franc Rodé
+Franca Rame
 Francaltroff
 Frances Conroy
 Frances Pomeroy Naismith Award
@@ -88919,6 +89142,7 @@ Germanizm
 Germignaga
 Germigny-l’Exempt
 Germinal Beerschot
+Germán Cobos
 Germán Pezzella
 Gero (arcybiskup Kolonii)
 Geroldshausen (Bawaria)
@@ -89044,6 +89268,7 @@ Gil Halstead
 Gil Torres
 Gilberto Silva
 Giles Gilbert Scott
+Gilles Godefroy
 Gilles Müller
 Gillespie, Kidd & Coia
 Gillette Stadium
@@ -89363,6 +89588,7 @@ Gmina Krustpils
 Gmina Krzynowłoga Mała
 Gmina Krško
 Gmina Kuldyga
+Gmina Käina
 Gmina Kārsava
 Gmina Lielvārde
 Gmina Limbaži
@@ -89457,6 +89683,7 @@ Gmina Zemunik Donji
 Gmina Zilupe
 Gmina górnicza
 Gmina miejska
+Gmina miejska Ptuj
 Gmina miejsko-wiejska
 Gmina obwarzankowa
 Gmina wiejska
@@ -89672,6 +89899,7 @@ Gorce
 Gorczański Park Narodowy
 Gordius z Jerozolimy
 Gordon Banks
+Gordon Gould
 Gordon Pirie
 Gordon Solie
 Gorenja vas (gmina Ivančna Gorica)
@@ -90981,6 +91209,7 @@ Główny układ zgodności tkankowej
 Główny zbiornik wód podziemnych
 Głębia Challengera
 Głęboczek (województwo zachodniopomorskie)
+Głęboczek (Żagno)
 Głębokie (powiat drawski)
 Głębokość zanurzenia okrętu podwodnego
 Gənclik Navahı
@@ -92271,6 +92500,7 @@ Historyczny zespół miasta Poznania
 Historyzm (architektura)
 Historyzm w Niemczech
 Hiszpania
+Hiszpania na Letnich Igrzyskach Olimpijskich 1932
 Hiszpania na Letnich Igrzyskach Olimpijskich 2012
 Hiszpanie
 Hiszpańska Biblioteka Narodowa
@@ -92607,6 +92837,7 @@ Hrabstwo Leelanau
 Hrabstwo Lenawee
 Hrabstwo Livingston (Michigan)
 Hrabstwo Los Angeles
+Hrabstwo Louisa
 Hrabstwo Luce
 Hrabstwo Mackinac
 Hrabstwo Macomb
@@ -92805,6 +93036,7 @@ Hurbóż
 Huron (jezioro)
 Hurones
 Hurricanes (Super Rugby)
+Hurt (polski zespół muzyczny)
 Hurt (utwór Nine Inch Nails)
 Hurtova Lhota
 Husajn asz-Szafi’i
@@ -93074,6 +93306,7 @@ I liga polska w rugby (2008/2009)
 I liga północnomacedońska w piłce nożnej mężczyzn
 I liga rumuńska w piłce nożnej mężczyzn
 I liga słowacka w piłce nożnej mężczyzn
+I liga urugwajska w piłce nożnej (1968)
 I najazd mongolski na Polskę
 I rozbiór Polski
 I sekretarze KC PZPR
@@ -93191,6 +93424,7 @@ Ibbin Siman
 Ibeas de Juarros
 Iberyjska Federacja Anarchistyczna
 Ibn al-Nadim
+Ibrahim Abdul Razak
 Ibrahim Afellay
 Ibrahimijja
 Ibrillos
@@ -93401,6 +93635,7 @@ Imre Hollai
 Imre Németh (lekkoatleta)
 Imre Thököly
 Imtan
+In Awe
 In Extremis
 In Japan!
 In My Life (singel Ozzy'ego Osbourne'a)
@@ -94349,6 +94584,7 @@ Jadwiga z Wesseksu
 Jadwiga Śląska
 Jadwisin (Podlesie)
 Jadów
+Jafrem Sakałou
 Jagdgeschwader 1 (1917–1918)
 Jagdgeschwader 5
 Jagdgeschwader 53
@@ -94566,6 +94802,7 @@ Jan (syn Ludwika VIII Lwa)
 Jan A.P. Kaczmarek
 Jan Abezier
 Jan Albert Waza
+Jan Andrzej Głogowski
 Jan Andrzej Morsztyn
 Jan Anioła
 Jan Antoszkiewicz
@@ -94785,6 +95022,7 @@ Jana Klečková
 Jana Klimešová
 Jana Lejsková
 Jana Novotná
+Jana Sorgers
 Jana Čepelová
 Jane Connell
 Jane Darwell
@@ -95162,6 +95400,7 @@ Jean-Baptiste Lully
 Jean-Baptiste Phạm Minh Mẫn
 Jean-Baptiste-Camille Corot
 Jean-Charles de Borda
+Jean-Claude Gayssot
 Jean-Claude Hollerich
 Jean-Claude Killy
 Jean-Claude Ndagijimana
@@ -98167,7 +98406,9 @@ Kikół
 Kilianów
 Kilikia Erywań
 Kilimany
+Kilkivan
 Killa Hakan
+Killers
 Killing Me Softly with His Song
 Kilobajt
 Kilogram
@@ -98359,6 +98600,7 @@ Klasyfikacja miejscowości w Polsce
 Klasyfikacja minerałów Strunza
 Klasztor
 Klasztor Bernardynów w Bydgoszczy
+Klasztor Kapucynów w Prudniku
 Klasztor Karmelitów Bosych w Czernej
 Klasztor Karmelitów w Bydgoszczy
 Klasztor Klarysek w Bydgoszczy
@@ -98946,6 +99188,7 @@ Komisja Europejska
 Komisja Heraldyczna
 Komisja Kolonizacyjna
 Komisja Ochrony Środowiska Morskiego Bałtyku
+Komisja Specjalna do Walki z Nadużyciami i Szkodnictwem Gospodarczym
 Komisja Standaryzacji Nazw Geograficznych poza Granicami Rzeczypospolitej Polskiej
 Komisja Ustalania Nazw Miejscowości
 Komisja parlamentarna
@@ -99920,6 +100163,7 @@ Kościół św. Anny w Rogowie
 Kościół św. Antoniego Padewskiego w Gnojnie
 Kościół św. Antoniego w Dąbrowie Górniczej
 Kościół św. Antoniego z Padwy w Chorzowie
+Kościół św. Apostołów Szymona i Judy Tadeusza w Kołaczkowie
 Kościół św. Barbary w Chorzowie
 Kościół św. Barbary w Dołdze
 Kościół św. Barbary w Dąbrowie Górniczej
@@ -100207,6 +100451,7 @@ Krobielowice
 Krobusz
 Krocze
 Kroczyce (gmina)
+Krocząc wśród cieni
 Krok (władca Czech)
 Krokiet (gra)
 Krokiet na letnich igrzyskach olimpijskich
@@ -100270,6 +100515,7 @@ Kruszyna pospolita
 Kruszyniany
 Kruszyniec (województwo kujawsko-pomorskie)
 Kruszywo
+Kruševo (Republika Serbska)
 Kruševo (żupania pożedzko-slawońska)
 Kruščica (Republika Serbska)
 Krużganek
@@ -100664,6 +100910,7 @@ Księstwo oświęcimskie
 Księstwo pomorskie
 Księstwo siewierskie
 Księstwo strzeleckie
+Księstwo trembowelskie
 Księstwo włodzimierskie
 Księstwo zatorskie
 Księstwo ziębickie
@@ -100988,6 +101235,7 @@ Kwiatkowice (Kraśnik)
 Kwiatkowo (województwo mazowieckie)
 Kwiatkowo k. Duczymina
 Kwiatoniów
+Kwiatownik żółtorzytny
 Kwiatuszki Małe
 Kwiatuszki Wielkie
 Kwiatów
@@ -101560,6 +101808,7 @@ Latynos
 Latynosi
 Laucha (Hörsel)
 Laudert
+Laukahi
 Launcelot Brown
 Laura Asadauskaitė
 Laura Ballinger
@@ -101895,6 +102144,7 @@ Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2008 – rzut młotem mężczyz
 Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2012
 Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2012 – rzut młotem mężczyzn
 Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2016 – rzut młotem mężczyzn
+Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2016 – siedmiobój kobiet
 Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2020
 Lekkoatletyka na Letnich Igrzyskach Olimpijskich 2020 – rzut młotem mężczyzn
 Lekkoatletyka na Letniej Uniwersjadzie 1959
@@ -102107,6 +102357,7 @@ Lesůňky
 Let It Be
 Let It Die (singel Ozzy’ego Osbourne’a)
 Let Me Hear You Scream
+Let Us Pray
 Letanovce
 Letni pałac arcybiskupi w Bratysławie
 Letnia Uniwersjada 1979
@@ -102334,6 +102585,7 @@ Lidzbark Warmiński
 Lidzbark Warmiński (gmina wiejska)
 Liechtenstein
 Liechtenstein na Letnich Igrzyskach Olimpijskich 2012
+Liechtensteiner Fussballverband
 Liechtensteinowie
 Lienz
 Liesek (przystanek kolejowy)
@@ -103511,6 +103763,7 @@ Liquigas-Doimo
 Liryka
 Lis rudy
 Lis srebrny
+Lis stepowy
 Lis-Kula (pociąg pancerny)
 Lisa Carrington
 Lisa Demetz
@@ -104235,6 +104488,7 @@ Lubkowo (powiat bytowski)
 Lublana
 Lublin
 Lublin (KL)
+Lublin Airport
 Lubliniec
 Lubmin
 Lubniewice
@@ -104295,6 +104549,7 @@ Luchino Visconti (senior Mediolanu)
 Luché-Thouarsais
 Lucia Valerio
 Lucian Mureşan
+Luciana (Hiszpania)
 Luciana Masante
 Lucianna z Rochefort
 Luciano Pavarotti
@@ -104547,6 +104802,7 @@ Luxembourg Open 2019
 Luzaga
 Luzay
 Luzón
+Luís Vinício
 Lučany nad Nisou
 Lučarjev Kal
 Lučice (Czechy)
@@ -104722,6 +104978,7 @@ Mabel Parton
 Mabopane
 Mabudża (Aleppo)
 Mac Ragnall
+MacKay Brook (dopływ East Branch River John)
 MacPaint
 MacTutor History of Mathematics Archive
 MacTutor History of Mathematics archive
@@ -105191,6 +105448,7 @@ Mame Biram Diouf
 Mamlicz
 Mamo tyś płakała
 Mamolar
+Mamou
 Mamoutou N’Diaye
 Mamry
 Mamuna
@@ -105768,6 +106026,7 @@ Marma al-Hadżar
 Marmaras
 Marmur
 Marnate
+Marne (Iowa)
 Maroilles
 Maroko
 Maroko na Letnich Igrzyskach Olimpijskich 2012
@@ -107193,6 +107452,7 @@ Michaił Gorbaczow
 Michaił Iowczuk
 Michaił Kaufman
 Michaił Kriwonosow
+Michaił Marczuk
 Michaił Miszustin
 Michaił Tal
 Michaił Tuchaczewski
@@ -107239,6 +107499,7 @@ Michał Kubiak (siatkarz)
 Michał Kądzioła
 Michał Laskowski (biochemik)
 Michał Lipcsey-Steiner
+Michał Lisiecki
 Michał Mikołajczak
 Michał Pawlicki
 Michał Pazdan
@@ -107290,6 +107551,7 @@ Michałówka (powiat bialski)
 Michałówka (powiat kozienicki)
 Michałówka (rejon tulczyński)
 Micheal Ray Richardson
+Micheil Alawidze
 Micheil Edżoszwili
 Michel Chasles
 Michel Eugène Chevreul
@@ -107586,6 +107848,7 @@ Mikroprocesor
 Mikroregion
 Mikroregion Feira de Santana
 Mikroregion Pirapora
+Mikroregion Três Lagoas
 Mikrosekunda
 Mikroskop
 Mikroskop elektronowy
@@ -108094,6 +108357,7 @@ Mistrzostwa Europy w Piłce Siatkowej Mężczyzn 2015
 Mistrzostwa Europy w Piłce Siatkowej Mężczyzn 2017
 Mistrzostwa Europy w Piłce Siatkowej Mężczyzn 2019
 Mistrzostwa Europy w Piłce Siatkowej Mężczyzn 2021
+Mistrzostwa Europy w Podnoszeniu Ciężarów 1930
 Mistrzostwa Europy w Podnoszeniu Ciężarów 2009
 Mistrzostwa Europy w Pływaniu 2020
 Mistrzostwa Europy w Pływaniu 2022
@@ -108985,6 +109249,7 @@ Monarchizm
 Monareczka białogrzbieta
 Monas
 Monaster Narodzenia Matki Bożej w Leśnej
+Monaster Smolny
 Monaster św. Onufrego w Jabłecznej
 Monasterio
 Monasterio de Rodilla
@@ -108993,6 +109258,7 @@ Moncalvillo
 Monceau-Saint-Waast
 Moncourt
 Mondorf-les-Bains
+Mondragón
 Mondéjar
 Monera (biologia)
 Moneta
@@ -109010,6 +109276,7 @@ Monica Niculescu
 Monica Puig
 Monica Seles
 Monika Bejnar
+Monika Bociąga-Jasik
 Monika Choděrová
 Monika Drybulska
 Monika Matowska
@@ -109844,6 +110111,7 @@ Myxococcia
 Myśla (dopływ Bugu)
 Myślenice
 Myślibórz
+Myślidar
 Myśliwiec (wieś)
 Myślęcin (województwo wielkopolskie)
 Myślęcinek (Bydgoszcz)
@@ -110014,8 +110282,10 @@ NGC 141
 NGC 2429
 NGC 2894
 NGC 3246
+NGC 3803
 NGC 390
 NGC 5882
+NGC 6896
 NGC 6946
 NGC 6948
 NGC 7185
@@ -110204,6 +110474,7 @@ Najdłuższe rzeki świata
 Najdłuższy marsz Billy’ego Lynna
 Najgłębsze jeziora Polski
 Najlepsze lata naszego życia
+Najlepszy Młody Zawodnik PLK
 Najmniejsze miasto Polski
 Najmusy
 Najsilniejsze trzęsienia ziemi w historii
@@ -110438,6 +110709,7 @@ Natolin (powiat miński)
 Natolin (powiat węgrowski)
 Natrix
 Natrix helvetica
+Natunaornis gigoura
 Natura
 Natura 2000
 Naturalny satelita
@@ -110972,6 +111244,7 @@ Nikolčice
 Nikon (przedsiębiorstwo)
 Nikos Galis
 Nikołaj Baskow
+Nikołaj Bułganin
 Nikołaj Czernych
 Nikołaj Karamzin
 Nikołaj Przewalski
@@ -111258,6 +111531,7 @@ Novaki Ozaljski
 Novakovec Bisaški
 Novi (Michigan)
 Novo Mjesto
+Novo Selo (gmina Gradiška)
 Novo Selo Podravsko
 Novo Zvečevo
 Novosedly (kraj południowomorawski)
@@ -111477,6 +111751,7 @@ Nowa Zagora
 Nowa Zagość
 Nowa Zelandia
 Nowa Zelandia na Letnich Igrzyskach Olimpijskich 2012
+Nowa Zelandia na Zimowych Igrzyskach Olimpijskich 1968
 Nowa Ziemia (miejscowość)
 Nowa Zienkowizna
 Nowa fala (muzyka)
@@ -111775,6 +112050,7 @@ Obiekty sakralne w Bydgoszczy
 Obiekty użytecznosci publicznej
 Obiektyw szerokokątny
 Obies
+Obihiro
 Objawienie Pańskie
 Objawienie w Gietrzwałdzie
 Objawy negatywne
@@ -112203,6 +112479,7 @@ Off the Wall
 Off the Wall (singel)
 Offa z Esseksu
 Offenberg (gmina)
+Offham (Kent)
 Ofiarowanie Pańskie
 Ofiary wojny rosyjsko-ukraińskiej
 Ofiary zbrodni katyńskiej – zamordowani w Charkowie
@@ -112544,6 +112821,7 @@ Olaf V
 Olaine
 Olancha
 Olang
+Olangchung Gola
 Olaus Magnus
 Olav Bjaaland
 Olav Økern
@@ -113291,6 +113569,7 @@ Osamu Shimomura
 Osan Air Base
 Oscar Alberto Ortiz
 Oscar Cantoni
+Oscar Cruz
 Oscar Garré
 Oscar Gjøslien
 Oscar Niemeyer
@@ -113307,6 +113586,7 @@ Oscar za najlepszą scenografię
 Oscyloskop
 Osdag (biskup Hildesheim)
 Osetia Południowa
+Osetnik
 Osewo
 Oshima (półwysep)
 Osiczki (rejon radomyski)
@@ -114227,6 +114507,7 @@ Parafia św. Józefa Robotnika w Kraśniku
 Parafia św. Józefa Rzemieślnika w Nowej Wsi Ełckiej
 Parafia św. Józefa Rzemieślnika w Robakowie
 Parafia św. Józefa Rzemieślnika w Swarzędzu
+Parafia św. Józefa w Camden
 Parafia św. Józefa w Chorzowie
 Parafia św. Józefa w Puławach
 Parafia św. Józefa w Zaborze
@@ -114468,6 +114749,7 @@ Parski (województwo kujawsko-pomorskie)
 Partecipazio
 Parteniusz (patriarcha Jerozolimy)
 Partenope (1889)
+Parter
 Partia Akcji Demokratycznej
 Partia Centrum (Finlandia)
 Partia Demokratyczna (Japonia)
@@ -115805,6 +116087,7 @@ Philipp Sigismund z Brunszwik
 Philipp von Cobenzl
 Philipp z Katzenelnbogen
 Philippe Barbarin
+Philippe Favre
 Philippe Gilbert
 Philippe Ouédraogo
 Philippe Rousselot
@@ -116063,6 +116346,7 @@ Pietro Rava
 Pietro Serantoni
 Pietro Vierchowod
 Pietrowice
+Pietrowsko-Razumowskaja
 Pietrzykowice (gmina Kąty Wrocławskie)
 Pietrówka (gromada)
 Pietà
@@ -116485,6 +116769,7 @@ Plac Zbawiciela w Bydgoszczy
 Plac Świętego Piotra
 Place Charles-de-Gaulle
 Placebo
+Placówka Kontrolna Małego Ruchu Granicznego Chochołów
 Placówka Straży Celnej II linii „Bolesławiec”
 Placówka Straży Celnej II linii „Krzepice”
 Placówka Straży Celnej II linii „Kłobucko”
@@ -117529,6 +117814,7 @@ Podanie
 Podanie (literatura)
 Podatek dochodowy
 Podatek dochodowy od osób prawnych
+Podatek kwotowy
 Podatek od ponadnormatywnych wypłat wynagrodzeń
 Podatek pogłówny
 Podbagienko
@@ -117735,6 +118021,7 @@ Podział władz
 Podzielnik kosztów
 Podziemia Tarnogórsko-Bytomskie
 Podziemne przejście dla pieszych
+Podziemnica południowa
 Podzwierzyniec (Tarnobrzeg)
 Podčauš
 Poděšín
@@ -118359,6 +118646,7 @@ Port Canaveral
 Port Drzewny w Bydgoszczy
 Port Huron
 Port Lotniczy Gdańsk im. Lecha Wałęsy
+Port Royal (Karolina Południowa)
 Port Vell
 Port lotniczy
 Port lotniczy Al Asad
@@ -118397,6 +118685,7 @@ Port lotniczy Rijad
 Port lotniczy Rzeszów-Jasionka
 Port lotniczy Saint Louis
 Port lotniczy Sauhadż-Mubarak
+Port lotniczy Sefwi Bekwai
 Port lotniczy Shannon
 Port lotniczy Stara Zagora
 Port lotniczy Szardża
@@ -119623,6 +119912,7 @@ Prostopadłość
 Prostownik
 Prostownik selenowy
 Prostytucja
+Prostějov místní nádraží
 Proszowice
 Proszowice (gmina w województwie kieleckim)
 Proszowice (gmina)
@@ -119722,6 +120012,7 @@ Pruszków
 Prva liga Jugoslavije (1951)
 Prwa makedonska fudbałska liga
 Prwa makedonska fudbałska liga (2017/2018)
+Pryma (imię)
 Prymas Polski
 Prymasowski Instytut Kultury Chrześcijańskiej
 Prypeć (rzeka)
@@ -120083,6 +120374,7 @@ Przywilej koszycki
 Przywiśle (Tarnobrzeg)
 Przywory (gmina)
 Przywory (gromada)
+Przywrotnik pospolity
 Przywódcy Korei Północnej
 Przywódcy Libii
 Przyłubie (przystanek kolejowy)
@@ -120186,6 +120478,7 @@ Pszczelarstwo
 Pszczyna
 Pszczyna (gmina)
 Pszczółczyn (gromada)
+Pszczółka
 Pszczółki (stacja kolejowa)
 Pszenica
 Pszonka (gmina)
@@ -120234,6 +120527,7 @@ Puchar CECAFA
 Puchar CEDEAO
 Puchar CEMAC
 Puchar COSAFA
+Puchar Caldera
 Puchar Czech w piłce nożnej
 Puchar Davisa
 Puchar Davisa 2009
@@ -120562,6 +120856,7 @@ Pętla Kujawska
 Pętla Toruńska
 Pęzino (przystanek kolejowy)
 Pěnčín (powiat Jablonec nad Nysą)
+Pınar Deniz
 Płaca
 Płaca minimalna
 Płaczewo (powiat starogardzki)
@@ -120643,6 +120938,7 @@ Pływalnia
 Pływalność
 Pływanie
 Pływanie (sport)
+Pływanie na Letnich Igrzyskach Olimpijskich 1900 – pływanie podwodne
 Pływanie na Letnich Igrzyskach Olimpijskich 2008 – 4 × 100 m stylem dowolnym mężczyzn
 Pływanie na Letnich Igrzyskach Olimpijskich 2008 – 400 m stylem zmiennym mężczyzn
 Pływanie na Letnich Igrzyskach Olimpijskich 2012
@@ -121419,6 +121715,7 @@ Ratusz we Wrocławiu
 Ratyzbona
 Raucourt-au-Bois
 Raugiszki
+Raul Nałęcz-Małachowski
 Raul Rusescu
 Rauman Lukko
 Rauno Miettinen
@@ -121706,6 +122003,7 @@ Reguła prawej dłoni
 Reguła śruby prawoskrętnej
 Reguła św. Franciszka
 Reguły
+Regów Nowy
 Rehab (piosenka Amy Winehouse)
 Rehaupal
 Rehovë
@@ -121729,6 +122027,7 @@ Reinhard Hauke
 Reinhard Lettmann
 Reinhard Marx
 Reinhard Moll
+Reinhold Bartsch
 Reinhold Trampler
 Reino Ragnar Lehto
 Reinoso
@@ -121820,6 +122119,7 @@ Rejon trocki
 Rejon tulczyński
 Rejon uciański
 Rejon umocniony
+Rejon wierchowski
 Rejon wileński
 Rejon winnicki
 Rejon wisagiński
@@ -123031,6 +123331,7 @@ Rokytnice nad Rokytnou
 Rola (gleba)
 Roland Emmerich
 Roland Garros
+Roland Guneš
 Roland Minson
 Roland Weisselberg
 Rolando Blackman
@@ -123882,6 +124183,7 @@ Râmnicelu (gmina)
 Râmnicelu (okręg Buzău)
 Réning
 Répertoire International des Sources Musicales
+Ríkarður Jónsson
 Ríver Teresina
 Ród Ashikaga
 Ród Bonapartów
@@ -124254,6 +124556,7 @@ Sadowie (gmina)
 Sadowie (gromada)
 Sadownictwo
 Sadowo (województwo kujawsko-pomorskie)
+Sadun Ghajdan
 Sadurki (gromada)
 Sadykierz (województwo kujawsko-pomorskie)
 Sadłowice (województwo lubelskie)
@@ -124470,6 +124773,7 @@ Salina Kosgei
 Salinillas de Bureba
 Salish Sea
 Saliszowie Nadmorscy
+Sallanches
 Sallent de Nargó
 Sally Field
 Sally Hawkins
@@ -124754,6 +125058,7 @@ Sankcje gospodarcze
 Sankcje międzynarodowe w związku z wojną rosyjsko-ukraińską
 Sankei Shimbun
 Sankha
+Sankt Florian
 Sankt Goar
 Sankt Moritz
 Sankt Niklaus
@@ -124840,6 +125145,7 @@ Santa Cruz de Paniagua
 Santa Cruz de la Salceda
 Santa Cruz de la Sierra (Hiszpania)
 Santa Cruz del Valle Urbión
+Santa Cruz do Escalvado
 Santa Engracia del Jubera
 Santa Eugènia de Berga
 Santa Eulàlia de Riuprimer
@@ -125309,6 +125615,7 @@ Semousies
 Semper Femina
 Sen nocy letniej
 Sen zimowy
+Senat Południowej Afryki
 Senat Rzeczypospolitej Polskiej
 Senat Stanów Zjednoczonych
 Senator
@@ -126020,6 +126327,7 @@ Skalice (kraj południowoczeski)
 Skaliste
 Skalité-Serafínov
 Skalna Góra (Tarnobrzeg)
+Skalniczka stokowa
 Skamieniałości
 Skamieniałość przewodnia
 Skand
@@ -126170,6 +126478,7 @@ Skrzypce
 Skrzypieniec
 Skrzypiów
 Skrzyżowanie
+Skrzyżowanie pod Dębem
 Skrýchov u Malšic
 Skuhrov (kraj Wysoczyna)
 Skuhrov (kraj liberecki)
@@ -126267,6 +126576,7 @@ Small Business Administration
 Smardzewo (powiat płocki)
 Smash (serial telewizyjny)
 Smażenie
+Smedstorp
 Smerek (szczyt)
 Smerek (wieś)
 Smile Like You Mean It
@@ -126692,6 +127002,7 @@ Sonic Distribution
 Sonic the Hedgehog 3
 Sonisphere Festival
 Sonja (królowa Norwegii)
+Sonja Wiedemann
 Sonneborn (Turyngia)
 Sonnets from the Crimea (przekład cyklu Adama Mickiewicza)
 Sonny Perdue
@@ -126898,6 +127209,7 @@ Sphingobacteria
 Spice (stacja telewizyjna)
 Spichrze w Bydgoszczy
 Spichrze w Grudziądzu
+Spiczyńce
 Spider-Man
 Spider-Man (film 2002)
 Spider-Man (komiks TM-semic)
@@ -127303,6 +127615,7 @@ Stanisław Estreicher
 Stanisław Gall
 Stanisław Gawlikowski
 Stanisław Gawłowski
+Stanisław Goczałkowski
 Stanisław Gościniak
 Stanisław Grochowiak
 Stanisław Głuszcz
@@ -127678,6 +127991,7 @@ Stefan Szelestowski
 Stefan Tonczew
 Stefan Ulbig
 Stefan V węgierski
+Stefan Wicik
 Stefan Wiechecki
 Stefan Wierzbowski (1666–1713)
 Stefan Wittenberg
@@ -127896,6 +128210,7 @@ Stożek Diraca
 Stożek rogówki
 Stożek wypukły
 Strach
+Strach (powieść)
 Strach ma wielkie oczy
 Strachocin (województwo dolnośląskie)
 Strachotín
@@ -127918,6 +128233,7 @@ Strajk generalny (syndykalizm)
 Strajk głodowy
 Strajk scenarzystów w Stanach Zjednoczonych
 Strajk w Żyrardowie (1883)
+Straka
 Strakov
 Stralsund
 Strane (Republika Serbska)
@@ -127936,6 +128252,7 @@ Strategia organizacji
 Strategia życiowa
 Stratford St. Mary
 Stratford-upon-Avon
+Stratis Miriwilis
 Stratosfera
 Straty materialne Polski w czasie II wojny światowej
 Straubing
@@ -128129,6 +128446,7 @@ Studzianki (gromada w powiecie białostockim)
 Studzianki (gromada w powiecie kozienickim)
 Studzianki (gromada w powiecie kraśnickim)
 Studzienica (Zawiszyce)
+Studzienka w Piasecznie
 Studzienki (województwo kujawsko-pomorskie)
 Studénka
 Stupa
@@ -128217,6 +128535,7 @@ Substancje barwiące
 Subsydia eksportowe
 Suburbanizacja
 Subwencja
+Subwersja (sztuka)
 Sucha (gromada w powiecie zwoleńskim)
 Sucha Beskidzka
 Sucha Góra (Stara Morawa)
@@ -129247,6 +129566,7 @@ Sárvár
 Sázava (kraj Wysoczyna)
 Sázavka
 São Luís
+São Miguel do Guamá
 São Paulo
 São Paulo FC
 Séamus Coleman
@@ -129518,6 +129838,7 @@ Taborzyszcze (rejon radomyski)
 Tabórz
 Tacciana Puczak
 Tachykardia
+Taco Hemingway
 Taczalin
 Tadahira Fujiwara
 Tadao Andō
@@ -129562,6 +129883,7 @@ Tadeusz Różewicz
 Tadeusz Sendzimir
 Tadeusz Siwek
 Tadeusz Siwek (geograf)
+Tadeusz Socha (piłkarz)
 Tadeusz Soroka
 Tadeusz Staniewski
 Tadeusz Stocki
@@ -129961,6 +130283,7 @@ Tears in Heaven
 Teaser
 Teatr
 Teatr Bolszoj
+Teatr Dramatyczny im. Jerzego Szaniawskiego w Wałbrzychu
 Teatr Járy Cimrmana
 Teatr Kameralny w Bydgoszczy
 Teatr Ludowy w Krakowie
@@ -131186,6 +131509,7 @@ Toto Ltd.
 Tottenham Hotspur F.C.
 Tottori
 Touch (piosenka The Supermes)
+Touch and Go
 Touchay
 Toulouse Business School
 Tour DuPont
@@ -131974,6 +132298,7 @@ Turniczka Chałubińskiego
 Turniej Ośmiu Narodów U20
 Turniej UEMOA
 Turno (gmina)
+Turno (osada w województwie lubelskim)
 Turnov
 Turntablizm
 Turobin
@@ -132250,6 +132575,7 @@ TŻ Opole
 U kresu dnia
 U-lite
 U.S. Clay Court Championships
+U.S. International Classic 2017
 U.S. Open Clay Courts
 UA Maracaibo
 UBL21
@@ -132377,6 +132703,7 @@ USS Dolphin (AGSS-555)
 USS Dolphin (SS-169)
 USS G-1 (SS-19½)
 USS G-4 (SS-26)
+USS Gilmer
 USS Glenard P. Lipscomb (SSN-685)
 USS Halibut (SSGN-587)
 USS Harry S. Truman (CVN-75)
@@ -132615,6 +132942,7 @@ Ulica Stary Port w Bydgoszczy
 Ulica Stefana Batorego w Bydgoszczy
 Ulica Szubińska w Bydgoszczy
 Ulica Tadeusza Kościuszki w Sanoku
+Ulica Tadeusza Pawlikowskiego w Krakowie
 Ulica Tarnogórska w Gliwicach
 Ulica Teodora Kalidego w Chorzowie
 Ulica Toruńska w Bydgoszczy
@@ -132761,6 +133089,7 @@ Unia personalna
 Unia polsko-litewska
 Unia w Krewie
 Unici
+Unieboż
 Uniejowice
 Uniejów
 Uniejów (gmina)
@@ -133079,6 +133408,7 @@ Uwe Nogga
 Uwolnić orkę 2
 Uwłaszczenie chłopów
 Uwłaszczenie nomenklatury
+Uxbridge (Kanada)
 Uza (singel)
 Uzależnienie (film)
 Uzarzewo
@@ -133674,6 +134004,7 @@ Vladimír Maška
 Vladimír Menšík
 Vladimír Pospíšil
 Vladimír Vašek
+Vladimír Čech (reżyser)
 Vladimíra Racková
 Vladislav
 Vladislav Ermilov
@@ -133708,6 +134039,7 @@ Volksparkstadion
 Volkswagen
 Volkswagen Amarok
 Volkswagen Group
+Vollmersweiler
 Voltaire
 Volver
 Volvo Car Corporation
@@ -133811,6 +134143,7 @@ W rytmie hip-hopu
 W stepie szerokim (pieśń)
 W upalną noc
 W.H. Auden
+WASP-28 b
 WB-10
 WHiH NewsFront
 WMPD Rugby Olsztyn
@@ -134794,6 +135127,7 @@ Wiesław Pałczyński
 Wiesław Perszke
 Wiesław Piotrowski
 Wiesław Skrzydło
+Wiesław Theiss
 Wiesław Wojtkuński
 Wietnam
 Wietnam Północny
@@ -134835,6 +135169,7 @@ Wigwałd
 Wii Speak
 Wii U
 Wijchen
+Wikariat apostolski Arabii Północnej
 Wikariusz
 Wikibooks
 Wikicytaty
@@ -135040,6 +135375,7 @@ William Pitt Młodszy
 William Pohlad
 William Powlett Powlett
 William Prout
+William Pryor Letchworth
 William Regal
 William Reid
 William Rowe
@@ -135197,6 +135533,7 @@ Windsor Green
 Windykajmy
 Windyki (gromada)
 Winfield House
+Winful Cobbinah
 Wing Chun
 Wing Commander (seria)
 Winian żelaza
@@ -136145,6 +136482,8 @@ Wybory parlamentarne w Islandii w 1933 roku
 Wybory parlamentarne w Islandii w 1934 roku
 Wybory parlamentarne w Islandii w 1937 roku
 Wybory parlamentarne w Izraelu w 1965 roku
+Wybory parlamentarne w Izraelu w 2013 roku
+Wybory parlamentarne w Izraelu w 2020 roku
 Wybory parlamentarne w Japonii w 2009 roku
 Wybory parlamentarne w Polsce w 1947 roku
 Wybory parlamentarne w Polsce w 1989 roku
@@ -136445,6 +136784,7 @@ Wyspy Szczurze
 Wyspy Świętego Tomasza i Książęca
 Wyspy Świętego Tomasza i Książęca na Letnich Igrzyskach Olimpijskich 2012
 Wystawa (Tarnobrzeg)
+Wystawa przemysłowa w Poznaniu (1908)
 Wystawa światowa
 Występ (województwo kujawsko-pomorskie)
 Występ (województwo warmińsko-mazurskie)
@@ -137463,6 +137803,7 @@ Zamek Książąt Pomorskich w Szczecinie
 Zamek Książęcy w Lwówku Śląskim
 Zamek Kumamoto
 Zamek Leśna
+Zamek Lombardzki
 Zamek Matsumoto
 Zamek Montjuïc
 Zamek Niesytno
@@ -137645,6 +137986,7 @@ Zapłocie (Potok)
 Zapłodnienie
 Zaraja
 Zaraza (demon)
+Zaraza macierzankowa
 Zaraza ogniowa
 Zarańsko
 Zarbeling
@@ -138365,6 +138707,7 @@ Zmarli w sierpniu 2020
 Zmartwychwstanie Jezusa
 Zmarzła Kopa
 Zmarzły Szczyt
+Zmiana boisk
 Zmiana klimatu
 Zmiana kolejności całkowania
 Zmiana na tronie cesarskim Japonii (2019)
@@ -138808,6 +139151,7 @@ zimowe igrzyska olimpijskie
 Åbo Akademi
 Åseda
 Çlirim Hoxha
+Çubuk
 Çıraqqala Siyəzən
 Échallon
 Éclaibes
@@ -139050,6 +139394,7 @@ zimowe igrzyska olimpijskie
 Łopiennik Górny (gmina)
 Łopiennik Górny (gromada)
 Łopuchowo (gromada)
+Łopuszany
 Łopuszno
 Łopuszno (gmina)
 Łora Jakowlewa
@@ -139571,6 +139916,7 @@ zimowe igrzyska olimpijskie
 Šentvid pri Stični
 Ševar
 Šibensko-kninska županija
+Šikulje (kanton tuzlański)
 Šiljki
 Šiljkovići
 Šimon Bartko

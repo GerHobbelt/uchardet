@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Chauconin-Neufmontiers
-Ejpovice
-Beddes
-Németújvári járás
-Illadopsis rufipennis
-Western blot
-Lészay-kúria
-Erdély címere
-Ruttkay György
-Oussoy-en-Gâtinais
-Juhos Attila
-Bazsó Zsigmond
-Automatic (Dweezil Zappa album)
-2016-os Le Mans-i 24 órás verseny
-Pál levele Tituszhoz
-Tövises lepényfa
-Henry Gunther
-Alois Hába
-5795 Roshchina
-Andy Seto
-Országok terület szerinti listája
-Enid (egyértelműsítő lap)
-A Szovjetunió az 1988. évi téli olimpiai játékokon
-1961–1962-es magyar jégkorongbajnokság
-Magyarországi mauzóleumok listája
-Fábián László (kajakozó)
-San Marzano di San Giuseppe
-1988-as NFL-szezon
-Tükördoboz
-Mike Colter
+2522-es mellékút (Magyarország)
+Penance Soiree
+Puffinus
+Saint-Pardoux (Deux-Sèvres)
+1980-as Vuelta ciclista a España
+Kelta fakultusz
+Vinod Dham
+Pu (egyértelműsítő lap)
+Davorin Popović
+Aloma
+Z. Horváth Gyula
+Fontaine-le-Sec
+Regéczy-Nagy László
+Bölcsőd lesz a koporsód
+Jakitori
+Rózsa (keresztnév)
+Ernesto Laclau
+Spanyolország címere
+Legéndy Kristóf
+Serfőző Attila
+Babfaformák
+Bortle-skála
+Ungtarnóc
+Opi (település)
+8192 Tonucci
+Feröer autonómiája
+Oláh Zoltán Sándor
+Quesuizmus
+1165 (szám)
+Szano Rihei
 "Heroes" (David Bowie song)
 "Kettő plusz Négy" szerződés
 (114992) 2003 QG70
@@ -923,6 +923,7 @@ Mike Colter
 1932. évi téli olimpiai játékok
 1932–1933-as NHL-szezon
 1932–1933-as belga labdarúgó-bajnokság (első osztály)
+1932–1933-as magyar labdarúgó-bajnokság (első osztály)
 1932–1933-as magyar labdarúgókupa
 1932–1933-as olasz labdarúgó-bajnokság (első osztály)
 1932–1933-as spanyol labdarúgó-bajnokság (harmadosztály)
@@ -1163,6 +1164,7 @@ Mike Colter
 1958–1959-es spanyol labdarúgó-bajnokság (másodosztály)
 1958–1960-as vásárvárosok kupája
 1959 a filmművészetben
+1959-es Formula–1 brit nagydíj
 1959-es MotoGP-világbajnokság
 1959-es cannes-i filmfesztivál
 1959-es férfi kosárlabda-Európa-bajnokság
@@ -1200,6 +1202,7 @@ Mike Colter
 1961–1962-es NBA-szezon
 1961–1962-es NHL-szezon
 1961–1962-es kupagyőztesek Európa-kupája
+1961–1962-es magyar jégkorongbajnokság
 1961–1962-es olasz labdarúgó-bajnokság (első osztály)
 1961–1962-es spanyol labdarúgó-bajnokság (első osztály)
 1961–1962-es vásárvárosok kupája
@@ -1433,6 +1436,7 @@ Mike Colter
 1974–1975-ös spanyol labdarúgó-bajnokság (első osztály)
 1975 a filmművészetben
 1975-ös Eurovíziós Dalfesztivál
+1975-ös Formula–1 argentin nagydíj
 1975-ös MotoGP-világbajnokság
 1975-ös UEFA-kupa-döntő
 1975-ös cannes-i filmfesztivál
@@ -1824,6 +1828,7 @@ Mike Colter
 1988-as Formula–1 világbajnokság
 1988-as MTV Video Music Awards
 1988-as MotoGP-világbajnokság
+1988-as NFL-szezon
 1988-as UEFA-kupa-döntő
 1988-as Vuelta ciclista a España
 1988-as bajnokcsapatok Európa-kupája-döntő
@@ -2201,6 +2206,7 @@ Mike Colter
 2000–2001-es NBA-szezon
 2000–2001-es NHL-szezon
 2000–2001-es UEFA-kupa
+2000–2001-es jugoszláv SZK labdarúgó-bajnokság (első osztály)
 2000–2001-es magyar labdarúgókupa
 2000–2001-es német labdarúgó-bajnokság (első osztály)
 2000–2001-es német labdarúgókupa
@@ -3201,6 +3207,7 @@ Mike Colter
 2017-es Kína-kupa
 2017-es Kína-kupa keret
 2017-es Le Mans-i 24 órás verseny
+2017-es MTV Movie & TV Awards
 2017-es MTV Video Music Awards
 2017-es Moto2-világbajnokság
 2017-es Moto3-világbajnokság
@@ -3403,6 +3410,7 @@ Mike Colter
 2020-as MotoGP valenciai nagydíj
 2020-as MotoGP-világbajnokság
 2020-as NBA-buborék
+2020-as Roland Garros – női egyes
 2020-as WEC Lone Star Le Mans
 2020-as WEC Spái 6 órás verseny
 2020-as WEC bahreini 8 órás verseny
@@ -3694,6 +3702,7 @@ Mike Colter
 231470 Bedding
 231B busz (Budapest)
 233-as busz (Budapest)
+2330 Ontake
 233893 Honthyhanna
 233E busz (Budapest)
 234-es busz (Budapest)
@@ -4499,6 +4508,7 @@ Mike Colter
 577881 Pálinkáslibor
 578-as busz
 578164 Rerrichbéla
+5795 Roshchina
 58-as busz (Budapest)
 58. BAFTA-gála
 58. Grammy-gála
@@ -5372,6 +5382,7 @@ A Dél-afrikai Unió az 1952. évi nyári olimpiai játékokon
 A Dél-afrikai Unió az 1956. évi nyári olimpiai játékokon
 A Dél-afrikai Unió az 1960. évi nyári olimpiai játékokon
 A Dél-afrikai Unió az 1960. évi téli olimpiai játékokon
+A Dűne: Az Atreides-ház
 A Falkland-szigetek kormányzóinak listája
 A Falkland-szigetek miniszterelnökeinek listája
 A Fantasztikus Négyes és az Ezüst Utazó
@@ -5743,6 +5754,7 @@ A Szovjetunió az 1972. évi nyári olimpiai játékokon
 A Szovjetunió az 1976. évi nyári olimpiai játékokon
 A Szovjetunió az 1980. évi nyári olimpiai játékokon
 A Szovjetunió az 1988. évi nyári olimpiai játékokon
+A Szovjetunió az 1988. évi téli olimpiai játékokon
 A Szovjetunió az olimpiai játékokon
 A Szovjetunió elnökeinek listája
 A Szovjetunió felbomlása
@@ -6664,6 +6676,7 @@ A szomorúság háromszöge
 A szovjet csapatok kivonulása Magyarországról
 A szovjet hadifoglyok elleni német atrocitások a második világháborúban
 A szovjetek által elkövetett háborús bűnök a második világháborúban
+A sztálini diktatúra áldozatainak listája
 A sztárcsináló
 A szuperágyú
 A számítógép története
@@ -8617,6 +8630,7 @@ Almásy-kastély (Felsőpetény)
 Alménes
 Aloha (Oregon)
 Alois Dansou
+Alois Hába
 Alois Jaroš
 Alois Jirásek
 Alois Kaňkovský
@@ -9695,6 +9709,7 @@ Andy Potts
 Andy Richter
 Andy Roddick
 Andy Samberg
+Andy Seto
 Andy Smith (hurler)
 Andy Sneap
 Andy Warhol
@@ -9878,6 +9893,7 @@ Animátor
 Animátrix
 Aninósza
 Aniplex
+Anisits Ferenc
 Anissa Tann
 Anisy
 Anita Allen
@@ -10121,6 +10137,7 @@ Antikomintern paktum
 Antikvár könyvkereskedelem
 Antikvár vásár
 Antikvárius
+Antillai sarlósfecske
 Antilly (Moselle)
 Antillón
 Antilop
@@ -10828,6 +10845,7 @@ Armen Nazarjan
 Armenia Magna
 Armenteros
 Armentières
+Armentières (egyértelműsítő lap)
 Armentières-en-Brie
 Armentières-sur-Ourcq
 Armia
@@ -11655,6 +11673,7 @@ Autodromo Nazionale di Monza
 Autofágia
 Autokrácia
 Automata sebességváltó
+Automatic (Dweezil Zappa album)
 Automatic (Red Velvet dal)
 Automatic Baby
 Automatic Data Processing
@@ -13363,6 +13382,7 @@ Baye (Finistère)
 Bayencourt
 Bayer 04 Leverkusen
 Bayer AG
+Bayer József (politológus)
 Bayern München
 Bayeux
 Bayon (Meurthe-et-Moselle)
@@ -13388,6 +13408,7 @@ Bazooka
 Bazougers
 Bazsalikom
 Bazsi
+Bazsó Zsigmond
 Bazuel
 Bazzano
 Bazális test
@@ -13554,8 +13575,10 @@ Becske alsó megállóhely
 Becsvölgye
 Becsületes tolvaj
 Becsületrend (Franciaország)
+Becsületsértés
 Becősmohák
 Beda Venerabilis
+Beddes
 Bede Ferenc
 Bede-Fazekas Szabolcs
 Bedecs
@@ -13591,6 +13614,7 @@ Behind the Wheel 2011
 Behren-lès-Forbach
 Behrn Arena
 Behrouz
+Beijing Great Wheel
 Beijing Guoan (Superleague Formula team)
 Beinasco
 Beirne Lay
@@ -13968,6 +13992,7 @@ Bennett megye
 Benney
 Benni McCarthy
 Bennie Brazell
+Bennie Green
 Bennington (város, Vermont)
 Bennington megye
 Benno Möhlmann
@@ -16633,6 +16658,7 @@ Brown Sugar (streamingplatform)
 Brown megye (Dél-Dakota)
 Brown-kormány
 Brown-sziget (Washington)
+Brownie (egyértelműsítő lap)
 Browning Automatic Rifle
 Broxeele
 Broye (Saône-et-Loire)
@@ -17545,6 +17571,7 @@ Bécsi Kongresszus
 Bécsi Konzuli Egyezmény
 Bécsi Képzőművészeti Akadémia
 Bécsi döntések
+Bécsi főegyházmegye
 Bécsi hajó
 Bécsi kongresszus
 Bécsi metró
@@ -17659,6 +17686,7 @@ Bíró (igazságszolgáltatás)
 Bíró Gyula (labdarúgó, 1890)
 Bíró Ica
 Bíró Lajos (egyértelműsítő lap)
+Bíró Mihály (labdarúgó)
 Bíró Miklós (operatőr)
 Bíró Péter (labdarúgó)
 Bíró Yvette
@@ -19081,6 +19109,7 @@ Cezary Siess
 Cha-Cha-Cha
 Chabreloche
 Chabris
+Chacchobén
 Chacrise
 Chacé
 Chad Allen
@@ -19992,6 +20021,7 @@ Christoph Waltz
 Christoph Westerthaler
 Christoph Zeller
 Christophe Arciero
+Christophe Auguin
 Christophe Bordeau
 Christophe Cheval
 Christophe Dugarry
@@ -20042,6 +20072,7 @@ Chuan Chih-Yuan
 Chuck Berry
 Chuck Carroll
 Chuck Close
+Chuck Connors
 Chuck Cooper
 Chuck Ferries
 Chuck Jones
@@ -21849,6 +21880,7 @@ Csepin
 Cseppfertőzés
 Csepregi Éva
 Cser Gábor
+Cser-hegyi-rombarlang
 Cseralja
 Cserbel
 Cserbel község
@@ -22407,6 +22439,7 @@ Csütörtök
 Csütörtökhely
 Csőre Gábor
 Csőrös Harvey
+Csőrös sás
 Csősz (település)
 Csősz Boglárka
 Csűry Bálint-díj
@@ -22922,6 +22955,7 @@ Dan Fogler
 Dan Goldman
 Dan Gurney
 Dan Kellner
+Dan Kesa
 Dan Ketchum
 Dan Klatt
 Dan Maloney
@@ -23144,6 +23178,7 @@ Danulesd
 Danurwindo
 Danvou-la-Ferrière
 Dany Boon
+Dany Carrel
 Dany Colebunders
 Danyijar Kobonov
 Danzig (együttes)
@@ -24602,6 +24637,7 @@ Dobos Gábor
 Dobos Sándor
 Doboz
 Dobozy Imre (író)
+Dobozy Lina
 Dobra (Hunyad megye)
 Dobra (Szatmár megye)
 Dobra (folyó)
@@ -24766,6 +24802,7 @@ Dominique de La Rochefoucauld
 Dominkó István (mezőgazdász)
 Domino (film)
 Dominois
+Dominó
 Domitianus római császár
 Domjean
 Domjevin
@@ -25526,6 +25563,7 @@ Dánia a 2000. évi nyári olimpiai játékokon
 Dánia a 2004. évi nyári olimpiai játékokon
 Dánia a 2008. évi nyári olimpiai játékokon
 Dánia a 2012. évi nyári olimpiai játékokon
+Dánia a 2014. évi téli olimpiai játékokon
 Dánia a 2016. évi nyári olimpiai játékokon
 Dánia az 1948. évi nyári olimpiai játékokon
 Dánia az 1960. évi téli olimpiai játékokon
@@ -26410,6 +26448,7 @@ Eisenhüttenstadt
 Ejeme
 Ejnar Hertzsprung
 Ejnar Levison
+Ejpovice
 Ekanem Bálint
 Ekaterini Thanou
 Ekcéma
@@ -26439,6 +26478,7 @@ El Manzano
 El Mazucó-i csata
 El Maíllo
 El Milano
+El Molar (egyértelműsítő lap)
 El Niño
 El Nuevo Día
 El Palomar, Valencia
@@ -26953,6 +26993,7 @@ Emoto Nao
 Empalme metróállomás
 Empedoklész
 Emperador, Valencia
+Empidonax
 Empire of the Clouds
 Empiriokriticizmus
 Empirizmus
@@ -27010,6 +27051,7 @@ Enea Bastianini
 Enea Silvio Piccolomini
 Enea Silvio Piccolomini (egyértelműsítő lap)
 Enea Silvio Piccolomini d’Aragona
+Enebakk község
 Enejida
 Enemies of Reality
 Energia
@@ -27037,6 +27079,7 @@ Engomer
 Enguera
 Enhanced Small Disk Interface
 Eni kelet-angliai király
+Enid (egyértelműsítő lap)
 Enigma (film, 2001)
 Enigma (gép)
 Enjoy Yourself
@@ -27218,6 +27261,7 @@ Erdene-Ocsirín Dolgormá
 Erdey-Grúz Tibor
 Erdély
 Erdély Miklós
+Erdély címere
 Erdélyi Gyülekezet
 Erdélyi József (költő)
 Erdélyi Kárpát Egyesület
@@ -28720,6 +28764,7 @@ Fegyverszünet karácsonyra
 Fegyverszünet napja
 Fegyvertelen, de veszélyes
 Fehér
+Fehér Angyal Patikamúzeum
 Fehér Anna (színművész)
 Fehér Anna (tornász)
 Fehér Attila (egyértelműsítő lap)
@@ -29111,6 +29156,7 @@ Fenain
 Fenalén
 Fendeille
 Fender Eric Clapton Signature Stratocaster
+Fender Jaguar Bass
 Fenegyerek
 Feneketlen mélység (film)
 Fenella Fielding
@@ -29345,6 +29391,7 @@ Fignières
 Figueruela de Arriba
 Figyelo.hu
 Figyelő (egyértelműsítő lap)
+Figyelő (hetilap, 1871–1876)
 Figyelő (hetilap, 1958–2022)
 Filain (Aisne)
 Filefalva
@@ -29854,6 +29901,7 @@ Fonfría (Zamora)
 Fongrave
 Fongueusemare
 Fonni
+Fonnyadt Zsolt
 Fonogram – Magyar Zenei Díj
 Fonsomme
 Font sterling
@@ -30283,6 +30331,7 @@ Franciaország az 1994. évi téli olimpiai játékokon
 Franciaország az 1996. évi nyári olimpiai játékokon
 Franciaország az 1998. évi téli olimpiai játékokon
 Franciaország az olimpiai játékokon
+Franciaország diplomáciai misszióinak listája
 Franciaország elnökeinek listája
 Franciaország megyéi
 Franciaország miniszterelnökeinek listája
@@ -32055,6 +32104,7 @@ Galgóczi Erzsébet
 Galgóczy Árpád
 Galiciai nyelv
 Galiciaiak
+Galicsica
 Galilei Kör
 Galilei-holdak
 Galileo Galilei
@@ -32184,6 +32234,7 @@ Gara (Magyarország)
 Gara (egyértelműsítő lap)
 Garaba Imre
 Garabonc
+Garadna (egyértelműsítő lap)
 Garai Gábor
 Garai István Levente
 Garai Miklós (nádor, ?–1386)
@@ -33052,6 +33103,7 @@ Gilles Berolatti
 Gilles Jalabert
 Gilles Pelletier
 Gilles Quénéhervé
+Gilley (Doubs)
 Gillian Keegan
 Gillian Lynne
 Gillingham FC
@@ -33355,6 +33407,7 @@ Gloria Katz
 Gloriett-busz (Budapest)
 Glorious
 Glossop North End AFC
+Glossy
 Gloucester
 Gluttons for Punishment
 Glyptodon
@@ -34730,6 +34783,7 @@ Gyergyóremete község
 Gyergyószentmiklós
 Gyergyószentmiklósi járás
 Gyergyószárhegy
+Gyergyószárhegyi Tatárdomb
 Gyergyótölgyes
 Gyergyótölgyes község
 Gyergyóvárhegy
@@ -34798,6 +34852,7 @@ Gyula ostroma (1529–30)
 Gyulafehérvár
 Gyulai Líviusz
 Gyulai Pál (irodalomtörténész)
+Gyulai Ágost
 Gyulakeszi
 Gyulakuta
 Gyulakuta község
@@ -35183,6 +35238,7 @@ HF–24 Marut
 HGTV Egyesült Királyság és Írország
 HGTV Franciaország
 HGTV Kanada
+HGe 2/2
 HH–60 Pave Hawk
 HIDIVE
 HIL bus
@@ -35569,6 +35625,7 @@ Halálozások 2023-ban
 Haláltáborok
 Halász Ignác
 Halász Júlia (újságíró)
+Halász Margit
 Halász Mihály (operatőr)
 Halászat
 Halífa bin Zájed Ál Nahaján
@@ -35636,6 +35693,7 @@ Hamuházi-forrás
 Hamvadó cigarettavég (film)
 Hamvas Béla Collegium
 Hamvas Dániel
+Hamvas gyapjaslepke
 Hamza Abdo
 Han (állam)
 Han Ahmedov
@@ -35668,6 +35726,7 @@ Hand on Your Heart
 Handalbustyaháza
 Handbook of the Birds of the World
 Handzsa
+Hangafélék
 Hangard
 Hangcsoui metró
 Hanger Lane (metróállomás)
@@ -36044,6 +36103,7 @@ Harsányi Sulyom László
 Harsányi Zsolt
 Hart Racing Engines
 Hart-emlékkupa
+Harta (egyértelműsítő lap)
 Hartennes-et-Taux
 Hartford (Connecticut)
 Hartford Courant
@@ -36349,6 +36409,7 @@ Hegedűs Judit
 Hegedűs Lajos (színművész)
 Hegedűs Ágnes (színművész)
 Hegedűsfalva
+Hegedűverseny No. 3 (Mozart)
 Hegybánya
 Hegyes kucsmagomba
 Hegyesbisztra
@@ -36621,6 +36682,7 @@ Henry Fonda
 Henry Foster
 Henry Fuseli
 Henry Grace
+Henry Gunther
 Henry Hallett Dale
 Henry Kater
 Henry King
@@ -39201,6 +39263,7 @@ Ilja Konovalov
 Ilja Pjatecki-Sapiro
 Ilja Racek
 Ilja Venäläinen
+Illadopsis rufipennis
 Illange
 Illartein
 Illatos ibolya
@@ -40855,6 +40918,7 @@ Jannis Zamanduridis
 Janovics Sándor
 Janowskai koncentrációs tábor
 Janszky József
+Janszky-ügy
 Jantra (vallás)
 January Jones
 Janus Pannonius
@@ -42758,6 +42822,7 @@ João Oliveira
 Joël Bettin
 Joël Bouzou
 Joël Drommel
+Joël Epalle
 Joël Robuchon
 Joël Santoni
 Joël-François Durand
@@ -42871,6 +42936,7 @@ Jugureni (egyértelműsítő lap)
 Jugureni címere
 Juhar
 Juhos
+Juhos Attila
 Juhász Adél
 Juhász Ferenc (költő)
 Juhász Gyula (történész)
@@ -44314,6 +44380,7 @@ Kavagucsi Josikacu
 Kavagucsi Takao
 Kavaja
 Kavamura Takeo
+Kavanisi Takehiko
 Kavaszaki Jukari
 Kavasze Naomi
 Kavasze Tomoko
@@ -44687,6 +44754,7 @@ Kerecseny
 Kerek Ferenc (kémikus)
 Kerek repkény
 Kerekek és lépések
+Kerekes József (egyértelműsítő lap)
 Kerekes József (színművész)
 Kerekes László (színművész)
 Kerekesférgek
@@ -46016,6 +46084,7 @@ Komano Júicsi
 Kombinatorika
 Kombinatorikus bizonyítás
 Komesarac
+Komfortfokozat
 Komi nyelv
 Komi-permják nyelv
 Komik
@@ -46211,6 +46280,7 @@ Korbászka
 Korcsmár Zsolt
 Korda György
 Korda János (mérnök)
+Korda Sándor (filmrendező)
 Kordos László (geológus)
 Kordun
 Kordunski Ljeskovac
@@ -46902,6 +46972,7 @@ Kvantummechanika
 Kvantumtérelmélet
 Kvantung-hadsereg
 Kvarc
+Kvassó
 Kvaszong–14
 Kvaternió
 Kvon Hjok
@@ -47078,6 +47149,7 @@ Kárpátalja visszafoglalása
 Kárpátaljai Labdarúgó-szövetség
 Kárpátaljai Megyei Tanács
 Kárpátaljai magyarok
+Kárpáti Béla (egyértelműsítő lap)
 Kárpáti György (filmrendező)
 Kárpáti György (vízilabdázó)
 Kárpáti Károly (birkózó)
@@ -47118,6 +47190,7 @@ Kék bolygó
 Kék golgotavirág
 Kék indiángyökér
 Kék iringó
+Kék Áramlat
 Kékedi László
 Kékesedő üregestinóru
 Kékesfalva
@@ -47133,6 +47206,7 @@ Kékhomlokú amazon
 Kékhátú galambgomba
 Kékkoronás amazon
 Kékkút
+Kékkői vár
 Kéklő-hegység
 Kékmaszkos amazon
 Kéksapkás amazon
@@ -47867,6 +47941,7 @@ La Forêt-le-Roi
 La Fosse-de-Tigné
 La Frasnée
 La Fregeneda
+La Frette (Isère)
 La Frette (Saône-et-Loire)
 La Frénaye
 La Fuente de San Esteban
@@ -48136,6 +48211,7 @@ Labinci
 Labinot Harbuzi
 Labish Center
 Labish Village
+Labiális (egyértelműsítő lap)
 Labiális hang
 Labodás
 Laboissière-en-Santerre
@@ -48392,6 +48468,7 @@ Lampaul-Plouarzel
 Lampaul-Ploudalmézeau
 Lampich Árpád
 Lamponidae
+Lampornis
 Lamure-sur-Azergues
 Lan Lixin
 Lana Del Rey
@@ -50087,6 +50164,7 @@ Lickóvadamos
 Licourt
 Licsérd
 Licy-Clignon
+Lidové noviny
 Lidrezing
 Lidércek (opera)
 Lie-csoport
@@ -51390,6 +51468,7 @@ Ludovic Proto
 Ludres
 Ludvík Aškenazy
 Ludvík Vaculík
+Ludwig Aurbacher
 Ludwig Harig
 Ludwig Paischer
 Ludwig Richter
@@ -51847,6 +51926,7 @@ Léphaft Pál
 Léran
 Lésigny (Seine-et-Marne)
 Léstyán Ferenc
+Lészay-kúria
 Létra (Rhône)
 Létricourt
 Létsík
@@ -51925,6 +52005,7 @@ Lúviai nyelv
 Lü Lin
 Lübeck
 Lükhnisz
+Lükia művészete
 Lükurgosz (athéni szónok)
 Lüsziasz
 Lăzești
@@ -52749,6 +52830,7 @@ Magyarország a 2016. évi nyári olimpiai játékokon
 Magyarország a 2020-as úszó-Európa-bajnokságon
 Magyarország a 2020. évi nyári olimpiai játékokon
 Magyarország a második világháborúban
+Magyarország a paralimpiai játékokon
 Magyarország alaptörvénye
 Magyarország az 1904. évi nyári olimpiai játékokon
 Magyarország az 1912. évi nyári olimpiai játékokon
@@ -52802,6 +52884,7 @@ Magyarországi Tanácsköztársaság
 Magyarországi földreform (1945)
 Magyarországi horvátok
 Magyarországi időszaki lapok listája
+Magyarországi mauzóleumok listája
 Magyarországi partizánműveletek
 Magyarországi szlovén költők, írók listája
 Magyarországi szlovének
@@ -53228,6 +53311,7 @@ Mambrillas de Lara
 Mamdouh Elssbiay
 Mametz (Somme)
 Mamey (Meurthe-et-Moselle)
+Maminydjama Maymuru
 Mammut bevásárlóközpont
 Mamoiada
 Mamolar
@@ -53519,6 +53603,7 @@ Marcilly (Manche)
 Marcilly (Seine-et-Marne)
 Marcilly (egyértelműsítő lap)
 Marcilly-d’Azergues
+Marcilly-la-Campagne
 Marcilly-la-Gueurce
 Marcilly-lès-Buxy
 Marcillé-la-Ville
@@ -54542,6 +54627,7 @@ Mathieu (Calvados)
 Mathieu Amalric
 Mathieu Kassovitz
 Mathieu Kérékou
+Mathons
 Mathonville
 Mathurin Jacques Brisson
 Matica slovenská
@@ -54845,6 +54931,7 @@ Mayreville
 Mayronnes
 Mayrornis
 Maytown (Washington)
+Maz Kanata
 Mazariegos
 Mazaye
 Mazda Raceway Laguna Seca
@@ -55632,6 +55719,7 @@ Miami Beach
 Miami Dolphins
 Miami Egyetem
 Miami Heat
+Miami International Autodrome
 Miami metró
 Mianmar
 Mianmar a 2000. évi nyári olimpiai játékokon
@@ -56080,6 +56168,7 @@ Mike Bryan
 Mike Cahill
 Mike Cameron
 Mike Cannon
+Mike Colter
 Mike Conley
 Mike Conway
 Mike Dean
@@ -56169,6 +56258,7 @@ Mikolapatak
 Mikológia
 Mikorrhiza
 Mikołaj Lewański
+Mikołaj Wierzynek (idősebb)
 Mikro-RNS
 MikroRNS
 Mikrobiológia
@@ -56543,6 +56633,7 @@ Mirville
 Mirwais Ahmadzaï
 Mirwan Kassouf
 Mirza Džomba
+Mirza Gázi bég
 Misano World Circuit
 Misano World Circuit Marco Simoncelli
 Miscon
@@ -56701,6 +56792,7 @@ Mocskos zsaruk
 Mocsokváros utcáin
 Mocsonok
 Mocsár (Szlovákia)
+Mocsári ördög
 Modafinil
 Modautal
 Model Behavior
@@ -56778,6 +56870,7 @@ Mohamed Ibrahim Aden
 Mohamed Kallon
 Mohamed Kasbr
 Mohamed Keshk
+Mohamed Khairy
 Mohamed M. Atalla
 Mohamed Mahrúfí
 Mohamed Masoud
@@ -57554,6 +57647,7 @@ Moriscos
 Morisel
 Morisita Hitosi
 Morita Akio
+Moritz Gottlieb Saphir
 Moritz Nicolas
 Moriviller
 Moriwaki
@@ -58894,6 +58988,7 @@ Nadia Conners
 Nadine Auzeil-Schoellkopf
 Nadine Coyle
 Nadine Debois
+Nadrág (település)
 Nadzeja Viszockaja
 Nafir
 Nafta
@@ -58917,6 +59012,7 @@ Nagy Bandó András
 Nagy Dominik
 Nagy Edmond
 Nagy Elek (üzletember)
+Nagy Ervin (sportoló)
 Nagy Ervin (színművész)
 Nagy Ervin (építész)
 Nagy Feró
@@ -59761,6 +59857,7 @@ Nemesszer
 Nemessándorháza
 Nemessány
 Nemesség
+Nemesvid
 Nemesvita
 Nemesvámos
 Nemeszsuk
@@ -61349,6 +61446,7 @@ Németszentpéter
 Németság
 Németság község
 Németságipuszta
+Németújvári járás
 Német–lengyel megnemtámadási egyezmény
 Némó kapitány (film, 1954)
 Némó nyomában
@@ -61507,6 +61605,7 @@ Női 1500 méteres síkfutás a 2004. évi nyári olimpiai játékokon
 Női 1500 méteres síkfutás a 2020. évi nyári olimpiai játékokon
 Női 1500 méteres síkfutás az 1972. évi nyári olimpiai játékokon
 Női 20 km-es gyaloglás a 2004. évi nyári olimpiai játékokon
+Női 20 km-es gyaloglás a 2008. évi nyári olimpiai játékokon
 Női 20 km-es gyaloglás a 2020. évi nyári olimpiai játékokon
 Női 200 méteres gyorsúszás a 2000. évi nyári olimpiai játékokon
 Női 200 méteres gyorsúszás a 2004. évi nyári olimpiai játékokon
@@ -63292,6 +63391,7 @@ Ours (dal)
 Ourville-en-Caux
 Ousmane Camara
 Oussières
+Oussoy-en-Gâtinais
 Oust (Ariège)
 Oust-Marest
 Out (magazin)
@@ -63349,6 +63449,7 @@ Oxide Pang Chun
 Oxidáció
 Oxigén
 Oxudercinae
+Oxymonacanthus
 Oxyopidae
 Oxálecetsav
 Oy Vey Baby
@@ -64165,6 +64266,7 @@ Patrick Blackett
 Patrick Brennan
 Patrick Daughters
 Patrick Dempsey
+Patrick Desbois
 Patrick Doyle
 Patrick Duffy
 Patrick Duflos
@@ -64314,6 +64416,7 @@ Paul Philipp
 Paul Philippi
 Paul Pohl
 Paul Reps
+Paul Revere
 Paul Rhys
 Paul Roberts
 Paul Robinson (labdarúgó, 1979)
@@ -65755,6 +65858,7 @@ Plein air
 Pleine-Selve (Aisne)
 Pleine-Sève
 Pleisztocén
+Plesch Árpád
 Plesitelep
 Plesnois
 Plessis-Saint-Benoist
@@ -67072,6 +67176,7 @@ Pákozdi csata
 Pál Dénes (énekes)
 Pál Tamás (énekes)
 Pál apostol
+Pál levele Tituszhoz
 Pál-Fám Ferenc
 Pálfai Péter
 Pálffy Géza
@@ -67566,6 +67671,7 @@ R. Daneel Olivaw
 R. Kelly
 R. Lee Ermey
 R. S. Thomas
+R. Székely Julianna
 R. Venkataraman
 R.E.M.
 R.E.M.-diszkográfia
@@ -68699,6 +68805,7 @@ Reza Ojagh
 Reza Pahlavi iráni sah
 Rezes lepkedenevér
 Rezgés
+Reziduális dipoláris csatolás
 Rezmondo
 Rezonville
 Rezső körút
@@ -69381,6 +69488,7 @@ Roberto Baggio
 Roberto Barbaro
 Roberto Benigni
 Roberto Bolle
+Roberto Braatz
 Roberto Calcaterra
 Roberto Cammarelle
 Roberto Camposeco
@@ -70428,6 +70536,7 @@ Rutherford megye (Észak-Karolina)
 Rutino
 Ruttkai Éva
 Ruttkai Éva Színház
+Ruttkay György
 Rutube
 Rutén nyelv
 Ruténia
@@ -70455,6 +70564,7 @@ Ryan Hudson
 Ryan Lewis
 Ryan Lochte
 Ryan Mason
+Ryan Mendes
 Ryan Millar
 Ryan Phillippe
 Ryan Pini
@@ -71447,6 +71557,7 @@ Saint-Jean-Trolimon
 Saint-Jean-de-Barrou
 Saint-Jean-de-Bassel
 Saint-Jean-de-Beauregard
+Saint-Jean-de-Ceyrargues
 Saint-Jean-de-Daye
 Saint-Jean-de-Duras
 Saint-Jean-de-Folleville
@@ -71828,6 +71939,7 @@ Saint-Pierre-du-Perray
 Saint-Pierre-d’Arthéglise
 Saint-Pierre-en-Port
 Saint-Pierre-en-Val
+Saint-Pierre-en-Vaux
 Saint-Pierre-la-Bourlhonne
 Saint-Pierre-la-Cour
 Saint-Pierre-la-Palud
@@ -72513,6 +72625,7 @@ San Martino in Badia
 San Martín de Rubiales
 San Martín de Valderaduey
 San Martín del Castañar
+San Marzano di San Giuseppe
 San Marzano sul Sarno
 San Maurizio Canavese
 San Mauro Cilento
@@ -74225,6 +74338,7 @@ Sipos Péter (énekes)
 Sipőcz Brigitta
 Sir Edmond Boyle
 Siracusa
+Siracusa vasútállomás
 Sire Records
 Sireli Naqelevuki
 Sirio Perugia
@@ -74357,6 +74471,7 @@ Slavko Vinčić
 Slavín
 Sleater-Kinney
 Sledda essexi király
+Sleep (Unix)
 Sleepers - Pokoli lecke
 Sleepers – A pokoli lecke
 Sleepers – Pokoli lecke
@@ -76882,6 +76997,7 @@ Szent Mór és társai
 Szent Olaf-templom (Tallinn)
 Szent Orsolya-rend
 Szent Pakhomiosz
+Szent Pantaleon-apátság
 Szent Paraszkiva-fatemplom (Falusugatag)
 Szent Polikárp
 Szent Péter
@@ -78408,6 +78524,7 @@ Sándor László (egyértelműsítő lap)
 Sándor László (gépészmérnök)
 Sándor Pál (rendező)
 Sándor család (ságfai)
+Sándor-palota (Budapest)
 Sándor-palota (Esztergom)
 Sándorfalva
 Sándorhomok
@@ -79720,6 +79837,7 @@ Tetragnathidae
 Tetrahidrofurán
 Tetrahidrokannabinol
 Tetrarchia
+Tetrastes
 Tetraéder
 Tetsuta Nagashima
 Tett propagandája
@@ -80455,6 +80573,7 @@ Therr Maitz
 Thervay
 Theryl DeClouet
 These Are the Days of Our Lives
+These Days (Foo Fighters-dal)
 These Days (Take That-dal)
 Thesszalonikéi Eusztathiosz
 Thetisz
@@ -81258,6 +81377,7 @@ Tombusviridae
 Tomcsányi Pál
 Tomesd
 Tomesd község
+Tomest község
 Tomești (Fehér megye)
 Tomini-öböl
 Tomino
@@ -82197,6 +82317,7 @@ Tudományos módszer
 Tudománypolitika
 Tudou
 Tudósok
+Tufahija
 Tufani (Prahova megye)
 Tugny-et-Pont
 Tuileriák kertje
@@ -82255,6 +82376,7 @@ Turandot (opera)
 Turanspor
 Turay Ida Színház
 Turay József
+Turbinia
 Turbo (Kolumbia)
 Turbolya
 Turc község
@@ -82636,6 +82758,7 @@ Török Ferenc (öttusázó)
 Török Ilona
 Török Monika
 Török Szilveszter
+Török Sándor (egyértelműsítő lap)
 Török U21-es labdarúgó-válogatott
 Török hódoltság
 Török költők, írók listája
@@ -82679,6 +82802,7 @@ Tötör
 Tövis (település)
 Tövisaljagomba
 Tövises iglice
+Tövises lepényfa
 Töviskaktusz
 Tønsbergi csata
 Túl a Kálvin téren
@@ -82699,6 +82823,7 @@ Tüdőgyulladás
 Tüdőrák
 Tükör és füst
 Tükördob
+Tükördoboz
 Tükörfordítás
 Tükörkép
 Tündareósz
@@ -84430,6 +84555,7 @@ Verdenal
 Verdești
 Verdilly
 Verdun (Ariège)
+Verdun-bevaux-i francia katonai temető
 Verdun-en-Lauragais
 Verdun-sur-le-Doubs
 Verdák
@@ -85240,6 +85366,7 @@ Villers-sous-Ailly
 Villers-sous-Foucarmont
 Villers-sous-Prény
 Villers-sur-Authie
+Villers-sur-Coudun
 Villers-sur-Fère
 Villers-sur-Mer
 Villers-sur-Nied
@@ -86163,6 +86290,7 @@ Vérbosszú
 Vércsoport
 Vérdopping
 Vérehulló fecskefű
+Véres Valentin 3D
 Véres gyémánt (film)
 Véres sikátor
 Véresen egyszerű
@@ -86344,6 +86472,7 @@ Věra Ludíková
 Věra Růžičková
 Vœgtlinshoffen
 Vœlfling-lès-Bouzonville
+Vəcihə Səmədova
 V–22 Osprey
 W (magazine)
 W. Franke Harling
@@ -88098,6 +88227,7 @@ Zelkó Lajos
 Zell Miller
 Zellenberg
 Zeller
+Zeller Mihály
 Zellerfélék
 Zellerndorf
 Zellő
@@ -88291,6 +88421,7 @@ Zoufftgen
 Zováth János
 Zrenj
 Zrínyi György
+Zrínyi György (egyértelműsítő lap)
 Zrínyi Miklós (hadvezér)
 Zrínyi Miklós (költő)
 Zrínyifalva
@@ -88664,6 +88795,7 @@ vitatja
 Államok vezetőinek listája 271-ben
 Államok vezetőinek listája 394-ben
 Államok vezetőinek listája 432-ben
+Államok vezetőinek listája 434-ben
 Államosítás
 Állampárt
 Államszerkezet
@@ -89613,6 +89745,7 @@ vitatja
 Új csaj
 Új gazdasági mechanizmus
 Új hullám (zene)
+Új kezdet (Így jártam anyátokkal)
 Új magyar lexikon
 Új magyar életrajzi lexikon
 Új ég, új föld
@@ -89929,6 +90062,7 @@ vitatja
 Špadići
 Špehari
 Štadión Pasienky
+Štakorovec
 Štakorovica
 Šterna
 Štifanići
@@ -90200,6 +90334,7 @@ vitatja
 116-os busz (Budapest, 1985–1994)
 116. utcai banda
 1163-as busz
+1165 (szám)
 117-es busz (Budapest)
 117086 Lóczy
 1171-es busz
@@ -90845,6 +90980,7 @@ vitatja
 1932. évi téli olimpiai játékok
 1932–1933-as NHL-szezon
 1932–1933-as belga labdarúgó-bajnokság (első osztály)
+1932–1933-as magyar labdarúgó-bajnokság (első osztály)
 1932–1933-as magyar labdarúgókupa
 1932–1933-as olasz labdarúgó-bajnokság (első osztály)
 1932–1933-as spanyol labdarúgó-bajnokság (harmadosztály)
@@ -91085,6 +91221,7 @@ vitatja
 1958–1959-es spanyol labdarúgó-bajnokság (másodosztály)
 1958–1960-as vásárvárosok kupája
 1959 a filmművészetben
+1959-es Formula–1 brit nagydíj
 1959-es MotoGP-világbajnokság
 1959-es cannes-i filmfesztivál
 1959-es férfi kosárlabda-Európa-bajnokság
@@ -91356,6 +91493,7 @@ vitatja
 1974–1975-ös spanyol labdarúgó-bajnokság (első osztály)
 1975 a filmművészetben
 1975-ös Eurovíziós Dalfesztivál
+1975-ös Formula–1 argentin nagydíj
 1975-ös MotoGP-világbajnokság
 1975-ös UEFA-kupa-döntő
 1975-ös cannes-i filmfesztivál
@@ -91459,6 +91597,7 @@ vitatja
 1980-as MotoGP-világbajnokság
 1980-as NHL-draft
 1980-as UEFA-kupa-döntő
+1980-as Vuelta ciclista a España
 1980-as cannes-i filmfesztivál
 1980-as kupagyőztesek Európa-kupája-döntő
 1980-as magyar labdarúgókupa-döntő
@@ -92125,6 +92264,7 @@ vitatja
 2000–2001-es NBA-szezon
 2000–2001-es NHL-szezon
 2000–2001-es UEFA-kupa
+2000–2001-es jugoszláv SZK labdarúgó-bajnokság (első osztály)
 2000–2001-es magyar labdarúgókupa
 2000–2001-es német labdarúgó-bajnokság (első osztály)
 2000–2001-es német labdarúgókupa
@@ -93125,6 +93265,7 @@ vitatja
 2017-es Kína-kupa
 2017-es Kína-kupa keret
 2017-es Le Mans-i 24 órás verseny
+2017-es MTV Movie & TV Awards
 2017-es MTV Video Music Awards
 2017-es Moto2-világbajnokság
 2017-es Moto3-világbajnokság
@@ -93327,6 +93468,7 @@ vitatja
 2020-as MotoGP valenciai nagydíj
 2020-as MotoGP-világbajnokság
 2020-as NBA-buborék
+2020-as Roland Garros – női egyes
 2020-as WEC Lone Star Le Mans
 2020-as WEC Spái 6 órás verseny
 2020-as WEC bahreini 8 órás verseny
@@ -93618,6 +93760,7 @@ vitatja
 231470 Bedding
 231B busz (Budapest)
 233-as busz (Budapest)
+2330 Ontake
 233893 Honthyhanna
 233E busz (Budapest)
 234-es busz (Budapest)
@@ -93683,6 +93826,7 @@ vitatja
 251A busz (Budapest)
 251E busz (Budapest)
 252-es busz (Budapest)
+2522-es mellékút (Magyarország)
 253-as busz (Budapest)
 253412 Ráskaylea
 254846 Csontváry
@@ -94833,6 +94977,7 @@ vitatja
 811-es busz
 8126-os mellékút (Magyarország)
 815-ös busz
+8192 Tonucci
 81gy busz (Budapest)
 82-es busz (Budapest)
 82-es trolibusz (Budapest)
@@ -95297,6 +95442,7 @@ A Dél-afrikai Unió az 1952. évi nyári olimpiai játékokon
 A Dél-afrikai Unió az 1956. évi nyári olimpiai játékokon
 A Dél-afrikai Unió az 1960. évi nyári olimpiai játékokon
 A Dél-afrikai Unió az 1960. évi téli olimpiai játékokon
+A Dűne: Az Atreides-ház
 A Falkland-szigetek kormányzóinak listája
 A Falkland-szigetek miniszterelnökeinek listája
 A Fantasztikus Négyes és az Ezüst Utazó
@@ -96590,6 +96736,7 @@ A szomorúság háromszöge
 A szovjet csapatok kivonulása Magyarországról
 A szovjet hadifoglyok elleni német atrocitások a második világháborúban
 A szovjetek által elkövetett háborús bűnök a második világháborúban
+A sztálini diktatúra áldozatainak listája
 A sztárcsináló
 A szuperágyú
 A számítógép története
@@ -98553,6 +98700,7 @@ Alois herceg
 Aloja
 Alojz Engliš
 Alojz Rebula
+Aloma
 Alon Mandel
 Alon Yefet
 Alone and Forsaken
@@ -99806,6 +99954,7 @@ Animátor
 Animátrix
 Aninósza
 Aniplex
+Anisits Ferenc
 Anissa Tann
 Anisy
 Anita Allen
@@ -100049,6 +100198,7 @@ Antikomintern paktum
 Antikvár könyvkereskedelem
 Antikvár vásár
 Antikvárius
+Antillai sarlósfecske
 Antilly (Moselle)
 Antillón
 Antilop
@@ -100756,6 +100906,7 @@ Armen Nazarjan
 Armenia Magna
 Armenteros
 Armentières
+Armentières (egyértelműsítő lap)
 Armentières-en-Brie
 Armentières-sur-Ourcq
 Armia
@@ -102307,6 +102458,7 @@ Babel (együttes)
 Babel (film)
 Babel (könyv)
 Babeș–Bolyai Tudományegyetem
+Babfaformák
 Babi kávézója
 Babiczky László (rendező)
 Babij Jar-i mészárlás
@@ -103292,6 +103444,7 @@ Baye (Finistère)
 Bayencourt
 Bayer 04 Leverkusen
 Bayer AG
+Bayer József (politológus)
 Bayern München
 Bayeux
 Bayon (Meurthe-et-Moselle)
@@ -103484,6 +103637,7 @@ Becske alsó megállóhely
 Becsvölgye
 Becsületes tolvaj
 Becsületrend (Franciaország)
+Becsületsértés
 Becősmohák
 Beda Venerabilis
 Beddes
@@ -103522,6 +103676,7 @@ Behind the Wheel 2011
 Behren-lès-Forbach
 Behrn Arena
 Behrouz
+Beijing Great Wheel
 Beijing Guoan (Superleague Formula team)
 Beinasco
 Beirne Lay
@@ -103899,6 +104054,7 @@ Bennett megye
 Benney
 Benni McCarthy
 Bennie Brazell
+Bennie Green
 Bennington (város, Vermont)
 Bennington megye
 Benno Möhlmann
@@ -105624,6 +105780,7 @@ Borsó
 Borsómező
 Bort-l’Étang
 Bortigali
+Bortle-skála
 Bortnyik Sándor
 Borussia Dortmund
 Borussia Mönchengladbach
@@ -106564,6 +106721,7 @@ Brown Sugar (streamingplatform)
 Brown megye (Dél-Dakota)
 Brown-kormány
 Brown-sziget (Washington)
+Brownie (egyértelműsítő lap)
 Browning Automatic Rifle
 Broxeele
 Broye (Saône-et-Loire)
@@ -107476,6 +107634,7 @@ Bécsi Kongresszus
 Bécsi Konzuli Egyezmény
 Bécsi Képzőművészeti Akadémia
 Bécsi döntések
+Bécsi főegyházmegye
 Bécsi hajó
 Bécsi kongresszus
 Bécsi metró
@@ -107590,6 +107749,7 @@ Bíró (igazságszolgáltatás)
 Bíró Gyula (labdarúgó, 1890)
 Bíró Ica
 Bíró Lajos (egyértelműsítő lap)
+Bíró Mihály (labdarúgó)
 Bíró Miklós (operatőr)
 Bíró Péter (labdarúgó)
 Bíró Yvette
@@ -107624,6 +107784,7 @@ Böhm Károly (katolikus pap)
 Böhmerwaldplatz metróállomás
 Bökény község
 Bölcsesség a buddhizmusban
+Bölcsőd lesz a koporsód
 Bölöni Farkas Sándor
 Böngésző
 Börcsök Enikő
@@ -109012,6 +109173,7 @@ Cezary Siess
 Cha-Cha-Cha
 Chabreloche
 Chabris
+Chacchobén
 Chacrise
 Chacé
 Chad Allen
@@ -109923,6 +110085,7 @@ Christoph Waltz
 Christoph Westerthaler
 Christoph Zeller
 Christophe Arciero
+Christophe Auguin
 Christophe Bordeau
 Christophe Cheval
 Christophe Dugarry
@@ -109973,6 +110136,7 @@ Chuan Chih-Yuan
 Chuck Berry
 Chuck Carroll
 Chuck Close
+Chuck Connors
 Chuck Cooper
 Chuck Ferries
 Chuck Jones
@@ -111780,6 +111944,7 @@ Csepin
 Cseppfertőzés
 Csepregi Éva
 Cser Gábor
+Cser-hegyi-rombarlang
 Cseralja
 Cserbel
 Cserbel község
@@ -112338,6 +112503,7 @@ Csütörtök
 Csütörtökhely
 Csőre Gábor
 Csőrös Harvey
+Csőrös sás
 Csősz (település)
 Csősz Boglárka
 Csűry Bálint-díj
@@ -112853,6 +113019,7 @@ Dan Fogler
 Dan Goldman
 Dan Gurney
 Dan Kellner
+Dan Kesa
 Dan Ketchum
 Dan Klatt
 Dan Maloney
@@ -113075,6 +113242,7 @@ Danulesd
 Danurwindo
 Danvou-la-Ferrière
 Dany Boon
+Dany Carrel
 Dany Colebunders
 Danyijar Kobonov
 Danzig (együttes)
@@ -113464,6 +113632,7 @@ Davor Bubanja
 Davor Dominiković
 Davor Kus
 Davor Vugrinec
+Davorin Popović
 Davy Jones
 Davy-érem
 Davíð Oddsson
@@ -114533,6 +114702,7 @@ Dobos Gábor
 Dobos Sándor
 Doboz
 Dobozy Imre (író)
+Dobozy Lina
 Dobra (Hunyad megye)
 Dobra (Szatmár megye)
 Dobra (folyó)
@@ -114697,6 +114867,7 @@ Dominique de La Rochefoucauld
 Dominkó István (mezőgazdász)
 Domino (film)
 Dominois
+Dominó
 Domitianus római császár
 Domjean
 Domjevin
@@ -115457,6 +115628,7 @@ Dánia a 2000. évi nyári olimpiai játékokon
 Dánia a 2004. évi nyári olimpiai játékokon
 Dánia a 2008. évi nyári olimpiai játékokon
 Dánia a 2012. évi nyári olimpiai játékokon
+Dánia a 2014. évi téli olimpiai játékokon
 Dánia a 2016. évi nyári olimpiai játékokon
 Dánia az 1948. évi nyári olimpiai játékokon
 Dánia az 1960. évi téli olimpiai játékokon
@@ -116371,6 +116543,7 @@ El Manzano
 El Mazucó-i csata
 El Maíllo
 El Milano
+El Molar (egyértelműsítő lap)
 El Niño
 El Nuevo Día
 El Palomar, Valencia
@@ -116885,6 +117058,7 @@ Emoto Nao
 Empalme metróállomás
 Empedoklész
 Emperador, Valencia
+Empidonax
 Empire of the Clouds
 Empiriokriticizmus
 Empirizmus
@@ -116942,6 +117116,7 @@ Enea Bastianini
 Enea Silvio Piccolomini
 Enea Silvio Piccolomini (egyértelműsítő lap)
 Enea Silvio Piccolomini d’Aragona
+Enebakk község
 Enejida
 Enemies of Reality
 Energia
@@ -117365,6 +117540,7 @@ Ernest William Goodpasture
 Ernestinovo
 Ernesto Cabruna
 Ernesto Canto
+Ernesto Laclau
 Ernesto Pena
 Ernesto Razzino
 Ernestviller
@@ -118654,6 +118830,7 @@ Fegyverszünet karácsonyra
 Fegyverszünet napja
 Fegyvertelen, de veszélyes
 Fehér
+Fehér Angyal Patikamúzeum
 Fehér Anna (színművész)
 Fehér Anna (tornász)
 Fehér Attila (egyértelműsítő lap)
@@ -119045,6 +119222,7 @@ Fenain
 Fenalén
 Fendeille
 Fender Eric Clapton Signature Stratocaster
+Fender Jaguar Bass
 Fenegyerek
 Feneketlen mélység (film)
 Fenella Fielding
@@ -119188,6 +119366,7 @@ Fertőző tenoszinovitisz
 Fervaches
 Fervaques
 Feröer
+Feröer autonómiája
 Feröer autóbuszvonal-hálózata
 Feröer községei
 Feröer régiói
@@ -119279,6 +119458,7 @@ Fignières
 Figueruela de Arriba
 Figyelo.hu
 Figyelő (egyértelműsítő lap)
+Figyelő (hetilap, 1871–1876)
 Figyelő (hetilap, 1958–2022)
 Filain (Aisne)
 Filefalva
@@ -119788,6 +119968,7 @@ Fonfría (Zamora)
 Fongrave
 Fongueusemare
 Fonni
+Fonnyadt Zsolt
 Fonogram – Magyar Zenei Díj
 Fonsomme
 Font sterling
@@ -120217,6 +120398,7 @@ Franciaország az 1994. évi téli olimpiai játékokon
 Franciaország az 1996. évi nyári olimpiai játékokon
 Franciaország az 1998. évi téli olimpiai játékokon
 Franciaország az olimpiai játékokon
+Franciaország diplomáciai misszióinak listája
 Franciaország elnökeinek listája
 Franciaország megyéi
 Franciaország miniszterelnökeinek listája
@@ -121989,6 +122171,7 @@ Galgóczi Erzsébet
 Galgóczy Árpád
 Galiciai nyelv
 Galiciaiak
+Galicsica
 Galilei Kör
 Galilei-holdak
 Galileo Galilei
@@ -122118,6 +122301,7 @@ Gara (Magyarország)
 Gara (egyértelműsítő lap)
 Garaba Imre
 Garabonc
+Garadna (egyértelműsítő lap)
 Garai Gábor
 Garai István Levente
 Garai Miklós (nádor, ?–1386)
@@ -122986,6 +123170,7 @@ Gilles Berolatti
 Gilles Jalabert
 Gilles Pelletier
 Gilles Quénéhervé
+Gilley (Doubs)
 Gillian Keegan
 Gillian Lynne
 Gillingham FC
@@ -123289,6 +123474,7 @@ Gloria Katz
 Gloriett-busz (Budapest)
 Glorious
 Glossop North End AFC
+Glossy
 Gloucester
 Gluttons for Punishment
 Glyptodon
@@ -124664,6 +124850,7 @@ Gyergyóremete község
 Gyergyószentmiklós
 Gyergyószentmiklósi járás
 Gyergyószárhegy
+Gyergyószárhegyi Tatárdomb
 Gyergyótölgyes
 Gyergyótölgyes község
 Gyergyóvárhegy
@@ -124732,6 +124919,7 @@ Gyula ostroma (1529–30)
 Gyulafehérvár
 Gyulai Líviusz
 Gyulai Pál (irodalomtörténész)
+Gyulai Ágost
 Gyulakeszi
 Gyulakuta
 Gyulakuta község
@@ -125117,6 +125305,7 @@ HF–24 Marut
 HGTV Egyesült Királyság és Írország
 HGTV Franciaország
 HGTV Kanada
+HGe 2/2
 HH–60 Pave Hawk
 HIDIVE
 HIL bus
@@ -125503,6 +125692,7 @@ Halálozások 2023-ban
 Haláltáborok
 Halász Ignác
 Halász Júlia (újságíró)
+Halász Margit
 Halász Mihály (operatőr)
 Halászat
 Halífa bin Zájed Ál Nahaján
@@ -125570,6 +125760,7 @@ Hamuházi-forrás
 Hamvadó cigarettavég (film)
 Hamvas Béla Collegium
 Hamvas Dániel
+Hamvas gyapjaslepke
 Hamza Abdo
 Han (állam)
 Han Ahmedov
@@ -125602,6 +125793,7 @@ Hand on Your Heart
 Handalbustyaháza
 Handbook of the Birds of the World
 Handzsa
+Hangafélék
 Hangard
 Hangcsoui metró
 Hanger Lane (metróállomás)
@@ -125978,6 +126170,7 @@ Harsányi Sulyom László
 Harsányi Zsolt
 Hart Racing Engines
 Hart-emlékkupa
+Harta (egyértelműsítő lap)
 Hartennes-et-Taux
 Hartford (Connecticut)
 Hartford Courant
@@ -126283,6 +126476,7 @@ Hegedűs Judit
 Hegedűs Lajos (színművész)
 Hegedűs Ágnes (színművész)
 Hegedűsfalva
+Hegedűverseny No. 3 (Mozart)
 Hegybánya
 Hegyes kucsmagomba
 Hegyesbisztra
@@ -130440,6 +130634,7 @@ Jake Scott (filmrendező)
 Jake Short
 Jake visszalő
 Jake és Blake
+Jakitori
 Jakići Dolinji
 Jakići Gorinji
 Jakob Andkjær
@@ -130791,6 +130986,7 @@ Jannis Zamanduridis
 Janovics Sándor
 Janowskai koncentrációs tábor
 Janszky József
+Janszky-ügy
 Jantra (vallás)
 January Jones
 Janus Pannonius
@@ -132694,6 +132890,7 @@ João Oliveira
 Joël Bettin
 Joël Bouzou
 Joël Drommel
+Joël Epalle
 Joël Robuchon
 Joël Santoni
 Joël-François Durand
@@ -134251,6 +134448,7 @@ Kavagucsi Josikacu
 Kavagucsi Takao
 Kavaja
 Kavamura Takeo
+Kavanisi Takehiko
 Kavaszaki Jukari
 Kavasze Naomi
 Kavasze Tomoko
@@ -134460,6 +134658,7 @@ Kelso (Oregon)
 Kelso (Washington)
 Kelszang Gyaco
 Kelta
+Kelta fakultusz
 Kelta nyelvek
 Keltibér nyelv
 Kelták
@@ -134624,6 +134823,7 @@ Kerecseny
 Kerek Ferenc (kémikus)
 Kerek repkény
 Kerekek és lépések
+Kerekes József (egyértelműsítő lap)
 Kerekes József (színművész)
 Kerekes László (színművész)
 Kerekesférgek
@@ -135953,6 +136153,7 @@ Komano Júicsi
 Kombinatorika
 Kombinatorikus bizonyítás
 Komesarac
+Komfortfokozat
 Komi nyelv
 Komi-permják nyelv
 Komik
@@ -136148,6 +136349,7 @@ Korbászka
 Korcsmár Zsolt
 Korda György
 Korda János (mérnök)
+Korda Sándor (filmrendező)
 Kordos László (geológus)
 Kordun
 Kordunski Ljeskovac
@@ -136839,6 +137041,7 @@ Kvantummechanika
 Kvantumtérelmélet
 Kvantung-hadsereg
 Kvarc
+Kvassó
 Kvaszong–14
 Kvaternió
 Kvon Hjok
@@ -137015,6 +137218,7 @@ Kárpátalja visszafoglalása
 Kárpátaljai Labdarúgó-szövetség
 Kárpátaljai Megyei Tanács
 Kárpátaljai magyarok
+Kárpáti Béla (egyértelműsítő lap)
 Kárpáti György (filmrendező)
 Kárpáti György (vízilabdázó)
 Kárpáti Károly (birkózó)
@@ -137055,6 +137259,7 @@ Kék bolygó
 Kék golgotavirág
 Kék indiángyökér
 Kék iringó
+Kék Áramlat
 Kékedi László
 Kékesedő üregestinóru
 Kékesfalva
@@ -137070,6 +137275,7 @@ Kékhomlokú amazon
 Kékhátú galambgomba
 Kékkoronás amazon
 Kékkút
+Kékkői vár
 Kéklő-hegység
 Kékmaszkos amazon
 Kéksapkás amazon
@@ -137804,6 +138010,7 @@ La Forêt-le-Roi
 La Fosse-de-Tigné
 La Frasnée
 La Fregeneda
+La Frette (Isère)
 La Frette (Saône-et-Loire)
 La Frénaye
 La Fuente de San Esteban
@@ -138073,6 +138280,7 @@ Labinci
 Labinot Harbuzi
 Labish Center
 Labish Village
+Labiális (egyértelműsítő lap)
 Labiális hang
 Labodás
 Laboissière-en-Santerre
@@ -138329,6 +138537,7 @@ Lampaul-Plouarzel
 Lampaul-Ploudalmézeau
 Lampich Árpád
 Lamponidae
+Lampornis
 Lamure-sur-Azergues
 Lan Lixin
 Lana Del Rey
@@ -139316,6 +139525,7 @@ Legtöbb Oscar-díjat nyert filmek listája
 Legutóbbi jégkorszak
 Legyesbénye
 Legyezőujjú gekkó
+Legéndy Kristóf
 Lehaucourt
 Lehel Csarnok
 Lehel metróállomás
@@ -140024,6 +140234,7 @@ Lickóvadamos
 Licourt
 Licsérd
 Licy-Clignon
+Lidové noviny
 Lidrezing
 Lidércek (opera)
 Lie-csoport
@@ -141327,6 +141538,7 @@ Ludovic Proto
 Ludres
 Ludvík Aškenazy
 Ludvík Vaculík
+Ludwig Aurbacher
 Ludwig Harig
 Ludwig Paischer
 Ludwig Richter
@@ -141863,6 +142075,7 @@ Lúviai nyelv
 Lü Lin
 Lübeck
 Lükhnisz
+Lükia művészete
 Lükurgosz (athéni szónok)
 Lüsziasz
 Lăzești
@@ -142687,6 +142900,7 @@ Magyarország a 2016. évi nyári olimpiai játékokon
 Magyarország a 2020-as úszó-Európa-bajnokságon
 Magyarország a 2020. évi nyári olimpiai játékokon
 Magyarország a második világháborúban
+Magyarország a paralimpiai játékokon
 Magyarország alaptörvénye
 Magyarország az 1904. évi nyári olimpiai játékokon
 Magyarország az 1912. évi nyári olimpiai játékokon
@@ -143167,6 +143381,7 @@ Mambrillas de Lara
 Mamdouh Elssbiay
 Mametz (Somme)
 Mamey (Meurthe-et-Moselle)
+Maminydjama Maymuru
 Mammut bevásárlóközpont
 Mamoiada
 Mamolar
@@ -143458,6 +143673,7 @@ Marcilly (Manche)
 Marcilly (Seine-et-Marne)
 Marcilly (egyértelműsítő lap)
 Marcilly-d’Azergues
+Marcilly-la-Campagne
 Marcilly-la-Gueurce
 Marcilly-lès-Buxy
 Marcillé-la-Ville
@@ -144481,6 +144697,7 @@ Mathieu (Calvados)
 Mathieu Amalric
 Mathieu Kassovitz
 Mathieu Kérékou
+Mathons
 Mathonville
 Mathurin Jacques Brisson
 Matica slovenská
@@ -144784,6 +145001,7 @@ Mayreville
 Mayronnes
 Mayrornis
 Maytown (Washington)
+Maz Kanata
 Mazariegos
 Mazaye
 Mazda Raceway Laguna Seca
@@ -145571,6 +145789,7 @@ Miami Beach
 Miami Dolphins
 Miami Egyetem
 Miami Heat
+Miami International Autodrome
 Miami metró
 Mianmar
 Mianmar a 2000. évi nyári olimpiai játékokon
@@ -146109,6 +146328,7 @@ Mikolapatak
 Mikológia
 Mikorrhiza
 Mikołaj Lewański
+Mikołaj Wierzynek (idősebb)
 Mikro-RNS
 MikroRNS
 Mikrobiológia
@@ -146483,6 +146703,7 @@ Mirville
 Mirwais Ahmadzaï
 Mirwan Kassouf
 Mirza Džomba
+Mirza Gázi bég
 Misano World Circuit
 Misano World Circuit Marco Simoncelli
 Miscon
@@ -146641,6 +146862,7 @@ Mocskos zsaruk
 Mocsokváros utcáin
 Mocsonok
 Mocsár (Szlovákia)
+Mocsári ördög
 Modafinil
 Modautal
 Model Behavior
@@ -146718,6 +146940,7 @@ Mohamed Ibrahim Aden
 Mohamed Kallon
 Mohamed Kasbr
 Mohamed Keshk
+Mohamed Khairy
 Mohamed M. Atalla
 Mohamed Mahrúfí
 Mohamed Masoud
@@ -147494,6 +147717,7 @@ Moriscos
 Morisel
 Morisita Hitosi
 Morita Akio
+Moritz Gottlieb Saphir
 Moritz Nicolas
 Moriviller
 Moriwaki
@@ -148834,6 +149058,7 @@ Nadia Conners
 Nadine Auzeil-Schoellkopf
 Nadine Coyle
 Nadine Debois
+Nadrág (település)
 Nadzeja Viszockaja
 Nafir
 Nafta
@@ -148857,6 +149082,7 @@ Nagy Bandó András
 Nagy Dominik
 Nagy Edmond
 Nagy Elek (üzletember)
+Nagy Ervin (sportoló)
 Nagy Ervin (színművész)
 Nagy Ervin (építész)
 Nagy Feró
@@ -149701,6 +149927,7 @@ Nemesszer
 Nemessándorháza
 Nemessány
 Nemesség
+Nemesvid
 Nemesvita
 Nemesvámos
 Nemeszsuk
@@ -151448,6 +151675,7 @@ Női 1500 méteres síkfutás a 2004. évi nyári olimpiai játékokon
 Női 1500 méteres síkfutás a 2020. évi nyári olimpiai játékokon
 Női 1500 méteres síkfutás az 1972. évi nyári olimpiai játékokon
 Női 20 km-es gyaloglás a 2004. évi nyári olimpiai játékokon
+Női 20 km-es gyaloglás a 2008. évi nyári olimpiai játékokon
 Női 20 km-es gyaloglás a 2020. évi nyári olimpiai játékokon
 Női 200 méteres gyorsúszás a 2000. évi nyári olimpiai játékokon
 Női 200 méteres gyorsúszás a 2004. évi nyári olimpiai játékokon
@@ -152432,6 +152660,7 @@ Oláh Miklós (esztergomi érsek)
 Oláh Miklós (lelkész)
 Oláh Szabolcs
 Oláh Zoltán (operatőr)
+Oláh Zoltán Sándor
 Oláhbrettye
 Oláhbrettye község
 Oláhbükkös
@@ -152613,6 +152842,7 @@ Operációs rendszer
 Opeth
 Ophikleid
 Ophioviridae
+Opi (település)
 Opisthokonta
 Opitz Barbi
 Oporto metróállomás
@@ -153291,6 +153521,7 @@ Oxide Pang Chun
 Oxidáció
 Oxigén
 Oxudercinae
+Oxymonacanthus
 Oxyopidae
 Oxálecetsav
 Oy Vey Baby
@@ -154107,6 +154338,7 @@ Patrick Blackett
 Patrick Brennan
 Patrick Daughters
 Patrick Dempsey
+Patrick Desbois
 Patrick Doyle
 Patrick Duffy
 Patrick Duflos
@@ -154256,6 +154488,7 @@ Paul Philipp
 Paul Philippi
 Paul Pohl
 Paul Reps
+Paul Revere
 Paul Rhys
 Paul Roberts
 Paul Robinson (labdarúgó, 1979)
@@ -154484,6 +154717,7 @@ Pelórosz
 Pema Chödrön
 Pemolin
 Penaia Ganilau
+Penance Soiree
 Penchard
 Pencran
 Penda merciai király
@@ -155697,6 +155931,7 @@ Plein air
 Pleine-Selve (Aisne)
 Pleine-Sève
 Pleisztocén
+Plesch Árpád
 Plesitelep
 Plesnois
 Plessis-Saint-Benoist
@@ -156810,6 +157045,7 @@ Pterodactyl – Szárnyas gonosz
 Ptolemy Grey utolsó napjai
 Ptychozoon
 Ptyodactylus
+Pu (egyértelműsítő lap)
 Pu Ji kínai császár
 Pu-taj (Nevető Buddha)
 Pua Ulberg
@@ -156865,6 +157101,7 @@ Puerto Seguro
 Puerto de Béjar
 Puerto del Rosario
 Pueyo de Santa Cruz
+Puffinus
 Puffy AmiYumi
 Puget (Washington)
 Puginier
@@ -157411,6 +157648,7 @@ Quest Arabiya
 Quest Red
 Questa notte
 Questo tempo
+Quesuizmus
 Quett Masire
 Quettehou
 Quettetot
@@ -157509,6 +157747,7 @@ R. Daneel Olivaw
 R. Kelly
 R. Lee Ermey
 R. S. Thomas
+R. Székely Julianna
 R. Venkataraman
 R.E.M.
 R.E.M.-diszkográfia
@@ -158323,6 +158562,7 @@ Regnéville-sur-Mer
 Regula
 Regular Show: Mordecai and Rigby in 8-Bit Land
 Regumiel de la Sierra
+Regéczy-Nagy László
 Regény
 Rehab
 Rehainviller
@@ -158642,6 +158882,7 @@ Reza Ojagh
 Reza Pahlavi iráni sah
 Rezes lepkedenevér
 Rezgés
+Reziduális dipoláris csatolás
 Rezmondo
 Rezonville
 Rezső körút
@@ -159324,6 +159565,7 @@ Roberto Baggio
 Roberto Barbaro
 Roberto Benigni
 Roberto Bolle
+Roberto Braatz
 Roberto Calcaterra
 Roberto Cammarelle
 Roberto Camposeco
@@ -160399,6 +160641,7 @@ Ryan Hudson
 Ryan Lewis
 Ryan Lochte
 Ryan Mason
+Ryan Mendes
 Ryan Millar
 Ryan Phillippe
 Ryan Pini
@@ -160672,6 +160915,7 @@ Rónaszék
 Rónay György
 Rónay László
 Rótova
+Rózsa (keresztnév)
 Rózsa Dániel
 Rózsa Dávid (könyvtáros)
 Rózsa Endre
@@ -161391,6 +161635,7 @@ Saint-Jean-Trolimon
 Saint-Jean-de-Barrou
 Saint-Jean-de-Bassel
 Saint-Jean-de-Beauregard
+Saint-Jean-de-Ceyrargues
 Saint-Jean-de-Daye
 Saint-Jean-de-Duras
 Saint-Jean-de-Folleville
@@ -161714,6 +161959,7 @@ Saint-Pair
 Saint-Pair-sur-Mer
 Saint-Pancré
 Saint-Papoul
+Saint-Pardoux (Deux-Sèvres)
 Saint-Pardoux (Puy-de-Dôme)
 Saint-Pardoux-Isaac
 Saint-Pardoux-du-Breuil
@@ -161772,6 +162018,7 @@ Saint-Pierre-du-Perray
 Saint-Pierre-d’Arthéglise
 Saint-Pierre-en-Port
 Saint-Pierre-en-Val
+Saint-Pierre-en-Vaux
 Saint-Pierre-la-Bourlhonne
 Saint-Pierre-la-Cour
 Saint-Pierre-la-Palud
@@ -163478,6 +163725,7 @@ Seregélyes (Románia)
 Serena Dandini
 Serena Williams
 Serene Ross
+Serfőző Attila
 Serfőző Sándor
 Serge Dassault
 Serge Gumienny
@@ -164170,6 +164418,7 @@ Sipos Péter (énekes)
 Sipőcz Brigitta
 Sir Edmond Boyle
 Siracusa
+Siracusa vasútállomás
 Sire Records
 Sireli Naqelevuki
 Sirio Perugia
@@ -164302,6 +164551,7 @@ Slavko Vinčić
 Slavín
 Sleater-Kinney
 Sledda essexi király
+Sleep (Unix)
 Sleepers - Pokoli lecke
 Sleepers – A pokoli lecke
 Sleepers – Pokoli lecke
@@ -164862,6 +165112,7 @@ Spanyolország az 1972. évi nyári olimpiai játékokon
 Spanyolország az 1988. évi nyári olimpiai játékokon
 Spanyolország az 1992. évi nyári olimpiai játékokon
 Spanyolország az olimpiai játékokon
+Spanyolország címere
 Spanyolország közigazgatási beosztása
 Spanyolország miniszterelnökeinek listája
 Spanyolország uralkodóinak listája
@@ -166506,6 +166757,7 @@ Szaniszló Sándor (gépészmérnök)
 Szaniszló Sándor (polgármester)
 Szaniszló község
 Szankhára
+Szano Rihei
 Szanok
 Szansa na Sukces
 Szanszkrit nyelv
@@ -166827,6 +167079,7 @@ Szent Mór és társai
 Szent Olaf-templom (Tallinn)
 Szent Orsolya-rend
 Szent Pakhomiosz
+Szent Pantaleon-apátság
 Szent Paraszkiva-fatemplom (Falusugatag)
 Szent Polikárp
 Szent Péter
@@ -168353,6 +168606,7 @@ Sándor László (egyértelműsítő lap)
 Sándor László (gépészmérnök)
 Sándor Pál (rendező)
 Sándor család (ságfai)
+Sándor-palota (Budapest)
 Sándor-palota (Esztergom)
 Sándorfalva
 Sándorhomok
@@ -169665,6 +169919,7 @@ Tetragnathidae
 Tetrahidrofurán
 Tetrahidrokannabinol
 Tetrarchia
+Tetrastes
 Tetraéder
 Tetsuta Nagashima
 Tett propagandája
@@ -170400,6 +170655,7 @@ Therr Maitz
 Thervay
 Theryl DeClouet
 These Are the Days of Our Lives
+These Days (Foo Fighters-dal)
 These Days (Take That-dal)
 Thesszalonikéi Eusztathiosz
 Thetisz
@@ -171203,6 +171459,7 @@ Tombusviridae
 Tomcsányi Pál
 Tomesd
 Tomesd község
+Tomest község
 Tomești (Fehér megye)
 Tomini-öböl
 Tomino
@@ -172142,6 +172399,7 @@ Tudományos módszer
 Tudománypolitika
 Tudou
 Tudósok
+Tufahija
 Tufani (Prahova megye)
 Tugny-et-Pont
 Tuileriák kertje
@@ -172200,6 +172458,7 @@ Turandot (opera)
 Turanspor
 Turay Ida Színház
 Turay József
+Turbinia
 Turbo (Kolumbia)
 Turbolya
 Turc község
@@ -172581,6 +172840,7 @@ Török Ferenc (öttusázó)
 Török Ilona
 Török Monika
 Török Szilveszter
+Török Sándor (egyértelműsítő lap)
 Török U21-es labdarúgó-válogatott
 Török hódoltság
 Török költők, írók listája
@@ -173106,6 +173366,7 @@ Unfold the Future
 Ung vármegye
 Ungersheim
 Ungmennafélagið Fjölnir
+Ungtarnóc
 Ungureni (Bákó megye)
 Ungvár
 Ungvár község
@@ -174377,6 +174638,7 @@ Verdenal
 Verdești
 Verdilly
 Verdun (Ariège)
+Verdun-bevaux-i francia katonai temető
 Verdun-en-Lauragais
 Verdun-sur-le-Doubs
 Verdák
@@ -175187,6 +175449,7 @@ Villers-sous-Ailly
 Villers-sous-Foucarmont
 Villers-sous-Prény
 Villers-sur-Authie
+Villers-sur-Coudun
 Villers-sur-Fère
 Villers-sur-Mer
 Villers-sur-Nied
@@ -175367,6 +175630,7 @@ Vinnie Paul
 Vinnie Paul Abbott
 Vinny Del Negro
 Vinny Samways
+Vinod Dham
 Vinogradce
 Vinovo
 Vinski Vrh (Netretić)
@@ -176110,6 +176374,7 @@ Vérbosszú
 Vércsoport
 Vérdopping
 Vérehulló fecskefű
+Véres Valentin 3D
 Véres gyémánt (film)
 Véres sikátor
 Véresen egyszerű
@@ -176291,6 +176556,7 @@ Věra Ludíková
 Věra Růžičková
 Vœgtlinshoffen
 Vœlfling-lès-Bouzonville
+Vəcihə Səmədova
 V–22 Osprey
 W (magazine)
 W. Franke Harling
@@ -177821,6 +178087,7 @@ Yésero
 Yıldırım Akbulut
 Z-buffer
 Z-dióda
+Z. Horváth Gyula
 Z. Szabó László Sándor
 ZIP Code Tour
 ZTE (vállalat)
@@ -178045,6 +178312,7 @@ Zelkó Lajos
 Zell Miller
 Zellenberg
 Zeller
+Zeller Mihály
 Zellerfélék
 Zellerndorf
 Zellő
@@ -178238,6 +178506,7 @@ Zoufftgen
 Zováth János
 Zrenj
 Zrínyi György
+Zrínyi György (egyértelműsítő lap)
 Zrínyi Miklós (hadvezér)
 Zrínyi Miklós (költő)
 Zrínyifalva
@@ -178611,6 +178880,7 @@ vitatja
 Államok vezetőinek listája 271-ben
 Államok vezetőinek listája 394-ben
 Államok vezetőinek listája 432-ben
+Államok vezetőinek listája 434-ben
 Államosítás
 Állampárt
 Államszerkezet
@@ -179560,6 +179830,7 @@ vitatja
 Új csaj
 Új gazdasági mechanizmus
 Új hullám (zene)
+Új kezdet (Így jártam anyátokkal)
 Új magyar lexikon
 Új magyar életrajzi lexikon
 Új ég, új föld
@@ -179876,6 +180147,7 @@ vitatja
 Špadići
 Špehari
 Štadión Pasienky
+Štakorovec
 Štakorovica
 Šterna
 Štifanići

@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-1952'de sinema
-Channa bleheri
-Şabat (Talmud)
-Vaux Kalesi
-Gündoğan, Bodrum
-Yenimahalle, Viranşehir
-Samsung Galaxy 5
-Ali Haydar Konca
-Republic P-47 Thunderbolt
-Hyponectriaceae
-Areschougiaceae
-Lemuel K. Washburn
-Erol Köse
-Tsotne Dadiani
-Rhabdoribates
-Amil hekzanoat
-Hebil
-Close to the Ground
-I. Béla
-Aberdeen, Washington
-Önlük
-Karahıdır, Gürsu
-Moğolca
-Deli Yürek: Bumerang Cehennemi
-Aigle de drapeau
-Max: The Curse of Brotherhood
-If U Seek Amy
-Laleli Camii
-Nevevî
-Aciachne
+Sevap
+Kuschelina
+Massoud Achkar
+Cutler, Kaliforniya
+Theridion incomtum
+Una Muharebesi
+Comacchio
+Varanus similis
+Pyrausta facitalis
+Survivor (Destiny's Child albümü)
+2011 Yeşil Burun Adaları devlet başkanlığı seçimi
+Morgan County, Batı Virginia
+Ekkehard Fasser
+Çin (eyalet)
+Hotham, East Riding of Yorkshire
+Kardeşimin Hikayesi
+Diyor Imomxoʻjayev
+Derin Mevzu
+Mazıcı
+Arseniy Yatsenyuk
+Landwehr
+Harmandalı Yörükleri
+Evelyn "Champagne" King
+Çarıklı, Batman
+Joaquim de Almeida
+Eryngium heterophyllum
+1982 Kanada Grand Prix
+Hyla orientalis
+Finlandiya Savunma Kuvvetleri
+Kireç, Şalpazarı
 "Dr. Death" Steve Williams
 "Halkın Dostları" Kimlerdir ve Sosyal-Demokratlara Karşı Nasıl Savaşırlar?
 "Pistol" Pez Whatley
@@ -2070,6 +2070,7 @@ Aciachne
 1953-54 Primeira Divisão
 1953-54 Primera División (Meksika)
 1954 Albanian Superliga
+1954 Atom Enerjisi Yasası
 1954 Copa del Generalísimo
 1954 Copa del Rey Finali
 1954 Ekstraklasa
@@ -6649,6 +6650,7 @@ Aciachne
 2016-17 Copa del Rey
 2016-17 DFB-Pokal
 2016-17 Divizia Naţională
+2016-17 Efeler Ligi
 2016-17 Ekstraklasa
 2016-17 FA Cup
 2016-17 FA Cup Eleme Turları
@@ -8683,6 +8685,7 @@ Abel Porteau
 Abenakiler
 Aberdeen
 Aberdeen FC
+Aberdeen, Washington
 Aberystwyth
 Aberystwyth Town FC
 Abese Suresi
@@ -8795,6 +8798,7 @@ Achiroe
 Achomawi
 Achuar people
 Achumawi
+Aciachne
 Acidobacteria
 Acidulidesulfobacterales
 Acil Arama
@@ -9676,6 +9680,7 @@ Aiden English
 Aiden McGeady
 Aidomaggiore
 Aigisthos
+Aigle de drapeau
 Aigyptos
 Aiham Ousou
 Aikana dili
@@ -9811,6 +9816,7 @@ Akademik yayıncılıkta geri çekilmeler
 Akademisyen
 Akadlar
 Akaiwa
+Akakia
 Akalan Kalesi
 Akalan, Bafra
 Akam (güreşçi)
@@ -10295,6 +10301,7 @@ Albert Evans (futbolcu)
 Albert Finney
 Albert George Wilson
 Albert Günther
+Albert Henry Payne
 Albert Marth
 Albert Memorial Clock
 Albert Neisser
@@ -10685,6 +10692,7 @@ Ali Günçar
 Ali Hamaney
 Ali Hamenei
 Ali Haydar Görk
+Ali Haydar Konca
 Ali Haydar Yuluğ
 Ali Hikmet Ayerdem
 Ali Hikmet Paşa Spor Tesisleri
@@ -10723,6 +10731,7 @@ Ali Sabah Adday Al-Qaysi
 Ali Saip
 Ali Saip Ursavaş
 Ali Sait Akbaytogan
+Ali Sami Yen
 Ali Sami Yen Stadyumu
 Ali Sivri
 Ali Sowe
@@ -11008,6 +11017,7 @@ Alpes-de-Haute-Provence
 Alpha-Bungarotoxin
 Alphabet
 Alphaflexiviridae
+Alphan Manas
 Alpharetta
 Alphatetraviridae
 Alpheton
@@ -11618,6 +11628,7 @@ Amiga
 Amiga (işletim sistemi)
 AmigaOS
 Amigdala
+Amil hekzanoat
 Amiloidoz
 Amin Askar
 Amino
@@ -13184,6 +13195,7 @@ Arenaviridae
 Arenavirus
 Arenavirüs
 Areni
+Areschougiaceae
 Aretha Franklin
 Arevabuyr
 Arevadasht
@@ -13662,6 +13674,7 @@ Arroz negro (Meksika mutfağı)
 Arroz poblano
 Arroz rojo
 Ars technica
+Arsen Grigoryan
 Arsen Julfalakyan
 Arsen Sargsyan
 Arsenal FC
@@ -14165,6 +14178,7 @@ Asteroid color indices
 Asteroit
 Asteroit ailesi
 Asteroit kuşağı
+Asteroit madenciliği
 Asteroit tayf tipleri
 Astghadzor
 Astm normu
@@ -14584,6 +14598,7 @@ Aueto
 Auetö
 Auf Christi Himmelfahrt allein, BWV 128
 Auf, schmetternde Töne der muntern Trompeten, BWV 207a
+Aufrecht geh'n
 Auglaize County, Ohio
 Augsburg
 Augsburg Confession
@@ -14617,6 +14632,7 @@ Aukštaitijos stadionas
 Aulae
 Aulohalaelurus
 Aulus Hirtius
+Aumann
 Auracana
 Auramin-rodamin boyama
 Aureabacteria
@@ -15602,6 +15618,7 @@ Açısal boyut
 Açısal dakika
 Açısal momentum
 Açısal saniye
+Aéro-Club de France
 Aérospatiale Puma
 Aílton Corrêa Arruda
 Aónikenk
@@ -16981,6 +16998,7 @@ Batman'da 1999 Türkiye yerel seçimleri
 Batman'da 2014 Türkiye cumhurbaşkanlığı seçimi
 Batman'da Haziran 2015 Türkiye genel seçimleri
 Batman'da Kasım 2015 Türkiye genel seçimleri
+Batman: Arkham Asylum
 Batmönkhiin Erkhembayar
 Batnaz
 Baton Rouge
@@ -17737,6 +17755,7 @@ Benim Tatlı Yalanım
 Benin
 Benin arması
 Benin başbakanlarının listesi
+Benin merkezli havayolu şirketleri listesi
 Benin millî futbol takımı
 Benin pasaportu
 Benin'deki şehirler listesi
@@ -20273,6 +20292,7 @@ Buket Bengisu
 Buket Çardıl
 Buket Çartıl
 Bulakbaşı, Doğubayazıt
+Bulamadım (albüm)
 Bulamaç buz
 Bulancakspor
 Bulantı (anlam ayrımı)
@@ -20374,6 +20394,7 @@ Burak Aydos
 Burak Aydın
 Burak Deniz
 Burak Güven
+Burak Hakkı
 Burak Kapacak
 Burak Sürmeli
 Burak Yılmaz
@@ -20912,6 +20933,7 @@ CA Newell's Old Boys
 CA Nueva Chicago
 CA Osasuna
 CA Paranaense
+CA Patronato
 CA Peñarol
 CA River Plate
 CA Rosario Central
@@ -21230,6 +21252,7 @@ Calvatone
 Calvi, Campania
 Calvin Harris
 Calvin Klein
+Calvin'e Karşı Castellio ya da Köleliğe Karşı Özgür Düşünce
 Calvisano
 Calvizzano
 Cam kokpit
@@ -21408,6 +21431,7 @@ Canini
 Canjavid
 Cankova
 Cankurtaran Yılmaz
+Cankurtaran, Akşehir
 Cankılı, Şefaatli
 Canlı
 Canlı balık ticareti
@@ -21537,6 +21561,7 @@ Cari halkı
 Cariaya
 Carib dili
 Carib people
+Caribachlamys
 Caribbean Cinemas
 Caribou Coffee
 Caricelea
@@ -22304,6 +22329,7 @@ Ceyhun
 Ceyhun Atuf Kansu
 Ceyla Büyükuzun
 Ceylan Ertem
+Ceylan, Çermik
 Ceylangözü, Harran
 Ceylanpınar
 Ceylon
@@ -22432,6 +22458,7 @@ Changzhou Benniu Havalimanı
 Chang–Everton Futbol Akademisi
 Chanka people
 Chankas
+Channa bleheri
 Channel 1 (Israel)
 Channel 4
 Channel 4 (anlam ayrımı)
@@ -22707,6 +22734,7 @@ Chi2 Orionis
 Chiaha
 Chiajna
 Chiaka Ogbogu
+Chiaki Remote Play
 Chiang Mai
 Chiang Mai (il)
 Chianti Polifunctional Gözlemevi
@@ -22766,6 +22794,7 @@ Chilaquiles
 Chilcote
 Chile relleno
 Chileajo de cerdo
+Chilehexops
 Chiles en nogada
 Chili con carne
 Chilocco Indian Agricultural School
@@ -23049,6 +23078,7 @@ Cibuti pasaportu
 Cibuti'deki şehirler listesi
 Cicely Tyson
 Cicero
+Cichla monoculus
 Cicinho
 Cicognolo
 Cidde
@@ -23325,6 +23355,7 @@ Clodius Albinus
 Clophill
 Cloris Leachman
 Clos Saint-Denis
+Close to the Ground
 Closing Time (Doctor Who)
 Closteroviridae
 Clostridium
@@ -23625,6 +23656,7 @@ Concerto per Michelangelo
 Concerviano
 Concesio
 Concha (ekmek)
+Conchita
 Conchita Wurst
 Concho, Oklahoma
 Conchucos
@@ -24136,6 +24168,7 @@ Cunda
 Cundinamarca
 Cuneo
 Cuneo (CN)
+Cuneyd Zapsu
 Cungar
 Cunning Folk and Familiar Spirits
 Cupa Moldovei
@@ -25327,6 +25360,7 @@ Delhi Sultanlığı
 Deli (şarkı)
 Deli Kan
 Deli Yusuf
+Deli Yürek: Bumerang Cehennemi
 Delicate
 Delice Irmağı
 Delikli kart
@@ -26419,6 +26453,7 @@ Distortion (müzik)
 Disturbed
 Ditak (town)
 Ditavan
+Ditylometopa
 Diva (Dana International şarkısı)
 Divan
 Divan (edebiyat)
@@ -27188,6 +27223,7 @@ Drew Carey
 Drew Galloway
 Drew Gulak
 Drew McIntyre
+Drexel Üniversitesi
 Driedaagse Brugge-De Panne
 Driedaagse van De Panne
 Driedaagse van de Panne
@@ -28725,6 +28761,7 @@ Elimination Chamber (2010)
 Elimination Chamber (2012)
 Elimination Chamber (2013)
 Elimination Chamber (2019)
+Elimination Chamber (2020)
 Elimination Chamber (2021)
 Elina Konstantopulu
 Elina Svitolina
@@ -31404,6 +31441,7 @@ Fake Tales of San Francisco
 Fake Taxi
 Fakih
 Fakir Baykurt
+Fakir Ev Aletleri
 Faktör
 Faktöriyel sayı sistemi
 Fakıekinciliği, Pınarbaşı
@@ -33783,6 +33821,7 @@ Gaziilyas, Edremit
 Gazikent, Şehitkamil
 Gazikentspor
 Gaziler helvası
+Gaziler, Kıbrıs
 Gaziler, Manavgat
 Gaziler, Şehitkamil
 Gazimağusa
@@ -34965,6 +35004,7 @@ Gornja Radgona
 Gornji Grad
 Gornji Milanovac
 Gornji Petrovci
+Gornozavodsk
 Gorohovets
 Gorrón
 Gorstiyen
@@ -35041,6 +35081,7 @@ Gram boyama
 Gram boyası
 Gram negatif
 Gram negatif bakteri
+Gram negatif bakteri stomatitleri
 Gram pozitif
 Gram pozitif bakteri
 Gram-negatif
@@ -35717,6 +35758,7 @@ Göllü, Ömerli
 Göllüalan, Vezirköprü
 Göllüce, Şehitkamil
 Gölmarmara
+Gölpınar, Sur
 Göltepe, Bafra
 Gölyazı, Terme
 Gölyüzü, Doğubayazıt
@@ -35851,6 +35893,7 @@ Güllüce, Doğubayazıt
 Güllüce, Niğde
 Güllücesaid
 Güllük Dağı Millî Parkı
+Güllük, Milas
 Güllük, Mut
 Gülnar
 Gülnas Muharebesi
@@ -35927,6 +35970,7 @@ Günaydın Özyurt
 Günbed
 Günbed-i Kavus
 Günbulur, Şehitkamil
+Gündoğan, Bodrum
 Gündoğdu Duran
 Gündoğdu, Doğu Azerbaycan
 Gündoğdu, Manavgat
@@ -36741,6 +36785,7 @@ Hakkâri (il)
 Hakkâri belediye başkanları listesi
 Hakkâri'de 1939 Türkiye genel seçimleri
 Hakkâri'de 1961 Türkiye genel seçimleri
+Hakkâri'de 1961 Türkiye senato seçimleri
 Hakkâri'de 1965 Türkiye genel seçimleri
 Hakkâri'de 1999 Türkiye yerel seçimleri
 Hakkâri'de 2014 Türkiye cumhurbaşkanlığı seçimi
@@ -37879,6 +37924,7 @@ Heavyweight (boxing)
 Hebe Uhart
 Hebei
 Heber-Overgaard, Arizona
+Hebil
 Hebilli Kalesi
 Hebron
 Hechi
@@ -39583,6 +39629,7 @@ Hypermestra'nın Yargısı
 Hypersaline göl
 Hypoatherina
 Hypochilidae
+Hyponectriaceae
 Hypoviridae
 Hyskariana
 Hytrosaviridae
@@ -39632,6 +39679,7 @@ Höchsterwünschtes Freudenfest, BWV 194
 Höfner
 Högadals IS
 Höganäs
+Höömey Günü
 Höşmerim
 Hønefoss
 Hønefoss BK
@@ -39906,6 +39954,7 @@ I. Bayezid
 I. Boemondo
 I. Bonifacio del Monferrato
 I. Boris
+I. Béla
 I. Constantius
 I. Darius
 I. Dmitri isyanı
@@ -40458,6 +40507,7 @@ If I Can't
 If I Could Choose
 If I Didn't Have You (Disney şarkısı)
 If My World Stopped Turning
+If U Seek Amy
 If We All Give a Little
 If We Were In Love
 Iflaviridae
@@ -41238,6 +41288,7 @@ Işık Stadyumu (1954)
 Işık Stadyumu (Sunderland)
 Işık eğrisi
 Işık eğrisi kalite kodu
+Işık yuvarı
 Işık yılı
 Işıkdere, Ömerli
 Işıkkale
@@ -41682,6 +41733,7 @@ Japon karşıtlığı
 Japon militarizmi
 Japon rakamları
 Japon siyahı
+Japon sokak modası
 Japon yeni
 Japon İmparatorluğu
 Japonca
@@ -41976,6 +42028,7 @@ Jermaine Brown (atlet)
 Jermaine Jackson
 Jermaine Jones
 Jermaine Pennant
+Jeroen Dijsselbloem
 Jerome Clarke (karakter)
 Jerome Karle
 Jerome Kern
@@ -43574,6 +43627,7 @@ Kaf (harf)
 Kaf Suresi
 Kafadan bacaklılar
 Kafadan bacaklıların evrimi
+Kafadanbacaklılar
 Kafalar Karışık
 Kafarlı, Göynücek
 Kafasan
@@ -44346,6 +44400,7 @@ Karagöz Müzesi
 Karagöz ve Hacivat
 Karagöz, Battalgazi
 Karagümrük
+Karagündüz, İpekyolu
 Karahacılı, Pınarbaşı
 Karahalka, Pınarbaşı
 Karahan, Battalgazi
@@ -44358,6 +44413,7 @@ Karahunj
 Karahöyük, Şehitkamil
 Karahüseyinli, Yunusemre
 Karahüyük, Suruç
+Karahıdır, Gürsu
 Karahıdır, Kırşehir
 Karahıdırlı, Bergama
 Karahıtaylar
@@ -45271,6 +45327,7 @@ Kazehakase
 Kazem Ordoobadi
 Kazerun
 Kazimierz Górski Stadyumu
+Kazimierz Kuratowski
 Kazimierz Macioch
 Kazimierz Moskal
 Kazlıçeşme Tren İstasyonu
@@ -45446,6 +45503,7 @@ Kelepçeli Aşık (film, 1955)
 Kelhurice
 Kelikler, Bafra
 Kelime
+Kelime işlemcilerin listesi
 Kelime-i şehadet
 Kelininkas Kaunas
 Keliserliler
@@ -46807,6 +46865,7 @@ Konuralp Müzesi
 Konurat Havaalanı
 Konut
 Konuş Benimle
+Konuş Benimle (film, 2022)
 Konuşma
 Konuşma (film)
 Konuşma dili
@@ -47315,6 +47374,7 @@ Kubak Belarusi
 Kuban
 Kuban Airlines
 Kuban Halk Cumhuriyeti
+Kuban Kazakları
 Kuban Nehri
 Kuban Nogay Ayaklanması
 Kuban Stadyumu
@@ -47574,6 +47634,7 @@ Kurtlar Vadisi Pusu
 Kurtlar Vadisi karakterleri listesi
 Kurtlarla Dans
 Kurtların evrimi
+Kurtoğlu, Delice
 Kurtsuyu, Mut
 Kurttepe, Pınarbaşı
 Kurtulamıyorum
@@ -49488,6 +49549,7 @@ Lemi Atlı
 Lemi Çelik
 Lemithou
 Lemnisküs
+Lemuel K. Washburn
 Lemurya
 Lena Horne
 Lena Olin
@@ -49667,6 +49729,7 @@ Lesotho
 Lesotho arması
 Lesotho başbakanları listesi
 Lesotho pasaportu
+Lesotho'da sağlık
 Lesotho'daki şehirler listesi
 Lester Cole
 Lesya Tsurenko
@@ -50039,6 +50102,7 @@ Limited şirket
 Limmu
 Limnatis, Limassol
 Limni
+Limni (bölgesel birim)
 Limnoloji
 Limnos
 Limoges
@@ -51291,6 +51355,7 @@ MOSFET
 MOSiR Stadyumu
 MQ-1 Predator
 MS Aşdod
+MS Zaandam gemisinde COVID-19 pandemisi
 MS&AD Insurance Group
 MS-DOS
 MSK (profesyonel güreş)
@@ -53001,6 +53066,7 @@ Masahiro Chono
 Masahiro Endo
 Masahiro Fukazawa
 Masahiro Fukuda
+Masahiro Hamazaki
 Masahiro Koga
 Masahiro Ohashi
 Masai Mara
@@ -53323,6 +53389,7 @@ Max Theiler
 Max Weber
 Max Wolf
 Max von Sydow
+Max: The Curse of Brotherhood
 Maxacali halkı
 Maxakalí halkı
 Maxakalían dilleri
@@ -53423,6 +53490,7 @@ Mazlum Doğan
 Mazlum Çimen
 Mazzano
 Maç Sayısı
+Maça Kızı (opera)
 Maçka
 Maçka Demokrasi Parkı
 Maçka Mesleki ve Teknik Anadolu Lisesi
@@ -54252,6 +54320,7 @@ Meryem (Yuhanna Markos'un annesi)
 Meryem (anlam ayrımı)
 Meryem Ana
 Meryem Ana Evi
+Meryem Boz
 Meryem Suresi
 Meryem Yavuz
 Meryem el-Mehdi
@@ -55832,6 +55901,7 @@ Montasola
 Montaukett
 Montazzoli
 Montbéliard
+Montcada i Reixac
 Monte Argentario
 Monte Baldo
 Monte Bondone
@@ -55940,6 +56010,7 @@ Mora Yarımadası
 Moralılar, Akhisar
 Moranbong Sports Group
 Moratoryum
+Moravany Venüsü
 Moravske Toplice
 Moravya Kilisesi
 Moravya'nın Hristiyanlaşması
@@ -56477,6 +56548,7 @@ Muling
 Mulki, Armenia
 Mullard Radio Astronomy Gözlemevi
 Multicellular organism
+Multioppia
 Multipl skleroz
 Multipolar nöron
 Mum (şarkı)
@@ -56564,6 +56636,7 @@ Murray Valley ensefaliti virüsü
 Murray, Minnesota
 Murri halkı
 Murru
+Mursallı, Ödemiş
 Murska Sobota
 Murtaz Khurtsilava
 Murtaza Demir
@@ -56878,6 +56951,7 @@ Myllokunmingiidae
 Mylène and Rosanne
 Mymovies.com
 Mynet
+Myomimus
 Myosotidium
 Myoviridae
 Mypoviridae
@@ -57274,6 +57348,7 @@ NGC 2016
 NGC 2017
 NGC 2018
 NGC 2019
+NGC 2045
 NGC 2301
 NGC 3068B
 NGC 3300
@@ -57380,6 +57455,7 @@ NGC 3679
 NGC 3734
 NGC 4110
 NGC 4134
+NGC 446
 NGC 4535
 NGC 4699 Grubu
 NGC 470
@@ -57524,6 +57600,7 @@ NGC 642
 NGC 6559
 NGC 6635
 NGC 7202
+NGC 7281
 NGC 7557
 NGC 7662
 NGC 777
@@ -58513,6 +58590,7 @@ Never Say Never Again
 Never on Sunday (şarkı)
 Neverland (çiftlik)
 Neveser Kökdeş
+Nevevî
 Nevi'im
 Neviim
 Nevin Aypar
@@ -58839,6 +58917,7 @@ Nijer pasaportu
 Nijer'deki şehirler listesi
 Nijer-Kongo dilleri
 Nijerya
+Nijerya Borsası
 Nijerya Kolonisi ve Protektorası
 Nijerya arması
 Nijerya başbakanları listesi
@@ -61284,6 +61363,7 @@ Otto Klemperer
 Otto Knefler
 Otto Liman von Sanders
 Otto Loewi
+Otto Nerz
 Otto Pfister
 Otto Preminger
 Otto Rehhagel
@@ -61302,6 +61382,7 @@ Ouagadougou
 Oud-Heverlee Leuven
 Oudewater
 Oulu Cosmic-Ray Station
+Oumou Sangaré
 Our Song
 Our Spirits Don't Speak English
 Our World (1967 TV programı)
@@ -61368,6 +61449,7 @@ Oxford English Dictionary
 Oxford University Press
 Oxford Üniversitesi
 Oxford Şehri
+Oxford, Michigan
 Oxford, Mississippi
 Oxfordshire
 Oxyopes reddyi
@@ -61844,6 +61926,7 @@ Paola del Medico
 Paola, Malta
 Paolo Barison
 Paolo Bettini
+Paolo Boselli
 Paolo Di Canio
 Paolo Guerrero
 Paolo Longo Borghini
@@ -62052,6 +62135,7 @@ Parazitlik
 Parazitoloji
 Paraçi
 Paraíba
+Paraşüt pantolonu
 Pardosa
 Pardosa hartmanni
 Pardosa mordagica
@@ -62508,6 +62592,7 @@ Pavel Çistyakov
 Pavelets Garı
 Pavia
 Pavlodar
+Pavlopil
 Pavlus
 Pavlus mektupları
 Pavlus'un mektupları
@@ -64643,6 +64728,7 @@ Ptghni
 Ptghunk
 Ptolemaios Hanedanı
 Ptolemaios Krallığı
+Ptychodactiidae
 Ptyctodontida
 Pu'er
 Pu'er Simao Havalimanı
@@ -65224,6 +65310,7 @@ Rainbow Warrior'ın batırılması
 Raindrops Keep Fallin' on My Head
 Raindrops Keep Falling on My Head
 Rainer Adrion
+Rainer Barzel
 Rainer Maria Rilke
 Rainer Rauffmann
 Rainforest Alliance
@@ -65293,6 +65380,7 @@ Rami Malek
 Rami Yeni, Eyüpsultan
 Rami, Eyüpsultan
 Ramiel
+Ramin Djawadi
 Ramires
 Ramiro Cáseres
 Ramiro Navarro
@@ -65459,6 +65547,7 @@ Raymond Rasch
 Raymond Rougeau
 Raymond Rowe
 Raymond Schummer
+Raymonde de Laroche
 Rayo OKC
 Rayon (yönetim)
 Razak Omotoyossi
@@ -65786,6 +65875,7 @@ Reovirüs
 Repetitive DNA
 Replay
 Report from the Aleutians
+Republic P-47 Thunderbolt
 Republic Records
 Republika Srpska Birinci Ligi
 Reputation (Taylor Swift albümü)
@@ -65897,6 +65987,7 @@ Reykjavik
 Reykjavík
 Reykjavík Zirvesi
 Reymersholms IK
+Reynisdrangar
 Reza Naji
 Rezar (güreşçi)
 Rezerv Lig
@@ -65928,6 +66019,7 @@ Reşidüddin Hamedani
 Reşit Güventaş
 Reşit Kaynak
 Reşit Çıldam
+Rhabdoribates
 Rhabdoviridae
 Rhadamanthys
 Rhapsody (1954 film)
@@ -67000,6 +67092,7 @@ Ruanda'nın eyaletleri
 Ruanda'nın illeri
 Rubai
 Rubber Soul
+Rubelles
 Ruben H. Fleet Space Theater and Science Center
 Rubens Minelli
 Rubicon
@@ -67421,6 +67514,7 @@ Rúben Fernandes
 Rúben Lameiras
 Rúben Lima
 Rüdesheimer Kaffee
+Rüdiger Lüdeking
 Rügen
 Rüknettin Nasuhioğlu
 Rüstem Asildarov
@@ -67856,6 +67950,7 @@ Said Molla
 Said Nursi
 Said Nursî
 Said bin Esved
+Said bin Zeyd
 Saide, Harran
 Saif Said Şahin
 Sail the Summer Winds
@@ -68153,6 +68248,7 @@ Salname
 Salome Zurabişvili
 Salomon Kalou
 Salomon Schweigger
+Salomon Verveer
 Salomon v A Salomon & Co Ltd
 Salon gitarı
 Salon netbolu
@@ -68376,6 +68472,7 @@ Samsun-Sivas Bölgesel Treni
 Samsun-Çarşamba demiryolu
 Samsung
 Samsung Electronics
+Samsung Galaxy 5
 Samsung Galaxy F serisi
 Samsung Galaxy Note
 Samsung Internet
@@ -68820,6 +68917,7 @@ Saravak Kraliyet Kolonisi
 Saravak Krallığı
 Saravan, Armenia
 Saray
+Saray Fatih, Pursaklar
 Saray Koleksiyonları Müzesi
 Saray, Battalgazi
 Sarayacu Kichua
@@ -68970,6 +69068,7 @@ Saskatchewan
 Saskatchewan Science Centre
 Saskatoon
 Saski Baskonia
+Sasquatch
 Sassari
 Sastrapada
 Sasunik
@@ -69075,8 +69174,10 @@ Savaş Çorlu
 Savaşa Hayır, Ancak Sınıf Savaşı
 Savaşta kadınlar
 Savaştepe
+Savaşın Çiçekleri
 Savcılık Bakanlığı
 Save Me (Aimee Mann şarkısı)
+Save Our Souls
 Save Your Kisses For Me
 Save the Tiger
 Saveloy
@@ -70539,6 +70640,7 @@ Sibuyan Denizi
 Sican culture
 Sicaog
 Sicariidae
+Sicarius
 Sicherheitsdienst
 Siciliotrichus
 Sicilya
@@ -70643,6 +70745,7 @@ Siirt Etnografya Müzesi
 Siirt Saat Kulesi
 Siirt belediye başkanları listesi
 Siirt İl Özel İdaresi SK
+Siirt'te 1931 Türkiye genel seçimleri
 Siirt'te 1939 Türkiye genel seçimleri
 Siirt'te 1961 Türkiye genel seçimleri
 Siirt'te 1965 Türkiye genel seçimleri
@@ -70937,6 +71040,7 @@ Sint Eustatius
 Sint Maarten
 Sint Maarten League
 Sint Maarten başbakanı
+Sintaşta kültürü
 Sintrofi
 Sintsink
 Sinyalizasyon teorisi
@@ -71696,6 +71800,7 @@ Sosyal demokrat
 Sosyal dışlanma
 Sosyal emperyalizm
 Sosyal faşizm
+Sosyal güvenlik
 Sosyal medya
 Sosyal mesafe
 Sosyal metabolizma
@@ -71742,6 +71847,7 @@ Sosyo-ekonomik koşullar
 Sosyobiyoloji
 Sosyoekonomi
 Sosyoloji
+Sosyonik
 Sotalia
 Sotaro Yasunaga
 Sotigui Kouyaté
@@ -72487,6 +72593,7 @@ Stoke Stadyumu
 Stoke-on-Trent
 Stokesville Gözlemevi
 Stokholm
+Stolperstein
 Stone Cold Steve Austin
 Stone Table
 Stonewall ayaklanmaları
@@ -73896,6 +74003,7 @@ Tabakhane, Bafra
 Tabakhane, Vezirköprü
 Tabaklı, Doğu Azerbaycan
 Taban aritmetiği
+Tabanlar tablosu
 Tabanlar, Soma
 Tabanlıoğlu Mimarlık
 Tabasaranca
@@ -75417,6 +75525,7 @@ Teşvikiye Camii
 Teşvikiye Karakolu
 Teşvikiye, Şişli
 Tfalati
+Tha Dogg Pound
 Tha'nai Erotas
 Thaddeus Monastery
 Thadée Cisowski
@@ -77685,6 +77794,7 @@ Trabzon Atatürk Köşkü
 Trabzon Fen Lisesi
 Trabzon Futbol Ligi
 Trabzon Muhafaza-i Hukuku Milliye Cemiyeti
+Trabzon Muhâfaza-i Hukuk-ı Milliye Cemiyeti
 Trabzon Müzesi
 Trabzon Saat Kulesi
 Trabzon Telekomspor
@@ -78139,6 +78249,7 @@ Trézéguet (Mısırlı futbolcu)
 Tröst hukuku
 Trøndelag
 Tržič
+Tsadik
 Tsageri
 Tsaghkaber
 Tsaghkahovit
@@ -78192,6 +78303,7 @@ Tsnungwe
 Tsoghamarg
 Tsohom Djapá
 Tsohom-dyapa
+Tsotne Dadiani
 Tsotsi
 Tsou dilleri
 Tsovagyugh
@@ -78380,6 +78492,7 @@ Turfan Yarğol Havalimanı
 Turgay Avcı
 Turgay Demir
 Turgay Semercioğlu
+Turgut Burnu
 Turgut Kafkas
 Turgut Kural (futbolcu)
 Turgut Reis (zırhlı)
@@ -78482,6 +78595,7 @@ Tuvalu'daki şehirler listesi
 Tuyuğ
 Tuz Gölü
 Tuz gölü
+Tuz ikamesi
 Tuz yükselen ekmek
 Tuza-Piartal
 Tuzak (film, 1976)
@@ -79239,6 +79353,7 @@ U-2 Krizi
 U-bot
 U.S. Bank Stadyumu
 U.S. Postal Service (bisiklet takımı)
+U.S. Steel
 U.S. Virgin Islands Championship
 U21 Ligi
 UA Sedan
@@ -79432,6 +79547,7 @@ Uherské Hradiště
 Uhnaagiyn Hürelsüh
 Uhwudong
 Uiramutã
+Uitlander
 Uitoto
 Ukaragma
 Ukomno'm
@@ -79891,6 +80007,7 @@ Until They Sail
 Until...
 Unutamazsın
 Unutmuşum (Aygün Kazımova şarkısı)
+Unutulacak Dünler
 Unutulan Kadın
 Unvan
 Unwritten (House)
@@ -80506,6 +80623,7 @@ Vanina Vanini
 Vanina Vanini (film)
 Vanina Vanini film
 Vanity Fair (dergi)
+Vank Katedrali
 Vankomisin
 Vanna
 Vanspor
@@ -80649,6 +80767,7 @@ Vaughn Covil
 Vaughn Meader
 Vault (marka)
 Vaupés
+Vaux Kalesi
 Vauxhall Köprüsü
 Vav (Arap alfabesi)
 Vav (harf)
@@ -83044,6 +83163,7 @@ Xul Solar
 Xuwen
 Xuzhou
 Xuzhou Guanyin Uluslararası Havalimanı
+Xzibit
 Y-CHP
 Y. Frank Freeman
 YES Network
@@ -83336,6 +83456,7 @@ Yancheng Nanyang Uluslararası Havalimanı
 Yandaşçılık
 Yandex
 Yandex Browser
+Yandı Yürekler Yandı
 Yanesha' people
 Yang Jiayu
 Yang Seung-Kook
@@ -83661,6 +83782,7 @@ Yağcıbedir (halı)
 Yağcılar, Yunusemre
 Yağcılı, Soma
 Yağcımusa
+Yağlama
 Yağlı balık
 Yağlı güreş
 Yağlıdere (akarsu)
@@ -84017,6 +84139,7 @@ Yenimahalle, Salıpazarı
 Yenimahalle, Terme
 Yenimahalle, Ulubey
 Yenimahalle, Vezirköprü
+Yenimahalle, Viranşehir
 Yenimahalle, Yunusemre
 Yenimahalle, Ömerli
 Yenimahalle, Şehitkamil
@@ -84204,6 +84327,7 @@ Yeşilyurt, Haliliye
 Yeşilyurt, Mut
 Yeşilyurt, Sungurlu
 Yeşilyurt, Tokat
+Yeşilyurt, Çaycuma
 Yeşilçam
 Yeşilçam Film
 Yeşilçam’da Unutulmayan Yüzler
@@ -85336,6 +85460,7 @@ Zeytinburnuspor 1998-99 sezonu
 Zeytindalı, Harran
 Zeytindağ
 Zeytinli, Edremit
+Zeytinli, Şahinbey
 Zeytinli, Şehitkamil
 Zeytinlibağ, Akhisar
 Zeytinliova, Akhisar
@@ -85784,6 +85909,7 @@ transistor
 Çakılık İlçesi
 Çakırağa Konağı
 Çakırdere, Havran
+Çakırhacılı, Yerköy
 Çakırlar, Bergama
 Çakırlar, Yapraklı
 Çakırtaş, Vezirköprü
@@ -85821,6 +85947,7 @@ transistor
 Çamavlu, Bergama
 Çambarak
 Çamcı, Edremit
+Çamdalı, İnebolu
 Çamdere, Sincik
 Çamköy, Bergama
 Çamlıbel, Edremit
@@ -86846,6 +86973,7 @@ transistor
 Özdere, Oltu
 Özdevinim (gökbilim)
 Özdil Nami
+Özdilek
 ÖzdilekPark İstanbul
 Özel Görelilik
 Özel Harp Dairesi
@@ -89072,6 +89200,7 @@ transistor
 İzmir Etnografya Müzesi
 İzmir Futbol Ligi
 İzmir Gazeteciler Cemiyeti Basın Müzesi
+İzmir Halk Sandığı
 İzmir Haçlı Seferi
 İzmir Kuş Cenneti
 İzmir Körfezi
@@ -89255,6 +89384,7 @@ transistor
 Şaban Yıldız
 Şabanlı, Pınarbaşı
 Şabat
+Şabat (Talmud)
 Şabbat
 Şaday
 Şafak Yıldızı
@@ -89769,6 +89899,7 @@ transistor
 Štrbské Pleso
 Šulak
 Šumma ālu
+Żagań
 Żubroń
 Żywiec (ilçe)
 Žalec
@@ -91775,6 +91906,7 @@ transistor
 1953-54 Primeira Divisão
 1953-54 Primera División (Meksika)
 1954 Albanian Superliga
+1954 Atom Enerjisi Yasası
 1954 Copa del Generalísimo
 1954 Copa del Rey Finali
 1954 Ekstraklasa
@@ -93188,6 +93320,7 @@ transistor
 1982 FIFA Dünya Kupası elemeleri (UEFA)
 1982 FIFA Dünya Kupası kadroları
 1982 Federasyon Kupası Finali
+1982 Kanada Grand Prix
 1982 Kıtalararası Kupa
 1982 LFF Lyga
 1982 Supercopa de España
@@ -95337,6 +95470,7 @@ transistor
 2011 Vuelta a España
 2011 WWE draft
 2011 Yaz Üniversite Oyunları
+2011 Yeşil Burun Adaları devlet başkanlığı seçimi
 2011 İspanya genel seçimleri
 2011 İtalya Bisiklet Turu
 2011'de Türkiye
@@ -96354,6 +96488,7 @@ transistor
 2016-17 Copa del Rey
 2016-17 DFB-Pokal
 2016-17 Divizia Naţională
+2016-17 Efeler Ligi
 2016-17 Ekstraklasa
 2016-17 FA Cup
 2016-17 FA Cup Eleme Turları
@@ -99519,6 +99654,7 @@ Akademik yayıncılıkta geri çekilmeler
 Akademisyen
 Akadlar
 Akaiwa
+Akakia
 Akalan Kalesi
 Akalan, Bafra
 Akam (güreşçi)
@@ -100003,6 +100139,7 @@ Albert Evans (futbolcu)
 Albert Finney
 Albert George Wilson
 Albert Günther
+Albert Henry Payne
 Albert Marth
 Albert Memorial Clock
 Albert Neisser
@@ -100432,6 +100569,7 @@ Ali Sabah Adday Al-Qaysi
 Ali Saip
 Ali Saip Ursavaş
 Ali Sait Akbaytogan
+Ali Sami Yen
 Ali Sami Yen Stadyumu
 Ali Sivri
 Ali Sowe
@@ -100717,6 +100855,7 @@ Alpes-de-Haute-Provence
 Alpha-Bungarotoxin
 Alphabet
 Alphaflexiviridae
+Alphan Manas
 Alpharetta
 Alphatetraviridae
 Alpheton
@@ -103373,6 +103512,7 @@ Arroz negro (Meksika mutfağı)
 Arroz poblano
 Arroz rojo
 Ars technica
+Arsen Grigoryan
 Arsen Julfalakyan
 Arsen Sargsyan
 Arsenal FC
@@ -103381,6 +103521,7 @@ Arsenal of Megadeth
 Arsenie Todiraș
 Arsenik
 Arsenik zehirlenmesi
+Arseniy Yatsenyuk
 Arshaluys
 Arsida
 Arsk (rayon)
@@ -103876,6 +104017,7 @@ Asteroid color indices
 Asteroit
 Asteroit ailesi
 Asteroit kuşağı
+Asteroit madenciliği
 Asteroit tayf tipleri
 Astghadzor
 Astm normu
@@ -104295,6 +104437,7 @@ Aueto
 Auetö
 Auf Christi Himmelfahrt allein, BWV 128
 Auf, schmetternde Töne der muntern Trompeten, BWV 207a
+Aufrecht geh'n
 Auglaize County, Ohio
 Augsburg
 Augsburg Confession
@@ -104328,6 +104471,7 @@ Aukštaitijos stadionas
 Aulae
 Aulohalaelurus
 Aulus Hirtius
+Aumann
 Auracana
 Auramin-rodamin boyama
 Aureabacteria
@@ -105313,6 +105457,7 @@ Açısal boyut
 Açısal dakika
 Açısal momentum
 Açısal saniye
+Aéro-Club de France
 Aérospatiale Puma
 Aílton Corrêa Arruda
 Aónikenk
@@ -106692,6 +106837,7 @@ Batman'da 1999 Türkiye yerel seçimleri
 Batman'da 2014 Türkiye cumhurbaşkanlığı seçimi
 Batman'da Haziran 2015 Türkiye genel seçimleri
 Batman'da Kasım 2015 Türkiye genel seçimleri
+Batman: Arkham Asylum
 Batmönkhiin Erkhembayar
 Batnaz
 Baton Rouge
@@ -107448,6 +107594,7 @@ Benim Tatlı Yalanım
 Benin
 Benin arması
 Benin başbakanlarının listesi
+Benin merkezli havayolu şirketleri listesi
 Benin millî futbol takımı
 Benin pasaportu
 Benin'deki şehirler listesi
@@ -109984,6 +110131,7 @@ Buket Bengisu
 Buket Çardıl
 Buket Çartıl
 Bulakbaşı, Doğubayazıt
+Bulamadım (albüm)
 Bulamaç buz
 Bulancakspor
 Bulantı (anlam ayrımı)
@@ -110085,6 +110233,7 @@ Burak Aydos
 Burak Aydın
 Burak Deniz
 Burak Güven
+Burak Hakkı
 Burak Kapacak
 Burak Sürmeli
 Burak Yılmaz
@@ -110623,6 +110772,7 @@ CA Newell's Old Boys
 CA Nueva Chicago
 CA Osasuna
 CA Paranaense
+CA Patronato
 CA Peñarol
 CA River Plate
 CA Rosario Central
@@ -110941,6 +111091,7 @@ Calvatone
 Calvi, Campania
 Calvin Harris
 Calvin Klein
+Calvin'e Karşı Castellio ya da Köleliğe Karşı Özgür Düşünce
 Calvisano
 Calvizzano
 Cam kokpit
@@ -111119,6 +111270,7 @@ Canini
 Canjavid
 Cankova
 Cankurtaran Yılmaz
+Cankurtaran, Akşehir
 Cankılı, Şefaatli
 Canlı
 Canlı balık ticareti
@@ -111248,6 +111400,7 @@ Cari halkı
 Cariaya
 Carib dili
 Carib people
+Caribachlamys
 Caribbean Cinemas
 Caribou Coffee
 Caricelea
@@ -112015,6 +112168,7 @@ Ceyhun
 Ceyhun Atuf Kansu
 Ceyla Büyükuzun
 Ceylan Ertem
+Ceylan, Çermik
 Ceylangözü, Harran
 Ceylanpınar
 Ceylon
@@ -112419,6 +112573,7 @@ Chi2 Orionis
 Chiaha
 Chiajna
 Chiaka Ogbogu
+Chiaki Remote Play
 Chiang Mai
 Chiang Mai (il)
 Chianti Polifunctional Gözlemevi
@@ -112478,6 +112633,7 @@ Chilaquiles
 Chilcote
 Chile relleno
 Chileajo de cerdo
+Chilehexops
 Chiles en nogada
 Chili con carne
 Chilocco Indian Agricultural School
@@ -112761,6 +112917,7 @@ Cibuti pasaportu
 Cibuti'deki şehirler listesi
 Cicely Tyson
 Cicero
+Cichla monoculus
 Cicinho
 Cicognolo
 Cidde
@@ -113271,6 +113428,7 @@ Columbus, Ohio mührü
 Columbus, Ohio'daki en yüksek binalar listesi
 Colville Indian Reservation
 Colômbia
+Comacchio
 Comal
 Comanche
 Comarch
@@ -113338,6 +113496,7 @@ Concerto per Michelangelo
 Concerviano
 Concesio
 Concha (ekmek)
+Conchita
 Conchita Wurst
 Concho, Oklahoma
 Conchucos
@@ -113849,6 +114008,7 @@ Cunda
 Cundinamarca
 Cuneo
 Cuneo (CN)
+Cuneyd Zapsu
 Cungar
 Cunning Folk and Familiar Spirits
 Cupa Moldovei
@@ -113905,6 +114065,7 @@ Custer, Montana
 Custom House Tower
 Custódio Pinto
 Cutfather
+Cutler, Kaliforniya
 Cutoff (değer)
 Cuts Like a Knife
 Cuts Like a Knife (şarkı)
@@ -115434,6 +115595,7 @@ Dergâh (dergi)
 Dergâh Yayınları
 Deriba Merga
 Derick Brassard
+Derin Mevzu
 Derin deniz balığı
 Derin enerji güçlendirme
 Derin harekât
@@ -116133,6 +116295,7 @@ Distortion (müzik)
 Disturbed
 Ditak (town)
 Ditavan
+Ditylometopa
 Diva (Dana International şarkısı)
 Divan
 Divan (edebiyat)
@@ -116190,6 +116353,7 @@ Diyarbakırspor 1998-99 sezonu
 Diyarbekirspor
 Diyaspora
 Diyet
+Diyor Imomxoʻjayev
 Diyot
 Dizanteri
 Dizartri
@@ -116902,6 +117066,7 @@ Drew Carey
 Drew Galloway
 Drew Gulak
 Drew McIntyre
+Drexel Üniversitesi
 Driedaagse Brugge-De Panne
 Driedaagse van De Panne
 Driedaagse van de Panne
@@ -118032,6 +118197,7 @@ Ekinades Adaları
 Ekinezya
 Ekinokokkoz
 Ekinören, Boyabat
+Ekkehard Fasser
 Eklem bacaklı
 Eklem bacaklı ısırıkları ve iğneleri
 Eklem bacaklılar
@@ -118439,6 +118605,7 @@ Elimination Chamber (2010)
 Elimination Chamber (2012)
 Elimination Chamber (2013)
 Elimination Chamber (2019)
+Elimination Chamber (2020)
 Elimination Chamber (2021)
 Elina Konstantopulu
 Elina Svitolina
@@ -119630,6 +119797,7 @@ Erwinia
 Erwählte Pleißenstadt, BWV 216a
 Erwünschtes Freudenlicht, BWV 184
 Eryaman Stadyumu
+Eryngium heterophyllum
 Erythromycin
 Erzin
 Erzin Demir
@@ -120330,6 +120498,7 @@ Evde kahve kavurma
 Evdokia Kadi
 Eve Dönüş
 Eve Torres
+Evelyn "Champagne" King
 Evelyn Keyes
 Evelyn Stevens
 Evence
@@ -121118,6 +121287,7 @@ Fake Tales of San Francisco
 Fake Taxi
 Fakih
 Fakir Baykurt
+Fakir Ev Aletleri
 Faktör
 Faktöriyel sayı sistemi
 Fakıekinciliği, Pınarbaşı
@@ -123497,6 +123667,7 @@ Gaziilyas, Edremit
 Gazikent, Şehitkamil
 Gazikentspor
 Gaziler helvası
+Gaziler, Kıbrıs
 Gaziler, Manavgat
 Gaziler, Şehitkamil
 Gazimağusa
@@ -124679,6 +124850,7 @@ Gornja Radgona
 Gornji Grad
 Gornji Milanovac
 Gornji Petrovci
+Gornozavodsk
 Gorohovets
 Gorrón
 Gorstiyen
@@ -124755,6 +124927,7 @@ Gram boyama
 Gram boyası
 Gram negatif
 Gram negatif bakteri
+Gram negatif bakteri stomatitleri
 Gram pozitif
 Gram pozitif bakteri
 Gram-negatif
@@ -125431,6 +125604,7 @@ Göllü, Ömerli
 Göllüalan, Vezirköprü
 Göllüce, Şehitkamil
 Gölmarmara
+Gölpınar, Sur
 Göltepe, Bafra
 Gölyazı, Terme
 Gölyüzü, Doğubayazıt
@@ -125565,6 +125739,7 @@ Güllüce, Doğubayazıt
 Güllüce, Niğde
 Güllücesaid
 Güllük Dağı Millî Parkı
+Güllük, Milas
 Güllük, Mut
 Gülnar
 Gülnas Muharebesi
@@ -126456,6 +126631,7 @@ Hakkâri (il)
 Hakkâri belediye başkanları listesi
 Hakkâri'de 1939 Türkiye genel seçimleri
 Hakkâri'de 1961 Türkiye genel seçimleri
+Hakkâri'de 1961 Türkiye senato seçimleri
 Hakkâri'de 1965 Türkiye genel seçimleri
 Hakkâri'de 1999 Türkiye yerel seçimleri
 Hakkâri'de 2014 Türkiye cumhurbaşkanlığı seçimi
@@ -127016,6 +127192,7 @@ Harman, Doğanhisar
 Harmanalan, Suruç
 Harmancık, Göynücek
 Harmandalı
+Harmandalı Yörükleri
 Harmandalı, Akhisar
 Harmankaya, Ömerli
 Harmonia
@@ -129286,6 +129463,7 @@ Hydrogenedentes
 Hydrogenophilaceae
 Hydrothermota
 Hyginus
+Hyla orientalis
 Hyman Roth
 Hymenolepididae
 Hymenoptera
@@ -129349,6 +129527,7 @@ Höchsterwünschtes Freudenfest, BWV 194
 Höfner
 Högadals IS
 Höganäs
+Höömey Günü
 Höşmerim
 Hønefoss
 Hønefoss BK
@@ -130957,6 +131136,7 @@ Işık Stadyumu (1954)
 Işık Stadyumu (Sunderland)
 Işık eğrisi
 Işık eğrisi kalite kodu
+Işık yuvarı
 Işık yılı
 Işıkdere, Ömerli
 Işıkkale
@@ -131401,6 +131581,7 @@ Japon karşıtlığı
 Japon militarizmi
 Japon rakamları
 Japon siyahı
+Japon sokak modası
 Japon yeni
 Japon İmparatorluğu
 Japonca
@@ -131695,6 +131876,7 @@ Jermaine Brown (atlet)
 Jermaine Jackson
 Jermaine Jones
 Jermaine Pennant
+Jeroen Dijsselbloem
 Jerome Clarke (karakter)
 Jerome Karle
 Jerome Kern
@@ -131968,6 +132150,7 @@ Joanne Lunn
 Joanne Woodward
 Joannes
 Joaquim Carvalho
+Joaquim de Almeida
 Joaquin Phoenix
 Joaquin Wilde
 Joaquina Kalukango
@@ -133293,6 +133476,7 @@ Kaf (harf)
 Kaf Suresi
 Kafadan bacaklılar
 Kafadan bacaklıların evrimi
+Kafadanbacaklılar
 Kafalar Karışık
 Kafarlı, Göynücek
 Kafasan
@@ -134065,6 +134249,7 @@ Karagöz Müzesi
 Karagöz ve Hacivat
 Karagöz, Battalgazi
 Karagümrük
+Karagündüz, İpekyolu
 Karahacılı, Pınarbaşı
 Karahalka, Pınarbaşı
 Karahan, Battalgazi
@@ -134280,6 +134465,7 @@ Kardemir Karabükspor 1997-98 sezonu
 Kardemir Karabükspor 2018-19 sezonu
 Kardeş gemi
 Kardeş şehir
+Kardeşimin Hikayesi
 Kardeşköy
 Kardeşler, Ulubey
 Kardinal
@@ -134991,6 +135177,7 @@ Kazehakase
 Kazem Ordoobadi
 Kazerun
 Kazimierz Górski Stadyumu
+Kazimierz Kuratowski
 Kazimierz Macioch
 Kazimierz Moskal
 Kazlıçeşme Tren İstasyonu
@@ -135166,6 +135353,7 @@ Kelepçeli Aşık (film, 1955)
 Kelhurice
 Kelikler, Bafra
 Kelime
+Kelime işlemcilerin listesi
 Kelime-i şehadet
 Kelininkas Kaunas
 Keliserliler
@@ -135847,6 +136035,7 @@ Kireneli Lukius
 Kireneli Simun
 Kireç
 Kireç taşı
+Kireç, Şalpazarı
 Kireçburnu SK
 Kiribati
 Kiribati pasaportu
@@ -136527,6 +136716,7 @@ Konuralp Müzesi
 Konurat Havaalanı
 Konut
 Konuş Benimle
+Konuş Benimle (film, 2022)
 Konuşma
 Konuşma (film)
 Konuşma dili
@@ -137035,6 +137225,7 @@ Kubak Belarusi
 Kuban
 Kuban Airlines
 Kuban Halk Cumhuriyeti
+Kuban Kazakları
 Kuban Nehri
 Kuban Nogay Ayaklanması
 Kuban Stadyumu
@@ -137294,6 +137485,7 @@ Kurtlar Vadisi Pusu
 Kurtlar Vadisi karakterleri listesi
 Kurtlarla Dans
 Kurtların evrimi
+Kurtoğlu, Delice
 Kurtsuyu, Mut
 Kurttepe, Pınarbaşı
 Kurtulamıyorum
@@ -137353,6 +137545,7 @@ Kurşun Yılları
 Kurşun zehirlenmesi
 Kurşunlu Camii (Samsun)
 Kurşunlu, Hekimhan
+Kuschelina
 Kushiel
 Kuskus
 Kusma
@@ -138749,6 +138942,7 @@ Lands of Sweden
 Landskrona
 Landskrona BoIS
 Landsteiner
+Landwehr
 Landé Faktörü
 Lane Nehri
 Laneia
@@ -139388,6 +139582,7 @@ Lesotho
 Lesotho arması
 Lesotho başbakanları listesi
 Lesotho pasaportu
+Lesotho'da sağlık
 Lesotho'daki şehirler listesi
 Lester Cole
 Lesya Tsurenko
@@ -139760,6 +139955,7 @@ Limited şirket
 Limmu
 Limnatis, Limassol
 Limni
+Limni (bölgesel birim)
 Limnoloji
 Limnos
 Limoges
@@ -141012,6 +141208,7 @@ MOSFET
 MOSiR Stadyumu
 MQ-1 Predator
 MS Aşdod
+MS Zaandam gemisinde COVID-19 pandemisi
 MS&AD Insurance Group
 MS-DOS
 MSK (profesyonel güreş)
@@ -142722,6 +142919,7 @@ Masahiro Chono
 Masahiro Endo
 Masahiro Fukazawa
 Masahiro Fukuda
+Masahiro Hamazaki
 Masahiro Koga
 Masahiro Ohashi
 Masai Mara
@@ -142796,6 +142994,7 @@ Massimo Luongo
 Massimo Pigliucci
 Massimo Podenzana
 Massimo Troisi
+Massoud Achkar
 Mast hücresi
 Mastara
 Mastektomi
@@ -143144,7 +143343,9 @@ Mazinho Oliveira
 Mazlum Doğan
 Mazlum Çimen
 Mazzano
+Mazıcı
 Maç Sayısı
+Maça Kızı (opera)
 Maçka
 Maçka Demokrasi Parkı
 Maçka Mesleki ve Teknik Anadolu Lisesi
@@ -143974,6 +144175,7 @@ Meryem (Yuhanna Markos'un annesi)
 Meryem (anlam ayrımı)
 Meryem Ana
 Meryem Ana Evi
+Meryem Boz
 Meryem Suresi
 Meryem Yavuz
 Meryem el-Mehdi
@@ -145554,6 +145756,7 @@ Montasola
 Montaukett
 Montazzoli
 Montbéliard
+Montcada i Reixac
 Monte Argentario
 Monte Baldo
 Monte Bondone
@@ -145662,6 +145865,7 @@ Mora Yarımadası
 Moralılar, Akhisar
 Moranbong Sports Group
 Moratoryum
+Moravany Venüsü
 Moravske Toplice
 Moravya Kilisesi
 Moravya'nın Hristiyanlaşması
@@ -145687,6 +145891,7 @@ Morfoloji
 Morfoloji (biyoloji)
 Morfydd Clark
 Morgan
+Morgan County, Batı Virginia
 Morgan County, Ohio
 Morgan Freeman
 Morgan Sanson
@@ -146199,6 +146404,7 @@ Muling
 Mulki, Armenia
 Mullard Radio Astronomy Gözlemevi
 Multicellular organism
+Multioppia
 Multipl skleroz
 Multipolar nöron
 Mum (şarkı)
@@ -146286,6 +146492,7 @@ Murray Valley ensefaliti virüsü
 Murray, Minnesota
 Murri halkı
 Murru
+Mursallı, Ödemiş
 Murska Sobota
 Murtaz Khurtsilava
 Murtaza Demir
@@ -146600,6 +146807,7 @@ Myllokunmingiidae
 Mylène and Rosanne
 Mymovies.com
 Mynet
+Myomimus
 Myosotidium
 Myoviridae
 Mypoviridae
@@ -146996,6 +147204,7 @@ NGC 2016
 NGC 2017
 NGC 2018
 NGC 2019
+NGC 2045
 NGC 2301
 NGC 3068B
 NGC 3300
@@ -147102,6 +147311,7 @@ NGC 3679
 NGC 3734
 NGC 4110
 NGC 4134
+NGC 446
 NGC 4535
 NGC 4699 Grubu
 NGC 470
@@ -147246,6 +147456,7 @@ NGC 642
 NGC 6559
 NGC 6635
 NGC 7202
+NGC 7281
 NGC 7557
 NGC 7662
 NGC 777
@@ -148562,6 +148773,7 @@ Nijer pasaportu
 Nijer'deki şehirler listesi
 Nijer-Kongo dilleri
 Nijerya
+Nijerya Borsası
 Nijerya Kolonisi ve Protektorası
 Nijerya arması
 Nijerya başbakanları listesi
@@ -151007,6 +151219,7 @@ Otto Klemperer
 Otto Knefler
 Otto Liman von Sanders
 Otto Loewi
+Otto Nerz
 Otto Pfister
 Otto Preminger
 Otto Rehhagel
@@ -151025,6 +151238,7 @@ Ouagadougou
 Oud-Heverlee Leuven
 Oudewater
 Oulu Cosmic-Ray Station
+Oumou Sangaré
 Our Song
 Our Spirits Don't Speak English
 Our World (1967 TV programı)
@@ -151091,6 +151305,7 @@ Oxford English Dictionary
 Oxford University Press
 Oxford Üniversitesi
 Oxford Şehri
+Oxford, Michigan
 Oxford, Mississippi
 Oxfordshire
 Oxyopes reddyi
@@ -151567,6 +151782,7 @@ Paola del Medico
 Paola, Malta
 Paolo Barison
 Paolo Bettini
+Paolo Boselli
 Paolo Di Canio
 Paolo Guerrero
 Paolo Longo Borghini
@@ -151775,6 +151991,7 @@ Parazitlik
 Parazitoloji
 Paraçi
 Paraíba
+Paraşüt pantolonu
 Pardosa
 Pardosa hartmanni
 Pardosa mordagica
@@ -152231,6 +152448,7 @@ Pavel Çistyakov
 Pavelets Garı
 Pavia
 Pavlodar
+Pavlopil
 Pavlus
 Pavlus mektupları
 Pavlus'un mektupları
@@ -154366,6 +154584,7 @@ Ptghni
 Ptghunk
 Ptolemaios Hanedanı
 Ptolemaios Krallığı
+Ptychodactiidae
 Ptyctodontida
 Pu'er
 Pu'er Simao Havalimanı
@@ -154480,6 +154699,7 @@ Pyhtää
 Pyongyang
 Pyotr Krasnov
 Pyotr Vrangel
+Pyrausta facitalis
 Pyrenees
 Pyrgos, Limassol
 Pyrsos Grevena FC
@@ -154947,6 +155167,7 @@ Rainbow Warrior'ın batırılması
 Raindrops Keep Fallin' on My Head
 Raindrops Keep Falling on My Head
 Rainer Adrion
+Rainer Barzel
 Rainer Maria Rilke
 Rainer Rauffmann
 Rainforest Alliance
@@ -155016,6 +155237,7 @@ Rami Malek
 Rami Yeni, Eyüpsultan
 Rami, Eyüpsultan
 Ramiel
+Ramin Djawadi
 Ramires
 Ramiro Cáseres
 Ramiro Navarro
@@ -155182,6 +155404,7 @@ Raymond Rasch
 Raymond Rougeau
 Raymond Rowe
 Raymond Schummer
+Raymonde de Laroche
 Rayo OKC
 Rayon (yönetim)
 Razak Omotoyossi
@@ -155621,6 +155844,7 @@ Reykjavik
 Reykjavík
 Reykjavík Zirvesi
 Reymersholms IK
+Reynisdrangar
 Reza Naji
 Rezar (güreşçi)
 Rezerv Lig
@@ -156725,6 +156949,7 @@ Ruanda'nın eyaletleri
 Ruanda'nın illeri
 Rubai
 Rubber Soul
+Rubelles
 Ruben H. Fleet Space Theater and Science Center
 Rubens Minelli
 Rubicon
@@ -157146,6 +157371,7 @@ Rúben Fernandes
 Rúben Lameiras
 Rúben Lima
 Rüdesheimer Kaffee
+Rüdiger Lüdeking
 Rügen
 Rüknettin Nasuhioğlu
 Rüstem Asildarov
@@ -157581,6 +157807,7 @@ Said Molla
 Said Nursi
 Said Nursî
 Said bin Esved
+Said bin Zeyd
 Saide, Harran
 Saif Said Şahin
 Sail the Summer Winds
@@ -157878,6 +158105,7 @@ Salname
 Salome Zurabişvili
 Salomon Kalou
 Salomon Schweigger
+Salomon Verveer
 Salomon v A Salomon & Co Ltd
 Salon gitarı
 Salon netbolu
@@ -158546,6 +158774,7 @@ Saravak Kraliyet Kolonisi
 Saravak Krallığı
 Saravan, Armenia
 Saray
+Saray Fatih, Pursaklar
 Saray Koleksiyonları Müzesi
 Saray, Battalgazi
 Sarayacu Kichua
@@ -158696,6 +158925,7 @@ Saskatchewan
 Saskatchewan Science Centre
 Saskatoon
 Saski Baskonia
+Sasquatch
 Sassari
 Sastrapada
 Sasunik
@@ -158801,8 +159031,10 @@ Savaş Çorlu
 Savaşa Hayır, Ancak Sınıf Savaşı
 Savaşta kadınlar
 Savaştepe
+Savaşın Çiçekleri
 Savcılık Bakanlığı
 Save Me (Aimee Mann şarkısı)
+Save Our Souls
 Save Your Kisses For Me
 Save the Tiger
 Saveloy
@@ -160265,6 +160497,7 @@ Sibuyan Denizi
 Sican culture
 Sicaog
 Sicariidae
+Sicarius
 Sicherheitsdienst
 Siciliotrichus
 Sicilya
@@ -160369,6 +160602,7 @@ Siirt Etnografya Müzesi
 Siirt Saat Kulesi
 Siirt belediye başkanları listesi
 Siirt İl Özel İdaresi SK
+Siirt'te 1931 Türkiye genel seçimleri
 Siirt'te 1939 Türkiye genel seçimleri
 Siirt'te 1961 Türkiye genel seçimleri
 Siirt'te 1965 Türkiye genel seçimleri
@@ -160663,6 +160897,7 @@ Sint Eustatius
 Sint Maarten
 Sint Maarten League
 Sint Maarten başbakanı
+Sintaşta kültürü
 Sintrofi
 Sintsink
 Sinyalizasyon teorisi
@@ -161422,6 +161657,7 @@ Sosyal demokrat
 Sosyal dışlanma
 Sosyal emperyalizm
 Sosyal faşizm
+Sosyal güvenlik
 Sosyal medya
 Sosyal mesafe
 Sosyal metabolizma
@@ -161468,6 +161704,7 @@ Sosyo-ekonomik koşullar
 Sosyobiyoloji
 Sosyoekonomi
 Sosyoloji
+Sosyonik
 Sotalia
 Sotaro Yasunaga
 Sotigui Kouyaté
@@ -162213,6 +162450,7 @@ Stoke Stadyumu
 Stoke-on-Trent
 Stokesville Gözlemevi
 Stokholm
+Stolperstein
 Stone Cold Steve Austin
 Stone Table
 Stonewall ayaklanmaları
@@ -162808,6 +163046,7 @@ Surveyor 7
 Surveyor programı
 Survival (Doctor Who)
 Survival of the Fittest (2018)
+Survivor (Destiny's Child albümü)
 Survivor (band)
 Survivor (yarışma)
 Survivor Series
@@ -163622,6 +163861,7 @@ Tabakhane, Bafra
 Tabakhane, Vezirköprü
 Tabaklı, Doğu Azerbaycan
 Taban aritmetiği
+Tabanlar tablosu
 Tabanlar, Soma
 Tabanlıoğlu Mimarlık
 Tabasaranca
@@ -165143,6 +165383,7 @@ Teşvikiye Camii
 Teşvikiye Karakolu
 Teşvikiye, Şişli
 Tfalati
+Tha Dogg Pound
 Tha'nai Erotas
 Thaddeus Monastery
 Thadée Cisowski
@@ -166119,6 +166360,7 @@ Theridiidae
 Theridion
 Theridion familiare
 Theridion helophorum
+Theridion incomtum
 Theridion volubile
 Theridiosomatidae
 Theriogenology
@@ -167411,6 +167653,7 @@ Trabzon Atatürk Köşkü
 Trabzon Fen Lisesi
 Trabzon Futbol Ligi
 Trabzon Muhafaza-i Hukuku Milliye Cemiyeti
+Trabzon Muhâfaza-i Hukuk-ı Milliye Cemiyeti
 Trabzon Müzesi
 Trabzon Saat Kulesi
 Trabzon Telekomspor
@@ -167865,6 +168108,7 @@ Trézéguet (Mısırlı futbolcu)
 Tröst hukuku
 Trøndelag
 Tržič
+Tsadik
 Tsageri
 Tsaghkaber
 Tsaghkahovit
@@ -168107,6 +168351,7 @@ Turfan Yarğol Havalimanı
 Turgay Avcı
 Turgay Demir
 Turgay Semercioğlu
+Turgut Burnu
 Turgut Kafkas
 Turgut Kural (futbolcu)
 Turgut Reis (zırhlı)
@@ -168209,6 +168454,7 @@ Tuvalu'daki şehirler listesi
 Tuyuğ
 Tuz Gölü
 Tuz gölü
+Tuz ikamesi
 Tuz yükselen ekmek
 Tuza-Piartal
 Tuzak (film, 1976)
@@ -168966,6 +169212,7 @@ U-2 Krizi
 U-bot
 U.S. Bank Stadyumu
 U.S. Postal Service (bisiklet takımı)
+U.S. Steel
 U.S. Virgin Islands Championship
 U21 Ligi
 UA Sedan
@@ -169159,6 +169406,7 @@ Uherské Hradiště
 Uhnaagiyn Hürelsüh
 Uhwudong
 Uiramutã
+Uitlander
 Uitoto
 Ukaragma
 Ukomno'm
@@ -169497,6 +169745,7 @@ Un borghese piccolo piccolo
 Un eroe dei nostri tempi
 Un helvası
 Un kurdu
+Una Muharebesi
 Una Mujer Sin Amor
 Una mujer sin amor
 Unai Emery
@@ -169618,6 +169867,7 @@ Until They Sail
 Until...
 Unutamazsın
 Unutmuşum (Aygün Kazımova şarkısı)
+Unutulacak Dünler
 Unutulan Kadın
 Unvan
 Unwritten (House)
@@ -170233,6 +170483,7 @@ Vanina Vanini
 Vanina Vanini (film)
 Vanina Vanini film
 Vanity Fair (dergi)
+Vank Katedrali
 Vankomisin
 Vanna
 Vanspor
@@ -170259,6 +170510,7 @@ Varaktör
 Varakļāni
 Varangyan Dikilitaşları
 Varansi
+Varanus similis
 Varaoca
 Varazze
 Varaždin
@@ -172772,6 +173024,7 @@ Xul Solar
 Xuwen
 Xuzhou
 Xuzhou Guanyin Uluslararası Havalimanı
+Xzibit
 Y-CHP
 Y. Frank Freeman
 YES Network
@@ -173064,6 +173317,7 @@ Yancheng Nanyang Uluslararası Havalimanı
 Yandaşçılık
 Yandex
 Yandex Browser
+Yandı Yürekler Yandı
 Yanesha' people
 Yang Jiayu
 Yang Seung-Kook
@@ -173389,6 +173643,7 @@ Yağcıbedir (halı)
 Yağcılar, Yunusemre
 Yağcılı, Soma
 Yağcımusa
+Yağlama
 Yağlı balık
 Yağlı güreş
 Yağlıdere (akarsu)
@@ -173933,6 +174188,7 @@ Yeşilyurt, Haliliye
 Yeşilyurt, Mut
 Yeşilyurt, Sungurlu
 Yeşilyurt, Tokat
+Yeşilyurt, Çaycuma
 Yeşilçam
 Yeşilçam Film
 Yeşilçam’da Unutulmayan Yüzler
@@ -175065,6 +175321,7 @@ Zeytinburnuspor 1998-99 sezonu
 Zeytindalı, Harran
 Zeytindağ
 Zeytinli, Edremit
+Zeytinli, Şahinbey
 Zeytinli, Şehitkamil
 Zeytinlibağ, Akhisar
 Zeytinliova, Akhisar
@@ -175513,6 +175770,7 @@ transistor
 Çakılık İlçesi
 Çakırağa Konağı
 Çakırdere, Havran
+Çakırhacılı, Yerköy
 Çakırlar, Bergama
 Çakırlar, Yapraklı
 Çakırtaş, Vezirköprü
@@ -175550,6 +175808,7 @@ transistor
 Çamavlu, Bergama
 Çambarak
 Çamcı, Edremit
+Çamdalı, İnebolu
 Çamdere, Sincik
 Çamköy, Bergama
 Çamlıbel, Edremit
@@ -175675,6 +175934,7 @@ transistor
 Çarseda
 Çarseda (ilçe)
 Çarseda (ilçe), Pakistan
+Çarıklı, Batman
 Çarıklı, Niğde
 Çarıksaraylı Hasan Hüseyin Efe
 Çarşamba Kapalı Spor Salonu
@@ -175994,6 +176254,7 @@ transistor
 Çimmesyan dilleri
 Çimu dilleri
 Çimşiyan dilleri
+Çin (eyalet)
 Çin Ay Keşif Programı
 Çin Basketbol Ligi
 Çin Cumhuriyeti
@@ -176575,6 +176836,7 @@ transistor
 Özdere, Oltu
 Özdevinim (gökbilim)
 Özdil Nami
+Özdilek
 ÖzdilekPark İstanbul
 Özel Görelilik
 Özel Harp Dairesi
@@ -178801,6 +179063,7 @@ transistor
 İzmir Etnografya Müzesi
 İzmir Futbol Ligi
 İzmir Gazeteciler Cemiyeti Basın Müzesi
+İzmir Halk Sandığı
 İzmir Haçlı Seferi
 İzmir Kuş Cenneti
 İzmir Körfezi
@@ -179499,6 +179762,7 @@ transistor
 Štrbské Pleso
 Šulak
 Šumma ālu
+Żagań
 Żubroń
 Żywiec (ilçe)
 Žalec

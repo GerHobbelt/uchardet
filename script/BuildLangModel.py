@@ -1111,7 +1111,8 @@ for lang_arg in langs:
  */
 """
 
-  c_code += '\n\n\n#define IRR     {}\n\n\n'.format(freq_count)
+  c_code += '\n\n\n#define IRR     {}\n\n'.format(freq_count)
+  c_code += '#define {}OrderWidth         (IRR + 1)\n\n\n'.format(language_c)
 
   for charset in lang_charsets:
       charset_c = charset.replace('-', '_').title()
@@ -1356,9 +1357,7 @@ for lang_arg in langs:
   else:
       frequent_cmap_prefix = ''
 
-  c_code += '\n\n#define {}UnicodeAlphabetWidth         {}\n'.format(language_c, alphabet_width)
   c_code += '#define {}UnicodeCharToOrderIsReduced  {}\n'.format(language_c, 1 if freq_count_limit < alphabet_width else 0)
-  c_code += '\n\n#define {}OrderMatrixWidth         (IRR + 1)\n'.format(language_c)
       
   c_code += '\n\n#define {}FCMLowerBound  {}\n'.format(language_c, lo_c)
   c_code += '#define {}FCMUpperBound  {}\n\n\n'.format(language_c, hi_c)
@@ -1366,8 +1365,36 @@ for lang_arg in langs:
   FC_str = 'static const PRUint8 {}{}UnicodeCharToOrder[]'.format(language_c, frequent_cmap_prefix)
   FC_str += ' =\n{'
 
+  longest_irr_run_start = -1
+  longest_irr_run_length = 0
+  current_irr_run_start = -1
+  current_irr_run_length = 0
+  for char in range(lo_c, hi_c + 1):
+      order = char_order_lookup[char]
+      if order < freq_count:
+          if current_irr_run_length > longest_irr_run_length:
+              longest_irr_run_start = current_irr_run_start
+              longest_irr_run_length = current_irr_run_length
+          current_irr_run_start = -1
+          current_irr_run_length = 0
+      else:                                 # invalid_order_nr
+          if current_irr_run_start < 0:
+              current_irr_run_start = char
+              current_irr_run_length = 0
+          current_irr_run_length += 1
+  if current_irr_run_length > longest_irr_run_length:
+      longest_irr_run_start = current_irr_run_start
+      longest_irr_run_length = current_irr_run_length
+  # heuristic:
+  if longest_irr_run_length < 40:
+      longest_irr_run_start = -1
+      longest_irr_run_length = 0
+
   count = 0
   for char in range(lo_c, hi_c + 1):
+      if longest_irr_run_length > 0 and char == longest_irr_run_start:
+          pass # break
+
       if count % 20 == 0:
           FC_str += '\n  '
       count += 1
@@ -1377,6 +1404,32 @@ for lang_arg in langs:
           FC_str += "{},".format(order)
       else:
           FC_str += "{},".format('IRR')     # invalid_order_nr
+
+  FC_str += '\n};\n\n'
+  c_code += FC_str
+
+  if longest_irr_run_length > 0:
+      SM_str = '\n'
+      SM_str += '\n#define {}{}UnicodeCharToOrderFirstTableChunkSize    {}'.format(language_c, frequent_cmap_prefix, longest_irr_run_start - lo_c)
+      SM_str += '\n#define {}{}UnicodeCharToOrderSecondTableChunkOffset {}'.format(language_c, frequent_cmap_prefix, longest_irr_run_start + longest_irr_run_length - lo_c)
+      SM_str += '\n#define {}{}UnicodeCharToOrderSecondTableChunkSize   {}'.format(language_c, frequent_cmap_prefix, hi_c + 1 - (longest_irr_run_start + longest_irr_run_length))
+      SM_str += '\n\n\n'
+      c_code += SM_str
+  
+      FC_str = 'static const PRUint8 {}{}UnicodeCharToOrder2[]'.format(language_c, frequent_cmap_prefix)
+      FC_str += ' =\n{'
+
+      count = 0
+      for char in range(longest_irr_run_start + longest_irr_run_length, hi_c + 1):
+          if count % 20 == 0:
+              FC_str += '\n  '
+          count += 1
+
+          order = char_order_lookup[char]
+          if order < freq_count:
+              FC_str += "{},".format(order)
+          else:
+              FC_str += "{},".format('IRR')     # invalid_order_nr
 
   FC_str += '\n};\n\n'
   c_code += FC_str
@@ -1450,7 +1503,7 @@ for lang_arg in langs:
       SM_str += '\n{\n  '
       SM_str += '{}_CharToOrderMap,'.format(charset_c)
       SM_str += '\n  {}CompactedLangModel,'.format(language_c)
-      SM_str += '\n  {},'.format(freq_count)
+      SM_str += '\n  {}OrderWidth,'.format(language_c)
       SM_str += '\n  {}f,'.format(ratio_2)
       SM_str += '\n  {},'.format('PR_TRUE' if lang.use_ascii else 'PR_FALSE')
       SM_str += '\n  "{}",'.format(charset)
@@ -1465,13 +1518,21 @@ for lang_arg in langs:
   SM_str += '\n  Unicode_Char_size,\n'
   SM_str += '\n  {}FCMLowerBound,'.format(language_c)
   SM_str += '\n  {}FCMUpperBound,'.format(language_c)
-  SM_str += '\n  {}UnicodeAlphabetWidth,'.format(language_c)
   SM_str += '\n  {}UnicodeCharToOrderIsReduced,'.format(language_c)
-  SM_str += '\n  {}OrderMatrixWidth,'.format(language_c)
   SM_str += '\n  {}{}UnicodeCharToOrder,'.format(language_c, frequent_cmap_prefix)
+  if longest_irr_run_length > 0:
+      SM_str += '\n  {}{}UnicodeCharToOrderFirstTableChunkSize,'.format(language_c, frequent_cmap_prefix)
+      SM_str += '\n  {}{}UnicodeCharToOrderSecondTableChunkOffset,'.format(language_c, frequent_cmap_prefix)
+      SM_str += '\n  {}{}UnicodeCharToOrderSecondTableChunkSize,'.format(language_c, frequent_cmap_prefix)
+      SM_str += '\n  {}{}UnicodeCharToOrder2,'.format(language_c, frequent_cmap_prefix)
+  else:
+      SM_str += '\n  {}FCMUpperBound + 1 - {}FCMLowerBound,'.format(language_c, language_c)
+      SM_str += '\n  0,'
+      SM_str += '\n  0,'
+      SM_str += '\n  NULL,'
   SM_str += '\n  OrderToRatio,'
   SM_str += '\n  {}CompactedLangModel,'.format(language_c)
-  SM_str += '\n  {},'.format(freq_count)
+  SM_str += '\n  {}OrderWidth,'.format(language_c)
   SM_str += '\n  {},'.format(very_freq_count)
   SM_str += '\n  {}f,'.format(very_freq_ratio)
   SM_str += '\n  {},'.format(low_freq_order)

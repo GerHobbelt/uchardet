@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Guillaume Brac
-Âne sauvage
-Feu de glace
-Tenshin Shōden Katori Shintō-ryū
-Roaditude
-Abergement-la-Ronce
-Oison (rivière)
-Mandalorien (homonymie)
-Gladys Kahaka
-Joaquim Ferreira do Amaral
-Bassin Loire-Bretagne
-Bataille de Tchoudniv
-Championnat de France de rugby à XV de 2e division 1969-1970
-François Place
-ESH
-Joseph Laurent Hillion
-Montpellier Métropole ASPTT
-Ruslan Pateev
-Charmont (cépage)
-Convention franco-hollandaise du 28 novembre 1839
-Bathybates
-Philippe Van Rechem
-Laskowizna
-Mise en musique des poèmes de Charles Baudelaire
-Billabong Pro Teahupoo 2008
-Église Saint-Symphorien de Ponthion
-(7299) Indiawadkins
-Anthony West (écrivain)
-Ibn al-Nadim
-Vadillo de la Guareña
+Henri de Bessé de la Chapelle
+Théorie de l'approche indirecte
+Nemesia
+Sergueï Filatov
+Magnolia (Iowa)
+Queen Emeraldas
+Championnat de Norvège de football 2010
+Gabriel Geay
+Kimwani
+Force H
+Leon Wilkeson
+Camille-Gabrielle Drunzer
+Wahdat al-wujud
+Tuileries
+Housse (musique)
+Samogoszcz
+Guerre des mots dans le conflit israélo-palestinien
+Pattes de velours (film)
+Djéhoutimès
+Jean-Frédéric Hermann
+Vingt-Cinq-Décembre
+Unisys
+Takashi Mizuno (football)
+Jean-Baptiste-Zacharie Bolduc
+Citéphilo
+Roxen (chanteuse)
+Chuck Reed
+Acid Queen
+Fernand Icres
+Hans Lewy
 $uicideboy$
 ''First Aid Kit''
 'Imrān
@@ -208,6 +208,7 @@ $uicideboy$
 (660) Crescentia
 (7244) Villa-Lobos
 (72827) Maxaub
+(7299) Indiawadkins
 (85190) Birgitroth
 (87) Sylvia
 (8749) Beatles
@@ -577,6 +578,7 @@ $uicideboy$
 167e régiment d'infanterie (États-Unis)
 1680 au théâtre
 1682 au théâtre
+1687 en santé et médecine
 168e régiment d'artillerie de campagne (États-Unis)
 1690 au théâtre
 1691 au théâtre
@@ -2293,6 +2295,7 @@ $uicideboy$
 4 septembre
 40 jours et 40 nuits
 400 Lapins
+400 mètres haies masculin aux Jeux olympiques de 1920
 400e à 301e millénaires avant le présent
 402e brigade d'artillerie de campagne (États-Unis)
 40e brigade d'infanterie (États-Unis)
@@ -3187,6 +3190,7 @@ Aberdeen
 Aberdeen FC
 Aberdeenshire
 Aberdeenshire (historique)
+Abergement-la-Ronce
 Abgar Barsom
 Abginiew Namyslowski
 Abidine Dioari
@@ -3281,6 +3285,7 @@ Académie tahitienne
 Acanthamoeba
 Acantheucosma
 Acanthocephala
+Acanthocephaloides
 Acanthoclita
 Acanthostega
 Acapulco
@@ -3399,6 +3404,7 @@ Acronymie
 Acroplectis
 Acropole d'Athènes
 Acropolitis
+Acrosomoides
 Across the Universe
 Across the Universe (film)
 Act Naturally
@@ -3477,6 +3483,7 @@ Adam Marsh
 Adam Mickiewicz
 Adam Musil
 Adam Müller
+Adam Nordén
 Adam Pally
 Adam Parsells
 Adam Scott
@@ -3632,6 +3639,7 @@ Affaire de Barraket Essahel
 Affaire de Nancy
 Affaire de Tchanak
 Affaire de corruption à la FIFA
+Affaire des couveuses au Koweït
 Affaire du duc d'Enghien
 Affaire du sang contaminé
 Affaires non classées
@@ -3768,6 +3776,7 @@ Aglaogonia
 Agnat
 Agnatha
 Agne Simonsson
+Agnes McCullough
 Agnes Morton
 Agnes Tuckey
 Agnieszka Mandat
@@ -3942,6 +3951,7 @@ Al Macinnes
 Al Najma
 Al Nasr Riyad
 Al Pacino
+Al Plastino
 Al Riyad SC
 Al Roemer
 Al Wehda Club (La Mecque)
@@ -4407,6 +4417,7 @@ Alfred Hickman
 Alfred Hitchcock
 Alfred Hitchcock présente (série télévisée, 1955)
 Alfred III de Windisch-Graetz
+Alfred Jauffret
 Alfred Kinsey
 Alfred Loewenstein
 Alfred Léon Gérault-Richard
@@ -4848,6 +4859,7 @@ Alton Kelley
 Altona (Hambourg)
 Altovise Davis
 Altrincham
+Altroff (homonymie)
 Altruisme
 Altération (géologie)
 Altınkuşak, Elâzığ
@@ -5043,6 +5055,7 @@ America³ (1992 yacht)
 Amersfoort
 Amgen
 Ami Diarra
+Amiach
 Amiante
 Amibe
 Amicale sportive de Poissy Football
@@ -5952,6 +5965,7 @@ Anthony Sonigo
 Anthony Steel
 Anthony Storr
 Anthony Wayne
+Anthony West (écrivain)
 Anthony Wilding
 Anthony Wong Chau-sang
 Anthony Zerbe
@@ -7068,6 +7082,7 @@ Astrid Kirchherr
 Astringence
 Astro, le petit robot
 Astroblème du Nördlinger Ries
+Astrobotanique
 Astroingénierie
 Astroloba bullulata
 Astromobile
@@ -8089,6 +8104,7 @@ Banda Calypso
 Bandai
 Bandai Namco Entertainment
 Bandcamp
+Bande (Belgique)
 Bande Artistique
 Bande Originale
 Bande d'instabilité
@@ -8366,6 +8382,7 @@ Basse-Saxe
 Bassekou Kouyate
 Bassekou Kouyaté
 Bassemkoukouri
+Bassin Loire-Bretagne
 Bassin Louise
 Bassin d'avant-pays
 Bassin d'avant-pays nord alpin
@@ -8535,6 +8552,7 @@ Bataille de Spion Kop
 Bataille de Stalingrad
 Bataille de Talansan
 Bataille de Tarawa
+Bataille de Tchoudniv
 Bataille de Tripoli (2019-2020)
 Bataille de Valmont
 Bataille de Valmy
@@ -8585,6 +8603,7 @@ Bathgate
 Bathonien
 Bathrotoma
 Bathurst (Australie)
+Bathybates
 Bathymodiolus
 Bathypluta
 Bathyscaphe
@@ -8934,6 +8953,7 @@ Ben Small
 Ben Stassen
 Ben Stiller
 Ben Turpin
+Ben Uzoh
 Ben Warren
 Ben Webster
 Ben Westwood
@@ -8983,6 +9003,7 @@ Benjamin Huger
 Benjamin Jonson
 Benjamin Lawrence Reid
 Benjamin Moser (écrivain)
+Benjamin Netter
 Benjamin Pascal
 Benjamin Renner
 Benjamin Siksou
@@ -9500,6 +9521,7 @@ Bill Weston
 Bill Whelan
 Bill White (bobsleigh)
 Bill Willingham
+Billabong Pro Teahupoo 2008
 Billboard
 Billboard (magazine)
 Billboard 200
@@ -10585,6 +10607,7 @@ Bremen (manga)
 Bremerhaven
 Brenda Blethyn
 Brenda Kirk
+Brenda Marshall
 Brenda Strong
 Brenda Wootton
 Brendan Bracken
@@ -12592,6 +12615,7 @@ Ceridwen
 Cerise (film)
 Ceritaenia
 Cernobbio
+Ceropegia sandersonii
 Cerro Cóndor
 Cerro Pachón
 Certaines Femmes
@@ -13076,6 +13100,7 @@ Championnat de France de rugby à XV 1990-1991
 Championnat de France de rugby à XV de 1re division fédérale
 Championnat de France de rugby à XV de 1re division fédérale 1997-1998
 Championnat de France de rugby à XV de 2e division
+Championnat de France de rugby à XV de 2e division 1969-1970
 Championnat de France de rugby à XV de 2e division 1998-1999
 Championnat de France féminin de football
 Championnat de France féminin de football 2010-2011
@@ -14178,6 +14203,7 @@ Chantier naval Electric Boat de Groton
 Chantiers Dubigeon
 Chantilly
 Chanvre
+Chaoniens
 Chaos (film, 2005)
 Chaos in Motion 2007-2008
 Chaparrals de Dallas
@@ -14190,6 +14216,7 @@ Chapelle Saint-Fridolin
 Chapelle Saint-Georges de Windsor
 Chapelle Saint-Roch de Fontaine-Notre-Dame
 Chapiteau (architecture)
+Chapitre de Poussay
 Chaplin
 Chaplin (film, 1992)
 Chaplin (homonymie)
@@ -14308,6 +14335,7 @@ Charles Lamb
 Charles Lanrezac
 Charles Laughton
 Charles Lee (général)
+Charles Lepeintre
 Charles Lindbergh
 Charles Loos
 Charles Lucia
@@ -14510,6 +14538,7 @@ Charlélie Couture
 Charm el-Cheikh
 Charmed
 Charmin Lee
+Charmont (cépage)
 Charo Santos-Concio
 Charogne
 Charon (lune)
@@ -15006,6 +15035,7 @@ Christian de Chalonge
 Christian de Duve
 Christian de Waldner
 Christiane Cohendy
+Christiane Eda-Pierre
 Christiane Jean
 Christiane Ludot
 Christiane Rochefort
@@ -15018,6 +15048,7 @@ Christina Aguilera (album)
 Christina Grimmie
 Christina McHale
 Christina Milian
+Christina Ricci
 Christine (film, 1983)
 Christine Astin
 Christine Baranski
@@ -15065,6 +15096,7 @@ Christophe Ramaux
 Christophe Reymond
 Christophe Sermet
 Christophe Willem
+Christophe de France
 Christopher Abbott
 Christopher Allport
 Christopher Awdry
@@ -15310,6 +15342,7 @@ Cimetière de Flushing
 Cimetière de Kensico
 Cimetière de Passy
 Cimetière de Picpus
+Cimetière de Sainte-Marie-aux-Mines
 Cimetière du Père-Lachaise
 Cimetière militaire
 Cimetière militaire allemand de Cerny-en-Laonnois
@@ -16017,6 +16050,7 @@ Cojean (société)
 Coke Zero 400
 Coky Giedroyc
 Col de Bavella
+Col de Valparola
 Col de la Schlucht
 Col des Étots
 Colac
@@ -16308,6 +16342,7 @@ Commophila
 Communauté d'agglomération Seine-Eure
 Communauté de communes
 Communauté de communes d'Évaux-les-Bains Chambon-sur-Voueize
+Communauté de communes de Haute Sambre-Bois l'Évêque
 Communauté de communes de l'Alta Rocca
 Communauté de communes de la Gascogne Toulousaine
 Communauté de communes du Bassin de Marennes
@@ -17053,6 +17088,7 @@ Convention baptiste du Sud
 Convention de Pékin
 Convention de Stockholm sur les polluants organiques persistants
 Convention européenne des droits de l'homme
+Convention franco-hollandaise du 28 novembre 1839
 Convention internationale sur l'élimination de toutes les formes de discrimination raciale
 Convention relative aux droits de l'enfant
 Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes
@@ -17868,6 +17904,7 @@ Ctenotus striaticeps
 Cthulhu (film)
 Ctésippe
 Cuadro Los Tarantos
+Cuarnens
 Cuba aux Jeux olympiques d'été de 1952
 Cubewano
 Cubic Zirconia
@@ -18874,6 +18911,7 @@ David Chaussé
 David Chung
 David Clennon
 David Coburn (acteur)
+David Corkhill
 David Cotton
 David Coulthard
 David Coverdale
@@ -19841,6 +19879,7 @@ Dir (Unix)
 Dire Straits
 Direct-to-video
 Direct2Drive
+DirectAccess
 DirectX
 Directeur artistique
 Directeur de la technologie
@@ -20180,6 +20219,7 @@ Dollars en cavale
 Dolly (brebis)
 Dolly Sisters (artistes)
 Dolly de Ficquelmont
+Dolmens du Bois des Roches
 Dolomie
 Doloploca
 Dolph Lundgren
@@ -22412,6 +22452,7 @@ Espace des Caraïbes
 Espace localement compact
 Espace séparé
 Espace topologique
+Espace vectoriel
 Espace-temps
 EspaceTemps.net
 Espaces de combat
@@ -22464,6 +22505,7 @@ Estación Central (métro de Santiago)
 Estadio La Arboleda
 Estado Novo (Brésil)
 Estado Novo (Portugal)
+Estaing (Hautes-Pyrénées)
 Estampage
 Estampe
 Estasia
@@ -23017,6 +23059,7 @@ Fairchild Model 45
 Fairchild XC-120 Packplane
 Fairfax (série télévisée d'animation)
 Fairlight CMI
+Fairmined
 Fairport Convention
 Fairyland (groupe)
 Fais de beaux rêves (film, 2016)
@@ -23164,6 +23207,7 @@ Farmington Historic Home
 Farnum
 Farnworth
 Farouk Ben Jeddi
+Farqua quadrimaculata
 Farscape
 Fascisme
 Fashion Star
@@ -23492,6 +23536,7 @@ Fethi Belhaj
 Fetty Wap
 Feu de circulation
 Feu de forêt
+Feu de glace
 Feu maritime
 Feuille de laurier
 Feuille de laurier (outil paléolithique)
@@ -24477,6 +24522,7 @@ François Guizot
 François Hollande
 François II (roi de France)
 François Ier (roi de France)
+François Ier d'Orbay
 François Jacob
 François Kersaudy
 François Kolowrat
@@ -24498,6 +24544,7 @@ François Neveux
 François Ozon
 François Pauly
 François Perrot (acteur)
+François Place
 François Pouron
 François Quesnay
 François Ramade
@@ -25045,6 +25092,7 @@ Février 2023
 Fête de la Fédération
 Fête des Normands
 Fêtes de fin d'année
+Führich
 Fürth
 G (accélération)
 G (lettre)
@@ -25352,6 +25400,7 @@ Gare de Northolt Park
 Gare de Nézel - Aulnay
 Gare de Paris-Montparnasse
 Gare de Peillon-Sainte-Thècle
+Gare de Perray-Jouannet
 Gare de Saitama-Shintoshin
 Gare de Sakuragichō
 Gare de Scorbé-Clairvaux
@@ -25381,6 +25430,7 @@ Gare de Yono
 Gare de Yoyogi
 Gare de Yōkōdai
 Gare de Yūrakuchō
+Gare de la Bourse
 Gare des Cabannes
 Gare du Bouchet
 Gare ferroviaire
@@ -25891,6 +25941,7 @@ Gestion de configuration logicielle
 Gestion des déchets
 Gestion des ressources naturelles
 Gestion électronique des documents
+Get Along with You
 Get Back
 Get Carter
 Get It (chanson de Stevie Wonder)
@@ -26117,6 +26168,7 @@ Glacis continental
 Gladbeck
 Gladiator (film, 2000)
 Gladstone (Queensland)
+Gladys Kahaka
 Gladys McConnell
 Gladys Root
 Glaive
@@ -26400,6 +26452,7 @@ Gonomomera
 Gonorrhée
 Gonzague Saint Bris
 Gonzalo Jiménez de Quesada
+Gonzalo Palacín
 Gonzalo Rubalcaba
 Gonçalves Crespo
 Gonçalves Dias
@@ -27109,6 +27162,7 @@ Grauman's Chinese Theatre
 Gravastar
 Grave (film, 2016)
 Gravermarka
+Gravesano
 Gravesend (Angleterre)
 Graveson
 Graveson (ruisseau)
@@ -27724,6 +27778,7 @@ Guilherme (football, 1974)
 Guilherme Xavier de Souza
 Guillaume Bouchard
 Guillaume Bouchède
+Guillaume Brac
 Guillaume Brisebois
 Guillaume Cahour
 Guillaume Canet
@@ -28939,6 +28994,7 @@ Hector Chicken
 Hector Hodler
 Hector Protector
 Hedda Hopper
+Heddert
 Hedley
 Hedley Francis Gregory Bridges
 Hedningarna
@@ -29002,6 +29058,7 @@ Helena Suková
 Helene Reingaard Neumann
 Helenius Acro
 Helensburgh
+Helffer
 Helga Masthoff
 Helga Schultze
 Helhoughton
@@ -29220,6 +29277,7 @@ Herbert Henry Asquith
 Herbert Lawford
 Herbert Mataré
 Herbert Morrison
+Herbert O'Connor
 Herbert Prior
 Herbert Rittberger
 Herbert Samuel
@@ -29843,6 +29901,7 @@ Hope for Haiti Now
 Hopeless Records
 Hopkinsia
 Hopkinsville
+Hopliancistrus xavante
 Hopliteccopsis
 Hoplitendemis
 Hopman Cup 2016
@@ -30982,6 +31041,7 @@ Hélène Bédard
 Hélène Cattet et Bruno Forzani
 Hélène Fortier
 Hélène Joy
+Hélène Major
 Hélène Scott
 Hélène Surgère
 Hélène Ségara
@@ -31284,6 +31344,7 @@ Iberia
 Ibiono-Ibom
 Iblis
 Ibn Khaldoun
+Ibn al-Nadim
 Ibo (Mozambique)
 Ibogo (Boudry)
 Ibrahim
@@ -31443,6 +31504,7 @@ Ilmarë (lune)
 Ilroy Plowright
 Ils sont parmi nous
 Ils vont tous bien !
+Ilse Hess
 Ilski
 Ilves (hockey sur glace)
 Ilya Mouromets
@@ -31668,6 +31730,7 @@ Infiltration (hydrologie)
 Infinite (album de Deep Purple)
 Infinity Train
 Infirmière
+Infirmière Ratched
 Inflammation
 Inflation
 Inflorescence
@@ -33511,6 +33574,7 @@ Jean-Pierre Ferland
 Jean-Pierre Foucault
 Jean-Pierre Germain (acteur)
 Jean-Pierre Gos
+Jean-Pierre Granval
 Jean-Pierre Husser
 Jean-Pierre Jabouille
 Jean-Pierre Jaussaud
@@ -33999,6 +34063,7 @@ Joannes van Roesell
 Joaquim Barbosa
 Joaquim Benedito Barbosa Gomes
 Joaquim Diaz
+Joaquim Ferreira do Amaral
 Joaquim Maria Machado de Assis
 Joaquim Nabuco
 Joaquima
@@ -34399,6 +34464,7 @@ John Rushout (4e baronnet)
 John Russell (1er comte Russell)
 John Russell Pope
 John Savage (acteur)
+John Schlesinger
 John Schmedes
 John Schneider
 John Schroeder
@@ -34689,6 +34755,7 @@ Joseph Kahn
 Joseph Kane
 Joseph Kessel
 Joseph Laroche
+Joseph Laurent Hillion
 Joseph Lee
 Joseph Lister
 Joseph Losey
@@ -35645,6 +35712,7 @@ Katie Boulter
 Katie Leung
 Katie Melua
 Katie Moore
+Katie Schofield
 Katja Ebbinghaus
 Katla (série télévisée)
 Kato (le frelon vert)
@@ -35674,6 +35742,7 @@ Kawasaki Shipbuilding Corporation
 Kawcze (Śrem)
 Kawczyn (Sainte-Croix)
 Kawhi Leonard
+Kawęczyn (Ryki)
 Kay Hammond (actrice américaine)
 Kay Stammers
 Kaya Futbol Club
@@ -36472,6 +36541,7 @@ Kulosaari
 Kumonga
 Kumquatz
 Kunal Nayyar
+Kunchok Tsephel
 Kundun (bande originale)
 Kundun (film)
 Kung Fu : The movie
@@ -36969,6 +37039,7 @@ La Confession (film)
 La Conquête de Grenade
 La Conquête de l'Ouest (série télévisée)
 La Consolation (film)
+La Corde au cou (film français, 1965)
 La Corogne
 La Couleur des sentiments (film)
 La Couleur pourpre (film)
@@ -37799,6 +37870,7 @@ Laser Interferometer Space Antenna
 Laserhawk
 Lash LaRue
 Lasiothyris
+Laskowizna
 Lasnenville
 Laspeyresinia
 Lasse Hallström
@@ -40616,6 +40688,7 @@ Loi de Verner
 Loi de composition
 Loi de l'osmométrie
 Loi de mélange
+Loi des principes du Mouvement national
 Loi des sinus
 Loi des trois états
 Loi du Congrès
@@ -41096,6 +41169,7 @@ Lucien Littlefield
 Lucien Tesnière
 Lucien de Samosate
 Lucienne Bogaert
+Lucienne Divan
 Lucienne Troka
 Lucifer
 Lucifer (série télévisée)
@@ -41144,6 +41218,7 @@ Ludovic Colbeau-Justin
 Ludovic Michaux
 Ludovica Ferrario
 Ludovick Bourgeois
+Ludovico Carminati
 Ludvig Mylius-Erichsen
 Ludwig Carl Christian Koch
 Ludwig Feuerbach
@@ -41480,6 +41555,7 @@ M.A. Estrella Cuarteto Cedron
 M.I.A.
 M.I.M
 M.I.M.
+M/Other
 M13 (virologie)
 M51 (galaxie)
 M83 (groupe)
@@ -42037,6 +42113,7 @@ Mam'zelle Charlot
 Mama (film)
 Mama Béa
 Mama Prassinos
+Mamadou N'Diaye (basketball, 1975)
 Mamaia
 Mamak Khadem
 Maman était new-look
@@ -42102,6 +42179,7 @@ Manchester United FC
 Manchester United Football Club
 Manchester University Press
 Manda (kaiju)
+Mandalorien (homonymie)
 Mandarin (langue)
 Mandarin Films Distribution Co. Ltd.
 Mandat britannique de Mésopotamie
@@ -43222,6 +43300,7 @@ Mat Moebius
 Mat Whitecross
 Mat Zemlya
 Mata Utu
+Matakitaki (rivière)
 Matante Alys
 Matanzas
 Mataró
@@ -43236,6 +43315,7 @@ Mate Pavić
 Matej Tomek
 Matelot Ferré
 Material Girls (groupe)
+MathWorld
 Mathai (chanteur)
 Mathematical Association of America
 Mathematics Genealogy Project
@@ -43289,6 +43369,7 @@ Mats Møller Dæhli
 Mats Wilander
 Matsumuraeses
 Matt Andersen
+Matt Austin (acteur canadien)
 Matt Baldwin
 Matt Cardona
 Matt Carroll (basket-ball)
@@ -43400,6 +43481,7 @@ Maurice Cazeneuve
 Maurice Chevalier
 Maurice Chevit
 Maurice Dantec
+Maurice Denécheau
 Maurice Genevoix
 Maurice Hilleman
 Maurice Jarre
@@ -43809,6 +43891,7 @@ Mercury Records
 Mercy, Mercy, Mercy!
 Meredith Grey
 Meredith Lavender
+Merica
 Meridagena
 Meridemis
 Meriden (circonscription britannique)
@@ -44149,6 +44232,7 @@ Michel Cassagne
 Michel Chevalier (homme politique)
 Michel Ciment
 Michel Cloutier (homonyme)
+Michel Cormier
 Michel Crémadès
 Michel Cusson
 Michel Côté (musicien)
@@ -44727,6 +44811,7 @@ Misanthrope (film)
 Mischa Bakaleinikoff
 Mise en abyme
 Mise en examen
+Mise en musique des poèmes de Charles Baudelaire
 Mise à l'épreuve 2
 Mise à mort du cerf sacré
 Misekake no I Love you
@@ -44824,6 +44909,7 @@ Mo Yan
 Mo'men
 Moa géant de l'île du Sud
 Moabite
+Moataz Yaseen
 Mobile (groupe)
 Mobile Home
 Mobile Home (groupe)
@@ -45200,6 +45286,7 @@ Montouhotep
 Montpellier
 Montpellier Business School
 Montpellier Hérault Sport Club
+Montpellier Métropole ASPTT
 Montreal Jubilation Gospel Choir
 Montreuil (Seine-Saint-Denis)
 Montreuil-sous-Bois
@@ -45340,6 +45427,7 @@ Mot-valise
 Motala AIF
 Motard
 Moteur Diesel
+Moteur Mercedes-Benz M103
 Moteur V12 Matra Sports
 Moteur avec quatre cylindres en ligne
 Moteur de Citroën 2CV
@@ -45955,6 +46043,7 @@ Médecine/Sciences
 Médecins d'aujourd'hui
 Média
 Média social
+Médiane (géométrie)
 Médias
 Médias de masse
 Médias sociaux
@@ -46117,6 +46206,7 @@ Métropole orthodoxe grecque d'Allemagne
 Météo consult
 Météo-France
 MétéoMédia
+Météore (homonymie)
 Météorite
 Météorite de fer
 Météorite du lac Tagish
@@ -46295,6 +46385,7 @@ Naine rouge
 Naine rouge (stade de naine blanche)
 Naissance des étoiles
 Naissance du vivant
+Naissance en 1047
 Naive New Beaters
 Najm oud-Dine Bammate
 Nakaba Suzuki
@@ -46977,6 +47068,7 @@ Nicky Hopkins
 Nicky Katt
 Nicky van Leuveren
 Nico Harrison
+Nicobarais
 Nicodème
 Nicola Ciccone
 Nicola Marschall
@@ -47184,6 +47276,7 @@ Nirvana Street Murder
 Nisekoi
 Nishi Munshi
 Nisio Isin
+Nitaboh (film)
 Nitchequon
 Niterói
 Nitrate
@@ -47751,6 +47844,7 @@ Néris-les-Bains
 Néréis
 Néstor Rodulfo
 Névrosé
+Nêne (film)
 Nílson (football, 1965)
 Níver Arboleda
 Níver Arboleda Diaz
@@ -47867,6 +47961,7 @@ Ocean One (robot)
 Oceanus Borealis
 Ochetarcha
 Ochrotaenia
+Ochyrocera itatinga
 Ockham (Surrey)
 Ocotea bullata
 Octant (instrument)
@@ -48055,6 +48150,7 @@ Oiseau
 Oiseau de feu
 Oiseau-tonnerre
 Oiseaux
+Oison (rivière)
 Ojhapath
 Ojo Amarillo
 Ojos de Brujo
@@ -48206,6 +48302,7 @@ Olof Stahre
 Olof Stolpe
 Olokun
 Olomouc
+Olsberg (Argovie)
 Olszewo (Boćki)
 Olsztyn
 Olympas
@@ -48356,6 +48453,7 @@ Open d'Australie 2012
 Open d'Australie 2015
 Open d'Australie 2020
 Open d'Australie 2022
+Open de Haining de snooker 2017
 Open source
 Open-source robotics
 OpenEdition Journals
@@ -48907,6 +49005,7 @@ Ouvert la nuit
 Ouvrage public
 Ouvrir la Voix
 Ouzbékistan
+Ouéguédo-Yarcé
 Ouïgour
 Ovada
 Ovaire
@@ -49399,6 +49498,7 @@ Paraïba
 Parc Pat Nixon
 Parc Sainte-Périne
 Parc aux étoiles
+Parc d'État de Coral Pink Sand Dunes
 Parc de la Francophonie
 Parc de la station balnéaire maritime
 Parc national Alejandro de Humboldt
@@ -49416,6 +49516,7 @@ Parc national du Kosciuszko
 Parc national olympique du Canada
 Parc naturel régional du Haut-Jura
 Parc provincial de Canmore Nordic Centre
+Parc quasi national d'Abashiri
 Parc safari
 Parc zoologique
 Parcs et espaces verts dans le borough londonien de Harrow
@@ -50349,6 +50450,7 @@ Pete Carroll
 Pete Cawthon
 Pete Davidson
 Pete Drake
+Pete Duel
 Pete Ferry
 Pete Fromm
 Pete Maravich
@@ -50676,6 +50778,7 @@ Philippe Uchan
 Philippe V (roi de Macédoine)
 Philippe VI de Valois
 Philippe Valmont
+Philippe Van Rechem
 Philippe Venault
 Philippe Vincent
 Philippe d'Avilla
@@ -50786,6 +50889,7 @@ Phrygie
 Phtheochroa
 Phtheochroides
 Phycodnaviridae
+Phyllidia coelestis
 Phyllis King
 Phyllocomos
 Phyllodoce mucosa
@@ -50989,6 +51093,7 @@ Pierre Verger
 Pierre Verville
 Pierre Victurnien Vergniaud
 Pierre Vidal (musicien)
+Pierre Vimont
 Pierre d'Amboise
 Pierre de Chabaka
 Pierre de Rosette
@@ -51393,6 +51498,7 @@ Plectre
 Pledge This: Panique à la fac !
 Plegmund
 Plessis-de-Roye
+Plestiodon gilberti
 Plettenberg
 Pleurésie
 Pli (géologie)
@@ -51475,6 +51581,7 @@ Podalire
 Podcast News
 Podgorica
 Podgórzyce
+Podlipnik
 Podognatha
 Podolsk
 Podomètre
@@ -51573,6 +51680,7 @@ Politique
 Politique au Burkina Faso
 Politique au Groenland
 Politique au Royaume-Uni
+Politique aujourd'hui
 Politique d'apaisement
 Politique de défense
 Politique de l'Autriche
@@ -53157,6 +53265,7 @@ Racisme d'État
 Rackham (maison d'édition)
 Racloir
 Racon
+Raczyny (Siedlce)
 Radar
 Radar (chanson)
 Radar de recul
@@ -53734,6 +53843,7 @@ Red Bull Theatre
 Red Corner
 Red Deer (Alberta)
 Red Faction II
+Red Gone Wild
 Red Hill (Canberra)
 Red Hood and the Outlaws
 Red Hot Chili Peppers
@@ -54047,6 +54157,7 @@ Repêchage d'entrée dans la LNH 2020
 Repêchage d'entrée dans la LNH 2021
 Repêchage d'entrée dans la LNH 2022
 Repêchage d'entrée dans la LNH 2023
+Repêchage d'expansion de la LNH 1991
 Repêcheur de torpille
 República Velha
 Requiem for a Dream
@@ -54471,6 +54582,7 @@ Rire & Chansons
 Riri-tuna-rai
 RiscOS
 Rise : La Véritable Histoire des Antetokounmpo
+Rise Like a Phoenix
 Rise of the Tomb Raider
 Risen (jeu vidéo)
 Rishi Sunak
@@ -54521,6 +54633,7 @@ Riviera (Pretoria)
 Riviera L.M.
 Rivière
 Rivière Canning
+Rivière Qijuttuuq
 Rivière Rémy
 Rivière-du-Loup
 Rivoli
@@ -54541,8 +54654,10 @@ Road Trips
 Road Warrior Animal
 Road Warriors
 Road manager
+Road to Bloodshed
 RoadRunners de Topeka
 Roadblock: End of the Line
+Roaditude
 Roadster (moto)
 Roald Dahl
 Roam (groupe)
@@ -55022,6 +55137,7 @@ Rois mages
 Rojanice
 Rokia Traoré (chanteuse)
 Rokietnica (gmina, Grande-Pologne)
+Rokina
 Rokitno (Poméranie occidentale)
 Roland Blanche
 Roland Bryar
@@ -55578,6 +55694,7 @@ Rue de l'Odéon
 Rue de la Régence (homonymie)
 Rue des Hospitalières-Saint-Gervais
 Rue des Tournelles
+Rue du Camas
 Rue du Commandant-de-Surian
 Rue du Gros-Horloge
 Rue Široká
@@ -55656,6 +55773,7 @@ Rush de Rapid City
 Rushi Kota
 Rushmore
 Rushton Moreve
+Ruslan Pateev
 Russ Columbo
 Russ Howard
 Russ Jackman
@@ -56276,6 +56394,7 @@ Sadko (mythologie)
 Sadok Ben Jemâa
 Saebeonjjae siseon
 Saeed al-Owairan
+Saeko Himuro
 Saetosacculina
 Saetotaenia
 Saetotenes
@@ -56470,6 +56589,7 @@ Saison 1975 de tennis féminin
 Saison 1976 de la WTA
 Saison 1977 de la WTA
 Saison 1978 de la WTA
+Saison 1979-1980 du FC Metz
 Saison 1980-1981 des Mavericks de Dallas
 Saison 1981-1982 des Mavericks de Dallas
 Saison 1982-1983 des Mavericks de Dallas
@@ -56973,6 +57093,7 @@ Sandrine Blancke
 Sandrine Bonnaire
 Sandrine Bulteau
 Sandrine Cohen
+Sandrine Holt
 Sandrine Kiberlain
 Sandrine Laroche
 Sandrine Testud
@@ -57143,6 +57264,7 @@ Sardaigne
 Sareh Bayat
 Sargon II
 Sarhg Lamarque
+Sariego
 Sariel
 Sarina Farhadi
 Sarnath
@@ -57726,6 +57848,7 @@ Seine-et-Marne
 Seinen
 Seinfeld
 Sekai wa Sore Demo Kawari wa Shinai
+Sekirei (anime)
 Sekret Enigmy
 Sel alimentaire
 Sel double
@@ -58336,6 +58459,7 @@ Sida en république populaire de Chine
 Sidaction
 Siddha
 Siddharth Dhananjay
+Siddheshwari Devi
 Siddis
 Side-car
 Sidestrand
@@ -58732,6 +58856,7 @@ Siège enfant
 Siège social
 Sièges de Vannes (1342)
 Skalimowo
+Skalka (district de Prostějov)
 Skanstull
 Skara Brae
 Skara Brae (groupe)
@@ -59762,6 +59887,7 @@ Statue de Robert Lee (Charlottesville)
 Statue de l'archange saint Michel
 Statue équestre de La Fayette (Paris)
 Statue-menhir
+Statue-menhir de Saint-Julien
 Statut de cité au Royaume-Uni
 Staurolite
 Stavanger ishockeyklubb
@@ -61179,6 +61305,7 @@ Szeszyły
 Sziget Festival
 Szombathely
 Szumki
+Szydłowo (Mazovie)
 Sándor Kocsis
 Sâlih
 São Bento (Porto de Mós)
@@ -61852,6 +61979,7 @@ Tchéka
 Tchéky Karyo
 Tchéquie
 Teach Grant
+Tealing
 Team America, police du monde
 Team Haas Lola
 Team Hell No
@@ -62032,6 +62160,7 @@ Tennis en fauteuil roulant
 Tenoa
 Tenon Mortaise
 Tenseur des contraintes
+Tenshin Shōden Katori Shintō-ryū
 Tension électrique
 Tensobtenga
 Tensor Processing Unit
@@ -63231,6 +63360,7 @@ Theudas
 They All Came Down to Montreux
 They Don't Care About Us
 Thiaumont
+Thibaud Ier de Vermandois
 Thibault de Montalembert
 Thierno Diawo Pellel
 Thierry Amiel
@@ -63517,6 +63647,7 @@ Théories sur l'assassinat de John F. Kennedy
 Théories sur la citoyenneté de Barack Obama
 Théorème de Bayes
 Théorème de Pythagore
+Théorème de calvitie
 Théorème de flux-divergence
 Théoton de Coïmbre
 Thérapie de couples
@@ -66485,6 +66616,7 @@ Unstoppable (film, 2010)
 Unterach am Attersee
 Unterseeboot
 Unterseeboot 162
+Unterseeboot 289
 Unterseeboot 660
 Unterseeboot 821
 Unterseeboot type XIV
@@ -66557,6 +66689,7 @@ Uttarakhand
 Uummannaq
 Uwe Boll
 Uwe Conradt
+Uwe Johnson
 Uxbridge (Hillingdon)
 Uxbridge (Ontario)
 Uxbridge (métro de Londres)
@@ -66642,6 +66775,7 @@ Vache sacrée
 Vaches laitières
 Vaclav Mares
 Vaclav Trojan
+Vadillo de la Guareña
 Vadnagar
 Vadodara
 Vagabondage
@@ -67228,6 +67362,7 @@ Vince Carter
 Vince Colosimo
 Vince Dunn
 Vince Locke
+Vince Lombardi
 Vince Welnick
 Vincennes
 Vincent Astor
@@ -69558,6 +69693,7 @@ Zakhozhye
 Zakir Hussain (homme politique)
 Zakouski (homonyme)
 Zaltbommel
+Zalužice
 Zaláta
 Zam (Zam)
 Zam (département)
@@ -69801,6 +69937,7 @@ Związek Producentów Audio-Video
 Zwoelie Troelies
 Zwolle
 Zygmunt Krasiński
+Zygomatique
 Zèbre à pois
 Zébulon (groupe)
 Zébédée
@@ -69916,6 +70053,7 @@ xian de Wencheng
 Âge du cuivre
 Âge du fer
 Âgisme
+Âne sauvage
 Âshram
 Ängelholm
 Ängelholms FF
@@ -70344,6 +70482,7 @@ xian de Wencheng
 Église Notre-Dame-de-l'Assomption de Dénat
 Église Notre-Dame-des-Champs d'Avranches
 Église Saint-Bohaire de Saint-Bohaire
+Église Saint-Geniès de Benque-Dessous
 Église Saint-Martin de Bladon
 Église Saint-Michael, Cornhill
 Église Saint-Michel d'Aiguilhe
@@ -70352,6 +70491,7 @@ xian de Wencheng
 Église Saint-Michel-Archange de Mokrin
 Église Saint-Pierre de Chaniers
 Église Saint-Pierre de Neuillé-Pont-Pierre
+Église Saint-Symphorien de Ponthion
 Église Sainte-Marguerite de Westminster
 Église Sainte-Tanche de Lhuître
 Église Sant'Antonio da Padova a Circonvallazione Appia
@@ -70416,6 +70556,7 @@ xian de Wencheng
 Élection présidentielle brésilienne de 1994
 Élection présidentielle française de 1995
 Élection présidentielle guinéenne de 2010
+Élection présidentielle moldave de 1996
 Élection à la direction du Parti conservateur britannique d'octobre 2022
 Élection à la direction du Parti conservateur britannique de 1965
 Élection à la direction du Parti conservateur britannique de 1975
@@ -70607,6 +70748,7 @@ xian de Wencheng
 Énergie marémotrice
 Énergie noire
 Énergie non renouvelable
+Énergie nucléaire au Danemark
 Énergie pneumatique
 Énergie renouvelable
 Énergies fossiles
@@ -71115,6 +71257,7 @@ xian de Wencheng
 Étoile noire (matière noire)
 Étoile radio
 Étoile relativiste
+Étoile rouge de Belgrade (basket-ball)
 Étoile sous-géante
 Étoile sous-naine
 Étoile sous-naine de type B
@@ -71214,6 +71357,7 @@ xian de Wencheng
 Éwé (langue)
 Ézéchiel
 Éémien
+Ístron (Lassíthi)
 Île Alejandro Selkirk
 Île Baker
 Île Barbe
@@ -71221,6 +71365,7 @@ xian de Wencheng
 Île Christmas (Australie)
 Île Cross (Falkland)
 Île Garden
+Île Heard
 Île Henderson (Îles Pitcairn)
 Île Hospital
 Île Howland
@@ -71830,6 +71975,7 @@ $uicideboy$
 167e régiment d'infanterie (États-Unis)
 1680 au théâtre
 1682 au théâtre
+1687 en santé et médecine
 168e régiment d'artillerie de campagne (États-Unis)
 1690 au théâtre
 1691 au théâtre
@@ -73546,6 +73692,7 @@ $uicideboy$
 4 septembre
 40 jours et 40 nuits
 400 Lapins
+400 mètres haies masculin aux Jeux olympiques de 1920
 400e à 301e millénaires avant le présent
 402e brigade d'artillerie de campagne (États-Unis)
 40e brigade d'infanterie (États-Unis)
@@ -74535,6 +74682,7 @@ Académie tahitienne
 Acanthamoeba
 Acantheucosma
 Acanthocephala
+Acanthocephaloides
 Acanthoclita
 Acanthostega
 Acapulco
@@ -74612,6 +74760,7 @@ Achim von Arnim
 Achéménides
 Achéron (Q150)
 Acid Arab
+Acid Queen
 Acide 4-méthyl-2-oxovalérique
 Acide acétique
 Acide désoxyribo-nucléique
@@ -74653,6 +74802,7 @@ Acronymie
 Acroplectis
 Acropole d'Athènes
 Acropolitis
+Acrosomoides
 Across the Universe
 Across the Universe (film)
 Act Naturally
@@ -74731,6 +74881,7 @@ Adam Marsh
 Adam Mickiewicz
 Adam Musil
 Adam Müller
+Adam Nordén
 Adam Pally
 Adam Parsells
 Adam Scott
@@ -74886,6 +75037,7 @@ Affaire de Barraket Essahel
 Affaire de Nancy
 Affaire de Tchanak
 Affaire de corruption à la FIFA
+Affaire des couveuses au Koweït
 Affaire du duc d'Enghien
 Affaire du sang contaminé
 Affaires non classées
@@ -75022,6 +75174,7 @@ Aglaogonia
 Agnat
 Agnatha
 Agne Simonsson
+Agnes McCullough
 Agnes Morton
 Agnes Tuckey
 Agnieszka Mandat
@@ -75196,6 +75349,7 @@ Al Macinnes
 Al Najma
 Al Nasr Riyad
 Al Pacino
+Al Plastino
 Al Riyad SC
 Al Roemer
 Al Wehda Club (La Mecque)
@@ -75661,6 +75815,7 @@ Alfred Hickman
 Alfred Hitchcock
 Alfred Hitchcock présente (série télévisée, 1955)
 Alfred III de Windisch-Graetz
+Alfred Jauffret
 Alfred Kinsey
 Alfred Loewenstein
 Alfred Léon Gérault-Richard
@@ -76102,6 +76257,7 @@ Alton Kelley
 Altona (Hambourg)
 Altovise Davis
 Altrincham
+Altroff (homonymie)
 Altruisme
 Altération (géologie)
 Altınkuşak, Elâzığ
@@ -76297,6 +76453,7 @@ America³ (1992 yacht)
 Amersfoort
 Amgen
 Ami Diarra
+Amiach
 Amiante
 Amibe
 Amicale sportive de Poissy Football
@@ -78323,6 +78480,7 @@ Astrid Kirchherr
 Astringence
 Astro, le petit robot
 Astroblème du Nördlinger Ries
+Astrobotanique
 Astroingénierie
 Astroloba bullulata
 Astromobile
@@ -79344,6 +79502,7 @@ Banda Calypso
 Bandai
 Bandai Namco Entertainment
 Bandcamp
+Bande (Belgique)
 Bande Artistique
 Bande Originale
 Bande d'instabilité
@@ -80192,6 +80351,7 @@ Ben Small
 Ben Stassen
 Ben Stiller
 Ben Turpin
+Ben Uzoh
 Ben Warren
 Ben Webster
 Ben Westwood
@@ -80241,6 +80401,7 @@ Benjamin Huger
 Benjamin Jonson
 Benjamin Lawrence Reid
 Benjamin Moser (écrivain)
+Benjamin Netter
 Benjamin Pascal
 Benjamin Renner
 Benjamin Siksou
@@ -81844,6 +82005,7 @@ Bremen (manga)
 Bremerhaven
 Brenda Blethyn
 Brenda Kirk
+Brenda Marshall
 Brenda Strong
 Brenda Wootton
 Brendan Bracken
@@ -82936,6 +83098,7 @@ Camille Pin
 Camille Ravel
 Camille Timmerman
 Camille de Montalivet
+Camille-Gabrielle Drunzer
 Camillo Mastrocinque
 Camillo Ranzani
 Camilo José Cela
@@ -83851,6 +84014,7 @@ Ceridwen
 Cerise (film)
 Ceritaenia
 Cernobbio
+Ceropegia sandersonii
 Cerro Cóndor
 Cerro Pachón
 Certaines Femmes
@@ -85438,6 +85602,7 @@ Chantier naval Electric Boat de Groton
 Chantiers Dubigeon
 Chantilly
 Chanvre
+Chaoniens
 Chaos (film, 2005)
 Chaos in Motion 2007-2008
 Chaparrals de Dallas
@@ -85450,6 +85615,7 @@ Chapelle Saint-Fridolin
 Chapelle Saint-Georges de Windsor
 Chapelle Saint-Roch de Fontaine-Notre-Dame
 Chapiteau (architecture)
+Chapitre de Poussay
 Chaplin
 Chaplin (film, 1992)
 Chaplin (homonymie)
@@ -85568,6 +85734,7 @@ Charles Lamb
 Charles Lanrezac
 Charles Laughton
 Charles Lee (général)
+Charles Lepeintre
 Charles Lindbergh
 Charles Loos
 Charles Lucia
@@ -86267,6 +86434,7 @@ Christian de Chalonge
 Christian de Duve
 Christian de Waldner
 Christiane Cohendy
+Christiane Eda-Pierre
 Christiane Jean
 Christiane Ludot
 Christiane Rochefort
@@ -86279,6 +86447,7 @@ Christina Aguilera (album)
 Christina Grimmie
 Christina McHale
 Christina Milian
+Christina Ricci
 Christine (film, 1983)
 Christine Astin
 Christine Baranski
@@ -86326,6 +86495,7 @@ Christophe Ramaux
 Christophe Reymond
 Christophe Sermet
 Christophe Willem
+Christophe de France
 Christopher Abbott
 Christopher Allport
 Christopher Awdry
@@ -86442,6 +86612,7 @@ Chuck Jones
 Chuck Lorre
 Chuck McKinley
 Chuck Norris
+Chuck Reed
 Chullpa
 Church Street (Pretoria)
 Church of the SubGenius
@@ -86571,6 +86742,7 @@ Cimetière de Flushing
 Cimetière de Kensico
 Cimetière de Passy
 Cimetière de Picpus
+Cimetière de Sainte-Marie-aux-Mines
 Cimetière du Père-Lachaise
 Cimetière militaire
 Cimetière militaire allemand de Cerny-en-Laonnois
@@ -86732,6 +86904,7 @@ Cité du Vatican
 Cité impériale
 Cité interdite
 Cité-jardin
+Citéphilo
 Ciudad Juárez
 Ciudad Victoria
 Civic
@@ -87278,6 +87451,7 @@ Cojean (société)
 Coke Zero 400
 Coky Giedroyc
 Col de Bavella
+Col de Valparola
 Col de la Schlucht
 Col des Étots
 Colac
@@ -87569,6 +87743,7 @@ Commophila
 Communauté d'agglomération Seine-Eure
 Communauté de communes
 Communauté de communes d'Évaux-les-Bains Chambon-sur-Voueize
+Communauté de communes de Haute Sambre-Bois l'Évêque
 Communauté de communes de l'Alta Rocca
 Communauté de communes de la Gascogne Toulousaine
 Communauté de communes du Bassin de Marennes
@@ -89130,6 +89305,7 @@ Ctenotus striaticeps
 Cthulhu (film)
 Ctésippe
 Cuadro Los Tarantos
+Cuarnens
 Cuba aux Jeux olympiques d'été de 1952
 Cubewano
 Cubic Zirconia
@@ -90136,6 +90312,7 @@ David Chaussé
 David Chung
 David Clennon
 David Coburn (acteur)
+David Corkhill
 David Cotton
 David Coulthard
 David Coverdale
@@ -91103,6 +91280,7 @@ Dir (Unix)
 Dire Straits
 Direct-to-video
 Direct2Drive
+DirectAccess
 DirectX
 Directeur artistique
 Directeur de la technologie
@@ -91346,6 +91524,7 @@ Djur Djura
 Djurdura
 Djurgården Hockey
 Djurgårdens IF (football)
+Djéhoutimès
 Dmanissi
 Dmesg
 Dmitri Chostakovitch
@@ -91442,6 +91621,7 @@ Dollars en cavale
 Dolly (brebis)
 Dolly Sisters (artistes)
 Dolly de Ficquelmont
+Dolmens du Bois des Roches
 Dolomie
 Doloploca
 Dolph Lundgren
@@ -93674,6 +93854,7 @@ Espace des Caraïbes
 Espace localement compact
 Espace séparé
 Espace topologique
+Espace vectoriel
 Espace-temps
 EspaceTemps.net
 Espaces de combat
@@ -93726,6 +93907,7 @@ Estación Central (métro de Santiago)
 Estadio La Arboleda
 Estado Novo (Brésil)
 Estado Novo (Portugal)
+Estaing (Hautes-Pyrénées)
 Estampage
 Estampe
 Estasia
@@ -94279,6 +94461,7 @@ Fairchild Model 45
 Fairchild XC-120 Packplane
 Fairfax (série télévisée d'animation)
 Fairlight CMI
+Fairmined
 Fairport Convention
 Fairyland (groupe)
 Fais de beaux rêves (film, 2016)
@@ -94426,6 +94609,7 @@ Farmington Historic Home
 Farnum
 Farnworth
 Farouk Ben Jeddi
+Farqua quadrimaculata
 Farscape
 Fascisme
 Fashion Star
@@ -94597,6 +94781,7 @@ Fern Emmett
 Fernand Bercher
 Fernand Berset
 Fernand Braudel
+Fernand Icres
 Fernand Michaud
 Fernand Rinfret
 Fernand de Magellan
@@ -95329,6 +95514,7 @@ For the People (série télévisée, 2018)
 Forbach
 Forbes (magazine)
 Force 136
+Force H
 Force India
 Force de Coriolis
 Force de frappe (série télévisée)
@@ -95740,6 +95926,7 @@ François Guizot
 François Hollande
 François II (roi de France)
 François Ier (roi de France)
+François Ier d'Orbay
 François Jacob
 François Kersaudy
 François Kolowrat
@@ -96309,6 +96496,7 @@ Février 2023
 Fête de la Fédération
 Fête des Normands
 Fêtes de fin d'année
+Führich
 Fürth
 G (accélération)
 G (lettre)
@@ -96378,6 +96566,7 @@ Gabriel Cattand
 Gabriel Deluc
 Gabriel Gagné
 Gabriel García Márquez
+Gabriel Geay
 Gabriel Gorodetsky
 Gabriel Julien-Laferrière
 Gabriel Le Bomin
@@ -96616,6 +96805,7 @@ Gare de Northolt Park
 Gare de Nézel - Aulnay
 Gare de Paris-Montparnasse
 Gare de Peillon-Sainte-Thècle
+Gare de Perray-Jouannet
 Gare de Saitama-Shintoshin
 Gare de Sakuragichō
 Gare de Scorbé-Clairvaux
@@ -96645,6 +96835,7 @@ Gare de Yono
 Gare de Yoyogi
 Gare de Yōkōdai
 Gare de Yūrakuchō
+Gare de la Bourse
 Gare des Cabannes
 Gare du Bouchet
 Gare ferroviaire
@@ -97155,6 +97346,7 @@ Gestion de configuration logicielle
 Gestion des déchets
 Gestion des ressources naturelles
 Gestion électronique des documents
+Get Along with You
 Get Back
 Get Carter
 Get It (chanson de Stevie Wonder)
@@ -97665,6 +97857,7 @@ Gonomomera
 Gonorrhée
 Gonzague Saint Bris
 Gonzalo Jiménez de Quesada
+Gonzalo Palacín
 Gonzalo Rubalcaba
 Gonçalves Crespo
 Gonçalves Dias
@@ -98374,6 +98567,7 @@ Grauman's Chinese Theatre
 Gravastar
 Grave (film, 2016)
 Gravermarka
+Gravesano
 Gravesend (Angleterre)
 Graveson
 Graveson (ruisseau)
@@ -98848,6 +99042,7 @@ Guerre des Six Jours
 Guerre des anges
 Guerre des castes
 Guerre des mahdistes
+Guerre des mots dans le conflit israélo-palestinien
 Guerre des sept chefs
 Guerre dissymétrique
 Guerre du Biafra
@@ -99852,6 +100047,7 @@ Hans Fromm
 Hans Günter Schlegel
 Hans Hiltebrand
 Hans Koller
+Hans Lewy
 Hans Liljedahl
 Hans Matheson
 Hans Mild
@@ -100205,6 +100401,7 @@ Hector Chicken
 Hector Hodler
 Hector Protector
 Hedda Hopper
+Heddert
 Hedley
 Hedley Francis Gregory Bridges
 Hedningarna
@@ -100268,6 +100465,7 @@ Helena Suková
 Helene Reingaard Neumann
 Helenius Acro
 Helensburgh
+Helffer
 Helga Masthoff
 Helga Schultze
 Helhoughton
@@ -100372,6 +100570,7 @@ Henri Victor Vallois
 Henri Virlogeux
 Henri Wittmann
 Henri d'Artois
+Henri de Bessé de la Chapelle
 Henri de Hesse-Cassel
 Henri de Turenne (scénariste)
 Henri le Jeune
@@ -100486,6 +100685,7 @@ Herbert Henry Asquith
 Herbert Lawford
 Herbert Mataré
 Herbert Morrison
+Herbert O'Connor
 Herbert Prior
 Herbert Rittberger
 Herbert Samuel
@@ -101109,6 +101309,7 @@ Hope for Haiti Now
 Hopeless Records
 Hopkinsia
 Hopkinsville
+Hopliancistrus xavante
 Hopliteccopsis
 Hoplitendemis
 Hopman Cup 2016
@@ -101192,6 +101393,7 @@ House of the Temple
 House party
 House show
 Houshang Ebtehaj
+Housse (musique)
 Houston
 Houston A. Baker Jr.
 Houston Chronicle
@@ -102248,6 +102450,7 @@ Hélène Bédard
 Hélène Cattet et Bruno Forzani
 Hélène Fortier
 Hélène Joy
+Hélène Major
 Hélène Scott
 Hélène Surgère
 Hélène Ségara
@@ -102710,6 +102913,7 @@ Ilmarë (lune)
 Ilroy Plowright
 Ils sont parmi nous
 Ils vont tous bien !
+Ilse Hess
 Ilski
 Ilves (hockey sur glace)
 Ilya Mouromets
@@ -102935,6 +103139,7 @@ Infiltration (hydrologie)
 Infinite (album de Deep Purple)
 Infinity Train
 Infirmière
+Infirmière Ratched
 Inflammation
 Inflation
 Inflorescence
@@ -104619,6 +104824,7 @@ Jean-Baptiste Surian
 Jean-Baptiste Sylvère Gay, vicomte de Martignac
 Jean-Baptiste de Lamarck
 Jean-Baptiste-Donatien de Vimeur de Rochambeau
+Jean-Baptiste-Zacharie Bolduc
 Jean-Benoît Ugeux
 Jean-Bertrand Aristide
 Jean-Christian Grinevald
@@ -104668,6 +104874,7 @@ Jean-François Vlerick
 Jean-François Vlérick
 Jean-François Yvon
 Jean-François de La Pérouse
+Jean-Frédéric Hermann
 Jean-Gabriel Périot
 Jean-Girard Lacuée
 Jean-Guillaume Cabanne
@@ -104778,6 +104985,7 @@ Jean-Pierre Ferland
 Jean-Pierre Foucault
 Jean-Pierre Germain (acteur)
 Jean-Pierre Gos
+Jean-Pierre Granval
 Jean-Pierre Husser
 Jean-Pierre Jabouille
 Jean-Pierre Jaussaud
@@ -105667,6 +105875,7 @@ John Rushout (4e baronnet)
 John Russell (1er comte Russell)
 John Russell Pope
 John Savage (acteur)
+John Schlesinger
 John Schmedes
 John Schneider
 John Schroeder
@@ -106914,6 +107123,7 @@ Katie Boulter
 Katie Leung
 Katie Melua
 Katie Moore
+Katie Schofield
 Katja Ebbinghaus
 Katla (série télévisée)
 Kato (le frelon vert)
@@ -106943,6 +107153,7 @@ Kawasaki Shipbuilding Corporation
 Kawcze (Śrem)
 Kawczyn (Sainte-Croix)
 Kawhi Leonard
+Kawęczyn (Ryki)
 Kay Hammond (actrice américaine)
 Kay Stammers
 Kaya Futbol Club
@@ -107365,6 +107576,7 @@ Kimiko Date
 Kimio Yanagisawa
 Kimiya Kaji
 Kimméridgien
+Kimwani
 Kin : Le Commencement
 KinKead
 Kinax
@@ -107741,6 +107953,7 @@ Kulosaari
 Kumonga
 Kumquatz
 Kunal Nayyar
+Kunchok Tsephel
 Kundun (bande originale)
 Kundun (film)
 Kung Fu : The movie
@@ -108238,6 +108451,7 @@ La Confession (film)
 La Conquête de Grenade
 La Conquête de l'Ouest (série télévisée)
 La Consolation (film)
+La Corde au cou (film français, 1965)
 La Corogne
 La Couleur des sentiments (film)
 La Couleur pourpre (film)
@@ -109965,6 +110179,7 @@ Leon Kirchner
 Leon Milo
 Leon Rippy
 Leon Russell
+Leon Wilkeson
 Leonard Baker
 Leonard Bloomfield
 Leonard Cohen
@@ -111886,6 +112101,7 @@ Loi de Verner
 Loi de composition
 Loi de l'osmométrie
 Loi de mélange
+Loi des principes du Mouvement national
 Loi des sinus
 Loi des trois états
 Loi du Congrès
@@ -112366,6 +112582,7 @@ Lucien Littlefield
 Lucien Tesnière
 Lucien de Samosate
 Lucienne Bogaert
+Lucienne Divan
 Lucienne Troka
 Lucifer
 Lucifer (série télévisée)
@@ -112414,6 +112631,7 @@ Ludovic Colbeau-Justin
 Ludovic Michaux
 Ludovica Ferrario
 Ludovick Bourgeois
+Ludovico Carminati
 Ludvig Mylius-Erichsen
 Ludwig Carl Christian Koch
 Ludwig Feuerbach
@@ -112750,6 +112968,7 @@ M.A. Estrella Cuarteto Cedron
 M.I.A.
 M.I.M
 M.I.M.
+M/Other
 M13 (virologie)
 M51 (galaxie)
 M83 (groupe)
@@ -112988,6 +113207,7 @@ Magnitude 10,5
 Magnitude absolue
 Magnitude apparente
 Magno Alves
+Magnolia (Iowa)
 Magnolia (chanteuse)
 Magnolia (film)
 Magnoliophyta
@@ -113307,6 +113527,7 @@ Mam'zelle Charlot
 Mama (film)
 Mama Béa
 Mama Prassinos
+Mamadou N'Diaye (basketball, 1975)
 Mamaia
 Mamak Khadem
 Maman était new-look
@@ -114493,6 +114714,7 @@ Mat Moebius
 Mat Whitecross
 Mat Zemlya
 Mata Utu
+Matakitaki (rivière)
 Matante Alys
 Matanzas
 Mataró
@@ -114507,6 +114729,7 @@ Mate Pavić
 Matej Tomek
 Matelot Ferré
 Material Girls (groupe)
+MathWorld
 Mathai (chanteur)
 Mathematical Association of America
 Mathematics Genealogy Project
@@ -114560,6 +114783,7 @@ Mats Møller Dæhli
 Mats Wilander
 Matsumuraeses
 Matt Andersen
+Matt Austin (acteur canadien)
 Matt Baldwin
 Matt Cardona
 Matt Carroll (basket-ball)
@@ -114671,6 +114895,7 @@ Maurice Cazeneuve
 Maurice Chevalier
 Maurice Chevit
 Maurice Dantec
+Maurice Denécheau
 Maurice Genevoix
 Maurice Hilleman
 Maurice Jarre
@@ -115080,6 +115305,7 @@ Mercury Records
 Mercy, Mercy, Mercy!
 Meredith Grey
 Meredith Lavender
+Merica
 Meridagena
 Meridemis
 Meriden (circonscription britannique)
@@ -115420,6 +115646,7 @@ Michel Cassagne
 Michel Chevalier (homme politique)
 Michel Ciment
 Michel Cloutier (homonyme)
+Michel Cormier
 Michel Crémadès
 Michel Cusson
 Michel Côté (musicien)
@@ -116096,6 +116323,7 @@ Mo Yan
 Mo'men
 Moa géant de l'île du Sud
 Moabite
+Moataz Yaseen
 Mobile (groupe)
 Mobile Home
 Mobile Home (groupe)
@@ -116613,6 +116841,7 @@ Mot-valise
 Motala AIF
 Motard
 Moteur Diesel
+Moteur Mercedes-Benz M103
 Moteur V12 Matra Sports
 Moteur avec quatre cylindres en ligne
 Moteur de Citroën 2CV
@@ -117228,6 +117457,7 @@ Médecine/Sciences
 Médecins d'aujourd'hui
 Média
 Média social
+Médiane (géométrie)
 Médias
 Médias de masse
 Médias sociaux
@@ -117390,6 +117620,7 @@ Métropole orthodoxe grecque d'Allemagne
 Météo consult
 Météo-France
 MétéoMédia
+Météore (homonymie)
 Météorite
 Météorite de fer
 Météorite du lac Tagish
@@ -117568,6 +117799,7 @@ Naine rouge
 Naine rouge (stade de naine blanche)
 Naissance des étoiles
 Naissance du vivant
+Naissance en 1047
 Naive New Beaters
 Najm oud-Dine Bammate
 Nakaba Suzuki
@@ -117974,6 +118206,7 @@ Nematomorpha
 Nembutal
 Nemertea
 Nemesea
+Nemesia
 Nemo Schiffman
 Nemutteita Kimochi Nemutteita Kokoro
 Nenad Zimonjić
@@ -118250,6 +118483,7 @@ Nicky Hopkins
 Nicky Katt
 Nicky van Leuveren
 Nico Harrison
+Nicobarais
 Nicodème
 Nicola Ciccone
 Nicola Marschall
@@ -118457,6 +118691,7 @@ Nirvana Street Murder
 Nisekoi
 Nishi Munshi
 Nisio Isin
+Nitaboh (film)
 Nitchequon
 Niterói
 Nitrate
@@ -119024,6 +119259,7 @@ Néris-les-Bains
 Néréis
 Néstor Rodulfo
 Névrosé
+Nêne (film)
 Nílson (football, 1965)
 Níver Arboleda
 Níver Arboleda Diaz
@@ -119140,6 +119376,7 @@ Ocean One (robot)
 Oceanus Borealis
 Ochetarcha
 Ochrotaenia
+Ochyrocera itatinga
 Ockham (Surrey)
 Ocotea bullata
 Octant (instrument)
@@ -119480,6 +119717,7 @@ Olof Stahre
 Olof Stolpe
 Olokun
 Olomouc
+Olsberg (Argovie)
 Olszewo (Boćki)
 Olsztyn
 Olympas
@@ -119630,6 +119868,7 @@ Open d'Australie 2012
 Open d'Australie 2015
 Open d'Australie 2020
 Open d'Australie 2022
+Open de Haining de snooker 2017
 Open source
 Open-source robotics
 OpenEdition Journals
@@ -120181,6 +120420,7 @@ Ouvert la nuit
 Ouvrage public
 Ouvrir la Voix
 Ouzbékistan
+Ouéguédo-Yarcé
 Ouïgour
 Ovada
 Ovaire
@@ -120673,6 +120913,7 @@ Paraïba
 Parc Pat Nixon
 Parc Sainte-Périne
 Parc aux étoiles
+Parc d'État de Coral Pink Sand Dunes
 Parc de la Francophonie
 Parc de la station balnéaire maritime
 Parc national Alejandro de Humboldt
@@ -120690,6 +120931,7 @@ Parc national du Kosciuszko
 Parc national olympique du Canada
 Parc naturel régional du Haut-Jura
 Parc provincial de Canmore Nordic Centre
+Parc quasi national d'Abashiri
 Parc safari
 Parc zoologique
 Parcs et espaces verts dans le borough londonien de Harrow
@@ -121059,6 +121301,7 @@ Pats de Regina
 Patsy Kensit
 Pattaya
 Patten Nigel
+Pattes de velours (film)
 Patti Cake$
 Patti LaBelle
 Patti Smith
@@ -121623,6 +121866,7 @@ Pete Carroll
 Pete Cawthon
 Pete Davidson
 Pete Drake
+Pete Duel
 Pete Ferry
 Pete Fromm
 Pete Maravich
@@ -122061,6 +122305,7 @@ Phrygie
 Phtheochroa
 Phtheochroides
 Phycodnaviridae
+Phyllidia coelestis
 Phyllis King
 Phyllocomos
 Phyllodoce mucosa
@@ -122264,6 +122509,7 @@ Pierre Verger
 Pierre Verville
 Pierre Victurnien Vergniaud
 Pierre Vidal (musicien)
+Pierre Vimont
 Pierre d'Amboise
 Pierre de Chabaka
 Pierre de Rosette
@@ -122668,6 +122914,7 @@ Plectre
 Pledge This: Panique à la fac !
 Plegmund
 Plessis-de-Roye
+Plestiodon gilberti
 Plettenberg
 Pleurésie
 Pli (géologie)
@@ -122750,6 +122997,7 @@ Podalire
 Podcast News
 Podgorica
 Podgórzyce
+Podlipnik
 Podognatha
 Podolsk
 Podomètre
@@ -122848,6 +123096,7 @@ Politique
 Politique au Burkina Faso
 Politique au Groenland
 Politique au Royaume-Uni
+Politique aujourd'hui
 Politique d'apaisement
 Politique de défense
 Politique de l'Autriche
@@ -124270,6 +124519,7 @@ Queanbeyan
 Queanbeyan River
 Quebradnotia
 Queen
+Queen Emeraldas
 Queen Ka
 Queen Latifah
 Queen Mab
@@ -124432,6 +124682,7 @@ Racisme d'État
 Rackham (maison d'édition)
 Racloir
 Racon
+Raczyny (Siedlce)
 Radar
 Radar (chanson)
 Radar de recul
@@ -125009,6 +125260,7 @@ Red Bull Theatre
 Red Corner
 Red Deer (Alberta)
 Red Faction II
+Red Gone Wild
 Red Hill (Canberra)
 Red Hood and the Outlaws
 Red Hot Chili Peppers
@@ -125322,6 +125574,7 @@ Repêchage d'entrée dans la LNH 2020
 Repêchage d'entrée dans la LNH 2021
 Repêchage d'entrée dans la LNH 2022
 Repêchage d'entrée dans la LNH 2023
+Repêchage d'expansion de la LNH 1991
 Repêcheur de torpille
 República Velha
 Requiem for a Dream
@@ -125746,6 +125999,7 @@ Rire & Chansons
 Riri-tuna-rai
 RiscOS
 Rise : La Véritable Histoire des Antetokounmpo
+Rise Like a Phoenix
 Rise of the Tomb Raider
 Risen (jeu vidéo)
 Rishi Sunak
@@ -125796,6 +126050,7 @@ Riviera (Pretoria)
 Riviera L.M.
 Rivière
 Rivière Canning
+Rivière Qijuttuuq
 Rivière Rémy
 Rivière-du-Loup
 Rivoli
@@ -125816,6 +126071,7 @@ Road Trips
 Road Warrior Animal
 Road Warriors
 Road manager
+Road to Bloodshed
 RoadRunners de Topeka
 Roadblock: End of the Line
 Roaditude
@@ -126298,6 +126554,7 @@ Rois mages
 Rojanice
 Rokia Traoré (chanteuse)
 Rokietnica (gmina, Grande-Pologne)
+Rokina
 Rokitno (Poméranie occidentale)
 Roland Blanche
 Roland Bryar
@@ -126687,6 +126944,7 @@ Roxane Duran
 Roxane de Lafontaine
 Roxanne St-Gelais
 Roxburgh, Ettrick and Lauderdale
+Roxen (chanteuse)
 Roxeth
 Roxy Music
 Roy Aitken
@@ -126854,6 +127112,7 @@ Rue de l'Odéon
 Rue de la Régence (homonymie)
 Rue des Hospitalières-Saint-Gervais
 Rue des Tournelles
+Rue du Camas
 Rue du Commandant-de-Surian
 Rue du Gros-Horloge
 Rue Široká
@@ -127553,6 +127812,7 @@ Sadko (mythologie)
 Sadok Ben Jemâa
 Saebeonjjae siseon
 Saeed al-Owairan
+Saeko Himuro
 Saetosacculina
 Saetotaenia
 Saetotenes
@@ -127747,6 +128007,7 @@ Saison 1975 de tennis féminin
 Saison 1976 de la WTA
 Saison 1977 de la WTA
 Saison 1978 de la WTA
+Saison 1979-1980 du FC Metz
 Saison 1980-1981 des Mavericks de Dallas
 Saison 1981-1982 des Mavericks de Dallas
 Saison 1982-1983 des Mavericks de Dallas
@@ -128144,6 +128405,7 @@ Sammy et Scooby en folie
 Samoa
 Samoa américaines
 Samodiva
+Samogoszcz
 Samos
 Samothrace
 Samouraï Academy
@@ -128250,6 +128512,7 @@ Sandrine Blancke
 Sandrine Bonnaire
 Sandrine Bulteau
 Sandrine Cohen
+Sandrine Holt
 Sandrine Kiberlain
 Sandrine Laroche
 Sandrine Testud
@@ -128420,6 +128683,7 @@ Sardaigne
 Sareh Bayat
 Sargon II
 Sarhg Lamarque
+Sariego
 Sariel
 Sarina Farhadi
 Sarnath
@@ -129003,6 +129267,7 @@ Seine-et-Marne
 Seinen
 Seinfeld
 Sekai wa Sore Demo Kawari wa Shinai
+Sekirei (anime)
 Sekret Enigmy
 Sel alimentaire
 Sel double
@@ -129192,6 +129457,7 @@ Sergiu Nicolaescu
 Sergius Paulus
 Sergueï Boïkov
 Sergueï Eisenstein
+Sergueï Filatov
 Serial (cinéma)
 Serial (film)
 Serioso
@@ -129613,6 +129879,7 @@ Sida en république populaire de Chine
 Sidaction
 Siddha
 Siddharth Dhananjay
+Siddheshwari Devi
 Siddis
 Side-car
 Sidestrand
@@ -130009,6 +130276,7 @@ Siège enfant
 Siège social
 Sièges de Vannes (1342)
 Skalimowo
+Skalka (district de Prostějov)
 Skanstull
 Skara Brae
 Skara Brae (groupe)
@@ -131039,6 +131307,7 @@ Statue de Robert Lee (Charlottesville)
 Statue de l'archange saint Michel
 Statue équestre de La Fayette (Paris)
 Statue-menhir
+Statue-menhir de Saint-Julien
 Statut de cité au Royaume-Uni
 Staurolite
 Stavanger ishockeyklubb
@@ -132456,6 +132725,7 @@ Szeszyły
 Sziget Festival
 Szombathely
 Szumki
+Szydłowo (Mazovie)
 Sándor Kocsis
 Sâlih
 São Bento (Porto de Mós)
@@ -132812,6 +133082,7 @@ Takasama Moue
 Takashi Hirayasu
 Takashi Kisaki
 Takashi Mine
+Takashi Mizuno (football)
 Takashi Nishioka
 Takashi Noguchi
 Takatāpui
@@ -133129,6 +133400,7 @@ Tchéka
 Tchéky Karyo
 Tchéquie
 Teach Grant
+Tealing
 Team America, police du monde
 Team Haas Lola
 Team Hell No
@@ -134509,6 +134781,7 @@ Theudas
 They All Came Down to Montreux
 They Don't Care About Us
 Thiaumont
+Thibaud Ier de Vermandois
 Thibault de Montalembert
 Thierno Diawo Pellel
 Thierry Amiel
@@ -134750,6 +135023,7 @@ Théorie conspirationniste des chemtrails
 Théorie conspirationniste du Pizzagate
 Théorie de Heim
 Théorie de l'Internet Mort
+Théorie de l'approche indirecte
 Théorie de l'information
 Théorie de la balle unique
 Théorie de la complexité (informatique théorique)
@@ -134795,6 +135069,7 @@ Théories sur l'assassinat de John F. Kennedy
 Théories sur la citoyenneté de Barack Obama
 Théorème de Bayes
 Théorème de Pythagore
+Théorème de calvitie
 Théorème de flux-divergence
 Théoton de Coïmbre
 Thérapie de couples
@@ -136923,6 +137198,7 @@ Tugdual de Kermoysan
 Tuggeranong
 Tuggeranong Parkway
 Tuhobići
+Tuileries
 Tuiré
 Tuiré-Peulh
 Tuk-tuk
@@ -137544,6 +137820,7 @@ Uniondale (New York)
 Unione Calcio Sampdoria
 Unione Sportiva Salernitana 1919
 Unione Sportiva Sassuolo Calcio
+Unisys
 United Artists
 United Artists Records
 United Center
@@ -137763,6 +138040,7 @@ Unstoppable (film, 2010)
 Unterach am Attersee
 Unterseeboot
 Unterseeboot 162
+Unterseeboot 289
 Unterseeboot 660
 Unterseeboot 821
 Unterseeboot type XIV
@@ -137835,6 +138113,7 @@ Uttarakhand
 Uummannaq
 Uwe Boll
 Uwe Conradt
+Uwe Johnson
 Uxbridge (Hillingdon)
 Uxbridge (Ontario)
 Uxbridge (métro de Londres)
@@ -138507,6 +138786,7 @@ Vince Carter
 Vince Colosimo
 Vince Dunn
 Vince Locke
+Vince Lombardi
 Vince Welnick
 Vincennes
 Vincent Astor
@@ -138565,6 +138845,7 @@ Vine Deloria, Jr.
 Ving Rhames
 Vingone
 Vingt Mille Lieues sous les mers
+Vingt-Cinq-Décembre
 Vinicius Cantuaria Quintet
 Vinland Saga
 Vinnie Jones
@@ -139281,6 +139562,7 @@ Wagner Moura
 Wagner de Assis
 Wagram Music
 Wagyu
+Wahdat al-wujud
 Wait (Unix)
 Wait (chanson des Beatles)
 Wait for Sleep
@@ -140837,6 +141119,7 @@ Zakhozhye
 Zakir Hussain (homme politique)
 Zakouski (homonyme)
 Zaltbommel
+Zalužice
 Zaláta
 Zam (Zam)
 Zam (département)
@@ -141080,6 +141363,7 @@ Związek Producentów Audio-Video
 Zwoelie Troelies
 Zwolle
 Zygmunt Krasiński
+Zygomatique
 Zèbre à pois
 Zébulon (groupe)
 Zébédée
@@ -141624,6 +141908,7 @@ xian de Wencheng
 Église Notre-Dame-de-l'Assomption de Dénat
 Église Notre-Dame-des-Champs d'Avranches
 Église Saint-Bohaire de Saint-Bohaire
+Église Saint-Geniès de Benque-Dessous
 Église Saint-Martin de Bladon
 Église Saint-Michael, Cornhill
 Église Saint-Michel d'Aiguilhe
@@ -141697,6 +141982,7 @@ xian de Wencheng
 Élection présidentielle brésilienne de 1994
 Élection présidentielle française de 1995
 Élection présidentielle guinéenne de 2010
+Élection présidentielle moldave de 1996
 Élection à la direction du Parti conservateur britannique d'octobre 2022
 Élection à la direction du Parti conservateur britannique de 1965
 Élection à la direction du Parti conservateur britannique de 1975
@@ -141888,6 +142174,7 @@ xian de Wencheng
 Énergie marémotrice
 Énergie noire
 Énergie non renouvelable
+Énergie nucléaire au Danemark
 Énergie pneumatique
 Énergie renouvelable
 Énergies fossiles
@@ -142396,6 +142683,7 @@ xian de Wencheng
 Étoile noire (matière noire)
 Étoile radio
 Étoile relativiste
+Étoile rouge de Belgrade (basket-ball)
 Étoile sous-géante
 Étoile sous-naine
 Étoile sous-naine de type B
@@ -142495,6 +142783,7 @@ xian de Wencheng
 Éwé (langue)
 Ézéchiel
 Éémien
+Ístron (Lassíthi)
 Île Alejandro Selkirk
 Île Baker
 Île Barbe
@@ -142502,6 +142791,7 @@ xian de Wencheng
 Île Christmas (Australie)
 Île Cross (Falkland)
 Île Garden
+Île Heard
 Île Henderson (Îles Pitcairn)
 Île Hospital
 Île Howland

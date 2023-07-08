@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Monitoimitalo Monikko
-Lajos Werkner
-Eero Holopainen (professori)
-Ludwigshafen am Rhein
-Ernst Gehrcke
-Jingle
-Nukleiinihappo
-Luettelo Suomen suurimmista aurinkovoimaloista
-Ulla Connor
-Juhan Ross
-Sähkötys
-Lormetatsepaami
-Valtatie 2 (täsmennyssivu)
-Diodotos
-Karvonen
-Hirvijärvi (Jämsä, Koskenpää)
-LCD Soundsystem (albumi)
-Isänmaallinen pelastusliike
-Vuoden sisustusarkkitehti
-Nestori Karhula
-Slashing Death
-Porin Yleisurheilu
-Vartiomoottorivene 17
-Rolando Fonseca Jiménez
-Mika Jussila (jääpalloilija)
-Kurhila
-Heiniöt
-Vapaa sana
-Vanadis
-Juha Valste
+Wilhelm Panelius
+Koominen ooppera
+Keiko Saitō
+Toinen Ateenan liitto
+Tibor Zsíros
+Leena Jokinen
+Hurmemullo
+Vellijärvi (Jämsä)
+Pravoje delo
+Luettelo Espanjan maakunnista pinta-alan mukaan
+Arktinos
+Altin Lala
+Kirkkojen ja valtion suhde Suomessa
+Aleksandr Barkašov
+Aljaksei Mžatšyk
+Malaijanmuurahaiskäpy
+FS Aldébaran (M772)
+Deutsche Demokratische Partei
+FS Victor Hugo (1904)
+FSO Wars
+Hippodromi
+Lexica
+Tilhet, pajut ja muut (albumi)
+Nilgau
+Sattuman soittoa
+Olive Riley
+Robert Bennett (poliitikko)
+Detroit 3 AM
+Viherhuppukolibri
+Sakari Kuusi
 !!! (albumi)
 "Controlla"
 "Millionaire" (Beady Eyen kappale)
@@ -2631,6 +2631,7 @@ Aimo Huhtala
 Aimo Jaara
 Aimo Laiho
 Aimo Pajunen
+Aimo Saukkonen
 Aimo Tepsell
 Aimo Vuokola
 Aimo-koulu
@@ -3321,6 +3322,7 @@ Aksel Morisse
 Akseli Keskinen
 Akseli Nikula
 Akselivallat
+Akshardhamin temppelin verilöyly
 Akshay Venkatesh
 Akshaye Khanna
 Aksu Palmén
@@ -4636,6 +4638,7 @@ Alkan Air
 Alkeeni
 Alkeiskoppi
 Alkejevon piiri
+Alkestis (Euripides)
 Alkio-opisto
 Alkoholidehydrogenaasi
 Alkoholijuoma
@@ -5419,6 +5422,7 @@ Anatole Taubman
 Anatoli Aleksin
 Anatoli Artsebarski
 Anatoli Berezovoi
+Anatoli Byšovets
 Anatoli Filiptšenko
 Anatoli Gribkov
 Anatoli Kim
@@ -5922,6 +5926,7 @@ Anna Popkess
 Anna Puu
 Anna Puu (albumi)
 Anna Puun diskografia
+Anna Rotkirch
 Anna Ruohonen (käsikirjoittaja)
 Anna Salo
 Anna Shaffer
@@ -6124,6 +6129,7 @@ Anthony Joshua
 Anthony Le Tallec
 Anthony Leggett
 Anthony Lynn
+Anthony Minghella
 Anthony Ogogo
 Anthony Ramos
 Anthony Spitaleri
@@ -6892,6 +6898,7 @@ Armourdillo
 Armstrad CPC
 Armstrong Air, Inc.
 Armstrong Flight Research Center
+Armstrong Siddeley
 Armstrong Whitworth
 Army Air Corps
 Army Men
@@ -9579,6 +9586,7 @@ Ben 10: Protector Of The Earth
 Ben Acton
 Ben Alexander
 Ben Bero Beh
+Ben Bova
 Ben Chifley
 Ben Daglish
 Ben Dalglish
@@ -9981,6 +9989,7 @@ Bezique
 Beşiktaş JK
 Beşiktaş JK (koripallo)
 Bežetsk
+Bežtan kieli
 Bharati Mukherjee
 Bharatinder Singh
 Bhavabhuti
@@ -10583,6 +10592,7 @@ BloodRayne
 BloodRayne 2
 Bloodline (televisiosarja)
 Bloodmatch
+Bloodsoaked and Ill-Fated
 Bloodsport – viimeiseen asti
 Bloodwych
 Bloody Paws
@@ -11850,6 +11860,7 @@ Brundallin rautatieasema
 Brunei
 Brunei kesäolympialaisissa 2012
 Brunei kesäolympialaisissa 2016
+Brunei olympialaisissa
 Brunein lippu
 Brunein sulttaani
 Brunelliaceae
@@ -14229,6 +14240,7 @@ Chris Hadfield
 Chris Harvey (game developer)
 Chris Herperger
 Chris Hinsley
+Chris Hipkins
 Chris Jensen
 Chris Johnson
 Chris Jones
@@ -14516,6 +14528,7 @@ Cinzano
 Cipriano Chemello
 Circle Line (MRT)
 Circle Studio
+Circuito da Boavista
 Circus Charlie
 Circus Games
 Circus Maximus
@@ -16439,6 +16452,7 @@ Daniel Yule
 Daniel Zaar
 Daniel Zítka
 Daniela Hunger
+Daniela Tolonen
 Daniela Westerlund
 Daniele De Rossi
 Daniele Massaro
@@ -17781,6 +17795,7 @@ Dinwiddien piirikunta
 Dio Cassius
 Diocletianus
 Diodi
+Diodotos
 Diogo Infante
 Dion Fortune
 Dionigi Tettamanzi
@@ -18202,6 +18217,7 @@ Donna Deitch
 Donna Mallon
 Donna Paukku
 Donna Strickland
+Donna Troy
 Donna Williams
 Donna de Varona
 Donnacona (kaupunki)
@@ -18596,6 +18612,7 @@ Drottninggatan
 Drottningholmin linna
 Droylsdenin rautatieasema
 Drožžanojen piiri
+DruGoy
 Druento
 DrugBank
 Drugovo
@@ -19485,6 +19502,7 @@ Eerikinkronikka
 Eero Balk
 Eero Hautaniemi
 Eero Heliövaara
+Eero Holopainen (professori)
 Eero Hyvärinen (rovasti)
 Eero Järnefelt
 Eero Kujala
@@ -20771,6 +20789,7 @@ Erkki Kanerva (toimittaja)
 Erkki Kauppinen
 Erkki Kirjalainen
 Erkki Kivimäki (diplomaatti)
+Erkki Koskela
 Erkki Kurenniemi
 Erkki Kättö
 Erkki Mallenius
@@ -20822,6 +20841,7 @@ Ernst Baier
 Ernst Billgren
 Ernst Bloch
 Ernst Gebendinger
+Ernst Gehrcke
 Ernst Grönlund
 Ernst Hoffmann
 Ernst Johan Creutz
@@ -20848,6 +20868,7 @@ Errol Rausse
 Erste Bank Eishockey Liga
 Erste Liga (jääkiekko)
 Ervin Laszlo
+Ervin Skela
 Erwin Acel
 Erwin Hieger
 Erwin Hymer
@@ -20872,6 +20893,7 @@ Esa Pethman
 Esa Pirnes
 Esa Saario
 Esa-Pekka Salonen
+Esaias Tykki
 Esalen Institute
 Esbjerg fB
 Esbjergin kunta
@@ -21725,6 +21747,7 @@ Ewan McGregor
 Ewan McGregor: Cold Chain Mission
 Ewell Eastin rautatieasema
 Ewell Westin rautatieasema
+Ewokit (piirrossarja)
 Ewood Bridge and Edenfieldin rautatieasema
 Ex-onnelliset
 Exakt Entertainment
@@ -22475,6 +22498,7 @@ Ferrari F355 Challenge
 Ferrari Grand Prix Challenge
 Ferreyres
 Ferribyn rautatieasema
+Ferrières (Belgia)
 Ferry Graf
 Ferryhillin rautatieasema
 Ferrysiden rautatieasema
@@ -22748,6 +22772,7 @@ Fishersgaten rautatieasema
 Fishguard & Goodwickin rautatieasema
 Fishguard Harbourin rautatieasema
 Fishpondsin rautatieasema
+Fisichella Motor Sport
 Fiskertonin rautatieasema
 Fist Fight
 Fist II: The Legend Continues
@@ -24509,6 +24534,7 @@ Garage Inc.
 Garage rock
 Garam masala
 Garbage
+Garbagen diskografia
 Garcia III (Navarra)
 Garcinia pseudoguttifera
 García IV (Navarra)
@@ -25188,6 +25214,7 @@ Ghouls 'n Ghosts
 Ghouls 'n' Ghosts
 Ghouls (video game)
 Gi (budōkäsite)
+Gia Carangi
 Giacomo Casanova
 Giacomo l’idealista
 Giaglione
@@ -25468,6 +25495,7 @@ Glenn Youngkin
 Glenne Headly
 Glennin piirikunta
 Glenrothes with Thorntonin rautatieasema
+Glentoran FC
 Glenwhillyn rautatieasema
 Gliasolu
 Glider Rider (video game)
@@ -26963,6 +26991,7 @@ HMS Ocean (1863)
 HMS Ocean (1898)
 HMS Ocean (L12)
 HMS Ocean (R68)
+HMS Onyx (S21)
 HMS Oscar II
 HMS Oudenarde
 HMS Oxlip
@@ -26976,6 +27005,7 @@ HMS Prince of Wales (53)
 HMS Queen Elizabeth (1913)
 HMS Queen Elizabeth (R08)
 HMS Queen Mary
+HMS Queenborough
 HMS Raider (H15)
 HMS Ranpura
 HMS Raven II
@@ -27631,6 +27661,7 @@ Hans Hollein
 Hans Holmström
 Hans Huber
 Hans Jacob Nielsen
+Hans Keilson
 Hans Kröpelin
 Hans Lindberg
 Hans Magnus Enzensberger
@@ -28462,6 +28493,7 @@ Heinikkosuvanto
 Heinilammi (Mänttä-Vilppula)
 Heinisuo (Renko)
 Heiniö (järvi)
+Heiniöt
 Heinjoki
 Heinlammi
 Heino Avikainen
@@ -29613,6 +29645,7 @@ Hmelnytskyin ydinvoimalaitos
 Hnat Domenichelli
 Ho Tši Minh
 Hoabinhian
+Hoang Anh Tuan
 Hoatsin
 Hobart
 Hobart (Indiana)
@@ -30055,6 +30088,7 @@ Hozu-Avia
 Hoàng Xuân Vinh
 Hr. Ms. Karel Doorman (R81)
 Hr. Ms. Luymes (A803)
+Hr. Ms. Zeeland (D809)
 Hrachik Javakhyan
 Hringvegur
 Hristo Stoitškov
@@ -30896,6 +30930,7 @@ Höyhenislampi
 Höykkylä
 Höyläsjärvi
 Höyrykone
+Höyrykupu
 Höyrylaiva Ville
 Höyrystymislämpö
 Húrinin lasten tarina
@@ -31665,6 +31700,7 @@ Ilmasilta
 Ilmasipuli
 Ilmasota (romaani)
 Ilmastodiagrammi
+Ilmastohätätila
 Ilmastonmuutos
 Ilmastonmuutos Etelä-Afrikassa
 Ilmatonlampi
@@ -31955,6 +31991,7 @@ Infinit Air
 Infinite (Deep Purplen albumi)
 Infinite Crisis
 Infinite Ventures
+Infiniti G20
 Infinitiivi
 Infinitum Nihil
 Infinity Blade
@@ -33190,6 +33227,7 @@ Isä äiti lumi
 Isän kanssa maailmalla
 Isän tyttö (televisiosarja)
 Isänmaallinen kansanliike
+Isänmaallinen pelastusliike
 Isännäisenjärvi
 It Came from the Desert
 It Seemed Like a Good Idea at the Time
@@ -34661,6 +34699,7 @@ Jarmo Nikku
 Jarmo Stoor
 Jarmo Suokas
 Jarmo Uronen
+Jarmo Valtonen
 Jarmo Viinanen
 Jarmo Wahlström
 Jarmuk
@@ -35490,6 +35529,7 @@ Jin-dynastia (1115–1234)
 Jinanin yliopisto
 Jindřichův Hradec
 Jinggong Jet
+Jingle
 Jinks (video game)
 Jinkx Monsoon
 Jinotega
@@ -35607,6 +35647,7 @@ Joe R. Lansdale
 Joe Reekie
 Joe Robertson
 Joe Rogan Questions Everything
+Joe Rosenthal
 Joe Rullier
 Joe Salas
 Joe Satriani
@@ -35726,6 +35767,7 @@ Johanna Kustannus
 Johanna Manninen
 Johanna Nurmimaa
 Johanna Ojala-Niemelä
+Johanna Puhakka
 Johanna Roivas
 Johanna Seppälä
 Johanna Sumuvuori
@@ -36758,6 +36800,7 @@ Juha Siro
 Juha Tapio
 Juha Tenhunen
 Juha Vainio
+Juha Valste
 Juha Varis
 Juha Veijonen
 Juha Vättö
@@ -36765,6 +36808,7 @@ Juha Väätäinen
 Juha-Pekka Koskinen
 Juha-Pekka Mikkola
 Juhamatti Aaltonen
+Juhan Ross
 Juhan af Grann
 Juhana I (Ranska)
 Juhana III
@@ -36816,6 +36860,7 @@ Juho Eerola
 Juho Heitto
 Juho Helomaa
 Juho Hukari
+Juho Hämäläinen
 Juho Kaskinen
 Juho Koskimies
 Juho Kusti Paasikivi
@@ -37347,6 +37392,7 @@ Jääkiekko talviolympialaisissa 2006 – miesten turnaus
 Jääkiekko talviolympialaisissa 2010 – miesten turnaus
 Jääkiekko talviolympialaisissa 2014
 Jääkiekko talviolympialaisissa 2022
+Jääkiekko talviolympialaisissa 2022 – miesten turnaus
 Jääkiekkoilija
 Jääkiekkoleijona
 Jääkiekon 1. divisioonan maailmanmestaruuskilpailut
@@ -37391,6 +37437,7 @@ Jääkiekon SM-liigakausi 2005–2006
 Jääkiekon SM-liigakausi 2018–2019
 Jääkiekon SM-liigakausi 2021–2022
 Jääkiekon SM-liigakausi 2022–2023
+Jääkiekon SM-liigan karsinnat 2013
 Jääkiekon alle 18-vuotiaiden Aasian ja Oseanian mestaruuskilpailut
 Jääkiekon alle 18-vuotiaiden B-sarjan maailmanmestaruuskilpailut 2000
 Jääkiekon alle 18-vuotiaiden Euroopan-mestaruuskilpailut
@@ -37723,6 +37770,7 @@ Jääpeili
 Jääski
 Jäätanssi
 Jäätie (veistos)
+Jäätiedotus
 Jäätikkö
 Jäätikön tytär
 Jäätuulen laakso (kirjasarja)
@@ -38558,6 +38606,7 @@ Kalliolampi (Äänekoski)
 Kalliolampi (Äänekoski, Kevätlahti)
 Kalliomaa
 Kalliomoskeija
+Kallion kirjasto
 Kallioperä
 Kalliovuoret
 Kalliovuorten aika
@@ -39126,6 +39175,7 @@ Karaslampi
 Karat
 Karatas-Seura
 Karate
+Karate (videopeli)
 Karate Champ
 Karate Kid 2 (video game)
 Karate kesäolympialaisissa 2020
@@ -39496,6 +39546,7 @@ Karvinen (elokuva)
 Karvinen (piirrossarja)
 Karvinen 2
 Karvinen herää todellisuuteen
+Karvonen
 Kary Mullis
 Karyés
 Karzełek
@@ -40699,6 +40750,7 @@ Keynshamin rautatieasema
 Keys to the Highway
 Keystone Aerial Surveys
 Keystone Air Service
+Kfar Blum
 Kgalema Motlanthe
 Khadija Saye
 Khaled Azaiez
@@ -41959,6 +42011,7 @@ Komin tasavalta
 Komintern
 Komische Oper Berlin
 Komissaari (Euroopan komissio)
+Komitas Vardapet
 Komlavi Loglo
 Kommandiittiyhtiö
 Komministeri
@@ -42118,6 +42171,7 @@ Kontekstomia
 Kontinental Hockey League
 Kontiolampi
 Kontiolampi (Kangasniemi)
+Kontkanen
 Kontokki
 Kontorhausviertel
 Kontortionisti
@@ -42548,6 +42602,7 @@ Kovasjärvi (Jämsä)
 Kovasjärvi (Kuhmoinen)
 Kovaslammi
 Kovenant
+Koverharin terästehdas
 Kovero (Padasjoki)
 Kovero (Ruovesi)
 Kovero (Sysmä)
@@ -42995,6 +43050,7 @@ Kultainennoutaja
 Kultaiset sadut (piirrossarja)
 Kultakala (tv-sarja)
 Kultakalat 1933
+Kultakeskus
 Kultakuoriainen
 Kultakuoriainen (single)
 Kultakuoriainen (täsmennyssivu)
@@ -43273,6 +43329,7 @@ Kurfürstendamm
 Kurganin alue
 Kurgjärve
 Kurhessen-Waldeckin evankelinen kirkko
+Kurhila
 Kuri Kinton
 Kuri Kuri Mix
 Kuriakose Kunnacherry
@@ -44007,6 +44064,7 @@ LATAM Paraguay
 LATAM Peru
 LC Busre
 LCD Soundsystem
+LCD Soundsystem (albumi)
 LCVP Mk5
 LED Storm
 LEGO DC Comics Super Heroes: Justice League - Attack of the Legion of Doom
@@ -44360,6 +44418,7 @@ Lainsuojattomat
 Laird, Son and Company
 Lairgin rautatieasema
 Laiskiaiset
+Laiskurit
 Laissez faire
 Laissez-faire
 Laite
@@ -44376,6 +44435,7 @@ Laivakorppu
 Laiševo
 Laiševon piiri
 Lajos Szűcs (jalkapalloilija, 1943)
+Lajos Werkner
 Lakalaiva
 Lakalaka
 Lakatámeia
@@ -47074,6 +47134,7 @@ Lorica hamata
 Loriciel
 Loriciels
 Lorin Mercer
+Lormetatsepaami
 Lorna (video game)
 Lorna Dyer
 Lorne Chabot
@@ -47391,6 +47452,7 @@ Ludwig Wittgenstein
 Ludwig Wittgensteinin elämäkerta
 Ludwig Wrede
 Ludwig van Beethoven
+Ludwigshafen am Rhein
 Ludwigslust (piirikunta)
 Ludwigslust-Parchim
 Luettelo 1980-luvun miehitetyistä avaruuslennoista
@@ -47560,6 +47622,7 @@ Luettelo Suomen kuntien koordinaateista
 Luettelo Suomen luonnonpuistoista
 Luettelo Suomen lähiöistä
 Luettelo Suomen sodista
+Luettelo Suomen suurimmista aurinkovoimaloista
 Luettelo Suomen vesistöistä
 Luettelo Suomen virallisen albumilistan ykkösistä 2012
 Luettelo Suomen virallisen latauslistan ykkösistä vuonna 2012
@@ -48958,6 +49021,7 @@ Magic Johnson's Basketball
 Magic Pengel: The Quest for Color
 Magic Pockets
 Magic: The Gathering
+Magica
 Magical Company
 Magical Company (Mahou)
 Magical Date
@@ -50654,6 +50718,7 @@ Mathew Brady
 Mathew Dumba
 Mathewsin piirikunta
 Mathi
+Mathias Färm
 Mathias Järnström
 Mathias Jørgensen
 Mathias Soop
@@ -51227,6 +51292,7 @@ Megadodo Software
 Megaforce Records
 Megaliitti
 Megalit
+Megalyn Echikunwoke
 Megalópoli
 Megamania
 Megamania Musiikki
@@ -52495,6 +52561,7 @@ Mika Hannula (tietojohtamisen professori)
 Mika Hilander
 Mika Holopainen
 Mika Jussila
+Mika Jussila (jääpalloilija)
 Mika Järvinen (muusikko)
 Mika Kaurismäki
 Mika Kivimäki (suomentaja)
@@ -53303,6 +53370,7 @@ Mohammed Rabii
 Mohammed V
 Mohammed VI
 Mohawk Airlines
+Mohnin majakka
 Mohori
 Mohsin Akhtar
 Mohsin kovuus
@@ -53452,6 +53520,7 @@ Monitahokas
 Monitaiteen valtionpalkinto
 Monitieteisyys
 Monitoimihalli
+Monitoimitalo Monikko
 Monivalonjärvi
 Monivuotinen kasvi
 Monk (televisiosarja)
@@ -55794,6 +55863,7 @@ Natrium
 Natriumfluoridi
 Natriumheksafluorisilikaatti
 Natriumioni
+Natriumkromaatti
 Natriummonofluorofosfaatti
 Natriumsyanidi
 Natriumtiosulfaatti
@@ -56099,6 +56169,7 @@ Nestonin rautatieasema
 Nestor Assogba
 Nestor Mahno
 Nestor Serrano
+Nestori Karhula
 Nestori Nurminen
 NetEase
 NetJets
@@ -58528,6 +58599,7 @@ Olli Joki
 Olli Jokinen
 Olli Klemetti
 Olli Kokko
+Olli Kolstela
 Olli Korhonen (jääkiekkoilija)
 Olli Koskelin
 Olli Kuukasjärvi
@@ -59901,6 +59973,7 @@ Paloisvuori
 Palojärvi (Kangasala)
 Palojärvi (Keuruu)
 Palojärvi (Padasjoki)
+Palojärvi (Ulvila)
 Palojärvi (Viitasaari)
 Palokkajärvi
 Palokki (Kinnula)
@@ -60352,6 +60425,7 @@ Pasaatituuli
 Pasaatituulten kohtaamisvyöhyke
 Pasadena (Kalifornia)
 Pascal Ackermann
+Pascal Devoyon
 Pascal Lavanchy
 Pascal Pelletier
 Pascal Rheaume
@@ -62407,6 +62481,7 @@ Piitu Uski
 PikaPakinaPaketti
 Pikachu
 Pikajuoksu
+Pikakamera
 Pikaluistelun maailmancup 2018–2019
 Pikaluistelun matkakohtaiset maailmanmestaruuskilpailut 2019
 Pikaluistelun sprinttimaailmanmestaruuskilpailut 2019
@@ -62680,6 +62755,7 @@ Pirttijärvi (Orivesi, Puharila)
 Pirttijärvi (Padasjoki)
 Pirttijärvi (Ruovesi)
 Pirttijärvi (Ruovesi, Pourunperä)
+Pirttijärvi (Suomussalmi, rajavyöhyke)
 Pirttijärvi (Sysmä)
 Pirttijärvi (Toivakka)
 Pirttijärvi (Uurainen)
@@ -63089,6 +63165,7 @@ Pohjoinen jäämeri
 Pohjoinen napapiiri
 Pohjoinen päiväntasaajanvirta
 Pohjoinen suuralue
+Pohjoinen taivas Osa 2
 Pohjois-Aasia
 Pohjois-Afrikan sota toisessa maailmansodassa
 Pohjois-Afrikka
@@ -63116,6 +63193,7 @@ Pohjois-Kalifornia
 Pohjois-Kap
 Pohjois-Karjala
 Pohjois-Karjala-projekti
+Pohjois-Karjalan keskussairaala
 Pohjois-Karjalan lääni
 Pohjois-Karjalan maakunta
 Pohjois-Karjalan rajavartiosto
@@ -63225,6 +63303,7 @@ Poikkeama (ilmailu)
 Poikkele
 Poikkeus (järvi)
 Poikkeusjärvi (Kinnula)
+Poikkeuslaki
 Poikkijärvi (järvi Kuhmoisissa)
 Poikkilampi (Konnevesi)
 Poikusjärvi
@@ -63627,6 +63706,7 @@ Porewit
 Porgy ja Bess (elokuva)
 Pori Jazz
 Porin Pallo-Toverit
+Porin Yleisurheilu
 Porin maalaiskunta
 Porin palo 1852
 Porin prikaati
@@ -64879,6 +64959,7 @@ Pyssyjärvi (Jyväskylä)
 Pyssyjärvi (Padasjoki)
 Pystykattara
 Pysähtyneisyyden aika
+Pythagoras
 Python (video game)
 Python Pete
 Pyton
@@ -66958,6 +67039,7 @@ Rhythmic Top 40
 Rhône
 Ria Baran
 Riadh Bouazizi
+Rial Racing
 Riano
 Riau Airlines
 Ribbeckhaus
@@ -68591,6 +68673,7 @@ Roland in the Caves
 Roland on the Ropes
 Roland's Rat Race
 Rolandin laulu
+Rolando Fonseca Jiménez
 Rolando Garbey
 Roletto
 Rolf Beutler
@@ -70061,6 +70144,7 @@ Sabotaasi
 Sabotage (1988 video game)
 Sabotage (Beastie Boysin kappale)
 Sabotage (game)
+Sabotage (vuoden 2014 elokuva)
 Sabotaje
 Saboteur (1985 video game)
 Saboteur II
@@ -71494,6 +71578,7 @@ Sandokan (piirrossarja)
 Sandownin rautatieasema
 Sandplacen rautatieasema
 Sandra Bullock
+Sandra Chick
 Sandra Magnus
 Sandra Morgan
 Sandra Neilson
@@ -72523,6 +72608,7 @@ Seppo Hentilä
 Seppo Huunonen
 Seppo Ilmari
 Seppo Juvonen
+Seppo Kahilainen
 Seppo Keränen
 Seppo Keurulainen
 Seppo Kuusiola
@@ -74210,6 +74296,7 @@ Slap Shot (video game)
 Slash (hahmo)
 Slash (kitaristi)
 Slasher
+Slashing Death
 Slate Falls Airways
 Slatefordin rautatieasema
 Slaughter of the Soul
@@ -74525,6 +74612,7 @@ Sointukulku
 Soissons
 Soita minulle, Helena! (vuoden 1948 elokuva)
 Soitin
+Soitinluokitus
 Sojuz 1
 Sojuz 23
 Sokal
@@ -74723,6 +74811,7 @@ Sooty and Sweep (video game)
 Sopenjärvi (Pihtipudas)
 Sopenkorpi
 Sopesjärvi
+Sophia Antipolis
 Sophia Elizabeth De Morgan
 Sophiatown
 Sophie B. Hawkins
@@ -75569,6 +75658,7 @@ Stalybridgen rautatieasema
 Stamford Bridgen rautatieasema
 Stamford Hillin rautatieasema
 Stamfordin rautatieasema
+Stampede
 Stan Cullis
 Stan Gilbertson
 Stan Kenton
@@ -75583,6 +75673,7 @@ Stana Katic
 Stanag
 Stanbridge East
 Stanbridge Station
+Stand Up and Scream
 Stand up -komiikka
 Stand-up
 Standard & Poor’s
@@ -75790,6 +75881,7 @@ State Route 24 (Kalifornia)
 State Unitary Air Enterprise
 State of Emergency (videopeli)
 State of Emergency 2
+State of Mind (Lovexin albumi)
 Staten Island
 StatesWest Airlines
 Stationfall
@@ -75928,6 +76020,7 @@ Stephen J. Crow
 Stephen Keshi
 Stephen King
 Stephen LaBerge
+Stephen Langton
 Stephen Lockley
 Stephen Logue
 Stephen Lushington (tuomari)
@@ -76116,6 +76209,7 @@ Stig Stenholm
 Stigma
 Stigmacros
 Stigmatodiscales
+Still Counting
 Still Cyco After All These Years
 Still Life (The Rolling Stonesin albumi)
 Still Loving You
@@ -76252,6 +76346,7 @@ Strange Weather, Isn't It?
 Strangeloop
 Stranger Things
 Stranger in Moscow
+Strangeways, Here We Come
 Stranglehold (video game)
 Stranraer Townin rautatieasema
 Stranraerin rautatieasema
@@ -76403,6 +76498,7 @@ Stuart Little: The Journey Home
 Stuart Middleton
 Stuart Roosa
 Stuart Ruecroft
+Stuart Skinner
 Stuart Sutcliffe
 Stuart Wilson
 StubHub Center
@@ -76866,6 +76962,7 @@ Suomen Partiolaiset
 Suomen Pesäpalloliitto
 Suomen Poololiitto
 Suomen Puolustusvoimat
+Suomen Racketlonliitto
 Suomen Rauhanpuolustajat
 Suomen Senioripuolue
 Suomen Sosialidemokraatti
@@ -79340,6 +79437,7 @@ Ted Speers
 Ted Strickland
 Ted Taylor
 Ted Wilson
+Tedat
 Teddingtonin rautatieasema
 Teddy
 Teddy Castellucci
@@ -79667,10 +79765,12 @@ Terentius Varro
 Teresa Lin
 Terhi Kokkonen
 Terhi Leskinen
+Terhi Nieminen-Mäkynen
 Terhi Peltokorpi
 Terho Pursiainen
 Teri Hatcher
 Teri Niitti
+Terijoen hallitus
 Terijoki
 Teriö
 Terjärv Ungdoms Sportklubb
@@ -81364,6 +81464,7 @@ Tikki (korttipeli)
 Tikkipeli
 Tikku
 Tikku ja Takku
+Tikkurila
 Tikkurila (yritys)
 Tikkurilan Palloseura
 Tikkurilan Palloseura (naiset)
@@ -83795,6 +83896,7 @@ Tübingenin yliopisto
 Tüütsi
 Tāufaʻāhau Tupou IV
 Tărlungeni
+Tōdō-kilta
 Tōru Minegishi
 Tšad kesäolympialaisissa 2008
 Tšad kesäolympialaisissa 2012
@@ -84261,6 +84363,7 @@ Ulkopoliittinen instituutti
 Ulkopolitiikka
 Ulkopuolisten maiden ja järjestöjen reaktio Venäjän hyökkäykseen Ukrainaan 2022
 Ulla Bogdanoff
+Ulla Connor
 Ulla Heikkilä
 Ulla Jokisalo
 Ulla Lax
@@ -85560,6 +85663,7 @@ Valtatie 15
 Valtatie 16
 Valtatie 18
 Valtatie 2
+Valtatie 2 (täsmennyssivu)
 Valtatie 24
 Valtatie 3
 Valtatie 4
@@ -85643,6 +85747,7 @@ Van Helsing (televisiosarja)
 Van Helsing video game
 Van Wertin piirikunta
 Van der Graaf Generator
+Vanadis
 Vanaja
 Vanaja (Hankasalmi)
 Vanaja (Hämeenlinna)
@@ -85731,6 +85836,7 @@ Vapaa Sana (sanomalehti)
 Vapaa Savo
 Vapaa demokraattinen puolue
 Vapaa näyttelijä
+Vapaa sana
 Vapaa valokuvaaja
 Vapaa-aika
 Vapaaehtoinen maanpuolustus
@@ -85833,6 +85939,7 @@ Varstu
 Vartaloskanneri
 Vartan Kechichian
 Vartijat hoi!
+Vartiomoottorivene 17
 Vartiossa
 Vartiosto valmiina palvelukseen
 Vartius
@@ -86625,6 +86732,7 @@ VideoScape 3D
 Videoeditointi
 Videoerotuomari
 Videopeli
+Videopelien säilöminen
 Videopelimusiikki
 Videopelisuunnittelija
 Videopelit
@@ -87827,6 +87935,7 @@ Vuoden jalkapalloilija
 Vuoden laulun Grammy-palkinto
 Vuoden levytyksen Grammy-palkinto
 Vuoden naissolistin Emma-palkinto
+Vuoden sisustusarkkitehti
 Vuoden urheilija
 Vuoggatjålme
 Vuohenoja
@@ -94432,6 +94541,7 @@ Aimo Huhtala
 Aimo Jaara
 Aimo Laiho
 Aimo Pajunen
+Aimo Saukkonen
 Aimo Tepsell
 Aimo Vuokola
 Aimo-koulu
@@ -95122,6 +95232,7 @@ Aksel Morisse
 Akseli Keskinen
 Akseli Nikula
 Akselivallat
+Akshardhamin temppelin verilöyly
 Akshay Venkatesh
 Akshaye Khanna
 Aksu Palmén
@@ -95669,6 +95780,7 @@ Aleksandr Aleksandrovitš Volkov
 Aleksandr Andrijevski
 Aleksandr Balandin
 Aleksandr Balandin (telinevoimistelija)
+Aleksandr Barkašov
 Aleksandr Bodunov
 Aleksandr Bortnikov
 Aleksandr Enbert
@@ -96428,6 +96540,7 @@ Alivaltiosihteeri
 Aliven
 Alix de France
 Aljaksandr Lukašenka
+Aljaksei Mžatšyk
 Aljona Leonova
 Aljona Savchenko
 Aljoša Popovitš
@@ -96437,6 +96550,7 @@ Alkan Air
 Alkeeni
 Alkeiskoppi
 Alkejevon piiri
+Alkestis (Euripides)
 Alkio-opisto
 Alkoholidehydrogenaasi
 Alkoholijuoma
@@ -96722,6 +96836,7 @@ Althorpen rautatieasema
 Alticamelus
 Altimetri
 Altin Havayolu Tasimaciligi Turizm Ve Ticaret
+Altin Lala
 Altnabreacin rautatieasema
 Altoftsin rautatieasema
 Alton Towersin rautatieasema
@@ -97220,6 +97335,7 @@ Anatole Taubman
 Anatoli Aleksin
 Anatoli Artsebarski
 Anatoli Berezovoi
+Anatoli Byšovets
 Anatoli Filiptšenko
 Anatoli Gribkov
 Anatoli Kim
@@ -97723,6 +97839,7 @@ Anna Popkess
 Anna Puu
 Anna Puu (albumi)
 Anna Puun diskografia
+Anna Rotkirch
 Anna Ruohonen (käsikirjoittaja)
 Anna Salo
 Anna Shaffer
@@ -97925,6 +98042,7 @@ Anthony Joshua
 Anthony Le Tallec
 Anthony Leggett
 Anthony Lynn
+Anthony Minghella
 Anthony Ogogo
 Anthony Ramos
 Anthony Spitaleri
@@ -98602,6 +98720,7 @@ Arkkitehtuurin valtionpalkinto
 Arkkiveisu
 Arkom Chenglai
 Arkos (video game)
+Arktinos
 Arktis
 Arktos Group
 Arlanda
@@ -98693,6 +98812,7 @@ Armourdillo
 Armstrad CPC
 Armstrong Air, Inc.
 Armstrong Flight Research Center
+Armstrong Siddeley
 Armstrong Whitworth
 Army Air Corps
 Army Men
@@ -101380,6 +101500,7 @@ Ben 10: Protector Of The Earth
 Ben Acton
 Ben Alexander
 Ben Bero Beh
+Ben Bova
 Ben Chifley
 Ben Daglish
 Ben Dalglish
@@ -101782,6 +101903,7 @@ Bezique
 Beşiktaş JK
 Beşiktaş JK (koripallo)
 Bežetsk
+Bežtan kieli
 Bharati Mukherjee
 Bharatinder Singh
 Bhavabhuti
@@ -102384,6 +102506,7 @@ BloodRayne
 BloodRayne 2
 Bloodline (televisiosarja)
 Bloodmatch
+Bloodsoaked and Ill-Fated
 Bloodsport – viimeiseen asti
 Bloodwych
 Bloody Paws
@@ -103651,6 +103774,7 @@ Brundallin rautatieasema
 Brunei
 Brunei kesäolympialaisissa 2012
 Brunei kesäolympialaisissa 2016
+Brunei olympialaisissa
 Brunein lippu
 Brunein sulttaani
 Brunelliaceae
@@ -106030,6 +106154,7 @@ Chris Hadfield
 Chris Harvey (game developer)
 Chris Herperger
 Chris Hinsley
+Chris Hipkins
 Chris Jensen
 Chris Johnson
 Chris Jones
@@ -106317,6 +106442,7 @@ Cinzano
 Cipriano Chemello
 Circle Line (MRT)
 Circle Studio
+Circuito da Boavista
 Circus Charlie
 Circus Games
 Circus Maximus
@@ -108240,6 +108366,7 @@ Daniel Yule
 Daniel Zaar
 Daniel Zítka
 Daniela Hunger
+Daniela Tolonen
 Daniela Westerlund
 Daniele De Rossi
 Daniele Massaro
@@ -109238,6 +109365,7 @@ Deterrence
 Detlef Kästner
 Detlev-Rohwedder-Haus
 Detroit
+Detroit 3 AM
 Detroit Institute of Arts
 Detroit Jr. Red Wings
 Detroit Lions
@@ -109249,6 +109377,7 @@ Deus Ex Machina (videopeli)
 Deus Ex: Human Revolution
 Deus Ex: The Conspiracy
 Deutsche Bahn
+Deutsche Demokratische Partei
 Deutsche Eishockey-Liga
 Deutsche Grammophon
 Deutsche Oper Berlin
@@ -110004,6 +110133,7 @@ Donna Deitch
 Donna Mallon
 Donna Paukku
 Donna Strickland
+Donna Troy
 Donna Williams
 Donna de Varona
 Donnacona (kaupunki)
@@ -110398,6 +110528,7 @@ Drottninggatan
 Drottningholmin linna
 Droylsdenin rautatieasema
 Drožžanojen piiri
+DruGoy
 Druento
 DrugBank
 Drugovo
@@ -112574,6 +112705,7 @@ Erkki Kanerva (toimittaja)
 Erkki Kauppinen
 Erkki Kirjalainen
 Erkki Kivimäki (diplomaatti)
+Erkki Koskela
 Erkki Kurenniemi
 Erkki Kättö
 Erkki Mallenius
@@ -112652,6 +112784,7 @@ Errol Rausse
 Erste Bank Eishockey Liga
 Erste Liga (jääkiekko)
 Ervin Laszlo
+Ervin Skela
 Erwin Acel
 Erwin Hieger
 Erwin Hymer
@@ -112676,6 +112809,7 @@ Esa Pethman
 Esa Pirnes
 Esa Saario
 Esa-Pekka Salonen
+Esaias Tykki
 Esalen Institute
 Esbjerg fB
 Esbjergin kunta
@@ -113529,6 +113663,7 @@ Ewan McGregor
 Ewan McGregor: Cold Chain Mission
 Ewell Eastin rautatieasema
 Ewell Westin rautatieasema
+Ewokit (piirrossarja)
 Ewood Bridge and Edenfieldin rautatieasema
 Ex-onnelliset
 Exakt Entertainment
@@ -113809,6 +113944,7 @@ FM Towns Marty
 FMG Verkehrsfliegerschule Flughafen Paderborn-Lippstadt
 FMI Air
 FR Aviation
+FS Aldébaran (M772)
 FS Arromanches
 FS De Grasse (D612)
 FS Duguay-Trouin (D611)
@@ -113822,8 +113958,10 @@ FS Tourville (1853)
 FS Tourville (1876)
 FS Tourville (1926)
 FS Tourville (D610)
+FS Victor Hugo (1904)
 FSB Flugservice & Development
 FSH Luftfahrtunternehmen
+FSO Wars
 FTL Newsfeed
 FTSE 100
 FUN Labs
@@ -114279,6 +114417,7 @@ Ferrari F355 Challenge
 Ferrari Grand Prix Challenge
 Ferreyres
 Ferribyn rautatieasema
+Ferrières (Belgia)
 Ferry Graf
 Ferryhillin rautatieasema
 Ferrysiden rautatieasema
@@ -114552,6 +114691,7 @@ Fishersgaten rautatieasema
 Fishguard & Goodwickin rautatieasema
 Fishguard Harbourin rautatieasema
 Fishpondsin rautatieasema
+Fisichella Motor Sport
 Fiskertonin rautatieasema
 Fist Fight
 Fist II: The Legend Continues
@@ -116313,6 +116453,7 @@ Garage Inc.
 Garage rock
 Garam masala
 Garbage
+Garbagen diskografia
 Garcia III (Navarra)
 Garcinia pseudoguttifera
 García IV (Navarra)
@@ -116992,6 +117133,7 @@ Ghouls 'n Ghosts
 Ghouls 'n' Ghosts
 Ghouls (video game)
 Gi (budōkäsite)
+Gia Carangi
 Giacomo Casanova
 Giacomo l’idealista
 Giaglione
@@ -117272,6 +117414,7 @@ Glenn Youngkin
 Glenne Headly
 Glennin piirikunta
 Glenrothes with Thorntonin rautatieasema
+Glentoran FC
 Glenwhillyn rautatieasema
 Gliasolu
 Glider Rider (video game)
@@ -118767,6 +118910,7 @@ HMS Ocean (1863)
 HMS Ocean (1898)
 HMS Ocean (L12)
 HMS Ocean (R68)
+HMS Onyx (S21)
 HMS Oscar II
 HMS Oudenarde
 HMS Oxlip
@@ -118780,6 +118924,7 @@ HMS Prince of Wales (53)
 HMS Queen Elizabeth (1913)
 HMS Queen Elizabeth (R08)
 HMS Queen Mary
+HMS Queenborough
 HMS Raider (H15)
 HMS Ranpura
 HMS Raven II
@@ -119435,6 +119580,7 @@ Hans Hollein
 Hans Holmström
 Hans Huber
 Hans Jacob Nielsen
+Hans Keilson
 Hans Kröpelin
 Hans Lindberg
 Hans Magnus Enzensberger
@@ -121418,6 +121564,7 @@ Hmelnytskyin ydinvoimalaitos
 Hnat Domenichelli
 Ho Tši Minh
 Hoabinhian
+Hoang Anh Tuan
 Hoatsin
 Hobart
 Hobart (Indiana)
@@ -121860,6 +122007,7 @@ Hozu-Avia
 Hoàng Xuân Vinh
 Hr. Ms. Karel Doorman (R81)
 Hr. Ms. Luymes (A803)
+Hr. Ms. Zeeland (D809)
 Hrachik Javakhyan
 Hringvegur
 Hristo Stoitškov
@@ -122345,6 +122493,7 @@ Hurja jengi
 Hurja joukko
 Hurma (romaani)
 Hurmaava joukkoitsemurha (elokuva)
+Hurmemullo
 Huronin piirikunta (Ohio)
 Hurraa valloittajasankarille
 Hurri (kieli)
@@ -122701,6 +122850,7 @@ Höyhenislampi
 Höykkylä
 Höyläsjärvi
 Höyrykone
+Höyrykupu
 Höyrylaiva Ville
 Höyrystymislämpö
 Húrinin lasten tarina
@@ -123470,6 +123620,7 @@ Ilmasilta
 Ilmasipuli
 Ilmasota (romaani)
 Ilmastodiagrammi
+Ilmastohätätila
 Ilmastonmuutos
 Ilmastonmuutos Etelä-Afrikassa
 Ilmatonlampi
@@ -123760,6 +123911,7 @@ Infinit Air
 Infinite (Deep Purplen albumi)
 Infinite Crisis
 Infinite Ventures
+Infiniti G20
 Infinitiivi
 Infinitum Nihil
 Infinity Blade
@@ -126467,6 +126619,7 @@ Jarmo Nikku
 Jarmo Stoor
 Jarmo Suokas
 Jarmo Uronen
+Jarmo Valtonen
 Jarmo Viinanen
 Jarmo Wahlström
 Jarmuk
@@ -127414,6 +127567,7 @@ Joe R. Lansdale
 Joe Reekie
 Joe Robertson
 Joe Rogan Questions Everything
+Joe Rosenthal
 Joe Rullier
 Joe Salas
 Joe Satriani
@@ -127533,6 +127687,7 @@ Johanna Kustannus
 Johanna Manninen
 Johanna Nurmimaa
 Johanna Ojala-Niemelä
+Johanna Puhakka
 Johanna Roivas
 Johanna Seppälä
 Johanna Sumuvuori
@@ -128625,6 +128780,7 @@ Juho Eerola
 Juho Heitto
 Juho Helomaa
 Juho Hukari
+Juho Hämäläinen
 Juho Kaskinen
 Juho Koskimies
 Juho Kusti Paasikivi
@@ -129156,6 +129312,7 @@ Jääkiekko talviolympialaisissa 2006 – miesten turnaus
 Jääkiekko talviolympialaisissa 2010 – miesten turnaus
 Jääkiekko talviolympialaisissa 2014
 Jääkiekko talviolympialaisissa 2022
+Jääkiekko talviolympialaisissa 2022 – miesten turnaus
 Jääkiekkoilija
 Jääkiekkoleijona
 Jääkiekon 1. divisioonan maailmanmestaruuskilpailut
@@ -129200,6 +129357,7 @@ Jääkiekon SM-liigakausi 2005–2006
 Jääkiekon SM-liigakausi 2018–2019
 Jääkiekon SM-liigakausi 2021–2022
 Jääkiekon SM-liigakausi 2022–2023
+Jääkiekon SM-liigan karsinnat 2013
 Jääkiekon alle 18-vuotiaiden Aasian ja Oseanian mestaruuskilpailut
 Jääkiekon alle 18-vuotiaiden B-sarjan maailmanmestaruuskilpailut 2000
 Jääkiekon alle 18-vuotiaiden Euroopan-mestaruuskilpailut
@@ -129532,6 +129690,7 @@ Jääpeili
 Jääski
 Jäätanssi
 Jäätie (veistos)
+Jäätiedotus
 Jäätikkö
 Jäätikön tytär
 Jäätuulen laakso (kirjasarja)
@@ -130367,6 +130526,7 @@ Kalliolampi (Äänekoski)
 Kalliolampi (Äänekoski, Kevätlahti)
 Kalliomaa
 Kalliomoskeija
+Kallion kirjasto
 Kallioperä
 Kalliovuoret
 Kalliovuorten aika
@@ -130935,6 +131095,7 @@ Karaslampi
 Karat
 Karatas-Seura
 Karate
+Karate (videopeli)
 Karate Champ
 Karate Kid 2 (video game)
 Karate kesäolympialaisissa 2020
@@ -131805,6 +131966,7 @@ Keijo Vuorinen
 Keijukaiset slaavilaisessa kansanperinteessä
 Keikka putkessa
 Keikkalanlampi
+Keiko Saitō
 Keilailu
 Keilasjärvi
 Keimiöniemen kalapirtit
@@ -132509,6 +132671,7 @@ Keynshamin rautatieasema
 Keys to the Highway
 Keystone Aerial Surveys
 Keystone Air Service
+Kfar Blum
 Kgalema Motlanthe
 Khadija Saye
 Khaled Azaiez
@@ -133125,6 +133288,7 @@ Kirkjärvi (Sysmä)
 Kirkkaalta taivaalta
 Kirkkoherra
 Kirkkohistoria
+Kirkkojen ja valtion suhde Suomessa
 Kirkkojen maailmanneuvosto
 Kirkkojärvi (Alavus)
 Kirkkojärvi (Kangasala)
@@ -133769,6 +133933,7 @@ Komin tasavalta
 Komintern
 Komische Oper Berlin
 Komissaari (Euroopan komissio)
+Komitas Vardapet
 Komlavi Loglo
 Kommandiittiyhtiö
 Komministeri
@@ -133928,6 +134093,7 @@ Kontekstomia
 Kontinental Hockey League
 Kontiolampi
 Kontiolampi (Kangasniemi)
+Kontkanen
 Kontokki
 Kontorhausviertel
 Kontortionisti
@@ -133952,6 +134118,7 @@ Kookospähkinä
 Kookossaaret
 Koomikko
 Koomikon kuva
+Koominen ooppera
 Koop Arponen
 Koordinaatisto
 Koordinoitu yleisaika
@@ -134358,6 +134525,7 @@ Kovasjärvi (Jämsä)
 Kovasjärvi (Kuhmoinen)
 Kovaslammi
 Kovenant
+Koverharin terästehdas
 Kovero (Padasjoki)
 Kovero (Ruovesi)
 Kovero (Sysmä)
@@ -134805,6 +134973,7 @@ Kultainennoutaja
 Kultaiset sadut (piirrossarja)
 Kultakala (tv-sarja)
 Kultakalat 1933
+Kultakeskus
 Kultakuoriainen
 Kultakuoriainen (single)
 Kultakuoriainen (täsmennyssivu)
@@ -136172,6 +136341,7 @@ Lainsuojattomat
 Laird, Son and Company
 Lairgin rautatieasema
 Laiskiaiset
+Laiskurit
 Laissez faire
 Laissez-faire
 Laite
@@ -137138,6 +137308,7 @@ Leen piirikunta (Virginia)
 Leen rautatieasema
 Leena Harkimo
 Leena Häkinen
+Leena Jokinen
 Leena Kaskela
 Leena Laulajainen
 Leena Meri
@@ -137796,6 +137967,7 @@ Lewis-pikakivääri
 Lewishamin rautatieasema
 Lex Luthor
 Lexa Ikonen
+Lexica
 Lexie Carver
 Lexington (Virginia)
 Leyland Motors
@@ -139241,6 +139413,7 @@ Luettelo Dave Lindholmin kappaleista
 Luettelo Deep Purplen kappaleista
 Luettelo Eminemin saamista palkinnoista ja ehdokkuuksista
 Luettelo Epyxin peleistä
+Luettelo Espanjan maakunnista pinta-alan mukaan
 Luettelo Espanjan viinintuotantoalueista
 Luettelo Etelä-Afrikan kaupungeista
 Luettelo Etelä-Trøndelagin läänin taajamista
@@ -140774,6 +140947,7 @@ Magic Johnson's Basketball
 Magic Pengel: The Quest for Color
 Magic Pockets
 Magic: The Gathering
+Magica
 Magical Company
 Magical Company (Mahou)
 Magical Date
@@ -141064,6 +141238,7 @@ Malagasy Airlines
 Malaija
 Malaijan kriisi
 Malaijan liittovaltio
+Malaijanmuurahaiskäpy
 Malaiji
 Malaijikarhu
 Malaijit
@@ -142470,6 +142645,7 @@ Mathew Brady
 Mathew Dumba
 Mathewsin piirikunta
 Mathi
+Mathias Färm
 Mathias Järnström
 Mathias Jørgensen
 Mathias Soop
@@ -143043,6 +143219,7 @@ Megadodo Software
 Megaforce Records
 Megaliitti
 Megalit
+Megalyn Echikunwoke
 Megalópoli
 Megamania
 Megamania Musiikki
@@ -145120,6 +145297,7 @@ Mohammed Rabii
 Mohammed V
 Mohammed VI
 Mohawk Airlines
+Mohnin majakka
 Mohori
 Mohsin Akhtar
 Mohsin kovuus
@@ -147612,6 +147790,7 @@ Natrium
 Natriumfluoridi
 Natriumheksafluorisilikaatti
 Natriumioni
+Natriumkromaatti
 Natriummonofluorofosfaatti
 Natriumsyanidi
 Natriumtiosulfaatti
@@ -148631,6 +148810,7 @@ Nile Safaris Aviation
 Nile Valley Aviation Company
 Nile Wilson
 Nile Wings Aviation Services
+Nilgau
 Nilmar
 Nilootit
 Nilpotentti
@@ -150299,6 +150479,7 @@ Olipa kerran keksijät
 Olipa kerran lumiukko
 Olipa kerran löytöretket
 Olipa kerran planeetta Maa
+Olive Riley
 Olive Schreiner
 Oliver (Sänger)
 Oliver Björkstrand
@@ -150347,6 +150528,7 @@ Olli Joki
 Olli Jokinen
 Olli Klemetti
 Olli Kokko
+Olli Kolstela
 Olli Korhonen (jääkiekkoilija)
 Olli Koskelin
 Olli Kuukasjärvi
@@ -151720,6 +151902,7 @@ Paloisvuori
 Palojärvi (Kangasala)
 Palojärvi (Keuruu)
 Palojärvi (Padasjoki)
+Palojärvi (Ulvila)
 Palojärvi (Viitasaari)
 Palokkajärvi
 Palokki (Kinnula)
@@ -152171,6 +152354,7 @@ Pasaatituuli
 Pasaatituulten kohtaamisvyöhyke
 Pasadena (Kalifornia)
 Pascal Ackermann
+Pascal Devoyon
 Pascal Lavanchy
 Pascal Pelletier
 Pascal Rheaume
@@ -154226,6 +154410,7 @@ Piitu Uski
 PikaPakinaPaketti
 Pikachu
 Pikajuoksu
+Pikakamera
 Pikaluistelun maailmancup 2018–2019
 Pikaluistelun matkakohtaiset maailmanmestaruuskilpailut 2019
 Pikaluistelun sprinttimaailmanmestaruuskilpailut 2019
@@ -154499,6 +154684,7 @@ Pirttijärvi (Orivesi, Puharila)
 Pirttijärvi (Padasjoki)
 Pirttijärvi (Ruovesi)
 Pirttijärvi (Ruovesi, Pourunperä)
+Pirttijärvi (Suomussalmi, rajavyöhyke)
 Pirttijärvi (Sysmä)
 Pirttijärvi (Toivakka)
 Pirttijärvi (Uurainen)
@@ -154908,6 +155094,7 @@ Pohjoinen jäämeri
 Pohjoinen napapiiri
 Pohjoinen päiväntasaajanvirta
 Pohjoinen suuralue
+Pohjoinen taivas Osa 2
 Pohjois-Aasia
 Pohjois-Afrikan sota toisessa maailmansodassa
 Pohjois-Afrikka
@@ -154935,6 +155122,7 @@ Pohjois-Kalifornia
 Pohjois-Kap
 Pohjois-Karjala
 Pohjois-Karjala-projekti
+Pohjois-Karjalan keskussairaala
 Pohjois-Karjalan lääni
 Pohjois-Karjalan maakunta
 Pohjois-Karjalan rajavartiosto
@@ -155044,6 +155232,7 @@ Poikkeama (ilmailu)
 Poikkele
 Poikkeus (järvi)
 Poikkeusjärvi (Kinnula)
+Poikkeuslaki
 Poikkijärvi (järvi Kuhmoisissa)
 Poikkilampi (Konnevesi)
 Poikusjärvi
@@ -155775,6 +155964,7 @@ Pratola Peligna
 Praton maakunta
 Pratt & Whitney F135
 Pratt and Whitney Canada
+Pravoje delo
 Praxis-ryhmä
 Praz de Lys Sommand
 Preah Ko
@@ -156699,6 +156889,7 @@ Pyssyjärvi (Jyväskylä)
 Pyssyjärvi (Padasjoki)
 Pystykattara
 Pysähtyneisyyden aika
+Pythagoras
 Python (video game)
 Python Pete
 Pyton
@@ -158778,6 +158969,7 @@ Rhythmic Top 40
 Rhône
 Ria Baran
 Riadh Bouazizi
+Rial Racing
 Riano
 Riau Airlines
 Ribbeckhaus
@@ -161882,6 +162074,7 @@ Sabotaasi
 Sabotage (1988 video game)
 Sabotage (Beastie Boysin kappale)
 Sabotage (game)
+Sabotage (vuoden 2014 elokuva)
 Sabotaje
 Saboteur (1985 video game)
 Saboteur II
@@ -162576,6 +162769,7 @@ Sakan kieli
 Sakari Ilmanen
 Sakari Kuosmanen
 Sakari Kurronen
+Sakari Kuusi
 Sakari Peltoniemi
 Sakari Pietilä
 Sakari Pihlamo
@@ -163315,6 +163509,7 @@ Sandokan (piirrossarja)
 Sandownin rautatieasema
 Sandplacen rautatieasema
 Sandra Bullock
+Sandra Chick
 Sandra Magnus
 Sandra Morgan
 Sandra Neilson
@@ -163629,6 +163824,7 @@ Satoshi Tajiri
 Satra lbaeng
 Satsair
 Sattanen
+Sattuman soittoa
 Satu Ekman
 Satu Haapanen
 Satu Hassi
@@ -164344,6 +164540,7 @@ Seppo Hentilä
 Seppo Huunonen
 Seppo Ilmari
 Seppo Juvonen
+Seppo Kahilainen
 Seppo Keränen
 Seppo Keurulainen
 Seppo Kuusiola
@@ -166347,6 +166544,7 @@ Sointukulku
 Soissons
 Soita minulle, Helena! (vuoden 1948 elokuva)
 Soitin
+Soitinluokitus
 Sojuz 1
 Sojuz 23
 Sokal
@@ -166545,6 +166743,7 @@ Sooty and Sweep (video game)
 Sopenjärvi (Pihtipudas)
 Sopenkorpi
 Sopesjärvi
+Sophia Antipolis
 Sophia Elizabeth De Morgan
 Sophiatown
 Sophie B. Hawkins
@@ -167391,6 +167590,7 @@ Stalybridgen rautatieasema
 Stamford Bridgen rautatieasema
 Stamford Hillin rautatieasema
 Stamfordin rautatieasema
+Stampede
 Stan Cullis
 Stan Gilbertson
 Stan Kenton
@@ -167405,6 +167605,7 @@ Stana Katic
 Stanag
 Stanbridge East
 Stanbridge Station
+Stand Up and Scream
 Stand up -komiikka
 Stand-up
 Standard & Poor’s
@@ -167612,6 +167813,7 @@ State Route 24 (Kalifornia)
 State Unitary Air Enterprise
 State of Emergency (videopeli)
 State of Emergency 2
+State of Mind (Lovexin albumi)
 Staten Island
 StatesWest Airlines
 Stationfall
@@ -167750,6 +167952,7 @@ Stephen J. Crow
 Stephen Keshi
 Stephen King
 Stephen LaBerge
+Stephen Langton
 Stephen Lockley
 Stephen Logue
 Stephen Lushington (tuomari)
@@ -167938,6 +168141,7 @@ Stig Stenholm
 Stigma
 Stigmacros
 Stigmatodiscales
+Still Counting
 Still Cyco After All These Years
 Still Life (The Rolling Stonesin albumi)
 Still Loving You
@@ -168074,6 +168278,7 @@ Strange Weather, Isn't It?
 Strangeloop
 Stranger Things
 Stranger in Moscow
+Strangeways, Here We Come
 Stranglehold (video game)
 Stranraer Townin rautatieasema
 Stranraerin rautatieasema
@@ -168225,6 +168430,7 @@ Stuart Little: The Journey Home
 Stuart Middleton
 Stuart Roosa
 Stuart Ruecroft
+Stuart Skinner
 Stuart Sutcliffe
 Stuart Wilson
 StubHub Center
@@ -168688,6 +168894,7 @@ Suomen Partiolaiset
 Suomen Pesäpalloliitto
 Suomen Poololiitto
 Suomen Puolustusvoimat
+Suomen Racketlonliitto
 Suomen Rauhanpuolustajat
 Suomen Senioripuolue
 Suomen Sosialidemokraatti
@@ -171162,6 +171369,7 @@ Ted Speers
 Ted Strickland
 Ted Taylor
 Ted Wilson
+Tedat
 Teddingtonin rautatieasema
 Teddy
 Teddy Castellucci
@@ -171489,10 +171697,12 @@ Terentius Varro
 Teresa Lin
 Terhi Kokkonen
 Terhi Leskinen
+Terhi Nieminen-Mäkynen
 Terhi Peltokorpi
 Terho Pursiainen
 Teri Hatcher
 Teri Niitti
+Terijoen hallitus
 Terijoki
 Teriö
 Terjärv Ungdoms Sportklubb
@@ -173036,6 +173246,7 @@ Tiberius Julius Alexander
 Tibestivuoristo
 Tibet Airlines
 Tibor Csík
+Tibor Zsíros
 Tic Air
 TicBits
 Ticino
@@ -173186,6 +173397,7 @@ Tikki (korttipeli)
 Tikkipeli
 Tikku
 Tikku ja Takku
+Tikkurila
 Tikkurila (yritys)
 Tikkurilan Palloseura
 Tikkurilan Palloseura (naiset)
@@ -173206,6 +173418,7 @@ Tilehurstin rautatieasema
 Tilen Hudrap
 Tilgu
 Tilhet, pajut ja muut
+Tilhet, pajut ja muut (albumi)
 Tilikauden voitto
 Tilikausi
 Tilinpäätös
@@ -173537,6 +173750,7 @@ Toimittaja
 Toimittajat ilman rajoja
 Toimitusjohtaja
 Toimitusositus
+Toinen Ateenan liitto
 Toinen Harkovan taistelu
 Toinen Marokon kriisi
 Toinen Taiwaninsalmen kriisi
@@ -175617,6 +175831,7 @@ Tübingenin yliopisto
 Tüütsi
 Tāufaʻāhau Tupou IV
 Tărlungeni
+Tōdō-kilta
 Tōru Minegishi
 Tšad kesäolympialaisissa 2008
 Tšad kesäolympialaisissa 2012
@@ -178452,6 +178667,7 @@ VideoScape 3D
 Videoeditointi
 Videoerotuomari
 Videopeli
+Videopelien säilöminen
 Videopelimusiikki
 Videopelisuunnittelija
 Videopelit
@@ -178660,6 +178876,7 @@ Viheltäjäkonna
 Viheltävät luodit
 Viheranakonda
 Viherhiukkanen
+Viherhuppukolibri
 Viheriäislampi
 Viherlampi
 Viherrysjärvi
@@ -181016,6 +181233,7 @@ Wilhelm Liebknecht
 Wilhelm Löhe
 Wilhelm Maximilian Carpelan
 Wilhelm Ostwald
+Wilhelm Panelius
 Wilhelm Peters
 Wilhelm Roos
 Wilhelm Röntgen

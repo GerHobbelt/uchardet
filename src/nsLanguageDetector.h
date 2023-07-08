@@ -60,13 +60,24 @@ typedef struct
   int                  charOrderTableSize;
 
   /* Table mapping Unicode codepoints to chararacter orders: bounds: mapping table has slots for [Lowerbound]..[UpperBound] */
-  int UnicodeCharToOrderMapLowerBound;
-  int UnicodeCharToOrderMapLowerBound;
+  int                  unicodeCharToOrderMapLowerBound;
+  int                  unicodeCharToOrderMapUpperBound;  // an *inclusive* upper bound
+  PRBool               UnicodeCharToOrderIsReduced;      // says if UnicodeCharToOrderMap[] is only for the most frequent characters (TRUE) or for the entire alphabet (FALSE)
+
   /* Table mapping Unicode codepoints to chararacter orders: lookup is [codepoint - LowerBound], value obtained in char_order index. */
-  const PRUint8* const UnicodeCharToOrderMap;
+  const PRUint8* const unicodeCharToOrderMap;
+
+  // the above table may be split in two: it will then carry only the first chunk, while the next table carries the remainder:
+  int                  unicodeCharToOrderFirstTableChunkSize;
+  int                  unicodeCharToOrderSecondTableChunkOffset;  // relative to unicodeCharToOrderMapLowerBound
+  int                  unicodeCharToOrderSecondTableChunkSize;
+  const PRUint8* const unicodeCharToOrderMap2;
+
+  const float* const   orderToRatioMap;
 
   /* freqCharCount x freqCharCount table of 2-char sequence's frequencies. */
   const PRUint8* const precedenceMatrix;
+
   /* The count of frequent characters.
    * precedenceMatrix size is the square of this count.
    * charOrderTable can be bigger as it can contain equivalent

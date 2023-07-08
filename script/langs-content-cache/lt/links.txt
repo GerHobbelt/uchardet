@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Virtuvinis kombainas
-Mėsainis
-Zonenbergas
-Makedonijos futbolo varžybos 1992–1993 m.
-R. Daring Club Molenbeek
-San Marino futbolo varžybos 1996–1997 m.
-Kulykolis
-Mindaugas Slapšys
-Raudonplynio kraštovaizdžio draustinis
-Aktobės sritis
-AT225
-San Visentė (Misjonesas)
-Ekologinė miškininkystė
-Kaišiadorių dvaras
-VDR futbolo varžybos 1974–1975 m.
-Klaipėdos Luizės gimnazija
-Hermann Grassmann
-Pupeliai
-Emilija Pūtvytė
-Reunjonas
-Panama (skrybėlė)
-Uonbulizmas
-Pagonų paslas
-FK Sigma Vilnius
-Gelsvūnis
-Ochrinis tinamas
-Amerikos Valstijų Konfederacija
-Hangdžou įlanka
-Taros kanjonas
-Sprintas
+Baltpamūšio dvaras
+Lietuvos futbolo varžybos 2023 m.
+Pilypas I
+Bešaras
+Panevėžys
+Truskavos apylinkė
+Turkijos futbolo varžybos 2011–2012 m.
+Saugų seniūnija
+Kefalonija
+Didysis nilinis ešerys
+Arielis Šaronas
+Balsupių tvenkinys
+Minsko kaštelionas
+Venclovas Agripa
+FC Torinese
+Uchvala
+Vagitas Alekperovas
+Gegužkalnis
+Vizbaras
+Varvarinas
+Pauliukėnas
+Siauralapis gaurometis
+Gyvatės apkabinimas
+Liudvikas II (reikšmės)
+Kemsinis
+Skroblus (reikšmės)
+Nikolajus Andrejevas
+Petras Kupčiūnas
+Ščiugoras
+Humanitarinė pagalba
 "BTS Starts a 'Skool Luv Affair' with New MV"
 "BTS' 'Map Of The Soul' Album Title Has A Deeper Meaning That Could Tease More Albums"
 "TSRS kariškių sąmokslas"
@@ -150,6 +150,7 @@ Sprintas
 1103 m.
 111 m. pr. m. e.
 113 m.
+1142 m.
 116 m. pr. m. e.
 117 m. pr. m. e.
 12 m. pr. m. e.
@@ -1833,6 +1834,7 @@ Sprintas
 6-oji armija (Vermachtas)
 6000 m. pr. m. e.
 61 m. pr. m. e.
+612 m.
 622 m.
 624 m. pr. m. e.
 63 m. pr. m. e.
@@ -2066,6 +2068,7 @@ ASK Linz
 ASM-DT
 ASO Bratislava
 ASUSTeK Computer Inc.
+AT225
 ATR 42
 ATR Seimas
 ATR policijos ministras
@@ -2432,6 +2435,7 @@ Afrikos Tautų Taurė
 Afrikos Tautų taurė
 Afrikos dviračių sporto konfederacija
 Afrikos futbolo konfederacija
+Afrikos konvencija dėl gamtos ir gamtos išteklių apsaugos
 Afrikos lengvosios atletikos konfederacija
 Afrikos lengvosios atletikos čempionatas
 Afrikos plaukimo federacija
@@ -2586,6 +2590,7 @@ Airėnų konglomeratas
 Aisakas
 Aischilas
 Aisonas
+Aisrizenveltas
 Aistmarės
 Aistė Šveckutė
 Aisčiai
@@ -2746,6 +2751,7 @@ Akmenynė
 Akmenynės ąžuolas
 Akmenys su jaučio pėda
 Akmenė
+Akmenė (Panevėžys)
 Akmenė III
 Akmenės SC
 Akmenės SC (moterys)
@@ -2799,6 +2805,7 @@ Aktinomicetai
 Aktiubinskas
 Akto-potencijos perskyra
 Aktobė
+Aktobės sritis
 Aktorius
 Aktorė
 Akulioriai (12231016)
@@ -3124,6 +3131,7 @@ Albumas
 Albuminas
 Alburis-Vodonga
 Alcatel
+Alchančurto slėnis
 Alcheda
 Alchemija
 Alchesirasas
@@ -4159,6 +4167,7 @@ Anastasia Chaun
 Anastasia Voynova
 Anastasia Zueva
 Anastasija (filmas)
+Anastasija Kalmanovič
 Anastasijus IV
 Anastasiya Kapachinskaya
 Anastazija Sidarienė
@@ -4960,6 +4969,7 @@ Antežeriai (Kėdainiai)
 Anthony Albanese
 Anthony Blinken
 Anthony Carmona
+Anthony Davis
 Anthony Eden
 Anthony Ervin
 Anthony Head
@@ -6560,6 +6570,7 @@ Austrijos imperija
 Austrijos istorija
 Austrijos krepšinio lyga
 Austrijos lietuviai
+Austrijos politinė sistema
 Austrijos prezidentai
 Austrijos transportas
 Austrijos vyrų futbolo rinktinė
@@ -6625,6 +6636,7 @@ Aušrinė (žurnalas)
 Aušrinė Armonaitė
 Aušrinė Bikutė
 Aušros Vartų gatvė
+Aušros vartai
 Aušvicas
 Aušvicas II
 Aušvico koncentracijos stovykla
@@ -7206,6 +7218,7 @@ Balskų HE
 Balskų užtvanka
 Balso stygos
 Balstogė
+Balstogės Branickių rūmai
 Balstogės aglomeracija
 Balstogės apskrities herbas
 Balstogės apskritis
@@ -7568,6 +7581,7 @@ Barbagia
 Barbakoa kalbos
 Barbara Bouchet
 Barbara Ehrenreich
+Barbara Karinska
 Barbara Kingsolver
 Barbara McClintock
 Barbara Walters
@@ -7607,6 +7621,7 @@ Baritas (upė)
 Baritonas
 Barišev
 Barkeliai
+Barkeliai (Imbarė)
 Barkiškės (Vilnius)
 Barkuškiai (Anykščiai)
 Barnardo žvaigždė
@@ -7734,6 +7749,7 @@ Baudieriškis
 Baudinių serija
 Baudžiamasis procesas
 Baudžiamoji byla
+Baudžiamoji politika
 Baudžiamoji teisė
 Baudžiamoji teisėtyra
 Baudžiamojo proceso teisė
@@ -8373,6 +8389,7 @@ Beşiktaş J.K.
 Beşiktaş JK
 Bešankovičų rajonas
 Bešmetas
+Bežemniai
 Bežos aviacijos bazė
 Bežtų kalba
 Bežunas
@@ -8404,6 +8421,7 @@ Biatlonas olimpinėse žaidynėse
 Bibcode
 Biblija
 Biblioteka
+Bibliotekininkystė
 Bibopas
 Bida Bint Saudas
 Bidvest Wits FC
@@ -9120,6 +9138,7 @@ Brangakmenis
 Branica Suchovolska
 Branislav Ivanović
 Brankaleonės armija
+Branko Ćopić
 Brastos apskritis
 Brastos apygarda
 Brastos taika
@@ -10193,6 +10212,7 @@ Ceikiniai
 Ceikinių Kipro Petrausko pagrindinė mokykla
 Ceikinių seniūnija
 Ceikinių valsčius
+Ceikiškė (Ceikiniai)
 Ceilonas 1972 m. vasaros olimpinėse žaidynėse
 Ceklis
 Celal Bayar
@@ -10326,6 +10346,7 @@ Chameleono žaidimai
 Chamois Niort FC
 Chan Ulas
 Chandžaras
+Chanevalis
 Chang Gao
 Change
 Change (Sugababes albumas)
@@ -11161,6 +11182,7 @@ Dalius Ribokas
 Dalius Staleliūnas
 Dalius Žygelis
 Dalmatai
+Dalmatija (Romos provincija)
 Dalslandas
 Dalvičo paveikslų galerija
 Dalyvis (gramatika)
@@ -11792,6 +11814,7 @@ Degesių pagrindinė mokykla
 Degionys (Anykščiai)
 Degliškė
 Degsnio dvaras
+Degsnių valsčius
 Degsnės (Merkinė)
 Degsnės maumedynas
 Degsnės miško maumedis
@@ -13171,6 +13194,7 @@ Dusetos (gyvenvietė)
 Dusetų dvaras
 Dusetų rajonas
 Dusetų seniūnija
+Dusetų skulptūrų parkas
 Dusia
 Dusios
 Dusios gyvenvietė
@@ -13194,6 +13218,7 @@ Dvarininkinis vietovardis
 Dvariukų tvenkinys
 Dvariūkai
 Dvarninkai
+Dvaro ežeras
 Dvaroniškis
 Dvarviečiai
 Dvarviečiai (Gaurė)
@@ -14130,6 +14155,7 @@ Emilija Danilevičiūtė
 Emilija Giržutaitė
 Emilija Macienė
 Emilija Pliaterytė
+Emilija Pūtvytė
 Emilija Riliškytė
 Emilijus Junevičius
 Emilinas (Mazovijos vaivadija)
@@ -15601,6 +15627,7 @@ FK Mostiškės
 FK Nadruvis Šakiai
 FK Naftan Novopolock
 FK Napredak Kruševac
+FK Napredok Kičevo
 FK Nasaf
 FK Naujieji Verkiai
 FK Nautica Klaipėda
@@ -15677,6 +15704,7 @@ FK Sendvaris
 FK Senica
 FK Shkupi
 FK Shkëndija
+FK Sigma Vilnius
 FK Sileks
 FK Sileks Kratovo
 FK Simnas
@@ -16875,6 +16903,7 @@ GP-25
 GP3 serija
 GS Īraklī́s
 GSP Stadium
+Ga (tauta)
 Gabe Muoneke
 Gabija Galvydytė
 Gabija Valiukevičiūtė
@@ -17164,6 +17193,7 @@ Gargždų Pramogos–SC
 Gargždų dekanatas
 Gargždų seniūnija
 Gargždų Šv. arkangelo Mykolo bažnyčia
+Gargždų šv. arkangelo Mykolo bažnyčia
 Garis Kasparovas
 Gariūnai
 Gariūnai Vilnius
@@ -17175,6 +17205,7 @@ Garliavos seniūnija
 Garmas
 Garmišas-Partenkirchenas
 Garniai
+Garniai (Gardinas)
 Garnik Ayrapetyan
 Garo malūnas
 Garo mašina
@@ -17222,6 +17253,7 @@ Gasčiūnai
 Gasčiūnų valsčius
 Gatautiškė
 Gataučiai
+Gataučiai (reikšmės)
 Gataučių seniūnija
 Gatumdug
 Gatuno ežeras
@@ -17472,6 +17504,7 @@ Gelsvasis empidonaksas
 Gelsvasis pūkelis
 Gelsvoji garcinija
 Gelsvoji gegūnė
+Gelsvūnis
 Geltona
 Geltonasis imperatorius
 Geltonasis kazlėkas
@@ -18084,6 +18117,7 @@ Giruliai
 Girulių geležinkelio stotis
 Girulių miškas
 Girvainiai
+Girvalakiai
 Girėliškiai (reikšmės)
 Girėliškiai A
 Girėliškiai B
@@ -19027,6 +19061,7 @@ Gvaikurų kalbos
 Gvaimiai
 Gvaji Hanaso nacionalinis parkas
 Gvanachuatas (miestas)
+Gvaporė
 Gvarajoso provincija
 Gvaraniai
 Gvaranių kalba
@@ -19287,6 +19322,7 @@ Hancock
 Handle System
 Handža
 Hang Seng
+Hangdžou įlanka
 Hangul
 Hangzhou
 Haniai
@@ -19693,6 +19729,7 @@ Hermanas Vartbergė
 Hermanas Šulcas
 Hermann Bohne
 Hermann Esser
+Hermann Grassmann
 Hermann Göring
 Hermann Hesse
 Hermann Jónasson
@@ -19769,6 +19806,7 @@ Hidrologija
 Hidroplanas
 Hidrotechnika
 Hidroterminė versmė
+Hidžazo rialas
 Hienos
 Hierapolis
 Hierarchija
@@ -20368,6 +20406,7 @@ Ikast FS
 Ikastas
 Ikelengi apskritis
 Ikikolumbinė Amerika
+Ikis (sala)
 Ikisokratikai
 Ikona
 Ikona (religija)
@@ -20978,6 +21017,7 @@ Islam Karimov
 Islamas
 Islamas Karimovas
 Islamo aukso amžius
+Islamo fundamentalizmas
 Island Def Jam Music Group
 Island Records
 Islandai
@@ -21456,6 +21496,7 @@ Izidoriaus Navidansko parkas
 Izidorius Kraunaitis
 Izidorius Romeris
 Izmajilas
+Izniko keramika
 Izobutanas
 Izolda Pašakinskienė
 Izoliacionizmas
@@ -21796,6 +21837,7 @@ Jakaičiai (Šilalė)
 Jakaičių apylinkė
 Jake LaRavia
 Jake Tsakalidis
+Jakelių apylinkė
 Jakiškių dvaras
 Jakob Busk
 Jakob Pöltl
@@ -22351,6 +22393,7 @@ Jerzy Engel
 Jerzy Lalewicz
 Jerzy Ochmański
 Jesenicha
+Jesionove Gurų miškų draustinis
 Jesse Williams
 Jessica Alba
 Jessica Ayers
@@ -23813,6 +23856,7 @@ Juozas Nagevičius
 Juozas Namikas
 Juozas Nekrošius
 Juozas Olekas
+Juozas Olšauskas
 Juozas Otonas Širvydas
 Juozas Pajaujis-Javis
 Juozas Paknys
@@ -24323,6 +24367,7 @@ KSK Kultus Kaunas
 KSS Klaipėda
 KSS Telšiai
 KTU (krepšinio komanda)
+KTU inžinerijos licėjus
 KV Kortrijk
 KV Mechelen
 KV Oostende
@@ -24448,6 +24493,7 @@ Kaišiadorių Kristaus Atsimainymo katedra
 Kaišiadorių apskritis
 Kaišiadorių apylinkės seniūnija
 Kaišiadorių dekanatas
+Kaišiadorių dvaras
 Kaišiadorių geležinkelio stotis
 Kaišiadorių rajonas
 Kaišiadorių rajone
@@ -24851,6 +24897,7 @@ Kaniukų tiltas
 Kaniūkai (Babtai)
 Kaniūkai (Kaniava)
 Kaniūkai (reikšmės)
+Kaniūkai I
 Kaniūkų akmuo
 Kaniūkų apylinkė
 Kaniūkų apylinkė (Daugai)
@@ -25148,6 +25195,7 @@ Karlas fon Mekas
 Karlas Černis
 Karlas Špiteleris
 Karlheinz Stockhausen
+Karlina
 Karlis Auzanas
 Karlis Baluodis
 Karlis Ulmanis
@@ -25619,6 +25667,7 @@ Kauno-Klaipėdos stačiatikių dekanatas
 Kaunonai
 Kaupiai
 Kausteikliai
+Kautra
 Kauzatyvas
 Kaučiukas
 Kaušai
@@ -26334,6 +26383,7 @@ Kijevo-Voronežo geležinkelis
 Kijevščina
 Kijosė
 Kijoviecas (Palenkės Bialos valsčius)
+Kijoviecas (Zalesių valsčius)
 Kijės valsčius
 Kikiliniai
 Kikilis
@@ -26391,6 +26441,7 @@ Kinect Sports
 Kinetinis menas
 Kinetinė energija
 Kinetoskopas
+Kinezinas
 King Digital Entertainment
 King's Park FC
 Kingenas ap Maigas
@@ -26400,9 +26451,11 @@ Kingsbridžas
 Kingsglaive: Final Fantasy XV
 Kingstaunas
 Kingstonas (Kanada)
+Kingstonas (Norfolkas)
 Kingstono universitetas
 Kingsviras
 Kingu
+Kingyčiai
 Kinija
 Kinija (regionas)
 Kinija (reikšmės)
@@ -26761,6 +26814,7 @@ Klaipėdos DDA
 Klaipėdos FM
 Klaipėdos FM B
 Klaipėdos Liudviko Stulpino pagrindinė mokykla
+Klaipėdos Luizės gimnazija
 Klaipėdos Nafta-Uni-Laivitė
 Klaipėdos Nafta-Universitetas
 Klaipėdos Neptūnas
@@ -27159,6 +27213,7 @@ Komotėnė
 Kompaktinis automobilis
 Kompaktinė plokštelė
 Kompasas
+Kompensacija (judesys)
 Kompiliacija (albumas)
 Kompiuterija
 Kompiuteriniai sporto žaidimai
@@ -27359,6 +27414,7 @@ Konsulinės įstaiga
 Kontai (Lomžos apskritis)
 Kontai (Palenkės Bialos apskritis)
 Kontautai
+Konteineris
 Kontinentinis kongresas
 Kontinentinė Amerikos vandenskyra
 Kontinentinė armija
@@ -27451,6 +27507,7 @@ Kornelia Marek
 Kornelija Riliškytė
 Kornelijus Skeivys
 Kornet
+Kornevilio varpai
 Kornica Kolonija
 Kornicenas
 Kornvalis
@@ -27772,6 +27829,7 @@ Kretingalė
 Kretingalės seniūnija
 Kretingos Viešpaties Apreiškimo Švč. Mergelei Marijai bažnyčia
 Kretingos apskritis
+Kretingos bažnyčios šventoriaus koplyčia
 Kretingos dvaras
 Kretingos geležinkelio stotis
 Kretingos miesto seniūnija
@@ -28222,6 +28280,7 @@ Kultūros paveldas
 Kultūros vertybių registras
 Kululu
 Kulvos seniūnija
+Kulykolis
 Kulėnai
 Kulšėnai
 Kumagaja
@@ -28498,6 +28557,7 @@ Kvantinės elektronikos katedra
 Kvapas
 Kvapioji akacija
 Kvapusis moliūgas
+Kvapusis notofagas
 Kvapusis rozmarinas
 Kvarcas
 Kvarcinis smėlis
@@ -28560,6 +28620,7 @@ Kylio įlanka
 Kylis
 Kyoko Iwasaki
 Kyoto Sanga FC
+Kypsarės švyturys
 Kytira
 Kyudo
 Kyviškių GS
@@ -28581,6 +28642,7 @@ Kārlis Reisons
 Kārlis Zāle
 Ką jie padarė mūsų dukterims?
 Ką tu veikei kare, tėti?
+Kėbliškiai
 Kėdainiai
 Kėdainių Atžalyno gimnazija
 Kėdainių Aušros sporto ir sveikatinimo pagrindinė mokykla
@@ -29920,6 +29982,7 @@ Leopoldas Arendsas
 Leopoldas II Belgas
 Leopoldas Kumpikas
 Leopoldas Radžiūnas
+Leopoldas Šileikis
 Leovos rajonas
 Lepanto mūšis
 Lepelio apskritis
@@ -30645,6 +30708,7 @@ Lietuvos imtynių federacija
 Lietuvos ir Baltarusijos komunistų partija (bolševikai)
 Lietuvos ir Namibijos santykiai
 Lietuvos ir Rusijos santykiai
+Lietuvos ir Senegalo santykiai
 Lietuvos ir Vokietijos santykiai
 Lietuvos ir lietuvių kilmės teorijos
 Lietuvos irklavimo federacija
@@ -31003,6 +31067,7 @@ Likšai
 Lil Pump
 Lil Wayne
 Lilehameris
+Lileikėnai
 Lileikėnų akmuo
 Lilija Skovronskienė
 Lilija Stanislova Kudirkienė
@@ -31753,6 +31818,7 @@ Lošiai
 Lošimas be kozirių
 Lošimo automatas
 Lošėjų miestas
+Loṙi FC
 Loṙi Vanajor
 Lrt.lt
 Lrytas.lt
@@ -32148,6 +32214,7 @@ MTK Hungaria Budapest
 MTK Hungária FC
 MTK-VM Budapest
 MTU Aero Engines
+MTV Afrikos muzikos apdovanojimai 2009
 MTV Europos muzikos apdovanojimai
 MTV Europos muzikos apdovanojimai 2006
 MTV Europos muzikos apdovanojimai 2007
@@ -32434,6 +32501,7 @@ Makedonija olimpinėse žaidynėse
 Makedonijos ekonomika
 Makedonijos futbolo federacija
 Makedonijos futbolo sistema
+Makedonijos futbolo varžybos 1992–1993 m.
 Makedonijos imperija
 Makedonijos karai
 Makedonijos krepšinio lyga
@@ -34609,6 +34677,7 @@ Mindaugas Puidokas
 Mindaugas Rojus
 Mindaugas Sadauskas
 Mindaugas Sinkevičius
+Mindaugas Slapšys
 Mindaugas Strockis
 Mindaugas Tamošiūnas
 Mindaugas Tamošiūnas (1934)
@@ -34963,6 +35032,7 @@ Modernistas
 Modernizmas
 Modernizmo architektūra
 Modernusis menas
+Modeselektor
 Modesta Justė Morauskaitė
 Modestas Musorgskis
 Modestas Paulauskas
@@ -35064,6 +35134,7 @@ Molde FK
 Moldova
 Moldovafilm
 Moldovos futbolo asociacija
+Moldė
 Molekulinė biologija
 Molekulinė grupė
 Molekulė
@@ -35270,6 +35341,7 @@ Morta Zauniūtė
 Mortal Kombat
 Mortal Kombat II
 Morton Greenock
+Mortyra
 Morungo apskritis
 Morėjus
 Morškuvas
@@ -35509,6 +35581,7 @@ Mycobacteria
 Mycobacterium avium
 Mycobacterium tuberculosis
 Mykolajivo sritis
+Mykolas (vardas)
 Mykolas Alekna
 Mykolas Angelas Šulcas
 Mykolas Antanas Radvila
@@ -35625,6 +35698,7 @@ Mėguva
 Mėkla (Kaunas)
 Mėlyna
 Mėlynasis drakonas
+Mėlynasis jūrų chirurgas
 Mėlynasis raitelis
 Mėlynbarzdžio vaikai
 Mėlyngurklė
@@ -35637,9 +35711,11 @@ Mėlynsparnė apsiuva
 Mėlynė
 Mėnulio kalendorius
 Mėnulio sala
+Mėnulio vaikai
 Mėnulis
 Mėnuo
 Mėrsrago savivaldybė
+Mėsainis
 Mėsiedas
 Mėsos pakaitalai
 Mėta (ežeras)
@@ -37313,6 +37389,7 @@ Obelių seniūnija
 Obelninkai
 Obelninkėliai
 Obelytės gamtinis rezervatas
+Obelų Rago trylikamienis kadagys
 Obera
 Oberhofas
 Oberostas
@@ -37339,6 +37416,7 @@ Ochotsko jūra
 Ochremovičė
 Ochridas
 Ochrido AMAK SP (krepšinio klubas)
+Ochrinis tinamas
 Ockham
 Octahedron
 Oculus Rift
@@ -37677,6 +37755,7 @@ Opegardas
 Opegiordas
 Open Society
 Open-mid back rounded vowel
+OpenClassrooms
 OpenSea
 Opera
 Operacija Barbarosa
@@ -37709,6 +37788,7 @@ Oranžinė
 Oranžinė revoliucija
 Oranžo-Nasau
 Oranžo-Nassau
+Orava
 Orchonas
 Orchono slėnis
 Orchuvekas (Liublino vaivadija)
@@ -37840,6 +37920,7 @@ Osinkai (reikšmės)
 Osipovičiai
 Oskar Bye
 Oskaras
+Oskaras Biuchleris
 Oskaras Buchleris
 Oskaras I
 Oskaras Koršunovas
@@ -37870,6 +37951,7 @@ Osterodės apskritis
 Ostfalijos tarmė
 Ostinas
 Ostino Spurs
+Ostioras
 Ostland
 Ostlandas
 Ostlando tarmė
@@ -38177,6 +38259,7 @@ Pagojukų seniūnija
 Pagojė (Anykščiai)
 Pagonybė
 Pagonys
+Pagonų paslas
 Pagraižys
 Pagramantis
 Pagramančio atodanga
@@ -38199,6 +38282,7 @@ Pagynė
 Pagėgiai
 Pagėgių apskritis
 Pagėgių savivaldybė
+Pahango sultonatas
 Paide Linnameeskond
 Paidė
 Paieškos sistema
@@ -38519,6 +38603,7 @@ Panajus
 Panama
 Panama (miestas)
 Panama (reikšmės)
+Panama (skrybėlė)
 Panama 1972 m. vasaros olimpinėse žaidynėse
 Panama 1992 m. vasaros olimpinėse žaidynėse
 Panama 1996 m. vasaros olimpinėse žaidynėse
@@ -39237,11 +39322,13 @@ Pavandenės pagrindinė mokykla
 Pavandenės pavietas
 Pavandenės valsčius
 Pavao Pervan
+Pavardaunio tvenkinys
 Pavardė
 Pavardė (viensėdis)
 Pavartyčiai
 Pavarų dėžė
 Pavasaris
+Pavašuokiai I
 Pavehas
 Paveisiejų pušis
 Paveisiejų trikamienis ąžuolas
@@ -39429,6 +39516,7 @@ Pelagra
 Pelaičiai
 Peldžiai
 Pelecaniformes
+Peleckis
 Peledujus
 Pelekas
 Pelekiškė
@@ -39585,6 +39673,7 @@ Perry Beadle T.1
 Persai
 Perselio kalnai
 Persepolis
+Perseveracija
 Persija
 Persija (regionas)
 Persijos įlanka
@@ -39609,6 +39698,7 @@ Persų įlankos karas
 Pertako miško biosferos rezervatas
 Pertako ornitologinis draustinis
 Pertas
+Pertas (Škotija)
 Pertas ir Kinrosas
 Perth Glory FC
 Pertinakas
@@ -39787,6 +39877,7 @@ Petras Čėsna
 Petras Šatkus
 Petras Šileikis
 Petras Škėlovas
+Petrauskai
 Petrauskynė
 Petrašiūnai
 Petrašiūnai (Pakruojis)
@@ -40192,6 +40283,7 @@ Pilionių piliakalnis
 Piliorius
 Pilis
 Piliukai
+Piliumas
 Piliūra
 Pilių parko kanadinė tuopa
 Pilių parko liepų grupė
@@ -40775,6 +40867,7 @@ Politics
 Politika
 Politinė filosofija
 Politinė partija
+Politinė socializacija
 Politologija
 Polivinilacetatas
 Polizei Chemnitz
@@ -41358,6 +41451,7 @@ Poznanės Adomo Mickevičiaus universitetas
 Poznanės Didžioji Kunigaikštystė
 Poznanės Didžioji kunigaikštystė
 Poznanės didysis kunigaikštis
+Poznanės ekonomikos universitetas
 Poznanės provincija
 Poznanės vaivada
 Poznanės vaivadija (1945-1975)
@@ -42249,6 +42343,7 @@ Puokės liepa
 Puolėja
 Puolėjas
 Puolėjas (futbolas)
+Pupeliai
 Pupelė
 Pupienas
 Pupiečiai
@@ -42502,6 +42597,7 @@ R&F Properties
 R. Betis Balompié
 R. Charleroi S.C.
 R. Charleroi SC
+R. Daring Club Molenbeek
 R. Standard de Liège
 R. Union Saint-Gilloise
 R.O.O.T.S.
@@ -43114,6 +43210,7 @@ Raudonosios balos telmologinis draustinis
 Raudonosios Žvaigždės ordinas
 Raudonpamūšio atodanga
 Raudonpilvė kūmutė
+Raudonplynio kraštovaizdžio draustinis
 Raudonskardžio atodanga
 Raudonsparnė meškutė
 Raudonuodegė gražutė
@@ -43438,6 +43535,7 @@ Rentgeno aparatas
 Rentgeno spinduliai
 Renzo Piano
 René Cassin
+René Guénon
 René Joensen
 Reparacija
 Reparticija
@@ -44666,6 +44764,7 @@ Rusios kunigaikštystės
 Rusios vaivada
 Rusios vaivadija
 Rusiška virtuvė
+Rusiškasis eršketas
 Ruskiai
 Ruslan Khakymov
 Ruslanas Ponomariovas
@@ -44903,6 +45002,7 @@ Rūdninkų girios biosferos poligonas
 Rūdninkų kraštovaizdžio draustinis
 Rūdninkų Švč. Trejybės bažnyčia
 Rūgštis
+Rūgštusis cukrus
 Rūgščioji garcinija
 Rūjiena
 Rūjienos savivaldybė
@@ -45465,6 +45565,7 @@ San Marino ekonomika
 San Marino eurų monetos
 San Marino futbolo federacija
 San Marino futbolo sistema
+San Marino futbolo varžybos 1996–1997 m.
 San Marino futbolo čempionatas
 San Marino geografija
 San Marino herbas
@@ -45488,6 +45589,7 @@ San Tomė ir Prinsipė 2016 m. vasaros olimpinėse žaidynėse
 San Tomė ir Prinsipė olimpinėse žaidynėse
 San Tomė ir Prinsipės geografija
 San Tomė ir Prinsipės vyrų futbolo rinktinė
+San Visentė (Misjonesas)
 San Visentės ugnikalnis
 San Žuakin de Bikasas
 Sanahino vienuolynas
@@ -45762,6 +45864,7 @@ Saul Friedländer
 Saul Hudson
 Sauliniai paukščiai
 Saulininkas Šiauliai
+Saulius Adomauskas
 Saulius Ambrulevičius
 Saulius Antanas Juršėnas
 Saulius Arlauskas
@@ -46917,6 +47020,7 @@ Siniaukos valsčius
 Sinjoros aikštė
 Sinkavangas
 Sinkleris Luisas
+Sinkopė (medicina)
 Sinodas
 Sinologija
 Sinonimas
@@ -47179,6 +47283,7 @@ Skleroderma
 Skliausčiai (Jurbarkas)
 Sklypas Kudirkos Naumiestis
 Skobiškės
+Skola (filmas)
 Skolinys
 Skomantai
 Skomantų piliakalnis
@@ -48547,6 +48652,7 @@ Stewart Downing
 Stibiriškė
 Stibis
 Stichija
+Stichinė nelaimė
 Stickers Vilnius
 Stickwitu
 Stiebas
@@ -48775,6 +48881,7 @@ Submarine
 Subotica
 Subrahmanyan Chandrasekhar
 Substancija
+Substratas
 Substratas Vedų sanskrite
 Subtropikai
 Subudajus
@@ -49116,6 +49223,7 @@ Svencelė
 Svencelės pievų botaninis-zoologinis draustinis
 Svencelės telmologinis draustinis
 Svencelės ąžuolas
+Svend Auken
 Svend Pedersen
 Svenska Dagbladet
 Sventainas
@@ -49620,6 +49728,7 @@ Tarlan Akhmedov
 Tarmė
 Tarnas (departamentas)
 Tarnas ir Garona
+Taros kanjonas
 Tarpanas
 Tarpeklis
 Tarpkontinentinė futsalo taurė
@@ -50027,6 +50136,7 @@ Temblekės akvedukas
 Temela
 Temidė
 Teminko katė
+Temista (palydovas)
 Tempera
 Temperatūra
 Temperatūros inversija
@@ -51177,6 +51287,7 @@ Truth Is a Beautiful Thing
 Trutnava
 Trušeliai
 Trygve Bøyesen
+Trygve Lie
 Trygve Magnus Haavelmo
 Trylika kolonijų
 Tryliktoji JAV Konstitucijos pataisa
@@ -51969,6 +52080,7 @@ Universal Records
 Universal Studios
 Universalas
 Universalioji dešimtainė klasifikacija
+Universally Speaking
 Universitet Vitebsk
 Universitetas
 Universitetas Klaipėda
@@ -51997,6 +52109,7 @@ Uoliniai kalnai
 Uolinta
 Uolinė pita
 Uolų raižiniai
+Uonbulizmas
 Uosininkai III (Lavoriškės)
 Uosis
 Uosis A. Mickevičiaus kieme
@@ -52459,6 +52572,7 @@ Vaclovas III
 Vaclovas Ivanauskas
 Vaclovas Jakučionis
 Vaclovas Juodpusis
+Vaclovas Kazimieras Gorskis
 Vaclovas Kosciuška
 Vaclovas Lakis
 Vaclovas Miknevičius
@@ -53324,6 +53438,7 @@ Vašuokėnai
 Vašuokėnų apylinkė
 Važiuoklė
 Veaceslav Gojan
+Vebliai
 Vecekrugo kopa
 Vecpiebalgos savivaldybė
 Vecpilio valsčius
@@ -54276,6 +54391,7 @@ Vikeda
 Vikicitatos
 Vikimedija
 Viking
+Viking 2
 Viking FK
 Vikingai
 Vikingur Gota
@@ -54409,6 +54525,7 @@ Vilijandas Bagdonavičius
 Vilimiškė (Palanga)
 Viliočiai
 Vilis
+Viliujaus plynaukštė
 Viliumas Malinauskas
 Vilius
 Vilius Armalas
@@ -54939,9 +55056,11 @@ Virpesiai
 Virpylai
 Virsliga
 Virsnis
+Virtsu
 Virtual Console
 Virtuali realybė
 Virtualus gaublys
+Virtuvinis kombainas
 Viru Nigula
 Viru Nigulos valsčius
 Virungos kalnai
@@ -56855,6 +56974,7 @@ Zadvožanai
 Zagaciai (Liublino vaivadija)
 Zagatala PFK
 Zagorskojė (Peleninkai)
+Zagorskojė (Zaumarai)
 Zagreb (krepšinio klubas)
 Zagrebas
 Zagrebo Cedevita
@@ -56996,6 +57116,7 @@ Zdrodi Starė
 Zdroje (Čarna Bialostockos valsčius)
 Zdrojė (Čarna Bialostockos valsčius)
 Zdzislovas Stanislovas Kostka Tiškevičius
+Zdzisław Balicki
 Ze'ev Friedman
 Zefyrinas
 Zelandija
@@ -57152,6 +57273,7 @@ Zoloturno kantonas
 Zoltán Horváth
 Zomba Label Group
 Zombie Birdhouse
+Zonenbergas
 Zoninis šachmatų turnyras
 Zooey Deschanel
 Zoologija
@@ -57188,6 +57310,7 @@ Zuzana Pranaitytė
 Zvartnoc Erewan
 Zvartnoco katedra
 Zvezda 2005 Perm
+Zvečanas
 Zvežineco Malai
 Zvežineco Velkiai
 Zviadas Gamsachurdija
@@ -57444,6 +57567,7 @@ vyksmas
 Čelanas
 Čeliabinskas
 Čeliabinsko sritis
+Čelniukų akmuo
 Čemiernikų valsčius
 Čempionatas
 Čempionų lenktynės
@@ -57645,6 +57769,7 @@ vyksmas
 Čornomorskas
 Čorovodė
 Čosnuvka
+Čostkuvas (ežeras)
 Čouganas
 Ču (upė)
 Ču dainos
@@ -57831,6 +57956,7 @@ vyksmas
 Šalčininkų rajonas
 Šalčininkų rajone
 Šalčininkų rajono savivaldybė
+Šalčininkų rajono savivaldybės taryba 2007–2011 m.
 Šalčininkų rajono savivaldybės taryba 2011–2015 m.
 Šalčininkų rajono savivaldybės viešoji biblioteka
 Šalčininkų seniūnija
@@ -58166,6 +58292,7 @@ vyksmas
 Šiaulių Šiauliai
 Šiaulių Šiauliai (krepšinio klubas)
 Šiaulių Šv. Jurgio bažnyčia
+Šiaulių Švč. Mergelės Marijos Nekaltojo Prasidėjimo bažnyčia
 Šiaulių šv. Jurgio bažnyčia
 Šiaulių žemė
 Šiaulių „Aušros“ muziejus
@@ -58483,6 +58610,7 @@ vyksmas
 Šidlovas (Mazovijos vaivadija)
 Šidlovo valsčius (Mazovijos vaivadija)
 Šienlaukio GS
+Šigejoši Močizuki
 Šiitai
 Šiitas
 Šiizmas
@@ -58661,6 +58789,7 @@ vyksmas
 Širvėnos seniūnija
 Šiuanmingas
 Šiukšeliai
+Šiukštoniai
 Šiuolaikiniai paukščiai
 Šiuolaikinis menas
 Šiuolaikinė penkiakovė
@@ -59531,6 +59660,7 @@ vyksmas
 Ščebros-Olšankos valsčius
 Ščecinas
 Ščecino vaivadija (1946-1975)
+Ščetininos kyšulys
 Ščečycai
 Ščitnas
 Ščiukiškės
@@ -60314,6 +60444,7 @@ vyksmas
 1103 m.
 111 m. pr. m. e.
 113 m.
+1142 m.
 116 m. pr. m. e.
 117 m. pr. m. e.
 12 m. pr. m. e.
@@ -61997,6 +62128,7 @@ vyksmas
 6-oji armija (Vermachtas)
 6000 m. pr. m. e.
 61 m. pr. m. e.
+612 m.
 622 m.
 624 m. pr. m. e.
 63 m. pr. m. e.
@@ -62597,6 +62729,7 @@ Afrikos Tautų Taurė
 Afrikos Tautų taurė
 Afrikos dviračių sporto konfederacija
 Afrikos futbolo konfederacija
+Afrikos konvencija dėl gamtos ir gamtos išteklių apsaugos
 Afrikos lengvosios atletikos konfederacija
 Afrikos lengvosios atletikos čempionatas
 Afrikos plaukimo federacija
@@ -62751,6 +62884,7 @@ Airėnų konglomeratas
 Aisakas
 Aischilas
 Aisonas
+Aisrizenveltas
 Aistmarės
 Aistė Šveckutė
 Aisčiai
@@ -62911,6 +63045,7 @@ Akmenynė
 Akmenynės ąžuolas
 Akmenys su jaučio pėda
 Akmenė
+Akmenė (Panevėžys)
 Akmenė III
 Akmenės SC
 Akmenės SC (moterys)
@@ -63290,6 +63425,7 @@ Albumas
 Albuminas
 Alburis-Vodonga
 Alcatel
+Alchančurto slėnis
 Alcheda
 Alchemija
 Alchesirasas
@@ -64325,6 +64461,7 @@ Anastasia Chaun
 Anastasia Voynova
 Anastasia Zueva
 Anastasija (filmas)
+Anastasija Kalmanovič
 Anastasijus IV
 Anastasiya Kapachinskaya
 Anastazija Sidarienė
@@ -65126,6 +65263,7 @@ Antežeriai (Kėdainiai)
 Anthony Albanese
 Anthony Blinken
 Anthony Carmona
+Anthony Davis
 Anthony Eden
 Anthony Ervin
 Anthony Head
@@ -65581,6 +65719,7 @@ Arianna Vanderpool
 Ariboflavinozė
 Aridoamerika
 Ariel Ortega
+Arielis Šaronas
 Arija (Persija)
 Arija Elksnė
 Arijai
@@ -66726,6 +66865,7 @@ Austrijos imperija
 Austrijos istorija
 Austrijos krepšinio lyga
 Austrijos lietuviai
+Austrijos politinė sistema
 Austrijos prezidentai
 Austrijos transportas
 Austrijos vyrų futbolo rinktinė
@@ -66791,6 +66931,7 @@ Aušrinė (žurnalas)
 Aušrinė Armonaitė
 Aušrinė Bikutė
 Aušros Vartų gatvė
+Aušros vartai
 Aušvicas
 Aušvicas II
 Aušvico koncentracijos stovykla
@@ -67372,6 +67513,7 @@ Balskų HE
 Balskų užtvanka
 Balso stygos
 Balstogė
+Balstogės Branickių rūmai
 Balstogės aglomeracija
 Balstogės apskrities herbas
 Balstogės apskritis
@@ -67405,6 +67547,7 @@ Balstogės Čarnos Šventųjų Moterų cerkvė
 Balstogės Čarnos Šventųjų Moterų parapija
 Balstogės-Gardino sritis
 Balstonas
+Balsupių tvenkinys
 Balsys (ežeras)
 Balsėnai
 Balta
@@ -67561,6 +67704,7 @@ Baltosios jūros - Baltijos mažoji rasė
 Baltosios jūros – Baltijos mažoji rasė
 Baltosios rožės tiltas
 Baltoskandija
+Baltpamūšio dvaras
 Baltramiejus Vaitkevičius Giedraitis
 Baltriškė
 Baltromiškės sentikių cerkvė
@@ -67734,6 +67878,7 @@ Barbagia
 Barbakoa kalbos
 Barbara Bouchet
 Barbara Ehrenreich
+Barbara Karinska
 Barbara Kingsolver
 Barbara McClintock
 Barbara Walters
@@ -67773,6 +67918,7 @@ Baritas (upė)
 Baritonas
 Barišev
 Barkeliai
+Barkeliai (Imbarė)
 Barkiškės (Vilnius)
 Barkuškiai (Anykščiai)
 Barnardo žvaigždė
@@ -67900,6 +68046,7 @@ Baudieriškis
 Baudinių serija
 Baudžiamasis procesas
 Baudžiamoji byla
+Baudžiamoji politika
 Baudžiamoji teisė
 Baudžiamoji teisėtyra
 Baudžiamojo proceso teisė
@@ -68538,7 +68685,9 @@ Bezvola
 Beşiktaş J.K.
 Beşiktaş JK
 Bešankovičų rajonas
+Bešaras
 Bešmetas
+Bežemniai
 Bežos aviacijos bazė
 Bežtų kalba
 Bežunas
@@ -68570,6 +68719,7 @@ Biatlonas olimpinėse žaidynėse
 Bibcode
 Biblija
 Biblioteka
+Bibliotekininkystė
 Bibopas
 Bida Bint Saudas
 Bidvest Wits FC
@@ -69286,6 +69436,7 @@ Brangakmenis
 Branica Suchovolska
 Branislav Ivanović
 Brankaleonės armija
+Branko Ćopić
 Brastos apskritis
 Brastos apygarda
 Brastos taika
@@ -70359,6 +70510,7 @@ Ceikiniai
 Ceikinių Kipro Petrausko pagrindinė mokykla
 Ceikinių seniūnija
 Ceikinių valsčius
+Ceikiškė (Ceikiniai)
 Ceilonas 1972 m. vasaros olimpinėse žaidynėse
 Ceklis
 Celal Bayar
@@ -70492,6 +70644,7 @@ Chameleono žaidimai
 Chamois Niort FC
 Chan Ulas
 Chandžaras
+Chanevalis
 Chang Gao
 Change
 Change (Sugababes albumas)
@@ -71327,6 +71480,7 @@ Dalius Ribokas
 Dalius Staleliūnas
 Dalius Žygelis
 Dalmatai
+Dalmatija (Romos provincija)
 Dalslandas
 Dalvičo paveikslų galerija
 Dalyvis (gramatika)
@@ -71958,6 +72112,7 @@ Degesių pagrindinė mokykla
 Degionys (Anykščiai)
 Degliškė
 Degsnio dvaras
+Degsnių valsčius
 Degsnės (Merkinė)
 Degsnės maumedynas
 Degsnės miško maumedis
@@ -72275,6 +72430,7 @@ Didysis diktatorius
 Didysis germanų reichas
 Didysis kirtis (tenisas)
 Didysis moliūgas
+Didysis nilinis ešerys
 Didysis prūsų sukilimas
 Didysis riftinis slėnis
 Didysis tautų kraustymasis
@@ -73337,6 +73493,7 @@ Dusetos (gyvenvietė)
 Dusetų dvaras
 Dusetų rajonas
 Dusetų seniūnija
+Dusetų skulptūrų parkas
 Dusia
 Dusios
 Dusios gyvenvietė
@@ -73360,6 +73517,7 @@ Dvarininkinis vietovardis
 Dvariukų tvenkinys
 Dvariūkai
 Dvarninkai
+Dvaro ežeras
 Dvaroniškis
 Dvarviečiai
 Dvarviečiai (Gaurė)
@@ -75498,6 +75656,7 @@ FC Timisoara
 FC Tirol Innsbruck
 FC Tokyo
 FC Ton Pentre
+FC Torinese
 FC Torpedo Kutaisi
 FC Torpedo Moscow
 FC Toulouse
@@ -75768,6 +75927,7 @@ FK Mostiškės
 FK Nadruvis Šakiai
 FK Naftan Novopolock
 FK Napredak Kruševac
+FK Napredok Kičevo
 FK Nasaf
 FK Naujieji Verkiai
 FK Nautica Klaipėda
@@ -77043,6 +77203,7 @@ GP-25
 GP3 serija
 GS Īraklī́s
 GSP Stadium
+Ga (tauta)
 Gabe Muoneke
 Gabija Galvydytė
 Gabija Valiukevičiūtė
@@ -77332,6 +77493,7 @@ Gargždų Pramogos–SC
 Gargždų dekanatas
 Gargždų seniūnija
 Gargždų Šv. arkangelo Mykolo bažnyčia
+Gargždų šv. arkangelo Mykolo bažnyčia
 Garis Kasparovas
 Gariūnai
 Gariūnai Vilnius
@@ -77343,6 +77505,7 @@ Garliavos seniūnija
 Garmas
 Garmišas-Partenkirchenas
 Garniai
+Garniai (Gardinas)
 Garnik Ayrapetyan
 Garo malūnas
 Garo mašina
@@ -77390,6 +77553,7 @@ Gasčiūnai
 Gasčiūnų valsčius
 Gatautiškė
 Gataučiai
+Gataučiai (reikšmės)
 Gataučių seniūnija
 Gatumdug
 Gatuno ežeras
@@ -77537,6 +77701,7 @@ Gegužiai (Vilkaviškis)
 Gegužiai (Šakiai)
 Gegužinė (Panevėžys)
 Gegužinės telmologinis draustinis
+Gegužkalnis
 Gegužė
 Gegužės
 Gegužės 1
@@ -78253,6 +78418,7 @@ Giruliai
 Girulių geležinkelio stotis
 Girulių miškas
 Girvainiai
+Girvalakiai
 Girėliškiai (reikšmės)
 Girėliškiai A
 Girėliškiai B
@@ -79196,6 +79362,7 @@ Gvaikurų kalbos
 Gvaimiai
 Gvaji Hanaso nacionalinis parkas
 Gvanachuatas (miestas)
+Gvaporė
 Gvarajoso provincija
 Gvaraniai
 Gvaranių kalba
@@ -79257,6 +79424,7 @@ Gyvatnešis
 Gyvatvorė
 Gyvatė (astronomija)
 Gyvatės
+Gyvatės apkabinimas
 Gyvavedis driežas
 Gyvenimas
 Gyvenimo ciklo hipotezė
@@ -79940,6 +80108,7 @@ Hidrologija
 Hidroplanas
 Hidrotechnika
 Hidroterminė versmė
+Hidžazo rialas
 Hienos
 Hierapolis
 Hierarchija
@@ -80233,6 +80402,7 @@ Hull City A.F.C.
 Humajūno kapavietė
 Human
 Humanitariniai mokslai
+Humanitarinė pagalba
 Humanizmas
 Humanoidas (filmas)
 Humbaba
@@ -80539,6 +80709,7 @@ Ikast FS
 Ikastas
 Ikelengi apskritis
 Ikikolumbinė Amerika
+Ikis (sala)
 Ikisokratikai
 Ikona
 Ikona (religija)
@@ -81149,6 +81320,7 @@ Islam Karimov
 Islamas
 Islamas Karimovas
 Islamo aukso amžius
+Islamo fundamentalizmas
 Island Def Jam Music Group
 Island Records
 Islandai
@@ -81627,6 +81799,7 @@ Izidoriaus Navidansko parkas
 Izidorius Kraunaitis
 Izidorius Romeris
 Izmajilas
+Izniko keramika
 Izobutanas
 Izolda Pašakinskienė
 Izoliacionizmas
@@ -81967,6 +82140,7 @@ Jakaičiai (Šilalė)
 Jakaičių apylinkė
 Jake LaRavia
 Jake Tsakalidis
+Jakelių apylinkė
 Jakiškių dvaras
 Jakob Busk
 Jakob Pöltl
@@ -82522,6 +82696,7 @@ Jerzy Engel
 Jerzy Lalewicz
 Jerzy Ochmański
 Jesenicha
+Jesionove Gurų miškų draustinis
 Jesse Williams
 Jessica Alba
 Jessica Ayers
@@ -83984,6 +84159,7 @@ Juozas Nagevičius
 Juozas Namikas
 Juozas Nekrošius
 Juozas Olekas
+Juozas Olšauskas
 Juozas Otonas Širvydas
 Juozas Pajaujis-Javis
 Juozas Paknys
@@ -84494,6 +84670,7 @@ KSK Kultus Kaunas
 KSS Klaipėda
 KSS Telšiai
 KTU (krepšinio komanda)
+KTU inžinerijos licėjus
 KV Kortrijk
 KV Mechelen
 KV Oostende
@@ -85023,6 +85200,7 @@ Kaniukų tiltas
 Kaniūkai (Babtai)
 Kaniūkai (Kaniava)
 Kaniūkai (reikšmės)
+Kaniūkai I
 Kaniūkų akmuo
 Kaniūkų apylinkė
 Kaniūkų apylinkė (Daugai)
@@ -85320,6 +85498,7 @@ Karlas fon Mekas
 Karlas Černis
 Karlas Špiteleris
 Karlheinz Stockhausen
+Karlina
 Karlis Auzanas
 Karlis Baluodis
 Karlis Ulmanis
@@ -85791,6 +85970,7 @@ Kauno-Klaipėdos stačiatikių dekanatas
 Kaunonai
 Kaupiai
 Kausteikliai
+Kautra
 Kauzatyvas
 Kaučiukas
 Kaušai
@@ -86256,6 +86436,7 @@ Kemis
 Kempa (Palenkės Bialos apskritis)
 Kemptenas
 Kempė (upė)
+Kemsinis
 Ken Tyrrell
 Kenan Bajramović
 Kenan Evren
@@ -86506,6 +86687,7 @@ Kijevo-Voronežo geležinkelis
 Kijevščina
 Kijosė
 Kijoviecas (Palenkės Bialos valsčius)
+Kijoviecas (Zalesių valsčius)
 Kijės valsčius
 Kikiliniai
 Kikilis
@@ -86563,6 +86745,7 @@ Kinect Sports
 Kinetinis menas
 Kinetinė energija
 Kinetoskopas
+Kinezinas
 King Digital Entertainment
 King's Park FC
 Kingenas ap Maigas
@@ -86572,9 +86755,11 @@ Kingsbridžas
 Kingsglaive: Final Fantasy XV
 Kingstaunas
 Kingstonas (Kanada)
+Kingstonas (Norfolkas)
 Kingstono universitetas
 Kingsviras
 Kingu
+Kingyčiai
 Kinija
 Kinija (regionas)
 Kinija (reikšmės)
@@ -87332,6 +87517,7 @@ Komotėnė
 Kompaktinis automobilis
 Kompaktinė plokštelė
 Kompasas
+Kompensacija (judesys)
 Kompiliacija (albumas)
 Kompiuterija
 Kompiuteriniai sporto žaidimai
@@ -87532,6 +87718,7 @@ Konsulinės įstaiga
 Kontai (Lomžos apskritis)
 Kontai (Palenkės Bialos apskritis)
 Kontautai
+Konteineris
 Kontinentinis kongresas
 Kontinentinė Amerikos vandenskyra
 Kontinentinė armija
@@ -87624,6 +87811,7 @@ Kornelia Marek
 Kornelija Riliškytė
 Kornelijus Skeivys
 Kornet
+Kornevilio varpai
 Kornica Kolonija
 Kornicenas
 Kornvalis
@@ -87945,6 +88133,7 @@ Kretingalė
 Kretingalės seniūnija
 Kretingos Viešpaties Apreiškimo Švč. Mergelei Marijai bažnyčia
 Kretingos apskritis
+Kretingos bažnyčios šventoriaus koplyčia
 Kretingos dvaras
 Kretingos geležinkelio stotis
 Kretingos miesto seniūnija
@@ -88672,6 +88861,7 @@ Kvantinės elektronikos katedra
 Kvapas
 Kvapioji akacija
 Kvapusis moliūgas
+Kvapusis notofagas
 Kvapusis rozmarinas
 Kvarcas
 Kvarcinis smėlis
@@ -88734,6 +88924,7 @@ Kylio įlanka
 Kylis
 Kyoko Iwasaki
 Kyoto Sanga FC
+Kypsarės švyturys
 Kytira
 Kyudo
 Kyviškių GS
@@ -88755,6 +88946,7 @@ Kārlis Reisons
 Kārlis Zāle
 Ką jie padarė mūsų dukterims?
 Ką tu veikei kare, tėti?
+Kėbliškiai
 Kėdainiai
 Kėdainių Atžalyno gimnazija
 Kėdainių Aušros sporto ir sveikatinimo pagrindinė mokykla
@@ -90094,6 +90286,7 @@ Leopoldas Arendsas
 Leopoldas II Belgas
 Leopoldas Kumpikas
 Leopoldas Radžiūnas
+Leopoldas Šileikis
 Leovos rajonas
 Lepanto mūšis
 Lepelio apskritis
@@ -90819,6 +91012,7 @@ Lietuvos imtynių federacija
 Lietuvos ir Baltarusijos komunistų partija (bolševikai)
 Lietuvos ir Namibijos santykiai
 Lietuvos ir Rusijos santykiai
+Lietuvos ir Senegalo santykiai
 Lietuvos ir Vokietijos santykiai
 Lietuvos ir lietuvių kilmės teorijos
 Lietuvos irklavimo federacija
@@ -91177,6 +91371,7 @@ Likšai
 Lil Pump
 Lil Wayne
 Lilehameris
+Lileikėnai
 Lileikėnų akmuo
 Lilija Skovronskienė
 Lilija Stanislova Kudirkienė
@@ -91499,6 +91694,7 @@ Liudvikas I (Olandija)
 Liudvikas I Vengras
 Liudvikas II
 Liudvikas II (Olandija)
+Liudvikas II (reikšmės)
 Liudvikas Jakavičius
 Liudvikas Kimtys
 Liudvikas Kšivickis
@@ -91927,6 +92123,7 @@ Lošiai
 Lošimas be kozirių
 Lošimo automatas
 Lošėjų miestas
+Loṙi FC
 Loṙi Vanajor
 Lrt.lt
 Lrytas.lt
@@ -92322,6 +92519,7 @@ MTK Hungaria Budapest
 MTK Hungária FC
 MTK-VM Budapest
 MTU Aero Engines
+MTV Afrikos muzikos apdovanojimai 2009
 MTV Europos muzikos apdovanojimai
 MTV Europos muzikos apdovanojimai 2006
 MTV Europos muzikos apdovanojimai 2007
@@ -95139,6 +95337,7 @@ Modernistas
 Modernizmas
 Modernizmo architektūra
 Modernusis menas
+Modeselektor
 Modesta Justė Morauskaitė
 Modestas Musorgskis
 Modestas Paulauskas
@@ -95240,6 +95439,7 @@ Molde FK
 Moldova
 Moldovafilm
 Moldovos futbolo asociacija
+Moldė
 Molekulinė biologija
 Molekulinė grupė
 Molekulė
@@ -95446,6 +95646,7 @@ Morta Zauniūtė
 Mortal Kombat
 Mortal Kombat II
 Morton Greenock
+Mortyra
 Morungo apskritis
 Morėjus
 Morškuvas
@@ -95685,6 +95886,7 @@ Mycobacteria
 Mycobacterium avium
 Mycobacterium tuberculosis
 Mykolajivo sritis
+Mykolas (vardas)
 Mykolas Alekna
 Mykolas Angelas Šulcas
 Mykolas Antanas Radvila
@@ -95801,6 +96003,7 @@ Mėguva
 Mėkla (Kaunas)
 Mėlyna
 Mėlynasis drakonas
+Mėlynasis jūrų chirurgas
 Mėlynasis raitelis
 Mėlynbarzdžio vaikai
 Mėlyngurklė
@@ -95813,6 +96016,7 @@ Mėlynsparnė apsiuva
 Mėlynė
 Mėnulio kalendorius
 Mėnulio sala
+Mėnulio vaikai
 Mėnulis
 Mėnuo
 Mėrsrago savivaldybė
@@ -96945,6 +97149,7 @@ Nikola Rađen
 Nikola Tesla
 Nikolai Severtzov
 Nikolai Yanush
+Nikolajus Andrejevas
 Nikolajus Avenarijus
 Nikolajus Berdiajevas
 Nikolajus Berežkovas
@@ -97490,6 +97695,7 @@ Obelių seniūnija
 Obelninkai
 Obelninkėliai
 Obelytės gamtinis rezervatas
+Obelų Rago trylikamienis kadagys
 Obera
 Oberhofas
 Oberostas
@@ -97855,6 +98061,7 @@ Opegardas
 Opegiordas
 Open Society
 Open-mid back rounded vowel
+OpenClassrooms
 OpenSea
 Opera
 Operacija Barbarosa
@@ -97887,6 +98094,7 @@ Oranžinė
 Oranžinė revoliucija
 Oranžo-Nasau
 Oranžo-Nassau
+Orava
 Orchonas
 Orchono slėnis
 Orchuvekas (Liublino vaivadija)
@@ -98018,6 +98226,7 @@ Osinkai (reikšmės)
 Osipovičiai
 Oskar Bye
 Oskaras
+Oskaras Biuchleris
 Oskaras Buchleris
 Oskaras I
 Oskaras Koršunovas
@@ -98048,6 +98257,7 @@ Osterodės apskritis
 Ostfalijos tarmė
 Ostinas
 Ostino Spurs
+Ostioras
 Ostland
 Ostlandas
 Ostlando tarmė
@@ -98378,6 +98588,7 @@ Pagynė
 Pagėgiai
 Pagėgių apskritis
 Pagėgių savivaldybė
+Pahango sultonatas
 Paide Linnameeskond
 Paidė
 Paieškos sistema
@@ -99372,6 +99583,7 @@ Paulis Klė
 Paulis Putninis
 Paulis Rusdorfas
 Paulis fon Hindenburgas
+Pauliukėnas
 Paulius
 Paulius Augūnas
 Paulius Bochenas
@@ -99417,11 +99629,13 @@ Pavandenės pagrindinė mokykla
 Pavandenės pavietas
 Pavandenės valsčius
 Pavao Pervan
+Pavardaunio tvenkinys
 Pavardė
 Pavardė (viensėdis)
 Pavartyčiai
 Pavarų dėžė
 Pavasaris
+Pavašuokiai I
 Pavehas
 Paveisiejų pušis
 Paveisiejų trikamienis ąžuolas
@@ -99609,6 +99823,7 @@ Pelagra
 Pelaičiai
 Peldžiai
 Pelecaniformes
+Peleckis
 Peledujus
 Pelekas
 Pelekiškė
@@ -99765,6 +99980,7 @@ Perry Beadle T.1
 Persai
 Perselio kalnai
 Persepolis
+Perseveracija
 Persija
 Persija (regionas)
 Persijos įlanka
@@ -99789,6 +100005,7 @@ Persų įlankos karas
 Pertako miško biosferos rezervatas
 Pertako ornitologinis draustinis
 Pertas
+Pertas (Škotija)
 Pertas ir Kinrosas
 Perth Glory FC
 Pertinakas
@@ -99916,6 +100133,7 @@ Petras Korkutis
 Petras Kraujalis
 Petras Kriaučiūnas
 Petras Kubertavičius
+Petras Kupčiūnas
 Petras Kurlavičius
 Petras Kutka
 Petras Lapinskas
@@ -99967,6 +100185,7 @@ Petras Čėsna
 Petras Šatkus
 Petras Šileikis
 Petras Škėlovas
+Petrauskai
 Petrauskynė
 Petrašiūnai
 Petrašiūnai (Pakruojis)
@@ -100372,6 +100591,7 @@ Pilionių piliakalnis
 Piliorius
 Pilis
 Piliukai
+Piliumas
 Piliūra
 Pilių parko kanadinė tuopa
 Pilių parko liepų grupė
@@ -100407,6 +100627,7 @@ Pilvingiai
 Pilvingio ornitologinis draustinis
 Pilviškiai
 Pilypas Frizijus
+Pilypas I
 Pilypas II
 Pilypas II (Makedonija)
 Pilypas II (Makedonijos valdovas)
@@ -100955,6 +101176,7 @@ Politics
 Politika
 Politinė filosofija
 Politinė partija
+Politinė socializacija
 Politologija
 Polivinilacetatas
 Polizei Chemnitz
@@ -101538,6 +101760,7 @@ Poznanės Adomo Mickevičiaus universitetas
 Poznanės Didžioji Kunigaikštystė
 Poznanės Didžioji kunigaikštystė
 Poznanės didysis kunigaikštis
+Poznanės ekonomikos universitetas
 Poznanės provincija
 Poznanės vaivada
 Poznanės vaivadija (1945-1975)
@@ -103621,6 +103844,7 @@ Rentgeno aparatas
 Rentgeno spinduliai
 Renzo Piano
 René Cassin
+René Guénon
 René Joensen
 Reparacija
 Reparticija
@@ -104849,6 +105073,7 @@ Rusios kunigaikštystės
 Rusios vaivada
 Rusios vaivadija
 Rusiška virtuvė
+Rusiškasis eršketas
 Ruskiai
 Ruslan Khakymov
 Ruslanas Ponomariovas
@@ -105086,6 +105311,7 @@ Rūdninkų girios biosferos poligonas
 Rūdninkų kraštovaizdžio draustinis
 Rūdninkų Švč. Trejybės bažnyčia
 Rūgštis
+Rūgštusis cukrus
 Rūgščioji garcinija
 Rūjiena
 Rūjienos savivaldybė
@@ -105947,6 +106173,7 @@ Saul Friedländer
 Saul Hudson
 Sauliniai paukščiai
 Saulininkas Šiauliai
+Saulius Adomauskas
 Saulius Ambrulevičius
 Saulius Antanas Juršėnas
 Saulius Arlauskas
@@ -106758,6 +106985,7 @@ Siaubo žanras
 Siauragalviai botai
 Siauragalviai rombai
 Siaurakakčiai botai
+Siauralapis gaurometis
 Siauralapis gencijonas
 Siauralapis kakavmedis
 Siavongos apskritis
@@ -107102,6 +107330,7 @@ Siniaukos valsčius
 Sinjoros aikštė
 Sinkavangas
 Sinkleris Luisas
+Sinkopė (medicina)
 Sinodas
 Sinologija
 Sinonimas
@@ -107364,6 +107593,7 @@ Skleroderma
 Skliausčiai (Jurbarkas)
 Sklypas Kudirkos Naumiestis
 Skobiškės
+Skola (filmas)
 Skolinys
 Skomantai
 Skomantų piliakalnis
@@ -107409,6 +107639,7 @@ Skroblaus rezervatas
 Skroblaus versmės
 Skroblininkai
 Skroblus
+Skroblus (reikšmės)
 Skroblynas
 Skrodimas
 Skrodzkiai
@@ -108732,6 +108963,7 @@ Stewart Downing
 Stibiriškė
 Stibis
 Stichija
+Stichinė nelaimė
 Stickers Vilnius
 Stickwitu
 Stiebas
@@ -108960,6 +109192,7 @@ Submarine
 Subotica
 Subrahmanyan Chandrasekhar
 Substancija
+Substratas
 Substratas Vedų sanskrite
 Subtropikai
 Subudajus
@@ -109301,6 +109534,7 @@ Svencelė
 Svencelės pievų botaninis-zoologinis draustinis
 Svencelės telmologinis draustinis
 Svencelės ąžuolas
+Svend Auken
 Svend Pedersen
 Svenska Dagbladet
 Sventainas
@@ -110213,6 +110447,7 @@ Temblekės akvedukas
 Temela
 Temidė
 Teminko katė
+Temista (palydovas)
 Tempera
 Temperatūra
 Temperatūros inversija
@@ -111356,6 +111591,7 @@ Trumpiškiai (Tauragė)
 Truong Chinh
 Trupialiniai
 Truskava
+Truskavos apylinkė
 Truskavos seniūnija
 Truskolasai
 Trusted Platform Module
@@ -111363,6 +111599,7 @@ Truth Is a Beautiful Thing
 Trutnava
 Trušeliai
 Trygve Bøyesen
+Trygve Lie
 Trygve Magnus Haavelmo
 Trylika kolonijų
 Tryliktoji JAV Konstitucijos pataisa
@@ -111498,6 +111735,7 @@ Turkijos ekonomika
 Turkijos futbolo federacija
 Turkijos futbolo klubas
 Turkijos futbolo sistema
+Turkijos futbolo varžybos 2011–2012 m.
 Turkijos futbolo čempionatas
 Turkijos geografija
 Turkijos krepšinio lyga
@@ -111938,6 +112176,7 @@ Ubliko ežeras
 Ubsu Nuro dubuma
 Ubsu Nūro dubuma
 Ubychų kalba
+Uchvala
 Ucieka
 Uciekos geomorfologinis draustinis
 Uciekos skardis
@@ -112155,6 +112394,7 @@ Universal Records
 Universal Studios
 Universalas
 Universalioji dešimtainė klasifikacija
+Universally Speaking
 Universitet Vitebsk
 Universitetas
 Universitetas Klaipėda
@@ -112646,6 +112886,7 @@ Vaclovas III
 Vaclovas Ivanauskas
 Vaclovas Jakučionis
 Vaclovas Juodpusis
+Vaclovas Kazimieras Gorskis
 Vaclovas Kosciuška
 Vaclovas Lakis
 Vaclovas Miknevičius
@@ -112682,6 +112923,7 @@ Vadžrajana
 Vaflis
 Vagaras
 Vagaro savivaldybė
+Vagitas Alekperovas
 Vagių mokykla
 Vagių mokykla II
 Vagonas
@@ -113346,6 +113588,7 @@ Vartotojiškumas
 Vartotojo patyrimas
 Vartotojų lūkesčiai
 Varuna
+Varvarinas
 Varviškė
 Varytuvas
 Varzeš-e pahlavani
@@ -113511,6 +113754,7 @@ Vašuokėnai
 Vašuokėnų apylinkė
 Važiuoklė
 Veaceslav Gojan
+Vebliai
 Vecekrugo kopa
 Vecpiebalgos savivaldybė
 Vecpilio valsčius
@@ -113785,6 +114029,7 @@ Velžio seniūnija
 Venantas Lašinis
 Vencavų dvaras
 Venceslausas
+Venclovas Agripa
 Vencloviškiai (Kėdainiai)
 Vendai
 Vendeno vaivada
@@ -114463,6 +114708,7 @@ Vikeda
 Vikicitatos
 Vikimedija
 Viking
+Viking 2
 Viking FK
 Vikingai
 Vikingur Gota
@@ -114596,6 +114842,7 @@ Vilijandas Bagdonavičius
 Vilimiškė (Palanga)
 Viliočiai
 Vilis
+Viliujaus plynaukštė
 Viliumas Malinauskas
 Vilius
 Vilius Armalas
@@ -115126,6 +115373,7 @@ Virpesiai
 Virpylai
 Virsliga
 Virsnis
+Virtsu
 Virtual Console
 Virtuali realybė
 Virtualus gaublys
@@ -115305,6 +115553,7 @@ Vivian Cheruiyot
 Vivian Ikechukwu
 Vivienne Westwood
 Viz Media
+Vizbaras
 Vizgaudžių akmuo Karstas
 Vizigotai
 Vizitinė kortelė
@@ -117043,6 +117292,7 @@ Zadvožanai
 Zagaciai (Liublino vaivadija)
 Zagatala PFK
 Zagorskojė (Peleninkai)
+Zagorskojė (Zaumarai)
 Zagreb (krepšinio klubas)
 Zagrebas
 Zagrebo Cedevita
@@ -117184,6 +117434,7 @@ Zdrodi Starė
 Zdroje (Čarna Bialostockos valsčius)
 Zdrojė (Čarna Bialostockos valsčius)
 Zdzislovas Stanislovas Kostka Tiškevičius
+Zdzisław Balicki
 Ze'ev Friedman
 Zefyrinas
 Zelandija
@@ -117377,6 +117628,7 @@ Zuzana Pranaitytė
 Zvartnoc Erewan
 Zvartnoco katedra
 Zvezda 2005 Perm
+Zvečanas
 Zvežineco Malai
 Zvežineco Velkiai
 Zviadas Gamsachurdija
@@ -117633,6 +117885,7 @@ vyksmas
 Čelanas
 Čeliabinskas
 Čeliabinsko sritis
+Čelniukų akmuo
 Čemiernikų valsčius
 Čempionatas
 Čempionų lenktynės
@@ -117834,6 +118087,7 @@ vyksmas
 Čornomorskas
 Čorovodė
 Čosnuvka
+Čostkuvas (ežeras)
 Čouganas
 Ču (upė)
 Ču dainos
@@ -118020,6 +118274,7 @@ vyksmas
 Šalčininkų rajonas
 Šalčininkų rajone
 Šalčininkų rajono savivaldybė
+Šalčininkų rajono savivaldybės taryba 2007–2011 m.
 Šalčininkų rajono savivaldybės taryba 2011–2015 m.
 Šalčininkų rajono savivaldybės viešoji biblioteka
 Šalčininkų seniūnija
@@ -118355,6 +118610,7 @@ vyksmas
 Šiaulių Šiauliai
 Šiaulių Šiauliai (krepšinio klubas)
 Šiaulių Šv. Jurgio bažnyčia
+Šiaulių Švč. Mergelės Marijos Nekaltojo Prasidėjimo bažnyčia
 Šiaulių šv. Jurgio bažnyčia
 Šiaulių žemė
 Šiaulių „Aušros“ muziejus
@@ -118672,6 +118928,7 @@ vyksmas
 Šidlovas (Mazovijos vaivadija)
 Šidlovo valsčius (Mazovijos vaivadija)
 Šienlaukio GS
+Šigejoši Močizuki
 Šiitai
 Šiitas
 Šiizmas
@@ -118850,6 +119107,7 @@ vyksmas
 Širvėnos seniūnija
 Šiuanmingas
 Šiukšeliai
+Šiukštoniai
 Šiuolaikiniai paukščiai
 Šiuolaikinis menas
 Šiuolaikinė penkiakovė
@@ -119720,8 +119978,10 @@ vyksmas
 Ščebros-Olšankos valsčius
 Ščecinas
 Ščecino vaivadija (1946-1975)
+Ščetininos kyšulys
 Ščečycai
 Ščitnas
+Ščiugoras
 Ščiukiškės
 Ščiutinas
 Ščodruchai (Suvalkų apskritis)

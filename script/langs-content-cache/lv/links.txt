@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Metāli
-Špolas rajons
-Zgoželeca
-Jānis Ķīsis
-El Sadar Stadium
-Smadzeņu stumbrs
-Dižgrāvis (Irbes pieteka)
-Mērenā josla
-Bathory (grupa)
-Komēta
-SOS bērnu ciemati Latvijā
-RED aģenti: atvaļināti un sevišķi bīstami
-Klasicisma literatūra
-Siguldas bobsleja un kamaniņu trase
-Krākas avoti
-Mazupe (Cieceres ezera pieteka)
-Šiori Mijake
-Teilors Hols
-Haralds Zilzobis
-Daniels Bertoni
-Lagrēķins
-Jevgeņijs Ustinskovs
-Olomoucas Palacka universitāte
-Braiens Dumolins
-Tā dejo Latvijā
-Andreja Saharova iela
-Sarma
-Vilkupe (Pilskalnes pagasts)
-Bobijs Klārks
-Lilienfelde (Kalkūnes pagasts)
+Ēva Karakaša
+Aiviekstes iela (Rīga)
+Marija Anna Mocarte
+Varang Nord
+Georgs Vilhelms Rihmanis
+Peļļi
+Pleskodāles iela
+Strupļi
+Kāpvālas kratons
+Honolulu
+Lībenvalde
+Ratnieki (Čornajas pagasts)
+Veļimirs Hļebņikovs
+Kalsnavas pils
+Rozā pantera 2
+Anna Maja Kazariana
+Ostupe (Usmas ezers)
+Loke
+Dzeguzes
+Gružupīte (Vijas pieteka)
+Trigeris (DBPS)
+Slāvi
+Lukāšs Hrādeckis
+ASM
+Melnā bērzubeka
+Čempiņa
+Sūnupe
+Kārlis Freimanis (aktieris)
+Hinneja
+Volferts Gerhards fon Rādens
 "Baltijas federācija" (pretestības grupa)
 "Brocēnu sporta centra" ledus halle
 "Deizijas kundzes šoferis"
@@ -262,6 +262,7 @@ $50SAT
 11. šaha olimpiāde
 110. autobusu maršruts (Ščecina)
 111. autobusu maršruts (Ščecina)
+112. gads
 1120. gads
 1125. gads
 1127. gads
@@ -1784,6 +1785,7 @@ $50SAT
 1983.—1984. gada Eiropas kausa sezona
 1983.—1984. gada NBA sezona
 1983.—1984. gada Vācijas futbola Bundeslīgas sezona
+1984 (nozīmju atdalīšana)
 1984. gada ASV prezidenta vēlēšanas
 1984. gada Brazīlijas Grand Prix
 1984. gada Dakaras rallijs
@@ -6319,6 +6321,7 @@ Aleksandra Fjodorovna (Nikolaja II sieva)
 Aleksandra Gorjačkina
 Aleksandra Grīna bulvāris
 Aleksandra I sala
+Aleksandra Kollontaja
 Aleksandra Kolontaja
 Aleksandra Kosteņuka
 Aleksandra Laimes iela
@@ -6456,6 +6459,7 @@ Aleksandrs Milerāns
 Aleksandrs Millerāns
 Aleksandrs Mirskis
 Aleksandrs Misurkins
+Aleksandrs Morfovs
 Aleksandrs Morozevičs
 Aleksandrs Neibergs
 Aleksandrs Neibergs (deputāts)
@@ -7676,6 +7680,7 @@ Andrejs Vītols
 Andrejs Zaharovs
 Andrejs Zaķis (nozīmju atdalīšana)
 Andrejs Zaķis (politiķis)
+Andrejs Zeidaks
 Andrejs Čerkasovs
 Andrejs Česnokovs
 Andrejs Čečans
@@ -9079,6 +9084,7 @@ Artjoms Vihrovs
 Artjoms Vitkins
 Artjoms Vorobjovs
 Artjoms Švarjovs
+Artjuhins
 Artjums Zamullo
 Arts Kernijs
 Arts Laflērs
@@ -9705,6 +9711,7 @@ Audible
 Audio
 Audio un video interfeisi un konektori
 Audions
+Audioslave
 Audris
 Audriņu pagasts
 Audrupi
@@ -11348,6 +11355,7 @@ Batarāgi
 Batcecega Sorondzonboldīna
 Bateckas rajons
 Baterijas iela (Rīga)
+Bathory (grupa)
 Batists Plankārts
 Batmanas ils
 Batsú-CS1
@@ -12700,6 +12708,7 @@ Bobijs Džuličs
 Bobijs Fišers
 Bobijs G.
 Bobijs Kanavale
+Bobijs Klārks
 Bobijs Moinahans
 Bobijs Morrovs
 Bobijs Raiens
@@ -12946,6 +12955,7 @@ Borbaļu ciems
 Borderline
 Bordo
 Bordo "Girondins"
+Bordo I universitāte
 Bordova
 Bordžomi
 Borherta muiža
@@ -13154,6 +13164,7 @@ Braiena Skarija
 Braienna Rollinsa-Maknīla
 Braiens Belovs
 Braiens Boru
+Braiens Dumolins
 Braiens Epstains
 Braiens Faulers
 Braiens Forbss
@@ -13312,6 +13323,7 @@ Brekins Meijers
 Brekšu iela (Rīga)
 Brekšu muiža
 Bremzes
+Bremzes kurpe (dzelzceļš)
 Brencis
 Brenda Bletina
 Brenda Frikere
@@ -13399,6 +13411,7 @@ Brisele
 Brisele (filma)
 Briseles kāposti
 Bristole
+Bristoles līcis (Lielbritānija)
 Brita Sigurnija
 Briti
 Briti (ķelti)
@@ -14268,6 +14281,7 @@ Bērziņi (Raiskuma pagasts)
 Bērziņš (Cenu pagasts)
 Bērzkalnes iela (Rīga)
 Bērzkalnes pagasts
+Bērzkalni
 Bērzkalnieku ciems
 Bērzkrogs (Veselavas pagasts)
 Bērzlapu iela (Rīga)
@@ -14276,6 +14290,7 @@ Bērzones ciems
 Bērzpils
 Bērzpils iela (Rīga)
 Bērzpils pagasts
+Bērzu ezers (Ērģemes pagasts)
 Bērzu iela (Alūksne)
 Bērzupe
 Bērzupe (Dubnas pieteka)
@@ -15606,6 +15621,7 @@ DVB-S2
 DVB-SH
 DVB-T
 DVB-T2
+DX 200
 Da Vinci (pavadonis)
 Daan Breeuwsma
 Dabaru ezers
@@ -15701,6 +15717,7 @@ Dahšteins
 Daiana Silversa
 Daiana Vorena
 Daibe (Stalbes pagasts)
+Daibes
 Daiei Film
 Daiena Kerola
 Daiena Kītone
@@ -15940,6 +15957,7 @@ Daniels Amokači
 Daniels Balodis
 Daniels Beilijs
 Daniels Bekono
+Daniels Bertoni
 Daniels Blūmbergs
 Daniels Bovē
 Daniels Bēms
@@ -15977,6 +15995,7 @@ Danila Patijčuks
 Danilo Di Luka
 Danilo Viss
 Danilu
+Danilu Pereira
 Daniēle Bennati
 Daniēle Lupo
 Danja
@@ -16279,6 +16298,7 @@ Debenhams
 Debesbraukšanas sala
 Debesis
 Debesskrāpis
+Debesskrāpju spīts
 Debesu ugunis
 Debija Fergusone-Makkenzija
 Debija Renoldsa
@@ -16323,6 +16343,7 @@ Degoles pagasts
 Degošais
 Degošie slānekļi
 Degtjarska
+Degu muiža
 Degumnieku ciems (Varakļānu rajons)
 Degunragputni
 Degunragputnu dzimta
@@ -17326,6 +17347,7 @@ Divkupru kamielis
 Divkšu pilskalns
 Divoka Orlice
 Divorce American Style
+Divpadsmit krēsli
 Divpadsmit saniknotu vīru
 Divpadsmitpirkstu zarna
 Divpunktu mārīte
@@ -17355,6 +17377,7 @@ Dižais Zigfelds
 Dižais skaistums
 Dižakmens
 Dižeglēm
+Dižgrāvis (Irbes pieteka)
 Dižgrāvis (Ventas pieteka)
 Dižilmāja
 Dižkoks
@@ -17803,6 +17826,7 @@ Draudžu novadi
 Draugiem.lv
 Draugolis (dabas liegums)
 Draugu biedrības padome
+Drava
 Dravnieki (Druvienas pagasts)
 Dravnieki (Ģibuļu pagasts)
 Dravnieks (ciems)
@@ -20130,6 +20154,7 @@ Edijs Redmeins
 Edijs Sauterns
 Edijs Tolans
 Edijs Zalaks
+Edijs Šors
 Edinburga
 Edinburgas Jaunā pilsēta
 Edinburgas Vecā pilsēta
@@ -20753,6 +20778,7 @@ Ekšu pilskalns
 El Camino Real
 El Ninjo
 El País
+El Sadar Stadium
 Ela ielejā
 Elaisa Skanlena
 Elans Bīns
@@ -20919,6 +20945,7 @@ Eliots Goldentāls
 Eliots Gūlds
 Eliots Sī
 Eliots Telčers
+Elipsoīds
 Elisa (uzņēmums)
 Elisa Bredija
 Elisa Džoisa
@@ -21313,6 +21340,7 @@ Eneda Tarifa
 Enerģija
 Enerģijas dzēriens
 Enerģētika
+Enerģētiķis
 Enerģētiķu iela (Aizkraukle)
 Eness Başars
 Enganjo baltactiņa
@@ -22701,6 +22729,7 @@ Fix Price
 Fixing a Hole
 Fizika
 Fizikāls ķermenis
+Fizikālā ķīmija
 Fizioloģija
 Fiziskā kultūra
 Fiziķis
@@ -23912,6 +23941,7 @@ Frīdrihs Biders
 Frīdrihs Bukshēvdens
 Frīdrihs Canders
 Frīdrihs Dirrenmats
+Frīdrihs Dāvids Lencs
 Frīdrihs Georgs Vilhelms Strūve
 Frīdrihs Gilli
 Frīdrihs Grosvalds
@@ -24067,6 +24097,7 @@ Fābians Rīsle
 Fārenheita grāds
 Fārgo (filma)
 Fārmersvila
+Fārsa
 Fārābī
 Fāzes manipulācija
 Fēbe (mitoloģija)
@@ -25598,6 +25629,7 @@ Gravity Falls
 Gravity Recovery and Interior Laboratory
 Gravitācija
 Gravitācija (2013. gada filma)
+Gravitācijas kolapss
 Gravitācijas lauks
 Gravitācijas viļņi
 Gravitīno
@@ -26471,6 +26503,7 @@ Gērnsijas karogs
 Gērtija Kori
 Gērts Geisens
 Gēteborga
+Gēteborgas IFK
 Gēteburga
 Gētes Universitāte
 Gėsalai
@@ -26501,6 +26534,7 @@ H. Makhenrijs
 HADES
 HAKUTO-R M1
 HALO-Net FF
+HART (protokols)
 HAT-P-7b
 HAVELSAT
 HBO Max
@@ -28028,6 +28062,7 @@ Howards End
 Hrafnhildura Luthersdotira
 Hranice
 Hrants Melkumjans
+Hrasta
 Hristiņivka
 Hristiņivkas rajons
 Hristo Marinovs
@@ -28216,6 +28251,7 @@ Hērakleits
 Hērakls
 Hēras templis
 Hērbijs Henkoks
+Hērda Sala un Makdonalda Salas
 Hērizava
 Hēršijas "Bears"
 Hījumā
@@ -28653,6 +28689,7 @@ Igors Korabļovs
 Igors Kostins
 Igors Kovaļenko
 Igors Larionovs
+Igors Linga
 Igors Masļeņikovs
 Igors Meļņikovs
 Igors Miglinieks
@@ -30226,6 +30263,7 @@ JSE Reda-4
 JSTOR
 JY1-SAT
 Ja Rule
+Ja nebūtu šī skuķa
 Jabalova
 Jaceks Kšinuveks
 Jack Oakie
@@ -31123,8 +31161,10 @@ Jeļena Brjuhoveca
 Jeļena Davidoba
 Jeļena Daņiločkina
 Jeļena Dementjeva
+Jeļena Dokiča
 Jeļena Glazova
 Jeļena Golovina
+Jeļena Gļebova
 Jeļena Hazānova
 Jeļena Jakovļeva
 Jeļena Jankoviča
@@ -31837,6 +31877,7 @@ Jānis Bičolis
 Jānis Blaževičs
 Jānis Blumbergs
 Jānis Bordāns
+Jānis Bosko
 Jānis Brants
 Jānis Breikšs
 Jānis Briesmīgais
@@ -32124,6 +32165,7 @@ Jānis Ērenštreits
 Jānis Ērglis
 Jānis Ģībietis
 Jānis Ķipurs
+Jānis Ķīsis
 Jānis Šilfs
 Jānis Šilfs (Jaunzems)
 Jānis Šints
@@ -33997,6 +34039,7 @@ Kaļķu gārša
 Kaļķugravas dzirnavezers
 Kaļķupes ieleja
 Kaļķupīte
+Kaļķupīte (Odzes ezera pieteka)
 Kaļķupīte (upe)
 Kaļķvalks
 Kaņepes (Baltinavas pagasts)
@@ -34675,6 +34718,7 @@ Klarisa Čuna
 Klarks Gregs
 Klase (bioloģija)
 Klases salidojums
+Klasicisma literatūra
 Klasicisms
 Klasiskā Veimāra
 Klasiskā cīņa
@@ -35004,6 +35048,7 @@ Koke (futbolists)
 Kokes muiža
 Kokgriezums
 Kokgriezējs
+Kokgriešana
 Koki Kano
 Kokimbo reģions
 Koklapsenes
@@ -35042,6 +35087,7 @@ Koktebela
 Kokteilis
 Koku pīle
 Kokuvardes
+Kokveida hortenzija
 Kokveida paparžu kārta
 Kokvilna
 Kokvilnas koks
@@ -36709,6 +36755,7 @@ Kruķu ciems
 Krāce
 Krāces (ciems)
 Krāces stacija
+Krākas avoti
 Krāmera formulas
 Krāmers pret Krāmeri
 Krāmu un senlietu muzejs
@@ -37138,6 +37185,7 @@ Kustība Par
 Kustība Par!
 Kutaisi
 Kutaisi automobiļu rūpnīca
+Kutammakū
 Kutno
 Kutuzova prospekts
 Kuvasoja
@@ -37915,6 +37963,7 @@ Lagorsa smaile
 Lagosa
 Lagranža teorēma
 Lagriinae
+Lagrēķins
 Lagzde
 Lagūna
 Lahojska
@@ -38158,6 +38207,7 @@ Lasha Šavdatuašvili
 Lasinnaja
 Lasis
 Lasius umbratus
+Laska
 Laspalmasa de Grankanārija
 Lassinaja
 Last Friday Night (T.G.I.F.)
@@ -39333,6 +39383,7 @@ Lelde Māsēna
 Lelde Priedulēna
 Lelde Stumbre
 Leldes iela (Rīga)
+Leleistade
 Lem (pavadonis)
 Lembuži
 Lemešova
@@ -39447,6 +39498,7 @@ Lens Vaismans
 Lenss Rediks
 Lenstera
 Lentvare
+Lenvairpulguingila
 Lenči
 Lenču pagasts
 Lenčupe
@@ -40359,6 +40411,7 @@ Liliana
 Liliana Giša
 Lilians Kalmežāns
 Lilians Tirāms
+Lilienfelde (Kalkūnes pagasts)
 Lilienfeldi
 Lilies of the Field
 Lilija Allena
@@ -40600,6 +40653,7 @@ Liutperts
 Liutprands
 Liuza
 Liuzinīki (Lendžu pagasts)
+Liva un Livtrasirs
 Livdanišķi
 Livdāni
 Live 8
@@ -41155,6 +41209,7 @@ Ludzas ģerbonis
 Ludzes apriņķis
 Lueta Meldere
 Luftwaffe
+Luga (pilsēta)
 Lugaži
 Lugaži (stacija)
 Lugažu draudzes novads
@@ -41188,6 +41243,7 @@ Luijs Eižens Felikss Neēls
 Luijs Eižens Kavinjaks
 Luijs Filips
 Luijs Filips I
+Luijs Garnoti
 Luijs Glinē
 Luijs Gossets
 Luijs II
@@ -41791,6 +41847,7 @@ M1 automaģistrāle
 M1 maģistrāle (Maskava)
 M2 (pavadonis)
 M3MSat
+M4 karabīne
 M6 Films
 M6P (platforma)
 MADARA Cosmetics
@@ -42607,6 +42664,7 @@ Manfrēds Tepens
 Manfrēds fon Fēgezaks
 Manfrēds fon Rihthofens
 Manfrēds Štolpe
+Mangalūru
 Mangaļi (stacija)
 Mangaļmuiža
 Mangaļu iela
@@ -42616,6 +42674,7 @@ Mangnuss Kārlsens
 Mangnuss Nēdregotens
 Mangroves
 Mangusti
+Mangāna(VII) oksīds
 Mangāns
 Manhatana
 Manhatana (Kanzasa)
@@ -43028,6 +43087,7 @@ Markuss Helners
 Markuss Jakobsons
 Markuss Jānis Eglītis
 Markuss Jūhansons
+Markuss Rodēns
 Markuss Tetners
 Markuss Tirāms
 Markuss Vinogradovs
@@ -43342,6 +43402,7 @@ Mateo Genduzi
 Mateo Kastaldo
 Mateo Lodo
 Mateo Mosketi
+Mateo Renci
 Mateo Riči
 Mateo Taljariols
 Mateo Tosato
@@ -43380,6 +43441,7 @@ Matiņu ezers
 Matjē Androdiass
 Matjē Bomels
 Matjē Ladanū
+Matjē Marī de Lesepss
 Matjē van der Pūls
 Matkule
 Matkules meži
@@ -43601,6 +43663,7 @@ Mazulis (filma)
 Mazumtirdzniecība
 Mazupciems
 Mazupe
+Mazupe (Cieceres ezera pieteka)
 Mazupe (Ventas pieteka)
 Mazupīte (Pededzes pieteka)
 Mazupīte (Rojas novads)
@@ -44975,6 +45038,7 @@ Minotaur IV
 Minska
 Minskas "Dinamo" (hokejs)
 Minskas "Yunost"
+Minskas Nacionālā lidosta
 Minskas apgabals
 Minskas metro
 Minskas protokols
@@ -46697,6 +46761,7 @@ Narvas kauja (1700)
 Narvas līcis
 Narvas pils
 Narvika
+Narēndra Modi
 Nasdaq
 Nasdaq Copenhagen
 Nasdaq Helsinki
@@ -46745,6 +46810,7 @@ National Physical Laboratory, UK
 National Security Agency
 National Space Science Data Center
 National Velvet
+Nationwide Arena
 Nationwide Series
 Natko Zrnčičs-Dims
 Natunas jūra
@@ -46932,6 +46998,7 @@ Neirozinātne
 Neirupīne
 Neisa (Vācija)
 Neise
+Neistrija
 Neitans Boljē
 Neitans Edrians
 Neitans Hāss
@@ -49002,6 +49069,7 @@ Oliņkalns
 Olkušas apriņķis
 Olle Petrusons
 Olnīca
+Olomoucas Palacka universitāte
 Olomoucas apgabals
 Olomoucas apriņķis
 Oloveca
@@ -49530,6 +49598,7 @@ Otonu dinastija
 Otorišķi
 Otoskleroze
 Otradnija
+Otrais Itālijas-Etiopijas karš
 Otrais Kongo karš
 Otrais Latgales kongress
 Otrais Pasaules karš
@@ -51075,6 +51144,7 @@ Peles
 Peles (Mārupes pagasts)
 Peles (ciems)
 Pelečanka
+Pelicans
 Pelieča ezers
 Pelikānveidīgie
 Peličova
@@ -51468,6 +51538,7 @@ Picunda
 Pidhajci
 Pidhajcu rajons
 Pidhorodne
+Pidole
 Pidvoločiskas rajons
 Pie Malapagas sienām
 Pie Zelta ezera
@@ -51500,6 +51571,7 @@ Piejūras Šaranta
 Piejūras-kalnu županija
 Piekarpatu Rutēnija
 Piekarpatu vojevodiste
+Piekaspijas zemiene
 Piekraste
 Piekrišanas laukums (Ščecina)
 Piektdiena
@@ -52740,6 +52812,7 @@ PrintSat
 Prinča Boguslava X iela (Ščecina)
 Prinča Patrika sala
 Prinča Reģenta šaurums
+Prinča Ūlava krasts
 Prioni
 Priors
 Priparšs
@@ -53270,6 +53343,7 @@ Pultuskas apriņķis
 Pumas
 Pumbaa
 Pumpi
+Pumpuana Duančana
 Pumpuri
 Puncuļevas pilskalns
 Puncuļi (Brigu pagasts)
@@ -53700,6 +53774,7 @@ Pēteris Skudra
 Pēteris Slavens
 Pēteris Sniķers
 Pēteris Stepiņš
+Pēteris Strods
 Pēteris Stučka
 Pēteris Supe
 Pēteris Sīpolnieks
@@ -54651,6 +54726,7 @@ Real Salt Lake
 Real Unión
 Real Valladolid
 Real Zaragoza
+Realitātes šovs
 Reaģētspēja
 Rebaque
 Rebeka (filma)
@@ -56841,6 +56917,7 @@ Rīgas Vissvētākās Trīsvienības Romas katoļu baznīca
 Rīgas Vissvētās Dievmātes Pasludināšanas baznīca
 Rīgas Vissvētās Trīsvienības Romas katoļu baznīca
 Rīgas Visu Svēto baznīca
+Rīgas Zemgales priekšpilsētas ielu uzskaitījums
 Rīgas Ziepniekkalna vidusskola
 Rīgas Zolitūdes ģimnāzija
 Rīgas Zooloģiskais dārzs
@@ -57304,6 +57381,7 @@ SONATE
 SOR Libchavy
 SORA-Q
 SORTIE
+SOS bērnu ciemati Latvijā
 SPACE HAUC
 SPARC-1
 SPARTAN (pavadonis)
@@ -58020,6 +58098,7 @@ Sanhosē (Kostarika)
 Sanhuana
 Sanidis
 Sanihes baltactiņa
+Sanita Bajāre
 Sanita Ozoliņa
 Sanita Pušpure (airētāja)
 Sanita Viljamsa
@@ -58121,6 +58200,7 @@ Santjago (sala)
 Santjago Kanjisaress
 Santjago Ramons i Kahals
 Santodomingo
+Santodomingo (nozīmju atdalīšana)
 Santome
 Santome baltactiņa
 Santome un Prinsipi
@@ -62132,6 +62212,7 @@ Sudrabkarūsa
 Sudrabkļava
 Sudrabliepa
 Sudrabs
+Sudrabsaliņa
 Sudrabstrauts (Ventas pieteka)
 Sudrabu Edžus
 Sudrabu Edžus dzimtās mājas
@@ -62579,6 +62660,7 @@ Svētki
 Svētku kantāte
 Svētupe
 Svētupe (Aiviekstes pieteka)
+Svētupe (Iecavas pieteka)
 Svētā Adalberta iela (Ščecina)
 Svētā Anna
 Svētā Anskara dzīve
@@ -62608,6 +62690,7 @@ Svētās Margaretes baznīca
 Svētās Romas imperators
 Svētās Romas impērijas imperators
 Svētās Romas impērijas imperatoru uzskaitījums
+Svētās Romas impērijas sabrukums
 Svētās Romas impērijas ķeizari
 Svētās Sirds bazilika Monmartrā
 Svētās Žannas d'Arkas baznīca
@@ -63109,8 +63192,10 @@ Talija Šaira
 Talkaņa
 Talkhofas pils
 Talks
+Talleres de Córdoba
 Tallijs
 Tallina
+Tallinas Doms
 Tallinas hipodroms
 Tallinas iela (Jūrmala)
 Tallinas iela (Rīga)
@@ -63939,6 +64024,7 @@ Teteles pagasts
 Tetelmindes muiža
 Tetersalas purvs
 Tetevena
+Tetjana Komarnicka
 Tetjana Omeļčenko
 Tetovētā roze (filma)
 Tetracampidae
@@ -66010,6 +66096,7 @@ Tušķi
 TvNet
 Tva pigmeji
 Tvaika dzinējs
+Tvaika iela (Rīga)
 Tvaikonis
 Tvaikoņpīles
 Tvaiks
@@ -66046,6 +66133,7 @@ Türksat 4A
 Türksat 4B
 Türksat 5A
 Türksat 5B
+Tā dejo Latvijā
 Tā dzīvojam
 Tā šķiras itālieši
 Tāge Lundins
@@ -66783,6 +66871,7 @@ Uldis Stabulnieks
 Uldis Tīrons
 Uldis Veldre
 Uldis Čalpa
+Uldis Ģērmanis
 Uldis Žagata
 Uldis-Ivars Grava
 Ulee's Gold
@@ -67000,6 +67089,7 @@ Upes delta
 Upes iela (Rīga)
 Upes kosa
 Upes muiža
+Upes nēģis
 Upes Čeirāni
 Upes-Grīva
 Upesciema iela (Rīga)
@@ -68073,7 +68163,9 @@ Varis Liepa
 Varis Vētra
 Varistors
 Variāciju rēķini
+Variņi
 Variņu pagasts
+Varka (Alzetes pieteka)
 Varkas pilsnovads
 Varkaļi
 Varlams Liparteliani
@@ -68317,6 +68409,7 @@ Vecvācu skola
 Vecvārkava
 Vecā Derība
 Vecā Kamārce
+Vecā Križovka
 Vecā dārza noslēpums
 Vecā pasaule
 Vecā un jaunā stila datumi
@@ -69253,6 +69346,7 @@ Viktors Floresku
 Viktors Gluhovs
 Viktors Hatuļevs
 Viktors Hausmanis
+Viktors Hedmans
 Viktors Hess
 Viktors Hīrmens
 Viktors I
@@ -69402,6 +69496,7 @@ Vilhelms Munters
 Vilhelms Neimanis
 Vilhelms Ostvalds
 Vilhelms Purvītis
+Vilhelms Pīks
 Vilhelms Rentgens
 Vilhelms Roberts fon Bulmerinks
 Vilhelms Steinics
@@ -69579,6 +69674,7 @@ Vilkopa
 Vilks (zvaigznājs)
 Vilkupe (Dvietes pieteka)
 Vilkupe (Pededzes pieteka)
+Vilkupe (Pilskalnes pagasts)
 Vilkupe (ciems)
 Vilkupīte (Ievednes pieteka)
 Vilkusola
@@ -70930,6 +71026,7 @@ Wentian
 Werewolf by Night
 West Africa Time
 West Bank Story
+West Bromwich Albion FC
 Western Ghats
 Westlife
 Whale Rider
@@ -72454,9 +72551,11 @@ Zīmējums
 Zīmējumu teātris
 Zīmīgie cipari
 Zīna el Abidīns Ben Alī
+Zīriņu apakšdzimta
 Zītaru dzimta (filma)
 Zīverts
 Zīļu ozols
+Zūdainis
 Zūras
 Zūru pagasts
 aglomerācija
@@ -72521,6 +72620,7 @@ vētra
 Ābolskābe
 Ābolu iela (Rīga)
 Ābrahams Simpsons
+Ābrams (nozīmju atdalīšana)
 Ābrams Blass
 Ābrams Kļockins
 Ābrams Leibovics
@@ -74058,6 +74158,7 @@ vētra
 Šadrinska
 Šafhauzene
 Šafhauzene (kantons)
+Šaha atklātņu enciklopēdija
 Šaha kompozīcija
 Šaha olimpiāde
 Šahists
@@ -74338,6 +74439,7 @@ vētra
 Šinona
 Šiofoka
 Šiokazes parks
+Šiori Mijake
 Šipra
 Širases krasts
 Širina Ebādi
@@ -74435,6 +74537,7 @@ vētra
 Špeičerstāte
 Špicbergena
 Špola
+Špolas rajons
 Špoģi
 Šprēvalde
 Špuni
@@ -75437,6 +75540,7 @@ $50SAT
 11. šaha olimpiāde
 110. autobusu maršruts (Ščecina)
 111. autobusu maršruts (Ščecina)
+112. gads
 1120. gads
 1125. gads
 1127. gads
@@ -76959,6 +77063,7 @@ $50SAT
 1983.—1984. gada Eiropas kausa sezona
 1983.—1984. gada NBA sezona
 1983.—1984. gada Vācijas futbola Bundeslīgas sezona
+1984 (nozīmju atdalīšana)
 1984. gada ASV prezidenta vēlēšanas
 1984. gada Brazīlijas Grand Prix
 1984. gada Dakaras rallijs
@@ -81494,6 +81599,7 @@ Aleksandra Fjodorovna (Nikolaja II sieva)
 Aleksandra Gorjačkina
 Aleksandra Grīna bulvāris
 Aleksandra I sala
+Aleksandra Kollontaja
 Aleksandra Kolontaja
 Aleksandra Kosteņuka
 Aleksandra Laimes iela
@@ -81631,6 +81737,7 @@ Aleksandrs Milerāns
 Aleksandrs Millerāns
 Aleksandrs Mirskis
 Aleksandrs Misurkins
+Aleksandrs Morfovs
 Aleksandrs Morozevičs
 Aleksandrs Neibergs
 Aleksandrs Neibergs (deputāts)
@@ -82851,6 +82958,7 @@ Andrejs Vītols
 Andrejs Zaharovs
 Andrejs Zaķis (nozīmju atdalīšana)
 Andrejs Zaķis (politiķis)
+Andrejs Zeidaks
 Andrejs Čerkasovs
 Andrejs Česnokovs
 Andrejs Čečans
@@ -84254,6 +84362,7 @@ Artjoms Vihrovs
 Artjoms Vitkins
 Artjoms Vorobjovs
 Artjoms Švarjovs
+Artjuhins
 Artjums Zamullo
 Arts Kernijs
 Arts Laflērs
@@ -84880,6 +84989,7 @@ Audible
 Audio
 Audio un video interfeisi un konektori
 Audions
+Audioslave
 Audris
 Audriņu pagasts
 Audrupi
@@ -88123,6 +88233,7 @@ Borbaļu ciems
 Borderline
 Bordo
 Bordo "Girondins"
+Bordo I universitāte
 Bordova
 Bordžomi
 Borherta muiža
@@ -88490,6 +88601,7 @@ Brekins Meijers
 Brekšu iela (Rīga)
 Brekšu muiža
 Bremzes
+Bremzes kurpe (dzelzceļš)
 Brencis
 Brenda Bletina
 Brenda Frikere
@@ -88577,6 +88689,7 @@ Brisele
 Brisele (filma)
 Briseles kāposti
 Bristole
+Bristoles līcis (Lielbritānija)
 Brita Sigurnija
 Briti
 Briti (ķelti)
@@ -89446,6 +89559,7 @@ Bērziņi (Raiskuma pagasts)
 Bērziņš (Cenu pagasts)
 Bērzkalnes iela (Rīga)
 Bērzkalnes pagasts
+Bērzkalni
 Bērzkalnieku ciems
 Bērzkrogs (Veselavas pagasts)
 Bērzlapu iela (Rīga)
@@ -89454,6 +89568,7 @@ Bērzones ciems
 Bērzpils
 Bērzpils iela (Rīga)
 Bērzpils pagasts
+Bērzu ezers (Ērģemes pagasts)
 Bērzu iela (Alūksne)
 Bērzupe
 Bērzupe (Dubnas pieteka)
@@ -90784,6 +90899,7 @@ DVB-S2
 DVB-SH
 DVB-T
 DVB-T2
+DX 200
 Da Vinci (pavadonis)
 Daan Breeuwsma
 Dabaru ezers
@@ -90879,6 +90995,7 @@ Dahšteins
 Daiana Silversa
 Daiana Vorena
 Daibe (Stalbes pagasts)
+Daibes
 Daiei Film
 Daiena Kerola
 Daiena Kītone
@@ -91156,6 +91273,7 @@ Danila Patijčuks
 Danilo Di Luka
 Danilo Viss
 Danilu
+Danilu Pereira
 Daniēle Bennati
 Daniēle Lupo
 Danja
@@ -91458,6 +91576,7 @@ Debenhams
 Debesbraukšanas sala
 Debesis
 Debesskrāpis
+Debesskrāpju spīts
 Debesu ugunis
 Debija Fergusone-Makkenzija
 Debija Renoldsa
@@ -91502,6 +91621,7 @@ Degoles pagasts
 Degošais
 Degošie slānekļi
 Degtjarska
+Degu muiža
 Degumnieku ciems (Varakļānu rajons)
 Degunragputni
 Degunragputnu dzimta
@@ -92505,6 +92625,7 @@ Divkupru kamielis
 Divkšu pilskalns
 Divoka Orlice
 Divorce American Style
+Divpadsmit krēsli
 Divpadsmit saniknotu vīru
 Divpadsmitpirkstu zarna
 Divpunktu mārīte
@@ -92983,6 +93104,7 @@ Draudžu novadi
 Draugiem.lv
 Draugolis (dabas liegums)
 Draugu biedrības padome
+Drava
 Dravnieki (Druvienas pagasts)
 Dravnieki (Ģibuļu pagasts)
 Dravnieks (ciems)
@@ -93298,6 +93420,7 @@ Dzedziekste
 Dzega
 Dzeguze (upe)
 Dzeguze un viņas 12 vīri
+Dzeguzes
 Dzeguzes sauciens
 Dzeguzīte
 Dzegužu iela (Jūrmala)
@@ -95310,6 +95433,7 @@ Edijs Redmeins
 Edijs Sauterns
 Edijs Tolans
 Edijs Zalaks
+Edijs Šors
 Edinburga
 Edinburgas Jaunā pilsēta
 Edinburgas Vecā pilsēta
@@ -96100,6 +96224,7 @@ Eliots Goldentāls
 Eliots Gūlds
 Eliots Sī
 Eliots Telčers
+Elipsoīds
 Elisa (uzņēmums)
 Elisa Bredija
 Elisa Džoisa
@@ -96494,6 +96619,7 @@ Eneda Tarifa
 Enerģija
 Enerģijas dzēriens
 Enerģētika
+Enerģētiķis
 Enerģētiķu iela (Aizkraukle)
 Eness Başars
 Enganjo baltactiņa
@@ -97882,6 +98008,7 @@ Fix Price
 Fixing a Hole
 Fizika
 Fizikāls ķermenis
+Fizikālā ķīmija
 Fizioloģija
 Fiziskā kultūra
 Fiziķis
@@ -99093,6 +99220,7 @@ Frīdrihs Biders
 Frīdrihs Bukshēvdens
 Frīdrihs Canders
 Frīdrihs Dirrenmats
+Frīdrihs Dāvids Lencs
 Frīdrihs Georgs Vilhelms Strūve
 Frīdrihs Gilli
 Frīdrihs Grosvalds
@@ -99248,6 +99376,7 @@ Fābians Rīsle
 Fārenheita grāds
 Fārgo (filma)
 Fārmersvila
+Fārsa
 Fārābī
 Fāzes manipulācija
 Fēbe (mitoloģija)
@@ -100188,6 +100317,7 @@ Georgs Preidlers
 Georgs Vells Bīdls
 Georgs Vilhelms Frīdrihs Hēgelis
 Georgs Vilhelms Pabsts
+Georgs Vilhelms Rihmanis
 Georgs fon Eihštets
 Georgs fon Rozens
 Georgy Girl
@@ -100779,6 +100909,7 @@ Gravity Falls
 Gravity Recovery and Interior Laboratory
 Gravitācija
 Gravitācija (2013. gada filma)
+Gravitācijas kolapss
 Gravitācijas lauks
 Gravitācijas viļņi
 Gravitīno
@@ -101181,6 +101312,7 @@ Gruzijas vēsture
 Gruzīnu valoda
 Gručo Markss
 Gruženieku ezers
+Gružupīte (Vijas pieteka)
 Grāca
 Grācas "Sturm"
 Grāfiene Fon Rūdolšate
@@ -101652,6 +101784,7 @@ Gērnsijas karogs
 Gērtija Kori
 Gērts Geisens
 Gēteborga
+Gēteborgas IFK
 Gēteburga
 Gētes Universitāte
 Gėsalai
@@ -101682,6 +101815,7 @@ H. Makhenrijs
 HADES
 HAKUTO-R M1
 HALO-Net FF
+HART (protokols)
 HAT-P-7b
 HAVELSAT
 HBO Max
@@ -102758,6 +102892,7 @@ Hindu valoda
 Hinduisms
 Hindukušs
 Hindustāņu valoda
+Hinneja
 Hinotega
 Hinotegas departaments
 Hinotepe
@@ -103209,6 +103344,7 @@ Howards End
 Hrafnhildura Luthersdotira
 Hranice
 Hrants Melkumjans
+Hrasta
 Hristiņivka
 Hristiņivkas rajons
 Hristo Marinovs
@@ -103397,6 +103533,7 @@ Hērakleits
 Hērakls
 Hēras templis
 Hērbijs Henkoks
+Hērda Sala un Makdonalda Salas
 Hērizava
 Hēršijas "Bears"
 Hījumā
@@ -103834,6 +103971,7 @@ Igors Korabļovs
 Igors Kostins
 Igors Kovaļenko
 Igors Larionovs
+Igors Linga
 Igors Masļeņikovs
 Igors Meļņikovs
 Igors Miglinieks
@@ -105407,6 +105545,7 @@ JSE Reda-4
 JSTOR
 JY1-SAT
 Ja Rule
+Ja nebūtu šī skuķa
 Jabalova
 Jaceks Kšinuveks
 Jack Oakie
@@ -106304,8 +106443,10 @@ Jeļena Brjuhoveca
 Jeļena Davidoba
 Jeļena Daņiločkina
 Jeļena Dementjeva
+Jeļena Dokiča
 Jeļena Glazova
 Jeļena Golovina
+Jeļena Gļebova
 Jeļena Hazānova
 Jeļena Jakovļeva
 Jeļena Jankoviča
@@ -107018,6 +107159,7 @@ Jānis Bičolis
 Jānis Blaževičs
 Jānis Blumbergs
 Jānis Bordāns
+Jānis Bosko
 Jānis Brants
 Jānis Breikšs
 Jānis Briesmīgais
@@ -109179,6 +109321,7 @@ Kaļķu gārša
 Kaļķugravas dzirnavezers
 Kaļķupes ieleja
 Kaļķupīte
+Kaļķupīte (Odzes ezera pieteka)
 Kaļķupīte (upe)
 Kaļķvalks
 Kaņepes (Baltinavas pagasts)
@@ -110187,6 +110330,7 @@ Koke (futbolists)
 Kokes muiža
 Kokgriezums
 Kokgriezējs
+Kokgriešana
 Koki Kano
 Kokimbo reģions
 Koklapsenes
@@ -110225,6 +110369,7 @@ Koktebela
 Kokteilis
 Koku pīle
 Kokuvardes
+Kokveida hortenzija
 Kokveida paparžu kārta
 Kokvilna
 Kokvilnas koks
@@ -112322,6 +112467,7 @@ Kustība Par
 Kustība Par!
 Kutaisi
 Kutaisi automobiļu rūpnīca
+Kutammakū
 Kutno
 Kutuzova prospekts
 Kuvasoja
@@ -112494,6 +112640,7 @@ Kāposti
 Kāpu priede
 Kāpuri
 Kāpurs
+Kāpvālas kratons
 Kāpzemes baltactiņa
 Kāpzemes degunragputns
 Kāpzemes dižpīle
@@ -112550,6 +112697,7 @@ Kārlis Faberžē
 Kārlis Felikss
 Kārlis Ferdinands Brauns
 Kārlis Freimanis
+Kārlis Freimanis (aktieris)
 Kārlis Frikhofs
 Kārlis Frīdrihs Bornhaupts
 Kārlis Frīdrihs Celters
@@ -113343,6 +113491,7 @@ Lasha Šavdatuašvili
 Lasinnaja
 Lasis
 Lasius umbratus
+Laska
 Laspalmasa de Grankanārija
 Lassinaja
 Last Friday Night (T.G.I.F.)
@@ -114518,6 +114667,7 @@ Lelde Māsēna
 Lelde Priedulēna
 Lelde Stumbre
 Leldes iela (Rīga)
+Leleistade
 Lem (pavadonis)
 Lembuži
 Lemešova
@@ -114632,6 +114782,7 @@ Lens Vaismans
 Lenss Rediks
 Lenstera
 Lentvare
+Lenvairpulguingila
 Lenči
 Lenču pagasts
 Lenčupe
@@ -115786,6 +115937,7 @@ Liutperts
 Liutprands
 Liuza
 Liuzinīki (Lendžu pagasts)
+Liva un Livtrasirs
 Livdanišķi
 Livdāni
 Live 8
@@ -116341,6 +116493,7 @@ Ludzas ģerbonis
 Ludzes apriņķis
 Lueta Meldere
 Luftwaffe
+Luga (pilsēta)
 Lugaži
 Lugaži (stacija)
 Lugažu draudzes novads
@@ -116374,6 +116527,7 @@ Luijs Eižens Felikss Neēls
 Luijs Eižens Kavinjaks
 Luijs Filips
 Luijs Filips I
+Luijs Garnoti
 Luijs Glinē
 Luijs Gossets
 Luijs II
@@ -116531,6 +116685,7 @@ Luksemburgu dinastija
 Luksora
 Lukss
 Lukta
+Lukāšs Hrādeckis
 Lukāšs Sedlāks
 Luleå HF
 Lululemon Athletica
@@ -116741,6 +116896,7 @@ Lībagu pagasts
 Lībeka
 Lībekas bīskapi
 Lībekas līcis
+Lībenvalde
 Lībieši
 Lībiešu krasts
 Lībiešu valoda
@@ -116977,6 +117133,7 @@ M1 automaģistrāle
 M1 maģistrāle (Maskava)
 M2 (pavadonis)
 M3MSat
+M4 karabīne
 M6 Films
 M6P (platforma)
 MADARA Cosmetics
@@ -117793,6 +117950,7 @@ Manfrēds Tepens
 Manfrēds fon Fēgezaks
 Manfrēds fon Rihthofens
 Manfrēds Štolpe
+Mangalūru
 Mangaļi (stacija)
 Mangaļmuiža
 Mangaļu iela
@@ -117802,6 +117960,7 @@ Mangnuss Kārlsens
 Mangnuss Nēdregotens
 Mangroves
 Mangusti
+Mangāna(VII) oksīds
 Mangāns
 Manhatana
 Manhatana (Kanzasa)
@@ -117964,6 +118123,7 @@ Marienhauzenas pils
 Marieši
 Marigo
 Marihuāna
+Marija Anna Mocarte
 Marija Antuanete (1938. gada filma)
 Marija Antuanete (filma)
 Marija Bueno
@@ -118214,6 +118374,7 @@ Markuss Helners
 Markuss Jakobsons
 Markuss Jānis Eglītis
 Markuss Jūhansons
+Markuss Rodēns
 Markuss Tetners
 Markuss Tirāms
 Markuss Vinogradovs
@@ -118528,6 +118689,7 @@ Mateo Genduzi
 Mateo Kastaldo
 Mateo Lodo
 Mateo Mosketi
+Mateo Renci
 Mateo Riči
 Mateo Taljariols
 Mateo Tosato
@@ -118566,6 +118728,7 @@ Matiņu ezers
 Matjē Androdiass
 Matjē Bomels
 Matjē Ladanū
+Matjē Marī de Lesepss
 Matjē van der Pūls
 Matkule
 Matkules meži
@@ -119283,6 +119446,7 @@ Melnā Zeme
 Melnā atraitne
 Melnā atraitne (Nataša Romanova)
 Melnā atraitne (filma)
+Melnā bērzubeka
 Melnā driģene
 Melnā ezera purvs
 Melnā feja Malefisenta
@@ -120162,6 +120326,7 @@ Minotaur IV
 Minska
 Minskas "Dinamo" (hokejs)
 Minskas "Yunost"
+Minskas Nacionālā lidosta
 Minskas apgabals
 Minskas metro
 Minskas protokols
@@ -121884,6 +122049,7 @@ Narvas kauja (1700)
 Narvas līcis
 Narvas pils
 Narvika
+Narēndra Modi
 Nasdaq
 Nasdaq Copenhagen
 Nasdaq Helsinki
@@ -121932,6 +122098,7 @@ National Physical Laboratory, UK
 National Security Agency
 National Space Science Data Center
 National Velvet
+Nationwide Arena
 Nationwide Series
 Natko Zrnčičs-Dims
 Natunas jūra
@@ -122119,6 +122286,7 @@ Neirozinātne
 Neirupīne
 Neisa (Vācija)
 Neise
+Neistrija
 Neitans Boljē
 Neitans Edrians
 Neitans Hāss
@@ -124658,6 +124826,7 @@ Ostrovas apriņķis (Pleskavas guberņa)
 Ostrovas rajons
 Ostrovdomašņija
 Ostrovgolomjannija
+Ostupe (Usmas ezers)
 Osudari
 Osvalds Darbiņš
 Osvalds Fogelmanis
@@ -124718,6 +124887,7 @@ Otonu dinastija
 Otorišķi
 Otoskleroze
 Otradnija
+Otrais Itālijas-Etiopijas karš
 Otrais Kongo karš
 Otrais Latgales kongress
 Otrais Pasaules karš
@@ -126263,6 +126433,7 @@ Peles
 Peles (Mārupes pagasts)
 Peles (ciems)
 Pelečanka
+Pelicans
 Pelieča ezers
 Pelikānveidīgie
 Peličova
@@ -126590,6 +126761,7 @@ Pečeņegi
 Pečori
 Peļu dzimta
 Peļveidīgie
+Peļļi
 Peļņa
 Peļņas marža
 Peļņi (Tirzas pagasts)
@@ -126656,6 +126828,7 @@ Picunda
 Pidhajci
 Pidhajcu rajons
 Pidhorodne
+Pidole
 Pidvoločiskas rajons
 Pie Malapagas sienām
 Pie Zelta ezera
@@ -126688,6 +126861,7 @@ Piejūras Šaranta
 Piejūras-kalnu županija
 Piekarpatu Rutēnija
 Piekarpatu vojevodiste
+Piekaspijas zemiene
 Piekraste
 Piekrišanas laukums (Ščecina)
 Piektdiena
@@ -127172,6 +127346,7 @@ Pleskavas aplenkums (1581)
 Pleskavas guberņa
 Pleskavas kņazi
 Pleskavas republika
+Pleskodāles iela
 Plevena
 Plešova (Susāju pagasts)
 Plicis
@@ -127928,6 +128103,7 @@ PrintSat
 Prinča Boguslava X iela (Ščecina)
 Prinča Patrika sala
 Prinča Reģenta šaurums
+Prinča Ūlava krasts
 Prioni
 Priors
 Priparšs
@@ -128458,6 +128634,7 @@ Pultuskas apriņķis
 Pumas
 Pumbaa
 Pumpi
+Pumpuana Duančana
 Pumpuri
 Puncuļevas pilskalns
 Puncuļi (Brigu pagasts)
@@ -128888,6 +129065,7 @@ Pēteris Skudra
 Pēteris Slavens
 Pēteris Sniķers
 Pēteris Stepiņš
+Pēteris Strods
 Pēteris Stučka
 Pēteris Supe
 Pēteris Sīpolnieks
@@ -129737,6 +129915,7 @@ Ratlenda (Vērmonta)
 Ratmirs Holmovs
 Ratnicēni
 Ratnicēnu ciems
+Ratnieki (Čornajas pagasts)
 Ratnieku upe
 Ratolds
 Rattle and Hum
@@ -129839,6 +130018,7 @@ Real Salt Lake
 Real Unión
 Real Valladolid
 Real Zaragoza
+Realitātes šovs
 Reaģētspēja
 Rebaque
 Rebeka (filma)
@@ -131373,6 +131553,7 @@ Rozmarīns
 Roznieku grāvis
 Rozula
 Rozulas pagasts
+Rozā pantera 2
 Rozārio Dousone
 Rozīnes
 Ročesteras "Americans"
@@ -132029,6 +132210,7 @@ Rīgas Vissvētākās Trīsvienības Romas katoļu baznīca
 Rīgas Vissvētās Dievmātes Pasludināšanas baznīca
 Rīgas Vissvētās Trīsvienības Romas katoļu baznīca
 Rīgas Visu Svēto baznīca
+Rīgas Zemgales priekšpilsētas ielu uzskaitījums
 Rīgas Ziepniekkalna vidusskola
 Rīgas Zolitūdes ģimnāzija
 Rīgas Zooloģiskais dārzs
@@ -133209,6 +133391,7 @@ Sanhosē (Kostarika)
 Sanhuana
 Sanidis
 Sanihes baltactiņa
+Sanita Bajāre
 Sanita Ozoliņa
 Sanita Pušpure (airētāja)
 Sanita Viljamsa
@@ -133310,6 +133493,7 @@ Santjago (sala)
 Santjago Kanjisaress
 Santjago Ramons i Kahals
 Santodomingo
+Santodomingo (nozīmju atdalīšana)
 Santome
 Santome baltactiņa
 Santome un Prinsipi
@@ -137086,6 +137270,7 @@ Struktūra
 Struktūrpolitika
 Strumpe (Gaujas pieteka)
 Strupastes
+Strupļi
 Struteles baznīca
 Struteles muiža
 Struteles pagasts
@@ -137321,6 +137506,7 @@ Sudrabkarūsa
 Sudrabkļava
 Sudrabliepa
 Sudrabs
+Sudrabsaliņa
 Sudrabstrauts (Ventas pieteka)
 Sudrabu Edžus
 Sudrabu Edžus dzimtās mājas
@@ -137768,6 +137954,7 @@ Svētki
 Svētku kantāte
 Svētupe
 Svētupe (Aiviekstes pieteka)
+Svētupe (Iecavas pieteka)
 Svētā Adalberta iela (Ščecina)
 Svētā Anna
 Svētā Anskara dzīve
@@ -137797,6 +137984,7 @@ Svētās Margaretes baznīca
 Svētās Romas imperators
 Svētās Romas impērijas imperators
 Svētās Romas impērijas imperatoru uzskaitījums
+Svētās Romas impērijas sabrukums
 Svētās Romas impērijas ķeizari
 Svētās Sirds bazilika Monmartrā
 Svētās Žannas d'Arkas baznīca
@@ -138030,6 +138218,7 @@ Sūknis
 Sūnas
 Sūne Andersons
 Sūneņi
+Sūnupe
 Sūpes ezers
 Sūpes purvs
 Sūra (pilsēta)
@@ -138298,8 +138487,10 @@ Talija Šaira
 Talkaņa
 Talkhofas pils
 Talks
+Talleres de Córdoba
 Tallijs
 Tallina
+Tallinas Doms
 Tallinas hipodroms
 Tallinas iela (Jūrmala)
 Tallinas iela (Rīga)
@@ -139128,6 +139319,7 @@ Teteles pagasts
 Tetelmindes muiža
 Tetersalas purvs
 Tetevena
+Tetjana Komarnicka
 Tetjana Omeļčenko
 Tetovētā roze (filma)
 Tetracampidae
@@ -140689,6 +140881,7 @@ Triecienvētra
 Trieste
 Triečupīte
 Trigatrons
+Trigeris (DBPS)
 Triglav Kranj
 Triglifs
 Trigonalidae
@@ -141199,6 +141392,7 @@ Tušķi
 TvNet
 Tva pigmeji
 Tvaika dzinējs
+Tvaika iela (Rīga)
 Tvaikonis
 Tvaikoņpīles
 Tvaiks
@@ -141973,6 +142167,7 @@ Uldis Stabulnieks
 Uldis Tīrons
 Uldis Veldre
 Uldis Čalpa
+Uldis Ģērmanis
 Uldis Žagata
 Uldis-Ivars Grava
 Ulee's Gold
@@ -142190,6 +142385,7 @@ Upes delta
 Upes iela (Rīga)
 Upes kosa
 Upes muiža
+Upes nēģis
 Upes Čeirāni
 Upes-Grīva
 Upesciema iela (Rīga)
@@ -143232,6 +143428,7 @@ Varakļānu rajons
 Varakļānu vēsture
 Varakļānu ģerbonis
 Varakļānus pilsētas priekšsēdētāju uzskaitījums
+Varang Nord
 Varavīksne
 Varavīksne (studenšu korporācija)
 Varavīksnenes heterohromija
@@ -143263,7 +143460,9 @@ Varis Liepa
 Varis Vētra
 Varistors
 Variāciju rēķini
+Variņi
 Variņu pagasts
+Varka (Alzetes pieteka)
 Varkas pilsnovads
 Varkaļi
 Varlams Liparteliani
@@ -143507,6 +143706,7 @@ Vecvācu skola
 Vecvārkava
 Vecā Derība
 Vecā Kamārce
+Vecā Križovka
 Vecā dārza noslēpums
 Vecā pasaule
 Vecā un jaunā stila datumi
@@ -143925,6 +144125,7 @@ Veģupīte
 Veģupītes ūdenskritums
 Veļikije Luki
 Veļikijnovgoroda
+Veļimirs Hļebņikovs
 Veļupīte
 Veļķu pagasts
 Veņčanas pavadoņu palaišanas centrs
@@ -144443,6 +144644,7 @@ Viktors Floresku
 Viktors Gluhovs
 Viktors Hatuļevs
 Viktors Hausmanis
+Viktors Hedmans
 Viktors Hess
 Viktors Hīrmens
 Viktors I
@@ -144592,6 +144794,7 @@ Vilhelms Munters
 Vilhelms Neimanis
 Vilhelms Ostvalds
 Vilhelms Purvītis
+Vilhelms Pīks
 Vilhelms Rentgens
 Vilhelms Roberts fon Bulmerinks
 Vilhelms Steinics
@@ -146121,6 +146324,7 @@ Wentian
 Werewolf by Night
 West Africa Time
 West Bank Story
+West Bromwich Albion FC
 Western Ghats
 Westlife
 Whale Rider
@@ -147645,9 +147849,11 @@ Zīmējums
 Zīmējumu teātris
 Zīmīgie cipari
 Zīna el Abidīns Ben Alī
+Zīriņu apakšdzimta
 Zītaru dzimta (filma)
 Zīverts
 Zīļu ozols
+Zūdainis
 Zūras
 Zūru pagasts
 aglomerācija
@@ -147712,6 +147918,7 @@ vētra
 Ābolskābe
 Ābolu iela (Rīga)
 Ābrahams Simpsons
+Ābrams (nozīmju atdalīšana)
 Ābrams Blass
 Ābrams Kļockins
 Ābrams Leibovics
@@ -148146,6 +148353,7 @@ vētra
 Čelsija Vinstenlija
 Čempions (filma)
 Čempionu hokeja līga
+Čempiņa
 Čende
 Čendlers Stīvensons
 Čennai
@@ -148590,6 +148798,7 @@ vētra
 Ēteris
 Ēters (mitoloģija)
 Ētika
+Ēva Karakaša
 Ēva Kirī
 Ēvalds Ivanovs
 Ēvalds Mugurēvičs
@@ -149249,6 +149458,7 @@ vētra
 Šadrinska
 Šafhauzene
 Šafhauzene (kantons)
+Šaha atklātņu enciklopēdija
 Šaha kompozīcija
 Šaha olimpiāde
 Šahists

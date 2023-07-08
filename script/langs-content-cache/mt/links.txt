@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Ħavana
-Hans Christian Andersen
-Tony Nicholl
-Ċili
-Edward Herrera
-Gonzalo Javier Rodríguez
-Elisabeth Frink
-Fwied
-Żoni Storiċi ta' Gyeongju
-Mary Rose Mallia
-Palenque
-Elvas
-Raġel
-Logħob Olimpiku tas-sajf 2008
-Forti Sant’Anġlu
-Xprunara
-Xjenza
-Ħajt il-Kbir taċ-Ċina
-Dexter Walters
-Masġar tal-Palm ta' Elche
-KF Laçi
-Skanderbeg
-Kosta Rika
-Stefan Sultana
-Opossum sorċid twil tal-Andi
-NK Široki Brijeg
-Opossum grazzjuż ta' Wood Sprite
-Teorija ta' kollox
-Carmel Formosa
-Tuneżija
+Mary Fenech Adami
+Euarchonta
+Mohamed Bouazizi
+Kwalifikazzjoni għat-Tazza tad-Dinja tal-Futbol 2010 (UEFA) - Grupp 7
+Siġġiewi FC
+Edward Sapir
+No. 5, 1948
+Joe Mizzi
+Daniel Van Buyten
+Lingwa Kroata
+Premier League Malti 1937–38
+Monasteru ta' Sopoćani
+Marcel Langiller
+Soċjetà tad-Duttrina Nisranija
+Liebru Etjopjan
+Art tal-Inċens
+George Abela
+Tupaja ta' Madras
+Gabon
+FK Vilnius
+Il-Ballett ta' Kosovo
+Don Pino Puglisi
+Leeds United FC
+Belt ta' Vicenza u l-Vilel ta' Palladio fil-Veneto
+Claudine Picardet
+San Bastjan
+Pangea
+ORCID
+FC Encamp
+Udo Nwoko
 'Verschlossene Auster' award
 -Għarab
 -faġija
@@ -148,6 +148,7 @@ Tuneżija
 11 ta' Ottubru1
 11 ta' Settembru
 11 ta' Ġunju
+12 Years a Slave
 12 ta' April
 12 ta' Awwissu
 12 ta' Diċembru
@@ -1016,6 +1017,7 @@ Ahmed bey Aghaoghlu
 Ahmet Ağaoğlu
 Ahn Jung-Hwan
 Ai Weiwei
+Aida Garifullina
 Aidan Dodson
 Aiden McGeady
 Aidy Boothroyd
@@ -1300,6 +1302,7 @@ Aleksandr Trofimov
 Aleksandr Trophimov
 Aleksandr Yakovlevich Khinchin
 Aleksandr Zhidkov
+Aleksandras Vanagas
 Aleksandro Silbernik
 Aleksandrs Cauņa
 Aleksandrs Starkovs
@@ -1930,6 +1933,7 @@ Anthony van Dyck
 Anthony Šerić
 Anti-communism
 Antibijotiku
+Antica Dolceria Bonajuto
 Antidipressant
 Antidipressant triċikliku
 Antifone
@@ -3145,6 +3149,7 @@ Bennej
 Benni McCarthy
 Benny Camilleri
 Beograd
+Beppe Fenech Adami
 Beppe Muscat
 Beraq
 Berat
@@ -3308,6 +3313,7 @@ Bishkek
 Bismarck Mausoleum
 Bismut
 Bistra voda
+Bitcoin
 Bitola
 Bixente Lizarazu
 Biċċeriji (Buenos Aires)
@@ -3343,6 +3349,7 @@ Bliet Antiki tal-Pyu
 Bliet Serbi
 Blithe Spirit
 Blogg
+Bloggosfera
 Blokk tax-Xellug
 Bloodbath in Paradise
 Bloomfield Stadium
@@ -5352,6 +5359,7 @@ Devon
 Devín
 Dewterokanoniċi
 Dewteronomju
+Dexter Walters
 Deċimali
 Deżert
 Deżert Atacama
@@ -5744,6 +5752,7 @@ Dritt
 Dritt Internazzjonali
 Dritt ta' ażil
 Drittijiet fiżiċi u ġuridiċi
+Drittijiet tax-xandir tal-Kampjonati Ewropej tal-Futbol 2008
 Drittijiet umani
 Driving One Of Your Cars
 Driving One of Your Cars
@@ -5937,6 +5946,7 @@ Edison Luis dos Santos
 Edison Medal
 Edison Méndez
 Edita Gruberová
+Edith Grossman
 Edith Schiele
 Edith Stein
 Editt ta' Milan
@@ -6164,6 +6174,7 @@ Elisa di Rivombrosa
 Elisabeth Bürg
 Elisabeth Bürgis
 Elisabeth Farnese
+Elisabeth Frink
 Elisabeth Förster-Nietzsche
 Elisabeth van Gogh
 Elisabetta Canalis
@@ -6207,6 +6218,7 @@ Else Schilback
 Elshan Abdullayev
 Elshan Mammadov
 Elton John
+Elvas
 Elvin Aliyev
 Elvin Beqiri
 Elvin Mammadov
@@ -6313,6 +6325,7 @@ Emmanuel Cauchi
 Emmanuel Culio
 Emmanuel Eboué
 Emmanuel Emenike
+Emmanuel Galea
 Emmanuel George Cefai
 Emmanuel Gerada
 Emmanuel Macron
@@ -7337,6 +7350,7 @@ Fenek ta' Bunyoro
 Fenek ta' denbu qotni
 Fenek ta' denbu qotni tad-deżert
 Fenek ta' denbu qotni tal-Messiku
+Fenek ta' denbu qotni tal-muntanji ta' Appalach
 Fenek ta' denbu qotni tal-muntanji ta' Davis
 Fenek ta' denbu qotni tat-Tres Marias
 Fenek tal-bassasa
@@ -8656,6 +8670,7 @@ Gone too long (album)
 Gonzaga
 Gonzalez-Duarte
 Gonzalo Higuaín
+Gonzalo Javier Rodríguez
 Gonzalo Pineda
 Gonçalo da Silveira
 Goodbye (kanzunetta ta' Alma Čardžić)
@@ -9401,6 +9416,7 @@ Helgi Daníelsson
 Helgi Sigurðsson
 Helios
 Heljocentrism
+Hella Keem
 Hellas Verona F.C.
 Hellas Verona FC
 Hello Saferide
@@ -10501,6 +10517,7 @@ Ittra ta’ Ġuda
 Ittri Kattoliċi
 Ittri Kbar
 Ittri kattoliċi
+Ittri mill-Mitħna Tiegħi
 Ittri ta’ San Pawl
 Ittri Żgħar
 Ittrju
@@ -10928,6 +10945,7 @@ Jesús Arellano
 Jesús Calvo Guadamuro
 Jesús Navas
 Jette
+Jetty Paerl
 Jeunesse Esch
 Jewish Autonomous Oblast
 Jeyhun Sultanov
@@ -11287,6 +11305,7 @@ Joseph Brincat
 Joseph Calleia
 Joseph Calleja
 Joseph Casha
+Joseph Cefai
 Joseph Cuschieri
 Joseph Daul
 Joseph Delaney
@@ -11538,6 +11557,7 @@ Justo Villar
 Juuka
 Juvaini
 Juvenal Olmos
+Juvenes Translatores
 Juventus
 Juventus FC
 Juventus Football Club
@@ -11965,6 +11985,7 @@ Karlu ta' Wales
 Karlu, Prinċep ta' Wales
 Karlu, prinċep ta' Wales
 Karlumanju
+Karmelitani
 Karmen Azzopardi
 Karmenu Mallia
 Karmenu Mifsud Bonnici
@@ -12226,6 +12247,7 @@ Kim Hoon
 Kim Il-sung
 Kim Jin-Kyu (futboler)
 Kim Jong-chul
+Kim Jong-il
 Kim Jong-nam
 Kim Jong-suk
 Kim Jong-sul
@@ -12720,6 +12742,7 @@ Kristall taċ-ċomb
 Kristallini
 Kristen Michal
 Kristen Viikmäe
+Kristian Green
 Kristian Laferla
 Kristien Hemmerechts
 Kristiine
@@ -12840,6 +12863,7 @@ Kunsilli lokali ta' Malta
 Kunsillier
 Kunvent Benedittin ta' San Ġwann f'Müstair
 Kunvent ta' Kristu f'Tomar
+Kunvent ta' Novodevichy
 Kunvent ta' Spiš
 Kunya-Urgench
 Kuopio
@@ -13288,6 +13312,7 @@ Leli ta’ Ħaż-Żgħir
 Lelio Luttazzi
 Lembang
 Lembá
+Lemma ta’ Borel-Cantelli
 Len Goulden
 Lena Belkina
 Lena Philipsson
@@ -13709,6 +13734,7 @@ Lista ta' Prim Ministri tal-Albanija
 Lista ta' Prim Ministri tal-Belarussja
 Lista ta' Prim Ministri tal-Gujana
 Lista ta' Prim Ministri tal-Ungerija
+Lista ta' Siti ta' Wirt Dinji f'Malta
 Lista ta' Siti ta' Wirt Dinji f'Ċipru
 Lista ta' Siti ta' Wirt Dinji fil-Bożnija-Ħerzegovina
 Lista ta' Siti ta' Wirt Dinji fil-Bulgarija
@@ -13748,6 +13774,7 @@ Lista ta' kowċis ta' Neftchi Baku PFC
 Lista ta' kowċis ta' RSC Anderlecht
 Lista ta' kumpaniji ta' Malta
 Lista ta' nies magħrufa bħala missirijiet jew ommijiet ta' xi ħaġa
+Lista ta' pajjiżi membri tal-Commonwealth tan-Nazzjonijiet
 Lista ta' pajjiżi mill-infiq militari
 Lista ta' pajjiżi mill-popolazzjoni
 Lista ta' pajjiżi skont id-daqs
@@ -14572,6 +14599,7 @@ Marco Reus
 Marco Rossi (futboler, 1964)
 Marco Serafini
 Marco Streller
+Marco Ureña
 Marco Zoro
 Marco van Basten
 Marcon Bezzina
@@ -14741,6 +14769,7 @@ Marjane Satrapi
 Marjanu Vella
 Marju Kõivupuu
 Mark A. Sammut
+Mark Barbara
 Mark Bresciano
 Mark Clattenburg
 Mark Danielewski
@@ -14959,6 +14988,7 @@ Master of Sport of the USSR
 Master of Surgery
 MasterCard
 Masters
+Masġar tal-Palm ta' Elche
 Mateja Kežman
 Matematika
 Matematiku
@@ -15320,6 +15350,7 @@ Michael Sittow
 Michael Skibbe
 Michael Streiter
 Michael Tait
+Michael Taylor
 Michael Thomas
 Michael Umaña
 Michael Woods
@@ -15514,6 +15545,7 @@ Mimolagus rodens
 Mimotonidae
 Mimoza Ahmeti
 Mina Miller
+Mina Witkojc
 Minaret ta' Jam
 Minas Gerais
 Mincio
@@ -15634,6 +15666,7 @@ Mohamed Kader
 Mohamed Messoudi
 Mohamed Nahiri
 Mohamed Salah
+Mohamed Soliman
 Mohammad Al-Bishi
 Mohammad Al-Shalhoub
 Mohammad Khouja
@@ -15717,6 +15750,7 @@ Mont-Saint-Michel
 Montaione
 Montana
 Monte Carlo
+Monte San Giorgio
 Monte Sant'Angelo
 Montecatini Terme
 Montecchi
@@ -16814,6 +16848,7 @@ Opossum bugeddum tat-Tramuntana
 Opossum far
 Opossum grazzjuż
 Opossum grazzjuż ta' Aceramarca
+Opossum grazzjuż ta' Wood Sprite
 Opossum grazzjuż tal-Brażil
 Opossum irqiq
 Opossum irqiq griż
@@ -16824,6 +16859,7 @@ Opossum irqiq ta' Panama
 Opossum irqiq ta' żaqqu bajda
 Opossum nanu mistur tal-Bolivja
 Opossum sorċid
+Opossum sorċid twil tal-Andi
 Opossum sufi
 Opossum sufi ta' Derby
 Opossum ta' denbu oħxon eleganti
@@ -18147,6 +18183,7 @@ Pika (sottoġeneru)
 Pika ta' Daurian
 Pika ta' Forrest
 Pika ta' Gansu
+Pika ta' Ladak
 Pika ta' Moupin
 Pika ta' Royle
 Pika ta' Turuchan
@@ -19158,6 +19195,7 @@ Radio Studio 54 Network
 Radiodue.
 Radiotelevizija Bosne i Hercegovine
 Radiša Ilić
+Radja Nainggolan
 Radjazzjoni
 Radjazzjoni adattiva
 Radjazzjoni elettromanjetika
@@ -19460,6 +19498,7 @@ Reliġjon Lhudija
 Reliġjon Nisranija
 Reliġjon f'Malta
 Reliġjon skond il-pajjiż
+Rembrandt
 Rembrandt House Museum
 Remembering Rediffusion in Malta: a history without future?
 Remigijus Pocius
@@ -20320,6 +20359,7 @@ Safety Catch (film)
 Safi (Marokk)
 Safiyya bint Huyayy
 Safiyyah bint ‘Abd al-Muttalib
+Safranbolu
 Saghatheriinae
 Saghatherium
 Saghatherium antiquus
@@ -20540,6 +20580,7 @@ Sandringham
 Sandringham House
 Sandro Botticelli
 Sandro Gambin
+Sandro Pertini
 Sandro Rosell
 Sandy Alderson
 Sandycove
@@ -22188,6 +22229,7 @@ Séoul
 Sérgio Conceição
 Sócrates
 Sölvi Ottesen
+Söyembikä
 SønderjyskE
 SønderjyskE Fodbold
 Søren Kierkegaard
@@ -22762,6 +22804,7 @@ Teorema ta' Wilson
 Teorija kważi newtrali tal-evoluzzjoni molekolari
 Teorija newtrali tal-evoluzzjoni molekolari
 Teorija ta' Sturm-Liouville
+Teorija ta' kollox
 Teorija tal-Forom
 Teorija tal-Prinċipji ul-Patrametri
 Teorija tal-grafi
@@ -22856,6 +22899,7 @@ The Jewish Bride
 The Last Communion of St Jerome
 The Long and Winding Road
 The Lost World
+The Loud House Movie
 The Malta Independent
 The Marriage of the Virgin
 The Merry Wives of Windsor
@@ -24519,6 +24563,7 @@ Valle Latina
 Valle d'Aosta
 Valletta
 Valletta FC
+Vallée de Mai
 Valon Behrami
 Valperga
 Valseca
@@ -24568,6 +24613,7 @@ Vasas SC
 Vasco Rossi
 Vasco da Gama
 Vasil Levski National Stadium
+Vasile Milea
 Vasili Berezutski
 Vasili Berezutskiy
 Vasili Pronchishchev
@@ -24894,6 +24940,7 @@ Vulcano
 Vule Trivunović
 Vulgata
 Vulkan (diżambigwazzjoni)
+Vulkan tat-Tajn ta’ Lökbatan
 Vurgun Huseynov
 Vurğun Hüseynov
 Vusal Gasimli
@@ -25337,6 +25384,7 @@ Xogħol tradott
 Xokk ipovolemiku
 Xoljiment tal-Unjoni Sovjetika
 Xorb mhux alkoħoliku
+Xprunara
 Yacouba Bamba
 Yahoo!
 Yahya Golmohammadi
@@ -25435,6 +25483,7 @@ Yuri Gagarin
 Yuri Illichev
 Yuri Kirillov
 Yuri Kosin
+Yuri Lysianskyi
 Yuri Puntus
 Yuri Romensky
 Yuri Zhevnov
@@ -25890,6 +25939,7 @@ transistor
 Ġużè Galea
 Ġużè Muscat Azzopardi
 Ġużè Orlando
+Ġwann Battista de La Salle
 Ġwann Mamo
 Ġwanni I tal-Portugall
 Ġwanni III
@@ -26093,6 +26143,7 @@ transistor
 Żona Bafer tan-Nazzjonijiet Uniti f'Ċipru
 Żona Ekonomika Esklussiva
 Żona Protetta ta' Jungfrau-Aletsch
+Żona Protetta ta' Pliva, Janj u r-Riżerva ta' Janjske Otoke
 Żona Schengen
 Żona Temperata
 Żona littorali
@@ -26102,6 +26153,7 @@ transistor
 Żona tal-ħin
 Żona tal-ħin taċ-Ċina
 Żona ħielsa tar-Repubblika taċ-Ċina
+Żoni Storiċi ta' Gyeongju
 Żoni ta' Okkupazzjoni alleati fil-Ġermanja
 Żoologu
 Żooloġija
@@ -26201,6 +26253,7 @@ transistor
 11 ta' Ottubru1
 11 ta' Settembru
 11 ta' Ġunju
+12 Years a Slave
 12 ta' April
 12 ta' Awwissu
 12 ta' Diċembru
@@ -27069,6 +27122,7 @@ Ahmed bey Aghaoghlu
 Ahmet Ağaoğlu
 Ahn Jung-Hwan
 Ai Weiwei
+Aida Garifullina
 Aidan Dodson
 Aiden McGeady
 Aidy Boothroyd
@@ -27353,6 +27407,7 @@ Aleksandr Trofimov
 Aleksandr Trophimov
 Aleksandr Yakovlevich Khinchin
 Aleksandr Zhidkov
+Aleksandras Vanagas
 Aleksandro Silbernik
 Aleksandrs Cauņa
 Aleksandrs Starkovs
@@ -27983,6 +28038,7 @@ Anthony van Dyck
 Anthony Šerić
 Anti-communism
 Antibijotiku
+Antica Dolceria Bonajuto
 Antidipressant
 Antidipressant triċikliku
 Antifone
@@ -28309,6 +28365,7 @@ Art Nouveau
 Art Sullivan
 Art deco
 Art mistagħdra
+Art tal-Inċens
 Art tal-Irġiel
 Artak Andrikyan
 Artak Grigoryan (futboler)
@@ -29149,6 +29206,7 @@ Belt primat
 Belt ta' Guanajuato
 Belt ta' New York
 Belt ta' San Marino
+Belt ta' Vicenza u l-Vilel ta' Palladio fil-Veneto
 Belt tal-Gwatemala
 Belt tal-Kuwajt
 Belt tal-Messiku
@@ -29198,6 +29256,7 @@ Bennej
 Benni McCarthy
 Benny Camilleri
 Beograd
+Beppe Fenech Adami
 Beppe Muscat
 Beraq
 Berat
@@ -29361,6 +29420,7 @@ Bishkek
 Bismarck Mausoleum
 Bismut
 Bistra voda
+Bitcoin
 Bitola
 Bixente Lizarazu
 Biċċeriji (Buenos Aires)
@@ -29396,6 +29456,7 @@ Bliet Antiki tal-Pyu
 Bliet Serbi
 Blithe Spirit
 Blogg
+Bloggosfera
 Blokk tax-Xellug
 Bloodbath in Paradise
 Bloomfield Stadium
@@ -30478,6 +30539,7 @@ Claudia Faniello
 Claudia Goldin
 Claudia Sheinbaum
 Claudia Vasilievna Jeltsina
+Claudine Picardet
 Claudio Achillini
 Claudio Caniggia
 Claudio Chiqui Tapia Stadium
@@ -31723,6 +31785,7 @@ Don Dailey
 Don Grate
 Don Howe
 Don León Kolbowsky Stadium
+Don Pino Puglisi
 Don Rodgers
 Don Welsh
 Don't Ever Cry
@@ -31798,6 +31861,7 @@ Dritt
 Dritt Internazzjonali
 Dritt ta' ażil
 Drittijiet fiżiċi u ġuridiċi
+Drittijiet tax-xandir tal-Kampjonati Ewropej tal-Futbol 2008
 Drittijiet umani
 Driving One Of Your Cars
 Driving One of Your Cars
@@ -31991,6 +32055,7 @@ Edison Luis dos Santos
 Edison Medal
 Edison Méndez
 Edita Gruberová
+Edith Grossman
 Edith Schiele
 Edith Stein
 Editt ta' Milan
@@ -32369,6 +32434,7 @@ Emmanuel Cauchi
 Emmanuel Culio
 Emmanuel Eboué
 Emmanuel Emenike
+Emmanuel Galea
 Emmanuel George Cefai
 Emmanuel Gerada
 Emmanuel Macron
@@ -32657,6 +32723,7 @@ Etterbeek
 Ettore Puricelli
 Ettore Scola
 Euan Norris
+Euarchonta
 Euarchontoglires
 Eubalaena shinshuensis
 Eucla, Western Australia
@@ -33148,6 +33215,7 @@ FK Vardar
 FK Velež Mostar
 FK Ventspils
 FK Vilash Masalli
+FK Vilnius
 FK Vojvodina
 FK Voždovac
 FK Zemun
@@ -33393,6 +33461,7 @@ Fenek ta' Bunyoro
 Fenek ta' denbu qotni
 Fenek ta' denbu qotni tad-deżert
 Fenek ta' denbu qotni tal-Messiku
+Fenek ta' denbu qotni tal-muntanji ta' Appalach
 Fenek ta' denbu qotni tal-muntanji ta' Davis
 Fenek ta' denbu qotni tat-Tres Marias
 Fenek tal-bassasa
@@ -35458,6 +35527,7 @@ Helgi Daníelsson
 Helgi Sigurðsson
 Helios
 Heljocentrism
+Hella Keem
 Hellas Verona F.C.
 Hellas Verona FC
 Hello Saferide
@@ -35983,6 +36053,7 @@ Il giudice Mastrangelo
 Il ritorno del Monnezza
 Il sole nero
 Il vostro super agente Flit
+Il-Ballett ta' Kosovo
 Il-Cantilena
 Il-Fiddien
 Il-Għanja tar-Rebħa
@@ -36558,6 +36629,7 @@ Ittra ta’ Ġuda
 Ittri Kattoliċi
 Ittri Kbar
 Ittri kattoliċi
+Ittri mill-Mitħna Tiegħi
 Ittri ta’ San Pawl
 Ittri Żgħar
 Ittrju
@@ -36985,6 +37057,7 @@ Jesús Arellano
 Jesús Calvo Guadamuro
 Jesús Navas
 Jette
+Jetty Paerl
 Jeunesse Esch
 Jewish Autonomous Oblast
 Jeyhun Sultanov
@@ -37071,6 +37144,7 @@ Joe Ledley
 Joe Magunda
 Joe Micallef Stafrace
 Joe Mifsud
+Joe Mizzi
 Joe Nathan
 Joe Nickell
 Joe Saliba (1941–2013)
@@ -37344,6 +37418,7 @@ Joseph Brincat
 Joseph Calleia
 Joseph Calleja
 Joseph Casha
+Joseph Cefai
 Joseph Cuschieri
 Joseph Daul
 Joseph Delaney
@@ -37595,6 +37670,7 @@ Justo Villar
 Juuka
 Juvaini
 Juvenal Olmos
+Juvenes Translatores
 Juventus
 Juventus FC
 Juventus Football Club
@@ -38022,6 +38098,7 @@ Karlu ta' Wales
 Karlu, Prinċep ta' Wales
 Karlu, prinċep ta' Wales
 Karlumanju
+Karmelitani
 Karmen Azzopardi
 Karmenu Mallia
 Karmenu Mifsud Bonnici
@@ -38283,6 +38360,7 @@ Kim Hoon
 Kim Il-sung
 Kim Jin-Kyu (futboler)
 Kim Jong-chul
+Kim Jong-il
 Kim Jong-nam
 Kim Jong-suk
 Kim Jong-sul
@@ -38777,6 +38855,7 @@ Kristall taċ-ċomb
 Kristallini
 Kristen Michal
 Kristen Viikmäe
+Kristian Green
 Kristian Laferla
 Kristien Hemmerechts
 Kristiine
@@ -38897,6 +38976,7 @@ Kunsilli lokali ta' Malta
 Kunsillier
 Kunvent Benedittin ta' San Ġwann f'Müstair
 Kunvent ta' Kristu f'Tomar
+Kunvent ta' Novodevichy
 Kunvent ta' Spiš
 Kunya-Urgench
 Kuopio
@@ -39345,6 +39425,7 @@ Leli ta’ Ħaż-Żgħir
 Lelio Luttazzi
 Lembang
 Lembá
+Lemma ta’ Borel-Cantelli
 Len Goulden
 Lena Belkina
 Lena Philipsson
@@ -39526,6 +39607,7 @@ Lie Paro Ngavouka-Tseke
 Liebig Medal
 Liebru
 Liebru Abissinjan
+Liebru Etjopjan
 Liebru Ewropew
 Liebru Korean
 Liebru Manċurjan
@@ -39766,6 +39848,7 @@ Lista ta' Prim Ministri tal-Albanija
 Lista ta' Prim Ministri tal-Belarussja
 Lista ta' Prim Ministri tal-Gujana
 Lista ta' Prim Ministri tal-Ungerija
+Lista ta' Siti ta' Wirt Dinji f'Malta
 Lista ta' Siti ta' Wirt Dinji f'Ċipru
 Lista ta' Siti ta' Wirt Dinji fil-Bożnija-Ħerzegovina
 Lista ta' Siti ta' Wirt Dinji fil-Bulgarija
@@ -39805,6 +39888,7 @@ Lista ta' kowċis ta' Neftchi Baku PFC
 Lista ta' kowċis ta' RSC Anderlecht
 Lista ta' kumpaniji ta' Malta
 Lista ta' nies magħrufa bħala missirijiet jew ommijiet ta' xi ħaġa
+Lista ta' pajjiżi membri tal-Commonwealth tan-Nazzjonijiet
 Lista ta' pajjiżi mill-infiq militari
 Lista ta' pajjiżi mill-popolazzjoni
 Lista ta' pajjiżi skont id-daqs
@@ -40587,6 +40671,7 @@ Marcel Cerdan
 Marcel De Corte
 Marcel Desailly
 Marcel Halstenberg
+Marcel Langiller
 Marcel Paeschen
 Marcel Paquet
 Marcel Proust
@@ -40629,6 +40714,7 @@ Marco Reus
 Marco Rossi (futboler, 1964)
 Marco Serafini
 Marco Streller
+Marco Ureña
 Marco Zoro
 Marco van Basten
 Marcon Bezzina
@@ -40798,6 +40884,7 @@ Marjane Satrapi
 Marjanu Vella
 Marju Kõivupuu
 Mark A. Sammut
+Mark Barbara
 Mark Bresciano
 Mark Clattenburg
 Mark Danielewski
@@ -41378,6 +41465,7 @@ Michael Sittow
 Michael Skibbe
 Michael Streiter
 Michael Tait
+Michael Taylor
 Michael Thomas
 Michael Umaña
 Michael Woods
@@ -41572,6 +41660,7 @@ Mimolagus rodens
 Mimotonidae
 Mimoza Ahmeti
 Mina Miller
+Mina Witkojc
 Minaret ta' Jam
 Minas Gerais
 Mincio
@@ -41687,11 +41776,13 @@ Mogħos
 Mogħża
 Mohamed Aboutreika
 Mohamed Al-Deayea
+Mohamed Bouazizi
 Mohamed Guezzaz
 Mohamed Kader
 Mohamed Messoudi
 Mohamed Nahiri
 Mohamed Salah
+Mohamed Soliman
 Mohammad Al-Bishi
 Mohammad Al-Shalhoub
 Mohammad Khouja
@@ -41750,6 +41841,7 @@ Monasteru ta' Horezu
 Monasteru ta' Maulbronn
 Monasteru ta' Rila
 Monasteru ta' Saint-Paul-de-Mausole
+Monasteru ta' Sopoćani
 Monasteru ta' São Vicente de Fora
 Monasteru ta' Voroneț
 Monasteru tal-Ġlormini
@@ -41775,6 +41867,7 @@ Mont-Saint-Michel
 Montaione
 Montana
 Monte Carlo
+Monte San Giorgio
 Monte Sant'Angelo
 Montecatini Terme
 Montecchi
@@ -42539,6 +42632,7 @@ No (teatru)
 No Cav
 No Name
 No Rest of the Wicked
+No. 5, 1948
 Nobel Prize
 Nobelju
 Noctilio leporinus
@@ -42665,6 +42759,7 @@ OFK Beograd
 OFK Petrovac
 OGC Nice
 OII Lifetime Achievement Award
+ORCID
 ORCID (identifikatur)
 Oakland
 Obedience Award
@@ -43408,6 +43503,7 @@ Pandemija tal-COVID-19 tal-2019–20
 Pandemika tal-influenza 1918-1920
 Panevėžys
 Panezju
+Pangea
 Pangolin
 Pangolin Indjan
 Pangolin Ċiniż
@@ -44207,6 +44303,7 @@ Pika (sottoġeneru)
 Pika ta' Daurian
 Pika ta' Forrest
 Pika ta' Gansu
+Pika ta' Ladak
 Pika ta' Moupin
 Pika ta' Royle
 Pika ta' Turuchan
@@ -45218,6 +45315,7 @@ Radio Studio 54 Network
 Radiodue.
 Radiotelevizija Bosne i Hercegovine
 Radiša Ilić
+Radja Nainggolan
 Radjazzjoni
 Radjazzjoni adattiva
 Radjazzjoni elettromanjetika
@@ -45520,6 +45618,7 @@ Reliġjon Lhudija
 Reliġjon Nisranija
 Reliġjon f'Malta
 Reliġjon skond il-pajjiż
+Rembrandt
 Rembrandt House Museum
 Remembering Rediffusion in Malta: a history without future?
 Remigijus Pocius
@@ -46380,6 +46479,7 @@ Safety Catch (film)
 Safi (Marokk)
 Safiyya bint Huyayy
 Safiyyah bint ‘Abd al-Muttalib
+Safranbolu
 Saghatheriinae
 Saghatherium
 Saghatherium antiquus
@@ -46600,6 +46700,7 @@ Sandringham
 Sandringham House
 Sandro Botticelli
 Sandro Gambin
+Sandro Pertini
 Sandro Rosell
 Sandy Alderson
 Sandycove
@@ -48248,6 +48349,7 @@ Séoul
 Sérgio Conceição
 Sócrates
 Sölvi Ottesen
+Söyembikä
 SønderjyskE
 SønderjyskE Fodbold
 Søren Kierkegaard
@@ -48917,6 +49019,7 @@ The Jewish Bride
 The Last Communion of St Jerome
 The Long and Winding Road
 The Lost World
+The Loud House Movie
 The Malta Independent
 The Marriage of the Virgin
 The Merry Wives of Windsor
@@ -50000,6 +50103,7 @@ Tupaiidae
 Tupaja
 Tupaja komuni
 Tupaja rqiq
+Tupaja ta' Madras
 Tupaja ta' Nikobar
 Tupaja ta' Palaw
 Tupaja ta' saqajħ twal
@@ -50580,6 +50684,7 @@ Valle Latina
 Valle d'Aosta
 Valletta
 Valletta FC
+Vallée de Mai
 Valon Behrami
 Valperga
 Valseca
@@ -50629,6 +50734,7 @@ Vasas SC
 Vasco Rossi
 Vasco da Gama
 Vasil Levski National Stadium
+Vasile Milea
 Vasili Berezutski
 Vasili Berezutskiy
 Vasili Pronchishchev
@@ -50955,6 +51061,7 @@ Vulcano
 Vule Trivunović
 Vulgata
 Vulkan (diżambigwazzjoni)
+Vulkan tat-Tajn ta’ Lökbatan
 Vurgun Huseynov
 Vurğun Hüseynov
 Vusal Gasimli
@@ -51497,6 +51604,7 @@ Yuri Gagarin
 Yuri Illichev
 Yuri Kirillov
 Yuri Kosin
+Yuri Lysianskyi
 Yuri Puntus
 Yuri Romensky
 Yuri Zhevnov
@@ -51952,6 +52060,7 @@ transistor
 Ġużè Galea
 Ġużè Muscat Azzopardi
 Ġużè Orlando
+Ġwann Battista de La Salle
 Ġwann Mamo
 Ġwanni I tal-Portugall
 Ġwanni III
@@ -52155,6 +52264,7 @@ transistor
 Żona Bafer tan-Nazzjonijiet Uniti f'Ċipru
 Żona Ekonomika Esklussiva
 Żona Protetta ta' Jungfrau-Aletsch
+Żona Protetta ta' Pliva, Janj u r-Riżerva ta' Janjske Otoke
 Żona Schengen
 Żona Temperata
 Żona littorali

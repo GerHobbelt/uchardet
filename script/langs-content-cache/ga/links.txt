@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Criptifít
-2018 Wuhan Open
-Stánphláta
-Mianach (pléascán)
-Chandrasekhara Venkata Raman
-Píoba uilleann
-Cuan Mó
-Cúán úa Lothcháin
-Superman
-Kylie Minogue
-Conchúr mac Taidhg Mhóir
-Liosta Asanaí
-Donal O'Donoghue
-George Bass
-Islamabad
-Luis Carrero Blanco
-Na Gaibhlte
-Méara Muire
-Market Rasen
-Frank Kelly
-Portobello Road
-Niaibiam
-PJ Harvey
-Blue Lives Matter
-Ialtóg thuaisceartach
-Ceallailít
-Wang Qiang (leadóg)
-1073
-Inneall Turbai-fean
-Beinn Stac
+Indira Gandhi
+Contae Hanson, Dakota Theas
+Roy Evans
+Sgalpaigh an t-Sratha
+Argain Dinn Rí
+José María Aznar
+Ard na Ria
+Gleann Freóin
+Princes Risborough
+Foirsítia
+EastEnders
+Francach dubh
+Tadhlaí
+Fliú na muc (idirdhealú)
+Jack Dempsey
+Ceann-Achadh
+John Cazale
+Galar Paget
+1422
+Sandie Jones
+Kaufman, Texas
+Sorcas
+Margaret Skinnider
+Metropolis (scannán 1927)
+Holbeach
+Ezbet el-Haggana
+Ceann Loch Iú
+436
+Toirdhealbhach Carrach Ó Conchubhair
+Cincíseachas
 "Love, Blactually
 "Peter's Two Dads
 "The Misfits"
@@ -177,6 +177,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 109 Tauri
 10th edition of Systema Naturae
 10ú haois
+10ú haois RC
 10ú milaois RC
 11 (uimhir)
 11 Aibreán
@@ -536,6 +537,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 1931 sa teilifís
 1932 Wimbledon Championships
 1933 Wimbledon Championships
+1933 sa teilifís
 1934 Wimbledon Championships
 1935 Wimbledon Championships
 1936 Wimbledon Championships
@@ -1572,6 +1574,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 595 (uimhir)
 596 (uimhir)
 597 (uimhir)
+597 RC
 598 (uimhir)
 599 (uimhir)
 5Select
@@ -2600,6 +2603,7 @@ Aerfort Idirnáisiúnta Bhéal Feirste
 Aerfort Idirnáisiúnta Dallas/Fort Worth
 Aerfort Idirnáisiúnta John F. Kennedy
 Aerfort Idirnáisiúnta Newark
+Aerfort Londain-Heathrow
 Aerfort Manila
 Aerfort Oileán Mhanann
 Aerfort Phort Láirge
@@ -2771,6 +2775,7 @@ Aidan Davitt
 Aidan Farrelly
 Aidan Price
 Aidbhint
+Aided Cheltchair maic Uthechair
 Aided Con Culainn
 Aided Echach meic Maíreda
 Aided Nath Í
@@ -4456,6 +4461,7 @@ An Fhionlainn i gComórtas Amhránaíochta na hEoraifíse
 An Fhionlainnis
 An Fhleadh Cheoil
 An Fhoirnéis
+An Fhonais
 An Fhoraois Dhubh
 An Fhorrach
 An Fhorrach agus an Réabán Thiar
@@ -6824,6 +6830,7 @@ Baile na Finne
 Baile na Leasán
 Baile na Lobhar
 Baile na Lorgan
+Baile na Lorgan, Contae Thír Eoghain
 Baile na Mainistreach
 Baile na Manach
 Baile na Molt
@@ -7281,6 +7288,7 @@ Beacon Falls, Connecticut
 Beacon Press
 Beaconsfield
 Beaconsfield (Toghcheantar na Ríochta Aontaithe)
+Beacán draíochta
 Beagóinia
 Bealach Conglais
 Bealach Eabhra
@@ -7394,6 +7402,7 @@ Beinn Narnain
 Beinn Nibheis
 Beinn Reithe
 Beinn Rothaich
+Beinn Stac
 Beinn a' Chaisteil
 Beinn a' Chaolais
 Beinn an Lochain
@@ -7911,6 +7920,7 @@ Blossomfield
 Blow Out
 Blue Harvest
 Blue In The Face
+Blue Lives Matter
 Blue Mountains
 Blue Ridge Mountains
 Bluegrass region
@@ -9514,6 +9524,7 @@ Caisleán Bolingbroke
 Caisleán Bolsover
 Caisleán Bolton
 Caisleán Brougham
+Caisleán Carrach
 Caisleán Carraig Mhaighin
 Caisleán Castle Rising
 Caisleán Charraig Fhearghais
@@ -9869,6 +9880,7 @@ Caracas
 Carachtair American Horror Story
 Carachtar (ríomhaireacht)
 Carbaihiodráit
+Carbhat cuachóige
 Carbondale, Illinois
 Carbonia
 Carbón
@@ -10125,6 +10137,7 @@ Cath Bunker Hill
 Cath Cairn Chonaill
 Cath Cairnd Chonaill
 Cath Cairnd Chonaill ria Diarmait mac Aeda Sláni for Guari Adni
+Cath Cambrai (1917)
 Cath Carn Ailche
 Cath Carn Feradaig
 Cath Cer
@@ -10342,6 +10355,7 @@ Catonsville, Maryland
 Catriona Casey
 Catscratch
 Catskill Mountains
+Catsúileach ballach
 Catterick Garrison
 Catubodua
 Catullus
@@ -10373,6 +10387,7 @@ Ceallach mac Maoil Chobha
 Ceallach Ó Cellaigh
 Ceallach, easpag Ard Mhacha
 Ceallachán Chaisil
+Ceallailít
 Ceallra
 Ceamara frithchaithimh aonlionsa
 Ceanada
@@ -10809,6 +10824,7 @@ Chan Hao-ching
 Chan Yung-jan
 Chandler, Arizona
 Chandmani-Öndör (Khövsgöl)
+Chandrasekhara Venkata Raman
 Chang Kai-chen
 Changeland
 Changwon
@@ -11665,6 +11681,7 @@ Cletus Spuckler
 Clevedon
 Cleveland
 Cleveland (idirdhealú)
+Cleveland Abbe
 Cleveland Brown
 Cleveland Brown, Jr.
 Cleveland Browns
@@ -11729,6 +11746,7 @@ Clocháin
 Clochán
 Clochán an Aifir
 Clochán, Contae an Chabháin
+Clogad
 Clogher Record
 Cloich na Coillte
 Cloigtheach
@@ -12747,6 +12765,7 @@ Comórtas Amhránaíochta Eoraifíse na hÁise 2018
 Comórtas Amhránaíochta Eoraifíse na hÁise 2019
 Comórtas Amhránaíochta Eoraifíse na nÓg 2007
 Comórtas Amhránaíochta Eoraifíse na nÓg 2015
+Comórtas Amhránaíochta Eoraifíse na nÓg 2017
 Comórtas Amhránaíochta Eoraifíse na nÓg 2018
 Comórtas Amhránaíochta Eoraifíse na nÓg 2019
 Comórtas Amhránaíochta Eoraifíse na nÓg 2020
@@ -12893,6 +12912,7 @@ Conchur Ó Colbaird
 Conchúr Crús Ó Briain
 Conchúr Mac Mathúna
 Conchúr mac Neasa
+Conchúr mac Taidhg Mhóir
 Conchúr Ó Briain
 Conchúr Ó Cuana
 Conchúr Ó Garmaile
@@ -15710,6 +15730,7 @@ Coróin na Bairdne
 Coróin na Caistíle
 Coróinvíreas
 Corón na hAragóine
+Cosacaigh
 Cosantachas
 Cosantóir
 Cosdeargán
@@ -16062,6 +16083,8 @@ Criostóir Colambas
 Criostóir Uí Rinn
 Criostóir Ó Rinn
 Cripteagrafaíocht
+Criptifít
+Crisitíl
 Crispin Glover
 Cristiano Ronaldo
 Crith talún
@@ -16423,6 +16446,8 @@ Cumar na dTrí Uisce
 Cumaradh Beag
 Cumaradh Mór
 Cumarsáid
+Cumarsáid mhalartach breise
+Cumasc (ailtireacht)
 Cumascach mac Fógartaigh
 Cumberland Mountains
 Cumberland Plateau
@@ -16759,6 +16784,7 @@ Cúrsaigh
 Cúrsaí spóirt in Éirinn
 Cúrsóir Moskva de chuid na Rúise
 Cúán mac Amalgado
+Cúán úa Lothcháin
 D Day
 D'oh Canada
 D'oh-in' in the Wind
@@ -16812,6 +16838,7 @@ Daithí de Búrca
 Daithí Ó Ceallacháin
 Daithí Ó Coileáin
 Daithí Ó Coimín
+Daithí Ó Muirí
 Daithí Ó Treasaigh
 Daithí Ó hAirt
 Daithí Ó hUaithne: Cuimhní Cairde
@@ -17040,6 +17067,7 @@ Darien, Connecticut
 Darija Jurak
 Darin Morgan
 Darini
+Dario Fo
 Darius III
 Dark Blue
 Dark Cousin (American Horror Story)
@@ -17297,6 +17325,7 @@ Deilt Arkansas
 Deilt na hAbhann Péarla
 Deilí
 Deilí Nua
+Deimhidh
 Deimos
 Deinze
 Deirdre
@@ -17794,6 +17823,7 @@ Doire na Maol
 Doirín Salach
 Doktor Nauk in Biology
 Dolar
+Doldroma
 Dolgarrog
 Dolgellau
 Dolla
@@ -18300,6 +18330,7 @@ Duine
 Duke Ellington
 Duke University Press
 Duke of Westminster
+Dul Chreachaird
 Dulverton
 Dumas, Texas
 Dumbbell Indemnity
@@ -18526,6 +18557,7 @@ Dónall Óg
 Død Kalm (eipeasóid The X-Files)
 Dùghall Bochanan
 Dùn Ad
+Dùn Bheathadh
 Dùn Dè an Ear (Toghcheantar na Ríochta Aontaithe)
 Dùn Dèagh
 Dùn Dèagh Aonaichte
@@ -18547,6 +18579,7 @@ Dúiche na Réine
 Dúiche na bhFíonlann
 Dúil cheimiceach
 Dúil chlasaiceach
+Dúlagar iarbhreithe
 Dúlainn
 Dúlais (Oileán Mhanann)
 Dúloch
@@ -18746,6 +18779,7 @@ Ealaín Cheilteach
 Ealaín Ghotach
 Ealaín Lochlannach
 Ealaín ar Oileán
+Ealaín na Meánaoise
 Ealaín na hAstráile
 Ealaín na hIndia
 Ealaín na nOileán
@@ -20174,6 +20208,7 @@ Film noir
 Film4
 Filton agus Bradley Stoke (Toghcheantar na Ríochta Aontaithe)
 Filíocht
+Finchley Thoir
 Findabair
 Finders Keepers
 Finding Dory
@@ -20857,6 +20892,7 @@ Fuaim
 Fuaimíocht
 Fuamnach
 Fuarán
+Fuascailt Dheiridh
 Fuascailt na gCaitliceach
 Fudbalski klub Crvena zvezda
 Fuigeanna (páirtí polaitíochta)
@@ -20985,6 +21021,7 @@ Fásach Uí Deighnín
 Fásach an Deighnín
 Fásteanga
 Fástini Airt meic Cuind ocus a chretem
+Féar Suaithinseach
 Féarthalamh
 Féasóg
 Féatas
@@ -21399,6 +21436,7 @@ Galar croí
 Galar néarón luadrach
 Galar radaíochta
 Galar scamhóige toirmeascach ainsealach
+Galar sistéamach
 Galar tógálach
 Galar víris Ebola
 Galesburg, Illinois
@@ -21513,6 +21551,7 @@ Garraí an Chabáiste
 Garraí an Chaisleáin
 Garraí na nGabhlán
 Garraíodóireacht
+Garraíodóireacht phictiúrtha
 Garret Ahearn
 Garret Fitzgerald
 Garret Hobart
@@ -21817,6 +21856,7 @@ George A. Romero
 George Appleton
 George Armstrong Custer
 George Baker
+George Bass
 George Bell & Sons
 George Benson
 George Bernard Shaw
@@ -22672,6 +22712,7 @@ Green Haven, Maryland
 Green Party (Ireland)
 Green Tea (seó raidió)
 Green Zone
+Greenbank
 Greenbelt, Maryland
 Greenbrier, Arkansas
 Greendale, Victoria
@@ -22826,6 +22867,7 @@ Guess Who's Coming to Criticize Dinner?
 Guglielmo Marconi
 Guido Andreozzi
 Guido Pella
+Guido Westerwelle
 Guilbneach
 Guilbneach broinnrua
 Guilbneach earrdhubh
@@ -24144,6 +24186,7 @@ Ialtóg bharbastail Oirthearach
 Ialtóg luch-chluasach mhór
 Ialtóg mhucshrónach Kitti
 Ialtóg na meas
+Ialtóg thuaisceartach
 Iam Tongi
 Iamáice
 Ian Beale
@@ -24297,6 +24340,7 @@ Ilminster
 Ilnáisiúntach
 Ilréalta
 Ilstórach
+Ilteangachas
 Ilya Ivashka
 Imagine Me & You
 Imanpa
@@ -24507,6 +24551,7 @@ Inland Empire
 Inma Cuesta
 Inna hinada hi filet cind erred Ulad
 Inneall
+Inneall Turbai-fean
 Inneall cuardaigh
 Innealra
 Innealra leictreonach
@@ -24653,6 +24698,7 @@ Iodáil
 Iodáilis
 Iodálach
 Iodálaigh
+Ioguána
 Iolaird
 Iolar
 Iolar breac mór
@@ -24864,6 +24910,7 @@ Isidoro Sevilla
 Isidorus Hispalensis
 Isiteirm
 Isla Budge
+Islamabad
 Island Falls, Maine
 Isle of Palms, Carolina Theas
 Isle of Wight
@@ -25226,6 +25273,7 @@ Jane Lynch
 Jane O'Leary
 Jane Russell
 Jane Wilde
+Jane Wyman
 Janesville, Wisconsin
 Janet Devlin
 Janet Jackson
@@ -25395,6 +25443,7 @@ Jessica Moore (leadóg)
 Jessica Pegula
 Jessica Sanchez
 Jessica Sharzer
+Jessica Walter
 Jessie J
 Jessie Willcox Smith
 Jessika Ponchet
@@ -25606,6 +25655,7 @@ John Butler Yeats
 John Byrne
 John C. Breckinridge
 John C. Calhoun
+John C. Reilly
 John Cale
 John Carew
 John Carey
@@ -26481,6 +26531,7 @@ Kim Hayden
 Kim Il-sung
 Kim Jong-kun
 Kim Manners
+Kim Tate
 Kimball, Arkansas
 Kimberley Southwick
 Kimberly Po
@@ -26532,6 +26583,7 @@ Kirk Sutherland
 Kirkbymoorside
 Kirkland
 Kirkland, Washington
+Kirkpatrick Macmillan
 Kirsten Flipkens
 Kirsten Gillibrand
 Kirstie Alley
@@ -26650,6 +26702,7 @@ Kyle Broflovski
 Kyle Chandler
 Kyle Edmund
 Kyle Newman
+Kylie Minogue
 Kylie Platt
 Kyogle
 Kyoto
@@ -27402,6 +27455,7 @@ Lester Dent
 Lester Stoefen
 Lester Ó Riain
 Lester, Alabama
+Lesya Ukrainka
 Let It Be
 Let It Be (scannán)
 Let It Loose
@@ -27680,6 +27734,7 @@ Lioscaragáin
 Liospóin
 Liosta American Indian Reservations in Nua-Eabhrac
 Liosta Ard-Ríthe na hÉireann
+Liosta Asanaí
 Liosta Bailte Sciála in Utah
 Liosta Bithmhóilíní
 Liosta Cathracha in Alabama
@@ -28356,6 +28411,7 @@ Llanfihangel Pont-y-moel
 Llanfihangel Troddi
 Llanfihangel Ysgeifiog
 Llanfihangel-ar-arth
+Llanfihangel-y-Fedw
 Llanfihangel-y-Pennant
 Llanfrothen
 Llanfrynach
@@ -28548,6 +28604,7 @@ Loch an Iúir
 Loch an Leathbhaile
 Loch an Mhothair
 Loch an Oileáin
+Loch an Phoirt Mhóir
 Loch an Tairbeairt
 Loch gCál
 Loch nEathach
@@ -28606,6 +28663,7 @@ Lodainn an Ear
 Lodainn an Iar
 Loddon, Norfolk
 Lodi, California
+Lofsöngur
 Loftus, Yorkshire Thuaidh
 Lofty Holloway
 Log a' Choire
@@ -28834,6 +28892,7 @@ Luan Cásca
 Luan Naofa
 Luanda
 Luas (fisic)
+Luas (grianghrafadóireacht)
 Luas (tram)
 Luas Beag
 Luasaire cáithníní
@@ -28866,6 +28925,7 @@ Lucie Hradecká
 Lucie Jones
 Lucie Šafářová
 Lucienne Mackenzie Doig
+Lucilia (cuil)
 Lucille Ball
 Lucille La Verne
 Lucille LaVerne
@@ -29015,6 +29075,7 @@ Lynne Hobbs
 Lynwood, California
 Lyric FM
 Lysimachia clethroides
+Lytham St. Annes
 Lyudmyla Kichenok
 LÉ Aisling
 LÉ Aoife
@@ -30014,6 +30075,7 @@ Mark Woodforde
 Markeaton
 Marked for Murder
 Market Bosworth
+Market Rasen
 Market Weighton
 Markomannen
 Markos Kyprianou
@@ -30054,6 +30116,7 @@ Marseille
 Marsha Blackburn
 Marshall Cavendish
 Marshall, Texas
+Marshawn Lynch
 Marshfield, Wisconsin
 Marsilea crenata
 Marsúipiach
@@ -30258,6 +30321,7 @@ Matthew Barton
 Matthew Davis
 Matthew Ebden
 Matthew Faughnan
+Matthew Flinders
 Matthew Hussey
 Matthew Nastuk
 Matthew Nathan
@@ -30716,6 +30780,7 @@ Miami metropolitan area
 Miami, Florida
 Miami, Texas
 Mianach (mianadóireacht)
+Mianach (pléascán)
 Mianach na Teamhrach
 Mianadóireacht
 Miang kham
@@ -30943,6 +31008,7 @@ Micéiné
 Micí Mac Gabhann
 Micí Mac Giobúin
 Mid Coast
+Mid-West Radio
 Mid-Western Assassin (American Horror Story)
 Midas
 Middelburg
@@ -31285,6 +31351,7 @@ Monarchian Jacob
 Monatóir (ríomhaireacht)
 Moncaí
 Moncaí marmaisíneach ceannbhuí
+Moncaí sceadsrónach Martin
 Moncks Corner, Carolina Theas
 MoneyBart
 Mongfind
@@ -31323,6 +31390,7 @@ Montainéagró i gComórtas Amhránaíochta na hEoraifíse
 Montana
 Monte Carlo
 Montebello, California
+Montell Griffin
 Monterey Park, California
 Montgomery Village, Maryland
 Montgomery, Alabama
@@ -31680,6 +31748,7 @@ Mwynglawdd
 My Autobiography (Chaplin)
 My Belarusy
 My Big Fat Geek Wedding
+My Bloody Valentine
 My Brother Brendan
 My December Tour
 My Fair Laddy
@@ -31821,6 +31890,7 @@ Méadail mhéarach
 Méadailín (inchinn)
 Méadar
 Méara
+Méara Muire
 Méaraí Chathair Mheicsiceo
 Méaraí Washington, D.C.
 Méarchlár
@@ -32435,6 +32505,7 @@ Neil Morrissey
 Neil Young
 Neimheadh
 Neipeal
+Neiptiúiniam
 Neiptiún
 Neiptiún (pláinéad)
 Neisseria
@@ -32599,6 +32670,7 @@ Nia Segamain
 Niagara Falls, Nua-Eabhrac
 Niagara Frontier
 Niagara Whirlpool
+Niaibiam
 Niall Andrews
 Niall Blaney
 Niall Breslin
@@ -33018,6 +33090,7 @@ Nóiméad
 Nóinín mór
 Nóirín Ní Riain
 Nóvaicéin
+Núdail Biangbiang
 Núicleólas
 Núicléas adamhach
 Núicléas cille
@@ -33817,6 +33890,7 @@ P. J. Sheehan
 P.S. Ó Riain
 PAE Panathinaikos
 PEMEX
+PJ Harvey
 PLOS ONE
 PSDLO
 Pabaigh, Na Hearadh
@@ -34336,6 +34410,7 @@ Paul Gogarty
 Paul Greengard
 Paul Haarhuis
 Paul Heyse
+Paul Howard
 Paul Keating
 Paul Keddy
 Paul Kehoe
@@ -34898,6 +34973,7 @@ Pipturus argenteus
 Piratenpartei
 Piratenpartei Deutschland
 Pirates of Silicon Valley
+Pirates of the Caribbean: The Curse of the Black Pearl
 Pirixéiní
 Piréiní
 Piscidí
@@ -35154,6 +35230,7 @@ Pol Lirola
 Pol Neamhaí Theas
 Pol Pot
 Polagamas
+Polagán
 Polaiféamas
 Polaigíneas
 Polaimiailíteas
@@ -35361,6 +35438,7 @@ Portland, Oregon
 Portlaoise
 Porto
 Portobello (Baile Átha Cliath)
+Portobello Road
 Portráid
 Portráid Soiscéalaí
 Portsmouth
@@ -35407,6 +35485,7 @@ Prato
 Pratt, Kansas
 Prattville, Alabama
 Pray Anything
+Prayagraj
 Preab san Ól
 Preabaire duilleog
 Preboggion
@@ -36829,6 +36908,7 @@ Rialto, California
 Rialú teorann
 Rian Baingear
 Rian Johnson
+Rianphiléar
 Riarachán Bia is Drugaí
 Riasc
 Riasc an Chaoil
@@ -38625,6 +38705,7 @@ Seacaibíteach
 Seacaibíteachas
 Seacaibítigh
 Seachbhóthar
+Seachfhoinsiú thar lear
 Seachnasach mac Congail
 Seachnasach mac Donnchadha
 Seachnassach
@@ -38790,6 +38871,7 @@ Seirfeachas
 Seirín Eorpach
 Seisceann Odhar
 Seisceannán
+Seisyll ap Clydog
 Seitnicigh
 Selby
 Selena Gomez
@@ -39754,6 +39836,7 @@ Sling Blade
 Slinneán
 Sliogiasc
 Sliogán
+Sliogán rásúir
 Sloane Stephens
 Slobodan Milošević
 Slough (Toghcheantar na Ríochta Aontaithe)
@@ -39777,6 +39860,7 @@ Sléacht Thulaigh Álainn (1975)
 Sléacht i gCearnóg Tiananmen
 Sléacht i mBostún
 Sléibhte (baile fearainn)
+Sléibhte Adirondack
 Sléibhte Apaláiseacha
 Sléibhte Boston (Arkansas)
 Sléibhte Bán (Arizona)
@@ -39852,6 +39936,7 @@ Smólach imirce
 Smólach ordúil
 Smólach píbdhubh
 Smólach uisce tuaisceartach
+Snag (scairt)
 Snag breac
 Snag coiteann
 Snagaire darach
@@ -39880,6 +39965,7 @@ Snámh sioncronaithe
 Snámha ag na Cluichí Oileán 2017
 Snáthadán
 Snáthaid
+Snáthaid mhór lorgearrach
 Snáthaid mhór órfháinneach
 Snúcar
 So Dear to My Heart
@@ -40922,6 +41008,7 @@ Stáit Mheiriceá
 Stáit agus críocha na hAstráile
 Stáit an Phápa
 Stáit aonadach
+Stánphláta
 Stát (polaití)
 Stát Aontaithe
 Stát Comhshochaíochtiúl
@@ -41516,6 +41603,7 @@ Tadhg Ó Ceallaigh
 Tadhg Ó Cellaigh
 Tadhg Ó Conchúir
 Tadhg Ó Donnchadha
+Tadhg Ó Scanaill (múinteoir)
 Tadhg Ó hEáráin
 Tadhg Óg Ó Cellaigh
 Tadhg Óg Ó Cianáin
@@ -41895,6 +41983,7 @@ Teimisticléas
 Teine-ku
 Teinm laída
 Teireasár
+Teirmiceimic
 Teirmidinimic
 Teirmiméadar
 Teisle
@@ -44162,6 +44251,7 @@ Túr Trump
 Túrcú
 Túrloch
 Túsphointe Aries
+Tútmósa I
 Túvalú
 Tübingen
 Tünel (Khövsgöl)
@@ -44688,6 +44778,7 @@ Vayots Dzor
 Vector Arena
 Vee-Jay Records
 Veere
+Vega (spásárthach)
 Vega, Texas
 Veidhlín
 Veiniséala
@@ -45934,11 +46025,13 @@ Ypres
 Ypsilanti Township, Michigan
 Yr Eglwys Newydd
 Yr Hen Ogledd
+Yr Hôb
 Yr Orsedd
 Yr Wyddfa
 Yr Wyddgrug
 Yr Ystrad
 Yreka, California
+Ysbyty Ystwyth
 Ysceifiog
 Ysgol Glanaethwy
 Ysgol Maes Garmon
@@ -46599,6 +46692,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 109 Tauri
 10th edition of Systema Naturae
 10ú haois
+10ú haois RC
 10ú milaois RC
 11 (uimhir)
 11 Aibreán
@@ -46958,6 +47052,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 1931 sa teilifís
 1932 Wimbledon Championships
 1933 Wimbledon Championships
+1933 sa teilifís
 1934 Wimbledon Championships
 1935 Wimbledon Championships
 1936 Wimbledon Championships
@@ -47994,6 +48089,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 595 (uimhir)
 596 (uimhir)
 597 (uimhir)
+597 RC
 598 (uimhir)
 599 (uimhir)
 5Select
@@ -49022,6 +49118,7 @@ Aerfort Idirnáisiúnta Bhéal Feirste
 Aerfort Idirnáisiúnta Dallas/Fort Worth
 Aerfort Idirnáisiúnta John F. Kennedy
 Aerfort Idirnáisiúnta Newark
+Aerfort Londain-Heathrow
 Aerfort Manila
 Aerfort Oileán Mhanann
 Aerfort Phort Láirge
@@ -49193,6 +49290,7 @@ Aidan Davitt
 Aidan Farrelly
 Aidan Price
 Aidbhint
+Aided Cheltchair maic Uthechair
 Aided Con Culainn
 Aided Echach meic Maíreda
 Aided Nath Í
@@ -50878,6 +50976,7 @@ An Fhionlainn i gComórtas Amhránaíochta na hEoraifíse
 An Fhionlainnis
 An Fhleadh Cheoil
 An Fhoirnéis
+An Fhonais
 An Fhoraois Dhubh
 An Fhorrach
 An Fhorrach agus an Réabán Thiar
@@ -52431,6 +52530,7 @@ Ard Sratha
 Ard Tí Garbháin
 Ard Uí Luinín
 Ard na Caithne
+Ard na Ria
 Ard Éireann
 Ard-Aighne Shasana agus na Breataine Bige
 Ard-Aighne na hÉireann
@@ -52517,6 +52617,7 @@ Arenele BNR
 Arequipa
 Arezzo
 Arfon (Toghcheantar na Ríochta Aontaithe)
+Argain Dinn Rí
 Argas
 Argas, an Pheilipinéis
 Argo, Alabama
@@ -53246,6 +53347,7 @@ Baile na Finne
 Baile na Leasán
 Baile na Lobhar
 Baile na Lorgan
+Baile na Lorgan, Contae Thír Eoghain
 Baile na Mainistreach
 Baile na Manach
 Baile na Molt
@@ -53703,6 +53805,7 @@ Beacon Falls, Connecticut
 Beacon Press
 Beaconsfield
 Beaconsfield (Toghcheantar na Ríochta Aontaithe)
+Beacán draíochta
 Beagóinia
 Bealach Conglais
 Bealach Eabhra
@@ -55938,6 +56041,7 @@ Caisleán Bolingbroke
 Caisleán Bolsover
 Caisleán Bolton
 Caisleán Brougham
+Caisleán Carrach
 Caisleán Carraig Mhaighin
 Caisleán Castle Rising
 Caisleán Charraig Fhearghais
@@ -56293,6 +56397,7 @@ Caracas
 Carachtair American Horror Story
 Carachtar (ríomhaireacht)
 Carbaihiodráit
+Carbhat cuachóige
 Carbondale, Illinois
 Carbonia
 Carbón
@@ -56549,6 +56654,7 @@ Cath Bunker Hill
 Cath Cairn Chonaill
 Cath Cairnd Chonaill
 Cath Cairnd Chonaill ria Diarmait mac Aeda Sláni for Guari Adni
+Cath Cambrai (1917)
 Cath Carn Ailche
 Cath Carn Feradaig
 Cath Cer
@@ -56766,6 +56872,7 @@ Catonsville, Maryland
 Catriona Casey
 Catscratch
 Catskill Mountains
+Catsúileach ballach
 Catterick Garrison
 Catubodua
 Catullus
@@ -56825,6 +56932,7 @@ Ceann Loch Chille Chiarain
 Ceann Loch Chille Chiaráin
 Ceann Loch Gilb
 Ceann Loch Goill
+Ceann Loch Iú
 Ceann Sléibhe
 Ceann Trá
 Ceann a' Bhaile
@@ -56839,6 +56947,7 @@ Ceann mu Dheas
 Ceann na Drochaide
 Ceann na Fine
 Ceann tíre
+Ceann-Achadh
 Ceannaigh Louisiana
 Ceannairc
 Ceannairc an Churraigh
@@ -58091,6 +58200,7 @@ Cletus Spuckler
 Clevedon
 Cleveland
 Cleveland (idirdhealú)
+Cleveland Abbe
 Cleveland Brown
 Cleveland Brown, Jr.
 Cleveland Browns
@@ -58155,6 +58265,7 @@ Clocháin
 Clochán
 Clochán an Aifir
 Clochán, Contae an Chabháin
+Clogad
 Clogher Record
 Cloich na Coillte
 Cloigtheach
@@ -59173,6 +59284,7 @@ Comórtas Amhránaíochta Eoraifíse na hÁise 2018
 Comórtas Amhránaíochta Eoraifíse na hÁise 2019
 Comórtas Amhránaíochta Eoraifíse na nÓg 2007
 Comórtas Amhránaíochta Eoraifíse na nÓg 2015
+Comórtas Amhránaíochta Eoraifíse na nÓg 2017
 Comórtas Amhránaíochta Eoraifíse na nÓg 2018
 Comórtas Amhránaíochta Eoraifíse na nÓg 2019
 Comórtas Amhránaíochta Eoraifíse na nÓg 2020
@@ -62137,6 +62249,7 @@ Coróin na Bairdne
 Coróin na Caistíle
 Coróinvíreas
 Corón na hAragóine
+Cosacaigh
 Cosantachas
 Cosantóir
 Cosdeargán
@@ -62490,6 +62603,7 @@ Criostóir Uí Rinn
 Criostóir Ó Rinn
 Cripteagrafaíocht
 Criptifít
+Crisitíl
 Crispin Glover
 Cristiano Ronaldo
 Crith talún
@@ -62851,6 +62965,8 @@ Cumar na dTrí Uisce
 Cumaradh Beag
 Cumaradh Mór
 Cumarsáid
+Cumarsáid mhalartach breise
+Cumasc (ailtireacht)
 Cumascach mac Fógartaigh
 Cumberland Mountains
 Cumberland Plateau
@@ -63241,6 +63357,7 @@ Daithí de Búrca
 Daithí Ó Ceallacháin
 Daithí Ó Coileáin
 Daithí Ó Coimín
+Daithí Ó Muirí
 Daithí Ó Treasaigh
 Daithí Ó hAirt
 Daithí Ó hUaithne: Cuimhní Cairde
@@ -63469,6 +63586,7 @@ Darien, Connecticut
 Darija Jurak
 Darin Morgan
 Darini
+Dario Fo
 Darius III
 Dark Blue
 Dark Cousin (American Horror Story)
@@ -63726,6 +63844,7 @@ Deilt Arkansas
 Deilt na hAbhann Péarla
 Deilí
 Deilí Nua
+Deimhidh
 Deimos
 Deinze
 Deirdre
@@ -64223,6 +64342,7 @@ Doire na Maol
 Doirín Salach
 Doktor Nauk in Biology
 Dolar
+Doldroma
 Dolgarrog
 Dolgellau
 Dolla
@@ -64729,6 +64849,7 @@ Duine
 Duke Ellington
 Duke University Press
 Duke of Westminster
+Dul Chreachaird
 Dulverton
 Dumas, Texas
 Dumbbell Indemnity
@@ -64955,6 +65076,7 @@ Dónall Óg
 Død Kalm (eipeasóid The X-Files)
 Dùghall Bochanan
 Dùn Ad
+Dùn Bheathadh
 Dùn Dè an Ear (Toghcheantar na Ríochta Aontaithe)
 Dùn Dèagh
 Dùn Dèagh Aonaichte
@@ -64976,6 +65098,7 @@ Dúiche na Réine
 Dúiche na bhFíonlann
 Dúil cheimiceach
 Dúil chlasaiceach
+Dúlagar iarbhreithe
 Dúlainn
 Dúlais (Oileán Mhanann)
 Dúloch
@@ -65175,6 +65298,7 @@ Ealaín Cheilteach
 Ealaín Ghotach
 Ealaín Lochlannach
 Ealaín ar Oileán
+Ealaín na Meánaoise
 Ealaín na hAstráile
 Ealaín na hIndia
 Ealaín na nOileán
@@ -66157,6 +66281,7 @@ Eyes of Innocence (Miami Sound Machine album)
 Eyres Monsell
 Eystrahorn
 Eyvind Johnson
+Ezbet el-Haggana
 Ezhou
 Eógan Már
 Eógan mac Néill
@@ -66603,6 +66728,7 @@ Film noir
 Film4
 Filton agus Bradley Stoke (Toghcheantar na Ríochta Aontaithe)
 Filíocht
+Finchley Thoir
 Findabair
 Finders Keepers
 Finding Dory
@@ -66790,6 +66916,7 @@ Fliodhas
 Fliú A(H1N1)
 Fliú Spáinneach
 Fliú na muc (galar)
+Fliú na muc (idirdhealú)
 Fliú éanúil
 Fliúit
 Flo Rida
@@ -66866,6 +66993,7 @@ Foirgníocht
 Foirmiúlachas Rúiseach
 Foirmle ceimiceach
 Foirmle cheimiceach
+Foirsítia
 Foitheach
 Foitheach cluasach
 Foitheach gob-alabhreac
@@ -67286,6 +67414,7 @@ Fuaim
 Fuaimíocht
 Fuamnach
 Fuarán
+Fuascailt Dheiridh
 Fuascailt na gCaitliceach
 Fudbalski klub Crvena zvezda
 Fuigeanna (páirtí polaitíochta)
@@ -67414,6 +67543,7 @@ Fásach Uí Deighnín
 Fásach an Deighnín
 Fásteanga
 Fástini Airt meic Cuind ocus a chretem
+Féar Suaithinseach
 Féarthalamh
 Féasóg
 Féatas
@@ -67822,12 +67952,14 @@ Galar
 Galar Alzheimer
 Galar Creutzfeld-Jakob
 Galar Hodgkin
+Galar Paget
 Galar Parkinson
 Galar ae
 Galar croí
 Galar néarón luadrach
 Galar radaíochta
 Galar scamhóige toirmeascach ainsealach
+Galar sistéamach
 Galar tógálach
 Galar víris Ebola
 Galesburg, Illinois
@@ -67942,6 +68074,7 @@ Garraí an Chabáiste
 Garraí an Chaisleáin
 Garraí na nGabhlán
 Garraíodóireacht
+Garraíodóireacht phictiúrtha
 Garret Ahearn
 Garret Fitzgerald
 Garret Hobart
@@ -69102,6 +69235,7 @@ Green Haven, Maryland
 Green Party (Ireland)
 Green Tea (seó raidió)
 Green Zone
+Greenbank
 Greenbelt, Maryland
 Greenbrier, Arkansas
 Greendale, Victoria
@@ -69256,6 +69390,7 @@ Guess Who's Coming to Criticize Dinner?
 Guglielmo Marconi
 Guido Andreozzi
 Guido Pella
+Guido Westerwelle
 Guilbneach
 Guilbneach broinnrua
 Guilbneach earrdhubh
@@ -70048,6 +70183,7 @@ Hoiméastáis
 Hokkaido
 Hokkaidō
 Hokusai
+Holbeach
 Holborn
 Holbrook
 Holbrook, Arizona
@@ -70728,6 +70864,7 @@ Ilminster
 Ilnáisiúntach
 Ilréalta
 Ilstórach
+Ilteangachas
 Ilya Ivashka
 Imagine Me & You
 Imanpa
@@ -70875,6 +71012,7 @@ Indianapolis, Indiana
 Indianola, Mississippi
 Indinéisis
 Indio, California
+Indira Gandhi
 Indogermanisches etymologisches Wörterbuch
 Indoor Football League
 Indreabhán
@@ -71085,6 +71223,7 @@ Iodáil
 Iodáilis
 Iodálach
 Iodálaigh
+Ioguána
 Iolaird
 Iolar
 Iolar breac mór
@@ -71391,6 +71530,7 @@ Jack Carroll
 Jack Chambers
 Jack Champion
 Jack Crawford
+Jack Dempsey
 Jack Dillon
 Jack Duckworth
 Jack Finlay
@@ -71659,6 +71799,7 @@ Jane Lynch
 Jane O'Leary
 Jane Russell
 Jane Wilde
+Jane Wyman
 Janesville, Wisconsin
 Janet Devlin
 Janet Jackson
@@ -71828,6 +71969,7 @@ Jessica Moore (leadóg)
 Jessica Pegula
 Jessica Sanchez
 Jessica Sharzer
+Jessica Walter
 Jessie J
 Jessie Willcox Smith
 Jessika Ponchet
@@ -72039,6 +72181,7 @@ John Butler Yeats
 John Byrne
 John C. Breckinridge
 John C. Calhoun
+John C. Reilly
 John Cale
 John Carew
 John Carey
@@ -72451,6 +72594,7 @@ José Hierro
 José Luis Rodríguez Zapatero
 José López Martínez
 José Manuel Barroso
+José María Aznar
 José Millán Astray
 José Molina
 José Rizal
@@ -72914,6 +73058,7 @@ Kim Hayden
 Kim Il-sung
 Kim Jong-kun
 Kim Manners
+Kim Tate
 Kimball, Arkansas
 Kimberley Southwick
 Kimberly Po
@@ -72965,6 +73110,7 @@ Kirk Sutherland
 Kirkbymoorside
 Kirkland
 Kirkland, Washington
+Kirkpatrick Macmillan
 Kirsten Flipkens
 Kirsten Gillibrand
 Kirstie Alley
@@ -73836,6 +73982,7 @@ Lester Dent
 Lester Stoefen
 Lester Ó Riain
 Lester, Alabama
+Lesya Ukrainka
 Let It Be
 Let It Be (scannán)
 Let It Loose
@@ -74791,6 +74938,7 @@ Llanfihangel Pont-y-moel
 Llanfihangel Troddi
 Llanfihangel Ysgeifiog
 Llanfihangel-ar-arth
+Llanfihangel-y-Fedw
 Llanfihangel-y-Pennant
 Llanfrothen
 Llanfrynach
@@ -74983,6 +75131,7 @@ Loch an Iúir
 Loch an Leathbhaile
 Loch an Mhothair
 Loch an Oileáin
+Loch an Phoirt Mhóir
 Loch an Tairbeairt
 Loch gCál
 Loch nEathach
@@ -75041,6 +75190,7 @@ Lodainn an Ear
 Lodainn an Iar
 Loddon, Norfolk
 Lodi, California
+Lofsöngur
 Loftus, Yorkshire Thuaidh
 Lofty Holloway
 Log a' Choire
@@ -75269,6 +75419,7 @@ Luan Cásca
 Luan Naofa
 Luanda
 Luas (fisic)
+Luas (grianghrafadóireacht)
 Luas (tram)
 Luas Beag
 Luasaire cáithníní
@@ -75301,6 +75452,7 @@ Lucie Hradecká
 Lucie Jones
 Lucie Šafářová
 Lucienne Mackenzie Doig
+Lucilia (cuil)
 Lucille Ball
 Lucille La Verne
 Lucille LaVerne
@@ -75450,6 +75602,7 @@ Lynne Hobbs
 Lynwood, California
 Lyric FM
 Lysimachia clethroides
+Lytham St. Annes
 Lyudmyla Kichenok
 LÉ Aisling
 LÉ Aoife
@@ -76311,6 +76464,7 @@ Margaret Osborne duPont
 Margaret Pearse
 Margaret Ritchie
 Margaret Sanger
+Margaret Skinnider
 Margaret Smith
 Margaret Sullavan
 Margaret Thatcher
@@ -76490,6 +76644,7 @@ Marseille
 Marsha Blackburn
 Marshall Cavendish
 Marshall, Texas
+Marshawn Lynch
 Marshfield, Wisconsin
 Marsilea crenata
 Marsúipiach
@@ -76694,6 +76849,7 @@ Matthew Barton
 Matthew Davis
 Matthew Ebden
 Matthew Faughnan
+Matthew Flinders
 Matthew Hussey
 Matthew Nastuk
 Matthew Nathan
@@ -77040,6 +77196,7 @@ Metro Radio Arena
 MetroWest
 Metrojet Flight 9268
 Metroplex Dallas–Fort Worth
+Metropolis (scannán 1927)
 Mexborough
 Mexia, Texas
 Meyrin
@@ -77380,6 +77537,7 @@ Micéiné
 Micí Mac Gabhann
 Micí Mac Giobúin
 Mid Coast
+Mid-West Radio
 Mid-Western Assassin (American Horror Story)
 Midas
 Middelburg
@@ -77722,6 +77880,7 @@ Monarchian Jacob
 Monatóir (ríomhaireacht)
 Moncaí
 Moncaí marmaisíneach ceannbhuí
+Moncaí sceadsrónach Martin
 Moncks Corner, Carolina Theas
 MoneyBart
 Mongfind
@@ -77760,6 +77919,7 @@ Montainéagró i gComórtas Amhránaíochta na hEoraifíse
 Montana
 Monte Carlo
 Montebello, California
+Montell Griffin
 Monterey Park, California
 Montgomery Village, Maryland
 Montgomery, Alabama
@@ -78117,6 +78277,7 @@ Mwynglawdd
 My Autobiography (Chaplin)
 My Belarusy
 My Big Fat Geek Wedding
+My Bloody Valentine
 My Brother Brendan
 My December Tour
 My Fair Laddy
@@ -78873,6 +79034,7 @@ Neil Morrissey
 Neil Young
 Neimheadh
 Neipeal
+Neiptiúiniam
 Neiptiún
 Neiptiún (pláinéad)
 Neisseria
@@ -79457,6 +79619,7 @@ Nóiméad
 Nóinín mór
 Nóirín Ní Riain
 Nóvaicéin
+Núdail Biangbiang
 Núicleólas
 Núicléas adamhach
 Núicléas cille
@@ -80776,6 +80939,7 @@ Paul Gogarty
 Paul Greengard
 Paul Haarhuis
 Paul Heyse
+Paul Howard
 Paul Keating
 Paul Keddy
 Paul Kehoe
@@ -81338,6 +81502,7 @@ Pipturus argenteus
 Piratenpartei
 Piratenpartei Deutschland
 Pirates of Silicon Valley
+Pirates of the Caribbean: The Curse of the Black Pearl
 Pirixéiní
 Piréiní
 Piscidí
@@ -81594,6 +81759,7 @@ Pol Lirola
 Pol Neamhaí Theas
 Pol Pot
 Polagamas
+Polagán
 Polaiféamas
 Polaigíneas
 Polaimiailíteas
@@ -81848,6 +82014,7 @@ Prato
 Pratt, Kansas
 Prattville, Alabama
 Pray Anything
+Prayagraj
 Preab san Ól
 Preabaire duilleog
 Preboggion
@@ -81893,6 +82060,7 @@ Primo Levi
 Primrose Hill
 Primula veris
 Primula vulgaris
+Princes Risborough
 Princess Protection Program
 Princeton University Press
 Princeton, New Jersey
@@ -83270,6 +83438,7 @@ Rialto, California
 Rialú teorann
 Rian Baingear
 Rian Johnson
+Rianphiléar
 Riarachán Bia is Drugaí
 Riasc
 Riasc an Chaoil
@@ -84651,6 +84820,7 @@ Sandhill crane
 Sandhills (Carolina)
 Sandhills (Nebraska)
 Sandiacre
+Sandie Jones
 Sandra Bernhard
 Sandra McLellan
 Sandra Moll Andreu
@@ -85066,6 +85236,7 @@ Seacaibíteach
 Seacaibíteachas
 Seacaibítigh
 Seachbhóthar
+Seachfhoinsiú thar lear
 Seachnasach mac Congail
 Seachnasach mac Donnchadha
 Seachnassach
@@ -85231,6 +85402,7 @@ Seirfeachas
 Seirín Eorpach
 Seisceann Odhar
 Seisceannán
+Seisyll ap Clydog
 Seitnicigh
 Selby
 Selena Gomez
@@ -85538,6 +85710,7 @@ Sféar
 Sféar neamhaí
 Sféaróideach
 Sgainn
+Sgalpaigh an t-Sratha
 Sgalpaigh na Hearadh
 Sgarabhaigh
 Sgeotasaigh
@@ -86195,6 +86368,7 @@ Sling Blade
 Slinneán
 Sliogiasc
 Sliogán
+Sliogán rásúir
 Sloane Stephens
 Slobodan Milošević
 Slough (Toghcheantar na Ríochta Aontaithe)
@@ -86218,6 +86392,7 @@ Sléacht Thulaigh Álainn (1975)
 Sléacht i gCearnóg Tiananmen
 Sléacht i mBostún
 Sléibhte (baile fearainn)
+Sléibhte Adirondack
 Sléibhte Apaláiseacha
 Sléibhte Boston (Arkansas)
 Sléibhte Bán (Arizona)
@@ -86293,6 +86468,7 @@ Smólach imirce
 Smólach ordúil
 Smólach píbdhubh
 Smólach uisce tuaisceartach
+Snag (scairt)
 Snag breac
 Snag coiteann
 Snagaire darach
@@ -86321,6 +86497,7 @@ Snámh sioncronaithe
 Snámha ag na Cluichí Oileán 2017
 Snáthadán
 Snáthaid
+Snáthaid mhór lorgearrach
 Snáthaid mhór órfháinneach
 Snúcar
 So Dear to My Heart
@@ -87958,9 +88135,11 @@ Tadhg Ó Ceallaigh
 Tadhg Ó Cellaigh
 Tadhg Ó Conchúir
 Tadhg Ó Donnchadha
+Tadhg Ó Scanaill (múinteoir)
 Tadhg Ó hEáráin
 Tadhg Óg Ó Cellaigh
 Tadhg Óg Ó Cianáin
+Tadhlaí
 Tadley
 Taekwondo
 Taghaigh
@@ -88337,6 +88516,7 @@ Teimisticléas
 Teine-ku
 Teinm laída
 Teireasár
+Teirmiceimic
 Teirmidinimic
 Teirmiméadar
 Teisle
@@ -89706,6 +89886,7 @@ Toirdelbach Ua Briain
 Toirdelbach Ua Conchobair
 Toirdhealbach Ua Conchobair
 Toirdhealbach Ua Conchobhair
+Toirdhealbhach Carrach Ó Conchubhair
 Toirdhealbhach Ua Briain
 Toirdhealbhach Ua Conchobhair
 Toirdhealbhach Ó Cearbhalláin
@@ -90604,6 +90785,7 @@ Túr Trump
 Túrcú
 Túrloch
 Túsphointe Aries
+Tútmósa I
 Túvalú
 Tübingen
 Tünel (Khövsgöl)
@@ -91130,6 +91312,7 @@ Vayots Dzor
 Vector Arena
 Vee-Jay Records
 Veere
+Vega (spásárthach)
 Vega, Texas
 Veidhlín
 Veiniséala
@@ -92376,11 +92559,13 @@ Ypres
 Ypsilanti Township, Michigan
 Yr Eglwys Newydd
 Yr Hen Ogledd
+Yr Hôb
 Yr Orsedd
 Yr Wyddfa
 Yr Wyddgrug
 Yr Ystrad
 Yreka, California
+Ysbyty Ystwyth
 Ysceifiog
 Ysgol Glanaethwy
 Ysgol Maes Garmon
