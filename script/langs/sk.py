@@ -59,7 +59,7 @@ charsets = ['ISO-8859-2', 'Windows-1250', 'IBM852', 'MacCentralEurope']
 # If case_mapping=True, there is no need to add several cases of a same
 # character (provided Python algorithms know the right cases).
 alphabet = 'áäčďéíĺľňóôŕšťúýž'
-start_pages = ['Európska_únia']
+start_pages = ['Európska_únia', 'Dôkaz (matematika)']
 # give possibility to select another code for the Wikipedia URL.
 wikipedia_code = code
 # 'a' and 'A' will be considered the same character, and so on.

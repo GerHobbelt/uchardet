@@ -11,7 +11,7 @@ CTestTestfile.cmake
 cmake_install.cmake
 
 # With make generator
-./Makefile
+Makefile
 
 # With ninja generator
 .ninja_deps

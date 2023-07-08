@@ -11,9 +11,9 @@ set(
 	LangModels/LangBelarusianModel.cpp
 	LangModels/LangBulgarianModel.cpp
 	LangModels/LangCatalanModel.cpp
-    LangModels/LangCroatianModel.cpp
-    LangModels/LangCzechModel.cpp
-    LangModels/LangEnglishModel.cpp
+	LangModels/LangCroatianModel.cpp
+	LangModels/LangCzechModel.cpp
+	LangModels/LangEnglishModel.cpp
 	LangModels/LangEsperantoModel.cpp
 	LangModels/LangEstonianModel.cpp
 	LangModels/LangFinnishModel.cpp
@@ -27,18 +27,18 @@ set(
 	LangModels/LangHindiModel.cpp
 	LangModels/LangIrishModel.cpp
 	LangModels/LangItalianModel.cpp
-    LangModels/LangLithuanianModel.cpp
-    LangModels/LangLatvianModel.cpp
-    LangModels/LangMacedonianModel.cpp
-    LangModels/LangMalteseModel.cpp
-    LangModels/LangPolishModel.cpp
-    LangModels/LangPortugueseModel.cpp
+	LangModels/LangLithuanianModel.cpp
+	LangModels/LangLatvianModel.cpp
+	LangModels/LangMacedonianModel.cpp
+	LangModels/LangMalteseModel.cpp
+	LangModels/LangPolishModel.cpp
+	LangModels/LangPortugueseModel.cpp
 	LangModels/LangRomanianModel.cpp
 	LangModels/LangRussianModel.cpp
 	LangModels/LangSerbianModel.cpp
 	LangModels/LangSlovakModel.cpp
-    LangModels/LangSloveneModel.cpp
-    LangModels/LangSwedishModel.cpp
+	LangModels/LangSloveneModel.cpp
+	LangModels/LangSwedishModel.cpp
 	LangModels/LangSpanishModel.cpp
 	LangModels/LangThaiModel.cpp
 	LangModels/LangTurkishModel.cpp
