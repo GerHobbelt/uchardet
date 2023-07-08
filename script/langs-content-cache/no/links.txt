@@ -59,36 +59,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-USAs anti-ballistiske missilforsvar
-Mahatma Gandhi Road (Indore)
-Sofia Vikman
-Sikkerhetsstyring
-Anasillus
-Årefeste
-Alfagruppen
-Norges Germanske Armé
-Ljiljana av Jugoslavia
-Labyrintfisker
-Tobias Forge
-Om det ikkje går buss
-Verdenscupen i orientering 2021
-Vestre Fredrikstad gravlund
-Ribeirão Bonito
-Xiphiopsylla tumida
-Göran Sjöberg
-Bodhipathapradīpa
-Via Tours
-Epitraninae
-Kjørnes
-Pavol Hurajt
-Kaare Sandegren
-Rosario Dalgado
-9-1-1
-Liste over statsledere i 339
-Årsunda
-Notheme erota
-Bare du som vet
-Thore Skogman
+Bærekraftig infrastruktur
+Yucca gasskraftverk
+Aleochara villosa
+Harpalus affinis
+Ond stjerne
+Michael Ballhaus
+Penedo
+Karl Eugen Hammerstedt
+Baccarat (film)
+Dan Bentley
+Katharina Blums tapte ære (film)
+Elaphopsis
+Józef Wybieralski
+Simen Johan Ringen
+Anna Stavdal
+Knut A. Lorentzen
+Rutidermatidae
+Wadi Al Hayaa
+Blåtinden (Norddal)
+Koreas gjenforeningsflagg
+Geddy Lee
+Ferjesambandet Kvanne–Rykkjem
+Interplanetarisk magnetfelt
+Pstereo
+A Suspended Ordeal
+Marie Tveiten
+Adelheid Seyfarth
+Kastelineknop
+Basement Jaxx
+Wildomar (California)
 '''IGBT'''
 ''Sentralbad''
 'are'are
@@ -1000,6 +1000,7 @@ Thore Skogman
 894 Erda
 9 Metis
 9 svette Live!
+9-1-1
 9. april
 9. august
 9. desember
@@ -1610,6 +1611,7 @@ Alain Blondel
 Alain Boghossian
 Alain Giresse
 Alain Roche
+Alajuela (distrikt)
 Alalak
 Alan Ali
 Alan Bannister
@@ -1857,6 +1859,7 @@ Alexandre Despatie
 Alexandre Dumas den yngre
 Alexandre Lacazette
 Alexandre Letellier
+Alexandre Liess
 Alexandre Émond
 Alexandria
 Alexandria Bay
@@ -2322,6 +2325,7 @@ Ananke (mytologi)
 Anarkisme
 Anarko-primitivisme
 Anarkoprimitivisme
+Anasillus
 Anastasia Davidova
 Anastasia Gorbenko
 Anastasia Kelesidou
@@ -4077,6 +4081,7 @@ Avisåret 1942
 Avisåret 1946
 Avisåret 1949
 Avisåret 1950
+Avisåret 1969
 Avisåret 2011
 Avkastning
 Avkolonisering
@@ -4441,6 +4446,7 @@ Bardufoss
 Bardufoss lufthavn
 Bare Egil Band
 Bare Knuckles (1921)
+Bare du som vet
 Bareilly (distrikt)
 Barentshavet
 Barganing
@@ -5612,6 +5618,7 @@ Bodega Band 3
 Bodensjøen
 Bodes galakse
 Bodhi Linux
+Bodhipathapradīpa
 Bodin
 Bodin prestegjeld
 Bodo Tümmler
@@ -5841,6 +5848,7 @@ Borkenes skole
 Borlänge
 Born This Way
 Borneo
+Bornholmsk
 Borobudur
 Borrazópolis
 Borre
@@ -6962,6 +6970,7 @@ Canopidae
 Canopus
 Cantagalo (Paraná)
 Cante Alentejano
+Canteleu
 Canterbury Christ Church University
 Cantus
 Canudos do Vale
@@ -7802,6 +7811,7 @@ Clarence Clemons
 Clark Burckle
 Clark County (Kansas)
 Clark Smith
+Claud Hamilton, 1. Lord Paisley
 Claude Cueni
 Claude Debussy
 Claude Hauet
@@ -8439,6 +8449,7 @@ DSLinux
 Dacia
 Dactyl
 Daddelpalme
+Daddy’s Double
 Dadu (Taiwan)
 Daegu
 Daegu Stadium
@@ -11541,6 +11552,7 @@ Eksosfæren
 Eksoterm reaksjon
 Eksotisk stjerne
 Ekspanderende kuler
+Ekspanderende mørtel
 Eksplosjon
 Eksplosjonen på Vågen
 Eksponensialfunksjon
@@ -11973,6 +11985,7 @@ Engelsk (skolefag)
 Engelsk renessanseteater
 Engelsk språk
 Engelske
+Engelsmanplaat
 Engen (Bergen)
 Engenheiro Beltrão
 Engenho Velho
@@ -12066,6 +12079,7 @@ Episkopalgenealogi
 Episyklus
 Epitafium
 Epitet
+Epitraninae
 Epleslekten
 Eplesnegler
 Epoke (astronomi)
@@ -13961,6 +13975,7 @@ Folkeakademiet
 Folkeaksjonen nei til mer bompenger
 Folkeaksjonen oljefritt Lofoten, Vesterålen og Senja
 Folkeavstemning
+Folkeavstemningen om salg av Dansk Vestindia
 Folkeavstemninger i Norge
 Folkebibliotek
 Folkeetymologi
@@ -16340,6 +16355,7 @@ Giuseppe Dordoni
 Giuseppe Garibaldi
 Giuseppe Pezzella
 Giuseppe Piazzi
+Giuseppe Rotunno
 Giuseppe Verdi
 Gizaplatået
 Gjallarhorn
@@ -17295,6 +17311,7 @@ Gérard Janvion
 Göbekli Tepe
 Göran Hägglund
 Göran Rosander
+Göran Sjöberg
 Göta kanal
 Göta älv
 Göteborg
@@ -18522,6 +18539,7 @@ Herøy kirke (Nordland)
 Herøy prestegjeld (Møre og Romsdal)
 Herøy prestegjeld på Helgeland
 Hesbon
+Heshun
 Hesiod
 Heskestad
 Heskestad kirke
@@ -19360,6 +19378,7 @@ Hyllestad prestegjeld
 Hyllestalbum
 Hyllos
 Hylurgini
+Hymenoplia
 Hymne
 Hymne til Den russiske føderasjon
 Hyorrhynchini
@@ -20903,6 +20922,7 @@ Jan Inge Sørbø
 Jan Janssen
 Jan Kjærstad
 Jan Kjærulff
+Jan Ledang
 Jan Magne Førde
 Jan Marek Marci
 Jan Mayen
@@ -21891,6 +21911,7 @@ Joo Hyun-Jung
 Joona Puhakka
 Joop Zoetemelk
 Jopie Selbach
+Joplin
 Jord (elektronikk)
 Jordal Amfi
 Jordalkalimetall
@@ -22432,6 +22453,7 @@ KRF (andre betydninger)
 KTLK (AM)
 KV (stridsvogn)
 Ka ska æ gjærra
+Kaare Sandegren
 Kaarle Krohn
 Kaarlo Mikkolainen
 Kabalia
@@ -22953,6 +22975,7 @@ Katana
 Katapult
 Katarina Flatland
 Katarina II av Russland
+Katarina Taikon
 Katarzyna Wasick
 Katarzyna Zdziebło
 Katarína Filová
@@ -24555,6 +24578,7 @@ Kredit
 Kreditt
 Kreft
 Kreftregisteret - Institutt for populasjonsbasert kreftforskning
+Kreis Büren
 Kreis Kamenz
 Krematistikk
 Kremering
@@ -24956,6 +24980,7 @@ Kunståret 1897
 Kunståret 1898
 Kunståret 1899
 Kunståret 1900
+Kunståret 1958
 Kunståret 1999
 Kunståret 2000
 Kunståret 2001
@@ -25326,6 +25351,7 @@ Labiodental nasal
 Labiodentaler
 Labour Party
 Labyrint
+Labyrintfisker
 Lac qui Parle County
 Lacchini (krater)
 Lacerta viridis
@@ -26989,6 +27015,7 @@ Liste over statsledere i 1857
 Liste over statsledere i 2007
 Liste over statsledere i 2011
 Liste over statsledere i 229
+Liste over statsledere i 339
 Liste over statsledere i 449 f.Kr.
 Liste over statsledere i 769 f.Kr.
 Liste over statssekretærer i Erna Solbergs regjering
@@ -27345,6 +27372,7 @@ Ljabru
 Ljabru holdeplass
 Ljan stasjon
 Ljansbakken (Oslo)
+Ljiljana av Jugoslavia
 Ljubljana
 Ljubov Gurina
 Ljubov Jegorova
@@ -27582,6 +27610,7 @@ Lovgivende forsamling
 Lovgivende makt
 Lovisenberg Diakonale Sykehus
 Lovisenberg diakonale høgskole
+Lovund skole
 Lowell (krater)
 Lowell-observatoriet
 Lower East Side
@@ -28319,6 +28348,7 @@ Magyar Légierö
 Magyarene
 Mahamaya Nagar (distrikt)
 Maharajganj (distrikt)
+Mahatma Gandhi Road (Indore)
 Mahawil
 Mahayana
 Mahiedine Mekhissi-Benabbad
@@ -33603,6 +33633,7 @@ Norges Fiskerimuseum
 Norges Fotballforbund
 Norges Friidrettsforbund
 Norges Geotekniske Institutt
+Norges Germanske Armé
 Norges Grunnlov
 Norges Handelshøyskole
 Norges Håndballforbund
@@ -33794,6 +33825,7 @@ Norgesmesterskapet i håndball for menn 2022
 Norgesmesterskapet i ishockey for menn
 Norgesmesterskapet i orientering 1996
 Norgesmesterskapet i strandhåndball
+Norgesmesterskapet på ski 1979
 Norgesserien 1937–38
 Norgestaxi
 Norgesveldet
@@ -33986,6 +34018,7 @@ Nostoi
 Not (fiskeredskap)
 Not Guilty
 Noteopplysninger
+Notheme erota
 Notiokasis chaudoiri
 Notodden
 Notodden Fotballklubb
@@ -34555,6 +34588,7 @@ Olga Kutsjerenko
 Olga Kuzenkova
 Olga Minejeva
 Olga Pall
+Olga Potasjova
 Olga Rjabinkina
 Olga Rypakova
 Olga Smirnova
@@ -34643,6 +34677,7 @@ Olympos
 Om Gudsstaten
 Om Tilla
 Om alderdommen
+Om det ikkje går buss
 Om gudenes natur
 Om jordbruket
 Om lovene
@@ -35710,6 +35745,7 @@ Paven
 Paverama
 Pavlína Štefková
 Pavol Blažek
+Pavol Hurajt
 Pawel Czapiewski
 Pawel Korzeniowski
 Paweł Czapiewski
@@ -37271,6 +37307,7 @@ Qatar under Sommer-OL 2008
 Qatar under VM i friidrett 2011
 Qatar under VM i friidrett 2015
 Qatar under VM i friidrett 2022
+Qernertuarssuit
 Qeschm
 Qi (Jinzhong)
 Qi Haifeng
@@ -38050,6 +38087,7 @@ Rhys Wakefield
 Rhys Williams (friidrettsutøver)
 Rhythm and blues
 Rhône
+Ribeirão Bonito
 Ribeirão Claro
 Ribeirão Vermelho
 Ribeirão do Pinhal
@@ -38719,6 +38757,7 @@ Rorbu
 Rorbuturisme
 Rosa Mota
 Rosalía de Castro
+Rosario Dalgado
 Rosbalt
 Rose Bowl (stadion)
 Rose Tower
@@ -40770,6 +40809,7 @@ Sikhote-Alin
 Sikhote-Alin-meteoritten
 Sikkerhet
 Sikkerhets- og forsvarsstudier
+Sikkerhetsstyring
 Sikkim
 Sikle-sverd
 Sikorsky Ilya Muromets
@@ -41691,6 +41731,7 @@ Sofia
 Sofia (Portugal)
 Sofia Assefa
 Sofia Goggia
+Sofia Vikman
 Sofia Volkova
 Sofie Marhaug
 Sofie Parelius
@@ -43682,6 +43723,7 @@ Svensby
 Svensk
 Svensk (språk)
 Svensk Filmdatabas
+Svensk mesterskap i friidrett 2015
 Svensk pølseret
 Svensk sekkepipe
 Svensk tegnspråk
@@ -44343,6 +44385,7 @@ São Jorge d’Oeste
 São José da Boa Vista
 São José das Missões
 São José das Palmeiras
+São José do Belmonte
 São José do Herval
 São José do Hortêncio
 São José do Inhacorá
@@ -44985,6 +45028,7 @@ Tangvall
 Tangyi
 Tania Cagnoto
 Tania Cagnotto
+Tania Di Mario
 Tania Michelet
 Tanis
 Tanja Damaske
@@ -45921,6 +45965,7 @@ Thora Dolven Balke
 Thorax
 Thorbjørn Jagland
 Thorbjørn Svenssen
+Thore Skogman
 Thorgal
 Thorgan Hazard
 Thorhild Widvey
@@ -46223,6 +46268,7 @@ Tobben & Ero
 Tobe Naot'o
 Tobi Amusan
 Tobias Drevland Lund
+Tobias Forge
 Tobias Henanger
 Tobias Schellenberg
 Tobisfisker
@@ -46328,6 +46374,7 @@ Tommy Karlsen
 Tommy Kramer
 Tommy Mason
 Tommy Nilsen
+Tommy Reinås
 Tommy Werner
 Tomoe Abe
 Tompkins County
@@ -47653,6 +47700,7 @@ USA under VM i svømmesport 2013
 USA under VM i svømmesport 2015
 USA under VM i svømmesport 2017
 USA under VM i svømming 2013
+USAs anti-ballistiske missilforsvar
 USAs delstater
 USAs forsvar
 USAs grunnlov
@@ -48822,6 +48870,7 @@ Valget i Bhutan 2008
 Valgfusk
 Valgkomiteen
 Valgkrets
+Valglov
 Valgmann
 Valgmannskollegiet (USA)
 Valgordningen i Norge
@@ -49234,6 +49283,7 @@ Verdenscupen i alpint
 Verdenscupen i alpint 2018/19
 Verdenscupen i hurtigløp på skøyter 2012/13 – Lagtempo menn
 Verdenscupen i langrenn 1986/87
+Verdenscupen i orientering 2021
 Verdenscupen i skiskyting 2022/23 — 4X7,5km stafett menn — Ruhpolding
 Verdensdel
 Verdenslekene 2022
@@ -49390,6 +49440,7 @@ Vestre Aker
 Vestre Aker prestegjeld
 Vestre Aker prosti
 Vestre Borgesyssel prosti
+Vestre Fredrikstad gravlund
 Vestre Gausdal
 Vestre Gausdal prestegjeld
 Vestre Grimevann
@@ -49436,6 +49487,7 @@ VfL Bochum
 VfL Wolfsburg
 Vi som går kjøkkenveien
 Via Sacra
+Via Tours
 Viacheslav Andrusenko
 Viacheslav Prudnikov
 Viadutos
@@ -50916,6 +50968,7 @@ Xinhua
 Xinhua nyhetsbyrå
 Xinjiang
 Xiomara Castro de Zelaya
+Xiphiopsylla tumida
 Xitle
 Xiu Xiu
 Xiuguluan
@@ -51585,6 +51638,7 @@ transistor
 Ålvundeid kirke
 Åmdal kraftverk
 Åmli prestegjeld
+Åmlibunad fra Aust-Agder for kvinner
 Åmot kirke (Nordre Land)
 Åmot kraftverk (Skien)
 Åmot prestegjeld
@@ -51607,6 +51661,7 @@ transistor
 Årdal prestegjeld
 Årdalstangen
 Åre (tettsted)
+Årefeste
 Åreforkalkning
 Årets Urørt
 Årets bergenser
@@ -51632,6 +51687,7 @@ transistor
 Årstadposten
 Årstein
 Årstid
+Årsunda
 Årvoll
 Ås (kommune)
 Ås (tettsted)
@@ -51834,6 +51890,7 @@ transistor
 Østerrike under VM i friidrett 2015
 Østerrike under VM i friidrett 2022
 Østerrike under VM i svømmesport 2009
+Østerrike under Vinter-OL 1932
 Østerrike-Ungarn
 Østerrikes delstater
 Østerrikes geografi
@@ -52936,6 +52993,7 @@ A Christmas Carol (2009)
 A Higher Place
 A New Man
 A Portuguesa
+A Suspended Ordeal
 A Token of His Extreme
 A Welcome Intruder
 A cappella
@@ -53174,6 +53232,7 @@ Adeccoligaen
 Adelaide Lambert
 Adelarthra
 Adele Adkins
+Adelheid Seyfarth
 Adelphi University
 Adelsteen Normann
 Adenin
@@ -53509,6 +53568,7 @@ Alain Blondel
 Alain Boghossian
 Alain Giresse
 Alain Roche
+Alajuela (distrikt)
 Alalak
 Alan Ali
 Alan Bannister
@@ -53690,6 +53750,7 @@ Alene Hjemme 3
 Aleneståene Pulsar
 Alenfit
 Alentejo
+Aleochara villosa
 Alesia
 Alesia Turava
 Alessa Ries
@@ -53756,6 +53817,7 @@ Alexandre Despatie
 Alexandre Dumas den yngre
 Alexandre Lacazette
 Alexandre Letellier
+Alexandre Liess
 Alexandre Émond
 Alexandria
 Alexandria Bay
@@ -54601,6 +54663,7 @@ Anna Politkovskaja
 Anna Rice
 Anna Rucinska
 Anna Santamans
+Anna Stavdal
 Anna Stylianou
 Anna Tsjitsjerova
 Anna Uvarova
@@ -55977,6 +56040,7 @@ Avisåret 1942
 Avisåret 1946
 Avisåret 1949
 Avisåret 1950
+Avisåret 1969
 Avisåret 2011
 Avkastning
 Avkolonisering
@@ -56077,6 +56141,7 @@ Babylonsk mytologi
 Babylonske fangenskap
 Bacalao
 Bacary Sagna
+Baccarat (film)
 Bacchus
 Bacchylides
 Bach an der Donau
@@ -56422,6 +56487,7 @@ Baseball under Panamerikanske leker 2015
 Baseball under Sommer-OL 2004
 Baseball under Sommer-OL 2008
 Baseballspiller
+Basement Jaxx
 Basestasjon
 Bashar al-Assad
 Bashir Abdi
@@ -57466,6 +57532,7 @@ Blåmalle
 Blåmanen
 Blåsau
 Blåskjell
+Blåtinden (Norddal)
 Blåtrikken
 Blått øye-galaksen
 Blåtungeskinker
@@ -57743,6 +57810,7 @@ Borkenes skole
 Borlänge
 Born This Way
 Borneo
+Bornholmsk
 Borobudur
 Borrazópolis
 Borre
@@ -58568,6 +58636,7 @@ Båtsfjord prestegjeld
 Båtspinnere
 Bækkelagets Sportsklub
 Bærbar PC
+Bærekraftig infrastruktur
 Bærerakett
 Bærum
 Bærum Sportsklubb
@@ -58864,6 +58933,7 @@ Canopidae
 Canopus
 Cantagalo (Paraná)
 Cante Alentejano
+Canteleu
 Canterbury Christ Church University
 Cantus
 Canudos do Vale
@@ -59704,6 +59774,7 @@ Clarence Clemons
 Clark Burckle
 Clark County (Kansas)
 Clark Smith
+Claud Hamilton, 1. Lord Paisley
 Claude Cueni
 Claude Debussy
 Claude Hauet
@@ -60341,6 +60412,7 @@ DSLinux
 Dacia
 Dactyl
 Daddelpalme
+Daddy’s Double
 Dadu (Taiwan)
 Daegu
 Daegu Stadium
@@ -60453,6 +60525,7 @@ Damsgårdstunnelen
 Damsnegler
 Damstredet (Oslo)
 Damstredet (Oslo) (Oslo)
+Dan Bentley
 Dan Castellaneta
 Dan Dailey
 Dan Ketchum
@@ -63443,6 +63516,7 @@ Eksosfæren
 Eksoterm reaksjon
 Eksotisk stjerne
 Ekspanderende kuler
+Ekspanderende mørtel
 Eksplosjon
 Eksplosjonen på Vågen
 Eksponensialfunksjon
@@ -63495,6 +63569,7 @@ Elaine Thompson-Herah
 Elaine Youngs
 Elamittisk
 Elamo-dravidiske språk
+Elaphopsis
 Elastisitet
 Elastisitetsteori
 Elastix
@@ -63875,6 +63950,7 @@ Engelsk (skolefag)
 Engelsk renessanseteater
 Engelsk språk
 Engelske
+Engelsmanplaat
 Engen (Bergen)
 Engenheiro Beltrão
 Engenho Velho
@@ -65089,6 +65165,7 @@ Ferjesambandet Breistein–Valestrandsfossen
 Ferjesambandet Halhjem–Sandvikvåg
 Ferjesambandet Hella–Dragsvik–Vangsnes
 Ferjesambandet Hofles–Geisnes–Lund
+Ferjesambandet Kvanne–Rykkjem
 Ferkingstad Idrettslag
 Ferland Mendy
 Fermi Linux
@@ -65864,6 +65941,7 @@ Folkeakademiet
 Folkeaksjonen nei til mer bompenger
 Folkeaksjonen oljefritt Lofoten, Vesterålen og Senja
 Folkeavstemning
+Folkeavstemningen om salg av Dansk Vestindia
 Folkeavstemninger i Norge
 Folkebibliotek
 Folkeetymologi
@@ -67778,6 +67856,7 @@ Gaël Clichy
 Ge Weiqing
 Geary County
 Gebhard Leberecht von Blücher
+Geddy Lee
 Gediminas Kirkilas
 Gedser forsøksmølle
 GeeXboX
@@ -68243,6 +68322,7 @@ Giuseppe Dordoni
 Giuseppe Garibaldi
 Giuseppe Pezzella
 Giuseppe Piazzi
+Giuseppe Rotunno
 Giuseppe Verdi
 Gizaplatået
 Gjallarhorn
@@ -69741,6 +69821,7 @@ Harold Spencer Jones
 Harold Urey
 Harold Whitlock
 Harpactus
+Harpalus affinis
 Harpe
 Harpe (andre betydninger)
 Harper Adams University
@@ -70426,6 +70507,7 @@ Herøy kirke (Nordland)
 Herøy prestegjeld (Møre og Romsdal)
 Herøy prestegjeld på Helgeland
 Hesbon
+Heshun
 Hesiod
 Heskestad
 Heskestad kirke
@@ -71264,6 +71346,7 @@ Hyllestad prestegjeld
 Hyllestalbum
 Hyllos
 Hylurgini
+Hymenoplia
 Hymne
 Hymne til Den russiske føderasjon
 Hyorrhynchini
@@ -72116,6 +72199,7 @@ Internet Speculative Fiction Database
 Internett
 Internett-server
 Interpellasjon
+Interplanetarisk magnetfelt
 Interpretatio graeca
 Interregnum
 Interscope
@@ -72807,6 +72891,7 @@ Jan Inge Sørbø
 Jan Janssen
 Jan Kjærstad
 Jan Kjærulff
+Jan Ledang
 Jan Magne Førde
 Jan Marek Marci
 Jan Mayen
@@ -73795,6 +73880,7 @@ Joo Hyun-Jung
 Joona Puhakka
 Joop Zoetemelk
 Jopie Selbach
+Joplin
 Jord (elektronikk)
 Jordal Amfi
 Jordalkalimetall
@@ -74256,6 +74342,7 @@ Józef Antoni Poniatowski
 Józef Bilczewski
 Józef Piłsudskis allé
 Józef Szmidt
+Józef Wybieralski
 József Kovács (hekkeløper)
 Jönköping
 Jönköping kommune
@@ -74686,6 +74773,7 @@ Karl August von Hardenberg
 Karl Dietrich Bracher
 Karl Eirik Schjøtt-Pedersen
 Karl Erik Harr
+Karl Eugen Hammerstedt
 Karl Friedrich Naumann
 Karl Gustav-krigene
 Karl Guthe Jansky
@@ -74838,6 +74926,7 @@ Kassandra Clementi
 Kassel
 Kassiopeia (dverggalakse)
 Kassitter
+Kastelineknop
 Kastellet holdeplass
 Kastelruth
 Kastespyd
@@ -74858,6 +74947,7 @@ Katana
 Katapult
 Katarina Flatland
 Katarina II av Russland
+Katarina Taikon
 Katarzyna Wasick
 Katarzyna Zdziebło
 Katarína Filová
@@ -74878,6 +74968,7 @@ Kateket
 Katerina Thanou
 Katerine Savard
 Kateryna Bondarenko
+Katharina Blums tapte ære (film)
 Katharina Mann
 Katharina Molitor
 Katharine Berkoff
@@ -75679,6 +75770,7 @@ Knudstrup
 Knudåge Riisager
 Knurr
 Knuskkjukemøll
+Knut A. Lorentzen
 Knut Aalefjær
 Knut Andreas Nordmo
 Knut Are Tvedt
@@ -76460,6 +76552,7 @@ Kredit
 Kreditt
 Kreft
 Kreftregisteret - Institutt for populasjonsbasert kreftforskning
+Kreis Büren
 Kreis Kamenz
 Krematistikk
 Kremering
@@ -76861,6 +76954,7 @@ Kunståret 1897
 Kunståret 1898
 Kunståret 1899
 Kunståret 1900
+Kunståret 1958
 Kunståret 1999
 Kunståret 2000
 Kunståret 2001
@@ -79490,6 +79584,7 @@ Lovgivende forsamling
 Lovgivende makt
 Lovisenberg Diakonale Sykehus
 Lovisenberg diakonale høgskole
+Lovund skole
 Lowell (krater)
 Lowell-observatoriet
 Lower East Side
@@ -80742,6 +80837,7 @@ Marie Louise of Bourbon-Parma
 Marie Sneve Martinussen
 Marie Taglioni
 Marie Takvam
+Marie Tveiten
 Marie Wattel
 Marie de Sully
 Marie-Aude Murail
@@ -81835,6 +81931,7 @@ Micah Lawrence
 Michael (krater)
 Michael Andrew
 Michael Ballack
+Michael Ballhaus
 Michael Bay
 Michael Bingham
 Michael Brinegar
@@ -85704,6 +85801,7 @@ Norgesmesterskapet i håndball for menn 2022
 Norgesmesterskapet i ishockey for menn
 Norgesmesterskapet i orientering 1996
 Norgesmesterskapet i strandhåndball
+Norgesmesterskapet på ski 1979
 Norgesserien 1937–38
 Norgestaxi
 Norgesveldet
@@ -86466,6 +86564,7 @@ Olga Kutsjerenko
 Olga Kuzenkova
 Olga Minejeva
 Olga Pall
+Olga Potasjova
 Olga Rjabinkina
 Olga Rypakova
 Olga Smirnova
@@ -86591,6 +86690,7 @@ Onager
 Onar Onarheim
 Once More, With Feeling
 Once Upon a Time
+Ond stjerne
 Ondskapens hotell
 One Chase Manhattan Plaza
 One Direction
@@ -87718,6 +87818,7 @@ Penater
 Penbergensk
 Pendelferge
 Pendlingsomland
+Penedo
 Peng Bo
 Peng Dehuai
 Peng Shuai
@@ -89020,6 +89121,7 @@ Pseudoscolia
 Pseudovitenskap
 Psilorhynchus
 Pskov oblast
+Pstereo
 Psycho Holiday
 Psychoides verhuella
 Psychopsidae
@@ -89184,6 +89286,7 @@ Qatar under Sommer-OL 2008
 Qatar under VM i friidrett 2011
 Qatar under VM i friidrett 2015
 Qatar under VM i friidrett 2022
+Qernertuarssuit
 Qeschm
 Qi (Jinzhong)
 Qi Haifeng
@@ -90966,6 +91069,7 @@ Ruth Lillegraven
 Ruthenium
 Rutherford B. Hayes
 Rutherfordium
+Rutidermatidae
 Rutland
 Ruts bok
 Rwanda
@@ -92733,6 +92837,7 @@ Simadalsfjorden
 Simavik kraftverk
 Simen Agdestein
 Simen Guttormsen
+Simen Johan Ringen
 Simen Sand
 Simen Vidtun Nilsen
 Simensbråten
@@ -95599,6 +95704,7 @@ Svensby
 Svensk
 Svensk (språk)
 Svensk Filmdatabas
+Svensk mesterskap i friidrett 2015
 Svensk pølseret
 Svensk sekkepipe
 Svensk tegnspråk
@@ -96260,6 +96366,7 @@ São Jorge d’Oeste
 São José da Boa Vista
 São José das Missões
 São José das Palmeiras
+São José do Belmonte
 São José do Herval
 São José do Hortêncio
 São José do Inhacorá
@@ -96902,6 +97009,7 @@ Tangvall
 Tangyi
 Tania Cagnoto
 Tania Cagnotto
+Tania Di Mario
 Tania Michelet
 Tanis
 Tanja Damaske
@@ -98247,6 +98355,7 @@ Tommy Karlsen
 Tommy Kramer
 Tommy Mason
 Tommy Nilsen
+Tommy Reinås
 Tommy Werner
 Tomoe Abe
 Tompkins County
@@ -100742,6 +100851,7 @@ Valget i Bhutan 2008
 Valgfusk
 Valgkomiteen
 Valgkrets
+Valglov
 Valgmann
 Valgmannskollegiet (USA)
 Valgordningen i Norge
@@ -102220,6 +102330,7 @@ Wade-Giles
 Wadeline Jonathas
 Wadena County
 Wade–Giles
+Wadi Al Hayaa
 Wadjet
 Wafer
 Wageningen
@@ -102531,6 +102642,7 @@ Wild Man Fischer
 Wild at Heart (Buffy episode)
 Wildflowers
 Wildflowers & All the Rest
+Wildomar (California)
 Wilfried Kindermann
 Wilhelm Dilthey
 Wilhelm Frimann Koren Christie
@@ -103089,6 +103201,7 @@ Yuan Shu Chi
 Yuan Weiwei
 Yuan Zhi
 Yucca
+Yucca gasskraftverk
 Yueyang
 Yuki Koike (sprinter)
 Yukiko Akaba
@@ -103509,6 +103622,7 @@ transistor
 Ålvundeid kirke
 Åmdal kraftverk
 Åmli prestegjeld
+Åmlibunad fra Aust-Agder for kvinner
 Åmot kirke (Nordre Land)
 Åmot kraftverk (Skien)
 Åmot prestegjeld
@@ -103760,6 +103874,7 @@ transistor
 Østerrike under VM i friidrett 2015
 Østerrike under VM i friidrett 2022
 Østerrike under VM i svømmesport 2009
+Østerrike under Vinter-OL 1932
 Østerrike-Ungarn
 Østerrikes delstater
 Østerrikes geografi

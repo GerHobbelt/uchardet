@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Villers (Vosges)
-Sant Vicenç de Rupià
-Riera dels Molins
-Mirabèl (Tarn i Garona)
-Fideuada
-Mas al veïnat de Baseia
-Sub-districte de Beerxeba
-Dmítrievski
-Universitat d'Auckland
-Àngels Marzo i Torres
-Stratford-upon-Avon
-Desplaçat intern
-Makàrios III
-Ca l'Escolà (Sant Bartomeu del Grau)
-Chris Pine
-Lagenaria
-Guatlla bruna
-The Naked Edge
-Llista de ciutats dels Estats Units per població
-Quinta das Lágrimas
-Aleksei Schmidt
-Tijarafe
-José Fernández de Villa-Abrille Calivara
-Alice Paul
-Revolta Jònica
-Secretari general del Partit Comunista de la Unió Soviètica
-RTorrent
-Android Automotive
-Francesc Civil i Castellví
-Crisi sanitària de Flint
+Frederick Ashton
+Campionat dels Estats Units de ciclisme en ruta
+Sus años dorados
+Serley
+Coregonus maxillaris
+Red Oaks Mill
+Roeboides numerosus
+Atletisme als Jocs Olímpics d'Estiu de 1896 - Llançament de disc homes
+Bing Xin
+Estadi Tres de Marzo
+Nina Vinogradova
+Centre de Seguretat de la Informació de Catalunya
+Zhou Yu (piragüista)
+Copiadora tèrmica
+Can Turull (Sentmenat)
+Left Lane Cruiser
+Triacontàedre ròmbic
+Missouri Botanical Garden
+Eugenia uniflora
+Eslinga
+Naohiro Takahara
+Mitologia índia
+Butanoat de pentil
+Maria Majoral
+Filip Bradarić
+Coinches
+Llibre dels Ritus
+Gianandrea Noseda
+Escut de Torre Baixa
+Campionat de Mendoza de futbol
 'Arab al-Rashayida
 'Azza
 'Eina'
@@ -2882,6 +2882,7 @@ Aleksei Kosiguin
 Aleksei Lutsenko
 Aleksei Puixkov
 Aleksei Ríkov
+Aleksei Schmidt
 Aleksei Vakhonin
 Aleksei Xírov
 Alekseij Svirin
@@ -3205,6 +3206,7 @@ Alice Brown
 Alice Coachman
 Alice Ivy
 Alice Marble
+Alice Paul
 Alice Sant’Anna
 Alice Walker
 Alice Wong
@@ -4438,6 +4440,7 @@ Andrographis
 Androgínia
 Android
 Android (sistema operatiu)
+Android Automotive
 Android Two
 Androide
 Androides i ginoides
@@ -5089,6 +5092,7 @@ Antiotrema
 Antioxidant
 Antiphiona
 Antiphytum
+Antipositivisme
 Antirhea
 Antirrhinum
 Antisemitisme
@@ -7249,6 +7253,7 @@ Augieras
 Augouardia
 August
 August Erker
+August Lehr
 August Pi i Sunyer
 August Scheffer
 August Wilhelm Ambros
@@ -11711,6 +11716,7 @@ CTV News
 CTV Television Network
 Ca Conrado (Ginestar)
 Ca l'Ambrós
+Ca l'Escolà (Sant Bartomeu del Grau)
 Ca la Paula (Sant Feliu Sasserra)
 Ca n'Aguilera
 Caatinganthus
@@ -12419,6 +12425,7 @@ Campionat del món de ciclisme en pista de 1988
 Campionat del món de ciclisme en pista de 1989
 Campionat del món de cursa per punts femenina
 Campionat del món de persecució femenina
+Campionat dels Països Baixos de trial
 Campionat dels Pirineus
 Campionat francès de futbol
 Campionat obert d'escacs dels Estats Units
@@ -13456,6 +13463,7 @@ Casa de les Monges (Perafita)
 Casa de nines (pel·lícula de 1973 de Losey)
 Casa del 51 del Carrer de Sant Joan
 Casa del carrer de les Dòmines, 15 (Maçanet de Cabrenys)
+Casa rectoral de Lavit
 Casa-Museu Prat de la Riba
 Casa-fàbrica La Paloma
 Casa-grande
@@ -13542,6 +13550,7 @@ Castell cartoixa de Vallparadís
 Castell d'Okazaki
 Castell de Banyeres de Mariola
 Castell de Brough
+Castell de Burg
 Castell de Cardona
 Castell de Castlelost
 Castell de Claramunt
@@ -13550,6 +13559,7 @@ Castell de Duffield
 Castell de Josa
 Castell de Kōchi
 Castell de Marsvinsholm
+Castell de Meranges
 Castell de Miravet
 Castell de Montboló
 Castell de Piera
@@ -15161,6 +15171,7 @@ Chiropterotriton lavae
 Chiropterotriton magnipes
 Chiropterotriton mosaueri
 Chiropterotriton multidentatus
+Chirostomias pliopterus
 Chisholm Trail
 Chisocheton
 Chissay-en-Touraine
@@ -15373,6 +15384,7 @@ Chris Morgan
 Chris Noth
 Chris O'Neil
 Chris Pile (programador)
+Chris Pine
 Chris Pink
 Chris R. Gill
 Chris Scudds
@@ -16782,6 +16794,7 @@ Coleura seychellensis
 Coleus
 Colgate Series Championships
 Colibrí
+Colibrí amazília ventre-roig
 Colibrí calçat camanegre
 Colibrí nan abella
 Colibrís
@@ -16995,6 +17008,7 @@ Colòmbia
 Colònia (Alemanya)
 Colònia (divisió administrativa)
 Colònia d'ocells
+Colònia de Sant Corneli
 Colònies
 Colònies nord-americanes
 Colón de Santa Fe
@@ -17327,6 +17341,7 @@ Comèdia romàntica
 Comèdia screwball
 Comédie-Française
 Con (cèl·lula)
+Con ISO
 Con de dejecció
 Conan (Loir i Cher)
 Conandrium
@@ -19073,6 +19088,7 @@ Crisi financera del sud-est asiàtic
 Crisi hipotecària de 2007
 Crisi iraniana de 1946
 Crisi russo-ucraïnesa de 2021-2022
+Crisi sanitària de Flint
 Crisi ucraïnesa
 Crisip de Soli
 Crismery Santana
@@ -20369,6 +20385,7 @@ Daniel Kinsey
 Daniel Levi de Barrios
 Daniel Lloyd
 Daniel McFadden
+Daniel Moreno Fernández
 Daniel Morer Cabrera
 Daniel Márcio Fernandes
 Daniel Nestor
@@ -21302,6 +21319,7 @@ Depredador
 Depressió (estat d'ànim)
 Deputy (TV series)
 Der Angriff
+Der Emes
 Der Fenster Putzer
 Der Friede sei mit dir, BWV 158
 Der Herr denket an uns, BWV 196
@@ -21441,6 +21459,7 @@ Desperado 2
 Despesa militar
 Desplatsia
 Desplaçament (nàutica)
+Desplaçat intern
 Desplegament
 Despoblat
 Después de la tormenta
@@ -22839,6 +22858,7 @@ Dmitry Orlov
 Dmitrò Txigrinski
 Dmitró Lazutkin
 Dmitró Tabàtxnik
+Dmítrievski
 Dnipropetrovsk
 Do Not Pass Go
 Do the Right Thing
@@ -23994,6 +24014,7 @@ Economia de la Unió Soviètica
 Economia de mercat
 Economia de subsistència
 Economia del Brasil
+Economia del desenvolupament
 Economia del feixisme
 Economia planificada
 Economia política
@@ -26637,6 +26658,7 @@ Esglésies pintades de Moldàvia
 Esgrima
 Esgrima als Jocs Olímpics d'estiu de 1920
 Esgrima als Jocs Olímpics d'estiu de 1924
+Esgrima als Jocs Olímpics d'estiu de 2020
 Esh (lletra)
 Eshnunna
 Eskild Ebbesen
@@ -26790,6 +26812,7 @@ Esquiesa e Cèra
 Esquimal
 Esquire
 Esquirol de Mentawai
+Esquirol gegant cuaprim
 Esquirol volador llanós
 Esquirol-antílop de Nelson
 Esquizocelomats
@@ -27005,6 +27028,7 @@ Estil modernista
 Estilhac
 Estimulant
 Estiquèids
+Estissac
 Estiu
 Estocolm
 Estoer
@@ -28527,6 +28551,7 @@ Federico Fellini
 Federico García Moliner
 Federico Marcello Lante
 Federico Marchetti
+Federico Salmón Amorín
 Federico Sánchez Bedoya
 Federmesser
 Fedia
@@ -28997,6 +29022,7 @@ Ficus
 Fidel Castro
 Fidel Castro Ruz
 Fidelio
+Fideuada
 Fideus gruixuts
 Fideïcomís
 Fiebrigiella
@@ -33479,6 +33505,7 @@ Guaruba guarouba
 Guaràmida
 Guatemala
 Guatlla
+Guatlla bruna
 Guatlla de Robinson
 Guatlles
 Guatteria
@@ -41379,6 +41406,7 @@ José Edmílson Gomes de Moraes
 José Ely de Miranda
 José Emilio Santamaría
 José Fernández Montaña
+José Fernández de Villa-Abrille Calivara
 José Ferreira Franco
 José Ferrer
 José Figueroa y Torres
@@ -42789,6 +42817,7 @@ Kirsten Münchow
 Kirtimukha
 Kiruna
 Kisan (Betlem)
+Kisar
 Kiseki (satèl·lit)
 Kisho Yano
 Kisite-Mpunguti
@@ -42891,6 +42920,7 @@ Knox College (Illinois)
 Knoxia
 Knuckle Busters
 Knœringue
+Koales de Melbourne
 Koanophyllon
 Kobe Doin' Work
 Kobresia
@@ -46761,6 +46791,7 @@ Llista de centrals nuclears d'Espanya
 Llista de ciutats administrades per l'Autoritat Nacional Palestina
 Llista de ciutats d'Escòcia per població
 Llista de ciutats d'Oklahoma
+Llista de ciutats dels Estats Units per població
 Llista de classes d'animals
 Llista de compositors
 Llista de compositors (A-I)
@@ -46769,6 +46800,7 @@ Llista de compositors de cinema
 Llista de comtes de Barcelona
 Llista de contactes
 Llista de creuers de la Marina dels Estats Units
+Llista de cràters de la Lluna: L-N
 Llista de destructors de l'Armada dels Estats Units
 Llista de diputats al Parlament Europeu en representació de Letònia (VIII Legislatura)
 Llista de directives de la Unió Europea
@@ -48638,6 +48670,7 @@ Maksim Chigaev
 Maksim Ivànovitx Kidruk
 Makura Shō
 Makura no Sōshi
+Makàrios III
 Mal du segle
 Mal'ta-Buret'
 Malabaila
@@ -49144,6 +49177,7 @@ Mançac e la Corriera
 Mao Dun
 Mao Jie
 Mao Zedong
+Maogamalcha
 Maori
 Maori Language Commission
 Maoutia
@@ -50112,6 +50146,7 @@ Mas Casanovas
 Mas Oliveres (Castell i Platja d'Aro)
 Mas Pagès
 Mas Sicars
+Mas al veïnat de Baseia
 Mas d'en Borrell
 Mas de Faro
 Mas del Borrell
@@ -52254,6 +52289,7 @@ Mira Norden
 Mirabaud
 Mirabaud Group
 Mirabilis
+Mirabèl (Tarn i Garona)
 Mirabèu (Droma)
 Mirabèu e Blacon
 Miracle Mile
@@ -52487,6 +52523,7 @@ Model computacional
 Model de Balding-Nichols
 Model de color RGB
 Model matemàtic
+Modelització molecular de l'ADN
 Models de forats negres no exclusius
 Modern Family
 Modern Library
@@ -54128,6 +54165,7 @@ NaDeSHot
 Nabadwip
 Nabaluia
 Nabalus
+Nabhan
 Nablonium
 Nablus
 Naby Keïta
@@ -59559,6 +59597,7 @@ Pasadena (Califòrnia)
 Pascal (Llenguatge de programació)
 Pascal Comelade
 Pascal Gaigne
+Pascal Jules
 Pascal Touron
 Pascalia
 Pascual Alba Sors
@@ -65622,6 +65661,7 @@ Quint Lutaci Catul (cònsol 102 aC)
 Quint Meni
 Quint Sulpici Llong
 Quinta columna
+Quinta das Lágrimas
 Quintana del Pidio
 Quintanabureba
 Quintanaortuño
@@ -65745,6 +65785,7 @@ RSSSF
 RTL 4
 RTL FremantleMedia International
 RTL Television
+RTorrent
 RV770
 Rabah Madjer
 Rabah Saâdane
@@ -65904,6 +65945,7 @@ Raffaele Fitto
 Raffaella Reggi
 Raffaello Leonardo
 Raffenaldia
+Raffi Armenian (pianista)
 Rafflesia
 Rafflesiaceae
 Rafik Djebbour
@@ -67281,6 +67323,7 @@ Revista Forbes
 Revista científica
 Revista de Occidente
 Revista pornogràfica
+Revolta Jònica
 Revolta camperola de Palestina
 Revolta d'Albânia de 1997
 Revolta de Bar Kokhebà
@@ -67845,6 +67888,8 @@ Riells i Viabrea
 Riencourtia
 Riera de Breda
 Riera de Repiaix
+Riera de Vallcarca
+Riera dels Molins
 Riespach
 Rieux (Morbihan)
 Riff Raff
@@ -70306,6 +70351,7 @@ Sant Sernin (Òlt i Garona)
 Sant Tomàs apòstol
 Sant Tomàs de Roians
 Sant Vicent Ferrer
+Sant Vicenç de Rupià
 Sant Vicenç de Sarrià
 Sant Vicenç dels Horts
 Sant Vincenç de Charpac
@@ -72304,6 +72350,7 @@ Shaun McClure
 Shaun Wright-Phillips
 Shaunae Miller
 Shaw Brothers (desenvolupadors de videojocs)
+Shawano
 Shawiya
 Shawn Levy
 Shawn Williamson
@@ -74775,6 +74822,7 @@ Strasserisme
 Strata-East Records
 Strate contra A-1 Contractors
 Strategic Simulations
+Stratford-upon-Avon
 Stratiotes
 Stratton (Nebraska)
 Straussiella
@@ -77609,6 +77657,7 @@ The Muncher
 The Munsters (videojoc)
 The Music Man
 The Music Man (musical)
+The Naked Edge
 The Namibian
 The National (videojoc)
 The National Anthem
@@ -78349,6 +78398,7 @@ Tihomir Ognjanov
 Tiina Lillak
 Tiipai
 Tijana Postic
+Tijarafe
 Tijuana bible
 Tik Tok
 Tiki Gelana
@@ -81278,6 +81328,7 @@ Universitat Tulane
 Universitat Yale
 Universitat Yeshiva
 Universitat d'Alabama
+Universitat d'Auckland
 Universitat d'Edimburg
 Universitat d'Indiana
 Universitat d'Iowa
@@ -82772,6 +82823,7 @@ Villerbon
 Villeret (Berna)
 Villermain
 Villeromain
+Villers (Vosges)
 Villers-Buzon
 Villers-Chief
 Villers-Grélot
@@ -84367,6 +84419,7 @@ Winston Groom
 Winston Reid
 Winston Steinburger and Sir Dudley Ding Dong
 Winston-Salem
+Wintel
 Winter Games
 Winter Olympiad '88
 Winter of Love (Chemistry)
@@ -85915,6 +85968,7 @@ transistor
 Àngel Serra i Casals
 Àngel de la guarda
 Àngela Grassi de Cuenca
+Àngels Marzo i Torres
 Àngels a l'islam
 Ànguelos Kharisteas
 Ànima
@@ -86035,6 +86089,7 @@ transistor
 Édouard Candeveau
 Édouard Molinaro
 Édouard-Victoire-Antoine Lalo
+Égligny
 Élisabeth Camus
 Élisabeth Jacquet de La Guerre
 Élise Delzenne
@@ -91220,6 +91275,7 @@ Antiotrema
 Antioxidant
 Antiphiona
 Antiphytum
+Antipositivisme
 Antirhea
 Antirrhinum
 Antisemitisme
@@ -93218,6 +93274,7 @@ Atleta de l'any
 Atletisme
 Atletisme als Jocs Olímpics
 Atletisme als Jocs Olímpics d'Estiu de 1896
+Atletisme als Jocs Olímpics d'Estiu de 1896 - Llançament de disc homes
 Atletisme als Jocs Olímpics d'Estiu de 1900
 Atletisme als Jocs Olímpics d'Estiu de 1904
 Atletisme als Jocs Olímpics d'Estiu de 1908
@@ -93380,6 +93437,7 @@ Augieras
 Augouardia
 August
 August Erker
+August Lehr
 August Pi i Sunyer
 August Scheffer
 August Wilhelm Ambros
@@ -95724,6 +95782,7 @@ Binas
 Bindusara
 Bing Crosby
 Bing Russell
+Bing Xin
 Bing Yuan
 Binivac e Olon
 Biniville
@@ -97648,6 +97707,7 @@ Bustillo del Oro
 Bustle (magazine)
 Busto de Bureba
 Busèth
+Butanoat de pentil
 Butch - Hard Guy
 Butch Cassidy
 Butcher Hill
@@ -98516,6 +98576,7 @@ Campionat de Catalunya de futbol 1904-1905
 Campionat de Catalunya de futbol 1912-1913
 Campionat de França de ciclisme de contrarellotge
 Campionat de França de ciclisme en ruta
+Campionat de Mendoza de futbol
 Campionat de Porto de futbol
 Campionat de Space Invaders
 Campionat de Wimbledon
@@ -98551,6 +98612,8 @@ Campionat del món de ciclisme en pista de 1988
 Campionat del món de ciclisme en pista de 1989
 Campionat del món de cursa per punts femenina
 Campionat del món de persecució femenina
+Campionat dels Estats Units de ciclisme en ruta
+Campionat dels Països Baixos de trial
 Campionat dels Pirineus
 Campionat francès de futbol
 Campionat obert d'escacs dels Estats Units
@@ -98659,6 +98722,7 @@ Can Pous (Salt)
 Can Riera (l'Hospitalet de Llobregat)
 Can Solei (Beuda)
 Can Travi Vell
+Can Turull (Sentmenat)
 Can Vall
 Can Valls (Sant Vicenç de Montalt)
 Can Vallès (el Bruc)
@@ -99588,6 +99652,7 @@ Casa de les Monges (Perafita)
 Casa de nines (pel·lícula de 1973 de Losey)
 Casa del 51 del Carrer de Sant Joan
 Casa del carrer de les Dòmines, 15 (Maçanet de Cabrenys)
+Casa rectoral de Lavit
 Casa-Museu Prat de la Riba
 Casa-fàbrica La Paloma
 Casa-grande
@@ -99674,6 +99739,7 @@ Castell cartoixa de Vallparadís
 Castell d'Okazaki
 Castell de Banyeres de Mariola
 Castell de Brough
+Castell de Burg
 Castell de Cardona
 Castell de Castlelost
 Castell de Claramunt
@@ -99682,6 +99748,7 @@ Castell de Duffield
 Castell de Josa
 Castell de Kōchi
 Castell de Marsvinsholm
+Castell de Meranges
 Castell de Miravet
 Castell de Montboló
 Castell de Piera
@@ -100089,6 +100156,7 @@ Centre d'Investigacions Sociològiques
 Centre d'atenció primària
 Centre de Guerra Aèria i Naval
 Centre de Guerra Naval Especial
+Centre de Seguretat de la Informació de Catalunya
 Centre de Suport a la Formació, Hampton Roads
 Centre de rehabilitació de ximpanzés Tchimpounga
 Centre for European Reform
@@ -101293,6 +101361,7 @@ Chiropterotriton lavae
 Chiropterotriton magnipes
 Chiropterotriton mosaueri
 Chiropterotriton multidentatus
+Chirostomias pliopterus
 Chisholm Trail
 Chisocheton
 Chissay-en-Touraine
@@ -102868,6 +102937,7 @@ Coilia ramcarati
 Coilia reynaldi
 Coilochilus
 Coilostigma
+Coinches
 Coincourt
 Coincya
 Coiot
@@ -102915,6 +102985,7 @@ Coleura seychellensis
 Coleus
 Colgate Series Championships
 Colibrí
+Colibrí amazília ventre-roig
 Colibrí calçat camanegre
 Colibrí nan abella
 Colibrís
@@ -103128,6 +103199,7 @@ Colòmbia
 Colònia (Alemanya)
 Colònia (divisió administrativa)
 Colònia d'ocells
+Colònia de Sant Corneli
 Colònies
 Colònies nord-americanes
 Colón de Santa Fe
@@ -103460,6 +103532,7 @@ Comèdia romàntica
 Comèdia screwball
 Comédie-Française
 Con (cèl·lula)
+Con ISO
 Con de dejecció
 Conan (Loir i Cher)
 Conandrium
@@ -104435,6 +104508,7 @@ Cophixalus concinnus
 Cophixalus mcdonaldi
 Cophixalus monticola
 Cophixalus neglectus
+Copiadora tèrmica
 Copiant Beethoven
 Copiapoa
 Coppelia : La Poupée animée
@@ -104516,6 +104590,7 @@ Corea (malaltia)
 Corea del Nord
 Corea del Sud
 Coreans
+Coregonus maxillaris
 Coregonus reighardi
 Corema
 Coreocarpus
@@ -106503,6 +106578,7 @@ Daniel Kinsey
 Daniel Levi de Barrios
 Daniel Lloyd
 Daniel McFadden
+Daniel Moreno Fernández
 Daniel Morer Cabrera
 Daniel Márcio Fernandes
 Daniel Nestor
@@ -107436,6 +107512,7 @@ Depredador
 Depressió (estat d'ànim)
 Deputy (TV series)
 Der Angriff
+Der Emes
 Der Fenster Putzer
 Der Friede sei mit dir, BWV 158
 Der Herr denket an uns, BWV 196
@@ -110130,6 +110207,7 @@ Economia de la Unió Soviètica
 Economia de mercat
 Economia de subsistència
 Economia del Brasil
+Economia del desenvolupament
 Economia del feixisme
 Economia planificada
 Economia política
@@ -112723,6 +112801,7 @@ Escut de Barcelona
 Escut de Catalunya
 Escut de Malàisia
 Escut de Rússia
+Escut de Torre Baixa
 Escut de la Unió Soviètica
 Escuts i banderes de l'Anoia
 Escuts i banderes del Pla de l'Estany
@@ -112773,6 +112852,7 @@ Esglésies pintades de Moldàvia
 Esgrima
 Esgrima als Jocs Olímpics d'estiu de 1920
 Esgrima als Jocs Olímpics d'estiu de 1924
+Esgrima als Jocs Olímpics d'estiu de 2020
 Esh (lletra)
 Eshnunna
 Eskild Ebbesen
@@ -112780,6 +112860,7 @@ Eslaus
 Eslaus occidentals
 Eslaus orientals
 Eslaus polabis
+Eslinga
 Eslovac
 Eslovàquia
 Eslovè
@@ -112926,6 +113007,7 @@ Esquiesa e Cèra
 Esquimal
 Esquire
 Esquirol de Mentawai
+Esquirol gegant cuaprim
 Esquirol volador llanós
 Esquirol-antílop de Nelson
 Esquizocelomats
@@ -112988,6 +113070,7 @@ Estadi Olímpic de Roma
 Estadi Petrovski
 Estadi Rei Balduí
 Estadi Santiago Bernabéu
+Estadi Tres de Marzo
 Estadi Urbano Caldeira
 Estadi Vicente Calderón
 Estadi de Hillsborough
@@ -113141,6 +113224,7 @@ Estil modernista
 Estilhac
 Estimulant
 Estiquèids
+Estissac
 Estiu
 Estocolm
 Estoer
@@ -113429,6 +113513,7 @@ Eugene O'Neill
 Eugeni d'Ors
 Eugenia
 Eugenia Maniokova
+Eugenia uniflora
 Eugenijus Gentvilas
 Eugenio (humorista)
 Eugenio Barahona Marciel
@@ -114663,6 +114748,7 @@ Federico Fellini
 Federico García Moliner
 Federico Marcello Lante
 Federico Marchetti
+Federico Salmón Amorín
 Federico Sánchez Bedoya
 Federmesser
 Fedia
@@ -115180,6 +115266,7 @@ Filimanus perplexa
 Filimanus similis
 Filimanus xanthonema
 Filip Adamski
+Filip Bradarić
 Filip Hološko
 Filip d'Opos
 Filip de Medma
@@ -116390,6 +116477,7 @@ Frederic el Gran
 Frederica Montseny i Mañé
 Frederica de Hannover
 Frederick Alex Kirpatrick
+Frederick Ashton
 Frederick Cresser
 Frederick Delius
 Frederick Field (Oficial Royal Navy)
@@ -118092,6 +118180,7 @@ Giampaolo Pazzini
 Gian Francesco Albani
 Gian Maria Volonté
 Gian Paolo Chiti
+Gianandrea Noseda
 Giancarlo Crosta
 Giancarlo Giannini
 Gianfrancesco Guarnieri
@@ -128928,6 +129017,7 @@ Kirsten Münchow
 Kirtimukha
 Kiruna
 Kisan (Betlem)
+Kisar
 Kiseki (satèl·lit)
 Kisho Yano
 Kisite-Mpunguti
@@ -129030,6 +129120,7 @@ Knox College (Illinois)
 Knoxia
 Knuckle Busters
 Knœringue
+Koales de Melbourne
 Koanophyllon
 Kobe Doin' Work
 Kobresia
@@ -131004,6 +131095,7 @@ Leersia
 Leeuwenbergia
 Lefebvrea
 Lefkeli Mustafà Paixà
+Left Lane Cruiser
 Left for Dead
 Legacy (Eminem song)
 Legacy Effects
@@ -132695,6 +132787,7 @@ Llibre de cuina
 Llibre de sobretaula
 Llibre de text
 Llibre de vell
+Llibre dels Ritus
 Llibre desplegable
 Llibre digital
 Llibre electrònic
@@ -132909,6 +133002,7 @@ Llista de compositors de cinema
 Llista de comtes de Barcelona
 Llista de contactes
 Llista de creuers de la Marina dels Estats Units
+Llista de cràters de la Lluna: L-N
 Llista de destructors de l'Armada dels Estats Units
 Llista de diputats al Parlament Europeu en representació de Letònia (VIII Legislatura)
 Llista de directives de la Unió Europea
@@ -135285,6 +135379,7 @@ Mançac e la Corriera
 Mao Dun
 Mao Jie
 Mao Zedong
+Maogamalcha
 Maori
 Maori Language Commission
 Maoutia
@@ -135625,6 +135720,7 @@ Maria Leszczyńska
 Maria Lluïsa Oliveda i Puig
 Maria Lluïsa de Savoia
 Maria Magdalena Brotons i Capó
+Maria Majoral
 Maria Margarethe Winckelmann
 Maria Matiós
 Maria Mullerat i Bassedas
@@ -138630,6 +138726,7 @@ Model computacional
 Model de Balding-Nichols
 Model de color RGB
 Model matemàtic
+Modelització molecular de l'ADN
 Models de forats negres no exclusius
 Modern Family
 Modern Library
@@ -140271,6 +140368,7 @@ NaDeSHot
 Nabadwip
 Nabaluia
 Nabalus
+Nabhan
 Nablonium
 Nablus
 Naby Keïta
@@ -140461,6 +140559,7 @@ Nanyang
 Nanzhang
 Naná Vasconcelos
 Nanòmetre
+Naohiro Takahara
 Naoko Matsuda
 Naoko Takahashi
 Naomi Dickson
@@ -141716,6 +141815,7 @@ Nina Hartley
 Nina Hoss
 Nina Romashkova
 Nina Totenberg
+Nina Vinogradova
 Nina Zyuskova
 Nindara
 Nine to Five
@@ -145702,6 +145802,7 @@ Pasadena (Califòrnia)
 Pascal (Llenguatge de programació)
 Pascal Comelade
 Pascal Gaigne
+Pascal Jules
 Pascal Touron
 Pascalia
 Pascual Alba Sors
@@ -152049,6 +152150,7 @@ Raffaele Fitto
 Raffaella Reggi
 Raffaello Leonardo
 Raffenaldia
+Raffi Armenian (pianista)
 Rafflesia
 Rafflesiaceae
 Rafik Djebbour
@@ -152654,6 +152756,7 @@ Red Dead Redemption 2
 Red Heat (videojoc)
 Red Hot Chili Peppers
 Red LED
+Red Oaks Mill
 Red Ocher
 Red Shift (publicadora)
 Red Shift Ltd
@@ -153991,6 +154094,7 @@ Riells i Viabrea
 Riencourtia
 Riera de Breda
 Riera de Repiaix
+Riera de Vallcarca
 Riera dels Molins
 Riespach
 Rieux (Morbihan)
@@ -154553,6 +154657,7 @@ Rodríguez Mohedano
 Rodès
 Rodés (Avairon)
 Roe contra Wade
+Roeboides numerosus
 Roel Luynenburg
 Roeland Pruijssers
 Roella
@@ -158452,6 +158557,7 @@ Shaun McClure
 Shaun Wright-Phillips
 Shaunae Miller
 Shaw Brothers (desenvolupadors de videojocs)
+Shawano
 Shawiya
 Shawn Levy
 Shawn Williamson
@@ -161556,6 +161662,7 @@ Survivor (videojoc de 1987)
 Survivors (videojoc)
 Surya Shekhar Ganguly
 Surzur
+Sus años dorados
 Sus cebifrons
 Sus salvanius
 Sus verrucosus
@@ -166127,6 +166234,7 @@ Triacanthodidae
 Triacanthus biaculeatus
 Triacanthus nieuhofii
 Triacis
+Triacontàedre ròmbic
 Triadenum
 Triadica
 Triaenodon obesus
@@ -170520,6 +170628,7 @@ Winston Groom
 Winston Reid
 Winston Steinburger and Sir Dudley Ding Dong
 Winston-Salem
+Wintel
 Winter Games
 Winter Olympiad '88
 Winter of Love (Chemistry)
@@ -171771,6 +171880,7 @@ Zhou Xin
 Zhou Xuan
 Zhou Yu
 Zhou Yu (Renming)
+Zhou Yu (piragüista)
 Zhou Zhi
 Zhu Bao
 Zhu Chen
@@ -172189,6 +172299,7 @@ transistor
 Édouard Candeveau
 Édouard Molinaro
 Édouard-Victoire-Antoine Lalo
+Égligny
 Élisabeth Camus
 Élisabeth Jacquet de La Guerre
 Élise Delzenne

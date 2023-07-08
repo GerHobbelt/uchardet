@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Henri de Bessé de la Chapelle
-Théorie de l'approche indirecte
-Nemesia
-Sergueï Filatov
-Magnolia (Iowa)
-Queen Emeraldas
-Championnat de Norvège de football 2010
-Gabriel Geay
-Kimwani
-Force H
-Leon Wilkeson
-Camille-Gabrielle Drunzer
-Wahdat al-wujud
-Tuileries
-Housse (musique)
-Samogoszcz
-Guerre des mots dans le conflit israélo-palestinien
-Pattes de velours (film)
-Djéhoutimès
-Jean-Frédéric Hermann
-Vingt-Cinq-Décembre
-Unisys
-Takashi Mizuno (football)
-Jean-Baptiste-Zacharie Bolduc
-Citéphilo
-Roxen (chanteuse)
-Chuck Reed
-Acid Queen
-Fernand Icres
-Hans Lewy
+Benešov
+Chartreuse de Montello
+Shimako Satō
+Adrien Thomas (cyclisme)
+L'Oz production
+Le Bréviaire des nobles
+Kayan (Burkina Faso)
+Danielle Eyango
+Flyswatter
+Cachoeira (Sao Tomé-et-Principe)
+Guéhiébly
+GS Kallithéa
+Lower Harpton
+Squalius ghigii
+Claudio García
+Préface indispensable
+Labarrère
+Péribée (épouse de Télamon)
+Grzędy (Mazovie)
+Château de Montmarin
+Hakone-jinja
+Conseil delphinal
+Khaleel Abduljanan
+Un monstre à mille têtes
+Zéro de conduite
+Mischianza
+Parc naturel de la Kuja
+Désiré Blanchet
+Michamps
+Gymnothorax isingteena
 $uicideboy$
 ''First Aid Kit''
 'Imrān
@@ -100,6 +100,7 @@ $uicideboy$
 (100417) Philipglass
 (101955) Bénou
 (120347) Salacie
+(12625) Koopman
 (127005) Pratchett
 (136108) Hauméa
 (136199) Éris
@@ -153,6 +154,7 @@ $uicideboy$
 (30432) 2000 LM20
 (307261) 2002 MS4
 (30883) de Broglie
+(31160) 1997 WQ9
 (31450) Stevepreston
 (32586) 2001 QQ116
 (34047) Gloria
@@ -185,6 +187,7 @@ $uicideboy$
 (4179) Toutatis
 (4294) Horace
 (433) Éros
+(45802) 2000 PV29
 (4581) Asclépios
 (471151) 2010 FD49
 (4769) Castalie
@@ -199,6 +202,7 @@ $uicideboy$
 (54509) YORP
 (5535) Annefrank
 (55565) 2002 AW197
+(5562) Sumi
 (55637) 2002 UX25
 (588) Achille
 (589683) 2010 RF43
@@ -629,6 +633,7 @@ $uicideboy$
 1701 en littérature
 1703 en littérature
 1706 au théâtre
+1706 en littérature
 1707 au théâtre
 1711 en littérature
 1716 en littérature
@@ -2321,6 +2326,7 @@ $uicideboy$
 41e cérémonie des People's Choice Awards
 41e cérémonie des Saturn Awards
 41e division d'infanterie (États-Unis)
+41e division d'infanterie Firenze
 41e régiment d'artillerie de campagne (États-Unis)
 41e régiment d'infanterie (États-Unis)
 42 (film)
@@ -3182,6 +3188,7 @@ Abeille
 Abeille Beausoleil
 Abel Ferrara
 Abel Gance
+Abel Mustieles
 Abel Tarride
 Abel-Anastase Germain
 Abel-François Villemain
@@ -3363,6 +3370,7 @@ Achim von Arnim
 Achéménides
 Achéron (Q150)
 Acid Arab
+Acid Queen
 Acide 4-méthyl-2-oxovalérique
 Acide acétique
 Acide désoxyribo-nucléique
@@ -4333,6 +4341,7 @@ Alexandre Dumas (fils)
 Alexandre Duval
 Alexandre Désilets
 Alexandre Falguière
+Alexandre Favre
 Alexandre François Marie de Beauharnais
 Alexandre Guansé
 Alexandre Guiraud
@@ -4467,6 +4476,7 @@ Ali Kahlane
 Ali Larter
 Ali MacGraw
 Ali Mossafa
+Ali Nullmeyer
 Ali-Ollie Woodson
 Aliaksandra Sasnovich
 Alias (POSIX)
@@ -4595,6 +4605,7 @@ Allan Williams (imprésario)
 Allan Williams (politicien)
 Allary Éditions
 Allegra Byron
+Allegro Grandi
 Allemagne
 Allemagne année zéro
 Allemagne aux Jeux olympiques d'été de 1952
@@ -4985,6 +4996,7 @@ Ambassade aborigène
 Ambassade d'Allemagne au Royaume-Uni
 Ambassade de Suisse en France
 Ambassadeur
+Ambassadeur des États-Unis en Suède
 Amber Rudd
 Amberg
 Amberian Dawn
@@ -5212,6 +5224,7 @@ Analyse fréquentielle
 Analyse génétique
 Analyse numérique
 Analyse psychologique
+Analyse pétrographique
 Analyse spectrale
 Analyse statistique de l'athéisme
 Analyse technique
@@ -5768,6 +5781,7 @@ Annick Alane
 Annie Balestra
 Annie Bertin
 Annie Brocoli
+Annie Burgess
 Annie Ducaux
 Annie Ebrel
 Annie Ernaux
@@ -7747,6 +7761,7 @@ Aéroport de Manchester
 Aéroport de Mourmansk
 Aéroport de Perth
 Aéroport de Saint-Jean
+Aéroport de Williams Lake
 Aéroport international Mataveri
 Aéroport international de Fascene
 Aéroport international de Louisville
@@ -9180,6 +9195,7 @@ Bernarda Pera
 Bernardini
 Bernardo Bertolucci
 Bernardo Provenzano
+Bernardon de la Salle
 Bernbourg
 Bernd Ziesemer
 Berndt-Otto Rehbinder
@@ -11700,6 +11716,7 @@ Camille Pin
 Camille Ravel
 Camille Timmerman
 Camille de Montalivet
+Camille-Gabrielle Drunzer
 Camillo Mastrocinque
 Camillo Ranzani
 Camilo José Cela
@@ -12168,6 +12185,7 @@ Carolella
 Carolina Maria de Jesus
 Caroline Angibaud
 Caroline Combes
+Caroline Denervaud
 Caroline Deruas
 Caroline Desbiens
 Caroline Dolehide
@@ -12280,6 +12298,7 @@ Cascadeur
 Cascine
 Casellina
 Casemate
+Caserne Ardant du Picq
 Caserte
 Casey Affleck
 Casey Dellacqua
@@ -13946,6 +13965,7 @@ Championnat du monde side-car
 Championnat du pays de Galles de football
 Championnat du pays de Galles de football 2010-2011
 Championnat du pays de Galles de football 2011-2012
+Championnat du pays de Galles de rugby à XV
 Championnat panaméricain masculin de handball 1994
 Championnat sud-américain de football de 1921
 Championnats NCAA de ski
@@ -13962,6 +13982,7 @@ Championnats d'Europe de natation en petit bassin 2011
 Championnats d'Europe de tennis de table 1970
 Championnats d'Europe de vitesse moto
 Championnats de France de triathlon cross 2021
+Championnats de Norvège de course en montagne
 Championnats du Canada de patinage artistique
 Championnats du monde
 Championnats du monde IBSF
@@ -15213,6 +15234,7 @@ Chuck Jones
 Chuck Lorre
 Chuck McKinley
 Chuck Norris
+Chuck Reed
 Chullpa
 Church Street (Pretoria)
 Church of the SubGenius
@@ -15504,6 +15526,7 @@ Cité du Vatican
 Cité impériale
 Cité interdite
 Cité-jardin
+Citéphilo
 Ciudad Juárez
 Ciudad Victoria
 Civic
@@ -17899,6 +17922,7 @@ Crétacé inférieur
 Crétacé supérieur
 Créteil
 Ctenophora
+Ctenophorus tjantjalka
 Ctenopseustis
 Ctenotus striaticeps
 Cthulhu (film)
@@ -18120,6 +18144,7 @@ Cynthia Loemij
 Cynthia Nixon
 Cynthia Powell
 Cynthia Sieler
+Cynthiana (Indiana)
 Cynthiana (Kentucky)
 Cyparisse
 Cyphophanes
@@ -20000,6 +20025,7 @@ Disques Odéon
 Disques Vogue
 Disquette
 Diss (Norfolk)
+Dissection artérielle
 Dissidenten
 Dissociation
 Dissociation (neuropsychologie)
@@ -20123,6 +20149,7 @@ Djur Djura
 Djurdura
 Djurgården Hockey
 Djurgårdens IF (football)
+Djéhoutimès
 Dmanissi
 Dmesg
 Dmitri Chostakovitch
@@ -20427,6 +20454,7 @@ Donnie Yen
 Donnisulana
 Donny Anderson
 Donny Osman
+Donnybrook (Australie-Occidentale)
 Donnée
 Donnée (informatique)
 Données de santé
@@ -21712,6 +21740,7 @@ Elinor Mavor
 Elio (film)
 Elio De Angelis
 Elisabeth Brown-Miller
+Elisabeth Epstein
 Elisabeth Moss
 Elisabeth Médora Leigh-Byron
 Elisabeth-Alexandrine de Ficquelmont
@@ -23379,6 +23408,7 @@ Fern Emmett
 Fernand Bercher
 Fernand Berset
 Fernand Braudel
+Fernand Icres
 Fernand Michaud
 Fernand Rinfret
 Fernand de Magellan
@@ -24111,6 +24141,7 @@ For the People (série télévisée, 2018)
 Forbach
 Forbes (magazine)
 Force 136
+Force H
 Force India
 Force de Coriolis
 Force de frappe (série télévisée)
@@ -24772,6 +24803,7 @@ Friedrich Schlegel
 Friedrich Schleiermacher
 Friedrich Wilhelm von Steuben
 Friedrich von Schiller
+Friedrich-Karl Müller
 Friend of the Devil
 Friends
 Friends : Les Retrouvailles
@@ -24826,6 +24858,7 @@ Frontière entre la France et la Suisse
 Frontière entre le Burkina Faso et le Niger
 Fronton (architecture)
 Frosinone
+Frost (album)
 Fruit (alimentation humaine)
 Fruit (botanique)
 Fruit climactérique
@@ -25162,6 +25195,7 @@ Gabriel Cattand
 Gabriel Deluc
 Gabriel Gagné
 Gabriel García Márquez
+Gabriel Geay
 Gabriel Gorodetsky
 Gabriel Julien-Laferrière
 Gabriel Le Bomin
@@ -25860,6 +25894,7 @@ Georges Dor
 Georges Fiori
 Georges Gilbert-Cazeneuve
 Georges Gurdjieff
+Georges Holvoet
 Georges Huisman
 Georges Lautner
 Georges Lavaudant
@@ -25906,6 +25941,7 @@ Gerhard Redl
 Gerhard Ritter
 Gerhard Schildt
 Gerhard Thurow
+Gerhard Winkler
 Gerhart Hauptmann
 Germaine de Staël
 Germains
@@ -26025,6 +26061,7 @@ Gigantopithèque
 Gigatonne
 Gigi (film, 1958)
 Gigi Fernández
+Gigi Ibrahim
 Gigolo
 Gihef
 Gijón
@@ -27637,6 +27674,7 @@ Guerre des Six Jours
 Guerre des anges
 Guerre des castes
 Guerre des mahdistes
+Guerre des mots dans le conflit israélo-palestinien
 Guerre des sept chefs
 Guerre dissymétrique
 Guerre du Biafra
@@ -28641,6 +28679,7 @@ Hans Fromm
 Hans Günter Schlegel
 Hans Hiltebrand
 Hans Koller
+Hans Lewy
 Hans Liljedahl
 Hans Matheson
 Hans Mild
@@ -28869,6 +28908,7 @@ Haryana
 Hasbro
 Hashtag
 Hasmik Boghossian
+Hassan Terro
 Hasselblad
 Hasselt (Belgique)
 Hasteulia
@@ -29163,6 +29203,7 @@ Henri Victor Vallois
 Henri Virlogeux
 Henri Wittmann
 Henri d'Artois
+Henri de Bessé de la Chapelle
 Henri de Hesse-Cassel
 Henri de Turenne (scénariste)
 Henri le Jeune
@@ -29985,6 +30026,7 @@ House of the Temple
 House party
 House show
 Houshang Ebtehaj
+Housse (musique)
 Houston
 Houston A. Baker Jr.
 Houston Chronicle
@@ -33333,6 +33375,7 @@ Jean Michaud
 Jean Michelangeli
 Jean Monnet
 Jean Monné
+Jean Muray
 Jean Métellus
 Jean O'Cottrell
 Jean Paul
@@ -33415,6 +33458,7 @@ Jean-Baptiste Surian
 Jean-Baptiste Sylvère Gay, vicomte de Martignac
 Jean-Baptiste de Lamarck
 Jean-Baptiste-Donatien de Vimeur de Rochambeau
+Jean-Baptiste-Zacharie Bolduc
 Jean-Benoît Ugeux
 Jean-Bertrand Aristide
 Jean-Christian Grinevald
@@ -33443,6 +33487,7 @@ Jean-Claude Passeron
 Jean-Claude Skrela
 Jean-Daniel Lorieux
 Jean-Denis Antoine Bord
+Jean-Emmanuel Gilibert
 Jean-François Antonioli
 Jean-François Breau
 Jean-François Cailhava de L'Estandoux
@@ -33464,6 +33509,7 @@ Jean-François Vlerick
 Jean-François Vlérick
 Jean-François Yvon
 Jean-François de La Pérouse
+Jean-Frédéric Hermann
 Jean-Gabriel Périot
 Jean-Girard Lacuée
 Jean-Guillaume Cabanne
@@ -35431,6 +35477,7 @@ K6-II
 KAA La Gantoise
 KAITO
 KFC Yum! Center
+KGO-TV
 KHR-1
 KIIS-FM
 KK Partizan Belgrade
@@ -35631,6 +35678,7 @@ Karlin (Poméranie occidentale)
 Karlskrona
 Karlsruhe
 Karlóvasi
+Karnków
 Karol Radziwonowicz
 Karolina Šprem
 Karolína Muchová
@@ -36165,6 +36213,7 @@ Kimiko Date
 Kimio Yanagisawa
 Kimiya Kaji
 Kimméridgien
+Kimwani
 Kin : Le Commencement
 KinKead
 Kinax
@@ -38767,6 +38816,7 @@ Leon Kirchner
 Leon Milo
 Leon Rippy
 Leon Russell
+Leon Wilkeson
 Leonard Baker
 Leonard Bloomfield
 Leonard Cohen
@@ -40139,6 +40189,7 @@ Liste des membres de la Société des Cincinnati de France
 Liste des membres du groupe Bilderberg
 Liste des meubles héraldiques
 Liste des milliardaires du monde en 2008
+Liste des ministres de l'Énergie en Région wallonne
 Liste des ministres-présidents d'Autriche
 Liste des monarques britanniques
 Liste des monarques d'Angleterre
@@ -41794,6 +41845,7 @@ Magnitude 10,5
 Magnitude absolue
 Magnitude apparente
 Magno Alves
+Magnolia (Iowa)
 Magnolia (chanteuse)
 Magnolia (film)
 Magnoliophyta
@@ -43278,6 +43330,7 @@ Master of Science (France)
 MasterChef Australia
 MasterClass (formation en ligne)
 Mastering
+Mastermind (homonymie)
 Masters 1000
 Masters de golf
 Masters de golf de 2008
@@ -46300,6 +46353,7 @@ NGC 5449
 NGC 5467
 NGC 6032
 NGC 6052
+NGC 6209
 NGC 6522
 NGC 732
 NGO Monitor
@@ -46701,6 +46755,7 @@ Ndillaan
 Ndébélé du Transvaal
 Ndébélés
 Ne t'enfuis pas
+Ne te retourne pas (film, 2016)
 Ne-Yo
 NeXTSTEP
 Neal Skupski
@@ -46792,6 +46847,7 @@ Nematomorpha
 Nembutal
 Nemertea
 Nemesea
+Nemesia
 Nemo Schiffman
 Nemutteita Kimochi Nemutteita Kokoro
 Nenad Zimonjić
@@ -47010,6 +47066,7 @@ Nice and Friendly
 Nichan Iftikhar
 Nicholas Aiello
 Nicholas Asbury
+Nicholas Benson
 Nicholas Bishop
 Nicholas Boka
 Nicholas Clay
@@ -47289,6 +47346,7 @@ Niveau de base
 Niveau de la mer
 Niza Jay Ncoyini
 Nizar Yaïche
+Nižbor
 Nl (Unix)
 No Jazz
 No More Shall We Part
@@ -49263,6 +49321,7 @@ Palmarès du double mixte du tournoi de Wimbledon
 Palmarès du simple dames du tournoi de Wimbledon
 Palmarès du simple messieurs du tournoi de Wimbledon
 Palmarès, statistiques et records de Björn Borg
+Palmas del Socorro
 Palme d'or
 Palmerston (Australie)
 Palmier-dattier
@@ -49886,6 +49945,7 @@ Pats de Regina
 Patsy Kensit
 Pattaya
 Patten Nigel
+Pattes de velours (film)
 Patti Cake$
 Patti LaBelle
 Patti Smith
@@ -50790,6 +50850,7 @@ Philippe le Bon
 Philippe-Antoine Merlin de Douai
 Philippe-Charles Schmerling
 Philippe-Paul de Ségur
+Philippe-Wolfgang de Hanau-Lichtenberg
 Philippe-Égalité
 Philippeville
 Philippine Airlines
@@ -52967,6 +53028,7 @@ Péninsule de Zapata
 Pénitence
 Pénurie de bois
 Pénélope (oiseau)
+Pénélope à front blanc
 Pénéplanation
 Pépinière
 Pépé et sa guitare
@@ -53103,6 +53165,7 @@ Queanbeyan
 Queanbeyan River
 Quebradnotia
 Queen
+Queen Emeraldas
 Queen Ka
 Queen Latifah
 Queen Mab
@@ -54521,6 +54584,7 @@ Riddick
 Riddim Wise
 Rideau de fer
 Riders of the Purple Sage (film, 1918)
+Ridha El Louze
 Ridin'
 Riding Into the Sunset
 Ridley Scott
@@ -55527,6 +55591,7 @@ Roxane Duran
 Roxane de Lafontaine
 Roxanne St-Gelais
 Roxburgh, Ettrick and Lauderdale
+Roxen (chanteuse)
 Roxeth
 Roxy Music
 Roy Aitken
@@ -56249,6 +56314,7 @@ Rêvons
 Rígsþula
 Río Magdalena
 Río Paraguay
+Río de Oro (Catatumbo)
 Río de la Plata
 Rôle de genre
 Rôtissage
@@ -56987,6 +57053,7 @@ Sammy et Scooby en folie
 Samoa
 Samoa américaines
 Samodiva
+Samogoszcz
 Samos
 Samothrace
 Samouraï Academy
@@ -57385,6 +57452,7 @@ Savagnin
 Savane
 Savannah (Géorgie)
 Save Me from Myself (chanson)
+Saveh
 Saves the Day
 Savile Row
 Savine
@@ -58038,6 +58106,7 @@ Sergiu Nicolaescu
 Sergius Paulus
 Sergueï Boïkov
 Sergueï Eisenstein
+Sergueï Filatov
 Serial (cinéma)
 Serial (film)
 Serioso
@@ -58414,6 +58483,7 @@ Shurum Burum
 Shutdown (Unix)
 Shutterstock
 Shy'm
+Shyok
 Shéhérazade
 Shélah
 Shérif de Nottingham
@@ -59411,6 +59481,7 @@ South African Broadcasting Corporation
 South Ayrshire
 South Champagne Business School
 South China Athletic Association
+South Fork (New York)
 South Gloucestershire
 South Harrow
 South Harrow (Londres)
@@ -61662,6 +61733,7 @@ Takasama Moue
 Takashi Hirayasu
 Takashi Kisaki
 Takashi Mine
+Takashi Mizuno (football)
 Takashi Nishioka
 Takashi Noguchi
 Takatāpui
@@ -63394,6 +63466,7 @@ Thinis
 Think About Life
 Think Big (album)
 Think for Yourself
+Thinking Machines
 Thiodia
 Thiodiodes
 Thiomargarita magnifica
@@ -63488,6 +63561,7 @@ Thomas Middleton
 Thomas Montagu
 Thomas Morley
 Thomas Muir de Huntershill
+Thomas Orde-Lees
 Thomas Otway
 Thomas Peers Williams
 Thomas Pelham (2e comte de Chichester)
@@ -63509,6 +63583,7 @@ Thomas Townshend (1er vicomte Sydney)
 Thomas Turgis
 Thomas VDB
 Thomas Vinterberg
+Thomas Whitcombe
 Thomas de Mahy de Favras
 Thomas et le Chemin de fer magique
 Thomas et ses amis
@@ -63602,6 +63677,7 @@ Théorie conspirationniste des chemtrails
 Théorie conspirationniste du Pizzagate
 Théorie de Heim
 Théorie de l'Internet Mort
+Théorie de l'approche indirecte
 Théorie de l'information
 Théorie de la balle unique
 Théorie de la complexité (informatique théorique)
@@ -63899,6 +63975,7 @@ Tinkisso
 Tino Schaedler
 Tinsalgo
 Tinsley Ellis
+Tinta negra mole
 Tintamare
 Tintin et le Lac aux requins
 Tintog-Nabitenga
@@ -64113,6 +64190,7 @@ Tomas Hanak
 Tomas Montilla
 Tomas Tranströmer
 Tomasz Wasilewski
+Tomašić
 Tomb Raider : L'Ange des ténèbres
 Tombe
 Tombe de Clytemnestre
@@ -65581,6 +65659,7 @@ Troie
 Troie (film, 2004)
 Trois (chiffre)
 Trois Anges de l'Apocalypse
+Trois Bleus et une blonde
 Trois Femmes puissantes
 Trois Glorieuses
 Trois Hommes et un bébé
@@ -65776,6 +65855,7 @@ Tugdual de Kermoysan
 Tuggeranong
 Tuggeranong Parkway
 Tuhobići
+Tuileries
 Tuiré
 Tuiré-Peulh
 Tuk-tuk
@@ -66068,6 +66148,7 @@ USC Trojan Marching Band
 USL Championship
 USNS Mizar (AGOR-11)
 USPGA
+USS Althea
 USS Barb (SSN-596)
 USS Belleau Wood (CVL-24)
 USS Cheyenne (SSN-773)
@@ -66397,6 +66478,7 @@ Uniondale (New York)
 Unione Calcio Sampdoria
 Unione Sportiva Salernitana 1919
 Unione Sportiva Sassuolo Calcio
+Unisys
 United Artists
 United Artists Records
 United Center
@@ -67421,6 +67503,7 @@ Vine Deloria, Jr.
 Ving Rhames
 Vingone
 Vingt Mille Lieues sous les mers
+Vingt-Cinq-Décembre
 Vinicius Cantuaria Quintet
 Vinland Saga
 Vinnie Jones
@@ -68137,6 +68220,7 @@ Wagner Moura
 Wagner de Assis
 Wagram Music
 Wagyu
+Wahdat al-wujud
 Wait (Unix)
 Wait (chanson des Beatles)
 Wait for Sleep
@@ -69594,6 +69678,7 @@ Yves Desrosiers
 Yves Duteil
 Yves Guyot
 Yves Jeuland
+Yves Laissu
 Yves Lambert
 Yves Lecoq
 Yves Léveillé
@@ -69925,6 +70010,7 @@ Zuisme
 Zulma
 Zumbi dos Palmares
 Zumpano (homonyme)
+Zurbano
 Zurich
 Zurich Classic of New Orleans
 Zuse 3
@@ -70751,6 +70837,7 @@ xian de Wencheng
 Énergie nucléaire au Danemark
 Énergie pneumatique
 Énergie renouvelable
+Énergie éolienne en Espagne
 Énergies fossiles
 Énergies renouvelables
 Énochien
@@ -71497,6 +71584,7 @@ $uicideboy$
 (100417) Philipglass
 (101955) Bénou
 (120347) Salacie
+(12625) Koopman
 (127005) Pratchett
 (136108) Hauméa
 (136199) Éris
@@ -71550,6 +71638,7 @@ $uicideboy$
 (30432) 2000 LM20
 (307261) 2002 MS4
 (30883) de Broglie
+(31160) 1997 WQ9
 (31450) Stevepreston
 (32586) 2001 QQ116
 (34047) Gloria
@@ -71582,6 +71671,7 @@ $uicideboy$
 (4179) Toutatis
 (4294) Horace
 (433) Éros
+(45802) 2000 PV29
 (4581) Asclépios
 (471151) 2010 FD49
 (4769) Castalie
@@ -71596,6 +71686,7 @@ $uicideboy$
 (54509) YORP
 (5535) Annefrank
 (55565) 2002 AW197
+(5562) Sumi
 (55637) 2002 UX25
 (588) Achille
 (589683) 2010 RF43
@@ -72026,6 +72117,7 @@ $uicideboy$
 1701 en littérature
 1703 en littérature
 1706 au théâtre
+1706 en littérature
 1707 au théâtre
 1711 en littérature
 1716 en littérature
@@ -73718,6 +73810,7 @@ $uicideboy$
 41e cérémonie des People's Choice Awards
 41e cérémonie des Saturn Awards
 41e division d'infanterie (États-Unis)
+41e division d'infanterie Firenze
 41e régiment d'artillerie de campagne (États-Unis)
 41e régiment d'infanterie (États-Unis)
 42 (film)
@@ -74579,6 +74672,7 @@ Abeille
 Abeille Beausoleil
 Abel Ferrara
 Abel Gance
+Abel Mustieles
 Abel Tarride
 Abel-Anastase Germain
 Abel-François Villemain
@@ -74993,6 +75087,7 @@ Adrien Michaux
 Adrien Solis
 Adrien Tambay
 Adrien Taquet
+Adrien Thomas (cyclisme)
 Adrienne de La Fayette
 Adscape
 Adsorption
@@ -75731,6 +75826,7 @@ Alexandre Dumas (fils)
 Alexandre Duval
 Alexandre Désilets
 Alexandre Falguière
+Alexandre Favre
 Alexandre François Marie de Beauharnais
 Alexandre Guansé
 Alexandre Guiraud
@@ -75865,6 +75961,7 @@ Ali Kahlane
 Ali Larter
 Ali MacGraw
 Ali Mossafa
+Ali Nullmeyer
 Ali-Ollie Woodson
 Aliaksandra Sasnovich
 Alias (POSIX)
@@ -75993,6 +76090,7 @@ Allan Williams (imprésario)
 Allan Williams (politicien)
 Allary Éditions
 Allegra Byron
+Allegro Grandi
 Allemagne
 Allemagne année zéro
 Allemagne aux Jeux olympiques d'été de 1952
@@ -76383,6 +76481,7 @@ Ambassade aborigène
 Ambassade d'Allemagne au Royaume-Uni
 Ambassade de Suisse en France
 Ambassadeur
+Ambassadeur des États-Unis en Suède
 Amber Rudd
 Amberg
 Amberian Dawn
@@ -76610,6 +76709,7 @@ Analyse fréquentielle
 Analyse génétique
 Analyse numérique
 Analyse psychologique
+Analyse pétrographique
 Analyse spectrale
 Analyse statistique de l'athéisme
 Analyse technique
@@ -77166,6 +77266,7 @@ Annick Alane
 Annie Balestra
 Annie Bertin
 Annie Brocoli
+Annie Burgess
 Annie Ducaux
 Annie Ebrel
 Annie Ernaux
@@ -79145,6 +79246,7 @@ Aéroport de Manchester
 Aéroport de Mourmansk
 Aéroport de Perth
 Aéroport de Saint-Jean
+Aéroport de Williams Lake
 Aéroport international Mataveri
 Aéroport international de Fascene
 Aéroport international de Louisville
@@ -80371,6 +80473,7 @@ Benedict Arnold
 Benedita da Silva
 Benelli
 Benelli (motorcycles)
+Benešov
 Benfica Lisbonne B
 Beng Climaco
 Bengale
@@ -80578,6 +80681,7 @@ Bernarda Pera
 Bernardini
 Bernardo Bertolucci
 Bernardo Provenzano
+Bernardon de la Salle
 Bernbourg
 Bernd Ziesemer
 Berndt-Otto Rehbinder
@@ -82874,6 +82978,7 @@ CableACE Awards
 Cabula
 Cacahuète
 Cachoeira (Bahia)
+Cachoeira (Sao Tomé-et-Principe)
 Caché
 Cacocharis
 Cacoecimorpha
@@ -83567,6 +83672,7 @@ Carolella
 Carolina Maria de Jesus
 Caroline Angibaud
 Caroline Combes
+Caroline Denervaud
 Caroline Deruas
 Caroline Desbiens
 Caroline Dolehide
@@ -83679,6 +83785,7 @@ Cascadeur
 Cascine
 Casellina
 Casemate
+Caserne Ardant du Picq
 Caserte
 Casey Affleck
 Casey Dellacqua
@@ -85345,6 +85452,7 @@ Championnat du monde side-car
 Championnat du pays de Galles de football
 Championnat du pays de Galles de football 2010-2011
 Championnat du pays de Galles de football 2011-2012
+Championnat du pays de Galles de rugby à XV
 Championnat panaméricain masculin de handball 1994
 Championnat sud-américain de football de 1921
 Championnats NCAA de ski
@@ -85361,6 +85469,7 @@ Championnats d'Europe de natation en petit bassin 2011
 Championnats d'Europe de tennis de table 1970
 Championnats d'Europe de vitesse moto
 Championnats de France de triathlon cross 2021
+Championnats de Norvège de course en montagne
 Championnats du Canada de patinage artistique
 Championnats du monde
 Championnats du monde IBSF
@@ -85957,6 +86066,7 @@ Charte sociale européenne
 Charter Communications
 Charters Towers
 Chartres
+Chartreuse de Montello
 Charts in France
 Chartwell
 Chase Elliott
@@ -86661,6 +86771,7 @@ Château de La Grange-Bléneau
 Château de Ligondès
 Château de Lornay
 Château de Montluel
+Château de Montmarin
 Château de Norwich
 Château de Richemont (Villette-sur-Ain)
 Château de Saint-Pastour
@@ -87152,6 +87263,7 @@ Claudine Mercier
 Claudinho (football, 1997)
 Claudio Castagnoli
 Claudio Descalzi (scénariste)
+Claudio García
 Claudio Giovannesi
 Claudio Rissi
 Claudio Santamaria
@@ -88137,6 +88249,7 @@ Conseil de recherche en sciences humaines du Canada
 Conseil de surveillance du comté de Los Angeles
 Conseil de sécurité des Nations Unies
 Conseil de sécurité des Nations unies
+Conseil delphinal
 Conseil des anciens
 Conseil des droits de l'Homme des Nations unies
 Conseil des relations étrangères
@@ -89300,6 +89413,7 @@ Crétacé inférieur
 Crétacé supérieur
 Créteil
 Ctenophora
+Ctenophorus tjantjalka
 Ctenopseustis
 Ctenotus striaticeps
 Cthulhu (film)
@@ -89521,6 +89635,7 @@ Cynthia Loemij
 Cynthia Nixon
 Cynthia Powell
 Cynthia Sieler
+Cynthiana (Indiana)
 Cynthiana (Kentucky)
 Cyparisse
 Cyphophanes
@@ -90052,6 +90167,7 @@ Danielle Anatólio
 Danielle Bradbery
 Danielle Collins
 Danielle Darrieux
+Danielle Eyango
 Danielle Hotte
 Danielle Macdonald
 Danielle Nègre
@@ -91401,6 +91517,7 @@ Disques Odéon
 Disques Vogue
 Disquette
 Diss (Norfolk)
+Dissection artérielle
 Dissidenten
 Dissociation
 Dissociation (neuropsychologie)
@@ -91829,6 +91946,7 @@ Donnie Yen
 Donnisulana
 Donny Anderson
 Donny Osman
+Donnybrook (Australie-Occidentale)
 Donnée
 Donnée (informatique)
 Données de santé
@@ -92625,6 +92743,7 @@ Désinfection
 Désinformation
 Désinformation sur la pandémie de Covid-19
 Désir sexuel
+Désiré Blanchet
 Désobéissance civile
 Déségrégation
 Détecteur de pluie
@@ -93114,6 +93233,7 @@ Elinor Mavor
 Elio (film)
 Elio De Angelis
 Elisabeth Brown-Miller
+Elisabeth Epstein
 Elisabeth Moss
 Elisabeth Médora Leigh-Byron
 Elisabeth-Alexandrine de Ficquelmont
@@ -95345,6 +95465,7 @@ Flying officer
 Flynn Carson et les Nouveaux Aventuriers
 Flysch
 Flysch rhénodanubien
+Flyswatter
 Flávia Nascimento
 Flávio Minuano
 Flâneur
@@ -96176,6 +96297,7 @@ Friedrich Schlegel
 Friedrich Schleiermacher
 Friedrich Wilhelm von Steuben
 Friedrich von Schiller
+Friedrich-Karl Müller
 Friend of the Devil
 Friends
 Friends : Les Retrouvailles
@@ -96230,6 +96352,7 @@ Frontière entre la France et la Suisse
 Frontière entre le Burkina Faso et le Niger
 Fronton (architecture)
 Frosinone
+Frost (album)
 Fruit (alimentation humaine)
 Fruit (botanique)
 Fruit climactérique
@@ -96547,6 +96670,7 @@ GPS (assistant de navigation)
 GQ (magazine)
 GR des Ardennes flamandes
 GRB 080319B
+GS Kallithéa
 GTA (groupe)
 Ga (peuple)
 Ga-Rankuwa
@@ -97265,6 +97389,7 @@ Georges Dor
 Georges Fiori
 Georges Gilbert-Cazeneuve
 Georges Gurdjieff
+Georges Holvoet
 Georges Huisman
 Georges Lautner
 Georges Lavaudant
@@ -97311,6 +97436,7 @@ Gerhard Redl
 Gerhard Ritter
 Gerhard Schildt
 Gerhard Thurow
+Gerhard Winkler
 Gerhart Hauptmann
 Germaine de Staël
 Germains
@@ -97430,6 +97556,7 @@ Gigantopithèque
 Gigatonne
 Gigi (film, 1958)
 Gigi Fernández
+Gigi Ibrahim
 Gigolo
 Gihef
 Gijón
@@ -98852,6 +98979,7 @@ Grushko
 Gryllidae
 Grypania
 Gryposcleroma
+Grzędy (Mazovie)
 Grèce
 Grèce antique
 Grèce aux Jeux olympiques d'été de 1952
@@ -99346,6 +99474,7 @@ Gué barré cramponné
 Gué réfléchi
 Gué réfléchi barré
 Gué réfléchi crochet inférieur gauche
+Guéhiébly
 Guérar
 Guérilla
 Guérilla urbaine
@@ -99596,6 +99725,7 @@ Gymnopilus zempoalensis
 Gymnopilus zenkeri
 Gymnosperme
 Gymnote (1888)
+Gymnothorax isingteena
 Gympie
 Gynnidomorpha
 Gynomorphe
@@ -99920,6 +100050,7 @@ Hajo Hoffmann (homme politique)
 Hakim Ziyech
 Hakim al-Nishaburi
 Hakka
+Hakone-jinja
 Hal B. Wallis
 Hal C. Kern
 Hal Hoye
@@ -100276,6 +100407,7 @@ Haryana
 Hasbro
 Hashtag
 Hasmik Boghossian
+Hassan Terro
 Hasselblad
 Hasselt (Belgique)
 Hasteulia
@@ -104742,6 +104874,7 @@ Jean Michaud
 Jean Michelangeli
 Jean Monnet
 Jean Monné
+Jean Muray
 Jean Métellus
 Jean O'Cottrell
 Jean Paul
@@ -104853,6 +104986,7 @@ Jean-Claude Passeron
 Jean-Claude Skrela
 Jean-Daniel Lorieux
 Jean-Denis Antoine Bord
+Jean-Emmanuel Gilibert
 Jean-François Antonioli
 Jean-François Breau
 Jean-François Cailhava de L'Estandoux
@@ -106842,6 +106976,7 @@ K6-II
 KAA La Gantoise
 KAITO
 KFC Yum! Center
+KGO-TV
 KHR-1
 KIIS-FM
 KK Partizan Belgrade
@@ -107042,6 +107177,7 @@ Karlin (Poméranie occidentale)
 Karlskrona
 Karlsruhe
 Karlóvasi
+Karnków
 Karol Radziwonowicz
 Karolina Šprem
 Karolína Muchová
@@ -107157,6 +107293,7 @@ Kawęczyn (Ryki)
 Kay Hammond (actrice américaine)
 Kay Stammers
 Kaya Futbol Club
+Kayan (Burkina Faso)
 Kazaa
 Kazakhstan
 Kazan
@@ -107473,6 +107610,7 @@ Khaganat turc
 Khajybeyskyï Lyman
 Khaled (chanteur)
 Khaled Alouach
+Khaleel Abduljanan
 Khalid Al Ma'ajil
 Khalifa
 Khamal Ahmed Elfar
@@ -108248,6 +108386,7 @@ L'Origine des espèces
 L'Orpheline ou le Mariage malheureux
 L'Oréal
 L'Ourson Doré
+L'Oz production
 L'Ultime Voyage
 L'Un dans l'autre
 L'Union (Haute-Garonne)
@@ -108927,6 +109066,7 @@ LaTanya Richardson
 LaTeX
 Laavor et hakir
 Laban
+Labarrère
 Labatt
 Label discographique
 Label indépendant
@@ -109483,6 +109623,7 @@ Le Bourreau des cœurs
 Le Bouscat
 Le Brio
 Le Browning
+Le Bréviaire des nobles
 Le Bréviaire des robots
 Le Butor (Saint-Denis)
 Le Cadeau de Carole
@@ -111552,6 +111693,7 @@ Liste des membres de la Société des Cincinnati de France
 Liste des membres du groupe Bilderberg
 Liste des meubles héraldiques
 Liste des milliardaires du monde en 2008
+Liste des ministres de l'Énergie en Région wallonne
 Liste des ministres-présidents d'Autriche
 Liste des monarques britanniques
 Liste des monarques d'Angleterre
@@ -112495,6 +112637,7 @@ Lovran
 Low (album de David Bowie)
 Low (chanson de Lenny Kravitz)
 Lowell Sherman
+Lower Harpton
 Lower Manhattan
 Lowestoft
 Lowlands
@@ -114692,6 +114835,7 @@ Master of Science (France)
 MasterChef Australia
 MasterClass (formation en ligne)
 Mastering
+Mastermind (homonymie)
 Masters 1000
 Masters de golf
 Masters de golf de 2008
@@ -115619,6 +115763,7 @@ Michael et Peter Spierig
 Michael Špaček
 Michaela Conlin
 Michail Kletcherov
+Michamps
 Michatun
 Michau
 Michaud
@@ -116223,6 +116368,7 @@ Misaki Doi
 Misandrie
 Misanthrope (film)
 Mischa Bakaleinikoff
+Mischianza
 Mise en abyme
 Mise en examen
 Mise en musique des poèmes de Charles Baudelaire
@@ -117714,6 +117860,7 @@ NGC 5449
 NGC 5467
 NGC 6032
 NGC 6052
+NGC 6209
 NGC 6522
 NGC 732
 NGO Monitor
@@ -118115,6 +118262,7 @@ Ndillaan
 Ndébélé du Transvaal
 Ndébélés
 Ne t'enfuis pas
+Ne te retourne pas (film, 2016)
 Ne-Yo
 NeXTSTEP
 Neal Skupski
@@ -118425,6 +118573,7 @@ Nice and Friendly
 Nichan Iftikhar
 Nicholas Aiello
 Nicholas Asbury
+Nicholas Benson
 Nicholas Bishop
 Nicholas Boka
 Nicholas Clay
@@ -118704,6 +118853,7 @@ Niveau de base
 Niveau de la mer
 Niza Jay Ncoyini
 Nizar Yaïche
+Nižbor
 Nl (Unix)
 No Jazz
 No More Shall We Part
@@ -120678,6 +120828,7 @@ Palmarès du double mixte du tournoi de Wimbledon
 Palmarès du simple dames du tournoi de Wimbledon
 Palmarès du simple messieurs du tournoi de Wimbledon
 Palmarès, statistiques et records de Björn Borg
+Palmas del Socorro
 Palme d'or
 Palmerston (Australie)
 Palmier-dattier
@@ -120929,6 +121080,7 @@ Parc national de Petrified Forest
 Parc national de Yellowstone
 Parc national du Kosciuszko
 Parc national olympique du Canada
+Parc naturel de la Kuja
 Parc naturel régional du Haut-Jura
 Parc provincial de Canmore Nordic Centre
 Parc quasi national d'Abashiri
@@ -122206,6 +122358,7 @@ Philippe le Bon
 Philippe-Antoine Merlin de Douai
 Philippe-Charles Schmerling
 Philippe-Paul de Ségur
+Philippe-Wolfgang de Hanau-Lichtenberg
 Philippe-Égalité
 Philippeville
 Philippine Airlines
@@ -124053,6 +124206,7 @@ Précurseur (chimie)
 Prédateur
 Prédateurs nocturnes (Batman)
 Prédictions
+Préface indispensable
 Préfecture autonome yi de Chuxiong
 Préfecture d'Osaka
 Préfecture de Fukuoka
@@ -124383,11 +124537,13 @@ Péninsule de Zapata
 Pénitence
 Pénurie de bois
 Pénélope (oiseau)
+Pénélope à front blanc
 Pénéplanation
 Pépinière
 Pépé et sa guitare
 Pérama
 Péribsen
+Péribée (épouse de Télamon)
 Périclès
 Périgueux
 Périgueux Foot
@@ -125938,6 +126094,7 @@ Riddick
 Riddim Wise
 Rideau de fer
 Riders of the Purple Sage (film, 1918)
+Ridha El Louze
 Ridin'
 Riding Into the Sunset
 Ridley Scott
@@ -127667,6 +127824,7 @@ Rêvons
 Rígsþula
 Río Magdalena
 Río Paraguay
+Río de Oro (Catatumbo)
 Río de la Plata
 Rôle de genre
 Rôtissage
@@ -128804,6 +128962,7 @@ Savagnin
 Savane
 Savannah (Géorgie)
 Save Me from Myself (chanson)
+Saveh
 Saves the Day
 Savile Row
 Savine
@@ -129736,6 +129895,7 @@ Shikeurit madeo
 Shilling
 Shilluk (langue)
 Shilvi
+Shimako Satō
 Shin Mitsuhara
 Shin'ichi Sakamoto
 Shinai
@@ -129834,6 +129994,7 @@ Shurum Burum
 Shutdown (Unix)
 Shutterstock
 Shy'm
+Shyok
 Shéhérazade
 Shélah
 Shérif de Nottingham
@@ -130831,6 +130992,7 @@ South African Broadcasting Corporation
 South Ayrshire
 South Champagne Business School
 South China Athletic Association
+South Fork (New York)
 South Gloucestershire
 South Harrow
 South Harrow (Londres)
@@ -131072,6 +131234,7 @@ Spécialisation militaire
 Spécisme
 Squadron 42
 Squadron leader
+Squalius ghigii
 Squamata
 Square Thomas-Jefferson
 Squelette
@@ -134815,6 +134978,7 @@ Thinis
 Think About Life
 Think Big (album)
 Think for Yourself
+Thinking Machines
 Thiodia
 Thiodiodes
 Thiomargarita magnifica
@@ -134909,6 +135073,7 @@ Thomas Middleton
 Thomas Montagu
 Thomas Morley
 Thomas Muir de Huntershill
+Thomas Orde-Lees
 Thomas Otway
 Thomas Peers Williams
 Thomas Pelham (2e comte de Chichester)
@@ -134930,6 +135095,7 @@ Thomas Townshend (1er vicomte Sydney)
 Thomas Turgis
 Thomas VDB
 Thomas Vinterberg
+Thomas Whitcombe
 Thomas de Mahy de Favras
 Thomas et le Chemin de fer magique
 Thomas et ses amis
@@ -135321,6 +135487,7 @@ Tinkisso
 Tino Schaedler
 Tinsalgo
 Tinsley Ellis
+Tinta negra mole
 Tintamare
 Tintin et le Lac aux requins
 Tintog-Nabitenga
@@ -135535,6 +135702,7 @@ Tomas Hanak
 Tomas Montilla
 Tomas Tranströmer
 Tomasz Wasilewski
+Tomašić
 Tomb Raider : L'Ange des ténèbres
 Tombe
 Tombe de Clytemnestre
@@ -137003,6 +137171,7 @@ Troie
 Troie (film, 2004)
 Trois (chiffre)
 Trois Anges de l'Apocalypse
+Trois Bleus et une blonde
 Trois Femmes puissantes
 Trois Glorieuses
 Trois Hommes et un bébé
@@ -137491,6 +137660,7 @@ USC Trojan Marching Band
 USL Championship
 USNS Mizar (AGOR-11)
 USPGA
+USS Althea
 USS Barb (SSN-596)
 USS Belleau Wood (CVL-24)
 USS Cheyenne (SSN-773)
@@ -137671,6 +137841,7 @@ Un match au sommet
 Un midi à l’Opéra
 Un monde meilleur (album)
 Un monde parfait (film)
+Un monstre à mille têtes
 Un parfum de meurtre
 Un pasteur d'enfer
 Un peuple et son roi
@@ -141020,6 +141191,7 @@ Yves Desrosiers
 Yves Duteil
 Yves Guyot
 Yves Jeuland
+Yves Laissu
 Yves Lambert
 Yves Lecoq
 Yves Léveillé
@@ -141351,6 +141523,7 @@ Zuisme
 Zulma
 Zumbi dos Palmares
 Zumpano (homonyme)
+Zurbano
 Zurich
 Zurich Classic of New Orleans
 Zuse 3
@@ -141374,6 +141547,7 @@ Zéphyr Artillerie
 Zéphyr and Friends
 Zéro (chiffre)
 Zéro barré
+Zéro de conduite
 Zéro de conduite (groupe)
 Zózimo
 Zózimo Bulbul
@@ -142177,6 +142351,7 @@ xian de Wencheng
 Énergie nucléaire au Danemark
 Énergie pneumatique
 Énergie renouvelable
+Énergie éolienne en Espagne
 Énergies fossiles
 Énergies renouvelables
 Énochien

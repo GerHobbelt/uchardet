@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Buzd
-MacKay Brook (dopływ East Branch River John)
-Zmiana boisk
-Jean-Claude Gayssot
-Zaraza macierzankowa
-Arkadiusz Pawełczyk
-Skalniczka stokowa
-Zamek Lombardzki
-Dzieło
-Subwersja (sztuka)
-Micheil Alawidze
-Wikariat apostolski Arabii Północnej
-Flora (żaglowiec)
-Spiczyńce
-Kruševo (Republika Serbska)
-Bolesław Andrzejewski
-Placówka Kontrolna Małego Ruchu Granicznego Chochołów
-Tadeusz Socha (piłkarz)
-Ahasver von Lehndorff
-Brygada Lotnictwa Marynarki Wojennej
-Deus ex machina (ujednoznacznienie)
-Bruno Götze
-Ríkarður Jónsson
-U.S. International Classic 2017
-Monaster Smolny
-Centrum Kultury i Biblioteka Publiczna Gminy Słupsk
-William Pryor Letchworth
-Jana Sorgers
-Wojny śląskie
-Šikulje (kanton tuzlański)
+Mistrzostwa Europy w Lekkoatletyce 1971 – skok wzwyż kobiet
+Magdalena Contreras
+Bützow (stacja kolejowa)
+Nidd
+Eklogy a písně (Vrchlický)
+D’Urville Island (Antarktyka)
+Hallo Szpicbródka, czyli ostatni występ króla kasiarzy
+Setna
+Polska na Letnich Igrzyskach Olimpijskich Młodzieży 2018
+Zarządzanie Publiczne
+Włodzimierz Rużycki de Rosenwerth
+Warenhaus Rudolph Karstadt (Szczecin)
+Penge West (stacja kolejowa)
+Peugeot 406 Coupé
+Pierre Minvielle
+Great Shelford
+Paddy Ashdown
+Teklit Teweldebrhan
+Antoni Jabłoński (1918–2015)
+Bize (Górna Marna)
+Kalameny
+A100
+Korea Open 2014
+Zygmunt Powstaniec (pociąg pancerny)
+Zbigniew Rudnicki
+Tesla (album)
+Washita
+Leon Magierowski
+Álvaro Siviero
+Mistrzostwa Świata w Wioślarstwie 2013
 &Twice
 (1) Ceres
 (10140) Villon
@@ -145,6 +145,7 @@ Wojny śląskie
 (90568) 2004 GV9
 (9238) Yavapai
 (93) Minerva
+(9502) Gaimar
 (Radek Řechka
 *-pierścień
 ,,I'll Fight"
@@ -1893,6 +1894,7 @@ Aguilar de Segarra
 Aguilera
 Agustín Canobbio
 Agustín Rogel
+Ahasver von Lehndorff
 Ahigal
 Ahmad Hasan al-Bakr
 Ahmad Jamal
@@ -2480,6 +2482,7 @@ Aleksandr Łoginow (biathlonista)
 Aleksandr Żukow (wicepremier)
 Aleksandra Billewiczówna
 Aleksandra Centkowska
+Aleksandra Cesarzowa
 Aleksandra Gromadowska
 Aleksandra Hołda
 Aleksandra Kurzak
@@ -2666,6 +2669,7 @@ Alfred Waterhouse
 Alfred Wysocki
 Alfred von Tirpitz
 Alfredo Foni
+Alfredo Marcuño
 Alfredo Ottaviani
 Algar de Mesa
 Algebra
@@ -3078,6 +3082,7 @@ Analiza wektorowa
 Analiza widmowa
 Analiza wypukła
 Analiza zespolona
+Anaphalioides
 Anastasija Gładyszewa
 Anastasija Myskina
 Anastasija Pawluczenkowa
@@ -3096,6 +3101,7 @@ Anatomia
 Anaya Evans
 Anbar (Syria)
 Ancien régime
+Ancient
 Ancyra
 Andalucia Tennis Experience 2009
 Andalucia Tennis Experience 2010
@@ -3927,6 +3933,7 @@ Arkadiusz Gołaś
 Arkadiusz Kuzio-Podrucki
 Arkadiusz Malczewski
 Arkadiusz Malinowski
+Arkadiusz Pawełczyk
 Arkadiusz Skrzypiński
 Arkadiusz Toński
 Arkadiusz Wiśniewski (muzyk)
@@ -4259,6 +4266,7 @@ Astronautyka
 Astronom
 Astronomia
 Astronomia sferyczna
+Astrophel and Other Poems
 Astrud Gilberto
 Asturia
 Astygmatyzm (wada wzroku)
@@ -5067,6 +5075,7 @@ Bamberg
 Bamboccianti
 Bamboo Engineering
 Bambus
+Bambusowiec
 Ban-de-Laveline
 Ban-de-Sapt
 Ban-sur-Meurthe-Clefcy
@@ -6932,6 +6941,7 @@ Bole (Chiny)
 Boleradice
 Boleszyn (gromada)
 Bolesław (gmina w powiecie olkuskim)
+Bolesław Andrzejewski
 Bolesław Bierut
 Bolesław Drobner
 Bolesław Hryniewiecki
@@ -7584,6 +7594,7 @@ Bruno (biskup Hildesheim)
 Bruno Brokken
 Bruno Chizzo
 Bruno Conti
+Bruno Götze
 Bruno II z Bergu
 Bruno III z Bergu
 Bruno Latour
@@ -8424,6 +8435,7 @@ Callum Wilson
 Callús
 Calonge de Segarra
 Calopteryx aequabilis
+Caltanissetta
 Calvin Coolidge
 Calvin Harris
 Calvin Murphy
@@ -8534,6 +8546,7 @@ Cardeñuela Riopico
 Cardiff
 Cardona
 Carentinus(biskup Kolonii)
+Carey Lowell
 Carey Wilson
 Carin Göring
 Carina Vogt
@@ -8953,6 +8966,7 @@ Centrum Korona
 Centrum Kosmiczne Uchinoura
 Centrum Kosmiczne imienia Johna F. Kennedy’ego
 Centrum Kulturowo-Archeologiczne w Nowej Słupi
+Centrum Kultury i Biblioteka Publiczna Gminy Słupsk
 Centrum LIM
 Centrum Lotów Kosmicznych Tanegashima
 Centrum Nauki Kopernik w Warszawie
@@ -12398,6 +12412,7 @@ Detroit Pistons
 Detroit Red Wings
 Detroit: Become Human
 Deus Mortem
+Deus ex machina (ujednoznacznienie)
 Deuteranomalia
 Deuteranopia
 Deutsch Jahrndorf
@@ -14982,6 +14997,7 @@ Dziewiąty
 Dziewkowice (gromada)
 Dziewoklucz
 Dziećmierowo
+Dzieło
 Dzieło sztuki
 Dzień
 Dzień Dziękczynienia
@@ -15054,6 +15070,7 @@ Dąbrowa (gmina Bisztynek)
 Dąbrowa (gmina Kuślin)
 Dąbrowa (gmina Mrozy)
 Dąbrowa (gmina Zbąszyń)
+Dąbrowa (gmina Zelów)
 Dąbrowa (gmina w guberni siedleckiej)
 Dąbrowa (gmina w województwie kujawsko-pomorskim)
 Dąbrowa (gmina w województwie olsztyńskim)
@@ -15763,6 +15780,7 @@ Elektrociepłownie w Bydgoszczy
 Elektroda
 Elektroda wodorowa
 Elektroenergetyczna linia kablowa
+Elektroenergetyka
 Elektrokoagulacja
 Elektrolit
 Elektrolit organiczny
@@ -17079,6 +17097,7 @@ Fibryna
 Ficha Kabira
 Fichtelbergschanzen
 Fidel Castro
+Fidor
 Fidżi
 Fidżi na Letnich Igrzyskach Olimpijskich 2012
 Fieseler Fi 103
@@ -17415,6 +17434,7 @@ Flis, to jest Spuszczanie statków Wisłą i inszymi rzekami do niej przypadają
 Flisak
 Flisy (Bydgoszcz)
 Flisz karpacki
+Flora (żaglowiec)
 Flora bakteryjna jelita
 Flora fizjologiczna
 Flora fizjologiczna człowieka
@@ -24927,6 +24947,7 @@ Jana Klečková
 Jana Klimešová
 Jana Lejsková
 Jana Novotná
+Jana Sorgers
 Jana Čepelová
 Jane Connell
 Jane Darwell
@@ -25304,6 +25325,7 @@ Jean-Baptiste Lully
 Jean-Baptiste Phạm Minh Mẫn
 Jean-Baptiste-Camille Corot
 Jean-Charles de Borda
+Jean-Claude Gayssot
 Jean-Claude Hollerich
 Jean-Claude Killy
 Jean-Claude Ndagijimana
@@ -28338,6 +28360,7 @@ Kim Ji-yeon
 Kim Jong-kook
 Kim Jun-ho (szermierz)
 Kim Jung-hwan
+Kim Kyung-wook
 Kim Pegula
 Kim Raver
 Kim Rhode
@@ -28620,6 +28643,7 @@ Klub Sahelu
 Klub nocny
 Klub piłkarski
 Klub sportowy
+Klubowe Mistrzostwa Afro-Azjatyckie
 Klubowe Mistrzostwa Świata w Piłce Nożnej 2009
 Klubowe mistrzostwa Oceanii w piłce nożnej
 Klubowe mistrzostwa świata w piłce nożnej
@@ -30418,6 +30442,7 @@ Kruszyna pospolita
 Kruszyniany
 Kruszyniec (województwo kujawsko-pomorskie)
 Kruszywo
+Kruševo (Republika Serbska)
 Kruševo (żupania pożedzko-slawońska)
 Kruščica (Republika Serbska)
 Krużganek
@@ -31366,6 +31391,7 @@ La Quar
 La Rambla
 La Revilla y Ahedo
 La Roca del Vallès
+La Roche-Clermault
 La Rochelle
 La Salle (Wogezy)
 La Scala
@@ -31434,6 +31460,7 @@ Lady A
 Lady Baltimore Tournament
 Lady Gaga
 Lady Hamilton (film 1941)
+Lady Samantha (album)
 Ladywell
 Lafarge
 LafargeHolcim
@@ -32331,6 +32358,7 @@ Lew Tołstoj
 Lew Trocki
 Lew afrykański
 Lew w zimie (film 1968)
+Lew workowaty
 Lewi z Jerozolimy
 Lewiatan (potwór)
 Lewica
@@ -32476,6 +32504,7 @@ Licznik programu
 Liczyrzepa
 Liderki rankingu WTA
 Liderki rankingu WTA deblistek
+Lidia (imię)
 Lidia Aleksiejewa
 Lidia Jazgar
 Lidia Staroń
@@ -34130,6 +34159,7 @@ Long Hot Summer
 Long Island
 Long Island Iced Tea
 Long Melford
+Longdon-on-Tern
 Longfellow Bridge
 Longyearbyen
 Lonsdaleit
@@ -34880,6 +34910,7 @@ Mabel Parton
 Mabopane
 Mabudża (Aleppo)
 Mac Ragnall
+MacKay Brook (dopływ East Branch River John)
 MacPaint
 MacTutor History of Mathematics Archive
 MacTutor History of Mathematics archive
@@ -35686,6 +35717,7 @@ Maria Nowakowska (Miss Polonia)
 Maria Nowakowska (modelka)
 Maria Ossowska
 Maria Pawlikowska-Jasnorzewska
+Maria Pańczyk-Pozdziej
 Maria Probosz
 Maria Sakari
 Maria Skłodowska-Curie
@@ -37452,6 +37484,7 @@ Michałówka (powiat bialski)
 Michałówka (powiat kozienicki)
 Michałówka (rejon tulczyński)
 Micheal Ray Richardson
+Micheil Alawidze
 Micheil Edżoszwili
 Michel Chasles
 Michel Eugène Chevreul
@@ -37908,6 +37941,7 @@ Ministerstwo Transportu, Budownictwa i Gospodarki Morskiej
 Ministerstwo Zdrowia (Polska)
 Ministerstwo Środowiska
 Ministrowie ds. Irlandii Północnej
+Ministrowie ds. Irlandii Północnej w brytyjskim gabinecie cieni
 Ministrowie informacji Wielkiej Brytanii
 Ministrowie spraw wewnętrznych Niemiec
 Ministrowie środowiska Wielkiej Brytanii
@@ -38812,6 +38846,7 @@ Mixtape
 Mixto Cuiabá
 Miyazaki
 Miyoshi Umeki
+Mizerykordia
 Mizrachijczycy
 Mizuho (stacja polarna)
 Miért, maga bohóc?
@@ -39149,6 +39184,7 @@ Monarchizm
 Monareczka białogrzbieta
 Monas
 Monaster Narodzenia Matki Bożej w Leśnej
+Monaster Smolny
 Monaster św. Onufrego w Jabłecznej
 Monasterio
 Monasterio de Rodilla
@@ -40001,6 +40037,7 @@ Myszoskoczka śniada
 Myszoskoczki
 Myszowate
 Myszowe
+Myszołowczyk
 Myszy
 Myszyniec
 Mysłaków (województwo łódzkie)
@@ -44449,6 +44486,7 @@ Parafia św. Onufrego w Łące
 Parafia św. Rafała Kalinowskiego w Dąbrowie Górniczej
 Parafia św. Rocha w Długosiodle
 Parafia św. Równej Apostołom Marii Magdaleny w Puławach
+Parafia św. Stanisława Biskupa i Męczennika w Miłonicach
 Parafia św. Stanisława Biskupa i Męczennika w Solcu Kujawskim
 Parafia św. Stanisława Biskupa i Męczennika w Sromowcach Wyżnych
 Parafia św. Stanisława Kostki w Jasionce
@@ -46668,6 +46706,7 @@ Plac Zbawiciela w Bydgoszczy
 Plac Świętego Piotra
 Place Charles-de-Gaulle
 Placebo
+Placówka Kontrolna Małego Ruchu Granicznego Chochołów
 Placówka Straży Celnej II linii „Bolesławiec”
 Placówka Straży Celnej II linii „Krzepice”
 Placówka Straży Celnej II linii „Kłobucko”
@@ -47979,6 +48018,7 @@ Pohorelá
 Pohoří na Šumavě
 Pohrebyszcze
 Pohronská Polhora
+Poiana-Seciuri
 Poilly-lez-Gien
 Pointe de l’Échelle
 Poisk
@@ -50472,6 +50512,7 @@ Puchar Niemiec w piłce nożnej
 Puchar Niemiec w piłce nożnej (2020/2021)
 Puchar Pięciu Narodów 1920
 Puchar Polski (2008/2009)
+Puchar Polski (województwo podlaskie) w piłce nożnej mężczyzn (2021/2022)
 Puchar Polski w Koszykówce Mężczyzn 2018/2019
 Puchar Polski w koszykówce kobiet
 Puchar Polski w koszykówce mężczyzn
@@ -54081,6 +54122,7 @@ Râmnicelu (gmina)
 Râmnicelu (okręg Buzău)
 Réning
 Répertoire International des Sources Musicales
+Ríkarður Jónsson
 Ríver Teresina
 Ród Ashikaga
 Ród Bonapartów
@@ -55488,6 +55530,7 @@ Selektywne inhibitory zwrotnego wychwytu serotoniny
 Selen
 Selered z Esseksu
 Selišće Sunjsko
+Selišče
 Seljord
 Selles-Saint-Denis
 Selles-sur-Cher
@@ -56224,6 +56267,7 @@ Skalice (kraj południowoczeski)
 Skaliste
 Skalité-Serafínov
 Skalna Góra (Tarnobrzeg)
+Skalniczka stokowa
 Skamieniałości
 Skamieniałość przewodnia
 Skand
@@ -56939,6 +56983,7 @@ Sophie Hansson
 Sopot
 Sopoćkinie
 Sopran
+Sopstok
 Sora (Hiszpania)
 Sorana Cîrstea
 Sorangium cellulosum
@@ -57105,6 +57150,7 @@ Sphingobacteria
 Spice (stacja telewizyjna)
 Spichrze w Bydgoszczy
 Spichrze w Grudziądzu
+Spiczyńce
 Spider-Man
 Spider-Man (film 2002)
 Spider-Man (komiks TM-semic)
@@ -57150,6 +57196,7 @@ Spitygniew II
 Spišské Tomášovce
 Spišský Hrušov
 Split
+Split (Unix)
 Splot (analiza matematyczna)
 Splot podbrzuszny górny
 Splot trzewny
@@ -58430,6 +58477,7 @@ Substancje barwiące
 Subsydia eksportowe
 Suburbanizacja
 Subwencja
+Subwersja (sztuka)
 Sucha (gromada w powiecie zwoleńskim)
 Sucha Beskidzka
 Sucha Góra (Stara Morawa)
@@ -59777,6 +59825,7 @@ Tadeusz Różewicz
 Tadeusz Sendzimir
 Tadeusz Siwek
 Tadeusz Siwek (geograf)
+Tadeusz Socha (piłkarz)
 Tadeusz Soroka
 Tadeusz Staniewski
 Tadeusz Stocki
@@ -62468,6 +62517,7 @@ TŻ Opole
 U kresu dnia
 U-lite
 U.S. Clay Court Championships
+U.S. International Classic 2017
 U.S. Open Clay Courts
 UA Maracaibo
 UBL21
@@ -63765,6 +63815,7 @@ Villemoutiers
 Villeneuve (Ariège)
 Villeny
 Villereau (Nord)
+Villers-Guislain
 Villers-Pol
 Villers-Sire-Nicole
 Villers-sur-Nied
@@ -65061,6 +65112,7 @@ Wigwałd
 Wii Speak
 Wii U
 Wijchen
+Wikariat apostolski Arabii Północnej
 Wikariusz
 Wikibooks
 Wikicytaty
@@ -65266,6 +65318,7 @@ William Pitt Młodszy
 William Pohlad
 William Powlett Powlett
 William Prout
+William Pryor Letchworth
 William Regal
 William Reid
 William Rowe
@@ -67693,6 +67746,7 @@ Zamek Książąt Pomorskich w Szczecinie
 Zamek Książęcy w Lwówku Śląskim
 Zamek Kumamoto
 Zamek Leśna
+Zamek Lombardzki
 Zamek Matsumoto
 Zamek Montjuïc
 Zamek Niesytno
@@ -67875,6 +67929,7 @@ Zapłocie (Potok)
 Zapłodnienie
 Zaraja
 Zaraza (demon)
+Zaraza macierzankowa
 Zaraza ogniowa
 Zarańsko
 Zarbeling
@@ -68595,6 +68650,7 @@ Zmarli w sierpniu 2020
 Zmartwychwstanie Jezusa
 Zmarzła Kopa
 Zmarzły Szczyt
+Zmiana boisk
 Zmiana klimatu
 Zmiana kolejności całkowania
 Zmiana na tronie cesarskim Japonii (2019)
@@ -69803,6 +69859,7 @@ zimowe igrzyska olimpijskie
 Šentvid pri Stični
 Ševar
 Šibensko-kninska županija
+Šikulje (kanton tuzlański)
 Šiljki
 Šiljkovići
 Šimon Bartko
@@ -70232,6 +70289,7 @@ zimowe igrzyska olimpijskie
 (90568) 2004 GV9
 (9238) Yavapai
 (93) Minerva
+(9502) Gaimar
 (Radek Řechka
 *-pierścień
 ,,I'll Fight"
@@ -72568,6 +72626,7 @@ Aleksandr Łoginow (biathlonista)
 Aleksandr Żukow (wicepremier)
 Aleksandra Billewiczówna
 Aleksandra Centkowska
+Aleksandra Cesarzowa
 Aleksandra Gromadowska
 Aleksandra Hołda
 Aleksandra Kurzak
@@ -72754,6 +72813,7 @@ Alfred Waterhouse
 Alfred Wysocki
 Alfred von Tirpitz
 Alfredo Foni
+Alfredo Marcuño
 Alfredo Ottaviani
 Algar de Mesa
 Algebra
@@ -73166,6 +73226,7 @@ Analiza wektorowa
 Analiza widmowa
 Analiza wypukła
 Analiza zespolona
+Anaphalioides
 Anastasija Gładyszewa
 Anastasija Myskina
 Anastasija Pawluczenkowa
@@ -73184,6 +73245,7 @@ Anatomia
 Anaya Evans
 Anbar (Syria)
 Ancien régime
+Ancient
 Ancyra
 Andalucia Tennis Experience 2009
 Andalucia Tennis Experience 2010
@@ -73679,6 +73741,7 @@ Antoni Frenzel
 Antoni Gaudí
 Antoni I Brabancki
 Antoni Jabłoński (1896–1920)
+Antoni Jabłoński (1918–2015)
 Antoni Kazimierz Ostrowski
 Antoni Kroh
 Antoni Laubitz
@@ -74348,6 +74411,7 @@ Astronautyka
 Astronom
 Astronomia
 Astronomia sferyczna
+Astrophel and Other Poems
 Astrud Gilberto
 Asturia
 Astygmatyzm (wada wzroku)
@@ -75156,6 +75220,7 @@ Bamberg
 Bamboccianti
 Bamboo Engineering
 Bambus
+Bambusowiec
 Ban-de-Laveline
 Ban-de-Sapt
 Ban-sur-Meurthe-Clefcy
@@ -76682,6 +76747,7 @@ Biurokracja
 Biwa (jezioro)
 Bixente Lizarazu
 Biza’a
+Bize (Górna Marna)
 Bizerta
 Biznes
 Biła Krynycia (obwód żytomierski)
@@ -78295,6 +78361,7 @@ Bûche de Noël
 Bülent Arınç
 Bürgerbräukeller
 Bütthard
+Bützow (stacja kolejowa)
 Býšovec
 Băcani (gmina)
 Bătdâmbâng (miasto)
@@ -78515,6 +78582,7 @@ Callum Wilson
 Callús
 Calonge de Segarra
 Calopteryx aequabilis
+Caltanissetta
 Calvin Coolidge
 Calvin Harris
 Calvin Murphy
@@ -78625,6 +78693,7 @@ Cardeñuela Riopico
 Cardiff
 Cardona
 Carentinus(biskup Kolonii)
+Carey Lowell
 Carey Wilson
 Carin Göring
 Carina Vogt
@@ -85148,6 +85217,7 @@ Dąbrowa (gmina Bisztynek)
 Dąbrowa (gmina Kuślin)
 Dąbrowa (gmina Mrozy)
 Dąbrowa (gmina Zbąszyń)
+Dąbrowa (gmina Zelów)
 Dąbrowa (gmina w guberni siedleckiej)
 Dąbrowa (gmina w województwie kujawsko-pomorskim)
 Dąbrowa (gmina w województwie olsztyńskim)
@@ -85397,6 +85467,7 @@ Dżuruf
 Dżuta
 Dżu’ajfijjat al-Maszi
 D’Este
+D’Urville Island (Antarktyka)
 E! Entertainment
 E.Leclerc
 E.S.S. Mega
@@ -85741,6 +85812,7 @@ Ekaterina Syrtseva
 Ekechejria
 Eklektyzm (architektura)
 Ekliptyka
+Eklogy a písně (Vrchlický)
 Ekolog
 Ekologia
 Ekonomia
@@ -85857,6 +85929,7 @@ Elektrociepłownie w Bydgoszczy
 Elektroda
 Elektroda wodorowa
 Elektroenergetyczna linia kablowa
+Elektroenergetyka
 Elektrokoagulacja
 Elektrolit
 Elektrolit organiczny
@@ -87173,6 +87246,7 @@ Fibryna
 Ficha Kabira
 Fichtelbergschanzen
 Fidel Castro
+Fidor
 Fidżi
 Fidżi na Letnich Igrzyskach Olimpijskich 2012
 Fieseler Fi 103
@@ -90290,6 +90364,7 @@ Grdun
 Grease Live!
 Great Cornard
 Great Green
+Great Shelford
 Great Sitkin
 Great Waldingfield
 Great Wenham
@@ -91371,6 +91446,7 @@ Halle Berry
 Hallelujah (piosenka Leonarda Cohena)
 Hallerczyk
 Hallgeir Brenden
+Hallo Szpicbródka, czyli ostatni występ króla kasiarzy
 Halloween Night (singel)
 Halloween zabija
 Hallubi Kabir
@@ -97139,6 +97215,7 @@ Kal (gmina Ivančna Gorica)
 Kalabria
 Kaladesh
 Kalamazoo
+Kalameny
 Kalat Hadid
 Kalat Nadżm
 Kalat asz-Szajch
@@ -98435,6 +98512,7 @@ Kim Ji-yeon
 Kim Jong-kook
 Kim Jun-ho (szermierz)
 Kim Jung-hwan
+Kim Kyung-wook
 Kim Pegula
 Kim Raver
 Kim Rhode
@@ -98717,6 +98795,7 @@ Klub Sahelu
 Klub nocny
 Klub piłkarski
 Klub sportowy
+Klubowe Mistrzostwa Afro-Azjatyckie
 Klubowe Mistrzostwa Świata w Piłce Nożnej 2009
 Klubowe mistrzostwa Oceanii w piłce nożnej
 Klubowe mistrzostwa świata w piłce nożnej
@@ -99557,6 +99636,7 @@ Kordian Józef Zamorski
 Korea
 Korea JoongAng Daily
 Korea Open
+Korea Open 2014
 Korea Open 2019
 Korea Południowa
 Korea Południowa na Letnich Igrzyskach Olimpijskich 2012
@@ -101464,6 +101544,7 @@ La Quar
 La Rambla
 La Revilla y Ahedo
 La Roca del Vallès
+La Roche-Clermault
 La Rochelle
 La Salle (Wogezy)
 La Scala
@@ -101532,6 +101613,7 @@ Lady A
 Lady Baltimore Tournament
 Lady Gaga
 Lady Hamilton (film 1941)
+Lady Samantha (album)
 Ladywell
 Lafarge
 LafargeHolcim
@@ -102210,6 +102292,7 @@ Leon Dubicki
 Leon Fleisher
 Leon Horodecki
 Leon Jakubów
+Leon Magierowski
 Leon Noël
 Leon Shamroy
 Leon Supiński
@@ -102429,6 +102512,7 @@ Lew Tołstoj
 Lew Trocki
 Lew afrykański
 Lew w zimie (film 1968)
+Lew workowaty
 Lewi z Jerozolimy
 Lewiatan (potwór)
 Lewica
@@ -102574,6 +102658,7 @@ Licznik programu
 Liczyrzepa
 Liderki rankingu WTA
 Liderki rankingu WTA deblistek
+Lidia (imię)
 Lidia Aleksiejewa
 Lidia Jazgar
 Lidia Staroń
@@ -104228,6 +104313,7 @@ Long Hot Summer
 Long Island
 Long Island Iced Tea
 Long Melford
+Longdon-on-Tern
 Longfellow Bridge
 Longyearbyen
 Lonsdaleit
@@ -105115,6 +105201,7 @@ Magašići
 Magda Linette
 Magdalen College, Oxford
 Magdalena Abakanowicz
+Magdalena Contreras
 Magdalena Feistel
 Magdalena Fręch
 Magdalena Fularczyk-Kozłowska
@@ -105785,6 +105872,7 @@ Maria Nowakowska (Miss Polonia)
 Maria Nowakowska (modelka)
 Maria Ossowska
 Maria Pawlikowska-Jasnorzewska
+Maria Pańczyk-Pozdziej
 Maria Probosz
 Maria Sakari
 Maria Skłodowska-Curie
@@ -108008,6 +108096,7 @@ Ministerstwo Transportu, Budownictwa i Gospodarki Morskiej
 Ministerstwo Zdrowia (Polska)
 Ministerstwo Środowiska
 Ministrowie ds. Irlandii Północnej
+Ministrowie ds. Irlandii Północnej w brytyjskim gabinecie cieni
 Ministrowie informacji Wielkiej Brytanii
 Ministrowie spraw wewnętrznych Niemiec
 Ministrowie środowiska Wielkiej Brytanii
@@ -108283,6 +108372,7 @@ Mistrzostwa Europy w Koszykówce Mężczyzn 2003
 Mistrzostwa Europy w Koszykówce Mężczyzn 2005
 Mistrzostwa Europy w Koszykówce Mężczyzn 2007
 Mistrzostwa Europy w Koszykówce Mężczyzn 2009
+Mistrzostwa Europy w Lekkoatletyce 1971 – skok wzwyż kobiet
 Mistrzostwa Europy w Lekkoatletyce 1978
 Mistrzostwa Europy w Lekkoatletyce 1998
 Mistrzostwa Europy w Lekkoatletyce 2002
@@ -108836,6 +108926,7 @@ Mistrzostwa Świata w Siatkówce Plażowej 2019
 Mistrzostwa Świata w Snookerze 2009
 Mistrzostwa Świata w Szermierce 1962
 Mistrzostwa Świata w Tenisie Stołowym 2009
+Mistrzostwa Świata w Wioślarstwie 2013
 Mistrzostwa Świata w Zapasach 2009
 Mistrzostwa Świata w Zapasach 2014
 Mistrzostwa Świata w Zapasach 2015
@@ -108912,6 +109003,7 @@ Mixtape
 Mixto Cuiabá
 Miyazaki
 Miyoshi Umeki
+Mizerykordia
 Mizrachijczycy
 Mizuho (stacja polarna)
 Miért, maga bohóc?
@@ -110102,6 +110194,7 @@ Myszoskoczka śniada
 Myszoskoczki
 Myszowate
 Myszowe
+Myszołowczyk
 Myszy
 Myszyniec
 Mysłaków (województwo łódzkie)
@@ -114133,6 +114226,7 @@ Paczkowo (województwo pomorskie)
 Paczkowo (województwo wielkopolskie)
 Paczków
 Padaczka
+Paddy Ashdown
 Paderborn
 Paderewski (pociąg pancerny)
 Padilla de Abajo
@@ -114550,6 +114644,7 @@ Parafia św. Onufrego w Łące
 Parafia św. Rafała Kalinowskiego w Dąbrowie Górniczej
 Parafia św. Rocha w Długosiodle
 Parafia św. Równej Apostołom Marii Magdaleny w Puławach
+Parafia św. Stanisława Biskupa i Męczennika w Miłonicach
 Parafia św. Stanisława Biskupa i Męczennika w Solcu Kujawskim
 Parafia św. Stanisława Biskupa i Męczennika w Sromowcach Wyżnych
 Parafia św. Stanisława Kostki w Jasionce
@@ -115809,6 +115904,7 @@ Pemra Özgen
 Penamind
 Penang FA
 Peng Shuai
+Penge West (stacja kolejowa)
 Penguin Books
 Penicyliny
 Pennsylvania Grass Court Championships
@@ -116025,6 +116121,7 @@ Petržalka
 Petter Solberg
 Petteri Orpo
 Pettoncourt
+Peugeot 406 Coupé
 Peugeot P4
 Peverell
 Pewnego razu na Dzikim Zachodzie
@@ -116265,6 +116362,7 @@ Pierre Laval
 Pierre Littbarski
 Pierre Louis Dulong
 Pierre Messmer
+Pierre Minvielle
 Pierre Nguyễn Văn Nhơn
 Pierre Puvis de Chavannes
 Pierre Simon de Laplace
@@ -118081,6 +118179,7 @@ Pohorelá
 Pohoří na Šumavě
 Pohrebyszcze
 Pohronská Polhora
+Poiana-Seciuri
 Poilly-lez-Gien
 Pointe de l’Échelle
 Poisk
@@ -118334,6 +118433,7 @@ Polska literatura współczesna
 Polska muzyka rozrywkowa
 Polska na Igrzyskach europejskich
 Polska na Letnich Igrzyskach Olimpijskich 2012
+Polska na Letnich Igrzyskach Olimpijskich Młodzieży 2018
 Polska na igrzyskach paraolimpijskich
 Polska na letnich igrzyskach olimpijskich
 Polska na zimowych igrzyskach olimpijskich
@@ -120574,6 +120674,7 @@ Puchar Niemiec w piłce nożnej
 Puchar Niemiec w piłce nożnej (2020/2021)
 Puchar Pięciu Narodów 1920
 Puchar Polski (2008/2009)
+Puchar Polski (województwo podlaskie) w piłce nożnej mężczyzn (2021/2022)
 Puchar Polski w Koszykówce Mężczyzn 2018/2019
 Puchar Polski w koszykówce kobiet
 Puchar Polski w koszykówce mężczyzn
@@ -125591,6 +125692,7 @@ Selektywne inhibitory zwrotnego wychwytu serotoniny
 Selen
 Selered z Esseksu
 Selišće Sunjsko
+Selišče
 Seljord
 Selles-Saint-Denis
 Selles-sur-Cher
@@ -125754,6 +125856,7 @@ Set List ~Greatest Songs~ Kanzenban
 Seter irlandzki
 Seth Rogen
 Setiles
+Setna
 Setúbal
 Seul World Cup Stadium
 Seventh (Magic: The Gathering)
@@ -127043,6 +127146,7 @@ Sophie Hansson
 Sopot
 Sopoćkinie
 Sopran
+Sopstok
 Sora (Hiszpania)
 Sorana Cîrstea
 Sorangium cellulosum
@@ -127255,6 +127359,7 @@ Spitygniew II
 Spišské Tomášovce
 Spišský Hrušov
 Split
+Split (Unix)
 Splot (analiza matematyczna)
 Splot podbrzuszny górny
 Splot trzewny
@@ -130339,6 +130444,7 @@ Tejada
 Tejeda de Tiétar
 Tekla Justyna Chopin
 Teklanówka
+Teklit Teweldebrhan
 Teksas
 Tekst cezarejski
 Tektonika (geologia)
@@ -130607,6 +130713,7 @@ Terytorium zależne
 Terzaga
 Terňa
 Tesco
+Tesla (album)
 Tesla Roadster
 Tessariny
 Test Anvila
@@ -133873,6 +133980,7 @@ Villemoutiers
 Villeneuve (Ariège)
 Villeny
 Villereau (Nord)
+Villers-Guislain
 Villers-Pol
 Villers-Sire-Nicole
 Villers-sur-Nied
@@ -134472,6 +134580,7 @@ Ward Lambert
 Wardanidzor
 Wardawank
 Wardomy
+Warenhaus Rudolph Karstadt (Szczecin)
 Wargi ust
 Wargielity
 Warglewo
@@ -134565,6 +134674,7 @@ Washington Open 2019 (kobiety)
 Washington Ortuño
 Washington University in St. Louis
 Washington Wizards
+Washita
 Washmere Green
 Wasij
 Wasilew Skrzeszewski
@@ -137210,6 +137320,7 @@ Włodzimierz Lenin
 Włodzimierz Nalazek
 Włodzimierz Nowakowski
 Włodzimierz Reczek
+Włodzimierz Rużycki de Rosenwerth
 Włodzimierz Sadalski
 Włodzimierz Sokorski
 Włodzimierz Stefański
@@ -138024,6 +138135,7 @@ Zarząd województwa
 Zarządca infrastruktury kolejowej
 Zarządcy infrastruktury kolejowej w Polsce
 Zarządzanie
+Zarządzanie Publiczne
 Zarządzanie wiedzą
 Zarządzanie zasobami ludzkimi
 Zarówka
@@ -138204,6 +138316,7 @@ Zbigniew Preisner
 Zbigniew Promiński
 Zbigniew Pronaszko
 Zbigniew Przybyszewski
+Zbigniew Rudnicki
 Zbigniew Rusek
 Zbigniew Starzec
 Zbigniew Strzałkowski (duchowny)
@@ -138920,6 +139033,7 @@ Zygmunt Lederman-Lednicki
 Zygmunt Luksemburski
 Zygmunt Muchniewski
 Zygmunt Myszkowski (zm. 1615)
+Zygmunt Powstaniec (pociąg pancerny)
 Zygmunt Puławski
 Zygmunt Rakoczy
 Zygmunt Smalcerz
@@ -139138,6 +139252,7 @@ zimowe igrzyska olimpijskie
 Álvaro González (ur. 1973)
 Álvaro Morais Filho
 Álvaro Odriozola
+Álvaro Siviero
 Álvaro Siza
 Ángel Cabrera (zoolog)
 Ángel Correa

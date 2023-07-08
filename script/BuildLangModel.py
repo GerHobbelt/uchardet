@@ -961,7 +961,7 @@ for lang_arg in langs:
   very_freq_ratio = 0
   freq_count_limit = 128
   if lang.alphabet is None and lang.frequent_ranges is None:
-      freq_count = min(freq_count_limit, len(sorted_ratios))
+      freq_count = min(255, min(freq_count_limit, len(sorted_ratios)))
       for order, (char, ratio) in enumerate(sorted_ratios):
           if order >= freq_count:
               break
@@ -973,6 +973,8 @@ for lang_arg in langs:
   elif lang.alphabet is not None:
       freq_count = 0
       for order, (char, ratio) in enumerate(sorted_ratios):
+          if freq_count >= 255:
+              break
           if len(lang.alphabet) == 0:
               break
           if chr(char) in lang.alphabet:
@@ -1001,6 +1003,8 @@ for lang_arg in langs:
       freq_count = 0
       for order, (char, ratio) in enumerate(sorted_ratios):
         if order >= freq_count_limit and ratio < 0.0005:
+          break
+        if freq_count >= 255:
           break
         for start, end in lang.frequent_ranges:
           if char >= start and char <= end:
@@ -1409,6 +1413,8 @@ for lang_arg in langs:
   c_code += FC_str
 
   if longest_irr_run_length > 0:
+      sys.stderr.write('@@@ OrderMap largest gap: {}\n'.format(longest_irr_run_length))
+
       SM_str = '\n'
       SM_str += '\n#define {}{}UnicodeCharToOrderFirstTableChunkSize    {}'.format(language_c, frequent_cmap_prefix, longest_irr_run_start - lo_c)
       SM_str += '\n#define {}{}UnicodeCharToOrderSecondTableChunkOffset {}'.format(language_c, frequent_cmap_prefix, longest_irr_run_start + longest_irr_run_length - lo_c)

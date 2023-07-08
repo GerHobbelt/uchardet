@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Ján Zvara
-Capvern
-Powiat trzebnicki
-Šatt al-Arab
-The Lightning Field
-Anarchizmus bez prívlastkov
-Trévignin
-L’Isle-sur-la-Sorgue (mesto)
-NGC 3782
-.as
-Boulogne
-S/2006 S 1
-Windsor Castle
-Georg Andreas Gabler
-Ferrari 575M Maranello
-Nans
-Bierbeek
-Gee
-Pulnoy
-Varennes-Saint-Sauveur
-Mačiansky presyp
-STS-35
-Ashley Tisdalová
-Zoznam kultúrnych pamiatok v obci Klčov
-Éter (chémia)
-Concord Dawn
-Zoznam NGC objektov 7501-7750
-Mí Arae
-Zhuchengceratops
-X. obvod (Budapešť)
+Katedrála svätého Petra (Montpellier)
+Majerská ulica
+Pracovný predmet
+Koloman Lux
+Štefan Bednár
+Ugny-sur-Meuse
+Sameľ (priezvisko)
+Eu (kantón)
+Zsch
+Ostrov (rozlišovacia stránka)
+Tvárlivosť
+Erichthonios
+LG X5
+Clodovil Hernandes
+Rudolf II. Habsburský (1232)
+Sad (poľnohospodárstvo)
+Witan
+NGC 3560
+Nasdaq Stock Market
+Menalkes z Opuntu
+Liga majstrov UEFA 2008/2009
+Gmina Węgierska Górka
+Abraham Mendel Theben
+Map of the Problematique
+Komunikológia
+Pod Lipovým
+Kvalifikácia na Majstrovstvá Európy UEFA vo futsale 2018
+Indonézske národné futsalové družstvo žien
+Dubeň (vrch)
+Remeslá v stredovekých a ranonovovekých Košiciach
 "Country" Winston Marshall
 "Heroes" (album)
 "Heroes" (pieseň)
@@ -3390,6 +3390,7 @@ Anankastická porucha osobnosti
 Anankatiscká psychopatia
 Ananás pestovaný
 Ananásové vlákno
+Anarchizmus bez prívlastkov
 Anasoft litera
 Anasol
 Anastacia
@@ -4494,6 +4495,7 @@ Ashanti
 Ashgate Publishing
 Ashland County
 Ashley Tisdale
+Ashley Tisdalová
 Ashley Young
 Ashraf Johaardien
 Ashton Kutcher
@@ -4546,6 +4548,7 @@ Astra alpínska
 Astrid Kirchherr
 Astrid Švédska
 Astrodynamika
+Astrofotografia
 Astrofyzik
 Astrofyzika
 Astrologička
@@ -4590,6 +4593,7 @@ Ateizmus
 Ateleaspidae
 Atelier Bow-Wow
 Atentát na Heydricha
+Athanodóros z Rodosu
 Athaulf
 Atheist
 Athelstan
@@ -4802,6 +4806,7 @@ Autobusová doprava v Košiciach
 Autobusová doprava v Prahe
 Autobusová stanica Košice
 Autocenzúra
+Autofelácia
 Autokefália
 Autokefálna cirkev
 Autokracia
@@ -6163,6 +6168,7 @@ Biely pán alebo Ťažko sa dnes duchom straší
 Biely soul
 Biely trpaslík
 Bien Hoa
+Bierbeek
 Bierné (kantón)
 Bierutova ulica
 Biffy Clyro
@@ -6770,6 +6776,7 @@ Bohumilice (okres Prachatice)
 Bohumín
 Bohunice (okres Levice)
 Bohunice (okres Prachatice)
+Bohuslav Chňoupek
 Bohuslav Martinů
 Bohuslav Tablic
 Bohuslavice (okres Šumperk)
@@ -7027,6 +7034,7 @@ Boulevard de Sébastopol
 Boulevard des Capucines
 Boulevard of Broken Dreams
 Boulevard of Broken Dreams (Green Day song)
+Boulogne
 Boulogne-sur-Mer
 Boulogne-sur-Mer (obvod)
 Boulogne-sur-Mer-Nord-Est
@@ -8212,6 +8220,7 @@ Caproni Ca.101
 Captain & Tennille
 Captain Beefheart and his Magic Band
 Captain EO
+Capvern
 Cara Blacková
 Caraboya
 Caracalla
@@ -9901,6 +9910,7 @@ Conches-en-Ouche (kantón)
 Conchita Martínezová Granadosová
 Conchita Wurst
 Concord (New Hampshire)
+Concord Dawn
 Concorde
 Concrete and Gold
 Condat-sur-Vézère
@@ -13398,6 +13408,7 @@ Encyclopædia Britannica
 Encyklion
 Encyklopedický ústav SAV
 Encyklopedický ústav Slovenskej akadémie vied
+Encyklopedie moderní historie
 Encyklopédia
 Encyklopédia Slovenska
 Encyklopédia archeológie
@@ -13768,6 +13779,7 @@ Esther Choi
 Esther Levine
 Esther Ralston
 Esther Williams
+Estibeaux
 Estopa
 Estrées-Saint-Denis (kantón)
 Estudiantes de La Plata
@@ -14659,6 +14671,7 @@ Fero Joke
 Fero Petriska
 Ferrara
 Ferrari 250 GTO
+Ferrari 575M Maranello
 Ferrières (Oise)
 Ferruccio Busoni
 Ferry Aid
@@ -16045,6 +16058,7 @@ Geomagnetický pól
 Geomantia
 Geomorfologické členenie Slovenska
 Geomorfológia
+Georg Andreas Gabler
 Georg C. F. Greve
 Georg Friedrich Händel
 Georg Gawliczek
@@ -20317,6 +20331,7 @@ Ivan Ostrochovský
 Ivan Pach
 Ivan Passer
 Ivan Petrovič Pavlov
+Ivan Pješčák
 Ivan Podsedník
 Ivan Popovič
 Ivan Popvič
@@ -22944,6 +22959,7 @@ Ján XXIII. (protipápež)
 Ján XXIII. (pápež)
 Ján Zlatoústy
 Ján Zozuľak
+Ján Zvara
 Ján Zápoľský
 Ján z Jandunu
 Ján z Kríža
@@ -27444,6 +27460,7 @@ Lois Maxwell
 Lois Smith
 Lois Weber
 Lois Wilson
+Lojko (priezvisko)
 Lojzo
 Lokal Freestyle Battle
 Lokal TV
@@ -28127,6 +28144,7 @@ Lőrinc Szabó
 L’Aquila
 L’Elispace
 L’Haÿ-les-Roses (obvod)
+L’Isle-sur-la-Sorgue (mesto)
 L’Yssandonnais
 M (magazine)
 M People
@@ -29381,6 +29399,7 @@ Marek Kristián Bartoš
 Marek Križin
 Marek Kvetan
 Marek Libert
+Marek Malík
 Marek Matuszek
 Marek Maďarič
 Marek Mihalkovič
@@ -29686,6 +29705,7 @@ Maroš Jaslovský
 Maroš Kramár
 Maroš Molnár
 Maroš Žilinka
+Marpéssa
 Marquee Club
 Marquette County
 Marquette-lez-Lille
@@ -30246,6 +30266,7 @@ Mazovské vojvodstvo
 Mačacia priepasť
 Mačacia priepasť III
 Mačiakoidovce
+Mačiansky presyp
 Mačie diery
 Mačinová (prírodná rezervácia)
 Mačka divá
@@ -32559,6 +32580,7 @@ Méru (kantón)
 Méréville (kantón)
 Mézières-en-Brenne (kantón)
 Mézières-sur-Issoire (kantón)
+Mí Arae
 Míchov
 Mína (výbušná nálož)
 Mínešská ulica
@@ -32670,6 +32692,7 @@ NGC 3496
 NGC 3576
 NGC 3603
 NGC 3768
+NGC 3782
 NGC 3925
 NGC 4142
 NGC 4348
@@ -35655,6 +35678,7 @@ Ostrov princa Eduarda
 Ostrov u Macochy
 Ostrovné lúčky
 Ostrovné územia USA
+Ostrołęka
 Ostruky
 Ostružina černicová
 Ostružinová ulica
@@ -35756,6 +35780,7 @@ Ouranopithecus macedoniensis
 Ourcq
 Out in the Fields
 Out of Order
+Out of Space
 Out of Time (album)
 Out of the Blue
 OutKast
@@ -40024,6 +40049,7 @@ Papua-Nová Guinea
 Papua-Nová Guinea na Letných olympijských hrách 2020
 Papája melónová
 Paquimé
+Paracelsus
 Parachutes (album)
 Paradajs
 Parade Magazine
@@ -41831,6 +41857,7 @@ Polity (publisher)
 Polk County
 Polkowice
 Pollicata
+Pollis
 Pollstar
 Polly Bergen
 Polly Chandler
@@ -42228,6 +42255,7 @@ Powiat suwalski
 Powiat szczecinecki
 Powiat sławieński
 Powiat tarnobrzeski
+Powiat trzebnicki
 Powiat wałecki
 Powiat wysokomazowiecki
 Powiat zambrowski
@@ -42644,6 +42672,7 @@ Prielom Teplého potoka
 Prieložtek
 Priemerná dĺžka života
 Priemysel
+Priemyselná architektúra
 Priemyselná ulica (Bratislava)
 Priemyselná ulica (Hlohovec)
 Priemyselná ulica (Martin)
@@ -43191,6 +43220,7 @@ Pukanec
 Pulchéria
 Pullach im Isartal
 Pullman
+Pulnoy
 Pulp Fiction
 Pulp Fiction: Historky z podsvetia
 Pulse (album, Pink Floyd)
@@ -44300,6 +44330,7 @@ Rhythm and blues
 Rhésos
 Rhésos (syn Éionea)
 Rhésos (syn Ókeana)
+Rhône (departement)
 Rhône-Alpes
 Rhônsko-simplonská línia
 Riadenie
@@ -45679,6 +45710,7 @@ S.O.S. (televízna relácia)
 S.S. Lazio
 S.W.A.T. (seriál z roku 2017)
 S/2004 S 7
+S/2006 S 1
 S1 (televízna stanica)
 SA Martinez
 SALT I
@@ -49781,6 +49813,7 @@ Spolok výtvarných umelcov Mánes
 Spoločenskovedný ústav Centra spoločenských a psychologických vied Slovenskej akadémie vied
 Spoločenská ulica
 Spoločenská zmluva (štát)
+Spoločenský zákon
 Spoločenský život
 Spoločenstvo nezávislých štátov
 Spoločenstvo národov
@@ -52588,6 +52621,7 @@ The Lazy Song
 The Legendary Pink Dots
 The Lemon Pipers
 The Lennon Sisters
+The Lightning Field
 The Lincoln Center for the Performing Arts
 The Little Drummer Boy
 The Living Years
@@ -53909,6 +53943,7 @@ Tréjouls
 Trélissac (kantón)
 Trélon (kantón)
 Tréméven (Côtes-d’Armor)
+Trévignin
 Trója
 Trójan (planétka)
 Trójania
@@ -55054,6 +55089,7 @@ Vanuatu na Letných olympijských hrách 2020
 Vanád
 Vančurova ulica (Bratislava)
 Varechovce
+Varennes-Saint-Sauveur
 Varené víno
 Vareškové oko
 Vareškové pleso
@@ -55170,6 +55206,7 @@ Vegetariánstvo
 Vehicle Assembly Building
 Vejvanovice
 Vejár
+Veková periodizácia
 Vekslák aneb Staré zlaté časy
 Vektor (údajová štruktúra)
 Vektorový priestor
@@ -57562,6 +57599,7 @@ X-Wing (počítačová hra)
 X-Wing Alliance
 X-Wing Collectors
 X-Wing vs. Tie-Fighter
+X. obvod (Budapešť)
 X2000
 XEROX
 XML-RPC
@@ -57871,6 +57909,7 @@ Zbrojníky
 Zbyněk Zajíc z Házmburka
 Zbytiny
 Zbyňov
+Zbýšov (okres Brno-venkov)
 Zdanlivá hviezdna veľkosť
 Zdena Frýbová
 Zdena Studenková
@@ -57979,6 +58018,7 @@ Zečák
 Zhorínska ulica
 Zhubné nádory kosti a kĺbovej chrupky (MKCH-10)
 Zhubný nádor
+Zhuchengceratops
 Zichovec
 Zidiny
 Ziggy Stardust: The Motion Picture
@@ -58287,6 +58327,7 @@ Zoznam Mesačných morí
 Zoznam NGC objektov
 Zoznam NGC objektov 1001-1250
 Zoznam NGC objektov 1751-2000
+Zoznam NGC objektov 7501-7750
 Zoznam PGC objektov
 Zoznam PGC objektov 1012001 – 1013000
 Zoznam PGC objektov 1055001 – 1056000
@@ -58295,15 +58336,18 @@ Zoznam PGC objektov 1168001 – 1169000
 Zoznam PGC objektov 1258001 – 1259000
 Zoznam PGC objektov 1279001 – 1280000
 Zoznam PGC objektov 1409001 – 1410000
+Zoznam PGC objektov 1440001 – 1441000
 Zoznam PGC objektov 1448001 – 1449000
 Zoznam PGC objektov 1484001 – 1485000
 Zoznam PGC objektov 1542001 – 1543000
+Zoznam PGC objektov 1876001 – 1877000
 Zoznam PGC objektov 1980001 – 1981000
 Zoznam PGC objektov 1989001 – 1990000
 Zoznam PGC objektov 2127001 – 2128000
 Zoznam PGC objektov 2172001 – 2173000
 Zoznam PGC objektov 220001 – 221000
 Zoznam PGC objektov 2417001 – 2418000
+Zoznam PGC objektov 2433001 – 2434000
 Zoznam PGC objektov 2556001 – 2557000
 Zoznam PGC objektov 2718001 – 2719000
 Zoznam PGC objektov 3086001 – 3087000
@@ -58467,6 +58511,7 @@ Zoznam hotelov v Bratislave
 Zoznam hotelov v Košiciach
 Zoznam hudobníkov psychedelického rocku
 Zoznam hudobných skladateľov vážnej hudby
+Zoznam hudobných článkov/7
 Zoznam hudobných článkov/T
 Zoznam hudobných článkov/Y
 Zoznam hviezd na Hollywoodskom chodníku slávy
@@ -58573,6 +58618,7 @@ Zoznam kultúrnych pamiatok v obci Kamenná Poruba (okres Žilina)
 Zoznam kultúrnych pamiatok v obci Kamienka (okres Stará Ľubovňa)
 Zoznam kultúrnych pamiatok v obci Kapince
 Zoznam kultúrnych pamiatok v obci Klasov
+Zoznam kultúrnych pamiatok v obci Klčov
 Zoznam kultúrnych pamiatok v obci Kolačkov
 Zoznam kultúrnych pamiatok v obci Kolíňany
 Zoznam kultúrnych pamiatok v obci Kotrčiná Lúčka
@@ -59784,6 +59830,7 @@ záclonová tyč
 Étampes (kantón)
 Étaples (kantón)
 Étauliers
+Éter (chémia)
 Étienne Gilson
 Étienne Marcel (opera)
 Étienne Nicolas Méhul
@@ -59794,6 +59841,7 @@ záclonová tyč
 Étréchy (kantón)
 Étrépagny
 Étrépagny (kantón)
+Évrard des Barres
 Évreux-1
 Évreux-2
 Évreux-3
@@ -60660,6 +60708,7 @@ záclonová tyč
 Šarovce
 Šaršón
 Šatov
+Šatt al-Arab
 Šaty snov
 Šaľa (okres)
 Šaľa 1
@@ -63499,6 +63548,7 @@ Abovské folklórne slávnosti
 Abraham Browning
 Abraham Harold Maslow
 Abraham Lincoln
+Abraham Mendel Theben
 Abrahám (biblická postava)
 Abrahám bar Dašandád
 Abrahámovské náboženstvo
@@ -66063,6 +66113,7 @@ Astra alpínska
 Astrid Kirchherr
 Astrid Švédska
 Astrodynamika
+Astrofotografia
 Astrofyzik
 Astrofyzika
 Astrologička
@@ -66107,6 +66158,7 @@ Ateizmus
 Ateleaspidae
 Atelier Bow-Wow
 Atentát na Heydricha
+Athanodóros z Rodosu
 Athaulf
 Atheist
 Athelstan
@@ -66319,6 +66371,7 @@ Autobusová doprava v Košiciach
 Autobusová doprava v Prahe
 Autobusová stanica Košice
 Autocenzúra
+Autofelácia
 Autokefália
 Autokefálna cirkev
 Autokracia
@@ -68288,6 +68341,7 @@ Bohumilice (okres Prachatice)
 Bohumín
 Bohunice (okres Levice)
 Bohunice (okres Prachatice)
+Bohuslav Chňoupek
 Bohuslav Martinů
 Bohuslav Tablic
 Bohuslavice (okres Šumperk)
@@ -71230,6 +71284,7 @@ Clive Brooks
 Clive Davis
 Clive Sinclair
 Clodia Pulchra
+Clodovil Hernandes
 Cloris Leachman
 Cloris Leachmanová
 Close Watch: An Introduction to John Cale
@@ -73957,6 +74012,7 @@ Dubaj (mesto)
 Dubawnt (jazero)
 Dubawnt (rieka)
 Dubcová
+Dubeň (vrch)
 Dubicko
 Dublin
 Dublinský záliv
@@ -74919,6 +74975,7 @@ Encyclopædia Britannica
 Encyklion
 Encyklopedický ústav SAV
 Encyklopedický ústav Slovenskej akadémie vied
+Encyklopedie moderní historie
 Encyklopédia
 Encyklopédia Slovenska
 Encyklopédia archeológie
@@ -75158,6 +75215,7 @@ Erich Przywara
 Erich Salomon
 Erich von Manstein
 Erich von Stroheim
+Erichthonios
 Erie Canal
 Erie County
 Erie County (Pensylvánia)
@@ -75289,6 +75347,7 @@ Esther Choi
 Esther Levine
 Esther Ralston
 Esther Williams
+Estibeaux
 Estopa
 Estrées-Saint-Denis (kantón)
 Estudiantes de La Plata
@@ -75321,6 +75380,7 @@ Etta James
 Etterbeek
 Etylalkohol
 Etymologický slovník
+Eu (kantón)
 Eubacteria
 Eubaktérie
 Eubója
@@ -78037,6 +78097,7 @@ Gmina Ochotnica Dolna
 Gmina Siemkowice
 Gmina Stawiski
 Gmina Turośl
+Gmina Węgierska Górka
 Gmina Zakrzewo (powiat aleksandrowski)
 Gmina Zblewo
 Gmina Łubowo
@@ -81397,6 +81458,7 @@ Indoeurópske jazyky
 Indoeurópsky prajazyk
 Indonézia
 Indonézia na Letných olympijských hrách 2020
+Indonézske národné futsalové družstvo žien
 Indonézske národné softbalové družstvo mužov
 Indoor trial na Svetových hrách
 Indovia
@@ -81840,6 +81902,7 @@ Ivan Ostrochovský
 Ivan Pach
 Ivan Passer
 Ivan Petrovič Pavlov
+Ivan Pješčák
 Ivan Podsedník
 Ivan Popovič
 Ivan Popvič
@@ -85174,6 +85237,7 @@ Katedrála Notre-Dame (Reims)
 Katedrála Panny Márie (Burgos)
 Katedrála svätej Hedvigy v Berlíne
 Katedrála svätého Martina (Bratislava)
+Katedrála svätého Petra (Montpellier)
 Katedrála v Seville
 Katey Sagal
 Kateřinice (okres Nový Jičín)
@@ -85946,6 +86010,7 @@ Kolno
 Koloman (Uhorsko)
 Koloman Banšell
 Koloman Leššo
+Koloman Lux
 Kolombo
 Kolonializmus
 Kolonica
@@ -86029,6 +86094,7 @@ Kompúter
 Komsomol
 Komu zvonia do hrobu
 Komunikačné pásmo
+Komunikológia
 Komunikácia
 Komunistická strana Slovenska (1939)
 Komunistická strana Slovenska (1948)
@@ -87120,6 +87186,7 @@ Kvadrofónny zvuk
 Kvaga
 Kvakeri
 Kvakovce
+Kvalifikácia na Majstrovstvá Európy UEFA vo futsale 2018
 Kvalifikácia na Majstrovstvá Európy v hádzanej mužov 1994
 Kvalifikácia na Majstrovstvá Európy v hádzanej mužov 1996
 Kvalifikácia na Majstrovstvá Európy v hádzanej mužov 1998
@@ -87416,6 +87483,7 @@ LASK Linz
 LCD monitor
 LG X max
 LG X power
+LG X5
 LGBT komunita
 LGM-30 Minuteman
 LL Cool J
@@ -88516,6 +88584,7 @@ Liffré
 Liga majstrov EHF mužov
 Liga majstrov EHF žien
 Liga majstrov UEFA
+Liga majstrov UEFA 2008/2009
 Liga majstrov UEFA 2019/2020 – Finále
 Ligand
 Ligatúra (písmo)
@@ -88968,6 +89037,7 @@ Lois Maxwell
 Lois Smith
 Lois Weber
 Lois Wilson
+Lojko (priezvisko)
 Lojzo
 Lokal Freestyle Battle
 Lokal TV
@@ -89954,6 +90024,7 @@ Majerníkova ulica (Bratislava)
 Majerova skala
 Majerovce
 Majerská cesta
+Majerská ulica
 Majerská ulica (Bratislava)
 Majerčíkova
 Majetok
@@ -90906,6 +90977,7 @@ Marek Kristián Bartoš
 Marek Križin
 Marek Kvetan
 Marek Libert
+Marek Malík
 Marek Matuszek
 Marek Maďarič
 Marek Mihalkovič
@@ -91211,6 +91283,7 @@ Maroš Jaslovský
 Maroš Kramár
 Maroš Molnár
 Maroš Žilinka
+Marpéssa
 Marquee Club
 Marquette County
 Marquette-lez-Lille
@@ -92140,6 +92213,7 @@ Memories (Barbra Streisand album)
 Memory Almost Full
 Memphis (Tennessee)
 Memphis Commercial Appeal
+Menalkes z Opuntu
 Menandros
 Mende-Nord
 Mende-Sud
@@ -94194,6 +94268,7 @@ NGC 3230
 NGC 3293
 NGC 3372
 NGC 3496
+NGC 3560
 NGC 3576
 NGC 3603
 NGC 3768
@@ -94608,6 +94683,7 @@ Narvik
 Nasavrky (okres Chrudim)
 Nasavsko
 Nasbinals (kantón)
+Nasdaq Stock Market
 Nashville
 Nashville (Tennessee)
 Nashville Predators
@@ -97174,6 +97250,7 @@ Ostrov
 Ostrov (okres Chrudim)
 Ostrov (okres Havlíčkův Brod)
 Ostrov (reality show)
+Ostrov (rozlišovacia stránka)
 Ostrov Chiloé
 Ostrov Man
 Ostrov Navassa
@@ -97183,6 +97260,7 @@ Ostrov princa Eduarda
 Ostrov u Macochy
 Ostrovné lúčky
 Ostrovné územia USA
+Ostrołęka
 Ostruky
 Ostružina černicová
 Ostružinová ulica
@@ -97284,6 +97362,7 @@ Ouranopithecus macedoniensis
 Ourcq
 Out in the Fields
 Out of Order
+Out of Space
 Out of Time (album)
 Out of the Blue
 OutKast
@@ -101552,6 +101631,7 @@ Papua-Nová Guinea
 Papua-Nová Guinea na Letných olympijských hrách 2020
 Papája melónová
 Paquimé
+Paracelsus
 Parachutes (album)
 Paradajs
 Parade Magazine
@@ -103359,6 +103439,7 @@ Polity (publisher)
 Polk County
 Polkowice
 Pollicata
+Pollis
 Pollstar
 Polly Bergen
 Polly Chandler
@@ -103864,6 +103945,7 @@ Prachy
 Praclík
 Pracovný pohovor
 Pracovný pohovor (zamestnanie)
+Pracovný predmet
 Praecepta sancti Pachomii
 Pragmatizmus
 Prague
@@ -104173,6 +104255,7 @@ Prielom Teplého potoka
 Prieložtek
 Priemerná dĺžka života
 Priemysel
+Priemyselná architektúra
 Priemyselná ulica (Bratislava)
 Priemyselná ulica (Hlohovec)
 Priemyselná ulica (Martin)
@@ -105657,6 +105740,7 @@ Remeselnícka ulica (Bratislava)
 Remeselnícke rozprávky
 Remeselnícky dom
 Remeselník
+Remeslá v stredovekých a ranonovovekých Košiciach
 Remeteszőlős
 Remeš
 Remiaška
@@ -105830,6 +105914,7 @@ Rhythm and blues
 Rhésos
 Rhésos (syn Éionea)
 Rhésos (syn Ókeana)
+Rhône (departement)
 Rhône-Alpes
 Rhônsko-simplonská línia
 Riadenie
@@ -106807,6 +106892,7 @@ Rudolf Franz Lehnert
 Rudolf I. (Svätá rímska ríša)
 Rudolf II.
 Rudolf II. (Svätá rímska ríša)
+Rudolf II. Habsburský (1232)
 Rudolf IV. (Rakúsko)
 Rudolf Jašík
 Rudolf Karel
@@ -108693,6 +108779,7 @@ Sambus
 Same Love
 Samec
 Samer (kantón)
+Sameľ (priezvisko)
 Sami Al-Jaber
 Sami Allagui
 Sami Khedira
@@ -111312,6 +111399,7 @@ Spolok výtvarných umelcov Mánes
 Spoločenskovedný ústav Centra spoločenských a psychologických vied Slovenskej akadémie vied
 Spoločenská ulica
 Spoločenská zmluva (štát)
+Spoločenský zákon
 Spoločenský život
 Spoločenstvo nezávislých štátov
 Spoločenstvo národov
@@ -115622,6 +115710,7 @@ Tvrdosť minerálu
 Tvrdé palice
 Tvrdého ulica
 Tvrzice
+Tvárlivosť
 Tvář pod maskou
 Twaron
 Twentieth Century Encyclopedia of Catholicism
@@ -115826,6 +115915,7 @@ Ueno Hikoma
 Uganda
 Uganda na Letných olympijských hrách 2020
 Ugandský šiling
+Ugny-sur-Meuse
 Ugo Foscolo
 Ugo Mulas
 Ugo Tognazzi
@@ -116704,6 +116794,7 @@ Vegetariánstvo
 Vehicle Assembly Building
 Vejvanovice
 Vejár
+Veková periodizácia
 Vekslák aneb Staré zlaté časy
 Vektor (údajová štruktúra)
 Vektorový priestor
@@ -118954,6 +119045,7 @@ Wish You Were Here (skladba, Pink Floyd)
 Wish You Were Here Tour
 Wishbone Ash
 Wisin Y Yandel
+Witan
 Witchcraft (1957 song)
 With Arms Wide Open
 With You
@@ -119406,6 +119498,7 @@ Zbrojníky
 Zbyněk Zajíc z Házmburka
 Zbytiny
 Zbyňov
+Zbýšov (okres Brno-venkov)
 Zdanlivá hviezdna veľkosť
 Zdena Frýbová
 Zdena Studenková
@@ -119832,15 +119925,18 @@ Zoznam PGC objektov 1168001 – 1169000
 Zoznam PGC objektov 1258001 – 1259000
 Zoznam PGC objektov 1279001 – 1280000
 Zoznam PGC objektov 1409001 – 1410000
+Zoznam PGC objektov 1440001 – 1441000
 Zoznam PGC objektov 1448001 – 1449000
 Zoznam PGC objektov 1484001 – 1485000
 Zoznam PGC objektov 1542001 – 1543000
+Zoznam PGC objektov 1876001 – 1877000
 Zoznam PGC objektov 1980001 – 1981000
 Zoznam PGC objektov 1989001 – 1990000
 Zoznam PGC objektov 2127001 – 2128000
 Zoznam PGC objektov 2172001 – 2173000
 Zoznam PGC objektov 220001 – 221000
 Zoznam PGC objektov 2417001 – 2418000
+Zoznam PGC objektov 2433001 – 2434000
 Zoznam PGC objektov 2556001 – 2557000
 Zoznam PGC objektov 2718001 – 2719000
 Zoznam PGC objektov 3086001 – 3087000
@@ -120004,6 +120100,7 @@ Zoznam hotelov v Bratislave
 Zoznam hotelov v Košiciach
 Zoznam hudobníkov psychedelického rocku
 Zoznam hudobných skladateľov vážnej hudby
+Zoznam hudobných článkov/7
 Zoznam hudobných článkov/T
 Zoznam hudobných článkov/Y
 Zoznam hviezd na Hollywoodskom chodníku slávy
@@ -121333,6 +121430,7 @@ záclonová tyč
 Étréchy (kantón)
 Étrépagny
 Étrépagny (kantón)
+Évrard des Barres
 Évreux-1
 Évreux-2
 Évreux-3
@@ -122444,6 +122542,7 @@ záclonová tyč
 Štefan (Anglicko)
 Štefan Anián Jedlík
 Štefan Banič
+Štefan Bednár
 Štefan Belohradský
 Štefan Boleslav Roman
 Štefan Bočkaj

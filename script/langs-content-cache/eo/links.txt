@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Sirákov
-Okazintaĵo de la USS Liberty
-Daŭripova Reto
-.tw
-Kriens
-(19642) 1999 RK94
-Vazirio
-György Szabó (skulptisto)
-Ruĝa vakcinio
-László Bíró (poeto)
-Edama fromaĝo
-Smethwick
-Negativo (fotado)
-Popea Sabina
-Anda Kerkhoven
-Orienta Perla Turo
-13926 Berners-Lee
-Kantono Dole-Nord-Est
-Aalst
-Jaboticabal
-Walter Steiner
-Gustavo Adolfo Bécquer
-Polignano a Mare
-Mortigaj motoroj
-Distrikto Oberallgäu
-Visé
-Valdeconcha
-Mitsuru Mansho
-Luneto (arĥitekturo)
-Hostovatnet
+Villanueva de Gormaz
+(159402) 1999 AP10
+NGC 2954
+Hiroaki Kumon
+Jordana normala formo
+(68247) 2001 DV70
+Federacia Komisiono pri Komunikado
+Ofertorio
+Stributeo
+Slovjansk (stacidomo)
+(19879) 1274 T-1
+Endormiĝa forpaso de Maria
+Chmiňany
+Ioniaj Insuloj (administra regiono)
+Ordeno de Alcántara
+Bruna arbarkoturno
+Arbat (distrikto de Moskvo)
+Granda fugo
+Taojuano
+NGC 614
+18973 Crouch
+São Geraldo da Piedade
+Schmelz (Saar)
+NGC 532
+Klipertono
+Walchwil (stacidomo)
+György Rupcsics
+Neudietendorf
+Újpest
+Hermeso
 "Weird Al" Yankovic
 '''''Richard Francis Burton'''''
 ''porteños''
@@ -186,6 +186,7 @@ Hostovatnet
 (19180) 1991 RK16
 (19283) 1996 BJ2
 (19289) 1996 HY12
+(19642) 1999 RK94
 (19647) 1999 RZ103
 (23624) 1996 UX3
 (23815) 1998 QF49
@@ -219,6 +220,7 @@ Hostovatnet
 (8361) 1990 JN1
 (8478) 1987 DO6
 (8511) 1991 PY10
+(8559) 1995 QM2
 (8566) 1996 EN
 (8778) 1931 TD3
 (8913) 1995 YB2
@@ -389,6 +391,7 @@ Hostovatnet
 11-an de majo
 11-an de novembro
 11-an de septembro
+11066 Sigurdo
 110P/Hartley
 111 Ateo
 11123 Aliciaclaire
@@ -491,6 +494,7 @@ Hostovatnet
 132798 Kürti
 132820 Miskotte
 132P/Helin-Roman-Alu
+1330 Spiridonia
 133P/Elst-Pizarro
 1340-aj jaroj
 134244 De Young
@@ -509,6 +513,7 @@ Hostovatnet
 13869 Fruge
 138P/Shoemaker-Levy
 1390-aj jaroj
+13926 Berners-Lee
 13942 Shiratakihime
 139P/Väisälä-Oterma
 13P/Olbers
@@ -553,6 +558,7 @@ Hostovatnet
 142401 Simonhook
 142P/Ge-Wang
 143P/Kowal-Mrkos
+144303 Mirellabreschi
 14445 Koichi
 144P/Kushida
 14568 Zanotta
@@ -1013,6 +1019,7 @@ Hostovatnet
 213P/Van Ness
 214P/LINEAR
 215463 Jobse
+21589 Rafes
 215P/NEAT
 21628 Lucashof
 216P/LINEAR
@@ -1357,6 +1364,7 @@ Hostovatnet
 31-an de oktobro
 3109 Machin
 31097 Nucciomula
+314 Rosalia
 31643 Natashachugh
 31P/Schwassmann-Wachmann
 31a de oktobro
@@ -1901,6 +1909,7 @@ Aachener Nachrichten
 Aage Bohr
 Aage Niels Bohr
 Aalen
+Aalst
 Aalto-Teatro
 Aarhus
 Aaron Burr
@@ -3740,6 +3749,7 @@ Ancistrochilus
 Ancistrokilo
 Ancistrorhynchus
 Ancistrorinko
+Anda Kerkhoven
 Anda avoceto
 Anda flamengo
 Anda flugakcidento de 1972
@@ -6322,6 +6332,7 @@ Bartolomé Mitre
 Bartolomé de las Casas
 Bartonella henselae
 Bartoušov
+Bartošovice v Orlických horách
 Bartramiaceae
 Bartramiacoj
 Bartramiales
@@ -6871,6 +6882,7 @@ Benaoján
 Benarrabá
 Benay
 Benazir Bhutto
+Bence
 Benedek Jancsó
 Benedetto Croce
 Benedict Anderson
@@ -7063,6 +7075,7 @@ Bernhard Riemann
 Bernhard Tuider
 Bernhard Widmann
 Bernin
+Bernina Lagalb (stacidomo)
 Berninches
 Bernis
 Berno
@@ -8703,6 +8716,7 @@ Brunnen (Bavario)
 Brunni-Glaĉero
 Bruno Bettelheim
 Bruno Chaudret
+Bruno Correa
 Bruno Kreisky
 Bruno Maderna
 Bruno Mauricio de Zabala
@@ -9713,6 +9727,7 @@ Castres (Aisne)
 Castries (Hérault)
 Castro (Lombardio)
 Castro Alves
+Castrovillari
 Castuera
 Castéra-Lectourois
 Castéra-Verduzan
@@ -12156,6 +12171,7 @@ Daŭfeno
 Daŭma turdo
 Daŭriga milito
 Daŭrigebla ekonomio
+Daŭripova Reto
 Daŭripova disvolviĝo
 Daŭripova nekresko
 Daŭripovo
@@ -12441,6 +12457,7 @@ Departementoj de Paragvajo
 Departementoj de Peruo
 Departementoj de Urugvajo
 Departementoj de reĝlando Hungario
+Dependa ekesto
 Dependa teritorio
 Dependa teritorio de Usono
 Dependaj teritorioj de Usono
@@ -13924,6 +13941,7 @@ Ed Sheeran
 Ed Wood
 Edafo
 Edafologio
+Edama fromaĝo
 Edamame
 Eddie Murphy
 Ede Andrási
@@ -13957,6 +13975,7 @@ Edith González
 Edith Stein
 Edith Södergran
 Edith Wharton
+Edmilson Carlos Abel
 Edmond Halley
 Edmond Privat
 Edmond Rostand
@@ -15889,6 +15908,7 @@ Fandopoto
 Fandopunkto
 Fandpunkto
 Fanerozoiko
+Fanfani
 Fanjeaux
 Fanny Bay (Brita Kolumbio)
 Fanny Bonnet
@@ -16252,6 +16272,7 @@ Fernando Henrique Cardoso
 Fernando Laroca
 Fernando Ortiz Fernández
 Fernando Poo
+Fernando Redondo Ituarte
 Fernando Rey
 Fernando Soler
 Fernando Sor
@@ -19685,6 +19706,7 @@ Gustave Eiffel
 Gustave Flaubert
 Gustave Le Bon
 Gustave de Molinari
+Gustavo Adolfo Bécquer
 Gustavo la 3-a (Svedio)
 Gustavo la 4-a Adolfo (Svedio)
 Gustaw Herling-Grudziński
@@ -19815,6 +19837,7 @@ György Pálfi
 György Rákóczi la 2-a
 György Rózsa (ĵurnalisto)
 György Sebestyén
+György Szabó (skulptisto)
 György Sándor (pianisto)
 György Vofkori
 György Vukán
@@ -20431,6 +20454,7 @@ Hell-Bourg
 Helleborine
 Hellerbergland
 Helleriella
+Hellertshausen
 Helluland
 Helm Identification Guides
 Helmintiazo
@@ -21418,6 +21442,7 @@ Hostiliano
 Hostivice
 Hostomice (distrikto Beroun)
 Hostouň (distrikto Kladno)
+Hostovatnet
 Hostovlice
 Hostín
 Hostín u Vojkovic
@@ -23315,6 +23340,7 @@ Izobutila sorbato
 Izod Center
 Izokilo
 Izokrato
+Izolda Erdély
 Izolda Macskássy
 Izolismo
 Izolita lingvo
@@ -23369,6 +23395,7 @@ Jabkenice
 Jablonná
 Jabloňov
 Jablunka (stacidomo)
+Jaboticabal
 Jacek Malczewski
 Jacek Pałkiewicz
 Jacinto Benavente
@@ -24244,6 +24271,7 @@ Johannes Brahms
 Johannes Cochläus
 Johannes Diderik van der Waals
 Johannes Eck
+Johannes Geiss
 Johannes Georgius Graevius
 Johannes Gerhardus Strijdom
 Johannes Gutenberg
@@ -25207,6 +25235,7 @@ Kainganga lingvo
 Kairo
 Kaiser
 Kaiserslautern
+Kaito Hirata
 Kaiĝuan Za Bao
 Kaja Kallas
 Kajakado-kanuado
@@ -25824,6 +25853,7 @@ Kantono Contra Costa
 Kantono Cortland
 Kantono Del Norte
 Kantono Delaware (Nov-Jorkio)
+Kantono Dole-Nord-Est
 Kantono Dutchess
 Kantono El Dorado
 Kantono Erie (Nov-Jorkio)
@@ -26474,6 +26504,7 @@ Kaverna histo
 Kaverno
 Kaverno Altamira
 Kaverno Hira
+Kavečany
 Kavito
 Kavŭali
 Kawai
@@ -28318,6 +28349,7 @@ Krevmaizo
 Krhanice
 Krhov (distrikto Třebíč)
 Kribio
+Kriens
 Krifeacoj
 Kriketo
 Krilo
@@ -32266,6 +32298,7 @@ Lundo
 Lunduo
 Lunel
 Lunel-Viel
+Luneto (arĥitekturo)
 Lunfardo
 Lunga (Comloșu Mare)
 Lunio
@@ -32384,6 +32417,7 @@ László Benedek (reĝisoro)
 László Bányai
 László Bárdossy
 László Bíró (inventisto)
+László Bíró (poeto)
 László Csák
 László Egri (priturisma verkisto)
 László Fritz
@@ -35423,6 +35457,7 @@ Mitozo
 Mitraleto
 Mitralo
 Mitsubishi
+Mitsuru Mansho
 Mitt Romney
 Mittelbergheim
 Mittelfranken
@@ -36339,6 +36374,7 @@ Mortierellomycotina
 Mortiers
 Mortiga dozo (LD50)
 Mortigado de Atocha de 1977
+Mortigaj motoroj
 Mortigo
 Mortindico
 Mortkondamno
@@ -37714,6 +37750,7 @@ Nefrologio
 Nefud
 Negativa diferenciala rezistanco
 Negativa mono
+Negativo (fotado)
 Negeri Sembilan
 Negliĝo
 Negocadministrado
@@ -39185,6 +39222,7 @@ Oita Trinita
 Oka Oficiala Aldono al la Universala Vortaro
 Oka mirindaĵo de la mondo
 Okarec
+Okazintaĵo de la USS Liberty
 Okcident-Eŭropa Unio
 Okcident-Romia Imperio
 Okcidenta Afriko
@@ -39751,6 +39789,7 @@ Orienta Misamiso
 Orienta Negroso
 Orienta Ortodoksa Eklezio
 Orienta Pakistano
+Orienta Perla Turo
 Orienta Prusio
 Orienta Renfrewshire
 Orienta Romia Imperio
@@ -42075,6 +42114,7 @@ Pičín
 Piĵamo
 Piława Górna
 Pińczów
+Pjongjanga Universitato de Muziko kaj Danco
 Pjongjango
 Pjonĉango
 Pjotr Aleksejeviĉ Kropotkin
@@ -42509,6 +42549,7 @@ Poliginandrio
 Poliginio
 Poligloto
 Polignac (Haute-Loire)
+Polignano a Mare
 Poligny (Jura)
 Polihedra plant-ĉelo
 Polikleto
@@ -42757,6 +42798,7 @@ Pop-ikono
 Pop-muziko
 Popa muziko
 Poparto
+Popea Sabina
 Poperinge
 Popești (Întregalde)
 Popian
@@ -43648,6 +43690,7 @@ Provinco Ruse
 Provinco Río Negro
 Provinco Salamanko
 Provinco Salta
+Provinco San José
 Provinco Sankta Kruco de Tenerifo
 Provinco Santa Fe
 Provinco Saŭhaĝ
@@ -44838,6 +44881,7 @@ Reinickendorf
 Reinier Paping
 Reismo
 Reithouse
+Reitzenhain (Marienberg)
 Rejkjaviko
 Rejna Ligo
 Rejna separatismo
@@ -46291,6 +46335,7 @@ Rusia Esperantista Kongreso
 Rusia Esperantista Unio
 Rusia Imperio
 Rusia Soveta Federacia Socialisma Respubliko
+Rusia Universitato de Amikeco inter Popoloj
 Rusia armeo
 Rusia enlanda milito
 Rusia imperio
@@ -46356,6 +46401,7 @@ Ruĝa supergiganto
 Ruĝa teroro
 Ruĝa tetrao
 Ruĝa tigrardeo
+Ruĝa vakcinio
 Ruĝa viando
 Ruĝa vulpo
 Ruĝaj Brigadoj
@@ -49697,6 +49743,7 @@ Serge Haroche
 Serge Sire
 Sergei Movsesian
 Sergei Starostin
+Sergej Borisov
 Sergej Eisenstein
 Sergej Karjakin
 Sergej Kirov
@@ -50444,6 +50491,7 @@ Small Soldiers
 Smarhon
 Smash Records
 Smeraldo
+Smethwick
 Smečno
 Smiconio
 Smilkov
@@ -52587,6 +52635,7 @@ Taniche (komunumo)
 Taninges
 Tanino
 Tankao
+Tanki Online
 Tanko
 Tannières
 Tantalo
@@ -53997,6 +54046,7 @@ Toyotomi Hideyoshi
 Točník
 Tra l' okuloj de l' venkitoj
 Tra l'okuloj de l' venkitoj
+Tra la mondo (revuo)
 Tra mia prismo
 Tracheophyta
 Trachypodaceae
@@ -55911,6 +55961,7 @@ Vaychis
 Vazeilles-Limandre
 Vazeilles-près-Saugues
 Vazirabad
+Vazirio
 Vaziristano
 Vaŝingtonio
 Vaŝingtono
@@ -57456,6 +57507,7 @@ Walter Mondale
 Walter Noll
 Walter Norman Haworth
 Walter Scott
+Walter Steiner
 Walter Ulbricht
 Walther Bothe
 Walther Nernst
@@ -59395,6 +59447,7 @@ viruso
 Škvorec
 Šlapanice (distrikto Kladno)
 Šlapanov
+Štefanec (Mala Subotica)
 Šternberk
 Štipoklasy
 Štoky
@@ -59529,6 +59582,7 @@ viruso
 (15773) 1993 FO37
 (15810) 1994 JR1
 (15920) 1997 UB25
+(159402) 1999 AP10
 (160140) 2001 DZ3
 (16031) 1999 FJ10
 (16134) 1999 XE100
@@ -59553,6 +59607,7 @@ viruso
 (19289) 1996 HY12
 (19642) 1999 RK94
 (19647) 1999 RZ103
+(19879) 1274 T-1
 (23624) 1996 UX3
 (23815) 1998 QF49
 (25016) 1998 QJ4
@@ -59569,6 +59624,7 @@ viruso
 (63284) 2001 DM46
 (6367) 1982 FY2
 (6369) 1983 UC
+(68247) 2001 DV70
 (7044) 1971 UK
 (7045) 1974 FJ
 (73682) 1990 HU5
@@ -59585,6 +59641,7 @@ viruso
 (8361) 1990 JN1
 (8478) 1987 DO6
 (8511) 1991 PY10
+(8559) 1995 QM2
 (8566) 1996 EN
 (8778) 1931 TD3
 (8913) 1995 YB2
@@ -59755,6 +59812,7 @@ viruso
 11-an de majo
 11-an de novembro
 11-an de septembro
+11066 Sigurdo
 110P/Hartley
 111 Ateo
 11123 Aliciaclaire
@@ -59857,6 +59915,7 @@ viruso
 132798 Kürti
 132820 Miskotte
 132P/Helin-Roman-Alu
+1330 Spiridonia
 133P/Elst-Pizarro
 1340-aj jaroj
 134244 De Young
@@ -59920,6 +59979,7 @@ viruso
 142401 Simonhook
 142P/Ge-Wang
 143P/Kowal-Mrkos
+144303 Mirellabreschi
 14445 Koichi
 144P/Kushida
 14568 Zanotta
@@ -60144,6 +60204,7 @@ viruso
 1890aj jaroj
 18944 Sawilliams
 18957 Mijacobsen
+18973 Crouch
 189P/NEAT
 18D/Perrine-Mrkos
 18a de januaro
@@ -60380,6 +60441,7 @@ viruso
 213P/Van Ness
 214P/LINEAR
 215463 Jobse
+21589 Rafes
 215P/NEAT
 21628 Lucashof
 216P/LINEAR
@@ -60724,6 +60786,7 @@ viruso
 31-an de oktobro
 3109 Machin
 31097 Nucciomula
+314 Rosalia
 31643 Natashachugh
 31P/Schwassmann-Wachmann
 31a de oktobro
@@ -63923,6 +63986,7 @@ Arbarekspluatado
 Arbarincendio
 Arbaro
 Arbaro de Białowieża
+Arbat (distrikto de Moskvo)
 Arbedo
 Arbeteta
 Arbigny-sous-Varennes
@@ -65691,6 +65755,7 @@ Bartolomé Mitre
 Bartolomé de las Casas
 Bartonella henselae
 Bartoušov
+Bartošovice v Orlických horách
 Bartramiaceae
 Bartramiacoj
 Bartramiales
@@ -66240,6 +66305,7 @@ Benaoján
 Benarrabá
 Benay
 Benazir Bhutto
+Bence
 Benedek Jancsó
 Benedetto Croce
 Benedict Anderson
@@ -66432,6 +66498,7 @@ Bernhard Riemann
 Bernhard Tuider
 Bernhard Widmann
 Bernin
+Bernina Lagalb (stacidomo)
 Berninches
 Bernis
 Berno
@@ -68041,6 +68108,7 @@ Brumano
 Brumetz
 Brumo
 Bruna Surfistinha
+Bruna arbarkoturno
 Bruna diplogalo
 Bruna falko
 Bruna herpesto
@@ -68072,6 +68140,7 @@ Brunnen (Bavario)
 Brunni-Glaĉero
 Bruno Bettelheim
 Bruno Chaudret
+Bruno Correa
 Bruno Kreisky
 Bruno Maderna
 Bruno Mauricio de Zabala
@@ -69082,6 +69151,7 @@ Castres (Aisne)
 Castries (Hérault)
 Castro (Lombardio)
 Castro Alves
+Castrovillari
 Castuera
 Castéra-Lectourois
 Castéra-Verduzan
@@ -69915,6 +69985,7 @@ Chlístov (distrikto Třebíč)
 Chlístovice
 Chmelná
 Chminianska Nová Ves
+Chmiňany
 Cho Seung-Hui
 Choapam (distrikto)
 Chocerady
@@ -71811,6 +71882,7 @@ Departementoj de Paragvajo
 Departementoj de Peruo
 Departementoj de Urugvajo
 Departementoj de reĝlando Hungario
+Dependa ekesto
 Dependa teritorio
 Dependa teritorio de Usono
 Dependaj teritorioj de Usono
@@ -73328,6 +73400,7 @@ Edith González
 Edith Stein
 Edith Södergran
 Edith Wharton
+Edmilson Carlos Abel
 Edmond Halley
 Edmond Privat
 Edmond Rostand
@@ -74146,6 +74219,7 @@ Endokrinologio
 Endolito
 Endoplasma retikulo
 Endopterigotoj
+Endormiĝa forpaso de Maria
 Endospermo
 Endosporo
 Endoufielle
@@ -75260,6 +75334,7 @@ Fandopoto
 Fandopunkto
 Fandpunkto
 Fanerozoiko
+Fanfani
 Fanjeaux
 Fanny Bay (Brita Kolumbio)
 Fanny Bonnet
@@ -75378,6 +75453,7 @@ Federacia Buroo de Enketado
 Federacia Distrikto
 Federacia Distrikto (Brazilo)
 Federacia Halo
+Federacia Komisiono pri Komunikado
 Federacia Konsilio
 Federacia Konsilio (Germanio)
 Federacia Konsilio (Svislando)
@@ -75623,6 +75699,7 @@ Fernando Henrique Cardoso
 Fernando Laroca
 Fernando Ortiz Fernández
 Fernando Poo
+Fernando Redondo Ituarte
 Fernando Rey
 Fernando Soler
 Fernando Sor
@@ -78514,6 +78591,7 @@ Granda depresio
 Granda duonakso
 Granda flavkrura tringo
 Granda fregato
+Granda fugo
 Granda galinago
 Granda grizono
 Granda hindia zibeto
@@ -79184,6 +79262,7 @@ György Mészáros
 György Nanovfszky
 György Puskás (kuracisto)
 György Pálfi
+György Rupcsics
 György Rákóczi la 2-a
 György Rózsa (ĵurnalisto)
 György Sebestyén
@@ -79804,6 +79883,7 @@ Hell-Bourg
 Helleborine
 Hellerbergland
 Helleriella
+Hellertshausen
 Helluland
 Helm Identification Guides
 Helmintiazo
@@ -80319,6 +80399,7 @@ Hippolyte Sebert
 Hipólito Yrigoyen
 Hiram Stevens Maxim
 Hirkaniaj-kaspiaj miksaj arbaroj
+Hiroaki Kumon
 Hirohito
 Hiroshi Morita
 Hiroshi Nakajima
@@ -82312,6 +82393,7 @@ Ion Antonescu
 Iona (dialekto)
 Iona lingvo
 Ionel Solomon
+Ioniaj Insuloj (administra regiono)
 Ionika ordo
 Ionio
 Ionopsis
@@ -82689,6 +82771,7 @@ Izobutila sorbato
 Izod Center
 Izokilo
 Izokrato
+Izolda Erdély
 Izolda Macskássy
 Izolismo
 Izolita lingvo
@@ -83619,6 +83702,7 @@ Johannes Brahms
 Johannes Cochläus
 Johannes Diderik van der Waals
 Johannes Eck
+Johannes Geiss
 Johannes Georgius Graevius
 Johannes Gerhardus Strijdom
 Johannes Gutenberg
@@ -83867,6 +83951,7 @@ Jonzier-Épagny
 Jonzieux
 Joost van den Vondel
 Jordan Jovkov
+Jordana normala formo
 Jordanio
 Jordanio en la Somera Olimpiko 2012
 Jordano
@@ -84582,6 +84667,7 @@ Kainganga lingvo
 Kairo
 Kaiser
 Kaiserslautern
+Kaito Hirata
 Kaiĝuan Za Bao
 Kaja Kallas
 Kajakado-kanuado
@@ -85850,6 +85936,7 @@ Kaverna histo
 Kaverno
 Kaverno Altamira
 Kaverno Hira
+Kavečany
 Kavito
 Kavŭali
 Kawai
@@ -96276,6 +96363,7 @@ NGC 2746
 NGC 2747
 NGC 2748
 NGC 2850
+NGC 2954
 NGC 3027
 NGC 3307
 NGC 3308
@@ -96308,6 +96396,7 @@ NGC 502
 NGC 5128
 NGC 5132
 NGC 5197
+NGC 532
 NGC 5370
 NGC 5478
 NGC 5532
@@ -96327,6 +96416,7 @@ NGC 5746
 NGC 5773
 NGC 587
 NGC 589
+NGC 614
 NGC 620
 NGC 6261
 NGC 636
@@ -97309,6 +97399,7 @@ Neu Bartelshagen
 Neubeuern
 Neublans-Abergement
 Neuchâtel-Urtière
+Neudietendorf
 Neue Zürcher Zeitung
 Neuendorf-Sachsenbande
 Neuenkirchen (Rügen)
@@ -98525,6 +98616,7 @@ Ofensivo de Brusilov
 Ofensivo de Meuse-Argonne
 Ofero
 Ofertado
+Ofertorio
 Offa (Mercia)
 Offemont
 Offenbach
@@ -99011,6 +99103,7 @@ Orchiserapias
 Orcier
 Ordan-Larroque
 Ordeno (eklezio)
+Ordeno de Alcántara
 Ordeno de Amikeco inter Popoloj
 Ordeno de Brita Imperio
 Ordeno de Germanaj Kavaliroj
@@ -101459,6 +101552,7 @@ Pičín
 Piĵamo
 Piława Górna
 Pińczów
+Pjongjanga Universitato de Muziko kaj Danco
 Pjongjango
 Pjonĉango
 Pjotr Aleksejeviĉ Kropotkin
@@ -103034,6 +103128,7 @@ Provinco Ruse
 Provinco Río Negro
 Provinco Salamanko
 Provinco Salta
+Provinco San José
 Provinco Sankta Kruco de Tenerifo
 Provinco Santa Fe
 Provinco Saŭhaĝ
@@ -104224,6 +104319,7 @@ Reinickendorf
 Reinier Paping
 Reismo
 Reithouse
+Reitzenhain (Marienberg)
 Rejkjaviko
 Rejna Ligo
 Rejna separatismo
@@ -105677,6 +105773,7 @@ Rusia Esperantista Kongreso
 Rusia Esperantista Unio
 Rusia Imperio
 Rusia Soveta Federacia Socialisma Respubliko
+Rusia Universitato de Amikeco inter Popoloj
 Rusia armeo
 Rusia enlanda milito
 Rusia imperio
@@ -108615,6 +108712,7 @@ Schlaraffia
 Schlemmin
 Schlierschied
 Schlimia
+Schmelz (Saar)
 Schmidt-teleskopo
 Schnorbach
 Schochwitz
@@ -109084,6 +109182,7 @@ Serge Haroche
 Serge Sire
 Sergei Movsesian
 Sergei Starostin
+Sergej Borisov
 Sergej Eisenstein
 Sergej Karjakin
 Sergej Kirov
@@ -109816,6 +109915,7 @@ Slovenio en la Somera Olimpiko 2012
 Slovenoj
 Sloveč
 Slovio
+Slovjansk (stacidomo)
 Slovjansko
 Slověnice
 Slow Fashion
@@ -110929,6 +111029,7 @@ Streĉo (mekaniko)
 Stria muskolo
 Striadorsa mustelo
 Striardeo
+Stributeo
 Stridorsa botaŭro
 Stridorsa kampilorinko
 Strietita galidikto
@@ -111679,6 +111780,7 @@ Sântămăria-Orlea
 São Caetano do Sul
 São Francisco
 São Francisco (rivero)
+São Geraldo da Piedade
 São Luís
 São Paulo
 Sæmingr
@@ -111975,6 +112077,7 @@ Taniche (komunumo)
 Taninges
 Tanino
 Tankao
+Tanki Online
 Tanko
 Tannières
 Tantalo
@@ -113385,6 +113488,7 @@ Toyotomi Hideyoshi
 Točník
 Tra l' okuloj de l' venkitoj
 Tra l'okuloj de l' venkitoj
+Tra la mondo (revuo)
 Tra mia prismo
 Tracheophyta
 Trachypodaceae
@@ -115951,6 +116055,7 @@ Villanueva de Alcorón
 Villanueva de Algaidas
 Villanueva de Argecilla
 Villanueva de Bogas
+Villanueva de Gormaz
 Villanueva de San Carlos
 Villanueva de San Juan
 Villanueva de Tapia
@@ -116802,6 +116907,7 @@ Waibstadt
 Waikiki
 Waireia
 Wakko's Wish
+Walchwil (stacidomo)
 Wald (Algovio)
 Waldeck (Turingio)
 Waldemar Bonsels
@@ -117910,6 +118016,7 @@ viruso
 Újezdec (distrikto Jindřichův Hradec)
 Újezdec (distrikto Mělník)
 Újezdec (distrikto Prachatice)
+Újpest
 Última Parada 174
 Úmonín
 Úmyslovice
@@ -118785,6 +118892,7 @@ viruso
 Škvorec
 Šlapanice (distrikto Kladno)
 Šlapanov
+Štefanec (Mala Subotica)
 Šternberk
 Štipoklasy
 Štoky

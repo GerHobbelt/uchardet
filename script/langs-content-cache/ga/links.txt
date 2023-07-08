@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Indira Gandhi
-Contae Hanson, Dakota Theas
-Roy Evans
-Sgalpaigh an t-Sratha
-Argain Dinn Rí
-José María Aznar
-Ard na Ria
-Gleann Freóin
-Princes Risborough
-Foirsítia
-EastEnders
-Francach dubh
-Tadhlaí
-Fliú na muc (idirdhealú)
-Jack Dempsey
-Ceann-Achadh
-John Cazale
-Galar Paget
-1422
-Sandie Jones
-Kaufman, Texas
-Sorcas
-Margaret Skinnider
-Metropolis (scannán 1927)
-Holbeach
-Ezbet el-Haggana
-Ceann Loch Iú
-436
-Toirdhealbhach Carrach Ó Conchubhair
-Cincíseachas
+Gaeilge Ros Muc
+Christian Jürgensen Thomsen
+Audacht Morainn
+Am Parbh
+Voltmhéadar
+Athmhíleatú ar Dhúiche na Réine
+Lisa the Veterinarian
+Contae Bjelovar-Bilogora
+Dianfheirmeoireacht
+718 RC
+Samuel Cunard
+Eascann choncair
+00612 (Cód ZIP)
+Fenton, Staffordshire
+1368
+1810
+Dara Comhairle Vatacánach
+Omar Gooding
+Westminster, Ellesmere Port
+An tSlí Mhór
+Wykebeck
+Cumhacht tochrais
+Weaver
+Contae Bryan, Georgia
+Jeff Fortenberry
+Cille Bhraonaidh
+Charles Bianconi (fiontraí)
+116
+Arjen Robben
+Batascaife
 "Love, Blactually
 "Peter's Two Dads
 "The Misfits"
@@ -287,6 +287,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 135 Tauri
 136 (uimhir)
 136 Tauri
+1360í
 137 (uimhir)
 137 Tauri
 138 (uimhir)
@@ -877,6 +878,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 207 (uimhir)
 208 (uimhir)
 209 (uimhir)
+209 RC
 20th Century Fox
 20th Century Fox Television
 20th Century Studios
@@ -3814,6 +3816,7 @@ An Bhinn Ghorm, Contae Mhaigh Eo (Coill Salach)
 An Bhinn Ghorm, Iorras
 An Bhinn Mhór
 An Bhlarna
+An Bhliain 1912
 An Bhliste
 An Bhoihéim
 An Bhoirinn, Contae an Dúin
@@ -5305,6 +5308,7 @@ An spás amuigh
 An sóisialachas
 An t-Achadh Breac
 An t-Allt Beithe
+An t-Aodann Bàn
 An t-Eilean Sgitheanach
 An t-Eilean Árd
 An t-Seasgann
@@ -6015,6 +6019,7 @@ Ard Sratha
 Ard Tí Garbháin
 Ard Uí Luinín
 Ard na Caithne
+Ard na Ria
 Ard Éireann
 Ard-Aighne Shasana agus na Breataine Bige
 Ard-Aighne na hÉireann
@@ -6064,6 +6069,7 @@ Ardeaglais Notre Dame
 Ardeaglais Saint-Sacerdos i Sarlat
 Ardeaglais San Anna
 Ardeaglais Santiago de Compostela
+Ardeaglais St Edmundsbury
 Ardeaglais Teampaill Chríost
 Ardeaglais Theampall Chríost
 Ardeaglais Theampall Chríost, Port Láirge
@@ -6101,6 +6107,7 @@ Arenele BNR
 Arequipa
 Arezzo
 Arfon (Toghcheantar na Ríochta Aontaithe)
+Argain Dinn Rí
 Argas
 Argas, an Pheilipinéis
 Argo, Alabama
@@ -6258,6 +6265,7 @@ As the World Turns
 Asa Butterfield
 Asa Gray
 Asahikawa
+Asamat
 Asaph Hall
 Asarbaiseáinis
 Asarlaíocht
@@ -9561,6 +9569,7 @@ Caisleán Loch na Reanna
 Caisleán Lowther
 Caisleán Léim Uí Bhánáin
 Caisleán Mhic Conchúir
+Caisleán Montsoreau
 Caisleán Odiham
 Caisleán Phort Omna
 Caisleán Píoraid
@@ -10415,6 +10424,7 @@ Ceann Loch Chille Chiarain
 Ceann Loch Chille Chiaráin
 Ceann Loch Gilb
 Ceann Loch Goill
+Ceann Loch Iú
 Ceann Sléibhe
 Ceann Trá
 Ceann a' Bhaile
@@ -10429,6 +10439,7 @@ Ceann mu Dheas
 Ceann na Drochaide
 Ceann na Fine
 Ceann tíre
+Ceann-Achadh
 Ceannaigh Louisiana
 Ceannairc
 Ceannairc an Churraigh
@@ -10810,6 +10821,7 @@ Chad Valley, Birmingham
 Chad of Mercia
 Chaddesden
 Chadwell Heath
+Chaim Topol
 Chains of Gold
 Chaisleán Bhaile Átha Cliath
 Chaisleán an Bharraigh
@@ -12266,6 +12278,7 @@ Coimisiún um Athchóiriú an Dlí
 Coimpeart Chonchúir
 Coimpeart Chú Chulainn
 Coimpléasc Golgi
+Coimpléasc ísleachta
 Coimre na nGinealach
 Coiméad
 Coinbhinsiún Eorpach um Chearta an Duine
@@ -14523,6 +14536,7 @@ Contae Meriwether, Georgia
 Contae Merrick, Nebraska
 Contae Mesa, Colorado
 Contae Metcalfe, Kentucky
+Contae Međimurje
 Contae Mhaigh Eo
 Contae Mhuineacháin
 Contae Miami, Kansas
@@ -15745,6 +15759,7 @@ Coteau des Prairies
 Coteau du Missouri
 Cothromaíocht
 Cothrugu
+Cothú
 Cotswolds
 Cottbus
 Cotteridge
@@ -16941,6 +16956,7 @@ Daniel Brands
 Daniel Byrne
 Daniel Casey
 Daniel Charles O'Connell
+Daniel Chee Tsui
 Daniel Corkery
 Daniel Craig
 Daniel D. Tompkins
@@ -18845,6 +18861,7 @@ Earrdheargán Meiriceánach
 Earrdheargán dubh
 Earth
 Eas Ploda
+Eas an Fhamhair
 Easach Toirc
 Easaigh
 Easbhóthair
@@ -19762,6 +19779,7 @@ Eyes of Innocence (Miami Sound Machine album)
 Eyres Monsell
 Eystrahorn
 Eyvind Johnson
+Ezbet el-Haggana
 Ezhou
 Eógan Már
 Eógan mac Néill
@@ -20396,6 +20414,7 @@ Fliodhas
 Fliú A(H1N1)
 Fliú Spáinneach
 Fliú na muc (galar)
+Fliú na muc (idirdhealú)
 Fliú éanúil
 Fliúit
 Flo Rida
@@ -20472,6 +20491,7 @@ Foirgníocht
 Foirmiúlachas Rúiseach
 Foirmle ceimiceach
 Foirmle cheimiceach
+Foirsítia
 Foitheach
 Foitheach cluasach
 Foitheach gob-alabhreac
@@ -21430,6 +21450,7 @@ Galar
 Galar Alzheimer
 Galar Creutzfeld-Jakob
 Galar Hodgkin
+Galar Paget
 Galar Parkinson
 Galar ae
 Galar croí
@@ -22082,6 +22103,7 @@ Gino Kenny
 Giobráltar
 Giogha
 Giolc
+Giolcach
 Giolcóg
 Giolla
 Giolla Ceallaigh mac Comhaltáin
@@ -23563,6 +23585,7 @@ High Noon (scannán 1952)
 High Plains (United States)
 High Point, Carolina Thuaidh
 High School English
+High School Musical 3: Senior Year
 Highbury
 Highfields, Leicester
 Highgate, Birmingham
@@ -23660,6 +23683,7 @@ Hoiméastáis
 Hokkaido
 Hokkaidō
 Hokusai
+Holbeach
 Holborn
 Holbrook
 Holbrook, Arizona
@@ -24381,6 +24405,7 @@ Imleach, Contae an Chláir
 Imleach, Contae na Gaillimhe (Baile na hInse)
 Imleach, Contae na Gaillimhe (Dún Coillín)
 Imleach, Contae na Gaillimhe (Liatroim)
+Imlíne
 Immacallam in dá Thuarad
 Immanuel Kant
 Immaturity for Charity
@@ -24488,6 +24513,7 @@ Indianapolis, Indiana
 Indianola, Mississippi
 Indinéisis
 Indio, California
+Indira Gandhi
 Indogermanisches etymologisches Wörterbuch
 Indoor Football League
 Indreabhán
@@ -25005,6 +25031,7 @@ Jack Carroll
 Jack Chambers
 Jack Champion
 Jack Crawford
+Jack Dempsey
 Jack Dillon
 Jack Duckworth
 Jack Finlay
@@ -26068,6 +26095,7 @@ José Hierro
 José Luis Rodríguez Zapatero
 José López Martínez
 José Manuel Barroso
+José María Aznar
 José Millán Astray
 José Molina
 José Rizal
@@ -26849,6 +26877,7 @@ Lagopus
 Laguna Niguel, California
 Laguna de Duero
 Lahore
+Laibhe
 Laidhrín glas
 Laidin
 Laighean
@@ -27192,6 +27221,7 @@ Leacht Wellington
 Leacú
 Lead, Dakota Theas
 Leadville, Colorado
+Leadán úcaire
 Leadóg
 Leadóg ag na Cluichí Oileán 2017
 Leadóg boird
@@ -27544,6 +27574,7 @@ Liam Tobin
 Liam Tomás Mac Cosgair
 Liam Tuohy
 Liam Twomey
+Liam de Bluinsín
 Liam de Róiste
 Liam Ó Briain
 Liam Ó Buachalla
@@ -27688,6 +27719,7 @@ Linus Kahl
 Linux
 Liobrálachas
 Liocras
+Liogann
 Liomfóma
 Lion Feuchtwanger
 Lion of Ireland
@@ -29937,6 +29969,7 @@ Margaret Osborne duPont
 Margaret Pearse
 Margaret Ritchie
 Margaret Sanger
+Margaret Skinnider
 Margaret Smith
 Margaret Sullavan
 Margaret Thatcher
@@ -30668,6 +30701,7 @@ Metro Radio Arena
 MetroWest
 Metrojet Flight 9268
 Metroplex Dallas–Fort Worth
+Metropolis (scannán 1927)
 Mexborough
 Mexia, Texas
 Meyrin
@@ -31069,6 +31103,7 @@ Mike Weaver
 Mikhail Kukushkin
 Mikhail Youzhny
 Miki Matsubara
+Mikrogeophagus ramirezi
 Milam, Texas
 Milan
 Milan Badelj
@@ -34769,6 +34804,7 @@ Phaseolus coccineus
 Phaseolus lunatus
 Phaseolus vulgaris
 Phasianidae
+Phasmida
 Pheil Ghaelach
 Phelan, Arkansas
 Phelim Calleary
@@ -34875,6 +34911,7 @@ Pickens, Carolina Theas
 Pickering, Yorkshire Thuaidh
 Pico Rivera, California
 Pictiúrlann
+Picture This (albam)
 Piece by Piece Tour
 Piedmont
 Piedmont (United States)
@@ -35397,6 +35434,7 @@ Port Stephens
 Port Talbot
 Port Thuaidh
 Port Tulcháin
+Port Uairce
 Port Vila
 Port a' Bhogaigh
 Port a' Chluaidh
@@ -35531,6 +35569,7 @@ Primo Levi
 Primrose Hill
 Primula veris
 Primula vulgaris
+Princes Risborough
 Princess Protection Program
 Princeton University Press
 Princeton, New Jersey
@@ -35548,6 +35587,7 @@ Prionsacht na Seirbia
 Priontaíocht
 Prison Break
 Pristine
+Priti Patel
 Privatdozent
 Prix Goncourt
 Prióireacht
@@ -35818,6 +35858,7 @@ Páirc Hoirbeaird
 Páirc Leah Victoria
 Páirc Lúthchleasaíochta
 Páirc Mharlaí
+Páirc Mhic Suail
 Páirc Mhucrois
 Páirc Naomh Iarlaith
 Páirc Naomh Áine
@@ -36476,6 +36517,7 @@ Rainse
 Rainwater Basin
 Raising Gazorpazorp
 Raithean
+Raithneach uisce
 Raja Gemini
 Rajasthan
 Rajeev Ram
@@ -38290,6 +38332,7 @@ Sandhill crane
 Sandhills (Carolina)
 Sandhills (Nebraska)
 Sandiacre
+Sandie Jones
 Sandra Bernhard
 Sandra McLellan
 Sandra Moll Andreu
@@ -39179,6 +39222,7 @@ Sféar
 Sféar neamhaí
 Sféaróideach
 Sgainn
+Sgalpaigh an t-Sratha
 Sgalpaigh na Hearadh
 Sgarabhaigh
 Sgeotasaigh
@@ -40673,6 +40717,7 @@ Stephen Jordan
 Stephen King
 Stephen Kinnock
 Stephen Lang
+Stephen Mangan
 Stephen Mulhern
 Stephen O'Leary
 Stephen Oppenheimer
@@ -41607,6 +41652,7 @@ Tadhg Ó Scanaill (múinteoir)
 Tadhg Ó hEáráin
 Tadhg Óg Ó Cellaigh
 Tadhg Óg Ó Cianáin
+Tadhlaí
 Tadley
 Taekwondo
 Taghaigh
@@ -41645,6 +41691,7 @@ Tairired na nDéisi
 Tairired na nDéssi
 Tairiseach Planck
 Tairiseach laitíseach
+Tairiseach von Klitzing
 Tairngreacht
 Tairngreacht Bhearcháin
 Taiscumar Pholl a' Phúca
@@ -43353,6 +43400,7 @@ Toirdelbach Ua Briain
 Toirdelbach Ua Conchobair
 Toirdhealbach Ua Conchobair
 Toirdhealbach Ua Conchobhair
+Toirdhealbhach Carrach Ó Conchubhair
 Toirdhealbhach Ua Briain
 Toirdhealbhach Ua Conchobhair
 Toirdhealbhach Ó Cearbhalláin
@@ -43622,6 +43670,7 @@ Toulouse
 Tournai
 Touroultia obscurella
 Tours
+Tower
 Tower Hill, Midlands Thiar
 Towson, Maryland
 Toxey, Alabama
@@ -43968,6 +44017,7 @@ Tuile
 Tuilsce
 Tuilte Eorpacha (Iúil 2021)
 Tuinéim
+Tuirbín gaoithe aise ingearaí
 Tuircis
 Tuircméanis
 Tuireann
@@ -45549,6 +45599,7 @@ Will Poulter
 Will Russell
 Will Smith
 Will.i.am
+Will.i.am Music Group
 Willamette Valley
 Willem Barents
 Willesden Green
@@ -46627,6 +46678,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 (What's the Story) Morning Glory?
 (cúige)
 0 (uimhir)
+00612 (Cód ZIP)
 00637 (Cód ZIP)
 00659 (Cód ZIP)
 00674 (Cód ZIP)
@@ -46802,6 +46854,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 135 Tauri
 136 (uimhir)
 136 Tauri
+1360í
 137 (uimhir)
 137 Tauri
 138 (uimhir)
@@ -47392,6 +47445,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 207 (uimhir)
 208 (uimhir)
 209 (uimhir)
+209 RC
 20th Century Fox
 20th Century Fox Television
 20th Century Studios
@@ -48275,6 +48329,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 716 (uimhir)
 717 (uimhir)
 718 (uimhir)
+718 RC
 719 (uimhir)
 72 (uimhir)
 72 Tauri
@@ -49914,6 +49969,7 @@ Am Machaire
 Am Monadh
 Am Moscó
 Am Muileann Ùr
+Am Parbh
 Am caighdeánach
 Am samhraidh
 Amadán móinteach
@@ -50329,6 +50385,7 @@ An Bhinn Ghorm, Contae Mhaigh Eo (Coill Salach)
 An Bhinn Ghorm, Iorras
 An Bhinn Mhór
 An Bhlarna
+An Bhliain 1912
 An Bhliste
 An Bhoihéim
 An Bhoirinn, Contae an Dúin
@@ -51820,6 +51877,7 @@ An spás amuigh
 An sóisialachas
 An t-Achadh Breac
 An t-Allt Beithe
+An t-Aodann Bàn
 An t-Eilean Sgitheanach
 An t-Eilean Árd
 An t-Seasgann
@@ -51940,6 +51998,7 @@ An tSiric
 An tSiuáingis
 An tSiúir
 An tSlavéis
+An tSlí Mhór
 An tSlóivéin
 An tSlóivéin i gComórtas Amhránaíochta na hEoraifíse
 An tSlóivéinis
@@ -52580,6 +52639,7 @@ Ardeaglais Notre Dame
 Ardeaglais Saint-Sacerdos i Sarlat
 Ardeaglais San Anna
 Ardeaglais Santiago de Compostela
+Ardeaglais St Edmundsbury
 Ardeaglais Teampaill Chríost
 Ardeaglais Theampall Chríost
 Ardeaglais Theampall Chríost, Port Láirge
@@ -52642,6 +52702,7 @@ Arizona Theas
 Arizona Thoir Thuaidh
 Arizona Thuaidh
 Arizona traidisiúnta
+Arjen Robben
 Ark-La-Tex
 Arkadelphia, Arkansas
 Arkansas
@@ -52775,6 +52836,7 @@ As the World Turns
 Asa Butterfield
 Asa Gray
 Asahikawa
+Asamat
 Asaph Hall
 Asarbaiseáinis
 Asarlaíocht
@@ -56078,6 +56140,7 @@ Caisleán Loch na Reanna
 Caisleán Lowther
 Caisleán Léim Uí Bhánáin
 Caisleán Mhic Conchúir
+Caisleán Montsoreau
 Caisleán Odiham
 Caisleán Phort Omna
 Caisleán Píoraid
@@ -57329,6 +57392,7 @@ Chad Valley, Birmingham
 Chad of Mercia
 Chaddesden
 Chadwell Heath
+Chaim Topol
 Chains of Gold
 Chaisleán Bhaile Átha Cliath
 Chaisleán an Bharraigh
@@ -57376,6 +57440,7 @@ Charles (Manson) in Charge (American Horror Story)
 Charles B. Middleton
 Charles Babbage
 Charles Baudelaire
+Charles Bianconi (fiontraí)
 Charles C. Wilson
 Charles Coote, 1ú Iarla Mhaighean Rátha
 Charles Curtis
@@ -58785,6 +58850,7 @@ Coimisiún um Athchóiriú an Dlí
 Coimpeart Chonchúir
 Coimpeart Chú Chulainn
 Coimpléasc Golgi
+Coimpléasc ísleachta
 Coimre na nGinealach
 Coiméad
 Coinbhinsiún Eorpach um Chearta an Duine
@@ -59694,6 +59760,7 @@ Contae Bibb, Alabama
 Contae Bibb, Georgia
 Contae Big Horn, Montana
 Contae Billings, Dakota Thuaidh
+Contae Bjelovar-Bilogora
 Contae Bladen, Carolina Thuaidh
 Contae Blaine, Montana
 Contae Blaine, Nebraska
@@ -61042,6 +61109,7 @@ Contae Meriwether, Georgia
 Contae Merrick, Nebraska
 Contae Mesa, Colorado
 Contae Metcalfe, Kentucky
+Contae Međimurje
 Contae Mhaigh Eo
 Contae Mhuineacháin
 Contae Miami, Kansas
@@ -62264,6 +62332,7 @@ Coteau des Prairies
 Coteau du Missouri
 Cothromaíocht
 Cothrugu
+Cothú
 Cotswolds
 Cottbus
 Cotteridge
@@ -62979,6 +63048,7 @@ Cumene
 Cumhacht
 Cumhacht (fisiciúil)
 Cumhacht hidrileictreach
+Cumhacht tochrais
 Cumhachtaí Láir
 Cumhachtstáisiún an Phoill Bhig
 Cumhdach
@@ -63460,6 +63530,7 @@ Daniel Brands
 Daniel Byrne
 Daniel Casey
 Daniel Charles O'Connell
+Daniel Chee Tsui
 Daniel Corkery
 Daniel Craig
 Daniel D. Tompkins
@@ -64074,6 +64145,7 @@ Diane Abbott
 Diane Butcher
 Diane Keaton
 Diane von Furstenberg
+Dianfheirmeoireacht
 Dianghlasáil
 Dianne Feinstein
 Diaphir
@@ -65364,9 +65436,11 @@ Earrdheargán Meiriceánach
 Earrdheargán dubh
 Earth
 Eas Ploda
+Eas an Fhamhair
 Easach Toirc
 Easaigh
 Easbhóthair
+Eascann choncair
 Easg Dheas
 Easg Thuath
 Easingwold
@@ -66600,6 +66674,7 @@ Felix Ó Dúnlainge
 Felixstowe
 Femen
 Fenham
+Fenton, Staffordshire
 Feochadán
 Feodachas
 Feoil
@@ -67688,6 +67763,7 @@ Gaeilge Bhaile Átha Cliath
 Gaeilge Chianach
 Gaeilge Chonnacht
 Gaeilge Mhanann
+Gaeilge Ros Muc
 Gaeilge Uladh
 Gaeilge na Mumhan
 Gaeilge na hAlban
@@ -68605,6 +68681,7 @@ Gino Kenny
 Giobráltar
 Giogha
 Giolc
+Giolcach
 Giolcóg
 Giolla
 Giolla Ceallaigh mac Comhaltáin
@@ -70086,6 +70163,7 @@ High Noon (scannán 1952)
 High Plains (United States)
 High Point, Carolina Thuaidh
 High School English
+High School Musical 3: Senior Year
 Highbury
 Highfields, Leicester
 Highgate, Birmingham
@@ -70905,6 +70983,7 @@ Imleach, Contae an Chláir
 Imleach, Contae na Gaillimhe (Baile na hInse)
 Imleach, Contae na Gaillimhe (Dún Coillín)
 Imleach, Contae na Gaillimhe (Liatroim)
+Imlíne
 Immacallam in dá Thuarad
 Immanuel Kant
 Immaturity for Charity
@@ -71887,6 +71966,7 @@ Jeddito, Arizona
 Jedward
 Jeff Blackburn
 Jeff Daniels
+Jeff Fortenberry
 Jeff Horn
 Jeff Lynne
 Jeff Merkley
@@ -73376,6 +73456,7 @@ Lagopus
 Laguna Niguel, California
 Laguna de Duero
 Lahore
+Laibhe
 Laidhrín glas
 Laidin
 Laighean
@@ -73719,6 +73800,7 @@ Leacht Wellington
 Leacú
 Lead, Dakota Theas
 Leadville, Colorado
+Leadán úcaire
 Leadóg
 Leadóg ag na Cluichí Oileán 2017
 Leadóg boird
@@ -74071,6 +74153,7 @@ Liam Tobin
 Liam Tomás Mac Cosgair
 Liam Tuohy
 Liam Twomey
+Liam de Bluinsín
 Liam de Róiste
 Liam Ó Briain
 Liam Ó Buachalla
@@ -74215,6 +74298,7 @@ Linus Kahl
 Linux
 Liobrálachas
 Liocras
+Liogann
 Liomfóma
 Lion Feuchtwanger
 Lion of Ireland
@@ -77598,6 +77682,7 @@ Mike Weaver
 Mikhail Kukushkin
 Mikhail Youzhny
 Miki Matsubara
+Mikrogeophagus ramirezi
 Milam, Texas
 Milan
 Milan Badelj
@@ -80122,6 +80207,7 @@ Olympiahalle
 Olympique de Marseille
 Omaha, Nebraska
 Omaha–Council Bluffs metropolitan area
+Omar Gooding
 Omar Jasika
 Omar Karami
 Omar Metwally
@@ -81298,6 +81384,7 @@ Phaseolus coccineus
 Phaseolus lunatus
 Phaseolus vulgaris
 Phasianidae
+Phasmida
 Pheil Ghaelach
 Phelan, Arkansas
 Phelim Calleary
@@ -81404,6 +81491,7 @@ Pickens, Carolina Theas
 Pickering, Yorkshire Thuaidh
 Pico Rivera, California
 Pictiúrlann
+Picture This (albam)
 Piece by Piece Tour
 Piedmont
 Piedmont (United States)
@@ -81926,6 +82014,7 @@ Port Stephens
 Port Talbot
 Port Thuaidh
 Port Tulcháin
+Port Uairce
 Port Vila
 Port a' Bhogaigh
 Port a' Chluaidh
@@ -82078,6 +82167,7 @@ Prionsacht na Seirbia
 Priontaíocht
 Prison Break
 Pristine
+Priti Patel
 Privatdozent
 Prix Goncourt
 Prióireacht
@@ -82348,6 +82438,7 @@ Páirc Hoirbeaird
 Páirc Leah Victoria
 Páirc Lúthchleasaíochta
 Páirc Mharlaí
+Páirc Mhic Suail
 Páirc Mhucrois
 Páirc Naomh Iarlaith
 Páirc Naomh Áine
@@ -83006,6 +83097,7 @@ Rainse
 Rainwater Basin
 Raising Gazorpazorp
 Raithean
+Raithneach uisce
 Raja Gemini
 Rajasthan
 Rajeev Ram
@@ -84749,6 +84841,7 @@ Samsung
 Samsung Tocco
 Samuel Beckett
 Samuel Butler
+Samuel Cunard
 Samuel Hahnemann
 Samuel Holt
 Samuel Johnson
@@ -87205,6 +87298,7 @@ Stephen Jordan
 Stephen King
 Stephen Kinnock
 Stephen Lang
+Stephen Mangan
 Stephen Mulhern
 Stephen O'Leary
 Stephen Oppenheimer
@@ -88178,6 +88272,7 @@ Tairired na nDéisi
 Tairired na nDéssi
 Tairiseach Planck
 Tairiseach laitíseach
+Tairiseach von Klitzing
 Tairngreacht
 Tairngreacht Bhearcháin
 Taiscumar Pholl a' Phúca
@@ -90156,6 +90251,7 @@ Toulouse
 Tournai
 Touroultia obscurella
 Tours
+Tower
 Tower Hill, Midlands Thiar
 Towson, Maryland
 Toxey, Alabama
@@ -90502,6 +90598,7 @@ Tuile
 Tuilsce
 Tuilte Eorpacha (Iúil 2021)
 Tuinéim
+Tuirbín gaoithe aise ingearaí
 Tuircis
 Tuircméanis
 Tuireann
@@ -91547,6 +91644,7 @@ Volta
 Voltaire
 Voltas
 Voltes V
+Voltmhéadar
 Volunteer State Community College
 Volunteers (play)
 Voluntown, Connecticut
@@ -91833,6 +91931,7 @@ Wealden (Toghcheantar na Ríochta Aontaithe)
 Wealdstone
 Weather
 Weatherford, Texas
+Weaver
 Weaver, Alabama
 Webb, Alabama
 Webster, Dakota Theas
@@ -91944,6 +92043,7 @@ Westminster
 Westminster, California
 Westminster, Carolina Theas
 Westminster, Colorado
+Westminster, Ellesmere Port
 Westminster, Maryland
 Weston Park
 Weston, Connecticut
@@ -92083,6 +92183,7 @@ Will Poulter
 Will Russell
 Will Smith
 Will.i.am
+Will.i.am Music Group
 Willamette Valley
 Willem Barents
 Willesden Green
@@ -92385,6 +92486,7 @@ Wuwei, Gansu
 Wyandotte
 Wyclef Jean
 Wycombe (Toghcheantar na Ríochta Aontaithe)
+Wykebeck
 Wylde Green
 Wymondham
 Wyoming

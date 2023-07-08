@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Aghalaya, Krishnarajpet
-Myrcia poeppigiana
-Teucholabis witteana
-Lari Gruzia
-Leucas abyssinica
-783
-Cybocephalus chlorocephalus
-Grasleben
-Ruột thừa
-Uğurcan Çakır
-Bossera cristatocarpa
-Gaziler, Manavgat
-Ardisia capuronii
-Toxopsiella dugdalei
-Monroeville, Ohio
-Fageiella ensigera
-Bulbophyllum nummularioides
-Alsan Sanda
-Lomariopsis marginata
-T-38
-Diabrotica vagrans
-Horabylu, Sorab
-Lepturges zikani
-Katihar
-Acropora pinguis
-Cymodusopsis asperata
-Hypnum macilentum
-Phyllota phylicoides
-Swartzia laurifolia
-Mimosa leprosa
+Diastatea tenera
+Lệch khúc xạ
+Scoloderus tuberculifer
+Ngưu tất
+Corticarina coei
+Daniel Lalhlimpuia
+Eugnamptus cornutus
+Kallstroemia pubescens
+Tantilla brevicauda
+Acalolepta loriai
+Cilento
+Astragalus densus
+Pseudolampona taroom
+Bruchidius leprieuri
+Clarkia virgata
+Calymperes vriesei
+Giao hưởng dang dở
+Ilybius ater
+Turnera fernandezii
+Truyền hình chiếu mạng
+Cercocarpus betuloides
+Nguyễn Văn Lân
+Chaetomitrium spinosum
+İhsanlı, Araç
+Pasaccardoa procumbens
+Peucedanum elegans
+Eurispa albipennis
+Beçin, Milas
+Diglyphosa celebica
+Prochoreutis bella
 "Thay đổi" kháng nguyên
 "Trôi" kháng nguyên
 "tế bào nhớ
@@ -1366,6 +1366,7 @@ Acquisition of 21st Century Fox by Disney
 Acritarch
 Acrivastine
 Acronictinae
+Acropora pinguis
 Acroporium secundum
 Acrosemia vulpecularia
 Acrotomia syctaria
@@ -1573,6 +1574,7 @@ Aggadalu
 Aggimukha
 Aggregation problem
 Aggunda
+Aghalaya, Krishnarajpet
 Agile, Hassan
 Agincourt
 Aglaonice
@@ -2198,6 +2200,7 @@ Alpinieae
 Alquézar
 Alresford Town F.C.
 Alsace
+Alsan Sanda
 Alsdorf, Bitburg-Prüm
 Alsinoideae
 Alt-right
@@ -3287,6 +3290,7 @@ Ardengost
 Ardennes
 Ardenno
 Ardisa
+Ardisia capuronii
 Ardley United F.C.
 Area 88
 Arebinnamangala, Bangalore North
@@ -6490,6 +6494,7 @@ Bosra
 Bosrobert
 Boss (video gaming)
 Bossancourt
+Bossera cristatocarpa
 Bossugan
 Bostens
 Boston
@@ -7051,6 +7056,7 @@ Bulan, Hautes-Pyrénées
 Bulat-Pestivien
 Bulbine flexuosa
 Bulbophyllum angustifolium
+Bulbophyllum nummularioides
 Bulbophyllum rothschildianum
 Bulbuente
 Bulgari (nhãn hiệu)
@@ -13527,6 +13533,7 @@ Cyathea tomentosissima
 Cyatheaceae
 Cyatheales
 Cyberpunk
+Cybocephalus chlorocephalus
 Cyborg (truyện tranh)
 Cycliophora
 Cyclone
@@ -13545,6 +13552,7 @@ Cygnus X-1
 Cygnus X-3
 Cygwin
 Cylistella cuprea
+Cymodusopsis asperata
 Cymopterus
 Cymopterus macdougalii
 Cymru Premier
@@ -16315,6 +16323,7 @@ Di tích Thánh Phaolô
 Di tích siêu tân tinh G1.9+0.3
 Di tích đập nước bằng gỗ thời Triệu
 Di-lặc
+Diabrotica vagrans
 Diadumenianus
 Diaea
 Diaea decempunctata
@@ -18510,6 +18519,7 @@ Fact (UK magazine)
 Faddeev–Popov ghost
 Faedo Valtellino
 Faenza
+Fageiella ensigera
 Fago, Huesca
 Fahad Ali
 Fahed Attal
@@ -19809,6 +19819,7 @@ Gazave
 Gazi, Antakya
 Gazi, Gazipaşa
 Gaziantepspor
+Gaziler, Manavgat
 Gazipaşa
 Gazipaşa, Antakya
 Gazost
@@ -22836,6 +22847,7 @@ Granville Roland Fortescue
 Graphen
 Graphinica
 Grappler Baki
+Grasleben
 GrassBase
 Gratianus
 Grattery
@@ -25018,6 +25030,7 @@ Hoplosaenidea touzalini
 Hoplosaenidea viridis
 Hopman Cup
 Hoppegarten
+Horabylu, Sorab
 Horace
 Horakere
 Horalagallu, Kanakapura
@@ -25619,6 +25632,7 @@ Hypnos
 Hypnum
 Hypnum falcifolium
 Hypnum fissidens
+Hypnum macilentum
 Hypolepis
 Hypolepis elata
 Hypolepis elegans
@@ -29289,6 +29303,7 @@ Katie Salen
 Katie Spencer
 Katigenahalli
 Katihalli
+Katihar
 Katikere
 Kato (The Green Hornet)
 Kato Tatsuya
@@ -32050,6 +32065,7 @@ Laran, Hautes-Pyrénées
 Laranjeiras
 Larbey
 Lares
+Lari Gruzia
 Lariano
 Larians-et-Munans
 Lariscus
@@ -32506,6 +32522,7 @@ Leptophis diplotropis
 Leptorhynchos waitzia
 Leptospermum semibaccatum
 Leptotarsus tinctorius
+Lepturges zikani
 Lerche (studio)
 Lerm-et-Musset
 Lerner Publishing Group
@@ -32605,6 +32622,7 @@ Leucania
 Leucania clara
 Leucania sepulchralis
 Leucaniini
+Leucas abyssinica
 Leucauge
 Leucauge tuberculata
 Leucostoma obscuripennis
@@ -33373,6 +33391,7 @@ Lokammanahalli
 Lolicon
 Loligo vulgaris
 Lollapalooza
+Lomariopsis marginata
 Lombardia
 Lombrès
 Lomné, Hautes-Pyrénées
@@ -37106,6 +37125,7 @@ Mimeure
 Mimivirus
 Mimizan
 Mimoclystia deplanata
+Mimosa leprosa
 Minami Takayama
 Minamoto no Sanetomo
 Minamoto no Yoriie
@@ -37442,6 +37462,7 @@ Monosaccharide
 Monoscope
 Monprimblanc
 Monreal de Ariza
+Monroeville, Ohio
 Monroeville, Pennsylvania
 Mons, Gard
 Mons, Var
@@ -38065,6 +38086,7 @@ Myo Min Tun
 Myometrium
 Myosotis lamottiana
 Myrceugenia rufescens
+Myrcia poeppigiana
 Myristica
 Myristica buchneriana
 Myristicaceae
@@ -43681,6 +43703,7 @@ Phyllomedusa bicolor
 Phyllonorycter hagenii
 Phyllostachys
 Phyllostachys robustiramea
+Phyllota phylicoides
 Phymorhynchus major
 Physcomitrella patens
 Physical Review
@@ -51816,6 +51839,7 @@ Swamp Thing (phim)
 Swandenahalli
 Swanee River (film)
 Swansea City A.F.C.
+Swartzia laurifolia
 Swashbuckler film
 Swedish Defence Research Agency
 Sweet Charity (phim)
@@ -53023,6 +53047,7 @@ Tetris
 Tetrode tia
 Tetsujin 28-go
 Teucer
+Teucholabis witteana
 Teucrioideae
 Teucrium
 Teucrium barbeyanum
@@ -56285,6 +56310,7 @@ Tovinakere
 Tovo di Sant'Agata
 Tower Semiconductor
 Toxicodendron radicans
+Toxopsiella dugdalei
 Toxorhamphus poliopterus
 Toy Story (loạt phim)
 Toy Story (soundtrack)
@@ -59999,6 +60025,7 @@ Uzziah
 Uông Bí
 Uông Dương
 Uğur İnceman
+Uğurcan Çakır
 Uỷ ban Giám sát Nhà nước Trung Quốc
 Uỷ ban nghị viện
 V for Vendetta (phim)
@@ -67996,6 +68023,7 @@ Academy Award for Best Supporting Actress
 Acadia
 Acalolepta
 Acalolepta infasciata
+Acalolepta loriai
 Acalypha chlorocardia
 Acalypha claussenii
 Acamas
@@ -70477,6 +70505,7 @@ Asteroseismology
 Asti (tỉnh)
 Astracantha vladimirii
 Astragalus
+Astragalus densus
 Astragalus flavus
 Astragalus macrodon
 Astragalus urgunensis
@@ -72361,6 +72390,7 @@ Bezenchuksky (huyện)
 Bezirci, Bandırma
 Bezirksliga Bayern
 Bezouce
+Beçin, Milas
 Beşdam, Sungurlu
 Beşkız, Sungurlu
 Bhahujanahalli
@@ -73756,6 +73786,7 @@ Bruce Wayne: The Road Home
 Bruce Western
 Bruce Willis
 Bruceploitation
+Bruchidius leprieuri
 Bruchweiler-Bärenbach
 Brue-Auriac
 Bruges, Gironde
@@ -75570,6 +75601,7 @@ Calvin Klein
 Calvisson
 Calvos de Randín
 Calylophus hartwegii
+Calymperes vriesei
 Calypogeiaceae
 Cam Gigandet
 Cam Ranh
@@ -76234,6 +76266,7 @@ Cerambycoidea
 Ceramide
 Ceratina nigriventris
 Cercino
+Cercocarpus betuloides
 Cercocebus
 Cercocebus agilis
 Cercocebus atys
@@ -76338,6 +76371,7 @@ Chae Tu-Yong
 Chaetogaedia
 Chaetogaedia vilis
 Chaetognatha
+Chaetomitrium spinosum
 Chaetona
 Chaetona congrua
 Chaetophractus vellerosus
@@ -79226,6 +79260,7 @@ Claretian
 Clark C. Abt
 Clark Kent
 Clark Spencer
+Clarkia virgata
 Clary, Nord
 Clarés de Ribota
 Classic rock
@@ -79814,6 +79849,7 @@ Cortanze
 Cortazzone
 Cortegada
 Cortevaix
+Corticarina coei
 Corticosteroid
 Cortiglione
 Cortisol
@@ -82642,6 +82678,7 @@ Daniel Hunt
 Daniel Héméry
 Daniel J. Bloomberg
 Daniel Kritenbrink
+Daniel Lalhlimpuia
 Daniel Logan
 Daniel Melnick
 Daniel Passarella
@@ -83166,6 +83203,7 @@ Diane McGuinness
 Dianne van Rensburg
 Diarmaid
 Diastase
+Diastatea tenera
 Dibaryon
 Dibbadahalli
 Dibbur
@@ -83240,6 +83278,7 @@ Digital puppetry
 Diglossa mystacalis
 Diglyceride
 Diglycerides
+Diglyphosa celebica
 Digoin
 Digvijay Purohit
 Dihydrotachysterol
@@ -85077,6 +85116,7 @@ Eugene O'Neill
 Eugenie Bouchard
 Eugenio Álvarez Dumont
 Euglenozoa
+Eugnamptus cornutus
 Eugène Lourié
 Eugène Simon
 Eugène-Henri Gravelotte
@@ -85112,6 +85152,7 @@ Eupsilia
 Eupsilia sidus
 Eupulmonata
 Eure (tỉnh)
+Eurispa albipennis
 Euro 1980
 Euro Disney S.C.A.
 EuroBasket
@@ -87042,6 +87083,7 @@ Giao diện người-máy tính
 Giao diện não-máy tính
 Giao dịch
 Giao hàng không người lái
+Giao hưởng dang dở
 Giao hợp
 Giao phối chọn lọc
 Giao phối cận huyết
@@ -93970,6 +94012,7 @@ Illyricum
 Ilya Ilyich Mechnikov
 Ilya Prigogine
 Ilya Zinin
+Ilybius ater
 Ilyushin
 Ilyushin Il-103
 Ilyushin Il-114
@@ -95771,6 +95814,7 @@ Kallimuddanahalli
 Kallipalya
 Kallithea
 Kallstroemia californica
+Kallstroemia pubescens
 Kallu Sadarahalli
 Kallubyadrahalli
 Kalludevanahalli, Magadi
@@ -101148,6 +101192,7 @@ Lễ Đức Mẹ Dâng Mình
 Lễ Đức Mẹ Lên Trời
 Lễ Đức Mẹ Vô Nhiễm Nguyên Tội
 Lễ Đức Mẹ dâng Chúa Giêsu trong đền thánh
+Lệch khúc xạ
 Lệch lạc tình dục
 Lệnh giới nghiêm
 Lệnh ngừng bắn trên toàn Đông Dương
@@ -106780,6 +106825,7 @@ Nguyễn Văn Hiên
 Nguyễn Văn Hiếu (trung tướng)
 Nguyễn Văn Huyền
 Nguyễn Văn Linh
+Nguyễn Văn Lân
 Nguyễn Văn Lộc (bộ trưởng)
 Nguyễn Văn Nhung
 Nguyễn Văn Thinh
@@ -107034,6 +107080,7 @@ Ngư lôi Mark 15
 Ngư nghiệp
 Ngưng tụ
 Ngưng tụ Bose-Einstein
+Ngưu tất
 Người
 Người A Xương
 Người Adyghe
@@ -109739,6 +109786,7 @@ Parville
 Parvovirus
 Paréac
 Pas-de-Calais
+Pasaccardoa procumbens
 Pascal (ngôn ngữ lập trình)
 Pascal (unit)
 Pascal (đơn vị)
@@ -110132,6 +110180,7 @@ Petronius
 Petronius Maximus
 Petula Clark
 Petín
+Peucedanum elegans
 Peugeot 404
 Peujard
 Peumerit
@@ -112069,6 +112118,7 @@ Probus
 Procedural animation
 Proceedings of the National Academy of Sciences
 Prochlorococcus
+Prochoreutis bella
 Procolobus
 Procolobus epieni
 Procolobus verus
@@ -112181,6 +112231,7 @@ Pseudo-documentary
 Pseudoeriphus
 Pseudoeriphus robustus
 Pseudofungi
+Pseudolampona taroom
 Pseudomonas aeruginosa
 Pseudoneureclipsis congolensis
 Pseudopristilophus attenuatus
@@ -116517,6 +116568,7 @@ Sciurus argentinius
 Sciurus ingrami
 Scleractinia
 Scleria macrogyne
+Scoloderus tuberculifer
 Scopula
 Scopula concurrens
 Scopula nigricans
@@ -119536,6 +119588,7 @@ Tanneron
 Tanque Argentino Mediano
 Tantal
 Tantan
+Tantilla brevicauda
 Tantive IV
 Tantum Ergo
 Tanzania
@@ -123920,6 +123973,7 @@ Truyền bệnh theo chiều ngang
 Truyền hình
 Truyền hình Ai Cập
 Truyền hình Hoa Kỳ
+Truyền hình chiếu mạng
 Truyền hình cáp
 Truyền hình thực tế
 Truyền hình tại Cộng hòa Nhân dân Trung Hoa
@@ -124870,6 +124924,7 @@ Turkish Women's Cup
 Turkmenistan
 Turku
 Turner Classic Movies
+Turnera fernandezii
 Turridae
 Turrinae
 Turris
@@ -133538,6 +133593,7 @@ transistor
 đảo Ba Bình
 İbrahim Öner
 İhsaniye, Bandırma
+İhsanlı, Araç
 İkizli, Sungurlu
 İleği, Yalvaç
 İmirli, Sungurlu

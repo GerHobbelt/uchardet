@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Estreito de Malygin
-Folha de fibra
-Gilles Clément
-Youssef Aboul-Kheir
-Lachnospermum
-Delegação de Plateau na Assembleia Nacional da Nigéria
-Athiémè
-Universidade de Rangum Oriental
-(22740) Rayleigh
-Fort Totten
-Sydney Galès
-Lluís Bonifaç i Massó
-Condado de Blount
-Eliminatórias da Copa do Mundo FIFA de 2006 - Europa
-Betchat
-Botryophora
-Lista dos maiores municípios das províncias e territórios do Canadá
-Ansina (município)
-Ride A White Swan
-Oceana
-Maresches
-Gilligan's Island
-Batalha de Corregidor
-Pierre de Ronsard
-San Lorenzo (Corrientes)
-Festival Internacional de Cinema de Berlim 1974
-Orgulho, Paixão e Glória: Três Noites na Cidade do México
-Vem no Vento
-Lynn Family Stadium
-Forti
+Western Museum of Flight
+Dualogic
+Necranthus
+Juan Pedro Gutiérrez
+Wii Party
+Treyvaux
+Mais Forte Que o Tempo
+Van Nuys
+Beni (departamento)
+Kasson
+33 Velorum
+Mops thersites
+Príon
+Conurbação Patos-São José do Bonfim
+Zagorje ob Savi
+International Fellowship of Evangelical Students
+Štrkovec
+Axur, re d'Ormus
+Hoste (desambiguação)
+Seminoma
+Ferrovia Qinghai-Tibete
+Assistente
+Valeri Chari
+Roma Soccer Club
+Atletismo nos Jogos Mundiais Militares de 2011 - Salto com vara masculino
+Arremedilho
+Valeggio sul Mincio
+Miss Sergipe 2014
+Henri Hubert
+PR-804
 "Still Life" (American Concert 1981)
 '98 Live Meltdown
 'N Sync
@@ -99,6 +99,7 @@ Forti
 (208996) 2003 AZ84
 (208997) 2003 AN88
 (208998) 2003 AW88
+(22740) Rayleigh
 (278361) 2007 JJ43
 (303775) 2005 QU182
 (307261) 2002 MS4
@@ -1405,6 +1406,7 @@ Abdel Sattar Sabry
 Abdelaziz Sanqour
 Abdelzaher El-Saqqa
 Abdoulaye Cissoko
+Abdoulaye Diagne-Faye
 Abdul Hamid Bassiouny
 Abdulaziz Hussain
 Abdulrazak Gurnah
@@ -1622,6 +1624,7 @@ Acento agudo
 Acento circunflexo
 Acento grave
 Acer (empresa)
+Acer plantanoides
 Acervo Artístico-Cultural dos Palácios do Governo do Estado de São Paulo
 Acervo comunitário
 Aces of the Galaxy
@@ -2149,6 +2152,7 @@ Agropecuária
 Agrossilvicultura
 Agrostis
 Agrostis canescens
+Agrostis triaristata
 Agrostis umbellata
 Agrotis spinifera
 Agrotóxico
@@ -3936,6 +3940,7 @@ Anselmo Duarte
 Anseriformes
 Ansiedade
 Ansignan
+Ansina (município)
 Ansiolíticos
 Ansys Inc.
 Ant-Man and the Wasp
@@ -4225,6 +4230,7 @@ Aparecida do Rio Doce
 Aparelho auditivo
 Apartamento
 Apartheid
+Apeadeiro de Mala
 Apeadeiro de Ramalde
 Apeadeiro de São Vicente de Lafões
 Apeadeiro de Vale de Açor
@@ -5502,6 +5508,7 @@ Athenea Mata
 Atherospermataceae
 Athienville
 Athirson
+Athiémè
 Athletic Club (Minas Gerais)
 Athletikos Podosferikos Omilos Ellinon Lefkosias
 Athlitiki Podosfairiki Enosi Pitsilia
@@ -5827,6 +5834,7 @@ Australia
 Australian Broadcasting Corporation
 Australian Bureau of Statistics
 Australian Film Institute
+Australian Open de 1998
 Australian Plant Name Index
 Australian Recording Industry Association
 Australian Signals Directorate
@@ -6866,6 +6874,7 @@ Batalha da Maria Antônia
 Batalha da Normandia
 Batalha da base aérea de Tabqa
 Batalha da fronteira de Nasib
+Batalha da linha Svatove-Kreminna
 Batalha das Planícies de Abraão
 Batalha de Al-Bab
 Batalha de Al-Haffah
@@ -6910,6 +6919,7 @@ Batalha de Cesar
 Batalha de Clavijo
 Batalha de Collejares
 Batalha de Consuegra
+Batalha de Corregidor
 Batalha de Covadonga
 Batalha de Cutanda
 Batalha de Damasco
@@ -7669,6 +7679,7 @@ Beta-alanina
 Betaflexiviridae
 Betaoxidação
 Betcave-Aguin
+Betchat
 Bete Mendes
 Betelgeuse
 Bethany (Illinois)
@@ -8721,6 +8732,7 @@ Bother
 Botkyrka (comuna)
 Botoșani
 Botrychium
+Botryophora
 Botryosphaeriaceae
 Botrypus
 Botsuana
@@ -14508,6 +14520,7 @@ Condado de Benton (Minnesota)
 Condado de Benton (Washington)
 Condado de Bergen
 Condado de Big Stone
+Condado de Blount
 Condado de Blue Earth
 Condado de Bourbon
 Condado de Bradford (Flórida)
@@ -17440,6 +17453,7 @@ Delcídio do Amaral
 Dele Aiyenugba
 Delegado de polícia
 Delegação das Academias de Ciência e Letras da Finlândia
+Delegação de Plateau na Assembleia Nacional da Nigéria
 Delete
 Deleção
 Delfim Moreira
@@ -18426,6 +18440,7 @@ Diodo semicondutor
 Diodo túnel
 Diodoro de Tarso
 Diodos
+Diogeniano (tribuno)
 Diogo
 Diogo Barbosa
 Diogo Costa
@@ -19579,6 +19594,7 @@ Débora Lyra
 Débora Nascimento
 Débora Ozório
 Década
+Década de 10
 Década de 1000 a.C.
 Década de 1010 a.C.
 Década de 1020 a.C.
@@ -20075,6 +20091,7 @@ Eduardo Sirotsky Melzer
 Eduardo VII do Reino Unido
 Eduardo Villas Bôas
 Eduardo Wandenkolk
+Eduardo de Almeida
 Eduardo de Almeida Navarro
 Eduardo de Andrade Pinto
 Eduardo de Norwich, 2.º Duque de Iorque
@@ -20697,6 +20714,7 @@ Eliezer Batista
 Elihu Thomson
 Elija Godwin
 Elijah Wood
+Eliminatórias da Copa do Mundo FIFA de 2006 - Europa
 Eliminatórias da Copa do Mundo FIFA de 2010 - África
 Eliminatórias da Copa do Mundo FIFA de 2022 – CONMEBOL
 Eliminatórias do Campeonato Africano das Nações de 2008
@@ -20898,6 +20916,7 @@ Emile Locque
 Emilia Clarke
 Emilia Jones
 Emilianópolis
+Emilie Louise Flöge
 Emilio De Bono
 Emilio Largo
 Emilio Mola Vidal
@@ -21316,6 +21335,7 @@ Eparquia de Ujjain
 Eparquia do Santo Efrém de Khadki
 Eparquia melquita de São Paulo
 Eperópole
+Epic (filme)
 Epic Games
 Epic Mickey 2: The Power of Two
 Epic Records
@@ -22431,6 +22451,7 @@ Estreito
 Estreito Austríaco
 Estreito de Bering
 Estreito de Kalmar
+Estreito de Malygin
 Estreito de McMurdo
 Estrela
 Estrela (Rio Grande do Sul)
@@ -23826,6 +23847,7 @@ Festival Eurovisão da Canção 2017
 Festival Folclórico de Parintins
 Festival Internacional da Canção de Viña del Mar
 Festival Internacional da Linguagem Eletrônica
+Festival Internacional de Cinema de Berlim 1974
 Festival Internacional de Cinema de San Sebastián
 Festival Internacional de Cinema de Toronto
 Festival Internacional de Cinema de Veneza
@@ -24397,6 +24419,7 @@ Folha (botânica)
 Folha Online
 Folha de S. Paulo
 Folha de S.Paulo
+Folha de fibra
 Folha de ouro
 Folhas
 Folia do Divino
@@ -24525,6 +24548,7 @@ Fort Florida
 Fort George G. Meade
 Fort Lauderdale
 Fort Lonesome
+Fort Totten
 Fort Wayne
 Fort Worth
 Fortaleza
@@ -24542,6 +24566,7 @@ Forte de São Clemente
 Forte de São Francisco Xavier de Piratininga
 Forte do Cão
 Forteville
+Forti
 Fortificações de Sant'Ana do Livramento
 Fortim do Espírito Santo
 Fortinet
@@ -24873,6 +24898,7 @@ Franklin Delano Roosevelt
 Franklin Dória
 Franklin J. Schaffner
 Franklin White
+Franklyn Atese Nubuasah
 Frankye Pain
 Franquia
 Franquia de mídia
@@ -26358,6 +26384,7 @@ Gilgamés
 Gilka Machado
 Gill (volume)
 Gillan
+Gilles Clément
 Gillian Anderson
 Gillian Fisher
 Gilligan's Island
@@ -26395,6 +26422,7 @@ Ginosperma
 Ginásio (Grécia Antiga)
 Ginásio Estadual Geraldo José de Almeida
 Ginásio Gigantinho
+Ginásio Poliesportivo Pedro Morilla Fuentes
 Ginástica
 Ginástica artística
 Ginástica de trampolim nos Jogos Olímpicos de Verão de 2016 - Feminino
@@ -27599,6 +27627,7 @@ Grupo da tabela periódica
 Grupo de Minsk
 Grupo de notícias
 Grupo de pressão
+Grupo do Café Gelo
 Grupo do Extremo Leste
 Grupo do Mar de Ross
 Grupo do boro
@@ -31762,6 +31791,7 @@ Isolacionismo
 Isolamento social
 Isolationism
 Isoleucina
+Isomorfismo de Curry-Howard
 Isonoe (satélite)
 Isopod Labs
 Isoprenoide
@@ -32169,6 +32199,7 @@ Jamaica nos Jogos Olímpicos
 Jamaica nos Jogos Olímpicos de Verão de 1964
 Jamaica nos Jogos Olímpicos de Verão de 2012
 Jamaica nos Jogos Paralímpicos de Verão de 2008
+Jamaicanos de ascendência africana
 Jamal Igle
 Jamba (Angola)
 Jambeiro (São Paulo)
@@ -34321,6 +34352,7 @@ KaNgwane
 Kaatsen nos Jogos Olímpicos de Verão de 1928
 Kabaddi
 Kabukimono
+Kabuto Borg
 Kacey Musgraves
 Kacsóta
 Kaden
@@ -35305,6 +35337,7 @@ Lacapelle-Livron
 Lacedemon
 Lachapelle (Meurthe-et-Moselle)
 Lachapelle (Tarn-et-Garonne)
+Lachnospermum
 Lacistemataceae
 Lackey Place (Califórnia)
 Lacour
@@ -36144,6 +36177,7 @@ Let's Eat
 Let's Kill Hitler
 Let's Play Two
 Let's Spend the Night Together
+Letestuella
 Lethal Weapon (série de televisão)
 Letiny
 Letná Park
@@ -37520,6 +37554,7 @@ Lista dos maiores estádios de futebol do mundo
 Lista dos maiores estádios de futebol dos Estados Unidos
 Lista dos maiores exoplanetas
 Lista dos maiores impérios
+Lista dos maiores municípios das províncias e territórios do Canadá
 Lista dos melhores clubes do século XX para cada continente segundo a IFFHS
 Lista dos municípios brasileiros por IDH
 Lista dos municípios de São Paulo por área
@@ -37693,6 +37728,7 @@ Llorando se fue
 Lloyd Brasileiro
 Lloyd Eisler
 Llupia
+Lluís Bonifaç i Massó
 Lluís Martínez Sistach
 Lo que la vida me robó
 Load Inc.
@@ -38390,6 +38426,7 @@ Lyman Spitzer
 Lymle Lemuri Phi
 Lyndon B. Johnson
 Lynn (Massachusetts)
+Lynn Family Stadium
 Lynn Margulis
 Lynn Redgrave
 Lynn Stalmaster
@@ -38598,6 +38635,7 @@ Línguas celtas
 Línguas crioulas de base francesa
 Línguas da União Europeia
 Línguas do Reino Unido
+Línguas do Sudão
 Línguas dos Estados Unidos
 Línguas eslavas
 Línguas europeias
@@ -39725,6 +39763,7 @@ Marechal Thaumaturgo
 Marek Kolbowicz
 Maremoto de 1755
 Maren Morris
+Maresches
 Maresias
 Marestaing
 Marfim
@@ -40114,6 +40153,7 @@ Martigny-Courpierre
 Martiherrero
 Martim Afonso de Sousa
 Martim Codax
+Martim Correia de Sá
 Martin Adrian Garcia
 Martin Aigner
 Martin Balsam
@@ -45710,6 +45750,7 @@ Ocean
 Ocean City (Maryland)
 Ocean Software
 OceanGate
+Oceana
 Oceania
 Oceano
 Oceano (desambiguação)
@@ -46387,6 +46428,7 @@ Orbita
 Orbitais de antiligação
 Orbital de antiligação
 Orbital molecular
+Orchata
 Orchidaceae
 Orchidoideae
 Orcs Must Die!
@@ -46547,6 +46589,7 @@ Organologia
 Organometálico
 Orgueil
 Orgulho e Paixão
+Orgulho, Paixão e Glória: Três Noites na Cidade do México
 Orhan Pamuk
 Orica-Scott
 Oricon
@@ -47246,6 +47289,7 @@ Palazzo Mattei-Caetani
 Palazzo Varese
 Palazzo degli Anguillara
 Palazzo di Giacomo Mattei
+Palazzo di San Callisto
 Pale Blue Dot
 Pale Blue Dot: A Tribute to Carl Sagan
 Pale Blue Eyes
@@ -48627,6 +48671,7 @@ Permacultura
 Permafrost
 Permanganato
 Permanganato de sódio
+Permeabilidade (geologia)
 Permeabilidade magnética
 Permilagem
 Permutador de calor
@@ -49076,6 +49121,7 @@ Pierre Spengler
 Pierre Trudeau
 Pierre de Coubertin
 Pierre de Marivaux
+Pierre de Ronsard
 Pierre-Percée
 Pierre-la-Treiche
 Pierrepont (Meurthe-et-Moselle)
@@ -50864,6 +50910,7 @@ Primeira dinastia de Ur
 Primeira lei da termodinâmica
 Primeira travessia aérea do Atlântico Sul
 Primeiras Nações
+Primeiro Amor - O Melhor de Carlinhos Felix
 Primeiro Cerco de Gibraltar
 Primeiro Concílio de Constantinopla
 Primeiro Concílio de Niceia
@@ -54191,6 +54238,7 @@ Ricourt
 Riddler
 Ride (banda)
 Ride (jogo eletrônico)
+Ride A White Swan
 Ride to Hell: Retribution
 Rideau Cottage
 Rideau Hall
@@ -54839,6 +54887,7 @@ Rocketmen: Axis of Evil
 Rockferry
 Rockin' in the Free World
 Rockin' in the Rockies
+Rockport (Washington)
 Rocksmith
 Rocksmith 2014
 Rockstar Consortium
@@ -54887,6 +54936,7 @@ Rodovia
 Rodovia Amaral Peixoto
 Rodovia Anhanguera
 Rodovia Augusto Montenegro
+Rodovia Fernão Dias
 Rodovia Padre Manoel da Nóbrega
 Rodovia Raposo Tavares
 Rodovia Rio-Vitória
@@ -56562,6 +56612,7 @@ San Francisco Warriors
 San Francisco del Oro
 San García de Ingelmos
 San Gillio
+San Gregorio (Santa Fé)
 San Isidro (Buenos Aires)
 San Jorge (Santa Fé)
 San Jose Earthquakes
@@ -56578,6 +56629,7 @@ San Juan de la Encinilla
 San Juan de la Nava
 San Juan del Molinillo
 San Juan del Olmo
+San Lorenzo (Corrientes)
 San Lorenzo de Tormes
 San Luis (Argentina)
 San Lázaro (Paraguai)
@@ -59730,6 +59782,7 @@ Strangers in the Night
 Stranglehold
 Strasburgeriaceae
 Stratford-upon-Avon
+Stratov
 Stratovarius
 Strausstown
 Strawberry Fields Forever
@@ -60553,6 +60606,7 @@ Sydney
 Sydney 2000 (jogo eletrônico)
 Sydney Chaplin
 Sydney Fairbrother
+Sydney Galès
 Sydney Morning Herald
 Sydney Pollack
 Sydney Samuelson
@@ -65835,6 +65889,7 @@ Universidade de Oxford
 Universidade de Paris
 Universidade de Pernambuco
 Universidade de Química e Tecnologia Mendeleev
+Universidade de Rangum Oriental
 Universidade de Ribeirão Preto
 Universidade de Rio Verde
 Universidade de San Andrés
@@ -66556,6 +66611,7 @@ Velocidade radial
 Velvet Assassin
 Velázquez
 Velény
+Vem no Vento
 Venade e Azevedo
 Vencedores dos Óscares por ano
 Venceslau Brás
@@ -68835,6 +68891,7 @@ Your Shape
 Your Time Is Gonna Come
 Your Type
 Yours Truly (álbum de Ariana Grande)
+Youssef Aboul-Kheir
 YouthAIDS
 Youtube
 Yoweri Museveni
@@ -69594,6 +69651,7 @@ transistor
 Čestín
 Čižice
 Čmelíny
+Číhalín
 Čížkov (Plzeň)
 Đurinac (Svilajnac)
 İkra Kayır
@@ -70346,6 +70404,7 @@ transistor
 32 (álbum de Oswaldir & Carlos Magrão)
 32 bits
 32. Unterseebootsflottille
+33 Velorum
 33. Unterseebootsflottille
 330 North Wabash
 34+35
@@ -70946,6 +71005,7 @@ Abdel Sattar Sabry
 Abdelaziz Sanqour
 Abdelzaher El-Saqqa
 Abdoulaye Cissoko
+Abdoulaye Diagne-Faye
 Abdul Hamid Bassiouny
 Abdulaziz Hussain
 Abdulrazak Gurnah
@@ -71163,6 +71223,7 @@ Acento agudo
 Acento circunflexo
 Acento grave
 Acer (empresa)
+Acer plantanoides
 Acervo Artístico-Cultural dos Palácios do Governo do Estado de São Paulo
 Acervo comunitário
 Aces of the Galaxy
@@ -71690,6 +71751,7 @@ Agropecuária
 Agrossilvicultura
 Agrostis
 Agrostis canescens
+Agrostis triaristata
 Agrostis umbellata
 Agrotis spinifera
 Agrotóxico
@@ -73767,6 +73829,7 @@ Aparecida do Rio Doce
 Aparelho auditivo
 Apartamento
 Apartheid
+Apeadeiro de Mala
 Apeadeiro de Ramalde
 Apeadeiro de São Vicente de Lafões
 Apeadeiro de Vale de Açor
@@ -74428,6 +74491,7 @@ Arrasa-Quarteirão (DC Comics)
 Arraye-et-Han
 Arrecife
 Arreio
+Arremedilho
 Arremessador
 Arremesso de dardo
 Arrested Development (grupo)
@@ -74785,6 +74849,7 @@ Assis (São Paulo)
 Assis Brasil
 Assis Chateaubriand
 Assis Chateaubriand (Paraná)
+Assistente
 Assistência
 Assistência médica
 Assistência social
@@ -75091,6 +75156,7 @@ Atleta
 Atletas Olímpicos Individuais nos Jogos Olímpicos de Verão de 2012
 Atletismo
 Atletismo nos Jogos Mundiais Militares de 2011 - 100 m com barreiras feminino
+Atletismo nos Jogos Mundiais Militares de 2011 - Salto com vara masculino
 Atletismo nos Jogos Olímpicos
 Atletismo nos Jogos Olímpicos de Verão da Juventude de 2014
 Atletismo nos Jogos Olímpicos de Verão de 1896
@@ -75370,6 +75436,7 @@ Australia
 Australian Broadcasting Corporation
 Australian Bureau of Statistics
 Australian Film Institute
+Australian Open de 1998
 Australian Plant Name Index
 Australian Recording Industry Association
 Australian Signals Directorate
@@ -75569,6 +75636,7 @@ Axicô
 Axis axis
 Axis kuhlii
 Axl Rose
+Axur, re d'Ormus
 Axântis
 Axé (gênero musical)
 Axónio
@@ -76409,6 +76477,7 @@ Batalha da Maria Antônia
 Batalha da Normandia
 Batalha da base aérea de Tabqa
 Batalha da fronteira de Nasib
+Batalha da linha Svatove-Kreminna
 Batalha das Planícies de Abraão
 Batalha de Al-Bab
 Batalha de Al-Haffah
@@ -77061,6 +77130,7 @@ Bengtsfors (comuna)
 Benguela
 Benguela (província)
 Benguí (Belém)
+Beni (departamento)
 Beniamino Stella
 Benicio del Toro
 Benim nos Jogos Olímpicos
@@ -84729,6 +84799,7 @@ Controvérsia sobre os masters de Taylor Swift
 Contusão
 Contínuo de Herzberg
 Conurbação
+Conurbação Patos-São José do Bonfim
 Conurbação de Midlands Ocidentais
 Conus
 Conus kulkucan
@@ -87974,6 +88045,7 @@ Diodo semicondutor
 Diodo túnel
 Diodoro de Tarso
 Diodos
+Diogeniano (tribuno)
 Diogo
 Diogo Barbosa
 Diogo Costa
@@ -88966,6 +89038,7 @@ Dualidade de poderes
 Dualidade onda-corpúsculo
 Dualidade onda-partícula
 Duality
+Dualogic
 Duamutefe
 Duarte Lobo
 Duarte Nogueira
@@ -89127,6 +89200,7 @@ Débora Lyra
 Débora Nascimento
 Débora Ozório
 Década
+Década de 10
 Década de 1000 a.C.
 Década de 1010 a.C.
 Década de 1020 a.C.
@@ -89623,6 +89697,7 @@ Eduardo Sirotsky Melzer
 Eduardo VII do Reino Unido
 Eduardo Villas Bôas
 Eduardo Wandenkolk
+Eduardo de Almeida
 Eduardo de Almeida Navarro
 Eduardo de Andrade Pinto
 Eduardo de Norwich, 2.º Duque de Iorque
@@ -90447,6 +90522,7 @@ Emile Locque
 Emilia Clarke
 Emilia Jones
 Emilianópolis
+Emilie Louise Flöge
 Emilio De Bono
 Emilio Largo
 Emilio Mola Vidal
@@ -90865,6 +90941,7 @@ Eparquia de Ujjain
 Eparquia do Santo Efrém de Khadki
 Eparquia melquita de São Paulo
 Eperópole
+Epic (filme)
 Epic Games
 Epic Mickey 2: The Power of Two
 Epic Records
@@ -93347,6 +93424,7 @@ Ferrovia Centro-Atlântica
 Ferrovia Centro-Atlântica S.A.
 Ferrovia Norte-Sul
 Ferrovia Paulista S/A
+Ferrovia Qinghai-Tibete
 Ferrovia Transnordestina Logística
 Ferrovia de Integração do Centro-Oeste
 Ferrovia de ligação
@@ -94427,6 +94505,7 @@ Franklin Delano Roosevelt
 Franklin Dória
 Franklin J. Schaffner
 Franklin White
+Franklyn Atese Nubuasah
 Frankye Pain
 Franquia
 Franquia de mídia
@@ -95950,6 +96029,7 @@ Ginosperma
 Ginásio (Grécia Antiga)
 Ginásio Estadual Geraldo José de Almeida
 Ginásio Gigantinho
+Ginásio Poliesportivo Pedro Morilla Fuentes
 Ginástica
 Ginástica artística
 Ginástica de trampolim nos Jogos Olímpicos de Verão de 2016 - Feminino
@@ -97154,6 +97234,7 @@ Grupo da tabela periódica
 Grupo de Minsk
 Grupo de notícias
 Grupo de pressão
+Grupo do Café Gelo
 Grupo do Extremo Leste
 Grupo do Mar de Ross
 Grupo do boro
@@ -98462,6 +98543,7 @@ Hennu
 Henri Bergson
 Henri Cartan
 Henri Castelli
+Henri Hubert
 Henri Langlois
 Henri Lefebvre
 Henri Moissan
@@ -99315,6 +99397,7 @@ Hospício
 Hossam Abdelmoneim
 Hossam Hassan
 Hosszúhetény
+Hoste (desambiguação)
 Hot (canção de Avril Lavigne)
 Hot 100 Single Sales
 Hot Country Songs
@@ -100958,6 +101041,7 @@ International Federation of Library Associations and Institutions
 International Federation of Societies for Microscopy
 International Federation of Surveyors
 International Federation of the Phonographic Industry
+International Fellowship of Evangelical Students
 International Foundation for Science
 International Games System
 International Herald Tribune
@@ -101317,6 +101401,7 @@ Isolacionismo
 Isolamento social
 Isolationism
 Isoleucina
+Isomorfismo de Curry-Howard
 Isonoe (satélite)
 Isopod Labs
 Isoprenoide
@@ -101724,6 +101809,7 @@ Jamaica nos Jogos Olímpicos
 Jamaica nos Jogos Olímpicos de Verão de 1964
 Jamaica nos Jogos Olímpicos de Verão de 2012
 Jamaica nos Jogos Paralímpicos de Verão de 2008
+Jamaicanos de ascendência africana
 Jamal Igle
 Jamba (Angola)
 Jambeiro (São Paulo)
@@ -103513,6 +103599,7 @@ Juan Ayuso
 Juan García Rodríguez
 Juan José Omella Omella
 Juan Luis Cipriani Thorne
+Juan Pedro Gutiérrez
 Juan Ponce de León
 Juan Ramón Jiménez
 Juan Román Riquelme
@@ -103876,6 +103963,7 @@ KaNgwane
 Kaatsen nos Jogos Olímpicos de Verão de 1928
 Kabaddi
 Kabukimono
+Kabuto Borg
 Kacey Musgraves
 Kacsóta
 Kaden
@@ -104028,6 +104116,7 @@ Kasey Keller
 Kashmir (canção)
 Kassel
 Kasserine
+Kasson
 Kastriot (Albânia)
 Kasumi Hirabayashi
 KatGames
@@ -105700,6 +105789,7 @@ Let's Eat
 Let's Kill Hitler
 Let's Play Two
 Let's Spend the Night Together
+Letestuella
 Lethal Weapon (série de televisão)
 Letiny
 Letná Park
@@ -108157,6 +108247,7 @@ Línguas celtas
 Línguas crioulas de base francesa
 Línguas da União Europeia
 Línguas do Reino Unido
+Línguas do Sudão
 Línguas dos Estados Unidos
 Línguas eslavas
 Línguas europeias
@@ -108726,6 +108817,7 @@ Mairinque
 Mairiporã
 Mairy-Mainville
 Mais AD
+Mais Forte Que o Tempo
 Mais TV
 Mais Você
 Mais e Mais (canção)
@@ -109674,6 +109766,7 @@ Martigny-Courpierre
 Martiherrero
 Martim Afonso de Sousa
 Martim Codax
+Martim Correia de Sá
 Martin Adrian Garcia
 Martin Aigner
 Martin Balsam
@@ -111496,6 +111589,7 @@ Miss Mundo
 Miss Mundo Brasil 2017
 Miss Mundo Mato Grosso
 Miss Paraíba BE Emotion 2019
+Miss Sergipe 2014
 Miss São Paulo
 Miss São Paulo 2018
 Miss São Paulo 2019
@@ -112169,6 +112263,7 @@ Moonlander
 Moonlight (canção de Onew)
 Moonlight (filme)
 Moonlight Express
+Mops thersites
 Mopsuéstia
 Mora (comuna)
 Moraceae
@@ -113747,6 +113842,7 @@ Necao I
 Necao II
 Necbete
 Necochea
+Necranthus
 Necronomicon
 Necros
 Necrotério
@@ -115948,6 +116044,7 @@ Orbita
 Orbitais de antiligação
 Orbital de antiligação
 Orbital molecular
+Orchata
 Orchidaceae
 Orchidoideae
 Orcs Must Die!
@@ -116676,6 +116773,7 @@ PPD/PSD
 PPG Industries
 PPredefinição:Globo de Ouro de melhor canção original (década de 1990)
 PR Newswire
+PR-804
 PRISM (programa de vigilância)
 PS (Portugal)
 PS2 Linux
@@ -116808,6 +116906,7 @@ Palazzo Mattei-Caetani
 Palazzo Varese
 Palazzo degli Anguillara
 Palazzo di Giacomo Mattei
+Palazzo di San Callisto
 Pale Blue Dot
 Pale Blue Dot: A Tribute to Carl Sagan
 Pale Blue Eyes
@@ -118189,6 +118288,7 @@ Permacultura
 Permafrost
 Permanganato
 Permanganato de sódio
+Permeabilidade (geologia)
 Permeabilidade magnética
 Permilagem
 Permutador de calor
@@ -120427,6 +120527,7 @@ Primeira dinastia de Ur
 Primeira lei da termodinâmica
 Primeira travessia aérea do Atlântico Sul
 Primeiras Nações
+Primeiro Amor - O Melhor de Carlinhos Felix
 Primeiro Cerco de Gibraltar
 Primeiro Concílio de Constantinopla
 Primeiro Concílio de Niceia
@@ -124403,6 +124504,7 @@ Rocketmen: Axis of Evil
 Rockferry
 Rockin' in the Free World
 Rockin' in the Rockies
+Rockport (Washington)
 Rocksmith
 Rocksmith 2014
 Rockstar Consortium
@@ -124451,6 +124553,7 @@ Rodovia
 Rodovia Amaral Peixoto
 Rodovia Anhanguera
 Rodovia Augusto Montenegro
+Rodovia Fernão Dias
 Rodovia Padre Manoel da Nóbrega
 Rodovia Raposo Tavares
 Rodovia Rio-Vitória
@@ -124548,6 +124651,7 @@ Roma (filme de 2018)
 Roma Antiga
 Roma Cabo
 Roma Capitale
+Roma Soccer Club
 Roma Termini
 Roma Vecchia
 Roma, città aperta
@@ -126126,6 +126230,7 @@ San Francisco Warriors
 San Francisco del Oro
 San García de Ingelmos
 San Gillio
+San Gregorio (Santa Fé)
 San Isidro (Buenos Aires)
 San Jorge (Santa Fé)
 San Jose Earthquakes
@@ -127123,6 +127228,7 @@ Semideus
 Semieixo maior
 Semimetais
 Semimetal
+Seminoma
 Seminário menor
 Semion Chelyuskin
 Semipresidencialismo
@@ -129295,6 +129401,7 @@ Strangers in the Night
 Stranglehold
 Strasburgeriaceae
 Stratford-upon-Avon
+Stratov
 Stratovarius
 Strausstown
 Strawberry Fields Forever
@@ -134173,6 +134280,7 @@ Trey Muse
 Trey Parker
 Trey Songz
 Treyarch
+Treyvaux
 Treze Colônias
 Treze Dias Longe do Sol
 Treze colônias
@@ -135817,6 +135925,7 @@ Vale do Taquari
 Vale dos Reis
 Vale dos Sinos
 Vale dos Sonhos (Goiânia)
+Valeggio sul Mincio
 Valeilles
 Valence (Tarn-et-Garonne)
 Valence-sur-Baïse
@@ -135834,6 +135943,7 @@ Valentine's Day (2010)
 Valentine's Day (filme)
 Valença (Bahia)
 Valença (Rio de Janeiro)
+Valeri Chari
 Valerian Albanov
 Valerie Leon
 Valerie Perrine
@@ -135897,6 +136007,7 @@ Van Helsing
 Van Helsing (filme)
 Van Helsing: O Caçador de Monstros
 Van Jacobson
+Van Nuys
 Vancomicina
 Vancouver
 Vancouver (Washington)
@@ -137534,6 +137645,7 @@ Westerburg
 Western
 Western Digital
 Western Kentucky University
+Western Museum of Flight
 Western swing
 Westernohe
 Westerwaldkreis
@@ -137663,6 +137775,7 @@ Wicked Witch Software
 Wideload Games
 Wied (Renânia-Palatinado)
 Wietzen
+Wii Party
 Wii U
 Wik and the Fable of Souls
 Wikcionário
@@ -138458,6 +138571,7 @@ Zack Snyder
 Zack Snyder's Justice League
 Zaeli
 Zagat Survey
+Zagorje ob Savi
 Zagrebe
 Zagueiro
 Zaide
@@ -139163,6 +139277,7 @@ transistor
 Čestín
 Čižice
 Čmelíny
+Číhalín
 Čížkov (Plzeň)
 Đurinac (Svilajnac)
 İkra Kayır
@@ -139175,6 +139290,7 @@ transistor
 Šavac
 Šljivica
 Šoštanj
+Štrkovec
 Štěnovice
 Šuljkovac
 Šumadija (região)

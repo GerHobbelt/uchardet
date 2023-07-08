@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Mary Fenech Adami
-Euarchonta
-Mohamed Bouazizi
-Kwalifikazzjoni għat-Tazza tad-Dinja tal-Futbol 2010 (UEFA) - Grupp 7
-Siġġiewi FC
-Edward Sapir
-No. 5, 1948
-Joe Mizzi
-Daniel Van Buyten
-Lingwa Kroata
-Premier League Malti 1937–38
-Monasteru ta' Sopoćani
-Marcel Langiller
-Soċjetà tad-Duttrina Nisranija
-Liebru Etjopjan
-Art tal-Inċens
-George Abela
-Tupaja ta' Madras
-Gabon
-FK Vilnius
-Il-Ballett ta' Kosovo
-Don Pino Puglisi
-Leeds United FC
-Belt ta' Vicenza u l-Vilel ta' Palladio fil-Veneto
-Claudine Picardet
-San Bastjan
-Pangea
-ORCID
-FC Encamp
-Udo Nwoko
+Ċikli ta' affreski tas-seklu 14 ta' Padova
+Agostino Carracci
+C. George Boeree
+Opossum tal-Patagonja
+Climats u Terroirs ta' Bourgogne
+Tupaja tal-muntanji
+Żvezja
+Librerija ta' Klassijiet Bażi
+Paolo Borsellino
+Candies (grupp)
+Oscar Romero
+Lingwa uffiċjali
+L-isparar fid-diskoteka Pulse f'Orlando
+Serebro
+Chiara Siracusa
+NK Čelik Zenica
+FC Dinamo Minsk
+Newro-onkoloġija
+Opossum ġurdien ta' Linnaeus
+Abu al-Fida
+Thomas Balvay
+Djar Ewlenin ta' Victor Horta fi Brussell
+Lorenzo Valla
+Zviad Gamsakhurdia
+Charles Darwin
+Kirkop United FC
+Tomás Luis de Victoria
+FC Shakhtyor Salihorsk
+Sfera ċelesti
+Emil Nolde
 'Verschlossene Auster' award
 -Għarab
 -faġija
@@ -1713,6 +1713,7 @@ Andrea Mantegna
 Andrea Marko
 Andrea Palladio
 Andrea Pirlo
+Andrea Poli
 Andrea Pomella
 Andreanof Islands
 Andreas Beck (futboler)
@@ -2260,6 +2261,7 @@ Art Nouveau
 Art Sullivan
 Art deco
 Art mistagħdra
+Art tal-Inċens
 Art tal-Irġiel
 Artak Andrikyan
 Artak Grigoryan (futboler)
@@ -3100,6 +3102,7 @@ Belt primat
 Belt ta' Guanajuato
 Belt ta' New York
 Belt ta' San Marino
+Belt ta' Vicenza u l-Vilel ta' Palladio fil-Veneto
 Belt tal-Gwatemala
 Belt tal-Kuwajt
 Belt tal-Messiku
@@ -3639,6 +3642,7 @@ Bryce Courtenay
 Brynjar Björn Gunnarsson
 Bryter Layter
 Brøndby IF
+Brú na Bóinne
 Bucaspor
 Bucha
 Bucharest
@@ -4432,6 +4436,7 @@ Claudia Faniello
 Claudia Goldin
 Claudia Sheinbaum
 Claudia Vasilievna Jeltsina
+Claudine Picardet
 Claudio Achillini
 Claudio Caniggia
 Claudio Chiqui Tapia Stadium
@@ -4610,6 +4615,7 @@ Constance of Sicily
 Constant Vanden Stock Stadium
 Constantijn à Renesse
 Constantin Brâncoveanu
+Constantin Stanciu
 Constantinus Cornelis Huysmans
 Consuelo Suncin
 Consuelo de Saint Exupéry
@@ -5677,6 +5683,7 @@ Don Dailey
 Don Grate
 Don Howe
 Don León Kolbowsky Stadium
+Don Pino Puglisi
 Don Rodgers
 Don Welsh
 Don't Ever Cry
@@ -5904,6 +5911,7 @@ Eddie Colman
 Eddie Constantine
 Eddie Fenech Adami
 Eddie Frierson
+Eddie Gustafsson
 Eddie Hapgoood
 Eddie Johnson
 Eddie Kelly
@@ -6614,6 +6622,7 @@ Etterbeek
 Ettore Puricelli
 Ettore Scola
 Euan Norris
+Euarchonta
 Euarchontoglires
 Eubalaena shinshuensis
 Eucla, Western Australia
@@ -7030,6 +7039,7 @@ FIFA Club World Cup
 FIFA Puskás Award
 FIFPro
 FIFPro World XI
+FIMBank
 FIMCAP
 FK Atlantas
 FK Atmosfera (2012)
@@ -7105,6 +7115,7 @@ FK Vardar
 FK Velež Mostar
 FK Ventspils
 FK Vilash Masalli
+FK Vilnius
 FK Vojvodina
 FK Voždovac
 FK Zemun
@@ -9942,6 +9953,7 @@ Il giudice Mastrangelo
 Il ritorno del Monnezza
 Il sole nero
 Il vostro super agente Flit
+Il-Ballett ta' Kosovo
 Il-Cantilena
 Il-Fiddien
 Il-Għanja tar-Rebħa
@@ -11032,6 +11044,7 @@ Joe Ledley
 Joe Magunda
 Joe Micallef Stafrace
 Joe Mifsud
+Joe Mizzi
 Joe Nathan
 Joe Nickell
 Joe Saliba (1941–2013)
@@ -11463,6 +11476,7 @@ Jugożlavi
 Jugożlavja
 Jugożlavja fil-Festival tal-Eurovision
 Jugurtha
+Juhan Jaik
 Juhan Parts
 Juho Kusti Paasikivi
 Jukka Savijoki
@@ -13494,6 +13508,7 @@ Lie Paro Ngavouka-Tseke
 Liebig Medal
 Liebru
 Liebru Abissinjan
+Liebru Etjopjan
 Liebru Ewropew
 Liebru Korean
 Liebru Manċurjan
@@ -13867,6 +13882,7 @@ Liège
 Liège (belt)
 Liège (provinċja)
 Liège-Bastogne-Liège
+Liċenzja Creative Commons
 Liċenzja ta' dokumentazzjoni ħielsa GNU
 Liċeo
 Liġi Canonika tal-Knisja Kattolika
@@ -14557,6 +14573,7 @@ Marcel Cerdan
 Marcel De Corte
 Marcel Desailly
 Marcel Halstenberg
+Marcel Langiller
 Marcel Paeschen
 Marcel Paquet
 Marcel Proust
@@ -14977,6 +14994,7 @@ Massimo Ambrosini
 Massimo Bonini
 Massimo Busacca
 Massimo D'Alema
+Massimo Grima
 Massimo Martino
 Massimo Oddo
 Massimo Spano
@@ -15661,6 +15679,7 @@ Mogħos
 Mogħża
 Mohamed Aboutreika
 Mohamed Al-Deayea
+Mohamed Bouazizi
 Mohamed Guezzaz
 Mohamed Kader
 Mohamed Messoudi
@@ -15725,6 +15744,7 @@ Monasteru ta' Horezu
 Monasteru ta' Maulbronn
 Monasteru ta' Rila
 Monasteru ta' Saint-Paul-de-Mausole
+Monasteru ta' Sopoćani
 Monasteru ta' São Vicente de Fora
 Monasteru ta' Voroneț
 Monasteru tal-Ġlormini
@@ -15810,6 +15830,7 @@ Morus (botanika)
 Moselle
 Moska
 Moskea
+Moskea l-Kbira u Sptar ta' Divriği
 Moskea ta' Quwwat-ul-Islam
 Moskea ta' Selimiye, Edirne
 Moskea ta' İsa Bey
@@ -16515,6 +16536,7 @@ No (teatru)
 No Cav
 No Name
 No Rest of the Wicked
+No. 5, 1948
 Nobel Prize
 Nobelju
 Noctilio leporinus
@@ -16641,6 +16663,7 @@ OFK Beograd
 OFK Petrovac
 OGC Nice
 OII Lifetime Achievement Award
+ORCID
 ORCID (identifikatur)
 Oakland
 Obedience Award
@@ -17384,6 +17407,7 @@ Pandemija tal-COVID-19 tal-2019–20
 Pandemika tal-influenza 1918-1920
 Panevėžys
 Panezju
+Pangea
 Pangolin
 Pangolin Indjan
 Pangolin Ċiniż
@@ -20433,6 +20457,7 @@ Salvador Cabañas
 Salvador Valdés Mesa
 Salvador da Bahia
 Salvador de Bahia
+Salvatore Accardo
 Salvatore M. Puglisi
 Salvatore Riina
 Salvinu Schembri
@@ -23074,6 +23099,7 @@ Tiglath-Pileser I
 Tigra
 Tigran Hakhnazaryan
 Tigran Yesayan
+Tiit Pääsuke
 Tiiu Kuik
 Tikal
 Tiki-taka
@@ -23983,6 +24009,7 @@ Tupaiidae
 Tupaja
 Tupaja komuni
 Tupaja rqiq
+Tupaja ta' Madras
 Tupaja ta' Nikobar
 Tupaja ta' Palaw
 Tupaja ta' saqajħ twal
@@ -27818,6 +27845,7 @@ Andrea Mantegna
 Andrea Marko
 Andrea Palladio
 Andrea Pirlo
+Andrea Poli
 Andrea Pomella
 Andreanof Islands
 Andreas Beck (futboler)
@@ -29746,6 +29774,7 @@ Bryce Courtenay
 Brynjar Björn Gunnarsson
 Bryter Layter
 Brøndby IF
+Brú na Bóinne
 Bucaspor
 Bucha
 Bucharest
@@ -30718,6 +30747,7 @@ Constance of Sicily
 Constant Vanden Stock Stadium
 Constantijn à Renesse
 Constantin Brâncoveanu
+Constantin Stanciu
 Constantinus Cornelis Huysmans
 Consuelo Suncin
 Consuelo de Saint Exupéry
@@ -31692,6 +31722,7 @@ Djamel Haimoudi
 Djamel Mesbah
 Djamel Zidane
 Django Reinhardt
+Djar Ewlenin ta' Victor Horta fi Brussell
 Djarist
 Djarju ta 'Merer
 Djibril Cissé
@@ -32013,6 +32044,7 @@ Eddie Colman
 Eddie Constantine
 Eddie Fenech Adami
 Eddie Frierson
+Eddie Gustafsson
 Eddie Hapgoood
 Eddie Johnson
 Eddie Kelly
@@ -33140,6 +33172,7 @@ FIFA Club World Cup
 FIFA Puskás Award
 FIFPro
 FIFPro World XI
+FIMBank
 FIMCAP
 FK Atlantas
 FK Atmosfera (2012)
@@ -37576,6 +37609,7 @@ Jugożlavi
 Jugożlavja
 Jugożlavja fil-Festival tal-Eurovision
 Jugurtha
+Juhan Jaik
 Juhan Parts
 Juho Kusti Paasikivi
 Jukka Savijoki
@@ -39981,6 +40015,7 @@ Liège
 Liège (belt)
 Liège (provinċja)
 Liège-Bastogne-Liège
+Liċenzja Creative Commons
 Liċenzja ta' dokumentazzjoni ħielsa GNU
 Liċeo
 Liġi Canonika tal-Knisja Kattolika
@@ -41092,6 +41127,7 @@ Massimo Ambrosini
 Massimo Bonini
 Massimo Busacca
 Massimo D'Alema
+Massimo Grima
 Massimo Martino
 Massimo Oddo
 Massimo Spano
@@ -41927,6 +41963,7 @@ Morus (botanika)
 Moselle
 Moska
 Moskea
+Moskea l-Kbira u Sptar ta' Divriği
 Moskea ta' Quwwat-ul-Islam
 Moskea ta' Selimiye, Edirne
 Moskea ta' İsa Bey
@@ -46553,6 +46590,7 @@ Salvador Cabañas
 Salvador Valdés Mesa
 Salvador da Bahia
 Salvador de Bahia
+Salvatore Accardo
 Salvatore M. Puglisi
 Salvatore Riina
 Salvinu Schembri
@@ -49094,6 +49132,7 @@ Third Dvision
 Thirteenth City
 Thomas Alva Edison Jr.
 Thomas Baines
+Thomas Balvay
 Thomas Bertelman
 Thomas Bouch
 Thomas Brdaric
@@ -49194,6 +49233,7 @@ Tiglath-Pileser I
 Tigra
 Tigran Hakhnazaryan
 Tigran Yesayan
+Tiit Pääsuke
 Tiiu Kuik
 Tikal
 Tiki-taka

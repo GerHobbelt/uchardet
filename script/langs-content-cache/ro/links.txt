@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Sames, Pyrénées-Atlantiques
-Doresópolis
-Campionatul European de Scrimă pentru juniori din 1993
-Metroul din Ekaterinburg
-Guillermo Morón
-Riegelsberg
-Ursoaia, Gorj
-Cârșa Roșie, Caraș-Severin
-Federația Internațională de Gimnastică
-Geolycosa hubbelli
-Specii de proprietăți fizice echivalente
-Hartweg (autor)
-Râul Enoșești
-Corneliu Zelea Codreanu
-Saint-Jacques-des-Guérets
-Stefan Banach
-Ottokar al III-lea de Stiria
-Marînopil, Nikopol
-Biserica romano-catolică din Vama
-Open 13 Provence 2023 – Simplu
-Calviac
-Hypnogaja
-Nova Dolîna, Odesa
-Lymantria aomoriensis
-Elasticitatea prețului cererii
-Elazığ
-Parlamentul Spaniei
-Comitatul Clay, Mississippi
-Comitatul San Patricio, Texas
-Castelul Tenczyn
+Imaginaerum
+Vocea Basarabiei
+Cibaovți, Sofia
+Alexandru Hanzu
+Schenkenberg (Uckermark)
+Bosco
+Satteldorf
+Phytomyza gelida
+Zile de fior și râs
+Comuna Lișciîn
+Caracladus
+Geometria diferențială a curbelor
+Eastercon
+Raionul Berdeansk, Zaporijjea
+Comitatul Clear Creek, Colorado
+Bazilica San Clemente din Roma
+Cod ATC A02
+Casa Manta
+Arheologie subacvatică
+Attigny, Ardennes
+Comuna Recea-Cristur, Cluj
+Geraldine Page
+Pegomya bina
+Georghi R. Gongadze
+Emi Maeda
+Sfânta Veronica
+Nepenthes thorelii
+Bipiramidă decagonală
+Mădrigești, Arad
+Liriomyza flavocentralis
 ''Sistemul politic''
 'Twas the Night
 (Academy of Motion Picture Arts and Sciences (AMPAS))
@@ -519,6 +519,7 @@ Castelul Tenczyn
 1941 în film
 1941 în științifico-fantastic
 1942 în film
+1942 în literatură
 1942 în științifico-fantastic
 1943 în film
 1943 în științifico-fantastic
@@ -1901,6 +1902,7 @@ Aaadonta fuscozonata
 Aachen
 Aalborg BK
 Aalburg
+Aalen
 Aalsmeer
 Aamulehti
 Aarau
@@ -3625,6 +3627,7 @@ Alfred Marshall
 Alfred Molina
 Alfred Montagne
 Alfred Neumann
+Alfred Nobel
 Alfred North Whitehead
 Alfred Noyes
 Alfred Reynolds
@@ -6852,6 +6855,7 @@ Arta medievală
 Arta romanică
 Arta romană
 Arta românească
+Arta în Botswana
 Arta în Cluj-Napoca
 Artabasdus
 Artabotrys hainanensis
@@ -10861,6 +10865,7 @@ Biserica romano-catolică din Tămașda
 Biserica romano-catolică din Tăuții de Sus
 Biserica romano-catolică din Valea Crișului
 Biserica romano-catolică din Valea Strâmbă
+Biserica romano-catolică din Vama
 Biserica romano-catolică din Vețca
 Biserica romano-catolică din Vlaha
 Biserica romano-catolică din Zetea
@@ -13568,6 +13573,7 @@ Calvados
 Calvatone
 Calvenus Taurus
 Calvert (dezambiguizare)
+Calviac
 Calvignano
 Calvignasco
 Calvin Coolidge
@@ -13712,6 +13718,7 @@ Campionatul European de Baschet Masculin din 2017
 Campionatul European de Fotbal 1996
 Campionatul European de Fotbal 2008
 Campionatul European de Fotbal 2012
+Campionatul European de Scrimă pentru juniori din 1993
 Campionatul European de Scrimă pentru juniori din 2014
 Campionatul European de Volei Feminin din 2021
 Campionatul Mondial IIHF
@@ -15094,6 +15101,7 @@ Castelpizzuto
 Castelrotto
 Castelseprio, Lombardia
 Castelul Balmoral
+Castelul Balási din Imper
 Castelul Banloc
 Castelul Blois
 Castelul Bocskai din Aghireșu
@@ -15116,6 +15124,7 @@ Castelul Nakó
 Castelul Peleș
 Castelul Pelișor
 Castelul Teleki din Luna de Jos
+Castelul Tenczyn
 Castelul Vajdahunyad
 Castelul Vincennes
 Castelul Vîborg
@@ -18459,6 +18468,7 @@ Combinată nordică
 Comblanchien
 Combles-en-Barrois
 Combovin
+Combox Delivery
 Combrailles
 Combray
 Combre
@@ -18670,6 +18680,7 @@ Comitatul Clarke, Iowa
 Comitatul Clay, Carolina de Nord
 Comitatul Clay, Iowa
 Comitatul Clay, Minnesota
+Comitatul Clay, Mississippi
 Comitatul Clayton, Iowa
 Comitatul Clearwater, Minnesota
 Comitatul Cleveland, Carolina de Nord
@@ -19014,6 +19025,7 @@ Comitatul Saint Mary's, Maryland
 Comitatul Salem, Carolina de Sud
 Comitatul Saluda, Carolina de Sud
 Comitatul Sampson, Carolina de Nord
+Comitatul San Patricio, Texas
 Comitatul Sargent, Dakota de Nord
 Comitatul Sauk, Wisconsin
 Comitatul Sawyer, Wisconsin
@@ -22991,6 +23003,7 @@ Cârlănești, Dâmbovița
 Cârnat
 Cârnați de Pleșcoi
 Cârtița (film)
+Cârșa Roșie, Caraș-Severin
 Cât de mic poate fi infernul?
 Cébazat
 Cécile Aubry
@@ -26563,6 +26576,7 @@ Dumitru Beznea
 Dumitru Brătianu
 Dumitru Burlan
 Dumitru Caracostea
+Dumitru Coliu
 Dumitru Combiescu
 Dumitru Dediu
 Dumitru Dron
@@ -27343,9 +27357,11 @@ Elapsoidea nigra
 Elasmias ovatulum
 Elastic Heart
 Elastic Reality
+Elasticitatea prețului cererii
 Elateridae
 Elattoneura caesia
 Elattoneura oculata
+Elazığ
 Elba (dezambiguizare)
 Elbow Lake, comitatul de Grant, Minnesota)
 Elda Ferri
@@ -29676,6 +29692,7 @@ Federația Franceză de Rugby
 Federația Indiilor Vestice
 Federația Internațională de Automobilism
 Federația Internațională de Baschet
+Federația Internațională de Gimnastică
 Federația Internațională de Handbal
 Federația Internațională de Hochei pe Gheață
 Federația Italiană de Fotbal
@@ -32312,6 +32329,7 @@ Gary Shipman
 Gary Sinise
 Garysburg, North Carolina
 Garé, Baranya
+Gară (dezambiguizare)
 Gas and Air (film)
 Gas, Eure-et-Loir
 Gascogne
@@ -32688,6 +32706,7 @@ Geografie umană
 Geokichla guttata
 Geologia planetelor solare terestre
 Geologie
+Geolycosa hubbelli
 Geolycosa impudica
 Geometrie
 Geometrie algebrică
@@ -34671,6 +34690,7 @@ Guillaume Apollinaire
 Guillaume Canet
 Guillaume de l'Hôpital
 Guillermo Arriaga
+Guillermo Morón
 Guillermo Stábile
 Guillermo Vilas
 Guillermo de Croÿ
@@ -35558,6 +35578,7 @@ Harsh Mistress
 Harspelt
 Harta Iosefină
 Harta iozefină a Marelui principat al Transilvaniei
+Hartweg (autor)
 Haruki Murakami
 Harum Scarum (film)
 Harun al-Rashid
@@ -36194,6 +36215,7 @@ Herpes
 Herpont
 Herpsilochmus parkeri
 Herran
+Herre (localitate)
 Herrera de Alcántara
 Herreruela
 Herry
@@ -36871,6 +36893,7 @@ Hrib pri Orehku
 Hristo Misirkov
 Hristo Zlatinski
 Hristovți, Veliko Tărnovo
+Hroziv, Ostroh
 Hrubá Borša
 Hrubý Šúr
 Hrušica, Novo mesto
@@ -37091,6 +37114,7 @@ Hyperolius torrentis
 Hyperolius ukwiva
 Hypertext Transfer Protocol
 Hypervisor
+Hypnogaja
 Hypodactylus araiodactylus
 Hypodactylus brunneus
 Hypodactylus elassodiscus
@@ -40268,6 +40292,7 @@ Joan Aiken
 Joan And Peter
 Joan Barry
 Joan Barry (actriță americană)
+Joan Brossa
 Joan Chen
 Joan Didion
 Joan Fontaine
@@ -41707,6 +41732,7 @@ Karlsruhe (district)
 Karlsruhe (regiune)
 Karma Revero
 Karma, Niger
+Karmin
 Karna
 Karnobat
 Karofane
@@ -45062,6 +45088,7 @@ Lică Nunweiller
 Lidia (stat)
 Lidia Arionescu-Baillayre
 Lidia Buble
+Lidianópolis
 Liechtenstein
 Lieksa
 Lieoux
@@ -48990,6 +49017,7 @@ Lygodactylus roavolana
 Lyhnidia gjorgjevici
 Lyla Lerrol
 Lyman Lemnitzer
+Lymantria aomoriensis
 Lymantriidae
 Lymantriinae
 Lymantriini
@@ -51081,6 +51109,7 @@ María Cristina Ramos
 María José Martínez Sánchez
 María Valverde
 María Vento-Kabchi
+Marînopil, Nikopol
 Marócsa, Baranya
 Marșul cel Lung
 Marțian Dan
@@ -51642,6 +51671,7 @@ Meduna di Livenza
 Medusa
 Meduza (mitologie slavă)
 Meek Mill
+Meerlo-Wanssum
 Meet Bill
 Meet Dave
 Meet John Doe
@@ -52150,6 +52180,7 @@ Metrou ușor
 Metroul din București
 Metroul din Budapesta
 Metroul din Cluj
+Metroul din Ekaterinburg
 Metru
 Metsä Board
 Mettendorf (Eifel)
@@ -52816,6 +52847,7 @@ Ministerul Apărării Naționale Chineze
 Ministerul Culturii (România)
 Ministerul Culturii și Patrimoniului Național (România)
 Ministerul Culturii, Cultelor și Patrimoniului Național
+Ministerul Educației (Chile)
 Ministerul Educației Naționale
 Ministerul Educației, Cercetării și Inovării
 Ministerul Finanțelor Publice (România)
@@ -57359,6 +57391,7 @@ Nova Aurora, Goiás
 Nova Belém
 Nova Colinas
 Nova Crixás
+Nova Dolîna, Odesa
 Nova Era
 Nova Glória
 Nova Gorica
@@ -58360,6 +58393,7 @@ Opel Rekord D
 Opel Speedster
 Opel Tigra TwinTop
 Opel Zafira
+Open 13 Provence 2023 – Simplu
 Open Directory Project
 Open Office
 Open Season (1974 film)
@@ -59116,6 +59150,7 @@ Otto of the Silver Hand
 Otto von Habsburg
 Ottobiano
 Ottobrunn
+Ottokar al III-lea de Stiria
 Ottumwa, Iowa
 Ottó Orbán
 Otus alfredi
@@ -60014,6 +60049,7 @@ Parlamentul Regatului Unit
 Parlamentul Republicii Italiene
 Parlamentul Republicii Moldova
 Parlamentul României
+Parlamentul Spaniei
 Parlamentul Sud-American
 Parlamentul cel Lung
 Parlamentul cel Scurt
@@ -61695,6 +61731,7 @@ Picătură
 Picți
 Pidberezzea, Horohiv
 Pidlisne, Litîn
+Pidlisți, Kremeneț
 Piedade de Caratinga
 Piedade de Ponte Nova
 Piedade do Rio Grande
@@ -62950,6 +62987,7 @@ Popoarele mării
 Popol Vuh
 Popor
 Poporanism
+Popova Hreblea, Cecelnîk
 Popoveane, Sofia
 Popovo, Bulgaria
 Poppleton (book - serie)
@@ -65679,6 +65717,7 @@ Raionul Ștefan Vodă
 Raiovo, Sofia
 Raise Your Voice
 Raising Arizona
+Raiske, Vilneansk
 Raiuvți, Veliko Tărnovo
 Raival
 Raja radula
@@ -67293,6 +67332,7 @@ Ridley Pearson
 Ridley Scott
 Ridvan Dibra
 Riedlingen
+Riegelsberg
 Riel-les-Eaux
 Riese Pio X
 Rietberg
@@ -68256,6 +68296,7 @@ Rousseloy
 Rousset-les-Vignes
 Roussieux
 Roussillon, Isère
+Roussillon, Vaucluse
 Roussines, Indre
 Routledge
 Rouville, Oise
@@ -68621,6 +68662,7 @@ Râul Drava
 Râul Dâlja
 Râul Dâmbovița
 Râul Emba
+Râul Enoșești
 Râul Fox (Wisconsin)
 Râul Frăsineasa
 Râul Geamărtălui
@@ -70213,6 +70255,7 @@ Saint-Sauveur, Haute-Garonne
 Saint-Sauveur, Oise
 Saint-Sauveur-Gouvernet
 Saint-Sauveur-Marville
+Saint-Sauveur-d'Aunis
 Saint-Sauveur-de-Cruzières
 Saint-Sauveur-de-Flée
 Saint-Sauveur-de-Landemont
@@ -74127,6 +74170,7 @@ Specie (biologie)
 Specie (literatură)
 Specie literară
 Specii amenințate
+Specii de proprietăți fizice echivalente
 Spectacol
 Spectroscopie
 Spectroscopie de rezonanță magnetică nucleară
@@ -77201,6 +77245,7 @@ Teodor Ghica
 Teodor Herța
 Teodor Kirilov
 Teodor Lascaris
+Teodor Manea
 Teodor Mazilu
 Teodor Moldovan (membru al Sfatului Țării)
 Teodor Neaga
@@ -82884,6 +82929,7 @@ Urs grizzly
 Urs polar
 Urseni, Timiș
 Ursitoare
+Ursoaia, Gorj
 Ursul brun
 Ursula (zeiță)
 Ursula Jeans
@@ -83264,6 +83310,7 @@ Vadu Oii
 Vadu Pașii, Buzău
 Vadu Roșca
 Vadu Roșca, Vrancea
+Vadul-Rașcov, Șoldănești
 Vae victis
 Vagabondul milionar
 Vaglia
@@ -84070,6 +84117,7 @@ Vescovana
 Vescovato, Lombardia
 Vesdun
 Veselina, Veliko Tărnovo
+Veselivka, Hrîstînivka
 Veselîi Kut, Talne
 Vesleț, Vrața
 Vesna
@@ -86830,6 +86878,7 @@ Zoia Ceaușescu
 Zoisit
 Zollernalbkreis
 Zolonceni, Criuleni
+Zolotonoșka, Drabiv
 Zoltan Erdőelvi
 Zoltán Ambrus
 Zoltán Jékely
@@ -87457,6 +87506,7 @@ video jocul
 Žvarulje
 Ș.a.m.d.
 Șabla
+Șadurka, Hadeaci
 Șafșauan
 Șag, Timiș
 Șagu, Arad
@@ -88180,6 +88230,7 @@ video jocul
 1941 în film
 1941 în științifico-fantastic
 1942 în film
+1942 în literatură
 1942 în științifico-fantastic
 1943 în film
 1943 în științifico-fantastic
@@ -89562,6 +89613,7 @@ Aaadonta fuscozonata
 Aachen
 Aalborg BK
 Aalburg
+Aalen
 Aalsmeer
 Aamulehti
 Aarau
@@ -91133,6 +91185,7 @@ Alexandru Florescu
 Alexandru G. Golescu
 Alexandru Ghika
 Alexandru Groapă
+Alexandru Hanzu
 Alexandru Hodoș (ziarist)
 Alexandru I Aldea
 Alexandru I al Iugoslaviei
@@ -91286,6 +91339,7 @@ Alfred Marshall
 Alfred Molina
 Alfred Montagne
 Alfred Neumann
+Alfred Nobel
 Alfred North Whitehead
 Alfred Noyes
 Alfred Reynolds
@@ -94513,6 +94567,7 @@ Arta medievală
 Arta romanică
 Arta romană
 Arta românească
+Arta în Botswana
 Arta în Cluj-Napoca
 Artabasdus
 Artabotrys hainanensis
@@ -96622,6 +96677,7 @@ Bazenville
 Bazian
 Bazicourt
 Bazil Marian
+Bazilica San Clemente din Roma
 Bazilica Santa Croce din Florența
 Bazilica Sf. Clara (bazilicӑ în Neapole)
 Bazilica Sfântul Petru din Roma
@@ -97741,6 +97797,7 @@ Biotină
 Biotit
 Biotop
 Bioștiințe
+Bipiramidă decagonală
 Biquinhas
 Birac-sur-Trec
 Biran, Gers
@@ -99359,6 +99416,7 @@ Bosaj
 Bosaro
 Bosch
 Bosch (serial TV)
+Bosco
 Boscănată albă
 Boscănată neagră
 Bosdarros
@@ -101900,6 +101958,7 @@ Caracas
 Caracatița 3
 Caracatiță
 Caracatiță (ingredient pentru diverse feluri de mâncare)
+Caracladus
 Caracol (Haiti)
 Caracter chinez
 Caracteristicile fizice standard ale asteroizilor
@@ -102472,6 +102531,7 @@ Casa Hintz din Cluj-Napoca
 Casa Ianov din Iași
 Casa Joseph Zoller din Iași
 Casa Köpeczi din Târgu Mureș
+Casa Manta
 Casa Matia din Cluj
 Casa Matia din Cluj-Napoca
 Casa Memorială „Constantin Negruzzi” din Trifești
@@ -102758,6 +102818,7 @@ Castelpizzuto
 Castelrotto
 Castelseprio, Lombardia
 Castelul Balmoral
+Castelul Balási din Imper
 Castelul Banloc
 Castelul Blois
 Castelul Bocskai din Aghireșu
@@ -104948,6 +105009,7 @@ Cianobacterie
 Cianură de sodiu
 Ciarda Roșie
 Ciarán Hinds
+Cibaovți, Sofia
 Cibi condimentum esse fames
 Ciboure
 Cicadellidae
@@ -106124,6 +106186,7 @@ Combinată nordică
 Comblanchien
 Combles-en-Barrois
 Combovin
+Combox Delivery
 Combrailles
 Combray
 Combre
@@ -106337,6 +106400,7 @@ Comitatul Clay, Iowa
 Comitatul Clay, Minnesota
 Comitatul Clay, Mississippi
 Comitatul Clayton, Iowa
+Comitatul Clear Creek, Colorado
 Comitatul Clearwater, Minnesota
 Comitatul Cleveland, Carolina de Nord
 Comitatul Clinton, Iowa
@@ -107656,6 +107720,7 @@ Comuna Litija
 Comuna Livezile, Timiș
 Comuna Lišane Ostrovičke
 Comuna Ližnjan
+Comuna Lișciîn
 Comuna Ljubešćica
 Comuna Ljubno
 Comuna Ljutomer
@@ -114231,6 +114296,7 @@ Dumitru Beznea
 Dumitru Brătianu
 Dumitru Burlan
 Dumitru Caracostea
+Dumitru Coliu
 Dumitru Combiescu
 Dumitru Dediu
 Dumitru Dron
@@ -114466,6 +114532,7 @@ East of Eden (film)
 East of Suez (film)
 Eastbourne International
 Easter Parade (1948 film)
+Eastercon
 Eastern Conference (NHL)
 Eastern Promises
 Eastern Ridges and Lowlands
@@ -115389,6 +115456,7 @@ Emeric Lackfi
 Emeric Pressburger
 Emerson Electric Company
 Emerson Fittipaldi
+Emi Maeda
 Emigrant
 Emigrantul (film)
 Emil Boc
@@ -119983,6 +120051,7 @@ Gary Shipman
 Gary Sinise
 Garysburg, North Carolina
 Garé, Baranya
+Gară (dezambiguizare)
 Gas and Air (film)
 Gas, Eure-et-Loir
 Gascogne
@@ -120361,6 +120430,7 @@ Geologia planetelor solare terestre
 Geologie
 Geolycosa hubbelli
 Geolycosa impudica
+Geometria diferențială a curbelor
 Geometrie
 Geometrie algebrică
 Geometrodinamică
@@ -120556,6 +120626,7 @@ Georgeta Stoica
 Georgeta Știrbu
 Georgetown
 Georgetown, Carolina de Sud
+Georghi R. Gongadze
 Georgi Asparuhov Stadium
 Georgia
 Georgia (stat american)
@@ -123868,6 +123939,7 @@ Herpes
 Herpont
 Herpsilochmus parkeri
 Herran
+Herre (localitate)
 Herrera de Alcántara
 Herreruela
 Herry
@@ -124545,6 +124617,7 @@ Hrib pri Orehku
 Hristo Misirkov
 Hristo Zlatinski
 Hristovți, Veliko Tărnovo
+Hroziv, Ostroh
 Hrubá Borša
 Hrubý Šúr
 Hrušica, Novo mesto
@@ -125323,6 +125396,7 @@ Ilustrator (profesie)
 Ilva Mică, Bistrița-Năsăud
 Imagenation Abu Dhabi
 Images (film)
+Imaginaerum
 Imaginary Friend (Star Trek: Generația următoare)
 Imagine
 Imagine Entertainment
@@ -127943,6 +128017,7 @@ Joan Aiken
 Joan And Peter
 Joan Barry
 Joan Barry (actriță americană)
+Joan Brossa
 Joan Chen
 Joan Didion
 Joan Fontaine
@@ -129382,6 +129457,7 @@ Karlsruhe (district)
 Karlsruhe (regiune)
 Karma Revero
 Karma, Niger
+Karmin
 Karna
 Karnobat
 Karofane
@@ -132737,6 +132813,7 @@ Lică Nunweiller
 Lidia (stat)
 Lidia Arionescu-Baillayre
 Lidia Buble
+Lidianópolis
 Liechtenstein
 Lieksa
 Lieoux
@@ -133206,6 +133283,7 @@ Liran Liany
 Lirceus usdagalun
 Lirey
 Lirio
+Liriomyza flavocentralis
 Liriomyza heringi
 Liră din Insulele Falkland
 Liră sterlină
@@ -139319,6 +139397,7 @@ Meduna di Livenza
 Medusa
 Meduza (mitologie slavă)
 Meek Mill
+Meerlo-Wanssum
 Meet Bill
 Meet Dave
 Meet John Doe
@@ -140494,6 +140573,7 @@ Ministerul Apărării Naționale Chineze
 Ministerul Culturii (România)
 Ministerul Culturii și Patrimoniului Național (România)
 Ministerul Culturii, Cultelor și Patrimoniului Național
+Ministerul Educației (Chile)
 Ministerul Educației Naționale
 Ministerul Educației, Cercetării și Inovării
 Ministerul Finanțelor Publice (România)
@@ -142640,6 +142720,7 @@ Măcelar
 Măceș
 Măcin
 Măcărești, Alba
+Mădrigești, Arad
 Mădălina Drăghici
 Mădălina Ghițescu
 Măgdăcești, Criuleni
@@ -148383,6 +148464,7 @@ Peggy Sue Got Married
 Pegli
 Pegmatit
 Pegognaga
+Pegomya bina
 Pehart Tec Petrești
 Peigney
 Peikovți, Veliko Tărnovo
@@ -149268,6 +149350,7 @@ Physophorina livingstonii
 Physophorina miranda
 Phytoliriomyza tearohensis
 Phytomyza
+Phytomyza gelida
 Phytomyza himachali
 Phytomyza manni
 Phytomyza xanthocephala
@@ -149377,6 +149460,7 @@ Picătură
 Picți
 Pidberezzea, Horohiv
 Pidlisne, Litîn
+Pidlisți, Kremeneț
 Piedade de Caratinga
 Piedade de Ponte Nova
 Piedade do Rio Grande
@@ -150632,6 +150716,7 @@ Popoarele mării
 Popol Vuh
 Popor
 Poporanism
+Popova Hreblea, Cecelnîk
 Popoveane, Sofia
 Popovo, Bulgaria
 Poppleton (book - serie)
@@ -153283,6 +153368,7 @@ Raion
 Raionul Anenii Noi
 Raionul Asparuhovo (Varna)
 Raionul Baștanka, Mîkolaiiv
+Raionul Berdeansk, Zaporijjea
 Raionul Bereg, Transcarpatia
 Raionul Borzna, Cernihiv
 Raionul Briceni
@@ -153361,6 +153447,7 @@ Raionul Ștefan Vodă
 Raiovo, Sofia
 Raise Your Voice
 Raising Arizona
+Raiske, Vilneansk
 Raiuvți, Veliko Tărnovo
 Raival
 Raja radula
@@ -155939,6 +156026,7 @@ Rousseloy
 Rousset-les-Vignes
 Roussieux
 Roussillon, Isère
+Roussillon, Vaucluse
 Roussines, Indre
 Routledge
 Rouville, Oise
@@ -157897,6 +157985,7 @@ Saint-Sauveur, Haute-Garonne
 Saint-Sauveur, Oise
 Saint-Sauveur-Gouvernet
 Saint-Sauveur-Marville
+Saint-Sauveur-d'Aunis
 Saint-Sauveur-de-Cruzières
 Saint-Sauveur-de-Flée
 Saint-Sauveur-de-Landemont
@@ -158899,6 +158988,7 @@ Satire
 Satiră
 Satmar (școală rabinică)
 Satriano
+Satteldorf
 Satu Mare
 Satu Nou, Brașov
 Satubinha
@@ -159153,6 +159243,7 @@ Scheloribatidae
 Schemmerhofen
 Schemă (matematică)
 Schemă Ponzi
+Schenkenberg (Uckermark)
 Scheuern
 Schi acrobatic
 Schi alpin
@@ -160224,6 +160315,7 @@ Sfânta Muceniță Filofteia de la Argeș
 Sfânta Scriptură
 Sfânta Sâmbătă
 Sfânta Treime
+Sfânta Veronica
 Sfânta Vineri
 Sfântu Gheorghe
 Sfântu Gheorghe, Mureș
@@ -164886,6 +164978,7 @@ Teodor Ghica
 Teodor Herța
 Teodor Kirilov
 Teodor Lascaris
+Teodor Manea
 Teodor Mazilu
 Teodor Moldovan (membru al Sfatului Țării)
 Teodor Neaga
@@ -170950,6 +171043,7 @@ Vadu Oii
 Vadu Pașii, Buzău
 Vadu Roșca
 Vadu Roșca, Vrancea
+Vadul-Rașcov, Șoldănești
 Vae victis
 Vagabondul milionar
 Vaglia
@@ -171756,6 +171850,7 @@ Vescovana
 Vescovato, Lombardia
 Vesdun
 Veselina, Veliko Tărnovo
+Veselivka, Hrîstînivka
 Veselîi Kut, Talne
 Vesleț, Vrața
 Vesna
@@ -172712,6 +172807,7 @@ Voce (vocea umană ca instrument muzical)
 Voce de cap
 Voce de piept
 Vocea Americii
+Vocea Basarabiei
 Vocea umană
 Vocea umană (film)
 Vodable
@@ -174456,6 +174552,7 @@ Ziegfeld Follies of 1943
 Ziegfeld Girl (film)
 Zielona Góra
 ZigZag (film)
+Zile de fior și râs
 Zile fierbinți
 Zilele Turbinilor
 Zilele Turbinilor (film)
@@ -174516,6 +174613,7 @@ Zoia Ceaușescu
 Zoisit
 Zollernalbkreis
 Zolonceni, Criuleni
+Zolotonoșka, Drabiv
 Zoltan Erdőelvi
 Zoltán Ambrus
 Zoltán Jékely
@@ -175143,6 +175241,7 @@ video jocul
 Žvarulje
 Ș.a.m.d.
 Șabla
+Șadurka, Hadeaci
 Șafșauan
 Șag, Timiș
 Șagu, Arad

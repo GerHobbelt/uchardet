@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Gornje Stative
-Matija Čigir
-Nagrada Jacka Adamsa
-Putovnica Lihtenštajna
-Crveni Krst
-Pridjevi
-Vostok 2
-Rudeš
-Žnj
-Panorama
-Fujiwara no Tadahira
-The New Scooby and Scrappy Doo Show
-Pirovanje
-Promet Bugarske
-7. stoljeće pr. Kr.
-Berislav Klobučar
-Zora Preradović
-Yong Ji
-Ivan Žic Rokov
-Konrad von Gossler
-Područna nogometna liga NSP Vinkovci 1974./75.
-Veli Školj (Pelješac)
-Rudolf Hitrec
-Telegrafska agencija nove Jugoslavije
-The Toxic Waltz
-Demetrije Srijemski
-Bálint Magyar de Palona
-Timoteo Crnković
-Živo vapno
-Gale
+1. B HOL za žene 2021./22.
+Bowie, Arizona
+Kup Krešimira Ćosića
+Privala
+Nogometno prvenstvo Bosne i Hercegovine – 3. ligaški rang 2007./08.
+Trnje
+Bee Gees Greatest
+Gornja Višnjica (Zenica, BiH)
+Morrison Hotel
+Amenemhat I.
+Vuksani
+Pleš
+Muslimanski oslobodilački pokret
+Elizabeta od Saint-Pola
+Srednji Poloj
+Glavata patka
+Austrijska dvorska kancelarija
+Siarnaq (mjesec)
+NGC 2951
+Bartol Petrić
+Opatija
+Melville (otok)
+Vrač pogađač
+Ante Alberti
+NGC 5375
+Barbeta
+Henrik I., njemački kralj
+Pteranodon
+H1N1
+Ložnice (Primošten)
 "Glass cockpit" pilotska kabina
 (457175) 2008 GO98
 (Anthony Burgess's) New York
@@ -105,6 +105,7 @@ Gale
 1. B HNL 1995./96.
 1. B HNL 1996./97.
 1. B HRL 1991./92.
+1. B HRL za žene 1995./96.
 1. FC Kaiserslautern
 1. FC Köln
 1. FC Magdeburg
@@ -2426,6 +2427,7 @@ Abu Ubajd Bakri
 Abu Zajd Balhi
 Abu jezik
 Abu' arapesh jezik
+Abudefduf concolor
 Abui jezik
 Abul Fateh Sultan Moez od-din Bahram Mirza
 Abul Gazi Sultan Alkas Mirza
@@ -2729,6 +2731,7 @@ Aerosmith Video Scrapbook
 Aerosol
 Aerosteon
 Aerotitan
+Aervinae
 Aesculus
 Aesculus sylvatica
 Aesiotyche
@@ -4781,6 +4784,7 @@ Antonio Di Natale
 Antonio Durazz
 Antonio José Cavanilles
 Antonio Krapovickas
+Antonio Lussich
 Antonio Mateu
 Antonio Mateu Lahoz
 Antonio McDyess
@@ -7068,6 +7072,7 @@ Beriev Be-2500
 Berilij
 Berinomo jezik
 Berislav Džaja
+Berislav Klobučar
 Berislav Šipuš
 Berislavec
 Berislavići Grabarski
@@ -7455,6 +7460,7 @@ Bilo (Cetingrad)
 Bilo Polje
 Bilogorska narodna nošnja
 Biloslav Ljubunčić
+Bilten MZ Jagodnjak
 Bima jezik
 Bima-Sumba jezici
 Bimetal
@@ -9484,6 +9490,7 @@ Byron Stroud
 Byung-Hoon Kim
 Bzenec
 Bzenica
+Bálint Magyar de Palona
 Bárbara Hechavarría
 Bârsău
 Bénédict Pierre Georges Hochreutiner
@@ -9656,6 +9663,7 @@ Calybistum
 Calycibidion
 Calydon
 Cam Gigandet
+Cam Pipes
 Cambridge
 Cambridge History of Iran
 Cambridge University Press
@@ -11720,6 +11728,7 @@ Crvena zvjezdača
 Crvene alge
 Crvene beretke
 Crveni Gelao jezik
+Crveni Krst
 Crveni klokan
 Crveni križ
 Crveni patuljak
@@ -11985,6 +11994,7 @@ Dagon
 Dah smrti
 Dahalik jezik
 Dahalo jezik
+Dahlak
 Daibutsu
 Daigo
 Daijiro Kato
@@ -12630,6 +12640,7 @@ Demetra
 Demetrij Čupor Moslavački
 Demetrije II. Aleksandrijski
 Demetrije II. Paleolog
+Demetrije Srijemski
 Demi Moore
 Demigod
 Demitrij
@@ -13789,6 +13800,7 @@ Donja Rašenica
 Donja Reka
 Donja Rovna
 Donja Ržanica
+Donja Sestrica
 Donja Stubica
 Donja Stupnica
 Donja Suvaja
@@ -14660,6 +14672,7 @@ Dubravice (Konjic, BiH)
 Dubravice (Skradin)
 Dubravka
 Dubravka (Konavle)
+Dubravka Marković
 Dubravka Munjas
 Dubravka Oraić Tolić
 Dubravka Ugrešić
@@ -14710,6 +14723,7 @@ Dugo Selo Lukačko
 Dugobabe
 Dugokosi Lachi
 Dugopolje
+Dugorepa tuna
 Dugovalno zračenje Zemlje
 Dugovratke
 Dugwor jezik
@@ -14910,6 +14924,7 @@ Dárvin Chávez
 Dâmbovița (županija)
 Désiré-Joseph Mercier
 Dôme de Rochefort
+Dörflingen
 Düsseldorf
 Düzce (pokrajina)
 Džafar-han Zand
@@ -14968,6 +14983,7 @@ E.N.I.
 E.T. (pjesma)
 E.T. the Extra-Terrestrial
 EAS Airlines
+EBay (pjesma)
 ECDLBOX
 EHF Liga prvaka 2009./10.
 EICMA
@@ -18172,6 +18188,7 @@ Fuchu
 Fuck You (Dr. Dre)
 Fuck wit Dre Day (And Everybody's Celebratin')
 Fujian
+Fujiwara no Tadahira
 Fulani
 Fulda (okrug)
 Fuleren
@@ -18360,6 +18377,7 @@ Galaktičko središte
 Galaktičko vlakno
 Galambu jezik
 Galanta (grad)
+Galantni stil
 Galatasaray Café Crown
 Galatasaray SK
 Galaxy OS
@@ -18607,6 +18625,7 @@ Gems (album)
 Gemylus
 Gen-ichi Koidzumi
 Gena Dimitrova
+Genadije I. Konstantinopolski
 Gencije
 Gene Hackman
 Gene Hoglan
@@ -19504,6 +19523,7 @@ Gordana Benić
 Gordana Boban
 Gordana Džepina
 Gordana Gadžić
+Gordana Ostović
 Gordana Škorić
 Gordijan I.
 Gordijan II.
@@ -19708,6 +19728,7 @@ Gornje Rovišće
 Gornje Selište
 Gornje Selo (Zavidovići, BiH)
 Gornje Sitno
+Gornje Stative
 Gornje Taborište (Slunj)
 Gornje Utore
 Gornje Višnjevice
@@ -19744,6 +19765,7 @@ Gornji Korićani
 Gornji Korićani (Skender Vakuf, BiH)
 Gornji Korićani (Travnik, BiH)
 Gornji Kosinj
+Gornji Kot
 Gornji Kovačići
 Gornji Kraljevec (Vratišinec)
 Gornji Kuršanec
@@ -21487,6 +21509,7 @@ Herkulanej
 Herkulanejski papirusi
 Herkules
 Herkulov toranj
+Herlong (Kalifornija)
 Herma Pastir
 Herman Boerhaave
 Herman Bollé
@@ -22933,6 +22956,7 @@ HŠK Velebit Karlovac
 HŠK Zrinjski Mostar
 I Almost Do (pjesma Taylor Swift)
 I Am Because We Are
+I Am the Night
 I Believe in You (pjesma Kylie Minogue)
 I Bet You Think About Me
 I Did Something Bad (pjesma Taylor Swift)
@@ -23169,6 +23193,7 @@ Igor Rogulja
 Igor Stravinski
 Igor Trandenkov
 Igor Tudor
+Igor Turčin
 Igor Vori
 Igor Zidić
 Igor de Camargo
@@ -23472,6 +23497,7 @@ Inklinacija orbite
 Inkubacija (medicina)
 Inkvizicija
 Inkvizicija u Nizozemskoj
+Inkvizitorski odred
 Inland Gulf jezici
 Inn i evighetens mørke
 Inno Nazionale della Repubblica
@@ -24225,6 +24251,7 @@ Ivan Šuker
 Ivan Šunjić
 Ivan Šuprina
 Ivan Švear
+Ivan Žic Rokov
 Ivan, rimski car
 Ivana Banfić
 Ivana Boban
@@ -24691,6 +24718,7 @@ Jakov Zadranin
 Jakovlje
 Jakovljev YAK-42D
 Jakub Safari
+Jakub Szynkiewicz
 Jakut al-Hamavi
 Jakutija
 Jakutski
@@ -28615,6 +28643,7 @@ Konrad Laimer
 Konrad Lorenz
 Konrad Miller
 Konrad Mägi
+Konrad von Gossler
 Konsenzus
 Konso
 Konso jezik
@@ -29419,6 +29448,7 @@ Krašić
 Kraška vas
 Kraško vrelo
 Krašnji Vrh
+Krašči
 Krbava
 Krbavska bitka
 Krbavčići
@@ -31396,6 +31426,7 @@ Litchfield (Illinois)
 Literarni kineski
 Lithargyrus
 Lithodryas
+Lithosperminae
 Litij
 Lito ide mala
 Litopus
@@ -34083,6 +34114,7 @@ Matija Petar Katančić
 Matija Rukavina
 Matija Vlačić Ilirik
 Matija Zmajević
+Matija Čigir
 Matijaš Korvin
 Matijaši
 Matina
@@ -34550,6 +34582,7 @@ Mephritus
 Mer Hayrenik
 Meraban
 Mercatorova projekcija
+Mercedes
 Mercedes Margalot
 Mercedes-Benz
 Mercury Records
@@ -34800,6 +34833,7 @@ Međunarodni kod botaničkog nazivlja
 Međunarodni maraton Sava: Brežice - Zagreb
 Međunarodni odbor za taksonomiju virusa
 Međunarodni odnosi Hrvatske
+Međunarodni pakt o građanskim i političkim pravima
 Međunarodni plivački miting Mladost
 Međunarodni stadion Khalifa
 Međunarodni stadion u Yokohami
@@ -35087,6 +35121,7 @@ Mihovil VI. Aleksandrijski
 Mihovil Španja
 Mihovljan
 Mihovljan (Čakovec)
+Mihrab
 Mihran Damadian
 Mija Aleksić
 Mijaca
@@ -35284,6 +35319,7 @@ Milivojevci
 Milići
 Milja
 Miljacka
+Miljacka (razdvojba)
 Miljana
 Miljanovac
 Miljanovci (Tešanj, BiH)
@@ -36844,6 +36880,7 @@ NCAA Divizija III
 NCAA Football
 NCSA Mosaic
 NE Bušeher
+NFL sezona 2001.
 NGC 1000
 NGC 1001
 NGC 1002
@@ -37312,6 +37349,7 @@ NGC 2189
 NGC 2190
 NGC 2191
 NGC 2192
+NGC 2322
 NGC 2466
 NGC 2472
 NGC 2473
@@ -37364,6 +37402,7 @@ NGC 2519
 NGC 2520
 NGC 2521
 NGC 2584
+NGC 2624
 NGC 3025
 NGC 3122
 NGC 3123
@@ -39449,6 +39488,7 @@ NGC 6057
 NGC 6086
 NGC 6185
 NGC 6186
+NGC 6192
 NGC 6330
 NGC 6357
 NGC 6400
@@ -39913,6 +39953,7 @@ NGC 708
 NGC 709
 NGC 710
 NGC 711
+NGC 7119
 NGC 712
 NGC 713
 NGC 714
@@ -41804,6 +41845,7 @@ New York Rangers
 New York Times
 New York Yankees
 New York, New York
+New York, New York (1977.)
 New York, New York (Tha Dogg Pound)
 New Yorker
 New Zealand Music Awards
@@ -42544,6 +42586,7 @@ Novac
 Novac (Ub, Srbija)
 Novacijan, protupapa
 Novaeglaucytes
+Novak (televizijska serija)
 Novak Novak
 Novak Simić
 Novak Đoković
@@ -43047,6 +43090,7 @@ Odbojka na OI 1980.
 Odbojka na OI 2000.
 Odbojka na OI 2020.
 Odbojkaško prvenstvo Jugoslavije 1970./71.
+Odbojnik
 Oddities and Rarities
 Odesa
 Odetta
@@ -47084,6 +47128,7 @@ Piroloza
 Pirot (općina)
 Pirotehnika
 Pirovac
+Pirovanje
 Piruanycha
 Piruapsis
 Piruauna
@@ -47526,6 +47571,7 @@ Podlug
 Podlug (Benkovac)
 Podmilačje
 Podmornica
+Podmornice klase Invincible
 Podmornice klase Yushio
 Podmurvice
 Podnart
@@ -47565,6 +47611,7 @@ Podrinjska oblast
 Podripci
 Podrumi Dioklecijanove palače
 Podrute
+Područna nogometna liga NSP Vinkovci 1974./75.
 Područne nogometne lige Republike Srpske
 Podrvanj
 Podsljeme
@@ -48981,6 +49028,7 @@ Pridjel
 Pridjel Donji
 Pridjel Gornji
 Pridjev
+Pridjevi
 Pridnjestrovska Moldavska Republika
 Pridraga
 Pridražići
@@ -49284,6 +49332,7 @@ Prolog (Livno, BiH)
 Promeces
 Promecidus
 Promet
+Promet Bugarske
 Promet Crne Gore
 Promet Francuske
 Promet Hrvatske
@@ -50150,6 +50199,7 @@ Putovići
 Putovičko Polje
 Putovnica
 Putovnica Francuske
+Putovnica Lihtenštajna
 Putovnica Narodne Republike Kine
 Putovnica Sjedinjenih Američkih Država
 Putovnica Turske
@@ -52139,6 +52189,7 @@ Rude Awakening (Megadeth album)
 Rude Awakening (Megadethov album)
 Rude Boy
 Rude Pribićke
+Rudeš
 Rudina
 Rudine (Glamoč, BiH)
 Rudivirus
@@ -52200,6 +52251,7 @@ Rukatac Smokvica
 Rukavac
 Rukavac (Matulji)
 Rukomet
+Rukomet na Mediteranskim igrama
 Rukomet na OI 2008. – muškarci
 Rukomet na OI 2020.
 Rukometna reprezentacija ZND-a
@@ -54810,6 +54862,7 @@ Songhai
 Songhai jezici
 Songova knjiga
 Songs And Music From "She's The One"
+Songs of Leonard Cohen
 Songs of Our Soil
 Songs to No One 1991-1992
 Songshan
@@ -55193,6 +55246,7 @@ Sposoban pomorac
 Spotify
 Spotify Singles
 Spotlight
+Spremnost (Zagreb)
 Spreča
 Springerville, Arizona
 Springfield Armor
@@ -56266,6 +56320,7 @@ Suceava (grad)
 Suceava (županija)
 Sucedió en Jalisco (Los cristeros)
 Sud Aviation Caravelle
+Sud Europske unije
 Sudan
 Sudan Airways
 Sudanski arapski
@@ -56833,6 +56888,7 @@ Sveučilište u Mostaru
 Sveučilište u Napulju
 Sveučilište u Oxfordu
 Sveučilište u Parizu 8
+Sveučilište u Pekingu
 Sveučilište u Rijeci
 Sveučilište u Sarajevu
 Sveučilište u Slavonskom Brodu
@@ -57373,6 +57429,7 @@ Tambusoides
 Tamenes
 Tamika Smith
 Tamilski jezik
+Tamilski nacionalizam
 Tamiška županija
 Tamki jezik
 Tamna maglica
@@ -57630,6 +57687,7 @@ Teledapus
 Telefaks
 Telefon
 Telegraf
+Telegrafska agencija nove Jugoslavije
 Telegram (novine)
 Telegram (portal)
 Telekomunikacija
@@ -58132,6 +58190,7 @@ The National
 The New Batman Adventures
 The New England Journal of Medicine
 The New Mickey Mouse Club
+The New Scooby and Scrappy Doo Show
 The New York Times
 The Newsroom
 The Next Episode
@@ -58292,6 +58351,7 @@ The Tenants
 The Time (The Dirty Bit)
 The Times
 The Times of India
+The Toxic Waltz
 The Trilogie – Three Journeyes Through the Norwegian Netherworlde
 The Trouble with Love Is
 The Ultimate Collection (Madonna)
@@ -58335,6 +58395,7 @@ The platinum collection (Mišo)
 The-Dream
 Thecladoris
 Thecodontosaurus
+Their Greatest Hits: The Record
 Thekla Resvoll
 Thelema.6
 Thelgetra
@@ -58620,6 +58681,7 @@ Timotej
 Timotej I. Aleksandrijski
 Timotej II. Aleksandrijski
 Timotej III. Aleksandrijski
+Timoteo Crnković
 Timothy Hutton
 Timothy Marx
 Timothy Weah
@@ -58776,6 +58838,7 @@ Todor Živanović
 Todor Živkov
 Todorovići
 Todraž
+Tofildijevke
 Togoanska nogometna reprezentacija
 Togrul
 Togrul I.
@@ -59199,6 +59262,7 @@ Transgression
 Transhumanizam
 Transilvanian Hunger
 Transilvanija
+Transilvanska ravnica
 Transipochira
 Transkripcija
 Translation (album)
@@ -61021,6 +61085,7 @@ Velež (jezero)
 Veli Brgud
 Veli Dol
 Veli Iž
+Veli Školj (Pelješac)
 Velibor Vasović
 Velika
 Velika Arkana
@@ -61670,6 +61735,7 @@ Viossatus
 Vir (Dol, Stari Grad)
 Vir (Posušje, BiH)
 Vir (Zadarska županija)
+Viralni marketing
 Virgil van Dijk
 Virgin Atlantic Airways
 Virgin Records
@@ -62132,6 +62198,7 @@ Vorskla Poltava
 Vorticizam
 Vosak
 Vosges
+Vostok 2
 Votjački
 Votjački jezik
 Votski
@@ -63632,6 +63699,7 @@ Yoko Ono
 Yokohama
 Yokohama Flügels
 Yolaysis Trujillo
+Yong Ji
 Yong-Bae Kim
 Yong-Sook Park
 Yonggom jezik
@@ -64357,6 +64425,7 @@ Zelenortska Republika
 Zelin Crnoluški
 Zelin Mrzlovodički
 Zelinje
+Zeljaste biljke
 Zelkova carpinifolia
 Zelliboria
 Zelmo Beaty
@@ -64719,6 +64788,7 @@ Zoološki muzej u Napulju
 Zoološki vrt grada Zagreba
 Zooplankton
 Zootropola
+Zora Preradović
 Zora Čeko
 Zoran Bojović
 Zoran Bujas
@@ -66166,6 +66236,7 @@ zvono
 Živko Ljubojević
 Živkovci
 Živkovići
+Živo vapno
 Živorad Jevtić
 Živorad Kovačević
 Život
@@ -66193,6 +66264,7 @@ zvono
 Žiškovec
 Žlahtina
 Žlahtina Toljanić
+Žlebec
 Žlebec Gorički
 Žlebec Pušćanski
 Žlebina
@@ -67534,7 +67606,9 @@ zvono
 1,500 animal species practice homosexuality. The Medical News, 23. listopada 2006
 1. B HNL 1995./96.
 1. B HNL 1996./97.
+1. B HOL za žene 2021./22.
 1. B HRL 1991./92.
+1. B HRL za žene 1995./96.
 1. FC Kaiserslautern
 1. FC Köln
 1. FC Magdeburg
@@ -69856,6 +69930,7 @@ Abu Ubajd Bakri
 Abu Zajd Balhi
 Abu jezik
 Abu' arapesh jezik
+Abudefduf concolor
 Abui jezik
 Abul Fateh Sultan Moez od-din Bahram Mirza
 Abul Gazi Sultan Alkas Mirza
@@ -70159,6 +70234,7 @@ Aerosmith Video Scrapbook
 Aerosol
 Aerosteon
 Aerotitan
+Aervinae
 Aesculus
 Aesculus sylvatica
 Aesiotyche
@@ -71407,6 +71483,7 @@ Amedeo Modigliani
 Amele jezik
 Amen (band)
 Amen break
+Amenemhat I.
 Amer Gojak
 Amerax jezik
 America
@@ -72036,6 +72113,7 @@ Antares
 Antarktik
 Antarktička struja
 Antawn Jamison
+Ante Alberti
 Ante Antić
 Ante Barač
 Ante Božić
@@ -72211,6 +72289,7 @@ Antonio Di Natale
 Antonio Durazz
 Antonio José Cavanilles
 Antonio Krapovickas
+Antonio Lussich
 Antonio Mateu
 Antonio Mateu Lahoz
 Antonio McDyess
@@ -73276,6 +73355,7 @@ Austria Klagenfurt
 Austrija
 Austrijanci
 Austrijska Bundesliga
+Austrijska dvorska kancelarija
 Austrijska nogometna Bundesliga
 Austrijska nogometna reprezentacija
 Austrijska Šleska
@@ -73945,6 +74025,7 @@ Barbarine toplice
 Barbarići
 Barbarothea
 Barbat na Rabu
+Barbeta
 Barbicornis basilis
 Barbra Streisand
 Barcarola
@@ -74026,6 +74107,7 @@ Barthélemy Charles Joseph Dumortier
 Bartol Bonino
 Bartol Felbinger
 Bartol Kačić Žarković
+Bartol Petrić
 Bartolomej, zagrebački biskup
 Bartolomejska noć
 Bartolomeo Maranta
@@ -74264,6 +74346,7 @@ Beds in the East
 Bedtime Stories
 Bedtime Story
 Beduini
+Bee Gees Greatest
 Beele jezik
 Beerscheba
 Beffroi
@@ -74886,6 +74969,7 @@ Bilo (Cetingrad)
 Bilo Polje
 Bilogorska narodna nošnja
 Biloslav Ljubunčić
+Bilten MZ Jagodnjak
 Bima jezik
 Bima-Sumba jezici
 Bimetal
@@ -75878,6 +75962,7 @@ Boutros Boutros-Ghali
 Bouyerus
 Bović
 Bow Wow (That's My Name)
+Bowie, Arizona
 Box Office Mojo
 Box of Fire
 Boy bend
@@ -77088,6 +77173,7 @@ Calybistum
 Calycibidion
 Calydon
 Cam Gigandet
+Cam Pipes
 Cambridge
 Cambridge History of Iran
 Cambridge University Press
@@ -79418,6 +79504,7 @@ Dagon
 Dah smrti
 Dahalik jezik
 Dahalo jezik
+Dahlak
 Daibutsu
 Daigo
 Daijiro Kato
@@ -81223,6 +81310,7 @@ Donja Rašenica
 Donja Reka
 Donja Rovna
 Donja Ržanica
+Donja Sestrica
 Donja Stubica
 Donja Stupnica
 Donja Suvaja
@@ -82094,6 +82182,7 @@ Dubravice (Konjic, BiH)
 Dubravice (Skradin)
 Dubravka
 Dubravka (Konavle)
+Dubravka Marković
 Dubravka Munjas
 Dubravka Oraić Tolić
 Dubravka Ugrešić
@@ -82144,6 +82233,7 @@ Dugo Selo Lukačko
 Dugobabe
 Dugokosi Lachi
 Dugopolje
+Dugorepa tuna
 Dugovalno zračenje Zemlje
 Dugovratke
 Dugwor jezik
@@ -82344,6 +82434,7 @@ Dárvin Chávez
 Dâmbovița (županija)
 Désiré-Joseph Mercier
 Dôme de Rochefort
+Dörflingen
 Düsseldorf
 Düzce (pokrajina)
 Džafar-han Zand
@@ -82402,6 +82493,7 @@ E.N.I.
 E.T. (pjesma)
 E.T. the Extra-Terrestrial
 EAS Airlines
+EBay (pjesma)
 ECDLBOX
 EHF Liga prvaka 2009./10.
 EICMA
@@ -82935,6 +83027,7 @@ Elizabeta II.
 Elizabeta Kotromanić
 Elizabeta Luksemburška
 Elizabeta Pjastović
+Elizabeta od Saint-Pola
 Elizabetansko doba
 Elizabeth Anscombe
 Elizabeth Banks
@@ -85795,6 +85888,7 @@ Galaktičko središte
 Galaktičko vlakno
 Galambu jezik
 Galanta (grad)
+Galantni stil
 Galatasaray Café Crown
 Galatasaray SK
 Galaxy OS
@@ -86042,6 +86136,7 @@ Gems (album)
 Gemylus
 Gen-ichi Koidzumi
 Gena Dimitrova
+Genadije I. Konstantinopolski
 Gencije
 Gene Hackman
 Gene Hoglan
@@ -86561,6 +86656,7 @@ Glavaca
 Glavace
 Glavani
 Glavat (Lastovo)
+Glavata patka
 Glavati
 Glavatičevo
 Glavatičići
@@ -86939,6 +87035,7 @@ Gordana Benić
 Gordana Boban
 Gordana Džepina
 Gordana Gadžić
+Gordana Ostović
 Gordana Škorić
 Gordijan I.
 Gordijan II.
@@ -87180,6 +87277,7 @@ Gornji Korićani
 Gornji Korićani (Skender Vakuf, BiH)
 Gornji Korićani (Travnik, BiH)
 Gornji Kosinj
+Gornji Kot
 Gornji Kovačići
 Gornji Kraljevec (Vratišinec)
 Gornji Kuršanec
@@ -88826,6 +88924,7 @@ Henrik Bernard Oldenland
 Henrik Carl Peter Dam
 Henrik Degen
 Henrik I. (nadbiskup Mainza)
+Henrik I., njemački kralj
 Henrik II., francuski kralj
 Henrik IV., car Svetog Rimskog Carstva
 Henrik IV., kralj Francuske
@@ -88923,6 +89022,7 @@ Herkulanej
 Herkulanejski papirusi
 Herkules
 Herkulov toranj
+Herlong (Kalifornija)
 Herma Pastir
 Herman Boerhaave
 Herman Bollé
@@ -90369,6 +90469,7 @@ HŠK Velebit Karlovac
 HŠK Zrinjski Mostar
 I Almost Do (pjesma Taylor Swift)
 I Am Because We Are
+I Am the Night
 I Believe in You (pjesma Kylie Minogue)
 I Bet You Think About Me
 I Did Something Bad (pjesma Taylor Swift)
@@ -90605,6 +90706,7 @@ Igor Rogulja
 Igor Stravinski
 Igor Trandenkov
 Igor Tudor
+Igor Turčin
 Igor Vori
 Igor Zidić
 Igor de Camargo
@@ -90908,6 +91010,7 @@ Inklinacija orbite
 Inkubacija (medicina)
 Inkvizicija
 Inkvizicija u Nizozemskoj
+Inkvizitorski odred
 Inland Gulf jezici
 Inn i evighetens mørke
 Inno Nazionale della Repubblica
@@ -92128,6 +92231,7 @@ Jakov Zadranin
 Jakovlje
 Jakovljev YAK-42D
 Jakub Safari
+Jakub Szynkiewicz
 Jakut al-Hamavi
 Jakutija
 Jakutski
@@ -96857,6 +96961,7 @@ Krašić
 Kraška vas
 Kraško vrelo
 Krašnji Vrh
+Krašči
 Krbava
 Krbavska bitka
 Krbavčići
@@ -97421,6 +97526,7 @@ Kup Hrvatske u nogometu za kadete
 Kup Hrvatske u nogometu za pionire
 Kup Jugoslavije u košarci
 Kup Jugoslavije u nogometu
+Kup Krešimira Ćosića
 Kup Nogometnog saveza Zadarske županije 2016./17.
 Kup Nogometnog saveza Županije Splitsko-dalmatinske
 Kup Radivoja Koraća
@@ -98834,6 +98940,7 @@ Litchfield (Illinois)
 Literarni kineski
 Lithargyrus
 Lithodryas
+Lithosperminae
 Litij
 Lito ide mala
 Litopus
@@ -101936,6 +102043,7 @@ Melodija
 Melodije Mostara
 Meloemorpha
 Melun
+Melville (otok)
 Melvin Patton
 Melvin Purvis
 Melvin Schwartz
@@ -101989,6 +102097,7 @@ Mephritus
 Mer Hayrenik
 Meraban
 Mercatorova projekcija
+Mercedes
 Mercedes Margalot
 Mercedes-Benz
 Mercury Records
@@ -102239,6 +102348,7 @@ Međunarodni kod botaničkog nazivlja
 Međunarodni maraton Sava: Brežice - Zagreb
 Međunarodni odbor za taksonomiju virusa
 Međunarodni odnosi Hrvatske
+Međunarodni pakt o građanskim i političkim pravima
 Međunarodni plivački miting Mladost
 Međunarodni stadion Khalifa
 Međunarodni stadion u Yokohami
@@ -102526,6 +102636,7 @@ Mihovil VI. Aleksandrijski
 Mihovil Španja
 Mihovljan
 Mihovljan (Čakovec)
+Mihrab
 Mihran Damadian
 Mija Aleksić
 Mijaca
@@ -102723,6 +102834,7 @@ Milivojevci
 Milići
 Milja
 Miljacka
+Miljacka (razdvojba)
 Miljana
 Miljanovac
 Miljanovci (Tešanj, BiH)
@@ -103702,6 +103814,7 @@ Morphaneflus
 Morphological Catalogue of Galaxies
 Morpolača
 Morris Peterson
+Morrison Hotel
 Morse Code
 Morska luka
 Morska milja
@@ -104038,6 +104151,7 @@ Muskum jezik
 Musliman
 Muslimani
 Muslimani (narod)
+Muslimanski oslobodilački pokret
 Muslići (Bijelo Polje, Crna Gora)
 Musonius
 Musqueam
@@ -104283,6 +104397,7 @@ NCAA Divizija III
 NCAA Football
 NCSA Mosaic
 NE Bušeher
+NFL sezona 2001.
 NGC 1000
 NGC 1001
 NGC 1002
@@ -104751,6 +104866,7 @@ NGC 2189
 NGC 2190
 NGC 2191
 NGC 2192
+NGC 2322
 NGC 2466
 NGC 2472
 NGC 2473
@@ -104803,6 +104919,8 @@ NGC 2519
 NGC 2520
 NGC 2521
 NGC 2584
+NGC 2624
+NGC 2951
 NGC 3025
 NGC 3122
 NGC 3123
@@ -106888,6 +107006,7 @@ NGC 6057
 NGC 6086
 NGC 6185
 NGC 6186
+NGC 6192
 NGC 6330
 NGC 6357
 NGC 6400
@@ -107352,6 +107471,7 @@ NGC 708
 NGC 709
 NGC 710
 NGC 711
+NGC 7119
 NGC 712
 NGC 713
 NGC 714
@@ -109243,6 +109363,7 @@ New York Rangers
 New York Times
 New York Yankees
 New York, New York
+New York, New York (1977.)
 New York, New York (Tha Dogg Pound)
 New Yorker
 New Zealand Music Awards
@@ -109772,6 +109893,7 @@ Nogometni vratar
 Nogometno EP 2004.
 Nogometno SP 1998.
 Nogometno igralište
+Nogometno prvenstvo Bosne i Hercegovine – 3. ligaški rang 2007./08.
 Nogometno prvenstvo Herceg-Bosne – 3. ligaški rang 1995./96.
 Nogometno prvenstvo Herceg-Bosne – 3. ligaški rang 1996./97.
 Nogometno prvenstvo Herceg-Bosne – 3. ligaški rang 1997./98.
@@ -109983,6 +110105,7 @@ Novac
 Novac (Ub, Srbija)
 Novacijan, protupapa
 Novaeglaucytes
+Novak (televizijska serija)
 Novak Novak
 Novak Simić
 Novak Đoković
@@ -110486,6 +110609,7 @@ Odbojka na OI 1980.
 Odbojka na OI 2000.
 Odbojka na OI 2020.
 Odbojkaško prvenstvo Jugoslavije 1970./71.
+Odbojnik
 Oddities and Rarities
 Odesa
 Odetta
@@ -114966,6 +115090,7 @@ Podlug
 Podlug (Benkovac)
 Podmilačje
 Podmornica
+Podmornice klase Invincible
 Podmornice klase Yushio
 Podmurvice
 Podnart
@@ -116588,6 +116713,7 @@ Pristupanje Srbije Europskoj uniji
 Pristupanje Turske Europskoj uniji
 Pritam Rani Siwach
 Pritok
+Privala
 Privalj
 Privas
 Privatizacija
@@ -119645,6 +119771,7 @@ Rukatac Smokvica
 Rukavac
 Rukavac (Matulji)
 Rukomet
+Rukomet na Mediteranskim igrama
 Rukomet na OI 2008. – muškarci
 Rukomet na OI 2020.
 Rukometna reprezentacija ZND-a
@@ -121230,6 +121357,7 @@ Siamaggiore
 Siamanna
 Siamou
 Siapiccia
+Siarnaq (mjesec)
 Sibapipunga
 Sibghatullah Mojaddedi
 Sibila Petlevski
@@ -122255,6 +122383,7 @@ Songhai
 Songhai jezici
 Songova knjiga
 Songs And Music From "She's The One"
+Songs of Leonard Cohen
 Songs of Our Soil
 Songs to No One 1991-1992
 Songshan
@@ -122638,6 +122767,7 @@ Sposoban pomorac
 Spotify
 Spotify Singles
 Spotlight
+Spremnost (Zagreb)
 Spreča
 Springerville, Arizona
 Springfield Armor
@@ -122739,6 +122869,7 @@ Srednje škole i gimnazije u Zagrebu
 Srednji Dubovec
 Srednji Globodol
 Srednji Lipovac
+Srednji Poloj
 Srednji istok
 Srednji kanal
 Srednji paleolitik
@@ -123711,6 +123842,7 @@ Suceava (grad)
 Suceava (županija)
 Sucedió en Jalisco (Los cristeros)
 Sud Aviation Caravelle
+Sud Europske unije
 Sudan
 Sudan Airways
 Sudanski arapski
@@ -124278,6 +124410,7 @@ Sveučilište u Mostaru
 Sveučilište u Napulju
 Sveučilište u Oxfordu
 Sveučilište u Parizu 8
+Sveučilište u Pekingu
 Sveučilište u Rijeci
 Sveučilište u Sarajevu
 Sveučilište u Slavonskom Brodu
@@ -124818,6 +124951,7 @@ Tambusoides
 Tamenes
 Tamika Smith
 Tamilski jezik
+Tamilski nacionalizam
 Tamiška županija
 Tamki jezik
 Tamna maglica
@@ -125783,6 +125917,7 @@ The platinum collection (Mišo)
 The-Dream
 Thecladoris
 Thecodontosaurus
+Their Greatest Hits: The Record
 Thekla Resvoll
 Thelema.6
 Thelgetra
@@ -126225,6 +126360,7 @@ Todor Živanović
 Todor Živkov
 Todorovići
 Todraž
+Tofildijevke
 Togoanska nogometna reprezentacija
 Togrul
 Togrul I.
@@ -126648,6 +126784,7 @@ Transgression
 Transhumanizam
 Transilvanian Hunger
 Transilvanija
+Transilvanska ravnica
 Transipochira
 Transkripcija
 Translation (album)
@@ -129120,6 +129257,7 @@ Viossatus
 Vir (Dol, Stari Grad)
 Vir (Posušje, BiH)
 Vir (Zadarska županija)
+Viralni marketing
 Virgil van Dijk
 Virgin Atlantic Airways
 Virgin Records
@@ -129641,6 +129779,7 @@ Vratislav Lokvenc
 Vratišinec
 Vratnik
 Vratno Otok
+Vrač pogađač
 Vračar
 Vražale
 Vrba (Glamoč, BiH)
@@ -131809,6 +131948,7 @@ Zelenortska Republika
 Zelin Crnoluški
 Zelin Mrzlovodički
 Zelinje
+Zeljaste biljke
 Zelkova carpinifolia
 Zelliboria
 Zelmo Beaty
@@ -133647,6 +133787,7 @@ zvono
 Žiškovec
 Žlahtina
 Žlahtina Toljanić
+Žlebec
 Žlebec Gorički
 Žlebec Pušćanski
 Žlebina

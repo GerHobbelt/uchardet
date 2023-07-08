@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Sevap
-Kuschelina
-Massoud Achkar
-Cutler, Kaliforniya
-Theridion incomtum
-Una Muharebesi
-Comacchio
-Varanus similis
-Pyrausta facitalis
-Survivor (Destiny's Child albümü)
-2011 Yeşil Burun Adaları devlet başkanlığı seçimi
-Morgan County, Batı Virginia
-Ekkehard Fasser
-Çin (eyalet)
-Hotham, East Riding of Yorkshire
-Kardeşimin Hikayesi
-Diyor Imomxoʻjayev
-Derin Mevzu
-Mazıcı
-Arseniy Yatsenyuk
-Landwehr
-Harmandalı Yörükleri
-Evelyn "Champagne" King
-Çarıklı, Batman
-Joaquim de Almeida
-Eryngium heterophyllum
-1982 Kanada Grand Prix
-Hyla orientalis
-Finlandiya Savunma Kuvvetleri
-Kireç, Şalpazarı
+Benim Güzel Idaho'm
+İnançoğulları Beyliği
+Dewey County, Oklahoma
+Yarımada İspanya
+Aşağıkumlu, Çaykara
+Sirena Marine
+Ören, Besni
+Safety (EP)
+Beykoz SK 1958-59 sezonu
+Mustin (Ratzeburg)
+Mikronezya devlet başkanları listesi
+Eugenius Warming
+Modemler İçin Bağlantı Erişim Prosedürü
+Fenerbahçe (kadın voleybol takımı) 1994-95 sezonu
+NGC 1817
+Dagmar Käsling
+Dubiraphia
+Roberto Digón
+Velikanlı, Yardımlı
+IWalewahaus
+Arizona Dream (soundtrack)
+Kemalpaşa Camii
+50m2
+Dholavira
+Edea
+Küçükdoğanca, Keşan
+Mesaulus
+Filarmonia İstanbul
+Abeillia abeillei
+David Filo
 "Dr. Death" Steve Williams
 "Halkın Dostları" Kimlerdir ve Sosyal-Demokratlara Karşı Nasıl Savaşırlar?
 "Pistol" Pez Whatley
@@ -3484,6 +3484,7 @@ Kireç, Şalpazarı
 1982 FIFA Dünya Kupası elemeleri (UEFA)
 1982 FIFA Dünya Kupası kadroları
 1982 Federasyon Kupası Finali
+1982 Kanada Grand Prix
 1982 Kıtalararası Kupa
 1982 LFF Lyga
 1982 Supercopa de España
@@ -5070,6 +5071,7 @@ Kireç, Şalpazarı
 2005 Avrupa Salon Atletizm Şampiyonası - Kadınlar gülle atma
 2005 CONCACAF Altın Kupa
 2005 Copa del Rey Finali
+2005 Dünya Kürek Şampiyonası
 2005 Dünya Üniversite Yaz Oyunları
 2005 Dünya Üniversiteler Kış Oyunları
 2005 Eurovision Çocuk Şarkı Yarışması
@@ -5633,6 +5635,7 @@ Kireç, Şalpazarı
 2011 Vuelta a España
 2011 WWE draft
 2011 Yaz Üniversite Oyunları
+2011 Yeşil Burun Adaları devlet başkanlığı seçimi
 2011 İspanya genel seçimleri
 2011 İtalya Bisiklet Turu
 2011'de Türkiye
@@ -8812,6 +8815,7 @@ Acokwa
 Acolapissa
 Acoma Pueblo
 Aconcagua
+Aconitum jiulongense
 Aconitum transsectum
 Aconoidasida
 Aconã
@@ -11099,6 +11103,7 @@ Altoona, Pensilvanya
 Altranstädt Antlaşması
 Altun Yaruk
 Altunhisar
+Altunizade Camii
 Altunizade Metrobüs İstasyonu
 Altunî
 Altyapı
@@ -11316,6 +11321,7 @@ Amasya belediye başkanları listesi
 Amasya'da 1939 Türkiye genel seçimleri
 Amasya'da 1961 Türkiye genel seçimleri
 Amasya'da 1965 Türkiye genel seçimleri
+Amasya'da 1983 Türkiye genel seçimleri
 Amasya'da 1999 Türkiye yerel seçimleri
 Amasya'da 2014 Türkiye cumhurbaşkanlığı seçimi
 Amasya'da Haziran 2015 Türkiye genel seçimleri
@@ -12040,6 +12046,7 @@ Andros Savva
 Andros Townsend
 Andrus Kivirähk
 Andry Rajoelina
+Andrzej Biegalski
 Andrzej Duda
 Andrzej Kwiek
 Andrzej Seweryn
@@ -13683,6 +13690,7 @@ Arsenal of Megadeth
 Arsenie Todiraș
 Arsenik
 Arsenik zehirlenmesi
+Arseniy Yatsenyuk
 Arshaluys
 Arsida
 Arsk (rayon)
@@ -21166,6 +21174,7 @@ Calabria
 Calais Gözlemevi
 Calais, Maine
 Calalakis
+Calamares (yazılım)
 Calamari halkı
 Calancó
 Calanda
@@ -23211,6 +23220,7 @@ Citrus (manga)
 Citrus psorosis virüsü
 Cittaducale
 Cittareale
+Città di Castello
 Città di San Marino
 City Football Group
 City Lights
@@ -23589,6 +23599,7 @@ Columbus, Ohio mührü
 Columbus, Ohio'daki en yüksek binalar listesi
 Colville Indian Reservation
 Colômbia
+Comacchio
 Comal
 Comanche
 Comarch
@@ -24225,6 +24236,7 @@ Custer, Montana
 Custom House Tower
 Custódio Pinto
 Cutfather
+Cutler, Kaliforniya
 Cutoff (değer)
 Cuts Like a Knife
 Cuts Like a Knife (şarkı)
@@ -24668,6 +24680,7 @@ Daniel Goodfellow
 Daniel Hendler
 Daniel Hjorth
 Daniel Hollie
+Daniel Igali
 Daniel J. Bloomberg
 Daniel Kahneman
 Daniel Kaluuya
@@ -24675,6 +24688,7 @@ Daniel Kitabı
 Daniel Komen
 Daniel Köstl
 Daniel Lembo
+Daniel Librado Azcona
 Daniel Lovitz
 Daniel Massey (oyuncu)
 Daniel Muchunu Mwangi
@@ -25754,6 +25768,7 @@ Dergâh (dergi)
 Dergâh Yayınları
 Deriba Merga
 Derick Brassard
+Derin Mevzu
 Derin deniz balığı
 Derin enerji güçlendirme
 Derin harekât
@@ -26511,6 +26526,7 @@ Diyarbakırspor 1998-99 sezonu
 Diyarbekirspor
 Diyaspora
 Diyet
+Diyor Imomxoʻjayev
 Diyot
 Dizanteri
 Dizartri
@@ -28304,6 +28320,7 @@ Eiffel (şirket)
 Eiffel Tower
 Eight-man football
 Eiji Gaya
+Eileen Brennan
 Eileen Heckart
 Eimear Quinn
 Ein Herz, das seinen Jesum lebend weiß, BWV 134
@@ -28354,6 +28371,7 @@ Ekinades Adaları
 Ekinezya
 Ekinokokkoz
 Ekinören, Boyabat
+Ekkehard Fasser
 Eklem bacaklı
 Eklem bacaklı ısırıkları ve iğneleri
 Eklem bacaklılar
@@ -28680,6 +28698,7 @@ Elektrokimyasal gradyan
 Elektrolit
 Elektrolitler
 Elektromanyetik dalgalar
+Elektromanyetizma
 Elektron
 Elektron alıcısı
 Elektron mikroskobu
@@ -28956,6 +28975,7 @@ Emilio Martínez
 Emilio Mora
 Emilio Álvarez (futbolcu)
 Emily Beecham
+Emily Blunt
 Emily Dickinson
 Emily Robison
 Emily Watson
@@ -29953,6 +29973,7 @@ Erwinia
 Erwählte Pleißenstadt, BWV 216a
 Erwünschtes Freudenlicht, BWV 184
 Eryaman Stadyumu
+Eryngium heterophyllum
 Erythromycin
 Erzin
 Erzin Demir
@@ -30420,6 +30441,7 @@ Eugenius
 Eugenius Warming
 Eugène Delacroix
 Eugène Joseph Delporte
+Euler toplaması
 Eunos (automobile)
 Euphoria (Loreen şarkısı)
 Eurasia
@@ -30653,6 +30675,7 @@ Evde kahve kavurma
 Evdokia Kadi
 Eve Dönüş
 Eve Torres
+Evelyn "Champagne" King
 Evelyn Keyes
 Evelyn Stevens
 Evence
@@ -31658,6 +31681,7 @@ Fatma Girik
 Fatma Güldemet Sarı
 Fatma Karanfil
 Fatma Samoura
+Fatma Seher Erden
 Fatma Suat Orhon Müze ve Sanat Evi
 Fatma Çalkaya
 Fatman Scoop
@@ -32695,6 +32719,7 @@ Francesco Damiani
 Francesco Farnese, Parma Dükü
 Francesco Guicciardini
 Francesco Janich
+Francesco Lodi
 Francesco Moser
 Francesco Pianeta
 Francesco Redi
@@ -32946,6 +32971,7 @@ Fransızcanın romanizasyonu
 Fransızlar
 František Fadrhonc
 Frantz Fanon
+Franz Anton Mesmer
 Franz Beckenbauer
 Franz Berger
 Franz Berwald
@@ -34218,6 +34244,7 @@ George Vella
 George W. Bush
 George Wald
 George Weah
+George Wein
 George Wells Beadle
 George Whipple
 George William
@@ -37346,6 +37373,7 @@ Harman, Doğanhisar
 Harmanalan, Suruç
 Harmancık, Göynücek
 Harmandalı
+Harmandalı Yörükleri
 Harmandalı, Akhisar
 Harmankaya, Ömerli
 Harmonia
@@ -38154,6 +38182,7 @@ Henri Poincaré
 Henri Vilbert
 Henri de Saint Simon
 Henri de Toulouse-Lautrec
+Henriette d'Angeville
 Henrik Dam
 Henrik Dam Kristensen
 Henrik Ernst
@@ -38958,6 +38987,7 @@ Holon
 Holosen
 Holosen takvimi
 Holostei
+Holsingerius
 Holy Ground (Taylor Swift şarkısı)
 Holy Weapon
 Holyoke, Massachusetts
@@ -39367,6 +39397,7 @@ Hristoforos (I. Romanos'un oğlu)
 Hristos Kallou
 Hristos Milordos
 Hristos Wheeler
+Hrithik Roshan
 Hrodna
 Hrpelje-Kozina
 Hruşçyovka
@@ -39616,6 +39647,7 @@ Hydrogenedentes
 Hydrogenophilaceae
 Hydrothermota
 Hyginus
+Hyla orientalis
 Hyman Roth
 Hymenolepididae
 Hymenoptera
@@ -42302,6 +42334,7 @@ Joanne Lunn
 Joanne Woodward
 Joannes
 Joaquim Carvalho
+Joaquim de Almeida
 Joaquin Phoenix
 Joaquin Wilde
 Joaquina Kalukango
@@ -42645,6 +42678,7 @@ Johnny Valentine
 Johnny Valiant
 Johnny Weaver
 Johnson Doktrini
+Johnson, Georgia
 Johnstonia
 Johnstown, Pensilvanya
 Johor
@@ -44616,6 +44650,7 @@ Kardemir Karabükspor 1997-98 sezonu
 Kardemir Karabükspor 2018-19 sezonu
 Kardeş gemi
 Kardeş şehir
+Kardeşimin Hikayesi
 Kardeşköy
 Kardeşler, Ulubey
 Kardinal
@@ -44810,6 +44845,7 @@ Kartacalılar
 Kartal
 Kartal Anadolu Lisesi
 Kartal Pençesi Operasyonu
+Kartal Tren İstasyonu
 Kartal'daki yıldızlar dizini
 Kartal, İstanbul
 Kartalkaya, Kırşehir
@@ -46185,6 +46221,7 @@ Kireneli Lukius
 Kireneli Simun
 Kireç
 Kireç taşı
+Kireç, Şalpazarı
 Kireçburnu SK
 Kiribati
 Kiribati pasaportu
@@ -47694,6 +47731,7 @@ Kurşun Yılları
 Kurşun zehirlenmesi
 Kurşunlu Camii (Samsun)
 Kurşunlu, Hekimhan
+Kuschelina
 Kushiel
 Kuskus
 Kusma
@@ -48655,6 +48693,7 @@ Kızılcahamam Hocalı Anıt Parkı ve Müzesi
 Kızılcakaya, Ayancık
 Kızılcakoru, Vezirköprü
 Kızılcameydan
+Kızılcaot
 Kızılcaören, Vezirköprü
 Kızılcık
 Kızılcık ekşisi
@@ -49090,6 +49129,7 @@ Lands of Sweden
 Landskrona
 Landskrona BoIS
 Landsteiner
+Landwehr
 Landé Faktörü
 Lane Nehri
 Laneia
@@ -53141,6 +53181,7 @@ Massimo Luongo
 Massimo Pigliucci
 Massimo Podenzana
 Massimo Troisi
+Massoud Achkar
 Mast hücresi
 Mastara
 Mastektomi
@@ -53489,6 +53530,7 @@ Mazinho Oliveira
 Mazlum Doğan
 Mazlum Çimen
 Mazzano
+Mazıcı
 Maç Sayısı
 Maça Kızı (opera)
 Maçka
@@ -56036,6 +56078,7 @@ Morfoloji
 Morfoloji (biyoloji)
 Morfydd Clark
 Morgan
+Morgan County, Batı Virginia
 Morgan County, Ohio
 Morgan Freeman
 Morgan Sanson
@@ -58544,6 +58587,7 @@ Nestlé
 Nestor Combin
 Nestor Ibarra
 Nestor Mahno
+Nestoras Mitidis
 Nestâlik
 Nestûrîlik
 NetBSD
@@ -60751,6 +60795,7 @@ Orhan Aktaş
 Orhan Alp
 Orhan Altan
 Orhan Asena
+Orhan Asena Deneme Sahnesi
 Orhan Bey (Saruhanoğlu)
 Orhan Duru
 Orhan Düzgün
@@ -64843,6 +64888,7 @@ Pyhtää
 Pyongyang
 Pyotr Krasnov
 Pyotr Vrangel
+Pyrausta facitalis
 Pyrenees
 Pyrgos, Limassol
 Pyrsos Grevena FC
@@ -67853,6 +67899,7 @@ Sadwavirus
 Sadık Atakan Özel Çini Müzesi
 Sadık Deveci
 Sadık Dik
+Sadık Rıfat Paşa
 Sadık Tekin Müftüoğlu
 Sadık, Hacıbektaş
 Sadır Caparov
@@ -73189,6 +73236,7 @@ Surveyor 7
 Surveyor programı
 Survival (Doctor Who)
 Survival of the Fittest (2018)
+Survivor (Destiny's Child albümü)
 Survivor (band)
 Survivor (yarışma)
 Survivor Series
@@ -76502,6 +76550,7 @@ Theridiidae
 Theridion
 Theridion familiare
 Theridion helophorum
+Theridion incomtum
 Theridion volubile
 Theridiosomatidae
 Theriogenology
@@ -77473,6 +77522,7 @@ Top Secret (House)
 Topachula
 Topaklı, Hayrat
 Topal Osman Ağa
+Topalan, Hazro
 Topalköy, Samuil
 Topallar, Bergama
 Topaz (film)
@@ -77653,6 +77703,7 @@ Toru Oniki
 Torun Tower
 Torunik
 Torunlar GYO
+Torunlar, Nurdağı
 Toruń
 Torá halkı
 Toscana virüsü
@@ -79886,6 +79937,7 @@ Un borghese piccolo piccolo
 Un eroe dei nostri tempi
 Un helvası
 Un kurdu
+Una Muharebesi
 Una Mujer Sin Amor
 Una mujer sin amor
 Unai Emery
@@ -80650,6 +80702,7 @@ Varaktör
 Varakļāni
 Varangyan Dikilitaşları
 Varansi
+Varanus similis
 Varaoca
 Varazze
 Varaždin
@@ -86073,6 +86126,7 @@ transistor
 Çarseda
 Çarseda (ilçe)
 Çarseda (ilçe), Pakistan
+Çarıklı, Batman
 Çarıklı, Niğde
 Çarıksaraylı Hasan Hüseyin Efe
 Çarşamba Kapalı Spor Salonu
@@ -86392,6 +86446,7 @@ transistor
 Çimmesyan dilleri
 Çimu dilleri
 Çimşiyan dilleri
+Çin (eyalet)
 Çin Ay Keşif Programı
 Çin Basketbol Ligi
 Çin Cumhuriyeti
@@ -87258,6 +87313,7 @@ transistor
 Üçayak
 Üçayaklı villa rustika
 Üçbağlar, Battalgazi
+Üçgen bayrak
 Üçgen peynir
 Üçgen'deki yıldızlar dizini
 Üçgöze, Doğubayazıt
@@ -94907,6 +94963,7 @@ transistor
 2005 Avrupa Salon Atletizm Şampiyonası - Kadınlar gülle atma
 2005 CONCACAF Altın Kupa
 2005 Copa del Rey Finali
+2005 Dünya Kürek Şampiyonası
 2005 Dünya Üniversite Yaz Oyunları
 2005 Dünya Üniversiteler Kış Oyunları
 2005 Eurovision Çocuk Şarkı Yarışması
@@ -98518,6 +98575,7 @@ Abe Star (1930~59)
 Abe Vigoda
 AbeBooks
 Abedi Pele
+Abeillia abeillei
 Abel Gance
 Abel Porteau
 Abenakiler
@@ -98650,6 +98708,7 @@ Acokwa
 Acolapissa
 Acoma Pueblo
 Aconcagua
+Aconitum jiulongense
 Aconitum transsectum
 Aconoidasida
 Aconã
@@ -100937,6 +100996,7 @@ Altoona, Pensilvanya
 Altranstädt Antlaşması
 Altun Yaruk
 Altunhisar
+Altunizade Camii
 Altunizade Metrobüs İstasyonu
 Altunî
 Altyapı
@@ -101154,6 +101214,7 @@ Amasya belediye başkanları listesi
 Amasya'da 1939 Türkiye genel seçimleri
 Amasya'da 1961 Türkiye genel seçimleri
 Amasya'da 1965 Türkiye genel seçimleri
+Amasya'da 1983 Türkiye genel seçimleri
 Amasya'da 1999 Türkiye yerel seçimleri
 Amasya'da 2014 Türkiye cumhurbaşkanlığı seçimi
 Amasya'da Haziran 2015 Türkiye genel seçimleri
@@ -101878,6 +101939,7 @@ Andros Savva
 Andros Townsend
 Andrus Kivirähk
 Andry Rajoelina
+Andrzej Biegalski
 Andrzej Duda
 Andrzej Kwiek
 Andrzej Seweryn
@@ -103151,6 +103213,7 @@ Ariya Daivari
 Ariza Makukula
 Arizona
 Arizona Cardinals
+Arizona Dream (soundtrack)
 Arizona Mills
 Arizona Science Center
 Arizona Tewa
@@ -105572,6 +105635,7 @@ Aşağıkarıncalı, Suruç
 Aşağıkesmekaya, Harran
 Aşağıkoymat, Haliliye
 Aşağıkumlu, Oltu
+Aşağıkumlu, Çaykara
 Aşağıköselerli, Mut
 Aşağıköy, Ayancık
 Aşağıkırıklar, Bergama
@@ -107945,6 +108009,7 @@ Beykent, Şehitkamil
 Beykoz
 Beykoz 1908 SK
 Beykoz Kasrı
+Beykoz SK 1958-59 sezonu
 Beykoz kebabı
 Beyköy, Tefenni
 Beylerbaşı, Battalgazi
@@ -111005,6 +111070,7 @@ Calabria
 Calais Gözlemevi
 Calais, Maine
 Calalakis
+Calamares (yazılım)
 Calamari halkı
 Calancó
 Calanda
@@ -113050,6 +113116,7 @@ Citrus (manga)
 Citrus psorosis virüsü
 Cittaducale
 Cittareale
+Città di Castello
 Città di San Marino
 City Football Group
 City Lights
@@ -114289,6 +114356,7 @@ Dag Solstad
 Dag efter dag
 Dagens Nyheter
 Dagmar
+Dagmar Käsling
 Dagmar tamponu
 Dagny Carlsson
 Dagny veya Aşk Şöleni
@@ -114509,6 +114577,7 @@ Daniel Goodfellow
 Daniel Hendler
 Daniel Hjorth
 Daniel Hollie
+Daniel Igali
 Daniel J. Bloomberg
 Daniel Kahneman
 Daniel Kaluuya
@@ -114516,6 +114585,7 @@ Daniel Kitabı
 Daniel Komen
 Daniel Köstl
 Daniel Lembo
+Daniel Librado Azcona
 Daniel Lovitz
 Daniel Massey (oyuncu)
 Daniel Muchunu Mwangi
@@ -114816,6 +114886,7 @@ David Dunlap Gözlemevi
 David Ellefson
 David Feldman (author)
 David Felgate (futbolcu)
+David Filo
 David Fincher
 David Flair
 David Foster
@@ -115788,6 +115859,7 @@ Devín
 Devínska Nová Ves
 Devşirme
 Devşirme (mimari)
+Dewey County, Oklahoma
 Dexter Lumis
 Dexter, Michigan
 Deylemce
@@ -115822,6 +115894,7 @@ Değişken soğutucu akışı
 Değiştim
 Deştiğin, Doğanhisar
 Dhofar Ayaklanması
+Dholavira
 Diablo Cody
 Diadem
 Diadora
@@ -117123,6 +117196,7 @@ Dualizm
 Duane Chase
 Duatepe, Şişli
 Dubai
+Dubiraphia
 Dublin
 Dublin Krallığı
 Dublin Zirvesi
@@ -118147,6 +118221,7 @@ Eiffel (şirket)
 Eiffel Tower
 Eight-man football
 Eiji Gaya
+Eileen Brennan
 Eileen Heckart
 Eimear Quinn
 Ein Herz, das seinen Jesum lebend weiß, BWV 134
@@ -118524,6 +118599,7 @@ Elektrokimyasal gradyan
 Elektrolit
 Elektrolitler
 Elektromanyetik dalgalar
+Elektromanyetizma
 Elektron
 Elektron alıcısı
 Elektron mikroskobu
@@ -118800,6 +118876,7 @@ Emilio Martínez
 Emilio Mora
 Emilio Álvarez (futbolcu)
 Emily Beecham
+Emily Blunt
 Emily Dickinson
 Emily Robison
 Emily Watson
@@ -120265,6 +120342,7 @@ Eugenius
 Eugenius Warming
 Eugène Delacroix
 Eugène Joseph Delporte
+Euler toplaması
 Eunos (automobile)
 Euphoria (Loreen şarkısı)
 Eurasia
@@ -121504,6 +121582,7 @@ Fatma Girik
 Fatma Güldemet Sarı
 Fatma Karanfil
 Fatma Samoura
+Fatma Seher Erden
 Fatma Suat Orhon Müze ve Sanat Evi
 Fatma Çalkaya
 Fatman Scoop
@@ -121696,6 +121775,7 @@ Fenerbahçe (futbol takımı) 1997-98 sezonu
 Fenerbahçe (futbol takımı) 1998-99 sezonu
 Fenerbahçe (futbol takımı) 2018-19 sezonu
 Fenerbahçe (kadın voleybol takımı) 1961-62 sezonu
+Fenerbahçe (kadın voleybol takımı) 1994-95 sezonu
 Fenerbahçe Atletizm Şubesi
 Fenerbahçe Müzesi
 Fenerbahçe SK
@@ -121952,6 +122032,7 @@ Fil polosu
 Fil vak'ası
 Filadelfia
 Filaria medinensis
+Filarmonia İstanbul
 Fildişi Sahili
 Fildişi Sahili arması
 Fildişi Sahili millî futbol takımı
@@ -122541,6 +122622,7 @@ Francesco Damiani
 Francesco Farnese, Parma Dükü
 Francesco Guicciardini
 Francesco Janich
+Francesco Lodi
 Francesco Moser
 Francesco Pianeta
 Francesco Redi
@@ -122792,6 +122874,7 @@ Fransızcanın romanizasyonu
 Fransızlar
 František Fadrhonc
 Frantz Fanon
+Franz Anton Mesmer
 Franz Beckenbauer
 Franz Berger
 Franz Berwald
@@ -124064,6 +124147,7 @@ George Vella
 George W. Bush
 George Wald
 George Weah
+George Wein
 George Wells Beadle
 George Whipple
 George William
@@ -128001,6 +128085,7 @@ Henri Poincaré
 Henri Vilbert
 Henri de Saint Simon
 Henri de Toulouse-Lautrec
+Henriette d'Angeville
 Henrik Dam
 Henrik Dam Kristensen
 Henrik Ernst
@@ -128805,6 +128890,7 @@ Holon
 Holosen
 Holosen takvimi
 Holostei
+Holsingerius
 Holy Ground (Taylor Swift şarkısı)
 Holy Weapon
 Holyoke, Massachusetts
@@ -129214,6 +129300,7 @@ Hristoforos (I. Romanos'un oğlu)
 Hristos Kallou
 Hristos Milordos
 Hristos Wheeler
+Hrithik Roshan
 Hrodna
 Hrpelje-Kozina
 Hruşçyovka
@@ -130257,6 +130344,7 @@ IWGP Tag Team Championship
 IWGP U-30 Openweight Championship
 IWGP United States Championship
 IWGP United States Heavyweight Championship
+IWalewahaus
 IX. Gregorius
 IX. Konstantinos
 IX. Louis
@@ -132494,6 +132582,7 @@ Johnny Valentine
 Johnny Valiant
 Johnny Weaver
 Johnson Doktrini
+Johnson, Georgia
 Johnstonia
 Johnstown, Pensilvanya
 Johor
@@ -134660,6 +134749,7 @@ Kartacalılar
 Kartal
 Kartal Anadolu Lisesi
 Kartal Pençesi Operasyonu
+Kartal Tren İstasyonu
 Kartal'daki yıldızlar dizini
 Kartal, İstanbul
 Kartalkaya, Kırşehir
@@ -135423,6 +135513,7 @@ Kemalettin Sami Gökçen
 Kemali Bayazıt
 Kemalist tarihyazımı
 Kemaliye
+Kemalpaşa Camii
 Kemalpaşa tatlısı
 Kemalpaşa, Bafra
 Kemalpaşa, İzmir
@@ -138192,6 +138283,7 @@ Küçük İlyada
 Küçük Şeyler (televizyon programı)
 Küçükbakkalköy, Ataşehir
 Küçükbelen, Yunusemre
+Küçükdoğanca, Keşan
 Küçükekinli, Harran
 Küçükgüney, Soma
 Küçükkale, Vezirköprü
@@ -138507,6 +138599,7 @@ Kızılcahamam Hocalı Anıt Parkı ve Müzesi
 Kızılcakaya, Ayancık
 Kızılcakoru, Vezirköprü
 Kızılcameydan
+Kızılcaot
 Kızılcaören, Vezirköprü
 Kızılcık
 Kızılcık ekşisi
@@ -144195,6 +144288,7 @@ Mesa, Arizona
 Mesagne
 Mesajcı RNA
 Mesajlar (Apple)
+Mesaulus
 Mesavitonya
 Mesazon
 Mescalero Apaçileri
@@ -144917,6 +145011,7 @@ Mikrometre
 Mikronezya
 Mikronezya Federal Devletleri
 Mikronezya Federal Devletlerinde su ürünleri yetiştiriciliği
+Mikronezya devlet başkanları listesi
 Mikronezya pasaportu
 Mikronezya'daki şehirler listesi
 Mikroorganizma
@@ -145479,6 +145574,7 @@ Moda, Kadıköy
 Model
 Model kontrolü
 Modeller kuramı
+Modemler İçin Bağlantı Erişim Prosedürü
 Modena
 Modena Düklüğü
 Modena FC
@@ -146647,6 +146743,7 @@ Mustang kahvesi
 Mustapha Yatabaré
 Mustela
 Muster (livestock)
+Mustin (Ratzeburg)
 Mustvee
 Musul
 Musul Eyaleti
@@ -147151,6 +147248,7 @@ NFPA 704
 NGC 1572
 NGC 1657
 NGC 1664
+NGC 1817
 NGC 1967
 NGC 1968
 NGC 1969
@@ -148400,6 +148498,7 @@ Nestlé
 Nestor Combin
 Nestor Ibarra
 Nestor Mahno
+Nestoras Mitidis
 Nestâlik
 Nestûrîlik
 NetBSD
@@ -150607,6 +150706,7 @@ Orhan Aktaş
 Orhan Alp
 Orhan Altan
 Orhan Asena
+Orhan Asena Deneme Sahnesi
 Orhan Bey (Saruhanoğlu)
 Orhan Duru
 Orhan Düzgün
@@ -156392,6 +156492,7 @@ Roberto Bonano
 Roberto Carlos
 Roberto Citran
 Roberto Di Matteo
+Roberto Digón
 Roberto Fernández (Bolivyalı futbolcu)
 Roberto Ferreiro
 Roberto García Orozco
@@ -157710,6 +157811,7 @@ Sadwavirus
 Sadık Atakan Özel Çini Müzesi
 Sadık Deveci
 Sadık Dik
+Sadık Rıfat Paşa
 Sadık Tekin Müftüoğlu
 Sadık, Hacıbektaş
 Sadır Caparov
@@ -157729,6 +157831,7 @@ Safe in Hell
 Safed
 Safer Dal
 Safet Sušić
+Safety (EP)
 Safevi
 Safevi Devleti
 Safeviler
@@ -160923,6 +161026,7 @@ Sir George Stokes Ödülü
 Sir Kay
 Siraküza
 Siraküza yemeği
+Sirena Marine
 Sirenayka
 Sirenia
 Sirenik Yupikleri
@@ -167332,6 +167436,7 @@ Top Secret (House)
 Topachula
 Topaklı, Hayrat
 Topal Osman Ağa
+Topalan, Hazro
 Topalköy, Samuil
 Topallar, Bergama
 Topaz (film)
@@ -167512,6 +167617,7 @@ Toru Oniki
 Torun Tower
 Torunik
 Torunlar GYO
+Torunlar, Nurdağı
 Toruń
 Torá halkı
 Toscana virüsü
@@ -170703,6 +170809,7 @@ Veli Reçber
 Veliaht
 Veliidae
 Velika Polana
+Velikanlı, Yardımlı
 Velike Lašče
 Veliki Novgorod
 Velimir Perasović
@@ -173476,6 +173583,7 @@ Yarım kanatlılar
 Yarım tava
 Yarımada
 Yarımada Savaşı
+Yarımada İspanya
 Yarımcahan, Battalgazi
 Yarımsu, Haliliye
 Yarımtepe, Pınarbaşı
@@ -176749,6 +176857,7 @@ transistor
 Örebro ili
 Öregrund
 Ören, Balya
+Ören, Besni
 Ören, Ulubey
 Örencik, Bafra
 Örencik, Haliliye
@@ -177121,6 +177230,7 @@ transistor
 Üçayak
 Üçayaklı villa rustika
 Üçbağlar, Battalgazi
+Üçgen bayrak
 Üçgen peynir
 Üçgen'deki yıldızlar dizini
 Üçgöze, Doğubayazıt

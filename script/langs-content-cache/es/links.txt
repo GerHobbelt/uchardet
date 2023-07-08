@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Terriers (serie de televisión)
-Anaspis orientalis
-Taraira
-Almaz Ayana
-Bagamoyo
-Paulo Húngaro
-Clappia umbilicata
-Don't Worry About Me
-Abiramam
-Madonna en la cultura popular
-Ichneumon striatus
-Maryna Zanevska
-Cine de Eslovaquia
-Hilda Habichayn
-Clostridium botulinum
-Manuel María de Arjona
-Locus Magazine
-Eredivisie 1961-62
-Ola Kaibjer
-Liga Premier de Afganistán
-Rockwell (Metro de Chicago)
-Sinus Medii
-Síndrome de solipsismo
-Oyón (localidad)
-Sesión
-Borgia (serie de televisión)
-Humanos (álbum de Pastoral)
-Gran Premio de Finlandia de Motociclismo de 1974
-Tageot Rafaeliarison
-Kapfenberger SV
+Laguna Lynch
+José Ignacio Rasco
+Cecilia Aguayo
+Relaciones Camerún-México
+Euschizomerus
+Choszczak
+Andry Rakotoarisoa
+Paula Lane
+José Gusmão
+Tomoplagia argentiniensis
+Royal Rumble (2014)
+La escoba del sistema
+Claudia Suárez
+San Juan Bautista (Filippino Lippi)
+Aš
+Guess Who (álbum de B. B. King)
+Buscás
+Plosna
+Indotestudo elongata
+Ishinomaki
+Lord Derby Spur Type (manzana)
+Espinela (mineral)
+Emeterio Santovenia
+Condado de Baynoa
+Coux-et-Bigaroque
+Don't Worry
+Browning M2
+Vitola
+Northern Lights (película de 1997)
+Ariobarzanes II
 $pringfield (or, How I Learned to Stop Worrying and Love Legalized Gambling)
 'Till I Collapse
 (100252) 1994 RY25
@@ -774,6 +774,7 @@ Abierto de los Estados Unidos
 Abierto de los Estados Unidos (golf)
 Abies alba
 Abiogénesis
+Abiramam
 Abismo Challenger
 Abogado
 Abolfazl Jalili
@@ -1715,6 +1716,7 @@ Almaden Research Center
 Almadén
 Almah
 Almanzor
+Almaz Ayana
 Almedíjar
 Almegíjar
 Almendro
@@ -2013,6 +2015,7 @@ Ananda Marga
 Anandtech
 Ananta Bhalobasha
 Anarquismo
+Anaspis orientalis
 Anastrepha schausi
 Anatoli Liádov
 Anatolia
@@ -2759,6 +2762,7 @@ Arquitectura moderna
 Arquitectura neoclásica
 Arquitectura neocolonial
 Arquitectura neogótica
+Arquitectura orientada a servicios
 Arquitectura popular
 Arquitectura posmoderna
 Arquitectura prerrománica
@@ -4010,6 +4014,7 @@ Beneath the Planet of the Apes
 Benedetto Croce
 Benedicto XVI
 Benedictus Appenzeller
+Benedykt Dybowski
 Beneficio económico
 Benei Mitzvá
 Benelux
@@ -4663,6 +4668,7 @@ Boreas Railroad Station Site
 Borehamwood
 Boreoeutheria
 Boreum
+Borgia (serie de televisión)
 Boris Becker
 Boris Boor
 Borja Viguera
@@ -5903,6 +5909,7 @@ Carlos Castillo (tenista)
 Carlos Cerda Aguilera
 Carlos Cuadrado Prats
 Carlos Enrique Taboada
+Carlos Eusebio de Liechtenstein
 Carlos Fernando Motoa
 Carlos Flores Facussé
 Carlos Gardel
@@ -6344,6 +6351,7 @@ Centro Nacional para la Música Popular
 Centro Steven F. Udvar-Hazy
 Centro Teológico Interdenominacional
 Centro Universitario de Atlanta
+Centro Universitario de Svalbard
 Centro comercial
 Centro de Alto Rendimiento
 Centro de Convenciones SeaGate
@@ -6925,6 +6933,7 @@ Ciliophora
 Cilíndrica
 Cimarosa
 Cimbrios (política)
+Cimejes
 Cimentación
 Cimerios
 Cincinnati
@@ -6943,6 +6952,7 @@ Cine 3D
 Cine B
 Cine bélico
 Cine clásico de Hollywood
+Cine de Eslovaquia
 Cine de Hollywood
 Cine de Japón
 Cine de acción
@@ -7098,6 +7108,7 @@ Clan Hōjō
 Clan Taira
 Clancy Brown
 Clannad
+Clappia umbilicata
 Clara Aguilera
 Clara Hughes
 Clarence von Rosen
@@ -10124,6 +10135,7 @@ Don't Say Your Love Is Killing Me
 Don't Stand So Close to Me
 Don't Stop the Party (canción de Pitbull)
 Don't Tell Me (canción de Madonna)
+Don't Worry About Me
 Donadío
 Donald Crowhurst
 Donald Fagen
@@ -11170,6 +11182,7 @@ Eloy Camus
 Eloy Espinosa-Saldaña
 Eloy Gonzalo
 Eloy de la Iglesia
+Elroy Hirsch
 Els Joglars
 Elsa Beltrán
 Elsa Wiezell
@@ -11374,6 +11387,7 @@ Enfermedad gastrointestinal
 Enfermedades
 Enfermedades de Transmisión Sexual
 Enfermedades de transmisión sexual
+Enfoque basado en ingresos
 Engadget
 Enggano
 English Heritage
@@ -11536,6 +11550,7 @@ Erasmo de Róterdam
 Erasure
 Erato
 Erbes-Büdesheim
+Eredivisie 1961-62
 Eremiobacteraeota
 Eremobates papillatus
 Ergastria
@@ -13291,6 +13306,7 @@ Fort Lee
 Fort Lee (Virginia)
 Fort Teremba
 Fort William (Ontario)
+Fortaleza de seguridad
 Fortificación
 Fortnite
 Fortress Investment Group
@@ -14732,6 +14748,7 @@ Gran Premio de España de Motociclismo de 2004
 Gran Premio de España de Motociclismo de 2005
 Gran Premio de España de Motociclismo de 2006
 Gran Premio de Europa de Motociclismo de 1995
+Gran Premio de Finlandia de Motociclismo de 1974
 Gran Premio de Francia de Motociclismo de 1995
 Gran Premio de Francia de Motociclismo de 1996
 Gran Premio de Francia de Motociclismo de 1998
@@ -15139,6 +15156,7 @@ Guido Jacobacci
 Guillermo Aragonés
 Guillermo Aréchiga Santamaría
 Guillermo Bianchi
+Guillermo Domínguez Domínguez
 Guillermo Hinojosa
 Guillermo III de Inglaterra
 Guillermo IV del Reino Unido
@@ -15212,6 +15230,7 @@ Gustave Flaubert
 Gustave Le Gray
 Gustave Pimienta
 Gustavo Dudamel
+Gustavo Espinoza Mireles
 Gustavo III de Suecia
 Gustavo Luga
 Gustavo López
@@ -16497,6 +16516,7 @@ Hilario Fernández Bujanda
 Hilary Bailey
 Hilda (Carolina del Sur)
 Hilda Gurney
+Hilda Habichayn
 Hilda López Aguilar
 Hillary Clinton
 Hillbilly
@@ -16960,6 +16980,7 @@ Humanismo
 Humanismo (desambiguación)
 Humano
 Humano (desambiguación)
+Humanos (álbum de Pastoral)
 Humanos anatómicamente modernos
 Humanos arcaicos
 Humayun Saeed
@@ -17210,6 +17231,7 @@ IceSheffield
 Iceberg
 Ichneumon adulterator
 Ichneumon gavisicolor
+Ichneumon striatus
 Icon (banda)
 Icones Plantarum Medicinalium
 Icono gay
@@ -17346,6 +17368,7 @@ Iglesia de San Juan de la Cruz (Alba de Tormes)
 Iglesia de San Juan el Real (Calatayud)
 Iglesia de San Miguel (Pitigliano)
 Iglesia de San Pablo (Zaragoza)
+Iglesia de San Pedro (Tiberíades)
 Iglesia de San Pedro Apóstol (Las Ventas con Peña Aguilera)
 Iglesia de San Pedro y San Pablo (Singapur)
 Iglesia de San Salvador (Dubrovnik)
@@ -17974,6 +17997,7 @@ Isla Cottonwood
 Isla Dalkey
 Isla Ellis
 Isla Europa
+Isla Evans (Alaska)
 Isla Farwa
 Isla Fisher
 Isla James Ross
@@ -19698,6 +19722,7 @@ Kantō region
 Kanye West
 Kaoh Snaeng
 Kaoru Ishikawa
+Kapfenberger SV
 Kaposvári Rákóczi FC
 Kara Walker
 Kara y Shelby Hoffman
@@ -20746,6 +20771,7 @@ Lawrence de Arabia
 Lawrence de Arabia (película)
 Laxante
 Lay Your Love on Me
+Laz Bistrički
 Lazarillo de Tormes
 Lazo (accesorio del gaucho)
 Lazo corredizo
@@ -21164,6 +21190,7 @@ Liga Nacional de Fútbol Americano
 Liga Nacional de Guatemala 1979-80
 Liga Nacional de Samoa 2021
 Liga Norte
+Liga Premier de Afganistán
 Liga Premier de Ucrania
 Liga Profesional de Béisbol Colombiano 2019/20
 Liga Profesional de Béisbol Colombiano 2022-23
@@ -21451,6 +21478,7 @@ Locos peligrosos
 Locución de despedida
 Locura de terror
 Locuras de verano
+Locus Magazine
 Locutora
 Loeblia nigra
 Loes Gunnewijk
@@ -21917,6 +21945,7 @@ Líbano
 Límite de Chandrasekhar
 Límite vertical
 Límites de los océanos
+Línea 42 (Maldonado)
 Línea 44 (EMT Madrid)
 Línea 54 (Media Distancia)
 Línea 76A (RTP)
@@ -22120,6 +22149,7 @@ Madman Anime Festival
 Madman Entertainment
 Madonna
 Madonna (cantante)
+Madonna en la cultura popular
 Madonna wannabe
 Madonna: An Intimate Biography
 Madonna: Like an Icon
@@ -22375,6 +22405,7 @@ Manuel Latre
 Manuel Manzanares
 Manuel María Coll y Altabás
 Manuel María Pólit y Laso
+Manuel María de Arjona
 Manuel Mendivil
 Manuel Mindán Manero
 Manuel Márquez Sánchez de Movellán
@@ -22887,6 +22918,7 @@ Mary-Kate y Ashley Olsen
 Maryland
 Marylebone
 Maryn
+Maryna Zanevska
 Marysol Cantú
 Marzo
 Marzo de 2010
@@ -24248,6 +24280,7 @@ Mosborough
 Mosby (publisher)
 Mosca
 Moscow Music Peace Festival
+Moscow Racer
 Moscow-Pullman Daily News
 Moscú
 Mosela (departamento)
@@ -24706,6 +24739,7 @@ Música rock
 Música tradicional
 Música vocal
 Música étnica
+Música, alegría y amor
 Músicas del mundo: World Music
 Músico
 Māori All Blacks
@@ -25826,6 +25860,7 @@ Oklahoma Tower
 Oklahoma central
 Oktubre
 Oku no Hosomichi
+Ola Kaibjer
 Ola coreana
 Olaberría
 Olaf II el Santo
@@ -25840,6 +25875,7 @@ Old Plank Road Trail
 Old School
 Old Tucson Studios
 Old Vic
+Ole Bremseth
 Oleg Golyamin
 Oleg Kechko
 Oleg Ogorodov
@@ -26282,6 +26318,7 @@ Oxypilus distinctus
 Oxígeno
 Oxígeno atmosférico
 Oyonnax Rugby
+Oyón (localidad)
 Oz (banda finlandesa)
 Oz the Great and Powerful
 Ozark (serie de televisión)
@@ -26933,6 +26970,7 @@ Pauline
 Pauline Carton
 Pauline Kael
 Paulino Castañeda Delgado
+Paulo Húngaro
 Paulo Sacramento
 Pavarotti & Friends
 Pavel Datsyuk
@@ -26997,6 +27035,7 @@ Pedro Espinoza Bravo
 Pedro Eugenio Aramburu
 Pedro Ewing Hodar
 Pedro Figueredo
+Pedro Goic
 Pedro Guillén
 Pedro I de Castilla
 Pedro Lino Castro
@@ -28138,6 +28177,7 @@ Premio Louisa Gross Horwitz
 Premio Marcello Mastroianni
 Premio Margaret Edwards
 Premio Mariano de Cavia
+Premio Nacional de Novela (Colombia)
 Premio Nobel
 Premio Nobel de Fisiología o Medicina
 Premio Nobel de Literatura
@@ -28326,6 +28366,7 @@ Primera investidura presidencial de George Washington
 Primera persona (narrativa)
 Primera persona (videojuegos)
 Primetime Emmy
+Primghar
 Primitive Cool
 Primitive and Deadly
 Primo tango a Roma... storia d'amore e d'alchimia
@@ -30170,6 +30211,7 @@ Robert Spano
 Robert Stone
 Robert Venturi
 Robert Ward
+Robert Webster
 Robert Whittaker
 Robert Wilson (director)
 Robert Wise
@@ -30277,6 +30319,7 @@ Rocket Science Games
 Rocket to Russia
 Rockford (Illinois)
 Rockstar (película)
+Rockwell (Metro de Chicago)
 Rockwell Semiconductor
 Rockwilder
 Rod Steiger
@@ -31725,6 +31768,7 @@ Servicio militar
 Servicios financieros
 Servidumbre
 Sesame Street
+Sesión
 Sesma del Campo de Gallocanta
 Sessiliflorae
 Sestao
@@ -32114,6 +32158,7 @@ Sintaxis
 Sintetizador
 Sintetizadores
 Sintoísmo
+Sinus Medii
 Sinusoide
 Sinónimo
 Siobhán McKenna
@@ -32209,6 +32254,7 @@ Skidmore, Owings & Merrill
 Skidmore, Owings and Merrill
 Skins (álbum)
 Skipper
+Skirlaugh
 Skitzofrenix
 Skoczewo
 Skoda
@@ -33405,6 +33451,7 @@ Símil
 Síndrome de Guillain-Barré
 Síndrome de disfunción multiorgánica
 Síndrome de fatiga crónica
+Síndrome de solipsismo
 Sócrates
 Sófocles
 Sóror Maria do Céu
@@ -33567,6 +33614,7 @@ Taehong Cho
 Taekwondo
 Tafalla
 Taganrog
+Tageot Rafaeliarison
 Tagmémica
 Tahití
 Tahiwi Oswaldo Oropeza
@@ -33657,6 +33705,7 @@ Taquillazo (artes audiovisuales)
 Tar Hollow State Forest
 Tar Hollow State Park
 Tara Strong
+Taraira
 Tarantula (banda)
 Taraxacum
 Tarbes
@@ -33769,6 +33818,7 @@ Tecnología emocional
 Tecnología háptica
 Tecnologías de la información
 Tecnologías de la información y la comunicación
+Tecnológico (estación del Tren México-Toluca)
 Tecos de la UAG
 Tectónica de placas
 Ted Elliott
@@ -33992,6 +34042,7 @@ Terremoto y tsunami de Japón de 2011
 Terrence Howard
 Terrence Malick
 Terrence McNally
+Terriers (serie de televisión)
 Terrifying
 Territorio Británico del Océano Índico
 Territorio Indígena (Estados Unidos)
@@ -36258,6 +36309,7 @@ Vadim Chekmázov
 Vadinienses
 Vaduz
 Vagoneta
+Vahidin Musemić
 Vajrayāna
 Val Gielgud
 Val-et-Châtillon
@@ -37125,6 +37177,7 @@ Wessex
 West Baden Springs (Indiana)
 West Bromwich Albion FC
 West Chicago (Illinois)
+West Conshohocken
 West Creek (Nueva Jersey)
 West Dublin/Pleasanton (Metro de San Francisco)
 West Point (Georgia)
@@ -37343,6 +37396,7 @@ William Thomas Stearn
 William Thoms
 William Thornton
 William Toth
+William Townsend
 William W. Boyington
 William Waddell
 William Wallace
@@ -37761,6 +37815,7 @@ Zach Braff
 Zach Gowen
 Zachary Donohue
 Zachary Levi
+Zack Bryant
 Zack Madden
 Zack Ryder
 Zack Snyder
@@ -37961,6 +38016,7 @@ transistor
 Álvaro de Luna
 Álvaro de Miranda Neto
 Ámsterdam
+Ángel Gutiérrez Fanlo
 Ángel de Saavedra
 Ángel del Pozo
 Ángela Villanueva
@@ -40135,6 +40191,7 @@ Androginia
 Android
 Android (sistema operativo)
 Androide
+Andry Rakotoarisoa
 Andrzej Pluta
 André Cailleux
 André Coumans
@@ -40715,6 +40772,7 @@ Arif Mardin
 Arikara
 Ariki
 Arild Aas
+Ariobarzanes II
 Ariola Japan
 Ariola Records
 Aris Salónica Fútbol Club
@@ -40806,6 +40864,7 @@ Arquitectura moderna
 Arquitectura neoclásica
 Arquitectura neocolonial
 Arquitectura neogótica
+Arquitectura orientada a servicios
 Arquitectura popular
 Arquitectura posmoderna
 Arquitectura prerrománica
@@ -42057,6 +42116,7 @@ Beneath the Planet of the Apes
 Benedetto Croce
 Benedicto XVI
 Benedictus Appenzeller
+Benedykt Dybowski
 Beneficio económico
 Benei Mitzvá
 Benelux
@@ -43022,6 +43082,7 @@ Brote (botánica)
 Brote de rayo gamma
 Brovary
 Brown Shipbuilding
+Browning M2
 Brownstone (material)
 Bruce (Una serie de catastróficas desdichas)
 Bruce Bagemihl
@@ -43186,6 +43247,7 @@ Burzaco
 Bus (informática)
 Buscador de Google
 Buscando a Nemo (banda sonora)
+Buscás
 Buscón
 Business Wire
 Bussum
@@ -43951,6 +44013,7 @@ Carlos Castillo (tenista)
 Carlos Cerda Aguilera
 Carlos Cuadrado Prats
 Carlos Enrique Taboada
+Carlos Eusebio de Liechtenstein
 Carlos Fernando Motoa
 Carlos Flores Facussé
 Carlos Gardel
@@ -44276,6 +44339,7 @@ Ceará
 Cebada
 Cebolla
 Cebollatí
+Cecilia Aguayo
 Cecilia Maffei
 Cecilia Santiago
 Cedar Glen Lakes (Nueva Jersey)
@@ -44392,6 +44456,7 @@ Centro Nacional para la Música Popular
 Centro Steven F. Udvar-Hazy
 Centro Teológico Interdenominacional
 Centro Universitario de Atlanta
+Centro Universitario de Svalbard
 Centro comercial
 Centro de Alto Rendimiento
 Centro de Convenciones SeaGate
@@ -44771,6 +44836,7 @@ Choque séptico
 Chordata
 Chorisoneura galibi
 Chorzów
+Choszczak
 Chou Wen-chung
 Chow Mane
 Choy Fok
@@ -44973,6 +45039,7 @@ Ciliophora
 Cilíndrica
 Cimarosa
 Cimbrios (política)
+Cimejes
 Cimentación
 Cimerios
 Cincinnati
@@ -45210,6 +45277,7 @@ Claude-Eric Lazard
 Claudia Harrison
 Claudia Rankine
 Claudia Stange
+Claudia Suárez
 Claudio
 Claudio Borghi
 Claudio Gay
@@ -45761,6 +45829,7 @@ Condado de Archer (Texas)
 Condado de Arlington
 Condado de Atlantic
 Condado de Barnwell
+Condado de Baynoa
 Condado de Bergen
 Condado de Burlington
 Condado de Butler (Ohio)
@@ -46375,6 +46444,7 @@ Courtney Conlogue
 Courtney Love
 Courtrizy-et-Fussigny
 Courtyard by Marriott - Downtown Detroit
+Coux-et-Bigaroque
 Covap
 Covenants
 Covent Garden
@@ -48174,6 +48244,7 @@ Don't Say Your Love Is Killing Me
 Don't Stand So Close to Me
 Don't Stop the Party (canción de Pitbull)
 Don't Tell Me (canción de Madonna)
+Don't Worry
 Don't Worry About Me
 Donadío
 Donald Crowhurst
@@ -49221,6 +49292,7 @@ Eloy Camus
 Eloy Espinosa-Saldaña
 Eloy Gonzalo
 Eloy de la Iglesia
+Elroy Hirsch
 Els Joglars
 Elsa Beltrán
 Elsa Wiezell
@@ -49265,6 +49337,7 @@ Emelie Cyréus
 Emerald
 Emerald Fennell
 Emerson String Quartet
+Emeterio Santovenia
 Emile Hirsch
 Emili Castellanos
 Emili Fontbona
@@ -49425,6 +49498,7 @@ Enfermedad gastrointestinal
 Enfermedades
 Enfermedades de Transmisión Sexual
 Enfermedades de transmisión sexual
+Enfoque basado en ingresos
 Engadget
 Enggano
 English Heritage
@@ -49892,6 +49966,7 @@ Esperanza y gloria
 Esperma
 Esperpento
 Espiga de Oro
+Espinela (mineral)
 Espinosa
 Espintrónica
 Espirilo
@@ -50347,6 +50422,7 @@ Eurostat
 Eurozona
 Eurytides thyastes subsp. occidentalis
 Eurínome (oceánide)
+Euschizomerus
 Eusebio Tejera
 Euskadi Ta Askatasuna
 Euskera
@@ -51343,6 +51419,7 @@ Fort Lee
 Fort Lee (Virginia)
 Fort Teremba
 Fort William (Ontario)
+Fortaleza de seguridad
 Fortificación
 Fortnite
 Fortress Investment Group
@@ -53183,6 +53260,7 @@ Guerras jázaro-árabes
 Guerras lusitanas
 Guerrilla
 Guerrilla urbana
+Guess Who (álbum de B. B. King)
 Gueto
 Guevorik Poghosian
 Gugu Mbatha-Raw
@@ -53192,6 +53270,7 @@ Guido Jacobacci
 Guillermo Aragonés
 Guillermo Aréchiga Santamaría
 Guillermo Bianchi
+Guillermo Domínguez Domínguez
 Guillermo Hinojosa
 Guillermo III de Inglaterra
 Guillermo IV del Reino Unido
@@ -53265,6 +53344,7 @@ Gustave Flaubert
 Gustave Le Gray
 Gustave Pimienta
 Gustavo Dudamel
+Gustavo Espinoza Mireles
 Gustavo III de Suecia
 Gustavo Luga
 Gustavo López
@@ -55402,6 +55482,7 @@ Iglesia de San Juan de la Cruz (Alba de Tormes)
 Iglesia de San Juan el Real (Calatayud)
 Iglesia de San Miguel (Pitigliano)
 Iglesia de San Pablo (Zaragoza)
+Iglesia de San Pedro (Tiberíades)
 Iglesia de San Pedro Apóstol (Las Ventas con Peña Aguilera)
 Iglesia de San Pedro y San Pablo (Singapur)
 Iglesia de San Salvador (Dubrovnik)
@@ -55607,6 +55688,7 @@ Indoeuropeo
 Indole-3-carbinol
 Indonesia
 Indosiren
+Indotestudo elongata
 Indra Devi
 Indra Sistemas
 Indro Montanelli
@@ -56011,6 +56093,7 @@ Ischiocentra
 Ischioderes
 Ischiosioma
 Ishabella Hudson
+Ishinomaki
 Ishiro Honda
 Ishtar
 Isiah Thomas
@@ -56030,6 +56113,7 @@ Isla Cottonwood
 Isla Dalkey
 Isla Ellis
 Isla Europa
+Isla Evans (Alaska)
 Isla Farwa
 Isla Fisher
 Isla James Ross
@@ -57247,9 +57331,11 @@ José G. Moreno de Alba
 José Gaos
 José Giarrizo
 José Guardiola Picó
+José Gusmão
 José Herrera Rodríguez
 José I de España
 José II del Sacro Imperio Romano Germánico
+José Ignacio Rasco
 José Ignacio Rodríguez
 José Javier Serrano
 José Joaquín Fernández de Lizardi
@@ -58430,6 +58516,7 @@ La cueva oscura
 La dama del lago (película)
 La edad de la inocencia (película)
 La engañadora
+La escoba del sistema
 La espada del tiempo
 La espada y la rosa (película)
 La fabulosa historia de Diego Marín
@@ -58592,6 +58679,7 @@ Lagos de Titán
 Lagoseriopsis
 Laguna Carrilaufquen
 Laguna Hills
+Laguna Lynch
 Lahiri Mahasaya
 Laica
 Laidback Luke
@@ -58803,6 +58891,7 @@ Lawrence de Arabia
 Lawrence de Arabia (película)
 Laxante
 Lay Your Love on Me
+Laz Bistrički
 Lazarillo de Tormes
 Lazo (accesorio del gaucho)
 Lazo corredizo
@@ -59583,6 +59672,7 @@ Lophelia
 Loppi
 Lorado Taft
 Lord Byron
+Lord Derby Spur Type (manzana)
 Lord Mountbatten
 Lord Voldemort
 Lord of the Dance
@@ -59976,6 +60066,7 @@ Líbano
 Límite de Chandrasekhar
 Límite vertical
 Límites de los océanos
+Línea 42 (Maldonado)
 Línea 44 (EMT Madrid)
 Línea 54 (Media Distancia)
 Línea 76A (RTP)
@@ -62310,6 +62401,7 @@ Mosborough
 Mosby (publisher)
 Mosca
 Moscow Music Peace Festival
+Moscow Racer
 Moscow-Pullman Daily News
 Moscú
 Mosela (departamento)
@@ -62768,6 +62860,7 @@ Música rock
 Música tradicional
 Música vocal
 Música étnica
+Música, alegría y amor
 Músicas del mundo: World Music
 Músico
 Māori All Blacks
@@ -63581,6 +63674,7 @@ Northampton Saints
 Northamptonshire
 Northerly Island
 Northern & Shell
+Northern Lights (película de 1997)
 Northern Raiders
 Northrop Frye
 Northumbria
@@ -63903,6 +63997,7 @@ Old Plank Road Trail
 Old School
 Old Tucson Studios
 Old Vic
+Ole Bremseth
 Oleg Golyamin
 Oleg Kechko
 Oleg Ogorodov
@@ -64990,6 +65085,7 @@ Paul Weston
 Paul-Henri Mathieu
 Paul-Henry Mathieu
 Paula Fox
+Paula Lane
 Paula Maffia
 Paulette Goddard
 Paulina de Allende-Salazar
@@ -65062,6 +65158,7 @@ Pedro Espinoza Bravo
 Pedro Eugenio Aramburu
 Pedro Ewing Hodar
 Pedro Figueredo
+Pedro Goic
 Pedro Guillén
 Pedro I de Castilla
 Pedro Lino Castro
@@ -65803,6 +65900,7 @@ Plinio el Viejo
 Plioceno
 Plissken
 Plomo
+Plosna
 Plum Grove (Texas)
 Pluma (ave)
 Plumas
@@ -66203,6 +66301,7 @@ Premio Louisa Gross Horwitz
 Premio Marcello Mastroianni
 Premio Margaret Edwards
 Premio Mariano de Cavia
+Premio Nacional de Novela (Colombia)
 Premio Nobel
 Premio Nobel de Fisiología o Medicina
 Premio Nobel de Literatura
@@ -66391,6 +66490,7 @@ Primera investidura presidencial de George Washington
 Primera persona (narrativa)
 Primera persona (videojuegos)
 Primetime Emmy
+Primghar
 Primitive Cool
 Primitive and Deadly
 Primo tango a Roma... storia d'amore e d'alchimia
@@ -67683,6 +67783,7 @@ Reitasai
 Rejmanka
 Rejugabilidad
 Relaciones Belice-Costa Rica
+Relaciones Camerún-México
 Relaciones Estados Unidos-Japón
 Relaciones Guinea Ecuatorial-Rusia
 Relaciones México-Naciones Unidas
@@ -68235,6 +68336,7 @@ Robert Spano
 Robert Stone
 Robert Venturi
 Robert Ward
+Robert Webster
 Robert Whittaker
 Robert Wilson (director)
 Robert Wise
@@ -68555,6 +68657,7 @@ Royal Opera House
 Royal Pari Fútbol Club
 Royal Philharmonic Society
 Royal Rumble (2009)
+Royal Rumble (2014)
 Royal Scottish Society of Arts
 Royal Shakespeare Company
 Royal Society
@@ -69067,6 +69170,7 @@ San Jose Earthquakes (NASL)
 San Jose Mercury News
 San José (California)
 San Juan Bautista
+San Juan Bautista (Filippino Lippi)
 San Judas Tadeo Apóstol (título cardenalicio)
 San Leonardo de Yagüe
 San Lucas pintando a la Virgen (Heemskerck)
@@ -70277,6 +70381,7 @@ Skidmore, Owings & Merrill
 Skidmore, Owings and Merrill
 Skins (álbum)
 Skipper
+Skirlaugh
 Skitzofrenix
 Skoczewo
 Skoda
@@ -71840,6 +71945,7 @@ Tecnología emocional
 Tecnología háptica
 Tecnologías de la información
 Tecnologías de la información y la comunicación
+Tecnológico (estación del Tren México-Toluca)
 Tecos de la UAG
 Tectónica de placas
 Ted Elliott
@@ -73040,6 +73146,7 @@ Tomodon
 Tomokazu Sugita
 Tomoko Yonemura
 Tomonori Sudō
+Tomoplagia argentiniensis
 Tomorrow Never Dies
 Toms River (Nueva Jersey)
 Toms River (condado de Ocean, Nueva Jersey)
@@ -74330,6 +74437,7 @@ Vadim Chekmázov
 Vadinienses
 Vaduz
 Vagoneta
+Vahidin Musemić
 Vajrayāna
 Val Gielgud
 Val-et-Châtillon
@@ -74836,6 +74944,7 @@ Vitamina K
 Vitaminas del grupo B
 Vitejhé
 Vito Corleone
+Vitola
 Vitoria
 Vitovnica
 Vitrina Comella
@@ -75197,6 +75306,7 @@ Wessex
 West Baden Springs (Indiana)
 West Bromwich Albion FC
 West Chicago (Illinois)
+West Conshohocken
 West Creek (Nueva Jersey)
 West Dublin/Pleasanton (Metro de San Francisco)
 West Point (Georgia)
@@ -75415,6 +75525,7 @@ William Thomas Stearn
 William Thoms
 William Thornton
 William Toth
+William Townsend
 William W. Boyington
 William Waddell
 William Wallace
@@ -75833,6 +75944,7 @@ Zach Braff
 Zach Gowen
 Zachary Donohue
 Zachary Levi
+Zack Bryant
 Zack Madden
 Zack Ryder
 Zack Snyder
@@ -76033,6 +76145,7 @@ transistor
 Álvaro de Luna
 Álvaro de Miranda Neto
 Ámsterdam
+Ángel Gutiérrez Fanlo
 Ángel de Saavedra
 Ángel del Pozo
 Ángela Villanueva
