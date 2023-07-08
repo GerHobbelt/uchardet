@@ -37,11 +37,11 @@
 
 #include "CharDistribution.h"
 
-#include "JISFreq.tab"
-#include "EUCKRFreq.tab"
-#include "JohabFreq.tab"
-#include "EUCTWFreq.tab"
-#include "GB2312Freq.tab"
+#include "LangModels/JISFreq.tab"
+#include "LangModels/EUCKRFreq.tab"
+#include "LangModels/JohabFreq.tab"
+#include "LangModels/EUCTWFreq.tab"
+#include "LangModels/GB2312Freq.tab"
 
 #define SURE_YES 0.7f
 #define SURE_NO  0.01f
