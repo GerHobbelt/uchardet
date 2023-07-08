@@ -215,7 +215,7 @@ nsresult nsUniversalDetector::HandleData(const char* aBuf, PRUint32 aLen)
         }
         /* Disabling the generic WINDOWS-1252 (Latin 1) prober for now.
          * We now have specific per-language models which are much more
-         * efficients and useful. This is where we should direct our
+         * efficient and useful. This is where we should direct our
          * efforts. Probably the whole nsLatin1Prober should disappear
          * at some point, but let's keep it for now, in case this was an
          * error.
