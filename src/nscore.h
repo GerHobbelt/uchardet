@@ -37,13 +37,15 @@
 #ifndef nsDummyCore_h__
 #define nsDummyCore_h__
 
+#include <stdint.h>
+
 typedef bool PRBool;
-typedef int PRInt32;
-typedef unsigned int PRUint32;
-typedef short PRInt16;
-typedef unsigned short PRUint16;
-typedef signed char PRInt8;
-typedef unsigned char PRUint8;
+typedef int32_t PRInt32;
+typedef uint32_t PRUint32;
+typedef int16_t PRInt16;
+typedef uint16_t PRUint16;
+typedef int8_t PRInt8;
+typedef uint8_t PRUint8;
 
 #define PR_FALSE false
 #define PR_TRUE true

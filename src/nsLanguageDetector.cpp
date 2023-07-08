@@ -50,8 +50,8 @@ nsDetectState nsLanguageDetector::HandleData(const int* codePoints, PRUint32 cpL
 
     mTotalChar++;
 
-    if (order == -1)
-    {
+    if (order < 0 || order >= mModel->freqCharCount)
+	{
       if (codePoints[i] <= 0x1F || codePoints[i] == 0x7F   || /* C0 */
           (codePoints[i] <= 0x9F && codePoints[i] >= 0x80) || /* C1 */
           /* Separators: not strictly control characters for the Unicode
@@ -151,14 +151,14 @@ nsDetectState nsLanguageDetector::HandleData(const int* codePoints, PRUint32 cpL
           mTotalSeqs++;
       }
     }
-    else if (order < mModel->freqCharCount)
+    else // if (order < mModel->freqCharCount)
     {
       mFreqChar++;
 
       if (mLastOrder >= 0 && mLastOrder < mModel->freqCharCount)
       {
         mTotalSeqs++;
-        ++(mSeqCounters[mModel->precedenceMatrix[mLastOrder*mModel->freqCharCount+order]]);
+        ++(mSeqCounters[mModel->precedenceMatrix[mLastOrder * mModel->freqCharCount + order]]);
       }
       else if (mLastOrder == -2)
       {
@@ -220,7 +220,7 @@ float nsLanguageDetector::GetConfidence(void)
     //float neutralSeqs  = mSeqCounters[LANG_NEUTRAL_CAT];
     float negativeSeqs = mSeqCounters[LANG_NEGATIVE_CAT];
 
-    r = (positiveSeqs + probableSeqs / 4 - negativeSeqs * 4) / mTotalSeqs / mModel->accumulatedFreqRatio;
+    r = (positiveSeqs + probableSeqs / 4 - negativeSeqs * 4) / mTotalSeqs / mModel->mTypicalPositiveRatio;
     /* The more characters outside the expected characters
      * (proportionally to the size of the text), the less confident we
      * become in the current language.
@@ -247,32 +247,53 @@ const char* nsLanguageDetector::GetLanguage()
 
 int nsLanguageDetector::GetOrderFromCodePoint(int codePoint)
 {
+	// faster direct lookup available? use it!
+	if (mModel->unicodeCharToOrderMap)
+	{
+		if (codePoint < mModel->unicodeCharToOrderMapLowerBound)
+			return -1;
+
+		int index = codePoint - mModel->unicodeCharToOrderMapLowerBound;
+		if (index < mModel->unicodeCharToOrderFirstTableChunkSize)
+		{
+			return mModel->unicodeCharToOrderMap[index];
+		}
+		else
+		{
+			// check chunk #2:
+			index -= mModel->unicodeCharToOrderSecondTableChunkOffset;
+			if (index < 0)
+				return -1;
+			if (index < mModel->unicodeCharToOrderSecondTableChunkSize)
+				return mModel->unicodeCharToOrderMap[index];
+			return -1;
+		}
+    }
+
+  // use O(log(F)) binary search to find this codepoint's slot:
+  // `max` is the first out-of-bounds index, i.e. max=R+1 from the perspective of the published algorithm.
   int max = mModel->charOrderTableSize;
   int i   = max / 2;
-  int c   = mModel->charOrderTable[i * 2];
+  int c;
 
   while ((c = mModel->charOrderTable[i * 2]) != codePoint)
   {
     if (c > codePoint)
     {
       if (i == 0)
-        break;
-      max = i - 1;
+        return -1;
+      max = i;
       i = i / 2;
-    }
-    else if (i < max - 1)
-    {
-      i += (max - i) / 2;
-    }
-    else if (i == max - 1)
-    {
-      i = max;
     }
     else
     {
-      break;
+      i += (max + 1 - i) / 2;
+      if (i >= max)
+	  {
+        return -1;
+	  }
     }
   }
 
-  return (c == codePoint) ? mModel->charOrderTable[i * 2 + 1] : -1;
+  return mModel->charOrderTable[i * 2 + 1];
 }

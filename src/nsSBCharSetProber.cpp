@@ -68,9 +68,9 @@ nsProbingState nsSingleByteCharSetProber::HandleData(const char* aBuf, PRUint32 
       {
         mTotalSeqs++;
         if (!mReversed)
-          ++(mSeqCounters[mModel->precedenceMatrix[mLastOrder*mModel->freqCharCount+order]]);
+          ++(mSeqCounters[mModel->precedenceMatrix[mLastOrder * mModel->freqCharCount + order]]);
         else // reverse the order of the letters in the lookup
-          ++(mSeqCounters[mModel->precedenceMatrix[order*mModel->freqCharCount+mLastOrder]]);
+          ++(mSeqCounters[mModel->precedenceMatrix[order * mModel->freqCharCount + mLastOrder]]);
       }
       else if (mLastOrder < SYMBOL_CAT_ORDER)
       {
@@ -124,7 +124,7 @@ float nsSingleByteCharSetProber::GetConfidence(int candidate)
 #ifdef NEGATIVE_APPROACH
   if (mTotalSeqs > 0)
     if (mTotalSeqs > mSeqCounters[NEGATIVE_CAT]*10 )
-      return ((float)(mTotalSeqs - mSeqCounters[NEGATIVE_CAT]*10))/mTotalSeqs * mFreqChar / mTotalChar;
+      return ((float)(mTotalSeqs - mSeqCounters[NEGATIVE_CAT] * 10)) / mTotalSeqs * mFreqChar / mTotalChar;
   return (float)0.01;
 #else  //POSITIVE_APPROACH
   float r;

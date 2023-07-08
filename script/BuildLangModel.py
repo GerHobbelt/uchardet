@@ -1126,8 +1126,8 @@ for lang_arg in langs:
  */
 """
 
-  c_code += '\n\n\n#define IRR     {}\n\n'.format(freq_count)
-  c_code += '#define {}OrderWidth         (IRR + 1)\n\n\n'.format(language_c)
+  c_code += '\n\n\n#define IRR                     (-1)\n\n'
+  c_code += '#define {}OrderWidth        {}\n\n\n'.format(language_c, freq_count)
 
   for charset in lang_charsets:
       charset_c = charset.replace('-', '_').title()
@@ -1266,7 +1266,8 @@ for lang_arg in langs:
           column += 1
           CTOM_str += '{:0.9f}f, '.format(ratio)
 
-      CTOM_str += '\n  0\n};\n\n'
+      CTOM_str += '\n  0    /* value slot for out-of-bounds index values; range: 0..freq_count({}) */'.format(freq_count)
+      CTOM_str += '\n};\n\n'
       c_code += CTOM_str
 
   invalid_order_nr = 1000000
@@ -1377,7 +1378,7 @@ for lang_arg in langs:
   c_code += '\n\n#define {}FCMLowerBound  {}\n'.format(language_c, lo_c)
   c_code += '#define {}FCMUpperBound  {}\n\n\n'.format(language_c, hi_c)
 
-  FC_str = 'static const PRUint8 {}{}UnicodeCharToOrder[]'.format(language_c, frequent_cmap_prefix)
+  FC_str = 'static const PRInt16 {}{}UnicodeCharToOrder[]'.format(language_c, frequent_cmap_prefix)
   FC_str += ' =\n{'
 
   longest_irr_run_start = -1
@@ -1433,7 +1434,7 @@ for lang_arg in langs:
       SM_str += '\n\n\n'
       c_code += SM_str
   
-      FC_str = 'static const PRUint8 {}{}UnicodeCharToOrder2[]'.format(language_c, frequent_cmap_prefix)
+      FC_str = 'static const PRInt16 {}{}UnicodeCharToOrder2[]'.format(language_c, frequent_cmap_prefix)
       FC_str += ' =\n{'
 
       count = 0
@@ -1454,18 +1455,13 @@ for lang_arg in langs:
   LM_str = 'static const PRUint8 {}CompactedLangModel[]'.format(language_c)
   LM_str += ' =\n{'
 
-  # last row:
-  #
-  # catch-all for all the infrequent first_chars;
-  # last column is catch-all for all the infrequent second_chars:
-
   omap = [0] * freq_count
   for char, ratio, order in sorted_chars:
       if order < freq_count:
           omap[order] = char
 
   count = 0
-  for first_order in range(0, freq_count - 1):
+  for first_order in range(0, freq_count):
       first_char = omap[first_order]
 
       if debug:
@@ -1474,7 +1470,7 @@ for lang_arg in langs:
           sys.stderr.write('#')
           sys.stderr.flush()
 
-      for second_order in range(0, freq_count - 1):
+      for second_order in range(0, freq_count):
           second_char = omap[second_order]
 
           # Let's not make too long lines.
@@ -1494,22 +1490,6 @@ for lang_arg in langs:
               LM_str += '0,'
 
           count += 1
-
-      # catch-all for all the infrequent second_chars:
-
-      # Let's not make too long lines.
-      if count % line_width == 0:
-          LM_str += '\n  '
-      LM_str += '0,'
-      count += 1
-
-  # catch-all for all the infrequent first_chars:
-  for first_order in omap:
-      # Let's not make too long lines.
-      if count % line_width == 0:
-          LM_str += '\n  '
-      LM_str += '0,'
-      count += 1
 
   LM_str += '\n};\n'
   c_code += LM_str

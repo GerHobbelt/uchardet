@@ -65,13 +65,13 @@ typedef struct
   PRBool               UnicodeCharToOrderIsReduced;      // says if UnicodeCharToOrderMap[] is only for the most frequent characters (TRUE) or for the entire alphabet (FALSE)
 
   /* Table mapping Unicode codepoints to chararacter orders: lookup is [codepoint - LowerBound], value obtained in char_order index. */
-  const PRUint8* const unicodeCharToOrderMap;
+  const PRInt16* const unicodeCharToOrderMap;
 
   // the above table may be split in two: it will then carry only the first chunk, while the next table carries the remainder:
   int                  unicodeCharToOrderFirstTableChunkSize;
   int                  unicodeCharToOrderSecondTableChunkOffset;  // relative to unicodeCharToOrderMapLowerBound
   int                  unicodeCharToOrderSecondTableChunkSize;
-  const PRUint8* const unicodeCharToOrderMap2;
+  const PRInt16* const unicodeCharToOrderMap2;
 
   const float* const   orderToRatioMap;
 
@@ -96,7 +96,7 @@ typedef struct
   int                  lowFreqOrder;
   float                lowFreqRatio;
 
-  float                accumulatedFreqRatio;
+  float                mTypicalPositiveRatio;
 } LanguageModel;
 
 typedef enum {
