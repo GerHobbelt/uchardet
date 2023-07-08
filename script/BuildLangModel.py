@@ -247,15 +247,6 @@ for lang_arg in langs:
   # Starting processing.
   wikipedia.set_lang(lang.wikipedia_code)
 
-  try:
-      rndlist = wikipedia.random(pages=30)
-      lang.start_pages += rndlist
-  except Exception as error:
-      sys.stderr.write("Skipped adding 30 random Wikipedia articles: {}\n".format(error))
-      pass
-
-  if debug: sys.stderr.write("Start pages: {}\n".format(lang.start_pages))
-
   visited_pages = []
   discarded_pages = []
   discarded_delta_pages = []
@@ -387,6 +378,17 @@ for lang_arg in langs:
 
       # append the titles from cache before we start:
       titles = load_links_from_cache(cache_dir, titles)
+
+      if len(titles) < 30:
+          if debug: sys.stderr.write("Adding 30 random Wikipedia pages to the start pages...\n")
+          try:
+              rndlist = wikipedia.random(pages=30)
+              titles += rndlist
+          except Exception as error:
+              sys.stderr.write("Skipped adding 30 random Wikipedia articles: {}\n".format(error))
+              pass
+
+      if debug: sys.stderr.write("Start pages: {}\n".format(titles))
 
       discarded_pages = load_discards_from_cache(cache_dir, discarded_pages)
 
@@ -604,10 +606,19 @@ for lang_arg in langs:
           random.shuffle(next_titles)
           depth += 1
           titles = next_titles
+
+          if len(titles) < 30:
+              if debug: sys.stderr.write("Adding 30 random Wikipedia pages to the start pages at depth {}...\n".format(depth))
+              try:
+                  rndlist = wikipedia.random(pages=30)
+                  titles += rndlist
+              except Exception as error:
+                  sys.stderr.write("Skipped adding 30 random Wikipedia articles: {}\n".format(error))
+                  pass
+
           next_titles = []
 
       store_discards_in_cache(cache_dir, discarded_delta_pages)
-
 
   def sort_and_append_nonduplicate_titles(alist, titles):
       global debug
