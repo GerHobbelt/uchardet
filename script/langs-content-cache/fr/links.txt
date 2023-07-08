@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Benešov
-Chartreuse de Montello
-Shimako Satō
-Adrien Thomas (cyclisme)
-L'Oz production
-Le Bréviaire des nobles
-Kayan (Burkina Faso)
-Danielle Eyango
-Flyswatter
-Cachoeira (Sao Tomé-et-Principe)
-Guéhiébly
-GS Kallithéa
-Lower Harpton
-Squalius ghigii
-Claudio García
-Préface indispensable
-Labarrère
-Péribée (épouse de Télamon)
-Grzędy (Mazovie)
-Château de Montmarin
-Hakone-jinja
-Conseil delphinal
-Khaleel Abduljanan
-Un monstre à mille têtes
-Zéro de conduite
-Mischianza
-Parc naturel de la Kuja
-Désiré Blanchet
-Michamps
-Gymnothorax isingteena
+Montabert (Aube)
+Vintage Mecanic
+Université de Milan
+Dobrá (district de Frýdek-Místek)
+CNY
+Cesarska Ves
+Lewistown (Pennsylvanie)
+Bad Schwalbach
+Ferme ECA 148
+Caspar Wessel
+Néophobie alimentaire
+Gyltvikmoen
+Désastre d'Aznalcóllar
+Fabien Morel
+Desmond Koch
+Thomas Deruette
+Sepiana sepium
+Shokukokin wakashū
+Nasser Zefzafi
+Tay (Ontario)
+Marcantonio Bobba
+Limage des dents à Bali
+Pantherophis vulpinus
+Signe des cornes
+Edme Aimé Lucotte
+Eupnoi
+Sekirani
+Référendum constitutionnel comorien de 2018
+Orbiter (attraction)
+Coriance
 $uicideboy$
 ''First Aid Kit''
 'Imrān
@@ -204,6 +204,7 @@ $uicideboy$
 (55565) 2002 AW197
 (5562) Sumi
 (55637) 2002 UX25
+(5686) Chiyonoura
 (588) Achille
 (589683) 2010 RF43
 (624) Hector
@@ -3157,6 +3158,7 @@ Abbaye de Honcourt
 Abbaye de Westminster
 Abbaye de la Novalaise
 Abbaye du Mont-Saint-Michel
+Abbey (entreprise)
 Abbey Road (album)
 Abbey Road (rue)
 Abbey Wood
@@ -3248,6 +3250,7 @@ Abyss (film)
 Abysse
 Abysses (série télévisée)
 Abécédaire
+Abû `Abd Allah Muhammad al-Mustansir
 Academy Award
 Academy Award for Best Original Song
 Academy of Motion Picture Arts and Sciences
@@ -3603,6 +3606,7 @@ Adrien Michaux
 Adrien Solis
 Adrien Tambay
 Adrien Taquet
+Adrien Thomas (cyclisme)
 Adrienne de La Fayette
 Adscape
 Adsorption
@@ -5549,6 +5553,7 @@ Angelica Robinson
 Angelina Jolie
 Angelique Kerber
 Angelo Debarre
+Angelo Houssou
 Angelus-Rosedale Cemetery
 Anger-Marshall-Manring
 Angera
@@ -8988,6 +8993,7 @@ Benedict Arnold
 Benedita da Silva
 Benelli
 Benelli (motorcycles)
+Benešov
 Benfica Lisbonne B
 Beng Climaco
 Bengale
@@ -9278,6 +9284,7 @@ Bet.e
 Bet.e & Stef
 Bet.e and Stef
 Beta Canum Venaticorum
+Betagel
 Betamax
 Beth Hart
 Beth Orton
@@ -11492,6 +11499,7 @@ CableACE Awards
 Cabula
 Cacahuète
 Cachoeira (Bahia)
+Cachoeira (Sao Tomé-et-Principe)
 Caché
 Cacocharis
 Cacoecimorpha
@@ -14553,6 +14561,7 @@ Charlottenlund
 Charlottesville
 Charlottetown
 Charlton Heston
+Charly Greane
 Charly Yapo
 CharlÉlie Couture
 Charlélie Couture
@@ -14579,6 +14588,7 @@ Charte sociale européenne
 Charter Communications
 Charters Towers
 Chartres
+Chartreuse de Montello
 Charts in France
 Chartwell
 Chase Elliott
@@ -15283,6 +15293,7 @@ Château de La Grange-Bléneau
 Château de Ligondès
 Château de Lornay
 Château de Montluel
+Château de Montmarin
 Château de Norwich
 Château de Richemont (Villette-sur-Ain)
 Château de Saint-Pastour
@@ -15774,6 +15785,7 @@ Claudine Mercier
 Claudinho (football, 1997)
 Claudio Castagnoli
 Claudio Descalzi (scénariste)
+Claudio García
 Claudio Giovannesi
 Claudio Rissi
 Claudio Santamaria
@@ -16759,6 +16771,7 @@ Conseil de recherche en sciences humaines du Canada
 Conseil de surveillance du comté de Los Angeles
 Conseil de sécurité des Nations Unies
 Conseil de sécurité des Nations unies
+Conseil delphinal
 Conseil des anciens
 Conseil des droits de l'Homme des Nations unies
 Conseil des relations étrangères
@@ -18676,6 +18689,7 @@ Danielle Anatólio
 Danielle Bradbery
 Danielle Collins
 Danielle Darrieux
+Danielle Eyango
 Danielle Hotte
 Danielle Macdonald
 Danielle Nègre
@@ -19517,6 +19531,7 @@ Desi Arnaz Jr.
 Design numérique
 Desio
 Desirae Krawczyk
+Desmaisons
 Desmocladus
 Desmond Chiam
 Desmond Doss
@@ -20707,6 +20722,7 @@ Dragon Quest : La Quête de Daï
 Dragon Quest Monsters: Terry's Wonderland
 Dragon Tiger Gate
 Dragon européen
+Dragon's Lair 3D: Return to the Lair
 Dragon, l'histoire de Bruce Lee
 Dragon: The Bruce Lee Story (jeu vidéo)
 Dragonland
@@ -21251,6 +21267,7 @@ Désinfection
 Désinformation
 Désinformation sur la pandémie de Covid-19
 Désir sexuel
+Désiré Blanchet
 Désobéissance civile
 Déségrégation
 Détecteur de pluie
@@ -23972,6 +23989,7 @@ Flying officer
 Flynn Carson et les Nouveaux Aventuriers
 Flysch
 Flysch rhénodanubien
+Flyswatter
 Flávia Nascimento
 Flávio Minuano
 Flâneur
@@ -25060,6 +25078,7 @@ Félix Leclerc
 Félix Moati
 Félix Rabbe
 Félix Régnault
+Félix Viallet (industriel)
 Félix d'Hérelle
 Félix de Boucheporn
 Félix de Saulcy
@@ -25176,6 +25195,7 @@ GPS (assistant de navigation)
 GQ (magazine)
 GR des Ardennes flamandes
 GRB 080319B
+GS Kallithéa
 GTA (groupe)
 Ga (peuple)
 Ga-Rankuwa
@@ -27484,6 +27504,7 @@ Grushko
 Gryllidae
 Grypania
 Gryposcleroma
+Grzędy (Mazovie)
 Grèce
 Grèce antique
 Grèce aux Jeux olympiques d'été de 1952
@@ -27978,6 +27999,7 @@ Gué barré cramponné
 Gué réfléchi
 Gué réfléchi barré
 Gué réfléchi crochet inférieur gauche
+Guéhiébly
 Guérar
 Guérilla
 Guérilla urbaine
@@ -28228,6 +28250,7 @@ Gymnopilus zempoalensis
 Gymnopilus zenkeri
 Gymnosperme
 Gymnote (1888)
+Gymnothorax isingteena
 Gympie
 Gynnidomorpha
 Gynomorphe
@@ -28552,6 +28575,7 @@ Hajo Hoffmann (homme politique)
 Hakim Ziyech
 Hakim al-Nishaburi
 Hakka
+Hakone-jinja
 Hal B. Wallis
 Hal C. Kern
 Hal Hoye
@@ -32669,6 +32693,7 @@ Jackson (Kentucky)
 Jackson (Mississippi)
 Jackson (Wisconsin)
 Jackson Avery
+Jacksonville (Arkansas)
 Jacksonville (Floride)
 Jacksoul
 Jacky Ido
@@ -35794,6 +35819,7 @@ Kawęczyn (Ryki)
 Kay Hammond (actrice américaine)
 Kay Stammers
 Kaya Futbol Club
+Kayan (Burkina Faso)
 Kazaa
 Kazakhstan
 Kazan
@@ -36110,6 +36136,7 @@ Khaganat turc
 Khajybeyskyï Lyman
 Khaled (chanteur)
 Khaled Alouach
+Khaleel Abduljanan
 Khalid Al Ma'ajil
 Khalifa
 Khamal Ahmed Elfar
@@ -36885,6 +36912,7 @@ L'Origine des espèces
 L'Orpheline ou le Mariage malheureux
 L'Oréal
 L'Ourson Doré
+L'Oz production
 L'Ultime Voyage
 L'Un dans l'autre
 L'Union (Haute-Garonne)
@@ -37057,6 +37085,7 @@ La Chose (comics)
 La Chronique des Bridgerton
 La Chute de Berlin
 La Chute de Londres
+La Chute de Paris
 La Chute de la Maison-Blanche
 La Chute des espions : partie 2
 La Chute du Président
@@ -37564,6 +37593,7 @@ LaTanya Richardson
 LaTeX
 Laavor et hakir
 Laban
+Labarrère
 Labatt
 Label discographique
 Label indépendant
@@ -38120,6 +38150,7 @@ Le Bourreau des cœurs
 Le Bouscat
 Le Brio
 Le Browning
+Le Bréviaire des nobles
 Le Bréviaire des robots
 Le Butor (Saint-Denis)
 Le Cadeau de Carole
@@ -41133,6 +41164,7 @@ Lovran
 Low (album de David Bowie)
 Low (chanson de Lenny Kravitz)
 Lowell Sherman
+Lower Harpton
 Lower Manhattan
 Lowestoft
 Lowlands
@@ -41375,6 +41407,7 @@ Lustenau
 Lusterala
 Luther : Soleil déchu
 Luting
+Lutomia Górna
 Lutomiersk (Pabianice)
 Luton
 Luton Town Football Club
@@ -44258,6 +44291,7 @@ Michael et Peter Spierig
 Michael Špaček
 Michaela Conlin
 Michail Kletcherov
+Michamps
 Michatun
 Michau
 Michaud
@@ -44604,6 +44638,7 @@ Mikhaïl Glinka
 Mikhaïl Gorbatchev
 Mikhaïl Lermontov
 Mikhaïl Vorobiov
+Mikhaïl Zenkevitch
 Mikio Ikemoto
 Mikio Itō
 Mikio Yoshimori
@@ -44862,6 +44897,7 @@ Misaki Doi
 Misandrie
 Misanthrope (film)
 Mischa Bakaleinikoff
+Mischianza
 Mise en abyme
 Mise en examen
 Mise en musique des poèmes de Charles Baudelaire
@@ -46344,6 +46380,7 @@ NGC 1260
 NGC 1647
 NGC 2385
 NGC 2808
+NGC 3779
 NGC 3952
 NGC 4526
 NGC 4530
@@ -46460,6 +46497,7 @@ Namie Odama
 Namphamon de Madaure
 Namur
 Nan Madol
+Nana Neul
 Nana Vasconcelos
 Nancahuazu
 Nance O'Neil
@@ -48272,6 +48310,7 @@ Olga Novikoff
 Olga Puchkova
 Olga Savchuk
 Olga Tokarczuk
+Olga Volkova
 Oli Brown Band
 Olievenhoutbos
 Oligo-élément
@@ -48874,6 +48913,7 @@ Ortognathosia
 Ortolang
 Orvar Bergmark
 Orville Moody
+Oryba kadeni
 Oryctolagus cuniculus
 Oryguncus
 Os d'Ishango
@@ -49417,6 +49457,7 @@ Panique bancaire américaine de 1907
 Panique sur la côte
 Panjabi MC
 Panne de courant de juillet 2012 en Inde
+Panneau d'annonce de ralentisseur de type dos-d'âne en France
 Panneau de signalisation routière
 Pannonica de Koenigswarter
 Pannotia
@@ -49573,6 +49614,7 @@ Parc national de Petrified Forest
 Parc national de Yellowstone
 Parc national du Kosciuszko
 Parc national olympique du Canada
+Parc naturel de la Kuja
 Parc naturel régional du Haut-Jura
 Parc provincial de Canmore Nordic Centre
 Parc quasi national d'Abashiri
@@ -50972,6 +51014,7 @@ Physique des plasmas
 Physique nucléaire
 Physique numérique
 Physique stellaire
+Physostigma
 Phytolithe
 Phytoplancton
 Phytothérapie
@@ -52698,6 +52741,7 @@ Précurseur (chimie)
 Prédateur
 Prédateurs nocturnes (Batman)
 Prédictions
+Préface indispensable
 Préfecture autonome yi de Chuxiong
 Préfecture d'Osaka
 Préfecture de Fukuoka
@@ -53034,6 +53078,7 @@ Pépinière
 Pépé et sa guitare
 Pérama
 Péribsen
+Péribée (épouse de Télamon)
 Périclès
 Périgueux
 Périgueux Foot
@@ -54699,6 +54744,7 @@ Rivière
 Rivière Canning
 Rivière Qijuttuuq
 Rivière Rémy
+Rivière à Ange
 Rivière-du-Loup
 Rivoli
 Rixensart
@@ -54726,6 +54772,7 @@ Roadster (moto)
 Roald Dahl
 Roam (groupe)
 Roanne
+Roar Ljøkelsøy
 Rob Corn
 Rob Fowler
 Rob Harris (curling)
@@ -57503,6 +57550,7 @@ Scanners
 Scanorama
 Scapa Flow
 Scaphisme
+Scaravay
 Scarborough (Yorkshire du Nord)
 Scarface (film, 1932)
 Scarification (jardinage)
@@ -58385,6 +58433,7 @@ Shikeurit madeo
 Shilling
 Shilluk (langue)
 Shilvi
+Shimako Satō
 Shin Mitsuhara
 Shin'ichi Sakamoto
 Shinai
@@ -59723,6 +59772,7 @@ Spécialisation militaire
 Spécisme
 Squadron 42
 Squadron leader
+Squalius ghigii
 Squamata
 Square Thomas-Jefferson
 Squelette
@@ -65516,6 +65566,7 @@ Tremophora
 Tremulina
 Trench (Telford)
 Trent McMullen
+Trent Munro
 Trent Reznor
 Trente (Italie)
 Trente Glorieuses
@@ -66329,6 +66380,7 @@ Un match au sommet
 Un midi à l’Opéra
 Un monde meilleur (album)
 Un monde parfait (film)
+Un monstre à mille têtes
 Un parfum de meurtre
 Un pasteur d'enfer
 Un peuple et son roi
@@ -66355,6 +66407,7 @@ Un été en Louisiane (film)
 Un été pourri
 Un, deux, trois...
 Una (film)
+Una pareja perfecta
 Uname
 Unanimisme
 Unbreakable Kimmy Schmidt
@@ -66877,6 +66930,7 @@ Vaisala
 Vaishno Devi
 Vaisseau lymphatique
 Val (géomorphologie)
+Val Fex
 Val Kilmer
 Val Thomas
 Val d'Isère
@@ -67183,6 +67237,7 @@ Version française
 Version multilingue
 Versions alternatives de Batman
 Versmold
+Vert Janus B
 Vertebrata
 Vertes Demeures
 Vertex Pharmaceuticals
@@ -69239,6 +69294,7 @@ Wu-Tang Clan
 Wuhan
 Wuppertal
 Wurre Wurre
+Wurstemberger
 Wurtzbourg
 Wuthering Heights (chanson)
 Wyatt Buck
@@ -69384,6 +69440,7 @@ Yael Deckelbaum
 Yael Naim
 Yagan (Australie)
 Yagma (Zam)
+Yahia Djouadi
 Yahoel
 Yahoo!
 Yahoo! Games
@@ -69655,6 +69712,7 @@ Yunusemreia
 Yunâni
 Yury & Grigori
 Yusuke Murata
+Yusuke Sato
 Yusuke Takeyama
 Yutaka Takahashi
 Yuyu Hakusho
@@ -70034,6 +70092,7 @@ Zéphyr Artillerie
 Zéphyr and Friends
 Zéro (chiffre)
 Zéro barré
+Zéro de conduite
 Zéro de conduite (groupe)
 Zózimo
 Zózimo Bulbul
@@ -70577,6 +70636,7 @@ xian de Wencheng
 Église Saint-Michel-Archange de Mokrin
 Église Saint-Pierre de Chaniers
 Église Saint-Pierre de Neuillé-Pont-Pierre
+Église Saint-Pierre-et-Saint-Pardoux d'Arnac-Pompadour
 Église Saint-Symphorien de Ponthion
 Église Sainte-Marguerite de Westminster
 Église Sainte-Tanche de Lhuître
@@ -71688,6 +71748,7 @@ $uicideboy$
 (55565) 2002 AW197
 (5562) Sumi
 (55637) 2002 UX25
+(5686) Chiyonoura
 (588) Achille
 (589683) 2010 RF43
 (624) Hector
@@ -74641,6 +74702,7 @@ Abbaye de Honcourt
 Abbaye de Westminster
 Abbaye de la Novalaise
 Abbaye du Mont-Saint-Michel
+Abbey (entreprise)
 Abbey Road (album)
 Abbey Road (rue)
 Abbey Wood
@@ -74732,6 +74794,7 @@ Abyss (film)
 Abysse
 Abysses (série télévisée)
 Abécédaire
+Abû `Abd Allah Muhammad al-Mustansir
 Academy Award
 Academy Award for Best Original Song
 Academy of Motion Picture Arts and Sciences
@@ -77034,6 +77097,7 @@ Angelica Robinson
 Angelina Jolie
 Angelique Kerber
 Angelo Debarre
+Angelo Houssou
 Angelus-Rosedale Cemetery
 Anger-Marshall-Manring
 Angera
@@ -79451,6 +79515,7 @@ Bad Religion
 Bad Salzuflen
 Bad Saulgau
 Bad Schandau
+Bad Schwalbach
 Bad Times (film)
 Bad Toys 2
 Bad Toys II
@@ -80764,6 +80829,7 @@ Bet.e
 Bet.e & Stef
 Bet.e and Stef
 Beta Canum Venaticorum
+Betagel
 Betamax
 Beth Hart
 Beth Orton
@@ -83803,6 +83869,7 @@ Casimir Perier
 Casino (film)
 Casio
 Caspar David Friedrich
+Caspar Wessel
 Casper (film)
 Casque
 Casque de moto
@@ -84134,6 +84201,7 @@ Cesaria Evora
 Cesaro (catch)
 Cesaro (catcheur)
 Cesaro et Sheamus
+Cesarska Ves
 Cescau (Ariège)
 Cessez-le-feu
 Cessez-le-feu (film)
@@ -86040,6 +86108,7 @@ Charlottenlund
 Charlottesville
 Charlottetown
 Charlton Heston
+Charly Greane
 Charly Yapo
 CharlÉlie Couture
 Charlélie Couture
@@ -88677,6 +88746,7 @@ Corey Taylor
 Corey Yuen
 Corfe Mullen
 Corgi toys
+Coriance
 Corina Morariu
 Corine Land Cover
 Corinne Fortin
@@ -91009,9 +91079,11 @@ Desi Arnaz Jr.
 Design numérique
 Desio
 Desirae Krawczyk
+Desmaisons
 Desmocladus
 Desmond Chiam
 Desmond Doss
+Desmond Koch
 Desmond Morton (officier)
 Desolation Row
 Desperate Housewives
@@ -91669,6 +91741,7 @@ Dobrohošť (district de Dunajská Streda)
 Dobrohošť (district de Jindřichův Hradec)
 Dobrušte
 Dobrynia Nikititch
+Dobrá (district de Frýdek-Místek)
 Dobšice (district de Nymburk)
 Doc Gallows et Karl Anderson
 Doc Hollywood
@@ -92199,6 +92272,7 @@ Dragon Quest : La Quête de Daï
 Dragon Quest Monsters: Terry's Wonderland
 Dragon Tiger Gate
 Dragon européen
+Dragon's Lair 3D: Return to the Lair
 Dragon, l'histoire de Bruce Lee
 Dragon: The Bruce Lee Story (jeu vidéo)
 Dragonland
@@ -92726,6 +92800,7 @@ Dérive de Stokes
 Dérive des continents
 Dérèglement climatique
 Désarrondissement
+Désastre d'Aznalcóllar
 Désert Rebelle
 Désert d'Arabie
 Désertification
@@ -92994,6 +93069,7 @@ Edition of Contemporary Music
 Edixa
 Edma Morisot
 Edmar
+Edme Aimé Lucotte
 Edme Boursault
 Edme Gaulle
 Edme Quenedey des Riceys
@@ -94169,6 +94245,7 @@ Euphorbe petit-cyprès
 Euphorbia cyparissias
 Euphrate
 Euphémisme
+Eupnoi
 Eupoecilia
 Eurabia
 Eurasia (1984)
@@ -94504,6 +94581,7 @@ Fabiana Claudino
 Fabien Behar
 Fabien Béhar
 Fabien Gorgeart
+Fabien Morel
 Fabienne Babe
 Fabienne Carat
 Fabienne Godet
@@ -94890,6 +94968,7 @@ Fergie (chanteuse)
 Fergus Anderson
 Fergus O'Donnell
 Fermate il mondo... voglio scendere!
+Ferme ECA 148
 Ferme de corps
 Ferme tes jolis yeux
 Ferme verticale
@@ -96554,6 +96633,7 @@ Félix Leclerc
 Félix Moati
 Félix Rabbe
 Félix Régnault
+Félix Viallet (industriel)
 Félix d'Hérelle
 Félix de Boucheporn
 Félix de Saulcy
@@ -99490,6 +99570,7 @@ Gwerz (groupe)
 Gwilym Lloyd George
 Gwyneth Paltrow
 Gylippus afghanensis
+Gyltvikmoen
 Gym Class Heroes
 Gymkhana (moto)
 Gymnandrosoma
@@ -104168,6 +104249,7 @@ Jackson (Kentucky)
 Jackson (Mississippi)
 Jackson (Wisconsin)
 Jackson Avery
+Jacksonville (Arkansas)
 Jacksonville (Floride)
 Jacksoul
 Jacky Ido
@@ -108559,6 +108641,7 @@ La Chose (comics)
 La Chronique des Bridgerton
 La Chute de Berlin
 La Chute de Londres
+La Chute de Paris
 La Chute de la Maison-Blanche
 La Chute des espions : partie 2
 La Chute du Président
@@ -110996,6 +111079,7 @@ Lewis Miley
 Lewis R. Freeman
 Lewis Spratlan
 Lewisham
+Lewistown (Pennsylvanie)
 Lewisville (Texas)
 Lewrockwell
 Lex Land
@@ -111266,6 +111350,7 @@ Lily Tomlin
 Lilí Álvarez
 Lima Barreto
 Limace
+Limage des dents à Bali
 Limbiate
 Limeulia
 Limhamn
@@ -112880,6 +112965,7 @@ Lustenau
 Lusterala
 Luther : Soleil déchu
 Luting
+Lutomia Górna
 Lutomiersk (Pabianice)
 Luton
 Luton Town Football Club
@@ -113984,6 +114070,7 @@ Marc-André Selosse
 Marc-Antoine Charpentier
 Marc-Gilbert Sauvajon
 Marc-René de Voyer de Paulmy d'Argenson (1771-1842)
+Marcantonio Bobba
 Marcel Achard
 Marcel Alexandre Bertrand
 Marcel Aymar
@@ -116110,6 +116197,7 @@ Mikhaïl Glinka
 Mikhaïl Gorbatchev
 Mikhaïl Lermontov
 Mikhaïl Vorobiov
+Mikhaïl Zenkevitch
 Mikio Ikemoto
 Mikio Itō
 Mikio Yoshimori
@@ -116791,6 +116879,7 @@ Mont-Sainte-Gertrude
 Mont-Ventoux
 Mont-de-Marsan
 Monta Ellis
+Montabert (Aube)
 Montage parallèle
 Montagnana
 Montagne Noire (Australie)
@@ -117851,6 +117940,7 @@ NGC 1260
 NGC 1647
 NGC 2385
 NGC 2808
+NGC 3779
 NGC 3952
 NGC 4526
 NGC 4530
@@ -117967,6 +118057,7 @@ Namie Odama
 Namphamon de Madaure
 Namur
 Nan Madol
+Nana Neul
 Nana Vasconcelos
 Nancahuazu
 Nance O'Neil
@@ -118061,6 +118152,7 @@ Nassau (Bahamas)
 Nassau Coliseum
 Nasser Al-Shamrani
 Nasser Eid
+Nasser Zefzafi
 Nasser al-Shamrani
 Nat Carr
 Nat King Cole
@@ -119399,6 +119491,7 @@ Néolithique précéramique A
 Néolithique précéramique B
 Néologisme
 Néonazisme
+Néophobie alimentaire
 Néoprotérozoïque
 Néoptolème
 Néoptolème Ier
@@ -119779,6 +119872,7 @@ Olga Novikoff
 Olga Puchkova
 Olga Savchuk
 Olga Tokarczuk
+Olga Volkova
 Oli Brown Band
 Olievenhoutbos
 Oligo-élément
@@ -120132,6 +120226,7 @@ Orateur
 Orbassano
 Orbe (Vaud)
 Orbital (groupe)
+Orbiter (attraction)
 Orbitolina
 Orcades
 Orcha
@@ -120381,6 +120476,7 @@ Ortognathosia
 Ortolang
 Orvar Bergmark
 Orville Moody
+Oryba kadeni
 Oryctolagus cuniculus
 Oryguncus
 Os d'Ishango
@@ -120924,6 +121020,7 @@ Panique bancaire américaine de 1907
 Panique sur la côte
 Panjabi MC
 Panne de courant de juillet 2012 en Inde
+Panneau d'annonce de ralentisseur de type dos-d'âne en France
 Panneau de signalisation routière
 Pannonica de Koenigswarter
 Pannotia
@@ -120935,6 +121032,7 @@ Panspermie
 Pantages Theatre
 Pantalonnade
 Panthalassa
+Pantherophis vulpinus
 Panthers de Pittsburgh
 Panthers de la Floride
 Panthéon (Paris)
@@ -122480,6 +122578,7 @@ Physique des plasmas
 Physique nucléaire
 Physique numérique
 Physique stellaire
+Physostigma
 Phytolithe
 Phytoplancton
 Phytothérapie
@@ -126209,6 +126308,7 @@ Rivière
 Rivière Canning
 Rivière Qijuttuuq
 Rivière Rémy
+Rivière à Ange
 Rivière-du-Loup
 Rivoli
 Rixensart
@@ -126236,6 +126336,7 @@ Roadster (moto)
 Roald Dahl
 Roam (groupe)
 Roanne
+Roar Ljøkelsøy
 Rob Corn
 Rob Fowler
 Rob Harris (curling)
@@ -127518,6 +127619,7 @@ Réfraction
 Réfugié
 Réfutabilité
 Référendum
+Référendum constitutionnel comorien de 2018
 Référendum de 1998 sur l'Autorité du Grand Londres
 Référendum de 2017 sur l'indépendance de la Catalogne
 Référendum de dévolution de l'Écosse de 1979
@@ -129013,6 +129115,7 @@ Scanners
 Scanorama
 Scapa Flow
 Scaphisme
+Scaravay
 Scarborough (Yorkshire du Nord)
 Scarface (film, 1932)
 Scarification (jardinage)
@@ -129426,6 +129529,7 @@ Seine-et-Marne
 Seinen
 Seinfeld
 Sekai wa Sore Demo Kawari wa Shinai
+Sekirani
 Sekirei (anime)
 Sekret Enigmy
 Sel alimentaire
@@ -129488,6 +129592,7 @@ Seokjojeotaek salinsagun
 Seol Kyeong-gu
 Seonjo
 Separated at Worth
+Sepiana sepium
 Sepiida
 Sepp Ferstl
 Sepphoris
@@ -129949,6 +130054,7 @@ Shocker (film)
 Shoehorn
 Shogun (mini-série)
 Shoichi Funaki
+Shokukokin wakashū
 Shola Ameobi
 Shona Robison
 Shonda Rhimes
@@ -130089,6 +130195,7 @@ Signalisation bilingue
 Signalisation cellulaire
 Signalisation maritime
 Signature en télédétection
+Signe des cornes
 Signe diacritique
 Signe linguistique
 Signe moins
@@ -133525,6 +133632,7 @@ Taxodium mucronatum
 Taxon
 Taxonomie
 Taxonomie de Bloom
+Tay (Ontario)
 Tay (fleuve)
 Tay Garnett
 Taye Diggs
@@ -135028,6 +135136,7 @@ Thomas Crump
 Thomas D. Cook
 Thomas De Koninck
 Thomas Denman
+Thomas Deruette
 Thomas Doisy
 Thomas Dutronc
 Thomas Edison
@@ -137028,6 +137137,7 @@ Tremophora
 Tremulina
 Trench (Telford)
 Trent McMullen
+Trent Munro
 Trent Reznor
 Trente (Italie)
 Trente Glorieuses
@@ -137868,6 +137978,7 @@ Un été en Louisiane (film)
 Un été pourri
 Un, deux, trois...
 Una (film)
+Una pareja perfecta
 Uname
 Unanimisme
 Unbreakable Kimmy Schmidt
@@ -138142,6 +138253,7 @@ Université de Liverpool
 Université de Louisville
 Université de Manchester
 Université de Marbourg
+Université de Milan
 Université de Moncton
 Université de Nanterre
 Université de Naples - Frédéric-II
@@ -138390,6 +138502,7 @@ Vaisala
 Vaishno Devi
 Vaisseau lymphatique
 Val (géomorphologie)
+Val Fex
 Val Kilmer
 Val Thomas
 Val d'Isère
@@ -138696,6 +138809,7 @@ Version française
 Version multilingue
 Versions alternatives de Batman
 Versmold
+Vert Janus B
 Vertebrata
 Vertes Demeures
 Vertex Pharmaceuticals
@@ -139023,6 +139137,7 @@ Vinnie Jones
 Vinnytsia
 Vinod Jose
 Vint Cerf
+Vintage Mecanic
 Vintage Trouble
 Vintimille
 Vinyle
@@ -140752,6 +140867,7 @@ Wu-Tang Clan
 Wuhan
 Wuppertal
 Wurre Wurre
+Wurstemberger
 Wurtzbourg
 Wuthering Heights (chanson)
 Wyatt Buck
@@ -140897,6 +141013,7 @@ Yael Deckelbaum
 Yael Naim
 Yagan (Australie)
 Yagma (Zam)
+Yahia Djouadi
 Yahoel
 Yahoo!
 Yahoo! Games
@@ -141168,6 +141285,7 @@ Yunusemreia
 Yunâni
 Yury & Grigori
 Yusuke Murata
+Yusuke Sato
 Yusuke Takeyama
 Yutaka Takahashi
 Yuyu Hakusho
@@ -142091,6 +142209,7 @@ xian de Wencheng
 Église Saint-Michel-Archange de Mokrin
 Église Saint-Pierre de Chaniers
 Église Saint-Pierre de Neuillé-Pont-Pierre
+Église Saint-Pierre-et-Saint-Pardoux d'Arnac-Pompadour
 Église Saint-Symphorien de Ponthion
 Église Sainte-Marguerite de Westminster
 Église Sainte-Tanche de Lhuître

@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Mistrzostwa Europy w Lekkoatletyce 1971 – skok wzwyż kobiet
-Magdalena Contreras
-Bützow (stacja kolejowa)
-Nidd
-Eklogy a písně (Vrchlický)
-D’Urville Island (Antarktyka)
-Hallo Szpicbródka, czyli ostatni występ króla kasiarzy
-Setna
-Polska na Letnich Igrzyskach Olimpijskich Młodzieży 2018
-Zarządzanie Publiczne
-Włodzimierz Rużycki de Rosenwerth
-Warenhaus Rudolph Karstadt (Szczecin)
-Penge West (stacja kolejowa)
-Peugeot 406 Coupé
-Pierre Minvielle
-Great Shelford
-Paddy Ashdown
-Teklit Teweldebrhan
-Antoni Jabłoński (1918–2015)
-Bize (Górna Marna)
-Kalameny
-A100
-Korea Open 2014
-Zygmunt Powstaniec (pociąg pancerny)
-Zbigniew Rudnicki
-Tesla (album)
-Washita
-Leon Magierowski
-Álvaro Siviero
-Mistrzostwa Świata w Wioślarstwie 2013
+Karczma Katowicka
+Szahruch
+Filip Walotka
+Varnhem
+Julien Green
+Ałan Gatagow
+Yūto Nagatomo
+(2961) Katsurahama
+Uwertura do „Tannhäusera”
+Ignacio Ithurralde
+Reprezentacja Barbadosu w rugby 7 mężczyzn
+Łubnice
+Maurice Camara
+Myszka lotnicza nr 2
+Dąbrowa (gmina Korytnica)
+Jan Szlubicz Załęski
+Kozia Góra
+Chris White (saksofonista)
+Zamek Hohenschwangau
+Brewster (miasto w hrabstwie Barnstable)
+Mike Robertson
+Solitude, Dominance, Tragedy
+Krystyna Sawicka
+Goodison Park
+Belgia na Zimowych Igrzyskach Olimpijskich 1976
+Gnilica mózgowata
+Mokronos
+Gerda Hasselfeldt
+Chlorocyphidae
+Jakubiwka (obwód winnicki)
 &Twice
 (1) Ceres
 (10140) Villon
@@ -94,6 +94,7 @@ Mistrzostwa Świata w Wioślarstwie 2013
 (11947) Kimclijsters
 (120347) Salacia
 (134340) Pluton
+(13489) Dmitrienko
 (136108) Haumea
 (136199) Eris
 (136472) Makemake
@@ -1851,6 +1852,7 @@ Agnes de Mille
 Agnese Possamai
 Agnieszka Brustman
 Agnieszka Cyl
+Agnieszka Czekierda
 Agnieszka Holland
 Agnieszka Jechowska-Siwek
 Agnieszka Przemyślidka (1211–1282)
@@ -3231,6 +3233,7 @@ Andrzej Dzięga
 Andrzej Ehrenfeucht
 Andrzej Flisiuk
 Andrzej Frycz Modrzewski
+Andrzej Gaca
 Andrzej Grubba
 Andrzej Górka (1500–1551)
 Andrzej Górka (zm. 1583)
@@ -3597,6 +3600,7 @@ Antoni Frenzel
 Antoni Gaudí
 Antoni I Brabancki
 Antoni Jabłoński (1896–1920)
+Antoni Jabłoński (1918–2015)
 Antoni Kazimierz Ostrowski
 Antoni Kroh
 Antoni Laubitz
@@ -6136,6 +6140,7 @@ Biały Grzebień
 Biały Karbik
 Biały Kopiniak
 Biały Kościół (województwo dolnośląskie)
+Biały Murzyn
 Biały karzeł
 Biały koń nie jest koniem
 Biały terror (Francja)
@@ -6602,6 +6607,7 @@ Biurokracja
 Biwa (jezioro)
 Bixente Lizarazu
 Biza’a
+Bize (Górna Marna)
 Bizerta
 Biznes
 Biła Krynycia (obwód żytomierski)
@@ -8215,6 +8221,7 @@ Bûche de Noël
 Bülent Arınç
 Bürgerbräukeller
 Bütthard
+Bützow (stacja kolejowa)
 Býšovec
 Băcani (gmina)
 Bătdâmbâng (miasto)
@@ -15320,6 +15327,7 @@ Dżuruf
 Dżuta
 Dżu’ajfijjat al-Maszi
 D’Este
+D’Urville Island (Antarktyka)
 E! Entertainment
 E.Leclerc
 E.S.S. Mega
@@ -15664,6 +15672,7 @@ Ekaterina Syrtseva
 Ekechejria
 Eklektyzm (architektura)
 Ekliptyka
+Eklogy a písně (Vrchlický)
 Ekolog
 Ekologia
 Ekonomia
@@ -16795,6 +16804,7 @@ Fairchild XC-120 Packplane
 Faith (album George’a Michaela)
 Fajac-la-Relenque
 Fajermon
+Fajsal asz-Szabi
 Fajsal ibn Abd al-Aziz Al Su’ud
 Fajsz
 Fajsławice (gmina)
@@ -19227,6 +19237,7 @@ Ginger Rogers
 Gingham Check
 Gino Colaussi
 Gino Iorgulescu
+Gintama
 Ginter (elekt kamieński)
 Giordano Bruno
 Giorgio Basta
@@ -20215,6 +20226,7 @@ Grdun
 Grease Live!
 Great Cornard
 Great Green
+Great Shelford
 Great Sitkin
 Great Waldingfield
 Great Wenham
@@ -21191,6 +21203,7 @@ Hacienda Heights
 Hacinas
 Hackney Hawks
 Hadabat
+Hadad
 Hadaka Matsuri
 Hadas
 Haddadin
@@ -21296,6 +21309,7 @@ Halle Berry
 Hallelujah (piosenka Leonarda Cohena)
 Hallerczyk
 Hallgeir Brenden
+Hallo Szpicbródka, czyli ostatni występ króla kasiarzy
 Halloween Night (singel)
 Halloween zabija
 Hallubi Kabir
@@ -21979,6 +21993,7 @@ Herb gminy Trzebownisko
 Herb gminy Vahl-lès-Bénestroff
 Herb gminy Wilga
 Herb gminy Wilków (województwo lubelskie)
+Herb gminy Włocławek
 Herb gminy Zawadzkie
 Herb guberni chełmskiej
 Herb powiatu bocheńskiego
@@ -22536,6 +22551,7 @@ Homeostaza
 Homer
 Homicide: Life on the Street
 Homininae
+Homo Father
 Homo hop
 Homocysteina
 Homofobia
@@ -26576,6 +26592,7 @@ Juniper Hills (Kalifornia)
 Junkers Ju 87
 Junkers Ju 88
 Junkyard Dog
+Junoon
 Junta de Traslaloma
 Junta de Villalba de Losa
 Jun’ichirō Koizumi
@@ -27041,6 +27058,7 @@ Kajak
 Kajak-polo
 Kajakarstwo
 Kajakarstwo górskie
+Kajakarstwo na Letnich Igrzyskach Olimpijskich 1968 – K-2 500 m kobiet
 Kajakarstwo na Letnich Igrzyskach Olimpijskich 2012
 Kajakarstwo na Letnich Igrzyskach Olimpijskich 2020
 Kajakarstwo na letnich igrzyskach olimpijskich
@@ -27064,6 +27082,7 @@ Kal (gmina Ivančna Gorica)
 Kalabria
 Kaladesh
 Kalamazoo
+Kalameny
 Kalat Hadid
 Kalat Nadżm
 Kalat asz-Szajch
@@ -29484,6 +29503,7 @@ Kordian Józef Zamorski
 Korea
 Korea JoongAng Daily
 Korea Open
+Korea Open 2014
 Korea Open 2019
 Korea Południowa
 Korea Południowa na Letnich Igrzyskach Olimpijskich 2012
@@ -29790,6 +29810,7 @@ Kowno
 Kowno (rejon miejski)
 Koza (obrzęd)
 Koza domowa
+Kozacki Oddział Strzelców Behm
 Kozacy
 Kozak (pociąg pancerny)
 Kozerki (gromada)
@@ -32139,6 +32160,7 @@ Leon Dubicki
 Leon Fleisher
 Leon Horodecki
 Leon Jakubów
+Leon Magierowski
 Leon Noël
 Leon Shamroy
 Leon Supiński
@@ -34280,6 +34302,7 @@ Lotnisko Olsztyn-Dajtki
 Lotnisko Opole-Polska Nowa Wieś
 Lotnisko Ostrów Wielkopolski-Michałków
 Lotnisko Oława-Stanowice
+Lotnisko Pinkafeld
 Lotnisko Piotrków Trybunalski
 Lotnisko Powidz
 Lotnisko Poznań-Kobylnica
@@ -35047,6 +35070,7 @@ Magašići
 Magda Linette
 Magdalen College, Oxford
 Magdalena Abakanowicz
+Magdalena Contreras
 Magdalena Feistel
 Magdalena Fręch
 Magdalena Fularczyk-Kozłowska
@@ -35612,6 +35636,7 @@ Marek Czuku
 Marek Deputat
 Marek Derwich
 Marek Dopierała
+Marek Drewnowski
 Marek Ewangelista
 Marek Galiński (kolarz)
 Marek Harat
@@ -36054,6 +36079,7 @@ Martin Legeay
 Martin Licek
 Martin Lukeš
 Martin Luther King
+Martin Marinow
 Martin Morkes
 Martin Niemöller
 Martin Otčenáš
@@ -36262,6 +36288,7 @@ Maszewo (gromada w powiecie lęborskim)
 Maszewo Duże (gromada)
 Maszewy
 Maszewy (gromada)
+Maszhur ibn Abd al-Aziz Al Su’ud
 Maszkienice
 Maszrafat Ardżul
 Maszrafat al-Buwajdatajn
@@ -38017,6 +38044,7 @@ Mirosław (gromada)
 Mirosław (król Chorwacji)
 Mirosław (województwo wielkopolskie)
 Mirosław Milewski (generał MO)
+Mirosław Paciuszkiewicz
 Mirosław Plawgo
 Mirosław Pokora
 Mirosław Rybaczewski
@@ -38217,6 +38245,7 @@ Mistrzostwa Europy w Koszykówce Mężczyzn 2003
 Mistrzostwa Europy w Koszykówce Mężczyzn 2005
 Mistrzostwa Europy w Koszykówce Mężczyzn 2007
 Mistrzostwa Europy w Koszykówce Mężczyzn 2009
+Mistrzostwa Europy w Lekkoatletyce 1971 – skok wzwyż kobiet
 Mistrzostwa Europy w Lekkoatletyce 1978
 Mistrzostwa Europy w Lekkoatletyce 1998
 Mistrzostwa Europy w Lekkoatletyce 2002
@@ -38770,6 +38799,7 @@ Mistrzostwa Świata w Siatkówce Plażowej 2019
 Mistrzostwa Świata w Snookerze 2009
 Mistrzostwa Świata w Szermierce 1962
 Mistrzostwa Świata w Tenisie Stołowym 2009
+Mistrzostwa Świata w Wioślarstwie 2013
 Mistrzostwa Świata w Zapasach 2009
 Mistrzostwa Świata w Zapasach 2014
 Mistrzostwa Świata w Zapasach 2015
@@ -41261,6 +41291,7 @@ Niwki (gromada w powiecie strzeleckim)
 Niwy (Borkowice)
 Niwy (powiat bydgoski)
 Nix (księżyc)
+Nizar Zaciragić
 Nizina
 Nizina Mazowiecka
 Nizina Naddunajska (Słowacja)
@@ -43559,6 +43590,7 @@ Osiedle Kolorowe (Kraków)
 Osiedle Kombatantów
 Osiedle Kościuszkowskie
 Osiedle Krakowiaków
+Osiedle Kwiatowe
 Osiedle Lesisko
 Osiedle Leśne (Bydgoszcz)
 Osiedle Lubczykowa Góra
@@ -44069,6 +44101,7 @@ Paczkowo (województwo pomorskie)
 Paczkowo (województwo wielkopolskie)
 Paczków
 Padaczka
+Paddy Ashdown
 Paderborn
 Paderewski (pociąg pancerny)
 Padilla de Abajo
@@ -45746,6 +45779,7 @@ Pemra Özgen
 Penamind
 Penang FA
 Peng Shuai
+Penge West (stacja kolejowa)
 Penguin Books
 Penicyliny
 Pennsylvania Grass Court Championships
@@ -45962,6 +45996,7 @@ Petržalka
 Petter Solberg
 Petteri Orpo
 Pettoncourt
+Peugeot 406 Coupé
 Peugeot P4
 Peverell
 Pewnego razu na Dzikim Zachodzie
@@ -46168,6 +46203,7 @@ Piekło Górne
 Pielgrzym (religia)
 Pielgrzymka (gmina)
 Pielgrzymka (województwo dolnośląskie)
+Pielgrzymka Łaski
 Pielgrzymów (województwo opolskie)
 Pielica
 Pielinen
@@ -46202,6 +46238,7 @@ Pierre Laval
 Pierre Littbarski
 Pierre Louis Dulong
 Pierre Messmer
+Pierre Minvielle
 Pierre Nguyễn Văn Nhơn
 Pierre Puvis de Chavannes
 Pierre Simon de Laplace
@@ -48272,6 +48309,7 @@ Polska literatura współczesna
 Polska muzyka rozrywkowa
 Polska na Igrzyskach europejskich
 Polska na Letnich Igrzyskach Olimpijskich 2012
+Polska na Letnich Igrzyskach Olimpijskich Młodzieży 2018
 Polska na igrzyskach paraolimpijskich
 Polska na letnich igrzyskach olimpijskich
 Polska na zimowych igrzyskach olimpijskich
@@ -49882,6 +49920,7 @@ Protokół komunikacyjny
 Protokół sterowania transmisją
 Protokół zdawczo-odbiorczy
 Protolit
+Proton M
 Protonotariusz apostolski
 Protoonkogen
 Protopismo
@@ -50989,6 +51028,7 @@ Québec (miasto)
 Qəbələ FK
 R. Kelly
 R.E.M.
+R.V.L. v2.0
 R4 (silnik)
 RAD750
 RB Leipzig
@@ -51619,6 +51659,7 @@ Ratanice (Czernichów)
 Ratanice (Dąbrowa Górnicza)
 Ratatosk
 Rate Your Music
+Rath/Heumar
 Ratibořské Hory
 Ratimir
 Ratingen
@@ -55694,6 +55735,7 @@ Set List ~Greatest Songs~ Kanzenban
 Seter irlandzki
 Seth Rogen
 Setiles
+Setna
 Setúbal
 Seul World Cup Stadium
 Seventh (Magic: The Gathering)
@@ -58322,6 +58364,7 @@ Strzelcy Siczowi
 Strzelec Opolski
 Strzelectwo
 Strzelectwo na Letnich Igrzyskach Olimpijskich 1968 – pistolet szybkostrzelny, 25 m
+Strzelectwo na Letnich Igrzyskach Olimpijskich 1972 – karabin małokalibrowy leżąc, 50 m
 Strzelectwo na Letnich Igrzyskach Olimpijskich 1972 – pistolet szybkostrzelny, 25 m
 Strzelectwo na Letnich Igrzyskach Olimpijskich 2012
 Strzelectwo na Letnich Igrzyskach Olimpijskich 2020
@@ -60281,6 +60324,7 @@ Tejada
 Tejeda de Tiétar
 Tekla Justyna Chopin
 Teklanówka
+Teklit Teweldebrhan
 Teksas
 Tekst cezarejski
 Tektonika (geologia)
@@ -60549,6 +60593,7 @@ Terytorium zależne
 Terzaga
 Terňa
 Tesco
+Tesla (album)
 Tesla Roadster
 Tessariny
 Test Anvila
@@ -63546,6 +63591,7 @@ Vasek Pospisil
 Vasile Iordache
 Vasile Luca
 Vasile Oană
+Vasilefs Georgios (1938)
 Vasja Pirc
 Vassiliki Arvaniti
 Vatteluttu
@@ -64415,6 +64461,7 @@ Ward Lambert
 Wardanidzor
 Wardawank
 Wardomy
+Warenhaus Rudolph Karstadt (Szczecin)
 Wargi ust
 Wargielity
 Warglewo
@@ -64508,6 +64555,7 @@ Washington Open 2019 (kobiety)
 Washington Ortuño
 Washington University in St. Louis
 Washington Wizards
+Washita
 Washmere Green
 Wasij
 Wasilew Skrzeszewski
@@ -64762,6 +64810,7 @@ Wełniany Rynek
 Wełnica (województwo zachodniopomorskie)
 Wełnowiec
 Wełnowiec (gmina)
+Wełyka Bahaczka
 We’re Almost There
 Wharton School
 What Is Love?
@@ -67153,6 +67202,7 @@ Włodzimierz Lenin
 Włodzimierz Nalazek
 Włodzimierz Nowakowski
 Włodzimierz Reczek
+Włodzimierz Rużycki de Rosenwerth
 Włodzimierz Sadalski
 Włodzimierz Sokorski
 Włodzimierz Stefański
@@ -67967,6 +68017,7 @@ Zarząd województwa
 Zarządca infrastruktury kolejowej
 Zarządcy infrastruktury kolejowej w Polsce
 Zarządzanie
+Zarządzanie Publiczne
 Zarządzanie wiedzą
 Zarządzanie zasobami ludzkimi
 Zarówka
@@ -68147,6 +68198,7 @@ Zbigniew Preisner
 Zbigniew Promiński
 Zbigniew Pronaszko
 Zbigniew Przybyszewski
+Zbigniew Rudnicki
 Zbigniew Rusek
 Zbigniew Starzec
 Zbigniew Strzałkowski (duchowny)
@@ -68863,6 +68915,7 @@ Zygmunt Lederman-Lednicki
 Zygmunt Luksemburski
 Zygmunt Muchniewski
 Zygmunt Myszkowski (zm. 1615)
+Zygmunt Powstaniec (pociąg pancerny)
 Zygmunt Puławski
 Zygmunt Rakoczy
 Zygmunt Smalcerz
@@ -69081,6 +69134,7 @@ zimowe igrzyska olimpijskie
 Álvaro González (ur. 1973)
 Álvaro Morais Filho
 Álvaro Odriozola
+Álvaro Siviero
 Álvaro Siza
 Ángel Cabrera (zoolog)
 Ángel Correa
@@ -69293,6 +69347,7 @@ zimowe igrzyska olimpijskie
 Łazy (Dąbrowa Górnicza)
 Łazy (Nowa Słupia)
 Łazy (gmina)
+Łazy (obwód iwanofrankiwski)
 Łazy (powiat przasnyski)
 Łańcuch
 Łańcuch choinkowy
@@ -70084,6 +70139,7 @@ zimowe igrzyska olimpijskie
 Żerocin (gromada)
 Żertwa
 Żleb Kirkora
+Żleb spod Diabłów
 Żmigród
 Żmija zygzakowata
 Żmijowate
@@ -70238,6 +70294,7 @@ zimowe igrzyska olimpijskie
 (11947) Kimclijsters
 (120347) Salacia
 (134340) Pluton
+(13489) Dmitrienko
 (136108) Haumea
 (136199) Eris
 (136472) Makemake
@@ -70261,6 +70318,7 @@ zimowe igrzyska olimpijskie
 (229762) Gǃkúnǁʼhòmdímà
 (2713) Luxembourg
 (28978) Iksjon
+(2961) Katsurahama
 (3) Juno
 (307261) 2002 MS4
 (3703) Volkonskaya
@@ -71995,6 +72053,7 @@ Agnes de Mille
 Agnese Possamai
 Agnieszka Brustman
 Agnieszka Cyl
+Agnieszka Czekierda
 Agnieszka Holland
 Agnieszka Jechowska-Siwek
 Agnieszka Przemyślidka (1211–1282)
@@ -73375,6 +73434,7 @@ Andrzej Dzięga
 Andrzej Ehrenfeucht
 Andrzej Flisiuk
 Andrzej Frycz Modrzewski
+Andrzej Gaca
 Andrzej Grubba
 Andrzej Górka (1500–1551)
 Andrzej Górka (zm. 1583)
@@ -74895,6 +74955,7 @@ Azəri Baku
 Aíto García Reneses
 AŁŻIR
 Aładża
+Ałan Gatagow
 Ałczewsk
 Ałmaty
 Ałtaj
@@ -75841,6 +75902,7 @@ Belfort (województwo pomorskie)
 Belgia
 Belgia na Letnich Igrzyskach Olimpijskich 2012
 Belgia na Olimpiadzie Letniej 1906
+Belgia na Zimowych Igrzyskach Olimpijskich 1976
 Belgian Ladies Open 1988
 Belgian Open
 Belgrad
@@ -76281,6 +76343,7 @@ Biały Grzebień
 Biały Karbik
 Biały Kopiniak
 Biały Kościół (województwo dolnośląskie)
+Biały Murzyn
 Biały karzeł
 Biały koń nie jest koniem
 Biały terror (Francja)
@@ -77521,6 +77584,7 @@ Bretejovce
 Bretignolles
 Brett Kavanaugh
 Brettenham (Suffolk)
+Brewster (miasto w hrabstwie Barnstable)
 Brewton
 Brexit
 Breze (Bośnia i Hercegowina)
@@ -79681,6 +79745,7 @@ Chlorek tionylu
 Chlorek złota(I)
 Chlorek żelaza(II)
 Chlorobi
+Chlorocyphidae
 Chloroflexi
 Chloroheksydyna
 Chloroplast
@@ -79872,6 +79937,7 @@ Chris Porter (koszykarz)
 Chris Terrio
 Chris Von Erich
 Chris Webber
+Chris White (saksofonista)
 Chris Wyse
 Christ Church Nichola Town
 Christiaan Varenhorst
@@ -85214,6 +85280,7 @@ Dąbrowa (Pogórze Wiśnickie)
 Dąbrowa (Sądrożyce)
 Dąbrowa (gmina Bartoszyce)
 Dąbrowa (gmina Bisztynek)
+Dąbrowa (gmina Korytnica)
 Dąbrowa (gmina Kuślin)
 Dąbrowa (gmina Mrozy)
 Dąbrowa (gmina Zbąszyń)
@@ -86944,6 +87011,7 @@ Fairchild XC-120 Packplane
 Faith (album George’a Michaela)
 Fajac-la-Relenque
 Fajermon
+Fajsal asz-Szabi
 Fajsal ibn Abd al-Aziz Al Su’ud
 Fajsz
 Fajsławice (gmina)
@@ -87291,6 +87359,7 @@ Filip Kallimach
 Filip Maria Visconti
 Filip Szwabski
 Filip V Hiszpański
+Filip Walotka
 Filip Wilhelm Wittelsbach (kardynał)
 Filip Wolski
 Filip von Rehberg
@@ -89179,6 +89248,7 @@ Gerbécourt
 Gerbépal
 Gerd Müller
 Gerd von Rundstedt
+Gerda Hasselfeldt
 Gerdag (biskup Hildesheim)
 Gerek Meinhardt
 Gerenzano
@@ -89376,6 +89446,7 @@ Ginger Rogers
 Gingham Check
 Gino Colaussi
 Gino Iorgulescu
+Gintama
 Ginter (elekt kamieński)
 Giordano Bruno
 Giorgio Basta
@@ -89808,6 +89879,7 @@ Gniewskie Pole
 Gniewskie Pole (osada)
 Gniezno
 Gnieźnik leśny
+Gnilica mózgowata
 Go-Daigo
 Go-Toba
 Gobliiins
@@ -91341,6 +91413,7 @@ Hacienda Heights
 Hacinas
 Hackney Hawks
 Hadabat
+Hadad
 Hadaka Matsuri
 Hadas
 Haddadin
@@ -92130,6 +92203,7 @@ Herb gminy Trzebownisko
 Herb gminy Vahl-lès-Bénestroff
 Herb gminy Wilga
 Herb gminy Wilków (województwo lubelskie)
+Herb gminy Włocławek
 Herb gminy Zawadzkie
 Herb guberni chełmskiej
 Herb powiatu bocheńskiego
@@ -92687,6 +92761,7 @@ Homeostaza
 Homer
 Homicide: Life on the Street
 Homininae
+Homo Father
 Homo hop
 Homocysteina
 Homofobia
@@ -93545,6 +93620,7 @@ Iglesiarrubia
 Iglesias (Hiszpania)
 Iglica (Wrocław)
 Ignacio Camacho
+Ignacio Ithurralde
 Ignacio Ramírez
 Ignacio Rodriguez (koszykarz)
 Ignacio Rodríguez (koszykarz)
@@ -94760,6 +94836,7 @@ Jakub z Paradyża
 Jakub ze Żnina
 Jakub Štvrtecký
 Jakubiańce
+Jakubiwka (obwód winnicki)
 Jakubov u Moravských Budějovic
 Jakubowice (gmina)
 Jakubowice (gromada w powiecie kazimierskim)
@@ -95043,6 +95120,7 @@ Jan Such (siatkarz)
 Jan Svoboda
 Jan Szancenbach
 Jan Szczepkowski
+Jan Szlubicz Załęski
 Jan Szwargot
 Jan Szydłowski
 Jan Tarasin
@@ -96680,6 +96758,7 @@ Julie Heldman
 Julie Vlasto
 Julie Walters
 Julie Wilhelmine Hagen-Schwarz
+Julien Green
 Julien Mertine
 Juliet Stevenson
 Julieta
@@ -96727,6 +96806,7 @@ Juniper Hills (Kalifornia)
 Junkers Ju 87
 Junkers Ju 88
 Junkyard Dog
+Junoon
 Junta de Traslaloma
 Junta de Villalba de Losa
 Jun’ichirō Koizumi
@@ -97192,6 +97272,7 @@ Kajak
 Kajak-polo
 Kajakarstwo
 Kajakarstwo górskie
+Kajakarstwo na Letnich Igrzyskach Olimpijskich 1968 – K-2 500 m kobiet
 Kajakarstwo na Letnich Igrzyskach Olimpijskich 2012
 Kajakarstwo na Letnich Igrzyskach Olimpijskich 2020
 Kajakarstwo na letnich igrzyskach olimpijskich
@@ -97655,6 +97736,7 @@ Karczewan
 Karczewo
 Karczewo (powiat golubsko-dobrzyński)
 Karczma
+Karczma Katowicka
 Karczmiska (gmina)
 Karczmiska (gromada)
 Karczmisko
@@ -99943,9 +100025,11 @@ Kowno
 Kowno (rejon miejski)
 Koza (obrzęd)
 Koza domowa
+Kozacki Oddział Strzelców Behm
 Kozacy
 Kozak (pociąg pancerny)
 Kozerki (gromada)
+Kozia Góra
 Kozia Góra (województwo pomorskie)
 Kozia Góra (województwo warmińsko-mazurskie)
 Kozica
@@ -100633,6 +100717,7 @@ Krystyna Dwucet
 Krystyna Guzik
 Krystyna Kurdziel
 Krystyna Radzikowska
+Krystyna Sawicka
 Krystyna Sokołowska (modelka)
 Krystyna Tempska-Cyrankiewicz
 Krystyna Wazówna
@@ -104434,6 +104519,7 @@ Lotnisko Olsztyn-Dajtki
 Lotnisko Opole-Polska Nowa Wieś
 Lotnisko Ostrów Wielkopolski-Michałków
 Lotnisko Oława-Stanowice
+Lotnisko Pinkafeld
 Lotnisko Piotrków Trybunalski
 Lotnisko Powidz
 Lotnisko Poznań-Kobylnica
@@ -105767,6 +105853,7 @@ Marek Czuku
 Marek Deputat
 Marek Derwich
 Marek Dopierała
+Marek Drewnowski
 Marek Ewangelista
 Marek Galiński (kolarz)
 Marek Harat
@@ -106209,6 +106296,7 @@ Martin Legeay
 Martin Licek
 Martin Lukeš
 Martin Luther King
+Martin Marinow
 Martin Morkes
 Martin Niemöller
 Martin Otčenáš
@@ -106417,6 +106505,7 @@ Maszewo (gromada w powiecie lęborskim)
 Maszewo Duże (gromada)
 Maszewy
 Maszewy (gromada)
+Maszhur ibn Abd al-Aziz Al Su’ud
 Maszkienice
 Maszrafat Ardżul
 Maszrafat al-Buwajdatajn
@@ -106560,6 +106649,7 @@ Maureen Stapleton
 Mauretania
 Mauretania na Letnich Igrzyskach Olimpijskich 2012
 Maurice Béjart
+Maurice Camara
 Maurice Cheeks
 Maurice Couve de Murville
 Maurice Druon
@@ -107852,6 +107942,7 @@ Mike Nichols
 Mike Pence
 Mike Pinkerton
 Mike Pompeo
+Mike Robertson
 Mike Smith (koszykarz)
 Mike Sojourner
 Mike Tyson
@@ -108172,6 +108263,7 @@ Mirosław (gromada)
 Mirosław (król Chorwacji)
 Mirosław (województwo wielkopolskie)
 Mirosław Milewski (generał MO)
+Mirosław Paciuszkiewicz
 Mirosław Plawgo
 Mirosław Pokora
 Mirosław Rybaczewski
@@ -109295,6 +109387,7 @@ Mokre Łany
 Mokre Łąki (Prokowo)
 Mokre-Kolonia
 Mokrica Tomaševečka
+Mokronos
 Mokronos Dolny
 Mokronos Górny
 Mokry Las (województwo kujawsko-pomorskie)
@@ -110140,6 +110233,7 @@ Mystery Jets
 Mysuru
 Mysz domowa
 Myszarka zielna
+Myszka lotnicza nr 2
 Myszkowscy
 Myszków
 Myszków (gmina)
@@ -111418,6 +111512,7 @@ Niwki (gromada w powiecie strzeleckim)
 Niwy (Borkowice)
 Niwy (powiat bydgoski)
 Nix (księżyc)
+Nizar Zaciragić
 Nizina
 Nizina Mazowiecka
 Nizina Naddunajska (Słowacja)
@@ -113716,6 +113811,7 @@ Osiedle Kolorowe (Kraków)
 Osiedle Kombatantów
 Osiedle Kościuszkowskie
 Osiedle Krakowiaków
+Osiedle Kwiatowe
 Osiedle Lesisko
 Osiedle Leśne (Bydgoszcz)
 Osiedle Lubczykowa Góra
@@ -116328,6 +116424,7 @@ Piekło Górne
 Pielgrzym (religia)
 Pielgrzymka (gmina)
 Pielgrzymka (województwo dolnośląskie)
+Pielgrzymka Łaski
 Pielgrzymów (województwo opolskie)
 Pielica
 Pielinen
@@ -120044,6 +120141,7 @@ Protokół komunikacyjny
 Protokół sterowania transmisją
 Protokół zdawczo-odbiorczy
 Protolit
+Proton M
 Protonotariusz apostolski
 Protoonkogen
 Protopismo
@@ -121151,6 +121249,7 @@ Québec (miasto)
 Qəbələ FK
 R. Kelly
 R.E.M.
+R.V.L. v2.0
 R4 (silnik)
 RAD750
 RB Leipzig
@@ -121781,6 +121880,7 @@ Ratanice (Czernichów)
 Ratanice (Dąbrowa Górnicza)
 Ratatosk
 Rate Your Music
+Rath/Heumar
 Ratibořské Hory
 Ratimir
 Ratingen
@@ -122393,6 +122493,7 @@ Reprezentacja Azerbejdżanu U-18 w piłce nożnej mężczyzn
 Reprezentacja Azerbejdżanu w piłce siatkowej kobiet
 Reprezentacja Azerbejdżanu w piłce siatkowej mężczyzn
 Reprezentacja Bahrajnu w piłce nożnej mężczyzn
+Reprezentacja Barbadosu w rugby 7 mężczyzn
 Reprezentacja Belgii w hokeju na trawie mężczyzn
 Reprezentacja Belgii w koszykówce kobiet
 Reprezentacja Belgii w piłce nożnej mężczyzn
@@ -126898,6 +126999,7 @@ Solingen
 Solinka (rzeka)
 Solinka (wieś)
 Soliny
+Solitude, Dominance, Tragedy
 Solkatterna Speedway
 Solno (województwo warmińsko-mazurskie)
 Solomon Tside
@@ -128485,6 +128587,7 @@ Strzelcy Siczowi
 Strzelec Opolski
 Strzelectwo
 Strzelectwo na Letnich Igrzyskach Olimpijskich 1968 – pistolet szybkostrzelny, 25 m
+Strzelectwo na Letnich Igrzyskach Olimpijskich 1972 – karabin małokalibrowy leżąc, 50 m
 Strzelectwo na Letnich Igrzyskach Olimpijskich 1972 – pistolet szybkostrzelny, 25 m
 Strzelectwo na Letnich Igrzyskach Olimpijskich 2012
 Strzelectwo na Letnich Igrzyskach Olimpijskich 2020
@@ -129184,6 +129287,7 @@ Szaghat
 Szahba
 Szahba (dystrykt)
 Szahrak-e Parwaz
+Szahruch
 Szajch Abd ar-Rahman
 Szajch Abjad
 Szajch Ahmad
@@ -133512,6 +133616,7 @@ Uwajnat Kabira
 Uwajszijja
 Uwe Bein
 Uwe Nogga
+Uwertura do „Tannhäusera”
 Uwolnić orkę 2
 Uwłaszczenie chłopów
 Uwłaszczenie nomenklatury
@@ -133702,6 +133807,7 @@ Varennes-Changy
 Varese
 Varhaňovce
 Variety
+Varnhem
 Varoš (Bośnia i Hercegowina)
 Varsinais-Suomi
 Varta
@@ -133711,6 +133817,7 @@ Vasek Pospisil
 Vasile Iordache
 Vasile Luca
 Vasile Oană
+Vasilefs Georgios (1938)
 Vasja Pirc
 Vassiliki Arvaniti
 Vatteluttu
@@ -134929,6 +135036,7 @@ Wełniany Rynek
 Wełnica (województwo zachodniopomorskie)
 Wełnowiec
 Wełnowiec (gmina)
+Wełyka Bahaczka
 We’re Almost There
 Wharton School
 What Is Love?
@@ -137565,6 +137673,7 @@ Yūhi o miteiru ka?
 Yūki Itō
 Yūki Naitō
 Yūryaku
+Yūto Nagatomo
 Z (symbol wojskowy)
 Z daleka
 Z miłości do gwiazd
@@ -137903,6 +138012,7 @@ Zamek Grodztwo w Kamiennej Górze
 Zamek Gryf
 Zamek Henryka
 Zamek Himeji
+Zamek Hohenschwangau
 Zamek Homole
 Zamek Kapitanowo w Ścinawce Średniej
 Zamek Karpień
@@ -139465,6 +139575,7 @@ zimowe igrzyska olimpijskie
 Łazy (Dąbrowa Górnicza)
 Łazy (Nowa Słupia)
 Łazy (gmina)
+Łazy (obwód iwanofrankiwski)
 Łazy (powiat przasnyski)
 Łańcuch
 Łańcuch choinkowy
@@ -139550,6 +139661,7 @@ zimowe igrzyska olimpijskie
 Łubki (gromada w powiecie płockim)
 Łubniany (gmina)
 Łubniany (gromada)
+Łubnice
 Łubowo (gmina)
 Łubowo (województwo wielkopolskie)
 Łucja z Lammermooru
@@ -140256,6 +140368,7 @@ zimowe igrzyska olimpijskie
 Żerocin (gromada)
 Żertwa
 Żleb Kirkora
+Żleb spod Diabłów
 Żmigród
 Żmija zygzakowata
 Żmijowate

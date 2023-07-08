@@ -59,36 +59,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Bærekraftig infrastruktur
-Yucca gasskraftverk
-Aleochara villosa
-Harpalus affinis
-Ond stjerne
-Michael Ballhaus
-Penedo
-Karl Eugen Hammerstedt
-Baccarat (film)
-Dan Bentley
-Katharina Blums tapte ære (film)
-Elaphopsis
-Józef Wybieralski
-Simen Johan Ringen
-Anna Stavdal
-Knut A. Lorentzen
-Rutidermatidae
-Wadi Al Hayaa
-Blåtinden (Norddal)
-Koreas gjenforeningsflagg
-Geddy Lee
-Ferjesambandet Kvanne–Rykkjem
-Interplanetarisk magnetfelt
-Pstereo
-A Suspended Ordeal
-Marie Tveiten
-Adelheid Seyfarth
-Kastelineknop
-Basement Jaxx
-Wildomar (California)
+Tilbaketrukkethet
+Att angöra en brygga
+The Taker/Tulsa
+ʿAlī Nāṣir Muḥammad
+Volvo V
+Maren Jansson Haverstad
+Raqqada
+John Brandts vei (Oslo)
+FA-cupen 1955/56
+Kungliga Hovstaterna
+Abbasidene
+Nancy Stouffer
+Krigsmaling
+Mame Mbar Diouf
+Kongsten
+Stian Pedersen
+Oʻzbekiston Futbol Federatsiyasi
+Hamelmalo (distrikt)
+Legionella
+Bekkelaget terminal
+Undine (skuespill)
+Murskje
+Frøkenosveien
+Bektasji
+Pilocnema
+Heller bru
+Odd Bye-Nielsen
+Korint-ligaen
+Montivilliers
+Eldridge Cleaver
 '''IGBT'''
 ''Sentralbad''
 'are'are
@@ -1038,6 +1038,7 @@ A Christmas Carol (2009)
 A Higher Place
 A New Man
 A Portuguesa
+A Suspended Ordeal
 A Token of His Extreme
 A Welcome Intruder
 A cappella
@@ -1276,6 +1277,7 @@ Adeccoligaen
 Adelaide Lambert
 Adelarthra
 Adele Adkins
+Adelheid Seyfarth
 Adelphi University
 Adelsteen Normann
 Adenin
@@ -1793,6 +1795,7 @@ Alene Hjemme 3
 Aleneståene Pulsar
 Alenfit
 Alentejo
+Aleochara villosa
 Alesia
 Alesia Turava
 Alessa Ries
@@ -2322,6 +2325,7 @@ Analytisk funksjon
 Analytisk kjemi
 Anamera
 Ananke (mytologi)
+Anapsicomus lampyroides
 Anarkisme
 Anarko-primitivisme
 Anarkoprimitivisme
@@ -2705,6 +2709,7 @@ Anna Politkovskaja
 Anna Rice
 Anna Rucinska
 Anna Santamans
+Anna Stavdal
 Anna Stylianou
 Anna Tsjitsjerova
 Anna Uvarova
@@ -3315,6 +3320,7 @@ Armed Forces of Malta / Air Squadron
 Armen Terzian
 Armenia
 Armenia herrelandslag i fotball
+Armenia i Junior Eurovision Song Contest
 Armenia under Sommer-OL 2004
 Armenia under Sommer-OL 2008
 Armenia under VM i friidrett 1993
@@ -4182,6 +4188,7 @@ Babylonsk mytologi
 Babylonske fangenskap
 Bacalao
 Bacary Sagna
+Baccarat (film)
 Bacchus
 Bacchylides
 Bach an der Donau
@@ -4527,6 +4534,7 @@ Baseball under Panamerikanske leker 2015
 Baseball under Sommer-OL 2004
 Baseball under Sommer-OL 2008
 Baseballspiller
+Basement Jaxx
 Basestasjon
 Bashar al-Assad
 Bashir Abdi
@@ -5571,6 +5579,7 @@ Blåmalle
 Blåmanen
 Blåsau
 Blåskjell
+Blåtinden (Norddal)
 Blåtrikken
 Blått øye-galaksen
 Blåtungeskinker
@@ -6654,6 +6663,7 @@ Båndgneis
 Båndhavørn
 Båndhonningeter
 Bånerud (Kongsvinger)
+Bård Are Hultengren
 Bård Breien
 Bård Breivik
 Bård Flovik
@@ -6674,6 +6684,7 @@ Båtsfjord prestegjeld
 Båtspinnere
 Bækkelagets Sportsklub
 Bærbar PC
+Bærekraftig infrastruktur
 Bærerakett
 Bærum
 Bærum Sportsklubb
@@ -8562,6 +8573,7 @@ Damsgårdstunnelen
 Damsnegler
 Damstredet (Oslo)
 Damstredet (Oslo) (Oslo)
+Dan Bentley
 Dan Castellaneta
 Dan Dailey
 Dan Ketchum
@@ -8759,6 +8771,7 @@ Datu Piang
 Daugava
 Daunte Culpepper
 Dave Casper
+Dave Dexter jr.
 Dave Durden
 Dave Farrell
 Dave Gibbons
@@ -11292,6 +11305,7 @@ Edward Emerson Barnard
 Edward Gibbon
 Edward H. White II
 Edward Hallett Carr
+Edward Hennig
 Edward James Stone
 Edward Mitens
 Edward Palmer Thompson
@@ -11605,6 +11619,7 @@ Elaine Thompson-Herah
 Elaine Youngs
 Elamittisk
 Elamo-dravidiske språk
+Elaphopsis
 Elastisitet
 Elastisitetsteori
 Elastix
@@ -12578,6 +12593,7 @@ Europavei 39 (Agder)
 Europavei 39 (Vest-Agder)
 Europavei 6
 Europavei 6 (Norge)
+Europavei 641
 Europavei 65
 Europavei 8 (Norge)
 Europe Jazz Odyssey
@@ -13147,6 +13163,7 @@ Feministisk initiativ
 Femkamp
 Femke Bol
 Femke Heemskerk
+Femke Stoltenborg
 Femsjøen
 Femte mosebok
 Fender Stratocaster
@@ -13200,6 +13217,7 @@ Ferjesambandet Breistein–Valestrandsfossen
 Ferjesambandet Halhjem–Sandvikvåg
 Ferjesambandet Hella–Dragsvik–Vangsnes
 Ferjesambandet Hofles–Geisnes–Lund
+Ferjesambandet Kvanne–Rykkjem
 Ferkingstad Idrettslag
 Ferland Mendy
 Fermi Linux
@@ -13920,6 +13938,7 @@ Fluiddynamikk
 Fluidmekanikk
 Fluks
 Fluktdyr
+Flukten til Egypt
 Fluor
 Flushing Meadows
 Flushing Meadows–Corona Park
@@ -15633,6 +15652,7 @@ Gabriel Lippmann
 Gabriel Martinelli
 Gabriel Metsu
 Gabriel Paletta
+Gabriel Poix
 Gabriel Saliby
 Gabriel Tadeu Strefezza Rebecato
 Gabriel Vidović
@@ -15794,6 +15814,7 @@ Ganges
 Gangker Punsum
 Gangkhar Puensum
 Gangnam Style
+Gangnan
 Ganquan
 Gansu
 Ganymedes (måne)
@@ -15890,6 +15911,7 @@ Gaël Clichy
 Ge Weiqing
 Geary County
 Gebhard Leberecht von Blücher
+Geddy Lee
 Gediminas Kirkilas
 Gedser forsøksmølle
 GeeXboX
@@ -16311,6 +16333,7 @@ Giovanni Alfonso Borelli
 Giovanni Battaglin
 Giovanni Battista Belzoni
 Giovanni Battista Caprara Montecuccoli
+Giovanni Battista Casali del Drago
 Giovanni Battista Pergolesi
 Giovanni Battista Tiepolo
 Giovanni Boccaccio
@@ -16676,6 +16699,7 @@ Grane kirke
 Grane prestegjeld
 Granitt
 Granli (Kongsvinger)
+Granlia (Molde)
 Granrotbille
 Grans Bryggeri
 Gransherad
@@ -17854,6 +17878,7 @@ Harold Spencer Jones
 Harold Urey
 Harold Whitlock
 Harpactus
+Harpalus affinis
 Harpe
 Harpe (andre betydninger)
 Harper Adams University
@@ -20114,6 +20139,7 @@ Innbygda (Trysil)
 Innbygger
 Innbyggernavn
 Innbyggertall
+Innerbergsalen
 Innerfolda
 Innflygningskontroll
 Innhav
@@ -20162,6 +20188,7 @@ Inspur K-UX
 Instagram
 Installasjon
 Instant WebKiosk
+Instinción
 Institusjon
 Institusjonell økonomi
 Institut für Europäische Geschichte (Mainz)
@@ -20231,6 +20258,7 @@ Internet Speculative Fiction Database
 Internett
 Internett-server
 Interpellasjon
+Interplanetarisk magnetfelt
 Interpretatio graeca
 Interregnum
 Interscope
@@ -20751,6 +20779,7 @@ Jacques Lunis
 Jacques Madubost
 Jacques Offenbach
 Jacques Philippe Maraldi
+Jacques Renouvin
 Jacques Rogge
 Jacques Roumain
 Jacques Rousseau
@@ -21520,6 +21549,7 @@ Joachim de Knagenhielm
 Joachim von Ribbentrop
 Joacim Heier
 Joackim Jørgensen
+Joakim Ingelsson
 Joakim Mæhle
 Joan Gaspart Solves
 Joan Gonzàlez
@@ -22373,6 +22403,7 @@ Józef Antoni Poniatowski
 Józef Bilczewski
 Józef Piłsudskis allé
 Józef Szmidt
+Józef Wybieralski
 József Kovács (hekkeløper)
 Jönköping
 Jönköping kommune
@@ -22803,6 +22834,7 @@ Karl August von Hardenberg
 Karl Dietrich Bracher
 Karl Eirik Schjøtt-Pedersen
 Karl Erik Harr
+Karl Eugen Hammerstedt
 Karl Friedrich Naumann
 Karl Gustav-krigene
 Karl Guthe Jansky
@@ -22955,6 +22987,7 @@ Kassandra Clementi
 Kassel
 Kassiopeia (dverggalakse)
 Kassitter
+Kastelineknop
 Kastellet holdeplass
 Kastelruth
 Kastespyd
@@ -22996,6 +23029,7 @@ Kateket
 Katerina Thanou
 Katerine Savard
 Kateryna Bondarenko
+Katharina Blums tapte ære (film)
 Katharina Mann
 Katharina Molitor
 Katharine Berkoff
@@ -23264,6 +23298,7 @@ Khabarovsk
 Khabarovsk kraj
 Khakasia
 Khaled Mashaal
+Khalid Boutaïb
 Khankasjøen
 Khanty-Mansia
 Khaos
@@ -23350,6 +23385,7 @@ Kim Nysted
 Kim Peyton
 Kim Småge
 Kim Stanley Robinson
+Kim West (tegneserie)
 Kim Yoon
 Kimberley Linehan
 Kimberley Mickle
@@ -23797,6 +23833,7 @@ Knudstrup
 Knudåge Riisager
 Knurr
 Knuskkjukemøll
+Knut A. Lorentzen
 Knut Aalefjær
 Knut Andreas Nordmo
 Knut Are Tvedt
@@ -25369,6 +25406,7 @@ Ladejarl
 Ladejarlene
 Lademoen prestegjeld
 Ladested
+Ladies Norwegian Open
 Ladino
 Ladinsk språk
 Ladoga
@@ -28863,6 +28901,7 @@ Marie Louise of Bourbon-Parma
 Marie Sneve Martinussen
 Marie Taglioni
 Marie Takvam
+Marie Tveiten
 Marie Wattel
 Marie de Sully
 Marie-Aude Murail
@@ -29956,6 +29995,7 @@ Micah Lawrence
 Michael (krater)
 Michael Andrew
 Michael Ballack
+Michael Ballhaus
 Michael Bay
 Michael Bingham
 Michael Brinegar
@@ -34714,6 +34754,7 @@ Onager
 Onar Onarheim
 Once More, With Feeling
 Once Upon a Time
+Ond stjerne
 Ondskapens hotell
 One Chase Manhattan Plaza
 One Direction
@@ -34746,6 +34787,7 @@ Oofotr
 Oofotr – Folketoner fra Ofoten
 Oorts sky
 Oost Gelre
+Op (album)
 Opasitet
 Opedal
 Opel Corsa
@@ -35807,6 +35849,7 @@ Pegasushopen
 Peggy Hartung
 Pehr Evind Svinhufvud
 Peipsiääre kommune
+Peiter Negelsen
 Pejuçara
 Pekinguniversitetet
 Pelagisk
@@ -35841,6 +35884,7 @@ Penater
 Penbergensk
 Pendelferge
 Pendlingsomland
+Penedo
 Peng Bo
 Peng Dehuai
 Peng Shuai
@@ -37143,6 +37187,7 @@ Pseudoscolia
 Pseudovitenskap
 Psilorhynchus
 Pskov oblast
+Pstereo
 Psycho Holiday
 Psychoides verhuella
 Psychopsidae
@@ -37706,6 +37751,7 @@ Rebecca Breeds
 Rebecca Brown
 Rebecca Cooke
 Rebecca Lyne
+Rebecca Nyandeng De Mabior
 Rebecca Smith (svømmer)
 Rebecca Soni
 Rebecca Turner
@@ -38193,6 +38239,7 @@ Rigvediske stammer
 Riigikogu
 Riitta Salin
 Rijeka
+Rijeka oljekraftverk
 Rik Van Looy
 Rik van Linden
 Rikard Nordraak
@@ -38502,6 +38549,7 @@ Rodrigo Hernández Cascante
 Rodrygo Goes
 Roehampton University
 Roelf Hylke Bouwmeester
+Roferge
 Rogaland
 Rogaland fylke
 Roger Allers
@@ -39090,6 +39138,7 @@ Ruth Lillegraven
 Ruthenium
 Rutherford B. Hayes
 Rutherfordium
+Rutidermatidae
 Rutland
 Ruts bok
 Rwanda
@@ -40857,6 +40906,7 @@ Simadalsfjorden
 Simavik kraftverk
 Simen Agdestein
 Simen Guttormsen
+Simen Johan Ringen
 Simen Sand
 Simen Vidtun Nilsen
 Simensbråten
@@ -42530,6 +42580,7 @@ Stanisława Walasiewicz
 Stanjukovitsj
 Stanka Zlateva
 Stanley Chinedu Ihugba
+Stanley Cup-sluttspillet 2014
 Stanley Eugene Fish
 Stanley Keith Runcorn
 Stanley Kubrick
@@ -46545,6 +46596,7 @@ Torsteinsvik
 Torsten Hägerstrand
 Torsten Laen
 Torstrand skole
+Tortol Lumanza
 Tortona
 Tortuga
 Tortur
@@ -47606,6 +47658,7 @@ Tøyen stasjon (T-bane)
 Tøyen stasjon (jernbane)
 Türk Hava Kuvvetleri
 Türkiye Futbol Federasyonu
+Türkvizyon
 Týnkirken
 U (TV-serie)
 U-dal
@@ -50349,6 +50402,7 @@ Wade-Giles
 Wadeline Jonathas
 Wadena County
 Wade–Giles
+Wadi Al Hayaa
 Wadjet
 Wafer
 Wageningen
@@ -50660,6 +50714,7 @@ Wild Man Fischer
 Wild at Heart (Buffy episode)
 Wildflowers
 Wildflowers & All the Rest
+Wildomar (California)
 Wilfried Kindermann
 Wilhelm Dilthey
 Wilhelm Frimann Koren Christie
@@ -51218,6 +51273,7 @@ Yuan Shu Chi
 Yuan Weiwei
 Yuan Zhi
 Yucca
+Yucca gasskraftverk
 Yueyang
 Yuki Koike (sprinter)
 Yukiko Akaba
@@ -53084,6 +53140,7 @@ Abadan
 Abakanfjellene
 Abaris
 Abatiá
+Abbasidene
 Abbed
 Abbediengen holdeplass
 Abbedisse
@@ -54280,6 +54337,7 @@ Analytisk funksjon
 Analytisk kjemi
 Anamera
 Ananke (mytologi)
+Anapsicomus lampyroides
 Anarkisme
 Anarko-primitivisme
 Anarkoprimitivisme
@@ -55274,6 +55332,7 @@ Armed Forces of Malta / Air Squadron
 Armen Terzian
 Armenia
 Armenia herrelandslag i fotball
+Armenia i Junior Eurovision Song Contest
 Armenia under Sommer-OL 2004
 Armenia under Sommer-OL 2008
 Armenia under VM i friidrett 1993
@@ -55721,6 +55780,7 @@ Atrevs
 Atrium
 Atron
 Atropos
+Att angöra en brygga
 Attaliddynastiet
 Attentat
 Attentatet på Abraham Lincoln
@@ -56653,9 +56713,11 @@ Bekkefaret prestegjeld
 Bekkelaget (Stange)
 Bekkelaget prestegjeld
 Bekkelaget stasjon
+Bekkelaget terminal
 Bekkestua
 Bekkestua stasjon
 Beksømstøvler
+Bektasji
 Bel Canto (band)
 Bela Vista da Caroba
 Bela Vista do Paraíso
@@ -58616,6 +58678,7 @@ Båndgneis
 Båndhavørn
 Båndhonningeter
 Bånerud (Kongsvinger)
+Bård Are Hultengren
 Bård Breien
 Bård Breivik
 Bård Flovik
@@ -60723,6 +60786,7 @@ Datu Piang
 Daugava
 Daunte Culpepper
 Dave Casper
+Dave Dexter jr.
 Dave Durden
 Dave Farrell
 Dave Gibbons
@@ -63256,6 +63320,7 @@ Edward Emerson Barnard
 Edward Gibbon
 Edward H. White II
 Edward Hallett Carr
+Edward Hennig
 Edward James Stone
 Edward Mitens
 Edward Palmer Thompson
@@ -63583,6 +63648,7 @@ Elder Scrolls V: Skyrim
 Eldorado do Sul
 Eldre steinalder
 Eldrid Nordbø
+Eldridge Cleaver
 Eleanor Farjeon
 Eleanor Garatti
 Eleanor Holm
@@ -64543,6 +64609,7 @@ Europavei 39 (Agder)
 Europavei 39 (Vest-Agder)
 Europavei 6
 Europavei 6 (Norge)
+Europavei 641
 Europavei 65
 Europavei 8 (Norge)
 Europe Jazz Odyssey
@@ -64698,6 +64765,7 @@ F-18 Hornet
 F.Kr.
 F.L.Æ. Kunzen
 F.P. Jac
+FA-cupen 1955/56
 FACE Stockholm Makeup School
 FAMAS
 FC Augsburg
@@ -65112,6 +65180,7 @@ Feministisk initiativ
 Femkamp
 Femke Bol
 Femke Heemskerk
+Femke Stoltenborg
 Femsjøen
 Femte mosebok
 Fender Stratocaster
@@ -65886,6 +65955,7 @@ Fluiddynamikk
 Fluidmekanikk
 Fluks
 Fluktdyr
+Flukten til Egypt
 Fluor
 Flushing Meadows
 Flushing Meadows–Corona Park
@@ -66851,6 +66921,7 @@ Frédéric Déhu
 Frédérique Marcelin
 Fréjus
 Frøen stasjon
+Frøkenosveien
 Frølichs vei (Oslo)
 Frøvik gård kraftverk
 Frøy skole
@@ -67599,6 +67670,7 @@ Gabriel Lippmann
 Gabriel Martinelli
 Gabriel Metsu
 Gabriel Paletta
+Gabriel Poix
 Gabriel Saliby
 Gabriel Tadeu Strefezza Rebecato
 Gabriel Vidović
@@ -67760,6 +67832,7 @@ Ganges
 Gangker Punsum
 Gangkhar Puensum
 Gangnam Style
+Gangnan
 Ganquan
 Gansu
 Ganymedes (måne)
@@ -68278,6 +68351,7 @@ Giovanni Alfonso Borelli
 Giovanni Battaglin
 Giovanni Battista Belzoni
 Giovanni Battista Caprara Montecuccoli
+Giovanni Battista Casali del Drago
 Giovanni Battista Pergolesi
 Giovanni Battista Tiepolo
 Giovanni Boccaccio
@@ -68643,6 +68717,7 @@ Grane kirke
 Grane prestegjeld
 Granitt
 Granli (Kongsvinger)
+Granlia (Molde)
 Granrotbille
 Grans Bryggeri
 Gransherad
@@ -69540,6 +69615,7 @@ Hamazi
 Hamburg
 Hamburgbibelen
 Hamburger SV
+Hamelmalo (distrikt)
 Hamilton (Ontario)
 Hamilton County (Kansas)
 Hamilton County (New York)
@@ -70207,6 +70283,7 @@ Hellenisme
 Hellenismen
 Hellenistisk sivilisasjon
 Hellenistiske sivilisasjon
+Heller bru
 Helleristning
 Helleristningene i Alta
 Helleristningene på Skavberget
@@ -72082,6 +72159,7 @@ Innbygda (Trysil)
 Innbygger
 Innbyggernavn
 Innbyggertall
+Innerbergsalen
 Innerfolda
 Innflygningskontroll
 Innhav
@@ -72130,6 +72208,7 @@ Inspur K-UX
 Instagram
 Installasjon
 Instant WebKiosk
+Instinción
 Institusjon
 Institusjonell økonomi
 Institut für Europäische Geschichte (Mainz)
@@ -72720,6 +72799,7 @@ Jacques Lunis
 Jacques Madubost
 Jacques Offenbach
 Jacques Philippe Maraldi
+Jacques Renouvin
 Jacques Rogge
 Jacques Roumain
 Jacques Rousseau
@@ -73489,6 +73569,7 @@ Joachim de Knagenhielm
 Joachim von Ribbentrop
 Joacim Heier
 Joackim Jørgensen
+Joakim Ingelsson
 Joakim Mæhle
 Joan Gaspart Solves
 Joan Gonzàlez
@@ -73667,6 +73748,7 @@ John Bahcall
 John Baptist Wang Zengyi
 John Barry
 John Bell Hood
+John Brandts vei (Oslo)
 John Brungot
 John C. Frémont
 John C. Lilly
@@ -75237,6 +75319,7 @@ Khabarovsk
 Khabarovsk kraj
 Khakasia
 Khaled Mashaal
+Khalid Boutaïb
 Khankasjøen
 Khanty-Mansia
 Khaos
@@ -75323,6 +75406,7 @@ Kim Nysted
 Kim Peyton
 Kim Småge
 Kim Stanley Robinson
+Kim West (tegneserie)
 Kim Yoon
 Kimberley Linehan
 Kimberley Mickle
@@ -76121,6 +76205,7 @@ Kongsberg videregående skole
 Kongsberglista
 Kongsgård
 Kongsgårder
+Kongsten
 Kongsten fort
 Kongsveien (Oslo)
 Kongsvinger
@@ -76261,6 +76346,7 @@ Korey Stringer
 Korgen
 Korgen kirke
 Korint
+Korint-ligaen
 Korintbukta
 Korinteidet
 Korintkanalen
@@ -76578,6 +76664,7 @@ Krigsguvernørenes konferanse
 Krigsherre
 Krigsherrer
 Krigskunst
+Krigsmaling
 Krigsskueplassen Trans-Mississippi i den amerikanske borgerkrigen
 Krigsturisme
 Kriminalitet
@@ -76820,6 +76907,7 @@ Kumiko Ogura
 Kuna (språk)
 Kuneiform
 Kungliga Biblioteket
+Kungliga Hovstaterna
 Kungliga Vetenskapsakademien
 Kunnskap
 Kunnskapens tre (film)
@@ -77343,6 +77431,7 @@ Ladejarl
 Ladejarlene
 Lademoen prestegjeld
 Ladested
+Ladies Norwegian Open
 Ladino
 Ladinsk språk
 Ladoga
@@ -77879,6 +77968,7 @@ Legemiddelkjemi
 Legende
 Legendre (krater)
 Legering
+Legionella
 Lego Star Wars II Mobile
 Legokloss
 Lehmann (krater)
@@ -80497,6 +80587,7 @@ Mamadama Bangoura
 Mamadou Camara
 Mamadou Sakho
 Mamborê
+Mame Mbar Diouf
 Mamertinerfengselet
 Mami (gudinne)
 Mamisonpasset
@@ -80728,6 +80819,7 @@ Marduk (band)
 Marechal Cândido Rondon
 Marek Plawgo
 Maren Grøthe
+Maren Jansson Haverstad
 Maren Reisner Falch Sverdrup
 Maren Weigel
 Margalida Crespi
@@ -82655,6 +82747,7 @@ Montgomery
 Montgomery County (Kansas)
 Montgomery County (New York)
 Monthly Notices of the Royal Astronomical Society
+Montivilliers
 Montpellier HSC
 Montrose FC
 Montréal
@@ -82923,6 +83016,7 @@ Murmansk oblast
 Murom
 Murray County (Minnesota)
 Mursili III
+Murskje
 Murstein
 Musa Barrow
 Musa Hajdari
@@ -84321,6 +84415,7 @@ Nanchang
 Nanchangopprøret
 Nancy Hogshead-Makar
 Nancy Owen
+Nancy Stouffer
 Nanhui
 Nanjing
 Nanjing lu
@@ -86331,6 +86426,7 @@ Octavian
 Oda Bjørnholt
 Odalen
 Odalen prestegjeld
+Odd Bye-Nielsen
 Odd Emil Ingebrigtsen
 Odd Fellow logen Kongshaug
 Odd Harald Hovland
@@ -86723,6 +86819,7 @@ Oofotr
 Oofotr – Folketoner fra Ofoten
 Oorts sky
 Oost Gelre
+Op (album)
 Opasitet
 Opedal
 Opel Corsa
@@ -87159,6 +87256,7 @@ Oxynoemacheilus argyrogramma
 Oxynoemacheilus insignis
 Oßling
 Oświęcim
+Oʻzbekiston Futbol Federatsiyasi
 P!tux Linux
 P. Sulpicius Rufus
 P.E. Lange-Müller
@@ -87784,6 +87882,7 @@ Pegasushopen
 Peggy Hartung
 Pehr Evind Svinhufvud
 Peipsiääre kommune
+Peiter Negelsen
 Pejuçara
 Pekinguniversitetet
 Pelagisk
@@ -88239,6 +88338,7 @@ Pilespisser
 Pilestredet
 Pilestredet (Oslo)
 Pilibhit (distrikt)
+Pilocnema
 Pilot (Buffy episode)
 Pilsen
 Pimachiowin Aki
@@ -89598,6 +89698,7 @@ Rapping
 Rappringvinge
 Rapssommerfugl
 Raptus tegneseriefestival
+Raqqada
 Raquel Corral
 Raquel Rastenni
 Ras Hafun
@@ -89685,6 +89786,7 @@ Rebecca Breeds
 Rebecca Brown
 Rebecca Cooke
 Rebecca Lyne
+Rebecca Nyandeng De Mabior
 Rebecca Smith (svømmer)
 Rebecca Soni
 Rebecca Turner
@@ -90172,6 +90274,7 @@ Rigvediske stammer
 Riigikogu
 Riitta Salin
 Rijeka
+Rijeka oljekraftverk
 Rik Van Looy
 Rik van Linden
 Rikard Nordraak
@@ -90481,6 +90584,7 @@ Rodrigo Hernández Cascante
 Rodrygo Goes
 Roehampton University
 Roelf Hylke Bouwmeester
+Roferge
 Rogaland
 Rogaland fylke
 Roger Allers
@@ -94511,6 +94615,7 @@ Stanisława Walasiewicz
 Stanjukovitsj
 Stanka Zlateva
 Stanley Chinedu Ihugba
+Stanley Cup-sluttspillet 2014
 Stanley Eugene Fish
 Stanley Keith Runcorn
 Stanley Kubrick
@@ -94820,6 +94925,7 @@ Steyerberg
 Stian Grimseth
 Stian Heimlund Skjæveland
 Stian Herøy
+Stian Pedersen
 Stibochiona
 Stibochiona coresia
 Stibochiona nicea
@@ -97774,6 +97880,7 @@ The Surreal Life
 The Surreal Life: Fame Games
 The TV Set
 The TV Specials
+The Taker/Tulsa
 The Tall Ships' Races
 The Times
 The Times of India
@@ -98064,6 +98171,7 @@ Til huttetuenes land
 Tilapia zillii
 Tilbake til fremtiden
 Tilbakekoblingsmekanisme (klima)
+Tilbaketrukkethet
 Tilbud
 Tilbud og etterspørsel
 Tilbury
@@ -98526,6 +98634,7 @@ Torsteinsvik
 Torsten Hägerstrand
 Torsten Laen
 Torstrand skole
+Tortol Lumanza
 Tortona
 Tortuga
 Tortur
@@ -99587,6 +99696,7 @@ Tøyen stasjon (T-bane)
 Tøyen stasjon (jernbane)
 Türk Hava Kuvvetleri
 Türkiye Futbol Federasyonu
+Türkvizyon
 Týnkirken
 U (TV-serie)
 U-dal
@@ -99885,6 +99995,7 @@ Underverden
 Underverdenen
 Undervisning
 Undervisningsbygg Oslo
+Undine (skuespill)
 Undredal stavkirke
 Une Bastholm
 Ungarn
@@ -102149,6 +102260,7 @@ Volturnus
 Volum
 Volumprosent
 Volvat
+Volvo V
 Volvo XC
 Voodoo
 Voodoo Linux
@@ -104025,5 +104137,6 @@ transistor
 Žan Rudolf
 Željko Tanasković
 Ștefan Kovács
+ʿAlī Nāṣir Muḥammad
 На берегу неба
 Я ночной хулиган

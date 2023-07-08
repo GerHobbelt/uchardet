@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Frederick Ashton
-Campionat dels Estats Units de ciclisme en ruta
-Sus años dorados
-Serley
-Coregonus maxillaris
-Red Oaks Mill
-Roeboides numerosus
-Atletisme als Jocs Olímpics d'Estiu de 1896 - Llançament de disc homes
-Bing Xin
-Estadi Tres de Marzo
-Nina Vinogradova
-Centre de Seguretat de la Informació de Catalunya
-Zhou Yu (piragüista)
-Copiadora tèrmica
-Can Turull (Sentmenat)
-Left Lane Cruiser
-Triacontàedre ròmbic
-Missouri Botanical Garden
-Eugenia uniflora
-Eslinga
-Naohiro Takahara
-Mitologia índia
-Butanoat de pentil
-Maria Majoral
-Filip Bradarić
-Coinches
-Llibre dels Ritus
-Gianandrea Noseda
-Escut de Torre Baixa
-Campionat de Mendoza de futbol
+Casa al carrer de Pi i Margall, 46 (Palafrugell)
+Marminhac
+Alan Morgan
+Saulon-la-Rue
+Sapor Sacanxa
+Pic de Serra Plana (Lladorre)
+Polysteganus undulosus
+Pau Salvat i Espasa
+Blanchefosse-et-Bay
+Josep Vancells i Marquès
+Nastri d'argento 1953
+Antonio Toledo Munuera
+Xunta Nacionalista Asturiana
+Cryptocentrus malindiensis
+Curdlan
+William Gregor
+Debrecen
+Josip Katalinski
+Sabalòs
+Estadi Municipal d'A Malata
+Centre històric de la Selva del Camp
+Baldaquí de Tavèrnoles
+Elogi d'Unitat Naval
+Radhouane Salhi
+Paul Lemetayer
+Diego Lainez
+Quint Fabi Virgilià
+Costa de Cal Xamal
+Baga de la Païssa
+Llei Volstead
 'Arab al-Rashayida
 'Azza
 'Eina'
@@ -7091,6 +7091,7 @@ Atleta de l'any
 Atletisme
 Atletisme als Jocs Olímpics
 Atletisme als Jocs Olímpics d'Estiu de 1896
+Atletisme als Jocs Olímpics d'Estiu de 1896 - Llançament de disc homes
 Atletisme als Jocs Olímpics d'Estiu de 1900
 Atletisme als Jocs Olímpics d'Estiu de 1904
 Atletisme als Jocs Olímpics d'Estiu de 1908
@@ -7760,6 +7761,7 @@ Badia de Pere el Gran
 Badia de Yakutat
 Badiera
 Badilloa
+Badja
 Badlands (videojoc)
 Badonviller
 Badtibira
@@ -8533,6 +8535,7 @@ Batalles de Lexington i Concord
 Batalles econòmiques italianes
 Batalles navals de la Guerra de la Independència dels Estats Units
 Batalló
+Batalló Louise Michel
 Batalló Nachtigall
 Batalló d'Azov
 Batalló de Califòrnia
@@ -9598,6 +9601,7 @@ Binas
 Bindusara
 Bing Crosby
 Bing Russell
+Bing Xin
 Bing Yuan
 Binivac e Olon
 Biniville
@@ -10767,6 +10771,7 @@ Braquiòpode
 Brasenia
 Brash Entertainment
 Brasil
+Brasil Open 2018
 Brasil colonial
 Brasilers
 Brasilettia
@@ -11522,6 +11527,7 @@ Bustillo del Oro
 Bustle (magazine)
 Busto de Bureba
 Busèth
+Butanoat de pentil
 Butch - Hard Guy
 Butch Cassidy
 Butcher Hill
@@ -12390,6 +12396,7 @@ Campionat de Catalunya de futbol 1904-1905
 Campionat de Catalunya de futbol 1912-1913
 Campionat de França de ciclisme de contrarellotge
 Campionat de França de ciclisme en ruta
+Campionat de Mendoza de futbol
 Campionat de Porto de futbol
 Campionat de Space Invaders
 Campionat de Wimbledon
@@ -12425,6 +12432,7 @@ Campionat del món de ciclisme en pista de 1988
 Campionat del món de ciclisme en pista de 1989
 Campionat del món de cursa per punts femenina
 Campionat del món de persecució femenina
+Campionat dels Estats Units de ciclisme en ruta
 Campionat dels Països Baixos de trial
 Campionat dels Pirineus
 Campionat francès de futbol
@@ -12534,6 +12542,7 @@ Can Pous (Salt)
 Can Riera (l'Hospitalet de Llobregat)
 Can Solei (Beuda)
 Can Travi Vell
+Can Turull (Sentmenat)
 Can Vall
 Can Valls (Sant Vicenç de Montalt)
 Can Vallès (el Bruc)
@@ -13217,6 +13226,7 @@ Carlos Tévez
 Carlos Vela
 Carlos Velasco Carballo
 Carlos del Cerro Grande
+Carlotta Cosials
 Carlowrightia
 Carlquistia
 Carlsberg
@@ -13393,6 +13403,7 @@ Carter Glass
 Carterella
 Carterothamnus
 Cartes d'Amarna
+Cartes d'Esparta
 Cartes des d'Iwo Jima
 Cartes des de lluny
 Cartes perses
@@ -13580,6 +13591,7 @@ Castellar del Vallès
 Castellers de Vilafranca
 Castellia
 Castells a la sorra
+Castells d'Argòvia
 Castellà
 Castellà de Mèxic
 Castelló de la Plana
@@ -13946,6 +13958,7 @@ Centre Català de Caracas
 Centre Catòlic de Blanes
 Centre Cira
 Centre Comarcal Lleidatà
+Centre Cultural Blanquerna
 Centre Cívic Mestre Salvador Fàbregas
 Centre Democràtic Social / Partit Popular (Portugal)
 Centre Europeu de Prediccions Meteorològiques a Mitjà Termini
@@ -13967,6 +13980,7 @@ Centre d'Investigacions Sociològiques
 Centre d'atenció primària
 Centre de Guerra Aèria i Naval
 Centre de Guerra Naval Especial
+Centre de Seguretat de la Informació de Catalunya
 Centre de Suport a la Formació, Hampton Roads
 Centre de rehabilitació de ximpanzés Tchimpounga
 Centre for European Reform
@@ -14952,6 +14966,7 @@ Chen Lijun
 Chen Lin
 Chen Qian
 Chen Qian (Tres Regnes)
+Chen Qiufan
 Chen Qun
 Chen Shi
 Chen Shou
@@ -16747,6 +16762,7 @@ Coilia ramcarati
 Coilia reynaldi
 Coilochilus
 Coilostigma
+Coinches
 Coincourt
 Coincya
 Coiot
@@ -18317,6 +18333,7 @@ Cophixalus concinnus
 Cophixalus mcdonaldi
 Cophixalus monticola
 Cophixalus neglectus
+Copiadora tèrmica
 Copiant Beethoven
 Copiapoa
 Coppelia : La Poupée animée
@@ -18398,6 +18415,7 @@ Corea (malaltia)
 Corea del Nord
 Corea del Sud
 Coreans
+Coregonus maxillaris
 Coregonus reighardi
 Corema
 Coreocarpus
@@ -20220,6 +20238,7 @@ Daisuke Matsui
 Daisuke Satō
 Daisy Marie
 Dakar
+Dakki
 Dakota del Nord
 Dakota del Sud
 Dalali Software
@@ -23819,6 +23838,7 @@ Dòlar dels Estats Units
 Dòlar nord-americà
 Dòlars
 Dòlars dels Estats Units
+Dònhen
 Dörte Helm
 Dúnam
 Dănuţ Dobre
@@ -25996,6 +26016,7 @@ Epinephelus andersoni
 Epinephelus areolatus
 Epinephelus bilobatus
 Epinephelus bleekeri
+Epinephelus bontoides
 Epinephelus chabaudi
 Epinephelus chlorostigma
 Epinephelus coeruleopunctatus
@@ -26608,6 +26629,7 @@ Escut de Barcelona
 Escut de Catalunya
 Escut de Malàisia
 Escut de Rússia
+Escut de Torre Baixa
 Escut de la Unió Soviètica
 Escuts i banderes de l'Anoia
 Escuts i banderes del Pla de l'Estany
@@ -26666,6 +26688,7 @@ Eslaus
 Eslaus occidentals
 Eslaus orientals
 Eslaus polabis
+Eslinga
 Eslovac
 Eslovàquia
 Eslovè
@@ -26875,6 +26898,7 @@ Estadi Olímpic de Roma
 Estadi Petrovski
 Estadi Rei Balduí
 Estadi Santiago Bernabéu
+Estadi Tres de Marzo
 Estadi Urbano Caldeira
 Estadi Vicente Calderón
 Estadi de Hillsborough
@@ -27317,6 +27341,7 @@ Eugene O'Neill
 Eugeni d'Ors
 Eugenia
 Eugenia Maniokova
+Eugenia uniflora
 Eugenijus Gentvilas
 Eugenio (humorista)
 Eugenio Barahona Marciel
@@ -29069,6 +29094,7 @@ Filimanus perplexa
 Filimanus similis
 Filimanus xanthonema
 Filip Adamski
+Filip Bradarić
 Filip Hološko
 Filip d'Opos
 Filip de Medma
@@ -30279,6 +30305,7 @@ Frederic el Gran
 Frederica Montseny i Mañé
 Frederica de Hannover
 Frederick Alex Kirpatrick
+Frederick Ashton
 Frederick Cresser
 Frederick Delius
 Frederick Field (Oficial Royal Navy)
@@ -31981,6 +32008,7 @@ Giampaolo Pazzini
 Gian Francesco Albani
 Gian Maria Volonté
 Gian Paolo Chiti
+Gianandrea Noseda
 Giancarlo Crosta
 Giancarlo Giannini
 Gianfrancesco Guarnieri
@@ -39280,6 +39308,7 @@ Jack Vance
 Jack Webb
 Jack Wilkes
 Jack Wrangler
+Jack el Negre
 Jack le ramoneur
 Jack the Nipper
 Jack the Nipper II: In Coconut Capers
@@ -44895,6 +44924,7 @@ Leersia
 Leeuwenbergia
 Lefebvrea
 Lefkeli Mustafà Paixà
+Left Lane Cruiser
 Left for Dead
 Legacy (Eminem song)
 Legacy Effects
@@ -46586,6 +46616,7 @@ Llibre de cuina
 Llibre de sobretaula
 Llibre de text
 Llibre de vell
+Llibre dels Ritus
 Llibre desplegable
 Llibre digital
 Llibre electrònic
@@ -48622,6 +48653,7 @@ Mainpuri
 Mainstream
 Mainstream Top 40 (Pop Songs)
 Mainz
+Maiorga Ramirez Erro
 Maire de Castroponce
 Mairead McGuinness
 Maireana
@@ -49518,6 +49550,7 @@ Maria Leszczyńska
 Maria Lluïsa Oliveda i Puig
 Maria Lluïsa de Savoia
 Maria Magdalena Brotons i Capó
+Maria Majoral
 Maria Margarethe Winckelmann
 Maria Matiós
 Maria Mullerat i Bassedas
@@ -54356,6 +54389,7 @@ Nanyang
 Nanzhang
 Naná Vasconcelos
 Nanòmetre
+Naohiro Takahara
 Naoko Matsuda
 Naoko Takahashi
 Naomi Dickson
@@ -55611,6 +55645,7 @@ Nina Hartley
 Nina Hoss
 Nina Romashkova
 Nina Totenberg
+Nina Vinogradova
 Nina Zyuskova
 Nindara
 Nine to Five
@@ -56729,6 +56764,7 @@ Okenia
 Okie from Muskogee
 Okkupert (sèrie de televisió)
 Oklahoma
+Oklahoma (pel·lícula)
 Oklahoma City
 Oklahoma!
 Okoubaka
@@ -58933,6 +58969,7 @@ Paramilitars feixistes
 Paramita
 Paramoltkia
 Paramonacanthus arabicus
+Paramonacanthus cryptodon
 Paramonacanthus filicauda
 Paramonacanthus frenatus
 Paramonacanthus japonicus
@@ -59465,6 +59502,7 @@ Parçay-sur-Vienne
 Parèsia
 París
 París Saint-Germain
+París de l'Est
 París, Texas
 París-Roubaix
 París-Roubaix 1896
@@ -63441,6 +63479,7 @@ Premi Internacional Simón Bolívar
 Premi Jaeger-LeCoultre Glory to the Filmmaker
 Premi Joanot Martorell de narrativa
 Premi Jussi
+Premi Krieger–Nelson
 Premi LUX
 Premi Laurel
 Premi Laurence Olivier
@@ -66001,6 +66040,7 @@ Rainiero d'Elci
 Raion de Butxatx
 Raipur (Jodhpur)
 Raise the Red Lantern
+Raisen
 Raixtrakuta
 Raj Britànic
 Raja clavata
@@ -66069,6 +66109,7 @@ Rameshbabu Praggnanandhaa
 Rami Malek
 Rami Mehmed Paixà
 Ramin Karimloo
+Ramir Escofet
 Ramires
 Ramirezella
 Ramiro de Maeztu
@@ -66551,6 +66592,7 @@ Red Dead Redemption 2
 Red Heat (videojoc)
 Red Hot Chili Peppers
 Red LED
+Red Oaks Mill
 Red Ocher
 Red Shift (publicadora)
 Red Shift Ltd
@@ -68451,6 +68493,7 @@ Rodríguez Mohedano
 Rodès
 Rodés (Avairon)
 Roe contra Wade
+Roeboides numerosus
 Roel Luynenburg
 Roeland Pruijssers
 Roella
@@ -68533,6 +68576,7 @@ Roker Park
 Rokiškis
 Rokudenashi Blues
 Rokujō
+Rol (desambiguació)
 Roland Baar
 Roland Emmerich
 Roland Garros
@@ -68959,6 +69003,7 @@ Rudolf Plyukfelder
 Rudolf Rahn
 Rudolf Reichelt
 Rudolf Reichling
+Rudolf Rominger
 Rudolf Tobias
 Rudolfiella
 Rudy Douven
@@ -72419,6 +72464,7 @@ Sherrills Ford
 Sherwood Schwartz
 Sherwood Stewart
 Sherwoodia
+Sheshonq II
 Sheyi Ojo
 Shi Bao
 Shi Bao (Dinastia Jin)
@@ -72841,6 +72887,7 @@ Simetria pentaradiada
 Simeó de Guinda i Apeztegui
 Simferòpol
 Simfonia núm. 5 (Mahler)
+Simfonies de París
 Simge Büyükedes
 Simias concolor
 Simicratea
@@ -75039,6 +75086,7 @@ Subcomissió de Drets Humans
 Subcomissió de Seguretat i Defensa
 Subcontinent Indi
 Subcontinent indi
+Subdivisions dels països nòrdics
 Subdivisió administrativa de Rússia
 Suberanthus
 Subespècie
@@ -75455,6 +75503,7 @@ Survivor (videojoc de 1987)
 Survivors (videojoc)
 Surya Shekhar Ganguly
 Surzur
+Sus años dorados
 Sus cebifrons
 Sus salvanius
 Sus verrucosus
@@ -75571,6 +75620,7 @@ Swimming (Mac Miller album)
 Swing
 Swing Low, Sweet Chariot
 Swinglea
+Swiss Indoors 2022
 Swiss Leaks
 Swiss-system tournament
 SwissCube-1
@@ -80026,6 +80076,7 @@ Triacanthodidae
 Triacanthus biaculeatus
 Triacanthus nieuhofii
 Triacis
+Triacontàedre ròmbic
 Triadenum
 Triadica
 Triaenodon obesus
@@ -80077,6 +80128,7 @@ Tribunal d'Apel·lacions dels Estats Units per al Circuit del Districte de Colú
 Tribunal d'Apel·lacions pel desè circuit dels Estats Units
 Tribunal d'Ordre Públic
 Tribunal de Comptes Europeu
+Tribunal de Defensa de la Competència (Espanya)
 Tribunal de Districte dels Estats Units per al Districte Nord d'Illinois
 Tribunal de Justícia Europeu
 Tribunal de Justícia de la Unió Europea
@@ -80862,6 +80914,7 @@ U.S. Revenue Cutter Service
 UAE Team Emirates
 UB Barça
 UC Sampdoria
+UCI Amèrica Tour 2018
 UCI Oceania Tour
 UCI ProSeries 2022
 UCI ProTeam
@@ -83388,6 +83441,7 @@ Volta a Andalusia 2022
 Volta a Andalusia 2023
 Volta a Bèlgica
 Volta a Colòmbia femenina
+Volta a Mèxic
 Volta catalana
 Voltaire
 Voltatge
@@ -84386,6 +84440,7 @@ Wilson da Silva Piazza
 Wiltshire
 Wim Anderiesen
 Wim Boom
+Wim Ruska
 Wim Wenders
 Wimbledon (Regne Unit)
 Wimmerella
@@ -85671,6 +85726,7 @@ Zhou Xin
 Zhou Xuan
 Zhou Yu
 Zhou Yu (Renming)
+Zhou Yu (piragüista)
 Zhou Zhi
 Zhu Bao
 Zhu Chen
@@ -88794,6 +88850,7 @@ Alan Laird
 Alan Menken
 Alan Metter
 Alan Metzger
+Alan Morgan
 Alan P. Cresswell
 Alan Parker
 Alan Paton
@@ -91411,6 +91468,7 @@ Antonio Sanabria
 Antonio Sersale
 Antonio Tajani
 Antonio Tejero Molina
+Antonio Toledo Munuera
 Antonio Trevín Lombán
 Antonio Vallejo-Nájera
 Antonio Velamazán Tejedor
@@ -93944,6 +94002,7 @@ Badia de Pere el Gran
 Badia de Yakutat
 Badiera
 Badilloa
+Badja
 Badlands (videojoc)
 Badonviller
 Badtibira
@@ -93957,6 +94016,7 @@ Baffa Babba Danagundi
 Bafodeya
 Bafutia
 Baga de Vall-llosera
+Baga de la Païssa
 Bagassa
 Bagdad
 Bagdis
@@ -94070,6 +94130,7 @@ Balata
 Balaustion
 Balbisia
 Balcans
+Baldaquí de Tavèrnoles
 Baldassare Galuppi
 Baldellia
 Baldersheim
@@ -94717,6 +94778,7 @@ Batalles de Lexington i Concord
 Batalles econòmiques italianes
 Batalles navals de la Guerra de la Independència dels Estats Units
 Batalló
+Batalló Louise Michel
 Batalló Nachtigall
 Batalló d'Azov
 Batalló de Califòrnia
@@ -96004,6 +96066,7 @@ Blanca Casas Brullet
 Blanca Portillo Martínez de Velasco
 Blancafort
 Blancafòrt
+Blanchefosse-et-Bay
 Blanchetia
 Blanchetiastrum
 Blanchetiodendron
@@ -96952,6 +97015,7 @@ Braquiòpode
 Brasenia
 Brash Entertainment
 Brasil
+Brasil Open 2018
 Brasil colonial
 Brasilers
 Brasilettia
@@ -99406,6 +99470,7 @@ Carlos Tévez
 Carlos Vela
 Carlos Velasco Carballo
 Carlos del Cerro Grande
+Carlotta Cosials
 Carlowrightia
 Carlquistia
 Carlsberg
@@ -99582,6 +99647,7 @@ Carter Glass
 Carterella
 Carterothamnus
 Cartes d'Amarna
+Cartes d'Esparta
 Cartes des d'Iwo Jima
 Cartes des de lluny
 Cartes perses
@@ -99640,6 +99706,7 @@ Casa Uralita
 Casa Vella de Borrell
 Casa Ventosa i Puig
 Casa a l'avinguda Blondel, 26 (Lleida)
+Casa al carrer de Pi i Margall, 46 (Palafrugell)
 Casa ancestral
 Casa d'Ucraïna
 Casa d'Àustria
@@ -99769,6 +99836,7 @@ Castellar del Vallès
 Castellers de Vilafranca
 Castellia
 Castells a la sorra
+Castells d'Argòvia
 Castellà
 Castellà de Mèxic
 Castelló de la Plana
@@ -100135,6 +100203,7 @@ Centre Català de Caracas
 Centre Catòlic de Blanes
 Centre Cira
 Centre Comarcal Lleidatà
+Centre Cultural Blanquerna
 Centre Cívic Mestre Salvador Fàbregas
 Centre Democràtic Social / Partit Popular (Portugal)
 Centre Europeu de Prediccions Meteorològiques a Mitjà Termini
@@ -100160,6 +100229,7 @@ Centre de Seguretat de la Informació de Catalunya
 Centre de Suport a la Formació, Hampton Roads
 Centre de rehabilitació de ximpanzés Tchimpounga
 Centre for European Reform
+Centre històric de la Selva del Camp
 Centre per a la Política Europea
 Centre polític
 Centre virtuel de la connaissance sur l'Europe
@@ -101142,6 +101212,7 @@ Chen Lijun
 Chen Lin
 Chen Qian
 Chen Qian (Tres Regnes)
+Chen Qiufan
 Chen Qun
 Chen Shi
 Chen Shou
@@ -104879,6 +104950,7 @@ Costa Oest dels Estats Units
 Costa Panayi
 Costa Rica
 Costa d'Ivori
+Costa de Cal Xamal
 Costa-Gavras
 Costaceae
 Costella
@@ -105581,6 +105653,7 @@ Cryptocentrus caeruleopunctatus
 Cryptocentrus cryptocentrus
 Cryptocentrus fasciatus
 Cryptocentrus lutheri
+Cryptocentrus malindiensis
 Cryptocentrus octofasciatus
 Cryptocentrus strigilliceps
 Cryptochilus
@@ -105846,6 +105919,7 @@ Curbigny
 Curculigo
 Curcuma
 Curdin
+Curdlan
 Curgy
 Curio
 Curitiba
@@ -106413,6 +106487,7 @@ Daisuke Matsui
 Daisuke Satō
 Daisy Marie
 Dakar
+Dakki
 Dakota del Nord
 Dakota del Sud
 Dalali Software
@@ -107080,6 +107155,7 @@ Debra Granik
 Debra Mooney
 Debra Sapenter
 Debra Winger
+Debrecen
 Debreceni VSC
 Debregeasia
 Decachaeta
@@ -108116,6 +108192,7 @@ Diego Flores
 Diego Flores Amaya
 Diego Forlán
 Diego Godín
+Diego Lainez
 Diego Lugano
 Diego Maradona
 Diego Milito
@@ -110012,6 +110089,7 @@ Dòlar dels Estats Units
 Dòlar nord-americà
 Dòlars
 Dòlars dels Estats Units
+Dònhen
 Dörte Helm
 Dúnam
 Dănuţ Dobre
@@ -112189,6 +112267,7 @@ Epinephelus andersoni
 Epinephelus areolatus
 Epinephelus bilobatus
 Epinephelus bleekeri
+Epinephelus bontoides
 Epinephelus chabaudi
 Epinephelus chlorostigma
 Epinephelus coeruleopunctatus
@@ -113064,6 +113143,7 @@ Estadi Giuseppe Meazza
 Estadi Heysel
 Estadi Johan Cruyff
 Estadi Maracanã
+Estadi Municipal d'A Malata
 Estadi Olímpic Lluís Companys
 Estadi Olímpic de Berlín
 Estadi Olímpic de Roma
@@ -125480,6 +125560,7 @@ Jack Vance
 Jack Webb
 Jack Wilkes
 Jack Wrangler
+Jack el Negre
 Jack le ramoneur
 Jack the Nipper
 Jack the Nipper II: In Coconut Capers
@@ -127455,6 +127536,7 @@ Josep Sunyol
 Josep Sunyol i Garriga
 Josep Tarradellas
 Josep Torrent
+Josep Vancells i Marquès
 Josep Vendrell i Ferrer
 Josep Vento i Ruiz
 Josep Vicente Romà
@@ -127565,6 +127647,7 @@ Josiane Balasko
 Josiane Bost
 Josina Z. Machel
 Josip Broz Tito
+Josip Katalinski
 Josip Reic
 Joslyn Hoyte-Smith
 Josnes
@@ -132609,6 +132692,7 @@ Llei Naval de 1794
 Llei Naval de 1916
 Llei Pelé
 Llei Prohibitiva
+Llei Volstead
 Llei anglesa
 Llei d'assentaments rurals
 Llei d'igualtat salarial Lilly Ledbetter
@@ -134824,6 +134908,7 @@ Mainpuri
 Mainstream
 Mainstream Top 40 (Pop Songs)
 Mainz
+Maiorga Ramirez Erro
 Maire de Castroponce
 Mairead McGuinness
 Maireana
@@ -136038,6 +136123,7 @@ Marmagne (Saona i Loira)
 Marmanda
 Marmaroxylon
 Marmessor
+Marminhac
 Marmont
 Marmoritis
 Marmosa andersoni
@@ -140667,6 +140753,7 @@ Nassella
 Nassut
 Nastanthus
 Nastassia Novikava
+Nastri d'argento 1953
 Nastro d'Argento
 Nastro d'argento al millor argument
 Nasturtiopsis
@@ -142934,6 +143021,7 @@ Okenia
 Okie from Muskogee
 Okkupert (sèrie de televisió)
 Oklahoma
+Oklahoma (pel·lícula)
 Oklahoma City
 Oklahoma!
 Okoubaka
@@ -145138,6 +145226,7 @@ Paramilitars feixistes
 Paramita
 Paramoltkia
 Paramonacanthus arabicus
+Paramonacanthus cryptodon
 Paramonacanthus filicauda
 Paramonacanthus frenatus
 Paramonacanthus japonicus
@@ -145670,6 +145759,7 @@ Parçay-sur-Vienne
 Parèsia
 París
 París Saint-Germain
+París de l'Est
 París, Texas
 París-Roubaix
 París-Roubaix 1896
@@ -145963,6 +146053,7 @@ Pau Abad i Piera
 Pau Bertran i Bros
 Pau Durà
 Pau I de Grècia
+Pau Salvat i Espasa
 Pau de Camp David
 Pau de Perpinyà (1473)
 Pau mundial
@@ -146017,6 +146108,7 @@ Paul Laidlaw (desenvolupador de videojocs)
 Paul Lang
 Paul Le Flem
 Paul Le Guen
+Paul Lemetayer
 Paul Lindale
 Paul Lotsij
 Paul Lukas
@@ -147718,6 +147810,7 @@ Piasa
 Piauí
 Piauí (magazine)
 Pic Ismail Samani
+Pic de Serra Plana (Lladorre)
 Pic de l'Orri (Llavorsí)
 Picador de cavalls
 Picardaea
@@ -149646,6 +149739,7 @@ Premi Internacional Simón Bolívar
 Premi Jaeger-LeCoultre Glory to the Filmmaker
 Premi Joanot Martorell de narrativa
 Premi Jussi
+Premi Krieger–Nelson
 Premi LUX
 Premi Laurel
 Premi Laurence Olivier
@@ -151862,6 +151956,7 @@ Quini
 Quinnus neilius
 Quinona
 Quinqueremulus
+Quint Fabi Virgilià
 Quint Lutaci Catul (cònsol 102 aC)
 Quint Meni
 Quint Sulpici Llong
@@ -152051,6 +152146,7 @@ Raddiella
 Radenac
 Radermachera
 Radhika Coomaraswamy
+Radhouane Salhi
 Radi (element)
 Radi de Schwarzschild
 Radiació
@@ -152206,6 +152302,7 @@ Rainiero d'Elci
 Raion de Butxatx
 Raipur (Jodhpur)
 Raise the Red Lantern
+Raisen
 Raixtrakuta
 Raj Britànic
 Raja clavata
@@ -152274,6 +152371,7 @@ Rameshbabu Praggnanandhaa
 Rami Malek
 Rami Mehmed Paixà
 Ramin Karimloo
+Ramir Escofet
 Ramires
 Ramirezella
 Ramiro de Maeztu
@@ -154740,6 +154838,7 @@ Roker Park
 Rokiškis
 Rokudenashi Blues
 Rokujō
+Rol (desambiguació)
 Roland Baar
 Roland Emmerich
 Roland Garros
@@ -155166,6 +155265,7 @@ Rudolf Plyukfelder
 Rudolf Rahn
 Rudolf Reichelt
 Rudolf Reichling
+Rudolf Rominger
 Rudolf Tobias
 Rudolfiella
 Rudy Douven
@@ -155490,6 +155590,7 @@ Sa'ir
 Saavedra Fajardo
 Sabadell
 Sabal
+Sabalòs
 Sabana
 Sabater
 Sabatia
@@ -156690,6 +156791,7 @@ Sapindaceae
 Sapindus
 Sapium
 Saponaria
+Sapor Sacanxa
 Saposhnikovia
 Sapotaceae
 Sapphire
@@ -156917,6 +157019,7 @@ Saules (Saona i Loira)
 Saulius Ritter
 Saulius Skvernelis
 Saulnes
+Saulon-la-Rue
 Saulxerotte
 Saulxures-lès-Nancy
 Saulxures-lès-Vannes
@@ -158626,6 +158729,7 @@ Sherrills Ford
 Sherwood Schwartz
 Sherwood Stewart
 Sherwoodia
+Sheshonq II
 Sheyi Ojo
 Shi Bao
 Shi Bao (Dinastia Jin)
@@ -159048,6 +159152,7 @@ Simetria pentaradiada
 Simeó de Guinda i Apeztegui
 Simferòpol
 Simfonia núm. 5 (Mahler)
+Simfonies de París
 Simge Büyükedes
 Simias concolor
 Simicratea
@@ -161246,6 +161351,7 @@ Subcomissió de Drets Humans
 Subcomissió de Seguretat i Defensa
 Subcontinent Indi
 Subcontinent indi
+Subdivisions dels països nòrdics
 Subdivisió administrativa de Rússia
 Suberanthus
 Subespècie
@@ -161779,6 +161885,7 @@ Swimming (Mac Miller album)
 Swing
 Swing Low, Sweet Chariot
 Swinglea
+Swiss Indoors 2022
 Swiss Leaks
 Swiss-system tournament
 SwissCube-1
@@ -166286,6 +166393,7 @@ Tribunal d'Apel·lacions dels Estats Units per al Circuit del Districte de Colú
 Tribunal d'Apel·lacions pel desè circuit dels Estats Units
 Tribunal d'Ordre Públic
 Tribunal de Comptes Europeu
+Tribunal de Defensa de la Competència (Espanya)
 Tribunal de Districte dels Estats Units per al Districte Nord d'Illinois
 Tribunal de Justícia Europeu
 Tribunal de Justícia de la Unió Europea
@@ -167071,6 +167179,7 @@ U.S. Revenue Cutter Service
 UAE Team Emirates
 UB Barça
 UC Sampdoria
+UCI Amèrica Tour 2018
 UCI Oceania Tour
 UCI ProSeries 2022
 UCI ProTeam
@@ -169597,6 +169706,7 @@ Volta a Andalusia 2022
 Volta a Andalusia 2023
 Volta a Bèlgica
 Volta a Colòmbia femenina
+Volta a Mèxic
 Volta catalana
 Voltaire
 Voltatge
@@ -170459,6 +170569,7 @@ William Goate
 William Goldman
 William Gosling
 William Grant Still
+William Gregor
 William Grey Walter
 William H. Boring
 William H. Bossert
@@ -170595,6 +170706,7 @@ Wilson da Silva Piazza
 Wiltshire
 Wim Anderiesen
 Wim Boom
+Wim Ruska
 Wim Wenders
 Wimbledon (Regne Unit)
 Wimmerella
@@ -171179,6 +171291,7 @@ Xun Chen
 Xun Yi
 Xun You
 Xun Yu
+Xunta Nacionalista Asturiana
 Xures
 Xurrasco
 Xuxa Meneghel

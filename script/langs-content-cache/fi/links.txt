@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Nürburgringin 24 tunnin ajo 2009
-Mamry-luokka
-Vanessa Redgraven filmografia ja esiintymiset
-Halolankallion kalliomaalaus
-Nikobaarit
-Beverley Mitchell
-Hip hei hutsu!
-M-32 (1940)
-Carmen Electra (albumi)
-Breisach am Rhein
-Gennadi Roždestvenski
-Uudenseelanninpunainen
-Eckerö IK
-Melodi Grand Prix 2006
-Owase
-Varparannan työväentalo
-Multanen
-West Side Story
-Brasilian keisarikunta
-Martín Vázquez (täsmennyssivu)
-Granatwerfer 42
-Wilhelm Röntgen
-Tiia Louste
-Laura Croft
-Politics and the English Language
-Cherax
-Arvydas
-Sulo Mäkelä
-Candi Milo
-Damiano Damiani
+Kaksinaamaista peliä (vuoden 2009 elokuva)
+Tegyrios
+Freikorps-kirjallisuus
+Julian Speroni
+Vuokko Mattila
+Nokia X1-01
+Energia Islannissa
+Arrows A20
+Loona
+Ossian Rinne
+Pilot-kustannus
+Kristian Biong
+Jevgeni Nurmla
+Nicolás Massú
+Carl Elliot
+Soukanpohjan kartano
+Herľany
+Nitrosyylifluoridi
+Siperian rata
+Murata
+Jakob valehtelija
+Kasvot ampuma-aukossa
+Yves Klein
+Zach Garrett
+BMW 3-sarjan Compact
+Tampereen palvelualan ammattiopisto
+Fatah
+Call of Duty: Finest Hour
+Lauhanvuoren kansallispuisto
+Kolulampi (Mäntyharju)
 !!! (albumi)
 "Controlla"
 "Millionaire" (Beady Eyen kappale)
@@ -5331,6 +5331,7 @@ Ampumahiihdon maailmanmestaruuskilpailut 2000
 Ampumahiihdon maailmanmestaruuskilpailut 2011
 Ampumahiihdon maailmanmestaruuskilpailut 2012
 Ampumahiihdon maailmanmestaruuskilpailut 2013
+Ampumahiihdon maailmanmestaruuskilpailut 2016
 Ampumahiihdon maailmanmestaruuskilpailut 2019
 Ampumahiihdon maailmanmestaruuskilpailut 2021
 Ampumahiihdon nuorten maailmanmestaruuskilpailut 2019
@@ -5942,6 +5943,7 @@ Anna ja lohikäärme
 Anna ja ystävät
 Anna of the North
 Anna ystävämme (televisiosarja)
+Anna Åkerhielm
 Anna Štšerbakova
 Anna, a lopussa
 Anna-Liisa Hyvönen
@@ -7182,6 +7184,7 @@ Arvo Närvänen
 Arvo Riihimäki
 Arvo Salo
 Arvo Ståhlberg
+Arvydas
 Ary Barroso
 Aryan Cargo Express
 Arzawa
@@ -7506,6 +7509,7 @@ Aston Villa FC
 Aston-Jonction
 Astonin rautatieasema
 Astonishing Adventures of Mr Weems & the She Vampires
+Astor (suku)
 Astoria, Inc.
 Astoria, Queens
 Astra Airlines
@@ -9959,6 +9963,7 @@ Between the Buttons
 Between the Lines
 Betws-y-Coedin rautatieasema
 Beulah Park
+Beverley Mitchell
 Beverleyn rautatieasema
 Beverly Hills 90210
 Beverly Hills Cop (video game)
@@ -11356,6 +11361,7 @@ Brasilian Sosiaalidemokraattinen puolue
 Brasilian ilmavoimat
 Brasilian jalkapallomaajoukkue
 Brasilian jääkiekkomaajoukkue
+Brasilian keisarikunta
 Brasilian laivasto
 Brasilian naisten jalkapallomaajoukkue
 Brasilian presidentinvaali 2010
@@ -11414,6 +11420,7 @@ Breeze Ltd
 Bregenz
 Bregmatomyrma
 Breichin rautatieasema
+Breisach am Rhein
 Breitenbachplatzin metroasema
 Breitscheidplatz
 Brem-sur-Mer
@@ -12771,6 +12778,7 @@ Canche
 Cancun Air
 Candace Hill
 Cande Software
+Candi Milo
 Candia Canavese
 Candiac
 Candice Glover
@@ -13116,6 +13124,7 @@ Carmelo Robledo
 Carmen (vuoden 1915 elokuva)
 Carmen Barth
 Carmen Electra
+Carmen Electra (albumi)
 Carmen Jiménez Serrano
 Carmen Jones
 Carmen Sandiego
@@ -13975,6 +13984,7 @@ Chepstow’n rautatieasema
 Cheqair
 Chequered Flag (videopeli)
 Cher (televisiosarja)
+Cherax
 Cherline
 Chernobyl (video game)
 Chernomor-Avia
@@ -14564,6 +14574,7 @@ CiteSeer
 Citi Open
 Citibank
 Citic General Aviation
+Cities XL 2011
 Citizen Jane Productions
 Citizen Kane
 Citrix Systems
@@ -16292,6 +16303,7 @@ Damian McGinty
 Damian Scattergood
 Damian Stones
 Damiano Caruso
+Damiano Damiani
 Damien Hirst
 Damien Molony
 Damien Williams
@@ -18450,6 +18462,7 @@ Dr. Dre
 Dr. Franken
 Dr. Franken II
 Dr. Hook & The Medicine Show
+Dr. Horrible’s Sing-Along Blog
 Dr. Jekyll and Mr. Hyde (videopeli)
 Dr. Mario
 Dr. Muto
@@ -19225,6 +19238,7 @@ Echo (televisiosarja)
 Echo Airlines
 Echo Night: Beyond
 Echoes of Decimation
+Eckerö IK
 Eckerön posti- ja tullitalo
 Eckhard Krautzun
 Eckingtonin rautatieasema
@@ -20345,6 +20359,7 @@ Emílio Peixe
 En gång i Stockholm
 En luovu susta koskaan
 En luvannut sinulle ruusutarhaa
+EnMAP
 Encanto
 Enchant (lauluyhtye)
 Enchanted (1989 video game)
@@ -22439,6 +22454,7 @@ Fenerbahçe (koripallo)
 Fenerbahçe SK
 Fenestrelle
 Fenghua
+Fengshui
 Feniks Airline
 Fenindioni
 Fenitonin rautatieasema
@@ -23851,6 +23867,7 @@ Freshaer
 Freshfieldin rautatieasema
 Freshfordin rautatieasema
 Fresko
+Fresnelin integraalit
 Fresnillo
 Fresno
 Fresnon piirikunta
@@ -24138,6 +24155,7 @@ G & L Aviation
 G vs E
 G-Amusements
 G-Darius
+G-Dragon
 G-Drive Arena
 G-Force (C64 game)
 G-Force (videopeli)
@@ -24837,6 +24855,7 @@ Gennadi Karponosov
 Gennadi Karponossov
 Gennadi Manakov
 Gennadi Padalka
+Gennadi Roždestvenski
 Gennadi Sarafanov
 Gennadi Strekalov
 Gennadi Timtšenko
@@ -24888,6 +24907,7 @@ Geologia
 Geologinen ajanlasku
 Geologinen toimikunta
 Geometria
+Geometrinen kausi
 Geomorfologi
 Geomorfologia
 Geordie Kinnear
@@ -26009,6 +26029,7 @@ Granada (kuningaskunta)
 Granada (televisiokanava)
 Granada Aviación
 Granada Television
+Granatwerfer 42
 Granby (Kanada)
 Granby Bisons
 Grancy
@@ -27400,6 +27421,7 @@ Halo Wars 2
 Halo: Combat Evolved
 Halo: Reach
 Halogeeni
+Halolankallion kalliomaalaus
 Haloo Helsinki
 Haloo Helsinki!
 Halpalentoterminaali
@@ -29543,6 +29565,7 @@ Hintajärjestelmä
 Hinterzarten
 Hinton Admiralin rautatieasema
 Hip Hop All Stars
+Hip hei hutsu!
 Hip hop
 Hip-hop
 Hippalot
@@ -37121,6 +37144,7 @@ Juontaja
 Juosolampi
 Juotikkaat
 Juotto
+Juovarihmakala
 Jupiter
 Jupiter (company)
 Jupiter Corp.
@@ -45117,6 +45141,7 @@ Laura (vuoden 1944 elokuva)
 Laura Beloff
 Laura Biagiotti
 Laura Birn
+Laura Croft
 Laura Dreyfuss
 Laura Driscoll
 Laura Gallego Garcia
@@ -45348,6 +45373,7 @@ Leamington Spa Milvertonin rautatieasema
 Leamington Span rautatieasema
 Lean Back
 Lean Revilliod de Bude
+Leander Linnavuori
 Leander-luokka (risteilijä)
 Leann Hunley
 Lease Fly
@@ -48541,6 +48567,7 @@ M&M's Mini Madness
 M&Ms Adventure
 M&T Bank Stadium
 M'Baye Niang
+M-32 (1940)
 M-Aminobentsaldehydi
 M-luokka (hävittäjä)
 M-luokka (hävittäjä, 1913)
@@ -49357,6 +49384,7 @@ Makuria
 Makáres
 Mal Davis
 Mal Evans
+Malagassi
 Malagasy Airlines
 Malaija
 Malaijan kriisi
@@ -49528,6 +49556,7 @@ Mamelukit
 Mammal Species of the World
 Mamoru Mohri
 Mampikony
+Mamry-luokka
 Mamá Granden hautajaiset
 Man (yhtye)
 Man Creates
@@ -50537,6 +50566,7 @@ Marty Wilford
 Marty Zoborosky
 Martyn Fiddler Associates
 Martyn Hartley
+Martín Vázquez (täsmennyssivu)
 Maru's Mission
 Marunat
 Marutei Tsurunen
@@ -51470,6 +51500,7 @@ Mellilä
 Mellilän rautatieasema
 Mellinselkä
 Melmerbyn rautatieasema
+Melodi Grand Prix 2006
 Melodia
 Melodifestivalen 2017
 Melody Maker
@@ -54192,6 +54223,7 @@ Mulkonen
 Mullan alla
 Multa
 Multajärvi
+Multanen
 Multarinmeri
 Multi Taxi
 Multi-Aero
@@ -55539,6 +55571,7 @@ Nahila
 Nahitševan
 Nahitševan (kaupunki)
 Nahka
+Nahkakolo
 Nahkapää
 Nahkealehtinen kasvillisuus
 Nahnu jund Allah jund al-watan
@@ -56885,6 +56918,7 @@ Niko Kovač
 Niko Kytösaho
 Niko ja ystävät
 Niko – Lentäjän poika
+Nikobaarit
 Nikola Brejchová
 Nikola Gruevski
 Nikola Kljusev
@@ -58147,6 +58181,7 @@ Nótia Kynouría
 Nördlinger Ries
 Nörtti
 Nöyleppilampi
+Nürburgringin 24 tunnin ajo 2009
 Nürnberg
 Nürnbergin lait
 Nürnbergin mestarilaulajat
@@ -59449,6 +59484,7 @@ Ovidius
 Ovie Iroro
 Ovie Soko
 Ovindoli
+Owase
 Owen Brunette
 Owen Chadwick
 Owen Chamberlain
@@ -60230,6 +60266,7 @@ Papinjärvi (Virrat)
 Papinlampi (Pieksämäki)
 Papisto
 Pappi
+Pappila
 Pappila (Korppoo)
 Pappila (Tampere)
 Pappilanlahti (Kangasniemi)
@@ -61934,6 +61971,7 @@ Phase 5
 Phaser
 Phat Wilson
 Pheenix
+Phenacodus
 Phenix Aviation
 Phetchabun Airline
 Phi Ophiuchi
@@ -63551,6 +63589,7 @@ Polisario
 Politbyroo
 Politico (Eurooppa)
 Politics
+Politics and the English Language
 Politiikan tutkimus
 Politiikka
 Politiikka (Aristoteles)
@@ -64258,6 +64297,7 @@ Princeton (New Jersey)
 Princeton Aviation Corporation
 Princetonin yliopisto
 Princeville
+Principia Mathematica
 Principles of Mathematics
 Prinny: Can I Really Be the Hero?
 Prinsessa
@@ -66795,6 +66835,7 @@ Reinhold Hanning
 Reinhold Svento
 Reini Hurme
 Reinickendorf (hallintoalue)
+Reinikka
 Reinin lähetys
 Reininkulta
 Reininmaan evankelinen kirkko
@@ -69848,6 +69889,7 @@ Röntgensäteily
 Röyhy
 Röyhänjärvi
 Röyksopp
+Röylä
 Rööperiin
 Rødøy
 Rúnar Rúnarsson
@@ -72777,6 +72819,7 @@ Sergei Sakhnovski
 Sergei Saltykov
 Sergei Samsonov
 Sergei Sherbakov
+Sergei Skripal
 Sergei Sokolov
 Sergei Surovikin
 Sergei Svetlov
@@ -73094,6 +73137,7 @@ Shaken but not Stirred
 Shakespeare-luokka (hävittäjä)
 Shakhobidin Zoirov
 Shakhram Giyasov
+Shakin SM-liiga
 Shakin' (Sawyer Brown song)
 Shakin' Stevens
 Shakira
@@ -76773,6 +76817,7 @@ Sulmona
 Sulo Aittoniemi
 Sulo Heiniö
 Sulo Muuri
+Sulo Mäkelä
 Sulo Saario
 Sulo Teittinen
 Suloinen myrkynkeittäjä (televisiosarja)
@@ -81488,6 +81533,7 @@ Tihjärvi
 Tihvinän hautausmaa
 Tihvinänkarjalaiset
 Tiia Koivisto
+Tiia Louste
 Tiia Löytty
 Tiiamari Mikkola
 Tiibet
@@ -84965,6 +85011,7 @@ Uudenmaan maakunta
 Uudenmaan rakuunarykmentti
 Uudenmaan vaalipiiri
 Uudenmaankatu
+Uudenseelanninpunainen
 Uudenvuoden päivä
 Uudenvuodenpäivä
 Uudestisyntynyt rakastaja
@@ -85758,6 +85805,7 @@ Valtioduuma
 Valtiojohtoisuus
 Valtiokapitalismi
 Valtiomuoto
+Valtion Alkoholiliike
 Valtion asuntorahasto
 Valtion kustannusliike Kirja
 Valtion taidemuseo
@@ -85775,6 +85823,7 @@ Valto Kokko
 Valto Maunula
 Valtteri Bottas
 Valtteri Filppula
+Valtteri Lehtinen
 Valtteri Turunen
 ValuJet Airlines
 ValuSoft
@@ -85853,6 +85902,7 @@ Vanessa L. Williams
 Vanessa Lengies
 Vanessa Marshall
 Vanessa Paradis
+Vanessa Redgraven filmografia ja esiintymiset
 Vanginlampi
 Vanguard Airlines
 Vanguard Bandits
@@ -85989,6 +86039,7 @@ Varo vapaamatkustajia
 Varoitusmerkintä
 Varpaisjärvi
 Varpanen (Kangasniemi)
+Varparannan työväentalo
 Varpu
 Varpulampi (Mäntyharju)
 Varpuslinnut
@@ -87763,6 +87814,7 @@ Vohemar
 Vohveli
 Vohvelipäivä
 Voi hyvä tavaton
+Voi kuinka myrsky rauhoittaa
 Voice Records
 Voices of Transgression – A 90s Retrospective
 Voicey-gaala 2009
@@ -88029,6 +88081,7 @@ Vuojärvi (Toivakka)
 Vuojärvi (järvi Laukaassa)
 Vuokatti
 Vuokkiniemi
+Vuokko Muje
 Vuokkokala
 Vuokkokalat
 Vuoksela
@@ -88495,6 +88548,7 @@ WHL (juniorisarja)
 WNBA-kausi 2004
 WNBA-kausi 2010
 WNBA:n varaustilaisuus 2002
+WOH G64
 WOW Entertainment
 WOW air
 WRA Inc
@@ -88826,6 +88880,7 @@ Washingtonin laivastosopimus
 Washingtonin piirikunta (Ohio)
 Washingtonin piirikunta (Virginia)
 Washingtonin rautatieasema
+Wasp-luokka
 Wasteland (video game)
 Wataniya Airways
 Watch Dogs
@@ -89085,6 +89140,7 @@ West Norwoodin rautatieasema
 West Pennardin rautatieasema
 West Ruislipin asema
 West Runtonin rautatieasema
+West Side Story
 West Side Story (elokuva)
 West Side Story (vuoden 1961 elokuva)
 West Somerset
@@ -90086,6 +90142,7 @@ Władysław Kozakiewicz
 Władysław Reymont
 X (1992 video game)
 X (Kylie Minoguen albumi)
+X Factor (2. tuotantokausi)
 X Labs
 X You
 X-53 Active Aeroelastic Wing
@@ -97321,6 +97378,7 @@ Ampumahiihdon maailmanmestaruuskilpailut 2000
 Ampumahiihdon maailmanmestaruuskilpailut 2011
 Ampumahiihdon maailmanmestaruuskilpailut 2012
 Ampumahiihdon maailmanmestaruuskilpailut 2013
+Ampumahiihdon maailmanmestaruuskilpailut 2016
 Ampumahiihdon maailmanmestaruuskilpailut 2019
 Ampumahiihdon maailmanmestaruuskilpailut 2021
 Ampumahiihdon nuorten maailmanmestaruuskilpailut 2019
@@ -97932,6 +97990,7 @@ Anna ja lohikäärme
 Anna ja ystävät
 Anna of the North
 Anna ystävämme (televisiosarja)
+Anna Åkerhielm
 Anna Štšerbakova
 Anna, a lopussa
 Anna-Liisa Hyvönen
@@ -98982,6 +99041,7 @@ Arrow'n paradoksi
 Arrowhead Airways
 Arrowhead Stadium
 Arrows
+Arrows A20
 Ars 83
 Ars Amatoria
 Ars Fennica
@@ -99497,6 +99557,7 @@ Aston Villa FC
 Aston-Jonction
 Astonin rautatieasema
 Astonishing Adventures of Mr Weems & the She Vampires
+Astor (suku)
 Astoria, Inc.
 Astoria, Queens
 Astra Airlines
@@ -100434,6 +100495,7 @@ BK Ventspils
 BKS Air
 BMC Racing Team
 BMI Regional
+BMW 3-sarjan Compact
 BMW M3
 BMW Z3
 BMX Freestyle Simulator
@@ -104992,6 +105054,7 @@ Carl Corazzini
 Carl Dahlstrom
 Carl David Anderson
 Carl Denham
+Carl Elliot
 Carl Emil Schorske
 Carl Eneas Sjöstrand
 Carl Fredrik Hill
@@ -106561,6 +106624,7 @@ CiteSeer
 Citi Open
 Citibank
 Citic General Aviation
+Cities XL 2011
 Citizen Jane Productions
 Citizen Kane
 Citrix Systems
@@ -110448,6 +110512,7 @@ Dr. Dre
 Dr. Franken
 Dr. Franken II
 Dr. Hook & The Medicine Show
+Dr. Horrible’s Sing-Along Blog
 Dr. Jekyll and Mr. Hyde (videopeli)
 Dr. Mario
 Dr. Muto
@@ -112344,6 +112409,7 @@ Emílio Peixe
 En gång i Stockholm
 En luovu susta koskaan
 En luvannut sinulle ruusutarhaa
+EnMAP
 Encanto
 Enchant (lauluyhtye)
 Enchanted (1989 video game)
@@ -112384,6 +112450,7 @@ Enemmän kuin elämä on lempi, enemmän kuin lempi moinen kuolo
 Enemy Engaged 2
 Enemy of God
 Energia
+Energia Islannissa
 Energiajäte
 Energiakasvit
 Energias de Portugal
@@ -114324,6 +114391,7 @@ Fat Princess
 Fat Princess Adventures
 Fat Worm Blows a Sparky
 Fat Wreck Chords
+Fatah
 Fatal Frame (videopeli)
 Fatal Frame II: Crimson Butterfly
 Fatal Frame III: The Tormented
@@ -114438,6 +114506,7 @@ Fenerbahçe (koripallo)
 Fenerbahçe SK
 Fenestrelle
 Fenghua
+Fengshui
 Feniks Airline
 Fenindioni
 Fenitonin rautatieasema
@@ -115826,6 +115895,7 @@ Freie Universität Berlin
 Freie Wähler
 Freight Runners Express
 Freikorps
+Freikorps-kirjallisuus
 Frelighsburg
 Fremingtonin rautatieasema
 Fremont (Alamedan piirikunta)
@@ -115850,6 +115920,7 @@ Freshaer
 Freshfieldin rautatieasema
 Freshfordin rautatieasema
 Fresko
+Fresnelin integraalit
 Fresnillo
 Fresno
 Fresnon piirikunta
@@ -116137,6 +116208,7 @@ G & L Aviation
 G vs E
 G-Amusements
 G-Darius
+G-Dragon
 G-Drive Arena
 G-Force (C64 game)
 G-Force (videopeli)
@@ -116888,6 +116960,7 @@ Geologia
 Geologinen ajanlasku
 Geologinen toimikunta
 Geometria
+Geometrinen kausi
 Geomorfologi
 Geomorfologia
 Geordie Kinnear
@@ -121218,6 +121291,7 @@ Herätetty rakastaja
 Herättäjäjuhlat
 Herätysliike
 Herøy (Nordland)
+Herľany
 Hes Games
 Hesiodos
 Hesket Newmarket
@@ -125893,6 +125967,7 @@ Jakob De la Gardie
 Jakob Ingebrigtsen
 Jakob Lines
 Jakob Michaelsen
+Jakob valehtelija
 Jakobiini
 Jakobstads Tidning
 Jakohihna
@@ -127400,6 +127475,7 @@ Jevgeni Hrunov
 Jevgeni Jevtušenko
 Jevgeni Koroljov
 Jevgeni Muratov
+Jevgeni Nurmla
 Jevgeni Platov
 Jevgeni Pljuštšenko
 Jevgeni Prigožin
@@ -128996,6 +129072,7 @@ Julian Lennon
 Julian Purvis
 Julian Schwinger
 Julian Skelly
+Julian Speroni
 Julian Todd
 Julian Wood
 Julie Berghoff
@@ -129124,6 +129201,7 @@ Juontaja
 Juosolampi
 Juotikkaat
 Juotto
+Juovarihmakala
 Jupiter
 Jupiter (company)
 Jupiter Corp.
@@ -131645,6 +131723,7 @@ Kasvissyönti
 Kasvit
 Kasvitiede
 Kasviöljy
+Kasvot ampuma-aukossa
 Kasvot kuvaruudussa
 Kasvot väkijoukossa
 Kasvukipuja (Cheekin albumi)
@@ -134836,6 +134915,7 @@ Kristen Bell
 Krister Niilonpoika Vaasa
 Kristi Yamaguchi
 Kristian Alfonso
+Kristian Biong
 Kristian Blomberg
 Kristian Heinilä
 Kristian I
@@ -137352,6 +137432,7 @@ Leamington Spa Milvertonin rautatieasema
 Leamington Span rautatieasema
 Lean Back
 Lean Revilliod de Bude
+Leander Linnavuori
 Leander-luokka (risteilijä)
 Leann Hunley
 Lease Fly
@@ -139109,6 +139190,7 @@ Looginen atomismi
 Looginen empirismi
 Look (lehti)
 Looking Back to Yesterday
+Loona
 Looney Tunes
 Looney Tunes (Game Boy)
 Looney Tunes Collector: Alert!
@@ -141362,6 +141444,7 @@ Makuria
 Makáres
 Mal Davis
 Mal Evans
+Malagassi
 Malagasy Airlines
 Malaija
 Malaijan kriisi
@@ -146267,6 +146350,7 @@ Muppet-elokuva
 Muppets Party Cruise
 Murat Kardanov
 Murat Khrachov
+Murata
 Murcia
 Murcia (itsehallintoalue)
 Murder Was the Case (Snoop Doggin albumi)
@@ -147548,6 +147632,7 @@ Nahila
 Nahitševan
 Nahitševan (kaupunki)
 Nahka
+Nahkakolo
 Nahkapää
 Nahkealehtinen kasvillisuus
 Nahnu jund Allah jund al-watan
@@ -148690,6 +148775,7 @@ Nicole Walker
 Nicole Willis
 Nicolet
 Nicolet-Yamaska
+Nicolás Massú
 Nicon Airways
 Nicu Popescu
 Niedersachsenstadion
@@ -149091,6 +149177,7 @@ Nitro Games
 Nitrobentseeni
 Nitrobike
 Nitrospirae
+Nitrosyylifluoridi
 Nitshillin rautatieasema
 Niuafounisojalka
 Niuafoʻou
@@ -149202,6 +149289,7 @@ Nokia (yritys)
 Nokia 1610
 Nokia N9
 Nokia Theatre (Los Angeles)
+Nokia X1-01
 Nokian rautatieasema
 Nokimonninen
 Nokka-akseli
@@ -151264,6 +151352,7 @@ Ossi Ottela
 Ossi Reichert
 Ossi Valo
 Ossi Väänänen
+Ossian Rinne
 Ossie Asmundson
 Ossie Davis
 Ostend Air College
@@ -152242,6 +152331,7 @@ Papinjärvi (Virrat)
 Papinlampi (Pieksämäki)
 Papisto
 Pappi
+Pappila
 Pappila (Korppoo)
 Pappila (Tampere)
 Pappilanlahti (Kangasniemi)
@@ -153946,6 +154036,7 @@ Phase 5
 Phaser
 Phat Wilson
 Pheenix
+Phenacodus
 Phenix Aviation
 Phetchabun Airline
 Phi Ophiuchi
@@ -154656,6 +154747,7 @@ Pilkkurilammi
 Pillin rautatieasema
 Pillowtalk
 Pilningin rautatieasema
+Pilot-kustannus
 Pilote
 Piltolan seisake
 Pilus
@@ -156271,6 +156363,7 @@ Princeton (New Jersey)
 Princeton Aviation Corporation
 Princetonin yliopisto
 Princeville
+Principia Mathematica
 Principles of Mathematics
 Prinny: Can I Really Be the Hero?
 Prinsessa
@@ -158808,6 +158901,7 @@ Reinhold Hanning
 Reinhold Svento
 Reini Hurme
 Reinickendorf (hallintoalue)
+Reinikka
 Reinin lähetys
 Reininkulta
 Reininmaan evankelinen kirkko
@@ -161861,6 +161955,7 @@ Röntgensäteily
 Röyhy
 Röyhänjärvi
 Röyksopp
+Röylä
 Rööperiin
 Rødøy
 Rúnar Rúnarsson
@@ -164790,6 +164885,7 @@ Sergei Sakhnovski
 Sergei Saltykov
 Sergei Samsonov
 Sergei Sherbakov
+Sergei Skripal
 Sergei Sokolov
 Sergei Surovikin
 Sergei Svetlov
@@ -165107,6 +165203,7 @@ Shaken but not Stirred
 Shakespeare-luokka (hävittäjä)
 Shakhobidin Zoirov
 Shakhram Giyasov
+Shakin SM-liiga
 Shakin' (Sawyer Brown song)
 Shakin' Stevens
 Shakira
@@ -165985,6 +166082,7 @@ Sioux Falls Aviation
 Siouxit
 Siouxsie and the Banshees
 Siperia
+Siperian rata
 Siperianlehtikuusi
 Siperianmurmeli
 Sipilän hallitus
@@ -167038,6 +167136,7 @@ Sotši
 Sotšin olympiastadion
 Soudal-Quick Step
 Soukanjärvi
+Soukanpohjan kartano
 Soukkajärvi (Alavus)
 Soukkio (Jämsä)
 Soukkio (Kangasniemi)
@@ -171034,6 +171133,7 @@ Tampereen keskusta
 Tampereen klassillinen lyseo
 Tampereen kulttuuriyhdistys
 Tampereen lentoasema
+Tampereen palvelualan ammattiopisto
 Tampereen rautatieasema
 Tampereen seudun lähijunaliikenne
 Tampereen stadion
@@ -171604,6 +171704,7 @@ Tegelin lentoasema
 Tegera Arena
 Teggiano
 Tegs SK
+Tegyrios
 Tehaman piirikunta
 Tehanu
 Tehdas
@@ -177774,6 +177875,7 @@ Valtioduuma
 Valtiojohtoisuus
 Valtiokapitalismi
 Valtiomuoto
+Valtion Alkoholiliike
 Valtion asuntorahasto
 Valtion kustannusliike Kirja
 Valtion taidemuseo
@@ -177791,6 +177893,7 @@ Valto Kokko
 Valto Maunula
 Valtteri Bottas
 Valtteri Filppula
+Valtteri Lehtinen
 Valtteri Turunen
 ValuJet Airlines
 ValuSoft
@@ -179781,6 +179884,7 @@ Vohemar
 Vohveli
 Vohvelipäivä
 Voi hyvä tavaton
+Voi kuinka myrsky rauhoittaa
 Voice Records
 Voices of Transgression – A 90s Retrospective
 Voicey-gaala 2009
@@ -180047,6 +180151,8 @@ Vuojärvi (Toivakka)
 Vuojärvi (järvi Laukaassa)
 Vuokatti
 Vuokkiniemi
+Vuokko Mattila
+Vuokko Muje
 Vuokkokala
 Vuokkokalat
 Vuoksela
@@ -180513,6 +180619,7 @@ WHL (juniorisarja)
 WNBA-kausi 2004
 WNBA-kausi 2010
 WNBA:n varaustilaisuus 2002
+WOH G64
 WOW Entertainment
 WOW air
 WRA Inc
@@ -180844,6 +180951,7 @@ Washingtonin laivastosopimus
 Washingtonin piirikunta (Ohio)
 Washingtonin piirikunta (Virginia)
 Washingtonin rautatieasema
+Wasp-luokka
 Wasteland (video game)
 Wataniya Airways
 Watch Dogs
@@ -182105,6 +182213,7 @@ Władysław Kozakiewicz
 Władysław Reymont
 X (1992 video game)
 X (Kylie Minoguen albumi)
+X Factor (2. tuotantokausi)
 X Labs
 X You
 X-53 Active Aeroelastic Wing
@@ -183294,6 +183403,7 @@ Yverdon-les-Bains
 Yves Chauvin
 Yves Edwards
 Yves Guillemette
+Yves Klein
 Yves Lampaert
 Yves Preston
 Yves Racine
@@ -183347,6 +183457,7 @@ Zac Bierk
 Zac Brown Band
 Zac Efron
 Zaccone Mina
+Zach Garrett
 Zach Miskovic
 Zach O'Brien
 Zach Pascal

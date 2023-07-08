@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Western Museum of Flight
-Dualogic
-Necranthus
-Juan Pedro Gutiérrez
-Wii Party
-Treyvaux
-Mais Forte Que o Tempo
-Van Nuys
-Beni (departamento)
-Kasson
-33 Velorum
-Mops thersites
-Príon
-Conurbação Patos-São José do Bonfim
-Zagorje ob Savi
-International Fellowship of Evangelical Students
-Štrkovec
-Axur, re d'Ormus
-Hoste (desambiguação)
-Seminoma
-Ferrovia Qinghai-Tibete
-Assistente
-Valeri Chari
-Roma Soccer Club
-Atletismo nos Jogos Mundiais Militares de 2011 - Salto com vara masculino
-Arremedilho
-Valeggio sul Mincio
-Miss Sergipe 2014
-Henri Hubert
-PR-804
+Richard Denning
+Wan Marc
+The Upside of Anger
+Igreja Matriz de Nossa Senhora da Graça (São Francisco do Sul)
+KK Napredak Kruševac
+Aborto na Argentina
+Barragem de Otranto
+Nori Bucci
+Aforia moskalevi
+Heaven and Hell
+Poike
+Sea of Sorrow
+Lose Control (EP)
+Edgar Castillo
+Daniel 8
+Relações entre Estados Unidos e Kuwait
+Cão de água português
+Aritzo
+Talk Shows on Mute
+Suite Três Rios
+Holothele rondoni
+Penna San Giovanni
+Impacto cultural de Taylor Swift
+Espaços de Sobolev
+Sidi Ali Benyoub (distrito)
+NGC 4684
+Ovidiu Stîngă
+Prémio Emmy Internacional
+Negomir
+Leomar Quintanilha
 "Still Life" (American Concert 1981)
 '98 Live Meltdown
 'N Sync
@@ -806,6 +806,7 @@ PR-804
 32 (álbum de Oswaldir & Carlos Magrão)
 32 bits
 32. Unterseebootsflottille
+33 Velorum
 33. Unterseebootsflottille
 330 North Wabash
 34+35
@@ -1704,6 +1705,7 @@ Acrelândia
 Acreção (astrofísica)
 Acreção de Bondi
 Acrochaetiales
+Acropyga decedens
 Acrotério
 Acrotíri e Deceleia
 Acrópole de Atenas
@@ -2848,6 +2850,7 @@ Almáskeresztúr
 Aloe bernadettae
 Aloe dispar
 Aloe guineensis
+Aloe margaritifera
 Aloe verdoorniae
 Alone in the Dark (jogo de 2008)
 Alossexualidade
@@ -4892,6 +4895,7 @@ Arrasa-Quarteirão (DC Comics)
 Arraye-et-Han
 Arrecife
 Arreio
+Arremedilho
 Arremessador
 Arremesso de dardo
 Arrested Development (grupo)
@@ -5249,6 +5253,7 @@ Assis (São Paulo)
 Assis Brasil
 Assis Chateaubriand
 Assis Chateaubriand (Paraná)
+Assistente
 Assistência
 Assistência médica
 Assistência social
@@ -5555,6 +5560,7 @@ Atleta
 Atletas Olímpicos Individuais nos Jogos Olímpicos de Verão de 2012
 Atletismo
 Atletismo nos Jogos Mundiais Militares de 2011 - 100 m com barreiras feminino
+Atletismo nos Jogos Mundiais Militares de 2011 - Salto com vara masculino
 Atletismo nos Jogos Olímpicos
 Atletismo nos Jogos Olímpicos de Verão da Juventude de 2014
 Atletismo nos Jogos Olímpicos de Verão de 1896
@@ -6034,6 +6040,7 @@ Axicô
 Axis axis
 Axis kuhlii
 Axl Rose
+Axur, re d'Ormus
 Axântis
 Axé (gênero musical)
 Axónio
@@ -7527,6 +7534,7 @@ Bengtsfors (comuna)
 Benguela
 Benguela (província)
 Benguí (Belém)
+Beni (departamento)
 Beniamino Stella
 Benicio del Toro
 Benim nos Jogos Olímpicos
@@ -9124,6 +9132,7 @@ Bridgeport (Nebraska)
 Bridges to Babylon
 Bridges to Bremen
 Bridges to Buenos Aires
+Bridging the Gap (álbum de Roger Troutman)
 Bridie Kean
 Bridão
 Brie Larson
@@ -11297,6 +11306,7 @@ Cartógrafo
 Caruaru
 Caruthersville (Missouri)
 Carvão
+Carvão liquefeito
 Carvão mineral
 Carvão vegetal
 Carwyn Jones
@@ -12192,6 +12202,7 @@ Cerro Porteño
 Certain Affinity
 Certificações de vendas de discos no mundo
 Certificações por vendas de gravação musical
+Certified Financial Planner
 Cerveja
 Cervidae
 Cerville
@@ -15195,6 +15206,7 @@ Controvérsia sobre os masters de Taylor Swift
 Contusão
 Contínuo de Herzberg
 Conurbação
+Conurbação Patos-São José do Bonfim
 Conurbação de Midlands Ocidentais
 Conus
 Conus kulkucan
@@ -19433,6 +19445,7 @@ Dualidade de poderes
 Dualidade onda-corpúsculo
 Dualidade onda-partícula
 Duality
+Dualogic
 Duamutefe
 Duarte Lobo
 Duarte Nogueira
@@ -23818,6 +23831,7 @@ Ferrovia Centro-Atlântica
 Ferrovia Centro-Atlântica S.A.
 Ferrovia Norte-Sul
 Ferrovia Paulista S/A
+Ferrovia Qinghai-Tibete
 Ferrovia Transnordestina Logística
 Ferrovia de Integração do Centro-Oeste
 Ferrovia de ligação
@@ -23856,6 +23870,7 @@ Festival Internacional de Cinema do Cairo
 Festival Mawazine
 Festival RTP da Canção
 Festival RTP da Canção 1979
+Festival RTP da Canção 1993
 Festival Rimula Shell de Música Regional Brasileira
 Festival Sudoeste
 Festival Sundance de Cinema
@@ -24395,6 +24410,7 @@ Flórida (Paraná)
 Flórida Paulista
 Flúor
 Fobos (mitologia)
+Foca-monge-do-mediterrâneo
 Focalização forte
 Focinho
 Focus (canção)
@@ -25279,6 +25295,7 @@ Funhouse Tour
 Funhouse Tour: Live in Australia
 Funil
 Funk rock
+Funky Monkey Babys
 Funny People
 Funtoo
 Função (música)
@@ -28936,6 +28953,7 @@ Hennu
 Henri Bergson
 Henri Cartan
 Henri Castelli
+Henri Hubert
 Henri Langlois
 Henri Lefebvre
 Henri Moissan
@@ -29789,6 +29807,7 @@ Hospício
 Hossam Abdelmoneim
 Hossam Hassan
 Hosszúhetény
+Hoste (desambiguação)
 Hot (canção de Avril Lavigne)
 Hot 100 Single Sales
 Hot Country Songs
@@ -30660,6 +30679,7 @@ Ilha Arthur
 Ilha Baker
 Ilha Becker
 Ilha Bell
+Ilha Berkner
 Ilha Bruce
 Ilha Cape Breton
 Ilha Champ
@@ -31432,6 +31452,7 @@ International Federation of Library Associations and Institutions
 International Federation of Societies for Microscopy
 International Federation of Surveyors
 International Federation of the Phonographic Industry
+International Fellowship of Evangelical Students
 International Foundation for Science
 International Games System
 International Herald Tribune
@@ -32324,6 +32345,7 @@ Jan Ingenhousz
 Jan Kot
 Jan Nagórski
 Jan Sterling
+Jan Toorop
 Jana Raluy
 Janardo
 Janaúba
@@ -32569,6 +32591,7 @@ Jason Maroney
 Jason Marsden
 Jason Mitchell
 Jason Newsted
+Jason O'Mara
 Jason Priestley
 Jason Robards
 Jason Schreier
@@ -33989,6 +34012,7 @@ Juan Ayuso
 Juan García Rodríguez
 Juan José Omella Omella
 Juan Luis Cipriani Thorne
+Juan Pedro Gutiérrez
 Juan Ponce de León
 Juan Ramón Jiménez
 Juan Román Riquelme
@@ -34505,6 +34529,7 @@ Kasey Keller
 Kashmir (canção)
 Kassel
 Kasserine
+Kasson
 Kastriot (Albânia)
 Kasumi Hirabayashi
 KatGames
@@ -35317,6 +35342,7 @@ Labastide-du-Temple
 Label SJ
 Labelo
 Labirinto
+Labirinto de Paixões
 Labor Day
 Labor Pains (The Simpsons)
 Laboratorio Chimico
@@ -38194,6 +38220,7 @@ Lugares de operação para a Guerra contra o Terrorismo
 Luge nos Jogos Olímpicos
 Lugo (Galiza)
 Lugoj
+Luica
 Luigi Bocaddoro
 Luigi Boccadoro
 Luigi Datome
@@ -38697,6 +38724,7 @@ Lúmen (anatomia)
 Lúpus eritematoso disseminado
 Lúpus vulgar
 Lúzsok
+Lüdinghausen
 M (James Bond)
 M Countdown
 M People
@@ -39205,6 +39233,7 @@ Mairinque
 Mairiporã
 Mairy-Mainville
 Mais AD
+Mais Forte Que o Tempo
 Mais TV
 Mais Você
 Mais e Mais (canção)
@@ -41932,6 +41961,7 @@ Misery (canção de Maroon 5)
 Misery (filme)
 Misfits (banda)
 Misha
+Mishná
 Misodendraceae
 Misofobia
 Misoginia
@@ -41976,6 +42006,7 @@ Miss Mundo
 Miss Mundo Brasil 2017
 Miss Mundo Mato Grosso
 Miss Paraíba BE Emotion 2019
+Miss Sergipe 2014
 Miss São Paulo
 Miss São Paulo 2018
 Miss São Paulo 2019
@@ -42309,6 +42340,7 @@ Moiras
 Moisburg
 Moissac
 Moisés
+Moisés (Michelangelo)
 Moisés Alshich
 Moisés Lima Magalhães
 Moisés Lucarelli
@@ -42649,6 +42681,7 @@ Moonlander
 Moonlight (canção de Onew)
 Moonlight (filme)
 Moonlight Express
+Mops thersites
 Mopsuéstia
 Mora (comuna)
 Moraceae
@@ -43781,6 +43814,7 @@ NFPA 704
 NGC 1058
 NGC 1365
 NGC 1512
+NGC 1587
 NGC 1621
 NGC 2511
 NGC 2878
@@ -44227,6 +44261,7 @@ Necao I
 Necao II
 Necbete
 Necochea
+Necranthus
 Necronomicon
 Necros
 Necrotério
@@ -44311,6 +44346,7 @@ Neite
 Nejemibré
 Neko Case
 Neko Entertainment
+Neko no ko koneko, shishi no ko kojishi
 Nekvasovy
 Nel Zelpher
 Nel van Vliet
@@ -47157,6 +47193,7 @@ PPD/PSD
 PPG Industries
 PPredefinição:Globo de Ouro de melhor canção original (década de 1990)
 PR Newswire
+PR-804
 PRISM (programa de vigilância)
 PS (Portugal)
 PS2 Linux
@@ -49067,6 +49104,7 @@ Pickle
 Picnik
 Pico Arctowski
 Pico Scafell
+Pico das Brenhas
 Pico do Ferro
 Picobirnaviridae
 Picornavirales
@@ -49445,6 +49483,7 @@ Plano de Desenvolvimento Urbano Integrado da Região Metropolitana de São Paulo
 Plano de Desenvolvimento Urbano Integrado da Região Metropolitana de São Paulo (PDUI)
 Plano invariável
 Plano orbital
+Plano transverso
 Plant
 Plant City
 Plant System
@@ -49700,6 +49739,7 @@ Police and Thieves
 Policial
 Policlito
 Policultura
+Policía de Lara Fútbol Club
 Polidoro Jordão
 Polietileno
 Polifonia
@@ -53912,6 +53952,7 @@ Ressonância orbital
 Ressurreição de Jesus
 Resta in ascolto
 Restaurante
+Restaurante de fast food
 Restauração Bourbon na Espanha
 Restinga
 Restinga (São Paulo)
@@ -55034,6 +55075,7 @@ Roma (filme de 2018)
 Roma Antiga
 Roma Cabo
 Roma Capitale
+Roma Soccer Club
 Roma Termini
 Roma Vecchia
 Roma, città aperta
@@ -55916,6 +55958,7 @@ Saint-Cricq
 Saint-Créac (Gers)
 Saint-Cyprien (Pirenéus Orientais)
 Saint-Estève
+Saint-Eutrope-de-Born
 Saint-Firmin (Meurthe-et-Moselle)
 Saint-Féliu-d'Amont
 Saint-Féliu-d'Avall
@@ -57088,6 +57131,7 @@ Savage 1861 Navy
 Savage Garden
 Savana
 Savannah (Geórgia)
+Savannah Challenger
 Savant
 Savate nos Jogos Olímpicos de Verão de 1924
 Save Me (telenovela)
@@ -57610,6 +57654,7 @@ Semideus
 Semieixo maior
 Semimetais
 Semimetal
+Seminoma
 Seminário menor
 Semion Chelyuskin
 Semipresidencialismo
@@ -59017,6 +59062,7 @@ Somafis
 Somatostatina
 Sombefe
 Somberek
+Sombreiro
 Sombrero Luminoso
 Some Girls (álbum de The Rolling Stones)
 Some Girls: Live in Texas '78
@@ -59407,6 +59453,7 @@ Srimanta Sankardeva
 Srinivasan Ramani
 SsDNA virus
 SsRNA-RT virus
+St Mary's College, Rawalpindi
 St. Augustine High School
 St. Clair (Michigan)
 St. John's
@@ -64661,6 +64708,7 @@ Trey Muse
 Trey Parker
 Trey Songz
 Treyarch
+Treyvaux
 Treze Colônias
 Treze Dias Longe do Sol
 Treze colônias
@@ -66305,6 +66353,7 @@ Vale do Taquari
 Vale dos Reis
 Vale dos Sinos
 Vale dos Sonhos (Goiânia)
+Valeggio sul Mincio
 Valeilles
 Valence (Tarn-et-Garonne)
 Valence-sur-Baïse
@@ -66322,6 +66371,7 @@ Valentine's Day (2010)
 Valentine's Day (filme)
 Valença (Bahia)
 Valença (Rio de Janeiro)
+Valeri Chari
 Valerian Albanov
 Valerie Leon
 Valerie Perrine
@@ -66385,6 +66435,7 @@ Van Helsing
 Van Helsing (filme)
 Van Helsing: O Caçador de Monstros
 Van Jacobson
+Van Nuys
 Vancomicina
 Vancouver
 Vancouver (Washington)
@@ -67727,6 +67778,7 @@ Wallace Smith Broecker
 Wallace West
 Wallis Lapsley
 Wallmerod
+Walls (Circus)
 Walls of Jericho
 Wally Gator
 Wally Herbert
@@ -68022,6 +68074,7 @@ Westerburg
 Western
 Western Digital
 Western Kentucky University
+Western Museum of Flight
 Western swing
 Westernohe
 Westerwaldkreis
@@ -68151,6 +68204,7 @@ Wicked Witch Software
 Wideload Games
 Wied (Renânia-Palatinado)
 Wietzen
+Wii Party
 Wii U
 Wik and the Fable of Souls
 Wikcionário
@@ -68309,6 +68363,7 @@ William W. Murdoch
 William Walden Rubey
 William Wordsworth
 William Wyler
+Williams FW23
 Williams FW33
 Williams Street
 Willian Corrêa
@@ -68946,6 +69001,7 @@ Zack Snyder
 Zack Snyder's Justice League
 Zaeli
 Zagat Survey
+Zagorje ob Savi
 Zagrebe
 Zagueiro
 Zaide
@@ -69664,6 +69720,7 @@ transistor
 Šavac
 Šljivica
 Šoštanj
+Štrkovec
 Štěnovice
 Šuljkovac
 Šumadija (região)
@@ -71043,6 +71100,7 @@ Abolicionismo no Brasil
 Abominável homem das neves
 Aboncourt (Meurthe-et-Moselle)
 Aborto
+Aborto na Argentina
 About Time (telenovela)
 About.com
 Above & Beyond
@@ -71303,6 +71361,7 @@ Acrelândia
 Acreção (astrofísica)
 Acreção de Bondi
 Acrochaetiales
+Acropyga decedens
 Acrotério
 Acrotíri e Deceleia
 Acrópole de Atenas
@@ -71615,6 +71674,7 @@ Afonso VI de Leão e Castela
 Afonso XIII da Espanha
 Afonso XIII de Espanha
 Aforamento
+Aforia moskalevi
 Afoxé (instrumento)
 Africano
 Africanos
@@ -72447,6 +72507,7 @@ Almáskeresztúr
 Aloe bernadettae
 Aloe dispar
 Aloe guineensis
+Aloe margaritifera
 Aloe verdoorniae
 Alone in the Dark (jogo de 2008)
 Alossexualidade
@@ -74226,6 +74287,7 @@ Aristotle Kristatos
 Aristófanes (desambiguação)
 Aristóteles
 Aritmética modular
+Aritzo
 Arizona
 Arizona State University
 Arjeplog (comuna)
@@ -76345,6 +76407,7 @@ Barrados no Baile
 Barragem
 Barragem Três Irmãos
 Barragem de Bariri
+Barragem de Otranto
 Barragem de aterro
 Barragem de gravidade
 Barramares
@@ -78728,6 +78791,7 @@ Bridgeport (Nebraska)
 Bridges to Babylon
 Bridges to Bremen
 Bridges to Buenos Aires
+Bridging the Gap (álbum de Roger Troutman)
 Bridie Kean
 Bridão
 Brie Larson
@@ -80901,6 +80965,7 @@ Cartógrafo
 Caruaru
 Caruthersville (Missouri)
 Carvão
+Carvão liquefeito
 Carvão mineral
 Carvão vegetal
 Carwyn Jones
@@ -81796,6 +81861,7 @@ Cerro Porteño
 Certain Affinity
 Certificações de vendas de discos no mundo
 Certificações por vendas de gravação musical
+Certified Financial Planner
 Cerveja
 Cervidae
 Cerville
@@ -86164,6 +86230,7 @@ Cânone (ficção)
 Cântabros
 Cânula nasal
 Cão de Jennings
+Cão de água português
 Cãozarrão
 Célia Catunda
 Céline Dion
@@ -86488,6 +86555,7 @@ Dangerous Woman (canção)
 Dani Black
 Dani Samuels
 Daniel
+Daniel 8
 Daniel A. Livingstone
 Daniel Agostinho Faraco
 Daniel Arnon
@@ -89565,6 +89633,7 @@ Edgar & Ellen
 Edgar Allan Poe
 Edgar Bergen
 Edgar Bright Wilson
+Edgar Castillo
 Edgar Evans
 Edgar Rice Burroughs
 Edgar S. Woolard Jr.
@@ -91475,6 +91544,7 @@ Espaço sideral
 Espaço-tempo
 Espaço-tempo de Malament-Hogarth
 Espaçonave
+Espaços de Sobolev
 Especialista
 Especialista de carga
 Especificação de programa
@@ -93463,6 +93533,7 @@ Festival Internacional de Cinema do Cairo
 Festival Mawazine
 Festival RTP da Canção
 Festival RTP da Canção 1979
+Festival RTP da Canção 1993
 Festival Rimula Shell de Música Regional Brasileira
 Festival Sudoeste
 Festival Sundance de Cinema
@@ -94002,6 +94073,7 @@ Flórida (Paraná)
 Flórida Paulista
 Flúor
 Fobos (mitologia)
+Foca-monge-do-mediterrâneo
 Focalização forte
 Focinho
 Focus (canção)
@@ -94886,6 +94958,7 @@ Funhouse Tour
 Funhouse Tour: Live in Australia
 Funil
 Funk rock
+Funky Monkey Babys
 Funny People
 Funtoo
 Função (música)
@@ -98365,6 +98438,7 @@ Heather Simms
 Heaven & Hell
 Heaven Is a Traffic Jam on the 405
 Heaven Sent
+Heaven and Hell
 Heaven and Hell (banda)
 Heaven and Hell (álbum de Black Sabbath)
 Heaven's Gate (seita)
@@ -99207,6 +99281,7 @@ Holocausto nuclear
 Holocene
 Holoceno
 Holomycota
+Holothele rondoni
 Holozoa
 Holy Ground
 Holy Weapon
@@ -100181,6 +100256,7 @@ Igreja Evangélica Luterana do Brasil
 Igreja Evangélica de Confissão Luterana no Brasil
 Igreja Greco-Católica Romena unida com Roma
 Igreja Internacional da Graça de Deus
+Igreja Matriz de Nossa Senhora da Graça (São Francisco do Sul)
 Igreja Matriz de Nossa Senhora de Fátima
 Igreja Matriz de Vila Praia de Âncora
 Igreja Metodista
@@ -100269,6 +100345,7 @@ Ilha Arthur
 Ilha Baker
 Ilha Becker
 Ilha Bell
+Ilha Berkner
 Ilha Bruce
 Ilha Cape Breton
 Ilha Champ
@@ -100495,6 +100572,7 @@ Impact Wrestling (programa de televisão)
 Impact X Division Championship
 Impacto cultural de Madonna
 Impacto cultural de Superman
+Impacto cultural de Taylor Swift
 Impactos da pandemia de COVID-19 na televisão brasileira
 Impala
 Impeachment
@@ -101934,6 +102012,7 @@ Jan Ingenhousz
 Jan Kot
 Jan Nagórski
 Jan Sterling
+Jan Toorop
 Jana Raluy
 Janardo
 Janaúba
@@ -102179,6 +102258,7 @@ Jason Maroney
 Jason Marsden
 Jason Mitchell
 Jason Newsted
+Jason O'Mara
 Jason Priestley
 Jason Robards
 Jason Schreier
@@ -103954,6 +104034,7 @@ KDE e.V.
 KDE neon
 KIIS-FM
 KK Astoria Bydgoszcz
+KK Napredak Kruševac
 KLA Corporation
 KMFDM
 KRMG (AM)
@@ -104929,6 +105010,7 @@ Labastide-du-Temple
 Label SJ
 Labelo
 Labirinto
+Labirinto de Paixões
 Labor Day
 Labor Pains (The Simpsons)
 Laboratorio Chimico
@@ -107530,6 +107612,7 @@ Los Gatos
 Los Llanos de Tormes
 Los Masos
 Los Três Amigos
+Lose Control (EP)
 Lose My Mind
 Losing Alice
 Losing Control
@@ -107806,6 +107889,7 @@ Lugares de operação para a Guerra contra o Terrorismo
 Luge nos Jogos Olímpicos
 Lugo (Galiza)
 Lugoj
+Luica
 Luigi Bocaddoro
 Luigi Boccadoro
 Luigi Datome
@@ -108309,6 +108393,7 @@ Lúmen (anatomia)
 Lúpus eritematoso disseminado
 Lúpus vulgar
 Lúzsok
+Lüdinghausen
 M (James Bond)
 M Countdown
 M People
@@ -111545,6 +111630,7 @@ Misery (canção de Maroon 5)
 Misery (filme)
 Misfits (banda)
 Misha
+Mishná
 Misodendraceae
 Misofobia
 Misoginia
@@ -111923,6 +112009,7 @@ Moiras
 Moisburg
 Moissac
 Moisés
+Moisés (Michelangelo)
 Moisés Alshich
 Moisés Lima Magalhães
 Moisés Lucarelli
@@ -113396,6 +113483,7 @@ NFPA 704
 NGC 1058
 NGC 1365
 NGC 1512
+NGC 1587
 NGC 1621
 NGC 2511
 NGC 2878
@@ -113404,6 +113492,7 @@ NGC 3325
 NGC 3335
 NGC 4288
 NGC 4526
+NGC 4684
 NGC 4833
 NGC 529
 NGC 5616
@@ -113901,6 +113990,7 @@ Negacionismo da ditadura militar brasileira
 Negage
 Negapatão
 Negligência salutar
+Negomir
 Negro brilhante
 Negros
 Negrão de Lima (Goiânia)
@@ -113927,6 +114017,7 @@ Neite
 Nejemibré
 Neko Case
 Neko Entertainment
+Neko no ko koneko, shishi no ko kojishi
 Nekvasovy
 Nel Zelpher
 Nel van Vliet
@@ -114602,6 +114693,7 @@ Nordmaling (comuna)
 Norfolk (Virgínia)
 Norfolk and Norwich University Hospital
 Norge (dirigível)
+Nori Bucci
 Norken
 Norland
 Norlândia
@@ -118142,6 +118234,7 @@ Penicilina
 Peninha (Disney)
 Peninos
 Penn Badgley
+Penna San Giovanni
 Pennantiaceae
 Pennichaw
 Pennigsehl
@@ -118684,6 +118777,7 @@ Pickle
 Picnik
 Pico Arctowski
 Pico Scafell
+Pico das Brenhas
 Pico do Ferro
 Picobirnaviridae
 Picornavirales
@@ -119062,6 +119156,7 @@ Plano de Desenvolvimento Urbano Integrado da Região Metropolitana de São Paulo
 Plano de Desenvolvimento Urbano Integrado da Região Metropolitana de São Paulo (PDUI)
 Plano invariável
 Plano orbital
+Plano transverso
 Plant
 Plant City
 Plant System
@@ -119275,6 +119370,7 @@ Poesia épica
 Poeta
 Pogo (dança)
 Pogány
+Poike
 Poinson-lès-Nogent
 Point Break
 Point of Entry
@@ -119317,6 +119413,7 @@ Police and Thieves
 Policial
 Policlito
 Policultura
+Policía de Lara Fútbol Club
 Polidoro Jordão
 Polietileno
 Polifonia
@@ -120939,6 +121036,7 @@ Préchac-sur-Adour
 Précilhon
 Prédio
 Prémio Critics Choice de melhor atriz em cinema
+Prémio Emmy Internacional
 Prémio Georg Büchner
 Prémio Kirby
 Prémio Landon Donovan MVP
@@ -123529,6 +123627,7 @@ Ressonância orbital
 Ressurreição de Jesus
 Resta in ascolto
 Restaurante
+Restaurante de fast food
 Restauração Bourbon na Espanha
 Restinga
 Restinga (São Paulo)
@@ -123770,6 +123869,7 @@ Richard Crashaw
 Richard Curtis
 Richard Dean Anderson
 Richard Dehmel
+Richard Denning
 Richard Donner
 Richard Dreyfuss
 Richard Eliason
@@ -125534,6 +125634,7 @@ Saint-Cricq
 Saint-Créac (Gers)
 Saint-Cyprien (Pirenéus Orientais)
 Saint-Estève
+Saint-Eutrope-de-Born
 Saint-Firmin (Meurthe-et-Moselle)
 Saint-Féliu-d'Amont
 Saint-Féliu-d'Avall
@@ -126706,6 +126807,7 @@ Savage 1861 Navy
 Savage Garden
 Savana
 Savannah (Geórgia)
+Savannah Challenger
 Savant
 Savate nos Jogos Olímpicos de Verão de 1924
 Save Me (telenovela)
@@ -126875,6 +126977,7 @@ Se Eu Fosse Você
 Se Eu Fosse Você 2
 Se Eu Não Te Amasse Tanto Assim
 Sea Life Safari
+Sea of Sorrow
 Seabórgio
 Seaforth (Nova Gales do Sul)
 Seagate Technology
@@ -127881,6 +127984,7 @@ Sideways
 Sidhe
 Sidhe (empresa)
 Sidhe Interactive
+Sidi Ali Benyoub (distrito)
 Sidi Khelifa
 Sidi Merouane
 Sidi Merouane (distrito)
@@ -128636,6 +128740,7 @@ Somafis
 Somatostatina
 Sombefe
 Somberek
+Sombreiro
 Sombrero Luminoso
 Some Girls (álbum de The Rolling Stones)
 Some Girls: Live in Texas '78
@@ -129026,6 +129131,7 @@ Srimanta Sankardeva
 Srinivasan Ramani
 SsDNA virus
 SsRNA-RT virus
+St Mary's College, Rawalpindi
 St. Augustine High School
 St. Clair (Michigan)
 St. John's
@@ -129704,6 +129810,7 @@ Suicídio
 Suidae
 Suina
 Suinana
+Suite Três Rios
 Suk Hyun-Jun
 Sukhoi Su-30
 Sul (Goiânia)
@@ -131055,6 +131162,7 @@ Taline
 Talisa Soto
 Talismã
 Talita Calixto Simonetti
+Talk Shows on Mute
 Talk Tonight
 Talk show
 TalkOrigins Archive
@@ -132960,6 +133068,7 @@ The Unauthorized Beverly Hills, 90210 Story
 The Uncanny Counter
 The UnderGarden
 The United States Steel Hour
+The Upside of Anger
 The Used
 The Usual Suspects
 The V.I.P.s
@@ -137350,6 +137459,7 @@ Wallace Smith Broecker
 Wallace West
 Wallis Lapsley
 Wallmerod
+Walls (Circus)
 Walls of Jericho
 Wally Gator
 Wally Herbert
@@ -137412,6 +137522,7 @@ Waltham (Minnesota)
 Walther Hermann Nernst
 Walther Negrão
 Walther Nernst
+Wan Marc
 Wanako Games
 Wanda Media
 Wanderers (2014)
@@ -137934,6 +138045,7 @@ William W. Murdoch
 William Walden Rubey
 William Wordsworth
 William Wyler
+Williams FW23
 Williams FW33
 Williams Street
 Willian Corrêa

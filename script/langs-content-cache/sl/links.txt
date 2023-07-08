@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Anton Cizelj
-Josef Korbel
-UTC+06:00
-Marcel-Emile Deslaurens
-Beli potok (Jesenica)
-Jelenji potok (razločitev)
-Iljušin
-Vojska v sasanidskem imperiju
-Breckerfeldova ulica, Novo mesto
-Prva dama ali prvi gospod Slovenije
-Seznam belgijskih tenisačev
-Casa Natale di Leonardo
-John Redmond Hartwell
-Glušci, Srbija
-Breščak
-Univerza McGill
-Etidronska kislina
-Enron
-Brazilska ekspedicijska sila
-Fernando de Sousa e Silva
-Zorko Fon
-Škocjan v Podjuni
-221 Eos
-Aurland
-Prolom
-Velika nagrada Španije 1988
-Velika nagrada Turčije 2008
-Videoigra
-Rošpoh
-Michael Browne
+Podgorje, Koper
+Požeški Brđani
+Rangsdorf
+Minoan Lines
+Bazzel Baz
+Hudo, Novo mesto
+Little Pig
+Lavardin (grad)
+C/2012 S1 (ISON)
+Trnjani
+Sponson
+Anton Oblak (geograf)
+Poveljstvo specialnih operacij Kopenske vojske Združenih držav Amerike
+Howard Shore
+Nečimrnost (umetnost)
+Kemal Monteno
+Velika nagrada Italije 1993
+Jackson Guitars
+Luksemburg na Pesmi Evrovizije
+Gnomon (oblika)
+Bojan Tratnik
+Bracieux
+Mi, kosovirji
+Mittenpunkt
+Kot (razločitev)
+Papež Adeodat II.
+Geza Bačič
+Generalporočnik (Združeno kraljestvo)
+1540 pr. n. št.
+Pariz-Madrid 1903
 (Restav)Racija za vse generacije
 , Kamčatski kraj
 -1 (število)
@@ -976,6 +976,7 @@ Michael Browne
 22. september
 22. stoletje
 22.–23. oktober
+221 Eos
 23. april
 23. avgust
 23. december
@@ -4144,6 +4145,7 @@ Anton Brezovnik
 Anton Buzeti
 Anton Cerar
 Anton Cestnik
+Anton Cizelj
 Anton Codelli (politik)
 Anton Colarič
 Anton Delak
@@ -5227,6 +5229,7 @@ Auribeau-sur-Siagne
 Aurice
 Aurillac
 Auris, Isere
+Aurland
 Auror
 Aurupium
 Auschwitz
@@ -6060,6 +6063,7 @@ Belgorod
 Belgorodska oblast
 Belhade
 Beli Potok pri Lembergu
+Beli potok (Jesenica)
 Beli potok (Martuljek)
 Beli potok, Nomenj
 Beli slap
@@ -7908,6 +7912,7 @@ Brazdasti kit
 Brazgotinec (film, 1932)
 Brazilci
 Brazilija
+Brazilska ekspedicijska sila
 Brazilska mornarica
 Braški preliv
 Brda, Buzet
@@ -7923,6 +7928,7 @@ Bread
 Breakfast at Tiffany's (film)
 Breathe (pesem, Kylie Minogue)
 Brebis Bleaney
+Breckerfeldova ulica, Novo mesto
 Brecljevo
 Breda
 Breda (ime)
@@ -8084,6 +8090,7 @@ Brezverstvo
 Brezžični prenos podatkov
 Brezžično omrežje
 Breško jezero
+Breščak
 Brežec pri Podgorju
 Brežice
 Brežnica (Spačva)
@@ -8960,6 +8967,7 @@ Cartoon Network Studios
 Caryocaraceae
 Caryophyllaceae
 Caryophyllales
+Casa Natale di Leonardo
 Casablanca (film)
 Casaleone
 Caserta
@@ -10866,6 +10874,7 @@ Cornaceae
 Cornales
 Cornay
 Corneille Heymans
+Cornelia Oschkenat
 Cornelis Johannes van Houten
 Cornelis Johannes van Hulsteijn
 Cornelis de Jager
@@ -14777,6 +14786,7 @@ Ethel Merman
 Ethel Smith (atlet)
 Ethereum
 Ethnologue
+Etidronska kislina
 Etienne Desmarteau
 Etienne-Louis Malus
 Etika
@@ -15441,6 +15451,7 @@ Fernando Bernardino Morinigo
 Fernando Di Laura Frattura
 Fernando Pessoa
 Fernando Tambroni
+Fernando de Sousa e Silva
 Feroelektrik
 Feromagnetizem
 Feromon
@@ -15904,6 +15915,7 @@ Franc Avberšek
 Franc Avčin
 Franc Bajlec
 Franc Baškovič
+Franc Benko
 Franc Beravs
 Franc Berneker
 Franc Bernik
@@ -16138,6 +16150,7 @@ France Arhar
 France Avčin
 France Balantič
 France Bernik
+France Bernot
 France Berčič
 France Bevc
 France Bevk
@@ -18388,6 +18401,7 @@ Gluhi smodnik
 Glukoza
 Glumači (opera)
 Glušci
+Glušci, Srbija
 Glyn Gilbert
 Gmajna, Krško
 Gmünd
@@ -20938,6 +20952,7 @@ Hermenevtika
 Hermina Seničar
 Hermine Schröder
 Hermiona Granger
+Hermopolis
 Hernandiaceae
 Hernando Cortes
 Hernando de Soto
@@ -21080,6 +21095,7 @@ Hiperkompaktni zvezdni sistem
 Hipernova
 Hiperoktaeder
 Hiperorjakinja
+Hiperparazit
 Hiperpiron
 Hiperploskev
 Hiperpovezava
@@ -21563,6 +21579,7 @@ Humenné
 Humiriaceae
 Humirovke
 Humor
+Humoralna imunost
 Humoreska (film, 1920)
 Humphrey Bland
 Humphrey Cecil Travell Stronge
@@ -21757,6 +21774,7 @@ Ignacij Golob
 Ignacij Hladnik
 Ignacij Knoblehar
 Ignacij Mrak
+Ignacij Nadrah
 Ignacij Oblak
 Ignacij Orožen
 Ignacij Verbega
@@ -23978,6 +23996,7 @@ Jelena Razdrogina
 Jelendol, Škocjan
 Jelenik
 Jelenja vas
+Jelenji potok (razločitev)
 Jelenkov graben
 Jelenska Reber
 Jelica Krušič
@@ -24017,6 +24036,7 @@ Jenny Gago
 Jeperjek
 Jeprški učitelj (film)
 Jeranovo
+Jerančič
 Jerca Mrzel
 Jerca Vodušek Starič
 Jere Lehtinen
@@ -24891,6 +24911,7 @@ Josef Kaiser
 Josef Kammhuber
 Josef Karl
 Josef Kompalla
+Josef Korbel
 Josef Kraft
 Josef Kult
 Josef Maleček
@@ -25531,6 +25552,7 @@ Juhana ibn Halian
 Juhani Wahlsten
 Juho Saaristo
 Juignettes
+Juillac, Corrèze
 Juki Muto
 Jukio Mišima
 Jukstaglomerulni aparat
@@ -25905,6 +25927,7 @@ Kaleb
 Kalebovac
 Kalejdoskop
 Kalendar Srca Jezušovoga
+Kalesija (razločitev)
 Kalevi Numminen
 Kaley Cuoco
 Kaliber
@@ -27913,6 +27936,7 @@ Križniki
 Krk (mesto)
 Krka (Avstrija)
 Krka (Hrvaška)
+Krka (Pesnica)
 Krka (podjetje)
 Krka, Ivančna Gorica
 Krka, Novo mesto
@@ -30494,6 +30518,7 @@ Luxembourg
 Luxey
 Luxo Jr.
 Luzeret
+Luzern
 Luzinay
 Luzitanci
 Luzitanija
@@ -31188,6 +31213,7 @@ Marcel More
 Marcel Peeters
 Marcel Tisserand
 Marcel Štefančič
+Marcel-Emile Deslaurens
 Marcel-Jean-Edmond Théry
 Marcell Jacobs
 Marcellin Berthelot
@@ -31977,6 +32003,7 @@ Marvin L. Cohen
 Mary Browne
 Mary Ellen Avery
 Mary F. Lyon
+Mary Forbes
 Mary Frances Lyon
 Mary K. Browne
 Mary Kendall Browne
@@ -33035,6 +33062,7 @@ Michael Artin
 Michael Barker (častnik Britanske kopenske vojske)
 Michael Berridge
 Michael Blake (pisec)
+Michael Browne
 Michael Caine
 Michael Carver
 Michael Chang
@@ -40316,6 +40344,7 @@ Podgora, Gorenja vas - Poljane
 Podgora, Ravne na Koroškem
 Podgora, Straža
 Podgora, Šmartno ob Paki
+Podgora, Žabljak
 Podgorci
 Podgorica
 Podgorica pri Pečah
@@ -42116,6 +42145,7 @@ Prokonzul
 Proktokolektomija
 Prokurator
 Prolog (programski jezik)
+Prolom
 Promet
 Promet po levi in desni
 Promet v Sloveniji
@@ -42223,6 +42253,7 @@ Prušnja vas
 Prva Mojzesova knjiga
 Prva bitka pri El Alameinu
 Prva dama Združenih držav Amerike
+Prva dama ali prvi gospod Slovenije
 Prva legislatura Italijanske republike
 Prva liberijska državljanska vojna
 Prva slovenska nogometna liga
@@ -42467,6 +42498,7 @@ Prvo vmesno obdobje Egipta
 Prvobitna črna luknja
 Prvoborec
 Prvoosebna strelska videoigra
+Przemisl II.
 Préaux, Indre
 Prébois
 Préchacq-les-Bains
@@ -43126,6 +43158,7 @@ Raziskovalni center
 Raziskovanje
 Razjarjeni bik
 Razjeda
+Razjeda v ustih
 Razkolnost
 Razkrižje
 Razlaga osebnih imen
@@ -44778,6 +44811,7 @@ Ročke
 Ročko Polje
 Ročno upravljanje pomnilnika
 Roški slap
+Rošpoh
 Rošpoh, Maribor
 Roža Piščanec
 Roža mogota
@@ -45063,6 +45097,7 @@ Rémuzat
 Rémécourt
 Rémérangles
 Réunion
+Révleányvár
 Róbert Vittek
 Ržišče, Litija
 S-Bahn
@@ -46781,6 +46816,7 @@ Seznam belgijskih generalov
 Seznam belgijskih glasbenikov
 Seznam belgijskih kraljev
 Seznam belgijskih politikov
+Seznam belgijskih tenisačev
 Seznam beloruskih generalov
 Seznam beloruskih glasbenikov
 Seznam bengalskih generalov
@@ -47182,6 +47218,7 @@ Seznam italijanskih politikov
 Seznam italijanskih poslovnežev
 Seznam italijanskih rimskokatoliških škofov
 Seznam italijanskih slikarjev
+Seznam italijanskih vojaških osebnosti
 Seznam izotoksalnih poliedrov in tlakovanj
 Seznam izraelskih generalov
 Seznam izraelskih glasbenikov
@@ -48637,6 +48674,7 @@ Simplikij
 Simptomatsko zdravljenje
 Simula
 Siméon-Denis Poisson
+Sin-šumu-lišir
 Sinagoga
 Sinagoga Maribor
 Sinaj
@@ -50510,6 +50548,7 @@ Stranka mladih - Zeleni Evrope
 Stranka modernega centra
 Stranka slovenskega naroda
 Stranska ploskev
+Stranska vas
 Stranska vas ob Višnjici
 Stranska vas pri Semiču
 Stranska vas, Novo mesto
@@ -50766,6 +50805,7 @@ Superasteride
 Supercell
 Superheroj
 Superizsevna supernova
+Superkvadrik
 Superletalonosilka
 Superlicenca
 Superman (film)
@@ -51215,6 +51255,7 @@ Svinja dolina
 Svinjina
 Svinjsko
 Svinška planina
+Svirče
 Svizec
 Sviščevci
 Sviščevke
@@ -54236,6 +54277,7 @@ Univerza Johnsa Hopkinsa
 Univerza Kalifornije, Berkeley
 Univerza Kalifornije, San Diego
 Univerza Marc Bloch
+Univerza McGill
 Univerza Novega Južnega Walesa
 Univerza Papue Nove Gvineje
 Univerza Pensilvanije
@@ -54452,6 +54494,7 @@ Uzbekistan
 Uzmani
 Učakovci
 Učenjak
+Učenje plavanja
 Uči Osredkar
 Učila International
 Učilna birokracija
@@ -55157,6 +55200,7 @@ Velika nagrada São Paula
 Velika nagrada Tripolija 1938
 Velika nagrada Trois Villesa 1946
 Velika nagrada Turčije
+Velika nagrada Turčije 2008
 Velika nagrada Urugvaja 1952
 Velika nagrada Valentina 1946
 Velika nagrada Valentina 1952
@@ -55181,6 +55225,7 @@ Velika nagrada Španije
 Velika nagrada Španije 1979
 Velika nagrada Španije 1980
 Velika nagrada Španije 1981
+Velika nagrada Španije 1988
 Velika nagrada Španije 1992
 Velika nagrada Švedske
 Velika nagrada Švice
@@ -55707,6 +55752,7 @@ Viktor Orbán
 Viktor Orel
 Viktor Petkovšek
 Viktor Povše
+Viktor Prjažnikov
 Viktor Ramovš
 Viktor Repanšek
 Viktor Repenšek
@@ -56493,6 +56539,7 @@ Vojno ministrstvo Nemčije
 Vojno ujetništvo
 Vojska
 Vojska Kraljevine Jugoslavije
+Vojska v sasanidskem imperiju
 Vojsko, Vodice
 Vojskovanje
 Vojskovodja
@@ -58561,6 +58608,7 @@ Zorica Crnjak Orel
 Zoritvena delitev
 Zorka
 Zorka Janů
+Zorko Fon
 Zorko Jelinčič
 Zorko Simčič
 Zornova lema
@@ -58887,6 +58935,7 @@ urgentni center
 Čemšenik
 Čemšeniški potok
 Čen Ning Franklin Jang
+Čeng Ji
 Čengdu J-10
 Čengdu J-20
 Čengdu J-7
@@ -60883,6 +60932,7 @@ urgentni center
 153 (število)
 153 pr. n. št.
 154 (število)
+1540 pr. n. št.
 155 (število)
 156 (število)
 157 (število)
@@ -66380,6 +66430,7 @@ Bazni predor Ceneri
 Bazni predor Gotthard
 Bazoques
 Baztan
+Bazzel Baz
 Baâlons
 Baćinska jezera
 Bač pri Materiji
@@ -67675,6 +67726,7 @@ Bojan Starman
 Bojan Stupica
 Bojan Tokič
 Bojan Tomažič
+Bojan Tratnik
 Bojan Udovič
 Bojan Umek
 Bojan Uran
@@ -68226,6 +68278,7 @@ Božo Šprajc
 Božo Štimec
 Brachiopoda
 Brachycera
+Bracieux
 Braco Rotar
 Brad Park
 Bradavičarka
@@ -69025,6 +69078,7 @@ C. R. Rao
 C. Ronald Kahn
 C. Thomas Howell
 C. kr.
+C/2012 S1 (ISON)
 C11 (standardna različica C)
 CAC Sabre
 CAC/PAC JF-17 Thunder
@@ -71332,6 +71386,7 @@ Cornaceae
 Cornales
 Cornay
 Corneille Heymans
+Cornelia Oschkenat
 Cornelis Johannes van Houten
 Cornelis Johannes van Hulsteijn
 Cornelis de Jager
@@ -76372,6 +76427,7 @@ Franc Avberšek
 Franc Avčin
 Franc Bajlec
 Franc Baškovič
+Franc Benko
 Franc Beravs
 Franc Berneker
 Franc Bernik
@@ -76606,6 +76662,7 @@ France Arhar
 France Avčin
 France Balantič
 France Bernik
+France Bernot
 France Berčič
 France Bevc
 France Bevk
@@ -77790,6 +77847,7 @@ Generalporočnik
 Generalporočnik (Bundeswehr)
 Generalporočnik (Francija)
 Generalporočnik (Wehrmacht)
+Generalporočnik (Združeno kraljestvo)
 Generalštab Slovenske vojske
 Generoso Melilla
 Genesis
@@ -78868,6 +78926,7 @@ Gnej Pompej Veliki
 Gnezdo
 Gniezno
 Gnojna angina
+Gnomon (oblika)
 Gnosticizem
 Go (programski jezik)
 GoJet Airlines
@@ -81407,6 +81466,7 @@ Hermenevtika
 Hermina Seničar
 Hermine Schröder
 Hermiona Granger
+Hermopolis
 Hernandiaceae
 Hernando Cortes
 Hernando de Soto
@@ -81549,6 +81609,7 @@ Hiperkompaktni zvezdni sistem
 Hipernova
 Hiperoktaeder
 Hiperorjakinja
+Hiperparazit
 Hiperpiron
 Hiperploskev
 Hiperpovezava
@@ -81828,6 +81889,7 @@ Howard L. Bachrach
 Howard M. Temin
 Howard Percy Robertson
 Howard Redfern Morris
+Howard Shore
 Howard Temin
 Howard Walter Florey
 Howie Morenz
@@ -82032,6 +82094,7 @@ Humenné
 Humiriaceae
 Humirovke
 Humor
+Humoralna imunost
 Humoreska (film, 1920)
 Humphrey Bland
 Humphrey Cecil Travell Stronge
@@ -82226,6 +82289,7 @@ Ignacij Golob
 Ignacij Hladnik
 Ignacij Knoblehar
 Ignacij Mrak
+Ignacij Nadrah
 Ignacij Oblak
 Ignacij Orožen
 Ignacij Verbega
@@ -83315,6 +83379,7 @@ Jackie Mason
 Jackie Parker
 Jackiw-Teitelboimova gravitacija
 Jacko Page
+Jackson Guitars
 Jacmel
 Jacob Bjerknes
 Jacob David Bekenstein
@@ -84487,6 +84552,7 @@ Jenny Gago
 Jeperjek
 Jeprški učitelj (film)
 Jeranovo
+Jerančič
 Jerca Mrzel
 Jerca Vodušek Starič
 Jere Lehtinen
@@ -86002,6 +86068,7 @@ Juhana ibn Halian
 Juhani Wahlsten
 Juho Saaristo
 Juignettes
+Juillac, Corrèze
 Juki Muto
 Jukio Mišima
 Jukstaglomerulni aparat
@@ -86376,6 +86443,7 @@ Kaleb
 Kalebovac
 Kalejdoskop
 Kalendar Srca Jezušovoga
+Kalesija (razločitev)
 Kalevi Numminen
 Kaley Cuoco
 Kaliber
@@ -87091,6 +87159,7 @@ Kelti
 Keltski križ
 Kelvin
 Kema Puconci
+Kemal Monteno
 Kemal Selmanović
 Kemerovska oblast
 Kemija
@@ -87958,6 +88027,7 @@ Kostnica sv. Mihaela, Trebelno
 Kostrivnica
 Kostrivnica, Šentjur
 Kostromska oblast
+Kot (razločitev)
 Kot 2V
 Kot na Pohorju
 Kot ob Kolpi
@@ -88384,6 +88454,7 @@ Križniki
 Krk (mesto)
 Krka (Avstrija)
 Krka (Hrvaška)
+Krka (Pesnica)
 Krka (podjetje)
 Krka, Ivančna Gorica
 Krka, Novo mesto
@@ -89208,6 +89279,7 @@ Laval-sur-Tourbe
 Laval-sur-Vologne
 Lavaldens
 Lavantinska škofija
+Lavardin (grad)
 Lavars
 Lavdara
 Laveyron
@@ -90148,6 +90220,7 @@ Little Fugitive
 Little Miss Marker
 Little Nemo (film, 1911)
 Little Nemo: Adventures in Slumberland
+Little Pig
 Little, Brown & Co.
 Litva
 Liutpert
@@ -90922,6 +90995,7 @@ Lukovec, Sevnica
 Lukovke
 Luksemburg
 Luksemburg (mesto)
+Luksemburg na Pesmi Evrovizije
 Luksemburški vrtovi
 Luksemburžani
 Luleška samijščina
@@ -90965,6 +91039,7 @@ Luxembourg
 Luxey
 Luxo Jr.
 Luzeret
+Luzern
 Luzinay
 Luzitanci
 Luzitanija
@@ -92449,6 +92524,7 @@ Marvin L. Cohen
 Mary Browne
 Mary Ellen Avery
 Mary F. Lyon
+Mary Forbes
 Mary Frances Lyon
 Mary K. Browne
 Mary Kendall Browne
@@ -93495,6 +93571,7 @@ Mežiško-Solčavske Karavanke
 Mi Mladi
 Mi Reflejo
 Mi mladi
+Mi, kosovirji
 MiG-3
 Mia Farrow
 Mia Žnidarič
@@ -94155,6 +94232,7 @@ Minneapolis, Minnesota
 Minnesota
 Minnesota Wild
 Minnie Maddern Fiske
+Minoan Lines
 Minoiskalec
 Minojska doba
 Minolovec
@@ -94445,6 +94523,7 @@ Mitsubishi RP-1
 Mitsubishi Regional Jet
 Mitsubishi T-2
 Mitsuru Yoshida
+Mittenpunkt
 Mittenwald
 Mizar
 Mizni Dol
@@ -96263,6 +96342,7 @@ Nezaupnica
 Nezemeljsko življenje
 Neznani Chaplin
 Nečak
+Nečimrnost (umetnost)
 Nečlenarji
 Neža Maurer
 Neža Naglič
@@ -99165,6 +99245,7 @@ Paris Is Burning (film)
 Paris Maria Salvago
 Pariteta kupne moči
 Pariz
+Pariz-Madrid 1903
 Pariz–Nica
 Pariz–Roubaix
 Paričjak
@@ -100789,6 +100870,7 @@ Podgora, Gorenja vas - Poljane
 Podgora, Ravne na Koroškem
 Podgora, Straža
 Podgora, Šmartno ob Paki
+Podgora, Žabljak
 Podgorci
 Podgorica
 Podgorica pri Pečah
@@ -101780,6 +101862,7 @@ Poveljniško-štabna šola Slovenske vojske
 Poveljstvo
 Poveljstvo Vojnega letalstva Združenih držav Amerike v Evropi
 Poveljstvo sil Slovenske vojske
+Poveljstvo specialnih operacij Kopenske vojske Združenih držav Amerike
 Poveljstvo za doktrino, razvoj, izobraževanje in usposabljanje Slovenske vojske
 Poveljstvo za podporo Slovenske vojske
 Poveljujoči general
@@ -101872,6 +101955,7 @@ Požeg
 Požega
 Požega, Srbija
 Poženik
+Požeški Brđani
 Požgana zemlja
 Požigalništvo
 Požnica
@@ -102942,6 +103026,7 @@ Prvo vmesno obdobje Egipta
 Prvobitna črna luknja
 Prvoborec
 Prvoosebna strelska videoigra
+Przemisl II.
 Préaux, Indre
 Prébois
 Préchacq-les-Bains
@@ -103601,6 +103686,7 @@ Raziskovalni center
 Raziskovanje
 Razjarjeni bik
 Razjeda
+Razjeda v ustih
 Razkolnost
 Razkrižje
 Razlaga osebnih imen
@@ -105539,6 +105625,7 @@ Rémuzat
 Rémécourt
 Rémérangles
 Réunion
+Révleányvár
 Róbert Vittek
 Ržišče, Litija
 S-Bahn
@@ -107659,6 +107746,7 @@ Seznam italijanskih politikov
 Seznam italijanskih poslovnežev
 Seznam italijanskih rimskokatoliških škofov
 Seznam italijanskih slikarjev
+Seznam italijanskih vojaških osebnosti
 Seznam izotoksalnih poliedrov in tlakovanj
 Seznam izraelskih generalov
 Seznam izraelskih glasbenikov
@@ -109114,6 +109202,7 @@ Simplikij
 Simptomatsko zdravljenje
 Simula
 Siméon-Denis Poisson
+Sin-šumu-lišir
 Sinagoga
 Sinagoga Maribor
 Sinaj
@@ -110249,6 +110338,7 @@ Spominski park Teharje
 Spominski steber
 Spominski steber Davorinu Jenku, Ljubljana
 Spominski znak Republiška koordinacija 1991
+Sponson
 Spora
 Sporangij
 Sporazum o mednarodnem rečnem prevozu nevarnih snovi
@@ -110987,6 +111077,7 @@ Stranka mladih - Zeleni Evrope
 Stranka modernega centra
 Stranka slovenskega naroda
 Stranska ploskev
+Stranska vas
 Stranska vas ob Višnjici
 Stranska vas pri Semiču
 Stranska vas, Novo mesto
@@ -111243,6 +111334,7 @@ Superasteride
 Supercell
 Superheroj
 Superizsevna supernova
+Superkvadrik
 Superletalonosilka
 Superlicenca
 Superman (film)
@@ -111692,6 +111784,7 @@ Svinja dolina
 Svinjina
 Svinjsko
 Svinška planina
+Svirče
 Svizec
 Sviščevci
 Sviščevke
@@ -114930,6 +115023,7 @@ Uzbekistan
 Uzmani
 Učakovci
 Učenjak
+Učenje plavanja
 Uči Osredkar
 Učila International
 Učilna birokracija
@@ -115542,6 +115636,7 @@ Velika nagrada Italije 1981
 Velika nagrada Italije 1982
 Velika nagrada Italije 1984
 Velika nagrada Italije 1992
+Velika nagrada Italije 1993
 Velika nagrada Japonske
 Velika nagrada Japonske 1992
 Velika nagrada Južne Afrike
@@ -116187,6 +116282,7 @@ Viktor Orbán
 Viktor Orel
 Viktor Petkovšek
 Viktor Povše
+Viktor Prjažnikov
 Viktor Ramovš
 Viktor Repanšek
 Viktor Repenšek
@@ -119369,6 +119465,7 @@ urgentni center
 Čemšenik
 Čemšeniški potok
 Čen Ning Franklin Jang
+Čeng Ji
 Čengdu J-10
 Čengdu J-20
 Čengdu J-7

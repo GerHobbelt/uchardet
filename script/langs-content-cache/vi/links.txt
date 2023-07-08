@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Diastatea tenera
-Lệch khúc xạ
-Scoloderus tuberculifer
-Ngưu tất
-Corticarina coei
-Daniel Lalhlimpuia
-Eugnamptus cornutus
-Kallstroemia pubescens
-Tantilla brevicauda
-Acalolepta loriai
-Cilento
-Astragalus densus
-Pseudolampona taroom
-Bruchidius leprieuri
-Clarkia virgata
-Calymperes vriesei
-Giao hưởng dang dở
-Ilybius ater
-Turnera fernandezii
-Truyền hình chiếu mạng
-Cercocarpus betuloides
-Nguyễn Văn Lân
-Chaetomitrium spinosum
-İhsanlı, Araç
-Pasaccardoa procumbens
-Peucedanum elegans
-Eurispa albipennis
-Beçin, Milas
-Diglyphosa celebica
-Prochoreutis bella
+Yıldırım, Yenişehir
+Cortodera omophloides
+Larinioides cornutus
+Melanoxanthus exitiosus
+Alkanna maleolens
+Pronolagus
+Polygonum alopecuroides
+Sökün, Silifke
+Munden, Kansas
+Alcalá de Moncayo
+Lepturges alboscriptus
+Crenidorsum micheliae
+1952 Hesburgh
+Mimosa catharinensis
+Thiện tần An thị
+Trichorhina bequaerti
+Frullania bullata
+Aegus acutangulus
+Isopeda binnaburra
+Neophoneus flavotibius
+Geodena
+Quận Crawford, Wisconsin
+Chiococca pachyphylla
+Orthotrichum shevockii
+Leioproctus chrysostomus
+Anathallis modesta
+Zdechovice, Pardubice
+Fidonia albosignata
+Telaranea pecten
+Lepanthes mollis
 "Thay đổi" kháng nguyên
 "Trôi" kháng nguyên
 "tế bào nhớ
@@ -94,6 +94,7 @@ Prochoreutis bella
 'Ajjur
 'Ali Ahmad Sa'id
 (+) sense
+(11536) 1992 FZ
 (12689) 1988 RO2
 (13541) 1991 VP3
 (13542) 1991 VC5
@@ -1171,6 +1172,7 @@ Academy Award for Best Supporting Actress
 Acadia
 Acalolepta
 Acalolepta infasciata
+Acalolepta loriai
 Acalypha chlorocardia
 Acalypha claussenii
 Acamas
@@ -1212,6 +1214,7 @@ Acheulian
 Achey
 Achille Guenée
 Achilles
+Achyrolimonia potnia
 Aciclovir
 Acid 11,14,17-eicosatrienoic
 Acid 11-eicosenoic
@@ -2781,6 +2784,7 @@ Animec
 Animedia
 Animeism
 Aniplex
+Anis Nabar
 Anisocentropus
 Anisocentropus bipustulatus
 Anisochilus
@@ -3652,6 +3656,7 @@ Asteroseismology
 Asti (tỉnh)
 Astracantha vladimirii
 Astragalus
+Astragalus densus
 Astragalus flavus
 Astragalus macrodon
 Astragalus urgunensis
@@ -5536,6 +5541,7 @@ Bezenchuksky (huyện)
 Bezirci, Bandırma
 Bezirksliga Bayern
 Bezouce
+Beçin, Milas
 Beşdam, Sungurlu
 Beşkız, Sungurlu
 Bhahujanahalli
@@ -5779,6 +5785,7 @@ Bisalehalli
 Bisaurri
 Biscarrosse
 Biscarrués
+Bischofia polycarpa
 Bishōjo game
 Bisimbre
 Biskuru, Magadi
@@ -6931,6 +6938,7 @@ Bruce Wayne: The Road Home
 Bruce Western
 Bruce Willis
 Bruceploitation
+Bruchidius leprieuri
 Bruchweiler-Bärenbach
 Brue-Auriac
 Bruges, Gironde
@@ -8745,6 +8753,7 @@ Calvin Klein
 Calvisson
 Calvos de Randín
 Calylophus hartwegii
+Calymperes vriesei
 Calypogeiaceae
 Cam Gigandet
 Cam Ranh
@@ -9020,6 +9029,8 @@ Cardiorhinus elegans
 Cardueae
 Carenas
 Carex
+Carex auroniensis
+Carex turbinata
 Carex turkestanica
 Carey Mulligan
 Carhaix-Plouguer
@@ -9409,6 +9420,7 @@ Cerambycoidea
 Ceramide
 Ceratina nigriventris
 Cercino
+Cercocarpus betuloides
 Cercocebus
 Cercocebus agilis
 Cercocebus atys
@@ -9513,6 +9525,7 @@ Chae Tu-Yong
 Chaetogaedia
 Chaetogaedia vilis
 Chaetognatha
+Chaetomitrium spinosum
 Chaetona
 Chaetona congrua
 Chaetophractus vellerosus
@@ -12401,6 +12414,7 @@ Claretian
 Clark C. Abt
 Clark Kent
 Clark Spencer
+Clarkia virgata
 Clary, Nord
 Clarés de Ribota
 Classic rock
@@ -12427,6 +12441,7 @@ Claudius Ptolemaeus
 Claviers
 Claville
 Clayface
+Cleidion lasiophyllum
 Clement Cazalet
 Clement XIV
 Clemson (lớp tàu khu trục)
@@ -12440,6 +12455,7 @@ Cleostratus
 Cleppé
 Clermain
 Clermont, Landes
+Clerodendrum luteopunctatum
 Clessy
 Clessé, Saône-et-Loire
 Cleveland
@@ -12989,6 +13005,7 @@ Cortanze
 Cortazzone
 Cortegada
 Cortevaix
+Corticarina coei
 Corticosteroid
 Cortiglione
 Cortisol
@@ -13213,8 +13230,10 @@ Crossed-field amplifier
 Crossing Continents
 Crosville-la-Vieille
 Crotalaria digitata
+Crotalaria inyangensis
 Crotch
 Croth
+Croton pendens
 Croton schimperianus
 Croton vauthierianus
 Crottet
@@ -13552,6 +13571,7 @@ Cygnus X-1
 Cygnus X-3
 Cygwin
 Cylistella cuprea
+Cymaroa leptopepla
 Cymodusopsis asperata
 Cymopterus
 Cymopterus macdougalii
@@ -15817,6 +15837,7 @@ Daniel Hunt
 Daniel Héméry
 Daniel J. Bloomberg
 Daniel Kritenbrink
+Daniel Lalhlimpuia
 Daniel Logan
 Daniel Melnick
 Daniel Passarella
@@ -16341,6 +16362,7 @@ Diane McGuinness
 Dianne van Rensburg
 Diarmaid
 Diastase
+Diastatea tenera
 Dibaryon
 Dibbadahalli
 Dibbur
@@ -16415,6 +16437,7 @@ Digital puppetry
 Diglossa mystacalis
 Diglyceride
 Diglycerides
+Diglyphosa celebica
 Digoin
 Digvijay Purohit
 Dihydrotachysterol
@@ -17742,6 +17765,7 @@ Elaphandra quinquenervis
 Elapidae
 Elastic properties of the elements (data page)
 Elaterinae
+Elatine brachysperma
 Elattoneura girardi
 Elbit Skylark
 Elbridge Durbrow
@@ -18252,6 +18276,7 @@ Eugene O'Neill
 Eugenie Bouchard
 Eugenio Álvarez Dumont
 Euglenozoa
+Eugnamptus cornutus
 Eugène Lourié
 Eugène Simon
 Eugène-Henri Gravelotte
@@ -18287,6 +18312,7 @@ Eupsilia
 Eupsilia sidus
 Eupulmonata
 Eure (tỉnh)
+Eurispa albipennis
 Euro 1980
 Euro Disney S.C.A.
 EuroBasket
@@ -18654,6 +18680,7 @@ Feeling Myself (bài hát của Nicki Minaj)
 Feignies
 Feillens
 Feilsdorf
+Feliniopsis hyperythra
 Felipe II của Tây Ban Nha
 Felipe V của Tây Ban Nha
 Felix Faust
@@ -20217,6 +20244,7 @@ Giao diện người-máy tính
 Giao diện não-máy tính
 Giao dịch
 Giao hàng không người lái
+Giao hưởng dang dở
 Giao hợp
 Giao phối chọn lọc
 Giao phối cận huyết
@@ -25598,6 +25626,7 @@ Hydur
 Hyksos
 Hylaea intermediaria
 Hylaeus haleakalae
+Hylaeus lychnis
 Hymenopappus carrizoanus
 Hymenophyllaceae
 Hymenophyllales
@@ -27145,6 +27174,7 @@ Illyricum
 Ilya Ilyich Mechnikov
 Ilya Prigogine
 Ilya Zinin
+Ilybius ater
 Ilyushin
 Ilyushin Il-103
 Ilyushin Il-114
@@ -28946,6 +28976,7 @@ Kallimuddanahalli
 Kallipalya
 Kallithea
 Kallstroemia californica
+Kallstroemia pubescens
 Kallu Sadarahalli
 Kallubyadrahalli
 Kalludevanahalli, Magadi
@@ -32614,6 +32645,7 @@ Let It Be (phim)
 Let's Make Love
 Letcombe F.C.
 Lethaia
+Lethrus vachshianus
 Letteguives
 Lettrism
 Letux
@@ -34323,6 +34355,7 @@ Lễ Đức Mẹ Dâng Mình
 Lễ Đức Mẹ Lên Trời
 Lễ Đức Mẹ Vô Nhiễm Nguyên Tội
 Lễ Đức Mẹ dâng Chúa Giêsu trong đền thánh
+Lệch khúc xạ
 Lệch lạc tình dục
 Lệnh giới nghiêm
 Lệnh ngừng bắn trên toàn Đông Dương
@@ -36873,6 +36906,7 @@ Microcomputer
 Microcylloepus
 Microcylloepus carinatus
 Microdata (HTML)
+Microdinodes villiersi
 Microformat
 Microfoundations
 Micrognathozoa
@@ -37226,6 +37260,7 @@ Mito HollyHock
 Mitochondrion
 Mitracarpus bacigalupoae
 Mitrahalli
+Mitreola
 Mitromorpha
 Mitromorpha fischeri
 Mitromorpha rotundicostata
@@ -39026,6 +39061,7 @@ Nanjapura
 Nanjapura, Anekal
 Nanjedevara Kaval
 Nannamoria parabola
+Nannamoria ranya
 Nannosciurus
 Nannosciurus melanotis
 Nans-les-Pins
@@ -39461,6 +39497,7 @@ Nemzeti Bajnokság I
 Neo-psychedelia
 Neocallimastigomycota
 Neocteniza spinosa
+Neodon
 Neodymi
 Neodymium
 Neofilm
@@ -39863,6 +39900,7 @@ Nguyên Đức
 Nguyễn An Khương
 Nguyễn An Ninh
 Nguyễn Bá Loan
+Nguyễn Bá Lân
 Nguyễn Bình
 Nguyễn Bình (định hướng)
 Nguyễn Bỉnh Khiêm
@@ -39955,6 +39993,7 @@ Nguyễn Văn Hiên
 Nguyễn Văn Hiếu (trung tướng)
 Nguyễn Văn Huyền
 Nguyễn Văn Linh
+Nguyễn Văn Lân
 Nguyễn Văn Lộc (bộ trưởng)
 Nguyễn Văn Nhung
 Nguyễn Văn Thinh
@@ -40209,6 +40248,7 @@ Ngư lôi Mark 15
 Ngư nghiệp
 Ngưng tụ
 Ngưng tụ Bose-Einstein
+Ngưu tất
 Người
 Người A Xương
 Người Adyghe
@@ -41384,6 +41424,7 @@ Niên biểu Chiến tranh thế giới thứ hai (1945)
 Niên biểu Chiến tranh thế giới thứ nhất
 Niên biểu công nghệ thời tiền sử
 Niên biểu cổ sinh vật học
+Niên biểu lịch sử Anh (1000–1499)
 Niên biểu lịch sử Hoa Kỳ
 Niên biểu lịch sử Trung Quốc
 Niên biểu lịch sử Việt Nam
@@ -42914,6 +42955,7 @@ Parville
 Parvovirus
 Paréac
 Pas-de-Calais
+Pasaccardoa procumbens
 Pascal (ngôn ngữ lập trình)
 Pascal (unit)
 Pascal (đơn vị)
@@ -43307,6 +43349,7 @@ Petronius
 Petronius Maximus
 Petula Clark
 Petín
+Peucedanum elegans
 Peugeot 404
 Peujard
 Peumerit
@@ -44497,6 +44540,7 @@ Place Bell (Laval, Quebec)
 Place, Power, Situation, and Spectacle: A Geography of Film
 PlaceWare
 Placebo (ban nhạc)
+Placonotus testaceus
 Placozoa
 Plaek Pibulsonggram
 Plagiochila dominicensis
@@ -45244,6 +45288,7 @@ Probus
 Procedural animation
 Proceedings of the National Academy of Sciences
 Prochlorococcus
+Prochoreutis bella
 Procolobus
 Procolobus epieni
 Procolobus verus
@@ -45356,6 +45401,7 @@ Pseudo-documentary
 Pseudoeriphus
 Pseudoeriphus robustus
 Pseudofungi
+Pseudolampona taroom
 Pseudomonas aeruginosa
 Pseudoneureclipsis congolensis
 Pseudopristilophus attenuatus
@@ -49692,6 +49738,7 @@ Sciurus argentinius
 Sciurus ingrami
 Scleractinia
 Scleria macrogyne
+Scoloderus tuberculifer
 Scopula
 Scopula concurrens
 Scopula nigricans
@@ -49881,6 +49928,7 @@ Semidalis mexicana
 Semidocumentary
 Semih Güler
 Semih Şentürk
+Semiothisa aliceata
 Semiotus pallicornus
 Semiregular variable star
 Semmadon
@@ -49905,6 +49953,7 @@ Sendai
 Sendets, Gironde
 Seneca
 Senecio clarkianus
+Senecio glutinarius
 Senecio grisebachii
 Senecio hispidulus
 Senet
@@ -50350,6 +50399,7 @@ Siddaramanagara
 Siddharth Shukla
 Sidedahalli, Bangalore North
 Sidereal and tropical astrology
+Sideroxylon portoricense
 Sidharth Sengupta
 Sidi Ifni
 Sidigalale
@@ -50996,6 +51046,7 @@ Spanish Steps
 Spanning Tree Protocol
 Sparassidae
 Sparassinae
+Sparneck
 Sparsh Shrivastav
 Sparta
 Spartacus
@@ -51041,6 +51092,7 @@ Sphingolipid
 Spider Queen
 Spider Widow
 Spiderman
+Spiesia globiflora
 Spigelia stenophylla
 Spike Lee
 Spilosoma jezoensis
@@ -51360,6 +51412,7 @@ Stellar parallax
 Stellar pulsation
 Stellar-wind bubble
 Stenelmis priapus
+Stenia pacificalis
 Stenichneumon ussuriensis
 Stenogyne kamehamehae
 Stenolaemata
@@ -52711,6 +52764,7 @@ Tanneron
 Tanque Argentino Mediano
 Tantal
 Tantan
+Tantilla brevicauda
 Tantive IV
 Tantum Ergo
 Tanzania
@@ -56692,6 +56746,7 @@ Trade Federation
 Trading Places
 Tragia affinis
 Traianus
+Traisen, Bad Kreuznach
 Traitiéfontaine
 Tramaced
 Tramain
@@ -57095,6 +57150,7 @@ Truyền bệnh theo chiều ngang
 Truyền hình
 Truyền hình Ai Cập
 Truyền hình Hoa Kỳ
+Truyền hình chiếu mạng
 Truyền hình cáp
 Truyền hình thực tế
 Truyền hình tại Cộng hòa Nhân dân Trung Hoa
@@ -58045,6 +58101,7 @@ Turkish Women's Cup
 Turkmenistan
 Turku
 Turner Classic Movies
+Turnera fernandezii
 Turridae
 Turrinae
 Turris
@@ -63528,6 +63585,7 @@ Ytterbium
 Yttri
 Yu-Gi-Oh!
 Yuanfen
+Yucatalana robustispina
 Yugoslav Black Wave
 Yuichi Hirano
 Yuji Kimura
@@ -66713,6 +66771,7 @@ transistor
 đảo Ba Bình
 İbrahim Öner
 İhsaniye, Bandırma
+İhsanlı, Araç
 İkizli, Sungurlu
 İleği, Yalvaç
 İmirli, Sungurlu
@@ -66946,6 +67005,7 @@ transistor
 'Ajjur
 'Ali Ahmad Sa'id
 (+) sense
+(11536) 1992 FZ
 (12689) 1988 RO2
 (13541) 1991 VP3
 (13542) 1991 VC5
@@ -67168,6 +67228,7 @@ transistor
 195 TCN
 1950–51 French Division 1
 1951–52 French Division 1
+1952 Hesburgh
 1952–53 French Division 1
 1953–54 French Division 1
 1954 Soviet Top League
@@ -68065,6 +68126,7 @@ Acheulian
 Achey
 Achille Guenée
 Achilles
+Achyrolimonia potnia
 Aciclovir
 Acid 11,14,17-eicosatrienoic
 Acid 11-eicosenoic
@@ -68366,6 +68428,7 @@ Aectors
 Aegidae
 Aegis BMD
 Aegisthus
+Aegus acutangulus
 Aekansh Vats
 Aelius Gallus
 Aemilianus
@@ -68937,6 +69000,7 @@ Alita: Thiên thần chiến binh
 Alive in Joburg
 Alizay
 Alizé Cornet
+Alkanna maleolens
 Alkere
 Alki Larnaca FC
 Alkyd
@@ -69390,6 +69454,7 @@ Anastasia Pavlyuchenkova
 Anastasios Andreou
 Anastasios II
 Anastasius I
+Anathallis modesta
 Anathi
 Anationalism
 Anatolian rock
@@ -69634,6 +69699,7 @@ Animec
 Animedia
 Animeism
 Aniplex
+Anis Nabar
 Anisocentropus
 Anisocentropus bipustulatus
 Anisochilus
@@ -72634,6 +72700,7 @@ Bisalehalli
 Bisaurri
 Biscarrosse
 Biscarrués
+Bischofia polycarpa
 Bishōjo game
 Bisimbre
 Biskuru, Magadi
@@ -75877,6 +75944,8 @@ Cardiorhinus elegans
 Cardueae
 Carenas
 Carex
+Carex auroniensis
+Carex turbinata
 Carex turkestanica
 Carey Mulligan
 Carhaix-Plouguer
@@ -77137,6 +77206,7 @@ Chinnenahalli
 Chinnor F.C.
 Chinpokomon
 Chintalmadivala, Anekal
+Chiococca pachyphylla
 Chip 'n Dale: Rescue Rangers (phim)
 Chiprana
 Chipset
@@ -79287,6 +79357,7 @@ Claudius Ptolemaeus
 Claviers
 Claville
 Clayface
+Cleidion lasiophyllum
 Clement Cazalet
 Clement XIV
 Clemson (lớp tàu khu trục)
@@ -79300,6 +79371,7 @@ Cleostratus
 Cleppé
 Clermain
 Clermont, Landes
+Clerodendrum luteopunctatum
 Clessy
 Clessé, Saône-et-Loire
 Cleveland
@@ -79853,6 +79925,7 @@ Corticarina coei
 Corticosteroid
 Cortiglione
 Cortisol
+Cortodera omophloides
 Cortona
 Coruscant
 Corveissiat
@@ -80002,6 +80075,7 @@ Creighton Abrams
 Cremeaux
 Cremosperma cotejense
 Creney-près-Troyes
+Crenidorsum micheliae
 Creole ưu tú
 Cresancey
 Crespi d'Adda
@@ -80074,8 +80148,10 @@ Crossed-field amplifier
 Crossing Continents
 Crosville-la-Vieille
 Crotalaria digitata
+Crotalaria inyangensis
 Crotch
 Croth
+Croton pendens
 Croton schimperianus
 Croton vauthierianus
 Crottet
@@ -80413,6 +80489,7 @@ Cygnus X-1
 Cygnus X-3
 Cygwin
 Cylistella cuprea
+Cymaroa leptopepla
 Cymodusopsis asperata
 Cymopterus
 Cymopterus macdougalii
@@ -84606,6 +84683,7 @@ Elaphandra quinquenervis
 Elapidae
 Elastic properties of the elements (data page)
 Elaterinae
+Elatine brachysperma
 Elattoneura girardi
 Elbit Skylark
 Elbridge Durbrow
@@ -85520,6 +85598,7 @@ Feeling Myself (bài hát của Nicki Minaj)
 Feignies
 Feillens
 Feilsdorf
+Feliniopsis hyperythra
 Felipe II của Tây Ban Nha
 Felipe V của Tây Ban Nha
 Felix Faust
@@ -85606,6 +85685,7 @@ Ficus polita
 Fiddler on the Roof (phim)
 Fidel Castro
 Fidelma
+Fidonia albosignata
 Field emission display
 Field of Dreams
 Fieseler Fi 156
@@ -86209,6 +86289,7 @@ Frozen (thương hiệu)
 Fructose
 Fruits Basket
 Frullania
+Frullania bullata
 Frullania cordistipula
 Fräschels
 Fréchendets
@@ -86816,6 +86897,7 @@ Gentleman thief
 Genzano di Roma
 Genève
 GeoNames
+Geodena
 Geoff Johns
 Geoffrey Chaucer
 Geoffrey Parker (historian)
@@ -92465,6 +92547,7 @@ Hydur
 Hyksos
 Hylaea intermediaria
 Hylaeus haleakalae
+Hylaeus lychnis
 Hymenopappus carrizoanus
 Hymenophyllaceae
 Hymenophyllales
@@ -94362,6 +94445,7 @@ Isoetopsida
 Isokaze (tàu khu trục Nhật)
 Isola d'Asti
 Isometrum farreri
+Isopeda binnaburra
 Isotachis multiceps
 Isotype (immunology)
 Isparta (tỉnh)
@@ -98937,6 +99021,7 @@ Lares
 Lari Gruzia
 Lariano
 Larians-et-Munans
+Larinioides cornutus
 Lariscus
 Lariscus hosei
 Lariscus insignis
@@ -99311,6 +99396,7 @@ Leigh Anne Tuohy
 Leigh Harline
 Leigneux
 Leimbach, Bitburg-Prüm
+Leioproctus chrysostomus
 Leioproctus rubellus
 Leipzig
 Leipzig (tỉnh)
@@ -99373,6 +99459,7 @@ Leopold II của Thánh chế La Mã
 Leopold Ružička
 Leopold Stokowski
 Leordina
+Lepanthes mollis
 Lepanto (Rome Metro)
 Lepidopterology
 Lepidoziaceae
@@ -99391,6 +99478,7 @@ Leptophis diplotropis
 Leptorhynchos waitzia
 Leptospermum semibaccatum
 Leptotarsus tinctorius
+Lepturges alboscriptus
 Lepturges zikani
 Lerche (studio)
 Lerm-et-Musset
@@ -99483,6 +99571,7 @@ Let It Be (phim)
 Let's Make Love
 Letcombe F.C.
 Lethaia
+Lethrus vachshianus
 Letteguives
 Lettrism
 Letux
@@ -103401,6 +103490,7 @@ Melanophthalma dewittei
 Melanopolia brevicornis
 Melanotus
 Melanotus plurimus
+Melanoxanthus exitiosus
 Melanoxanthus taeniatus
 Melapura
 Melatonin
@@ -103743,6 +103833,7 @@ Microcomputer
 Microcylloepus
 Microcylloepus carinatus
 Microdata (HTML)
+Microdinodes villiersi
 Microformat
 Microfoundations
 Micrognathozoa
@@ -103995,6 +104086,7 @@ Mimeure
 Mimivirus
 Mimizan
 Mimoclystia deplanata
+Mimosa catharinensis
 Mimosa leprosa
 Minami Takayama
 Minamoto no Sanetomo
@@ -104096,6 +104188,7 @@ Mito HollyHock
 Mitochondrion
 Mitracarpus bacigalupoae
 Mitrahalli
+Mitreola
 Mitromorpha
 Mitromorpha fischeri
 Mitromorpha rotundicostata
@@ -104790,6 +104883,7 @@ Mundaghatta
 Mundagodu
 Mundanahalli
 Mundane science fiction
+Munden, Kansas
 Mundialito (nữ)
 Munhall, Pennsylvania
 Munhwa Broadcasting Corporation
@@ -105896,6 +105990,7 @@ Nanjapura
 Nanjapura, Anekal
 Nanjedevara Kaval
 Nannamoria parabola
+Nannamoria ranya
 Nannosciurus
 Nannosciurus melanotis
 Nans-les-Pins
@@ -106331,6 +106426,7 @@ Nemzeti Bajnokság I
 Neo-psychedelia
 Neocallimastigomycota
 Neocteniza spinosa
+Neodon
 Neodymi
 Neodymium
 Neofilm
@@ -106345,6 +106441,7 @@ Neon Genesis Evangelion (TV)
 Neon the Unknown
 Neonatal Fc receptor
 Neoperiboeum villosulum
+Neophoneus flavotibius
 Neoptolemus
 Neorealism (art)
 Neos Aionas Trikomou
@@ -106733,6 +106830,7 @@ Nguyên Đức
 Nguyễn An Khương
 Nguyễn An Ninh
 Nguyễn Bá Loan
+Nguyễn Bá Lân
 Nguyễn Bình
 Nguyễn Bình (định hướng)
 Nguyễn Bỉnh Khiêm
@@ -108256,6 +108354,7 @@ Niên biểu Chiến tranh thế giới thứ hai (1945)
 Niên biểu Chiến tranh thế giới thứ nhất
 Niên biểu công nghệ thời tiền sử
 Niên biểu cổ sinh vật học
+Niên biểu lịch sử Anh (1000–1499)
 Niên biểu lịch sử Hoa Kỳ
 Niên biểu lịch sử Trung Quốc
 Niên biểu lịch sử Việt Nam
@@ -109261,6 +109360,7 @@ Orthomyxovirus
 Orthonectida
 Orthotrichaceae
 Orthotrichum longipes
+Orthotrichum shevockii
 Orthoux-Sérignac-Quilhan
 Orthurethra
 Ortillon
@@ -111371,6 +111471,7 @@ Place Bell (Laval, Quebec)
 Place, Power, Situation, and Spectacle: A Geography of Film
 PlaceWare
 Placebo (ban nhạc)
+Placonotus testaceus
 Placozoa
 Plaek Pibulsonggram
 Plagiochila dominicensis
@@ -111699,6 +111800,7 @@ Polygon (website)
 Polygon Pictures
 Polygonum
 Polygonum acerosum
+Polygonum alopecuroides
 Polyme
 Polyme dẫn điện
 Polymer
@@ -112151,6 +112253,7 @@ Prometheus (truyện tranh)
 Promethi
 Promethium
 Prometi
+Pronolagus
 Pronsfeld
 Proofing (kỹ thuật nướng)
 Prophage
@@ -113214,6 +113317,7 @@ Quận Columbia, Pennsylvania
 Quận Cook, Minnesota
 Quận Cornwall, Tỉnh New York
 Quận Crawford, Pennsylvania
+Quận Crawford, Wisconsin
 Quận Cumberland, Pennsylvania
 Quận Dauphin, Pennsylvania
 Quận Delaware, Pennsylvania
@@ -116758,6 +116862,7 @@ Semidalis mexicana
 Semidocumentary
 Semih Güler
 Semih Şentürk
+Semiothisa aliceata
 Semiotus pallicornus
 Semiregular variable star
 Semmadon
@@ -116782,6 +116887,7 @@ Sendai
 Sendets, Gironde
 Seneca
 Senecio clarkianus
+Senecio glutinarius
 Senecio grisebachii
 Senecio hispidulus
 Senet
@@ -117227,6 +117333,7 @@ Siddaramanagara
 Siddharth Shukla
 Sidedahalli, Bangalore North
 Sidereal and tropical astrology
+Sideroxylon portoricense
 Sidharth Sengupta
 Sidi Ifni
 Sidigalale
@@ -117873,6 +117980,7 @@ Spanish Steps
 Spanning Tree Protocol
 Sparassidae
 Sparassinae
+Sparneck
 Sparsh Shrivastav
 Sparta
 Spartacus
@@ -117918,6 +118026,7 @@ Sphingolipid
 Spider Queen
 Spider Widow
 Spiderman
+Spiesia globiflora
 Spigelia stenophylla
 Spike Lee
 Spilosoma jezoensis
@@ -118237,6 +118346,7 @@ Stellar parallax
 Stellar pulsation
 Stellar-wind bubble
 Stenelmis priapus
+Stenia pacificalis
 Stenichneumon ussuriensis
 Stenogyne kamehamehae
 Stenolaemata
@@ -119075,6 +119185,7 @@ Sông Đại Nẫm
 Sông Đồng Nai
 Sông Ấn
 Sôđa khan
+Sökün, Silifke
 Sùng Trinh
 Sùng bái cá nhân Adolf Hitler
 Sùng bái lãnh tụ ở Bắc Triều Tiên
@@ -119783,6 +119894,7 @@ Tekirdağ
 Tel Aviv
 Tel as-Sabi
 Telagarahalli, Anekal
+Telaranea pecten
 Teleamazonas
 Telecom Animation Film
 Telecom Italia
@@ -121021,6 +121133,7 @@ Thiều Chửu
 Thiểm Tây
 Thiểu năng trí tuệ
 Thiện thần
+Thiện tần An thị
 Thiệt hại của Pháp trong Chiến tranh Đông Dương
 Thiệt hại của Việt Nam trong Chiến tranh Đông Dương
 Thiệt mạng
@@ -123570,6 +123683,7 @@ Trade Federation
 Trading Places
 Tragia affinis
 Traianus
+Traisen, Bad Kreuznach
 Traitiéfontaine
 Tramaced
 Tramain
@@ -123712,6 +123826,7 @@ Trichoniscus petrovi
 Trichoon
 Trichoplax adhaerens
 Trichoptya magna
+Trichorhina bequaerti
 Trichostixis orientalis
 Trick film
 Trickster (anime)
@@ -130408,6 +130523,7 @@ Ytterbium
 Yttri
 Yu-Gi-Oh!
 Yuanfen
+Yucatalana robustispina
 Yugoslav Black Wave
 Yuichi Hirano
 Yuji Kimura
@@ -130461,6 +130577,7 @@ Yêu quái
 Yêu sách của nhân dân An Nam
 Yêu tinh
 Yörüklü, Sungurlu
+Yıldırım, Yenişehir
 Yōkai Ningen Bem
 Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
 Yến Lan
@@ -130516,6 +130633,7 @@ Zatara
 Zaventem
 Zayn Malik
 Zbigniew Boniek
+Zdechovice, Pardubice
 Zegerscappel
 Zehlendorf (Berlin)
 Zehlendorf, Berlin

@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Laguna Lynch
-José Ignacio Rasco
-Cecilia Aguayo
-Relaciones Camerún-México
-Euschizomerus
-Choszczak
-Andry Rakotoarisoa
-Paula Lane
-José Gusmão
-Tomoplagia argentiniensis
-Royal Rumble (2014)
-La escoba del sistema
-Claudia Suárez
-San Juan Bautista (Filippino Lippi)
-Aš
-Guess Who (álbum de B. B. King)
-Buscás
-Plosna
-Indotestudo elongata
-Ishinomaki
-Lord Derby Spur Type (manzana)
-Espinela (mineral)
-Emeterio Santovenia
-Condado de Baynoa
-Coux-et-Bigaroque
-Don't Worry
-Browning M2
-Vitola
-Northern Lights (película de 1997)
-Ariobarzanes II
+Club Balonmano La Roca
+Jin Youzhi
+Ramón María de Urbina
+Campeonato de Apertura de Chile 1940
+Bubasteion
+Blanca Tapia
+Ocean's Eleven
+Cedella Marley
+Gran Premio 19 Capitales
+Lessertina
+Suerte
+Bam Margera
+Radio de curvatura
+Charilaidae
+Municipio de Center (condado de Buffalo, Nebraska)
+Estadio Municipal Raúl Erazo
+Las aventuras de Pete y Pete
+Campeonato de Francia de Rugby 15 1907-08
+Condado de Crow Wing
+Bargers Springs (Virginia Occidental)
+Montaut (Dordoña)
+Ermita de San Roque de Canet de Castellón de la Plana
+Ekallate
+Francisco Villarroel
+Psalidodon parahybae
+Reizo Koike
+Repelente de animales
+Adriano Pereira da Silva
+Glosofobia
+Rodgers Kola
 $pringfield (or, How I Learned to Stop Worrying and Love Legalized Gambling)
 'Till I Collapse
 (100252) 1994 RY25
@@ -2091,6 +2091,7 @@ Androginia
 Android
 Android (sistema operativo)
 Androide
+Andry Rakotoarisoa
 Andrzej Pluta
 André Cailleux
 André Coumans
@@ -2496,6 +2497,7 @@ Apodemus argenteus
 Apodo
 Apogeo
 Apokolips
+Apollo Records
 Apolo
 Apolo (mitología)
 Apophylia grobbelaarae
@@ -2671,6 +2673,7 @@ Arif Mardin
 Arikara
 Ariki
 Arild Aas
+Ariobarzanes II
 Ariola Japan
 Ariola Records
 Aris Salónica Fútbol Club
@@ -3039,6 +3042,7 @@ Atentado de Londres de 2019
 Atentado de Londres de junio de 2017
 Atentado de Oklahoma City
 Atentado del 6 de abril de 1994
+Atentado en el mercado de Moscú
 Atentado suicida
 Atentado terrorista en Atlanta 1996
 Atentados de Cataluña de 2017
@@ -4024,6 +4028,7 @@ Bengasi
 Benicio Del Toro
 Benicio del Toro
 Benidorm
+Benigno Yábar Arteta
 Benito Bustamante de Paz
 Benito Jerónimo Feijoo
 Benito Juárez
@@ -4980,6 +4985,7 @@ Brote (botánica)
 Brote de rayo gamma
 Brovary
 Brown Shipbuilding
+Browning M2
 Brownstone (material)
 Bruce (Una serie de catastróficas desdichas)
 Bruce Bagemihl
@@ -5144,6 +5150,7 @@ Burzaco
 Bus (informática)
 Buscador de Google
 Buscando a Nemo (banda sonora)
+Buscás
 Buscón
 Business Wire
 Bussum
@@ -6235,6 +6242,7 @@ Ceará
 Cebada
 Cebolla
 Cebollatí
+Cecilia Aguayo
 Cecilia Maffei
 Cecilia Santiago
 Cedar Glen Lakes (Nueva Jersey)
@@ -6277,6 +6285,7 @@ Cementerio
 Cementerio Central de Viena
 Cementerio General de Guayaquil
 Cementerio General de Santiago
+Cementerio de Bidadari
 Cementerio de La Plata
 Cementerio de Merrion
 Cementerio de Santa Ifigenia
@@ -6731,6 +6740,7 @@ Choque séptico
 Chordata
 Chorisoneura galibi
 Chorzów
+Choszczak
 Chou Wen-chung
 Chow Mane
 Choy Fok
@@ -7171,6 +7181,7 @@ Claude-Eric Lazard
 Claudia Harrison
 Claudia Rankine
 Claudia Stange
+Claudia Suárez
 Claudio
 Claudio Borghi
 Claudio Gay
@@ -7629,6 +7640,7 @@ Complextro
 Compo Company
 Componente electrónico
 Componentes de vídeo
+Comportamiento empresarial
 Comportamiento humano
 Composición (artes visuales)
 Composición musical
@@ -7722,6 +7734,7 @@ Condado de Archer (Texas)
 Condado de Arlington
 Condado de Atlantic
 Condado de Barnwell
+Condado de Baynoa
 Condado de Bergen
 Condado de Burlington
 Condado de Butler (Ohio)
@@ -8336,6 +8349,7 @@ Courtney Conlogue
 Courtney Love
 Courtrizy-et-Fussigny
 Courtyard by Marriott - Downtown Detroit
+Coux-et-Bigaroque
 Covap
 Covenants
 Covent Garden
@@ -9405,6 +9419,7 @@ Departamento de Educación de Estados Unidos
 Departamento de Educación de la Ciudad de Nueva York
 Departamento de Estado de Estados Unidos
 Departamento de Estado de los Estados Unidos
+Departamento de Islas de la Bahía
 Departamento de Itata
 Departamento de Matagalpa
 Departamento de Parques y Recreación de la Ciudad de Nueva York
@@ -10135,6 +10150,7 @@ Don't Say Your Love Is Killing Me
 Don't Stand So Close to Me
 Don't Stop the Party (canción de Pitbull)
 Don't Tell Me (canción de Madonna)
+Don't Worry
 Don't Worry About Me
 Donadío
 Donald Crowhurst
@@ -11227,6 +11243,7 @@ Emelie Cyréus
 Emerald
 Emerald Fennell
 Emerson String Quartet
+Emeterio Santovenia
 Emile Hirsch
 Emili Castellanos
 Emili Fontbona
@@ -11855,6 +11872,7 @@ Esperanza y gloria
 Esperma
 Esperpento
 Espiga de Oro
+Espinela (mineral)
 Espinosa
 Espintrónica
 Espirilo
@@ -11921,6 +11939,7 @@ Estadio Bolivariano
 Estadio Carlos Dittborn
 Estadio Centenario
 Estadio Charrúa
+Estadio Complejo La Cemento
 Estadio Comunal de Andorra la Vieja
 Estadio Daniel Villa Zapata
 Estadio Defensores del Chaco
@@ -12310,6 +12329,7 @@ Eurostat
 Eurozona
 Eurytides thyastes subsp. occidentalis
 Eurínome (oceánide)
+Euschizomerus
 Eusebio Tejera
 Euskadi Ta Askatasuna
 Euskera
@@ -14407,6 +14427,7 @@ Glochidotheca
 Glomerulonefritis
 Gloria Estefan
 Gloria Gaynor
+Gloria Grahame
 Gloria Ramos (actriz)
 Gloria Union
 Glorieta de la Estrella
@@ -14581,6 +14602,7 @@ Google Libros
 Google Maps
 Google Now
 Google Play
+Google Play Books
 Google X
 Google+
 Gopi Krishna
@@ -15147,6 +15169,7 @@ Guerras jázaro-árabes
 Guerras lusitanas
 Guerrilla
 Guerrilla urbana
+Guess Who (álbum de B. B. King)
 Gueto
 Guevorik Poghosian
 Gugu Mbatha-Raw
@@ -15262,6 +15285,7 @@ Gwyneth Paltrow
 Gyirmót SE
 Gylmar dos Santos Neves
 Gymnospermae
+Gyndulus trispinifrons
 Gyula Szilágyi (footballer)
 Gyula Zsengellér
 György Orth
@@ -16772,6 +16796,7 @@ Homosexualidad en el Reino Unido
 Homínido de Denísova
 Homónimo
 Honda
+Honda ATC200
 Honda Motor Co., Ltd.
 Honduras
 Honduras británica
@@ -17574,6 +17599,7 @@ Indoeuropeo
 Indole-3-carbinol
 Indonesia
 Indosiren
+Indotestudo elongata
 Indra Devi
 Indra Sistemas
 Indro Montanelli
@@ -17978,6 +18004,7 @@ Ischiocentra
 Ischioderes
 Ischiosioma
 Ishabella Hudson
+Ishinomaki
 Ishiro Honda
 Ishtar
 Isiah Thomas
@@ -18089,6 +18116,7 @@ Islas de España
 Islas de Sotavento Británicas
 Islas del Maíz de Nicaragua
 Islington
+Ismail
 Ismail Milushev
 Isobel (single)
 Isoenzima
@@ -18893,6 +18921,7 @@ John Eskow
 John Everett Millais
 John F. Kennedy
 John F. Kennedy International Airport
+John Fahey
 John Ford
 John Frankenheimer
 John Franklin Enders
@@ -19215,9 +19244,11 @@ José G. Moreno de Alba
 José Gaos
 José Giarrizo
 José Guardiola Picó
+José Gusmão
 José Herrera Rodríguez
 José I de España
 José II del Sacro Imperio Romano Germánico
+José Ignacio Rasco
 José Ignacio Rodríguez
 José Javier Serrano
 José Joaquín Fernández de Lizardi
@@ -20398,6 +20429,7 @@ La cueva oscura
 La dama del lago (película)
 La edad de la inocencia (película)
 La engañadora
+La escoba del sistema
 La espada del tiempo
 La espada y la rosa (película)
 La fabulosa historia de Diego Marín
@@ -20560,6 +20592,7 @@ Lagos de Titán
 Lagoseriopsis
 Laguna Carrilaufquen
 Laguna Hills
+Laguna Lynch
 Lahiri Mahasaya
 Laica
 Laidback Luke
@@ -20726,6 +20759,7 @@ Laura Bush
 Laura Collett
 Laura Dern
 Laura Gallego
+Laura García Hernández
 Laura Graves
 Laura Haddock
 Laura Kraut
@@ -21552,6 +21586,7 @@ Lophelia
 Loppi
 Lorado Taft
 Lord Byron
+Lord Derby Spur Type (manzana)
 Lord Mountbatten
 Lord Voldemort
 Lord of the Dance
@@ -21652,6 +21687,7 @@ Lost in Time
 Lost in Translation
 Lost in translation
 Lotta Lotass
+Lotto Dstny Ladies
 Lotus (álbum)
 Lotus F1 Team
 Lou Gehrig
@@ -21947,6 +21983,7 @@ Límite vertical
 Límites de los océanos
 Línea 42 (Maldonado)
 Línea 44 (EMT Madrid)
+Línea 5 (TUCARSA)
 Línea 54 (Media Distancia)
 Línea 76A (RTP)
 Línea 87 de Authosa
@@ -23334,6 +23371,7 @@ Memoria no volátil
 Memoria principal
 Memoria racetrack
 Memoria twistor
+Memorial Domingo Bárcenas 2016
 Memorias
 Memorias. Testimonio de un soldado
 Memory Stick
@@ -24173,6 +24211,7 @@ Montañas Rocosas
 Montañismo
 Montcuit
 Monte Athos
+Monte Clara
 Monte Cook
 Monte Elbrús
 Monte Fuji
@@ -24452,6 +24491,7 @@ Municipio de Lacey (Nueva Jersey)
 Municipio de Lafayette (condado de San Luis, Misuri)
 Municipio de Lakewood (Nueva Jersey)
 Municipio de Limestone (condado de Buncombe)
+Municipio de Lindenwood (condado de St. Charles, Misuri)
 Municipio de Little Egg Harbor (Nueva Jersey)
 Municipio de Logan (condado de Auglaize, Ohio)
 Municipio de Long Beach (Nueva Jersey)
@@ -25553,6 +25593,7 @@ Northampton Saints
 Northamptonshire
 Northerly Island
 Northern & Shell
+Northern Lights (película de 1997)
 Northern Raiders
 Northrop Frye
 Northumbria
@@ -26169,6 +26210,7 @@ Origen del hombre
 Origen del lenguaje
 Origen del nombre de Hispania
 Oriol Roca Batalla
+Orisha Land
 Orjan Nilsen
 Orlando (Florida)
 Orlando Letelier
@@ -26729,6 +26771,7 @@ Parralox
 Parroquia (religión)
 Parroquia Jesús María (Ecuador)
 Parroquia Sainte-Famille
+Parroquia San Rafael (Delta Amacuro)
 Parroquia Sucre
 Parroquia de East Baton Rouge
 Parroquia de Iberville
@@ -26963,6 +27006,7 @@ Paul Weston
 Paul-Henri Mathieu
 Paul-Henry Mathieu
 Paula Fox
+Paula Lane
 Paula Maffia
 Paulette Goddard
 Paulina de Allende-Salazar
@@ -27241,6 +27285,7 @@ Período de El Obeid
 Período de Uruk
 Período dinástico arcaico
 Período orbital
+Perú en los Juegos Bolivarianos
 Perún
 Pesado (banda)
 Pesca
@@ -27667,6 +27712,7 @@ Plano (Illinois)
 Plano (cartografía)
 Plano (cine)
 Plano recurso
+Planococcus (bacteria)
 Plant
 Planta
 Planta (desambiguación)
@@ -27777,6 +27823,7 @@ Plinio el Viejo
 Plioceno
 Plissken
 Plomo
+Plosna
 Plum Grove (Texas)
 Pluma (ave)
 Plumas
@@ -28115,6 +28162,7 @@ Prefectura de Yamanashi
 Prefectura de Ōita
 Prefecturas de Japón
 Prefijo telefónico
+Pregnenolona
 Pregunta de investigación
 Prehistoria
 Prehistoria en la península ibérica
@@ -28439,6 +28487,7 @@ Procesamiento de lenguajes naturales
 Procesión
 Procesión de los Pasos
 Proceso Walloon
+Proceso a un ángel
 Proceso de Kimberley
 Proceso de destitución
 Proceso de paz con ETA del Gobierno socialista de Rodríguez Zapatero
@@ -29659,6 +29708,7 @@ Reitasai
 Rejmanka
 Rejugabilidad
 Relaciones Belice-Costa Rica
+Relaciones Camerún-México
 Relaciones Estados Unidos-Japón
 Relaciones Guinea Ecuatorial-Rusia
 Relaciones México-Naciones Unidas
@@ -30532,6 +30582,7 @@ Royal Opera House
 Royal Pari Fútbol Club
 Royal Philharmonic Society
 Royal Rumble (2009)
+Royal Rumble (2014)
 Royal Scottish Society of Arts
 Royal Shakespeare Company
 Royal Society
@@ -30564,6 +30615,7 @@ Rubéola
 Rude Boy
 Rudiviridae
 Rudniczyn
+Rudolf Demme
 Rudolf Fränkel
 Rudolf Günthardt
 Rudolf Lippert
@@ -31044,6 +31096,7 @@ San Jose Earthquakes (NASL)
 San Jose Mercury News
 San José (California)
 San Juan Bautista
+San Juan Bautista (Filippino Lippi)
 San Judas Tadeo Apóstol (título cardenalicio)
 San Leonardo de Yagüe
 San Lucas pintando a la Virgen (Heemskerck)
@@ -31249,6 +31302,7 @@ Saxon (banda)
 Saxon (álbum)
 Say Something (canción)
 Say You Will
+Sayaka Akase
 Saúl Hernández
 Scalesia affinis
 Scaligera Basket Verona
@@ -35019,6 +35073,7 @@ Tomodon
 Tomokazu Sugita
 Tomoko Yonemura
 Tomonori Sudō
+Tomoplagia argentiniensis
 Tomorrow Never Dies
 Toms River (Nueva Jersey)
 Toms River (condado de Ocean, Nueva Jersey)
@@ -35105,6 +35160,7 @@ Torneo Apertura 2007 (Colombia)
 Torneo Apertura 2008 (Colombia)
 Torneo Apertura 2016 (México)
 Torneo Apertura 2019 (Colombia)
+Torneo Clausura 2014 Liga de Ascenso
 Torneo Finalización 2006 (Colombia)
 Torneo Finalización 2007 (Colombia)
 Torneo Finalización 2008 (Colombia)
@@ -36816,6 +36872,7 @@ Vitamina K
 Vitaminas del grupo B
 Vitejhé
 Vito Corleone
+Vitola
 Vitoria
 Vitovnica
 Vitrina Comella
@@ -37576,6 +37633,7 @@ X Development
 X Games
 X-Men (película)
 X-Men: días del futuro pasado
+X-Ualtez
 X/Open
 X68000
 X86-64
@@ -39158,6 +39216,7 @@ Adriane Lenox
 Adrianne Curry
 Adriano
 Adriano Blasco
+Adriano Pereira da Silva
 Adrie Visser
 Adrien Brody
 Adrienne Corri
@@ -40597,6 +40656,7 @@ Apodemus argenteus
 Apodo
 Apogeo
 Apokolips
+Apollo Records
 Apolo
 Apolo (mitología)
 Apophylia grobbelaarae
@@ -41141,6 +41201,7 @@ Atentado de Londres de 2019
 Atentado de Londres de junio de 2017
 Atentado de Oklahoma City
 Atentado del 6 de abril de 1994
+Atentado en el mercado de Moscú
 Atentado suicida
 Atentado terrorista en Atlanta 1996
 Atentados de Cataluña de 2017
@@ -41724,6 +41785,7 @@ Baltimore & Annapolis Trail
 Balville
 Balázs Dzsudzsák
 Balón de Oro
+Bam Margera
 Bambalinas
 Bambú
 Ban Ki-moon
@@ -41823,6 +41885,7 @@ Barcos negros
 Barefoot in the Park
 Barefoot to Herat
 Barent Fabritius
+Bargers Springs (Virginia Occidental)
 Bari (ciudad)
 Bariloche
 Barnabás Varga
@@ -42126,6 +42189,7 @@ Bengasi
 Benicio Del Toro
 Benicio del Toro
 Benidorm
+Benigno Yábar Arteta
 Benito Bustamante de Paz
 Benito Jerónimo Feijoo
 Benito Juárez
@@ -42537,6 +42601,7 @@ Blake Edwards
 Blake Jenner
 Blake Shelton
 Blanca Gala
+Blanca Tapia
 Blanche DuBois
 Blanco
 Blanco (persona)
@@ -43126,6 +43191,7 @@ Brócoli de Calabria
 Brøndby IF
 Brütal Legend
 Bu$hleaguer
+Bubasteion
 Bubba Sparxxx
 Bubble Bobble
 Bubblegum pop
@@ -43699,7 +43765,9 @@ Campeonato colombiano 1995
 Campeonato colombiano 1995/96
 Campeonato colombiano 1996/97
 Campeonato colombiano 2020
+Campeonato de Apertura de Chile 1940
 Campeonato de Australia 1964
+Campeonato de Francia de Rugby 15 1907-08
 Campeonato de Fútbol Playa de la AFC 2013
 Campeonato de Primera C 2019-20 (Argentina)
 Campeonato de Wimbledon
@@ -44345,6 +44413,7 @@ Cecilia Santiago
 Cedar Glen Lakes (Nueva Jersey)
 Cedar Glen West (Nueva Jersey)
 Cedar Valley Trail
+Cedella Marley
 Cedric Diggory
 Cedric Yarbrough
 Cedric the Entertainer
@@ -44382,6 +44451,7 @@ Cementerio
 Cementerio Central de Viena
 Cementerio General de Guayaquil
 Cementerio General de Santiago
+Cementerio de Bidadari
 Cementerio de La Plata
 Cementerio de Merrion
 Cementerio de Santa Ifigenia
@@ -44567,6 +44637,7 @@ Chappell (Nebraska)
 Chapter 18: The Mines of Mandalore
 Charales (orden)
 Chardonnay
+Charilaidae
 Chariots of Fire
 Charisma Records
 Charlayne Woodard
@@ -45379,6 +45450,7 @@ Club Atlético Temperley
 Club Atlético Vélez Sarsfield
 Club Atlético de Madrid
 Club Balonmano Amadeo Tortajada
+Club Balonmano La Roca
 Club Balonmano Nava
 Club Biguá de Villa Biarritz
 Club Blooming
@@ -45736,6 +45808,7 @@ Complextro
 Compo Company
 Componente electrónico
 Componentes de vídeo
+Comportamiento empresarial
 Comportamiento humano
 Composición (artes visuales)
 Composición musical
@@ -45839,6 +45912,7 @@ Condado de Castilla
 Condado de Cedar (Nebraska)
 Condado de Cleveland (Oklahoma)
 Condado de Contra Costa
+Condado de Crow Wing
 Condado de DeKalb (Georgia)
 Condado de DeKalb (Misuri)
 Condado de Denton (Texas)
@@ -47514,6 +47588,7 @@ Departamento de Educación de Estados Unidos
 Departamento de Educación de la Ciudad de Nueva York
 Departamento de Estado de Estados Unidos
 Departamento de Estado de los Estados Unidos
+Departamento de Islas de la Bahía
 Departamento de Itata
 Departamento de Matagalpa
 Departamento de Parques y Recreación de la Ciudad de Nueva York
@@ -48901,6 +48976,7 @@ Ejército del Aire de España
 Ejército francés
 Ejército italiano
 Ejército realista en América
+Ekallate
 Ektomorf
 El Astillero
 El Bronx
@@ -49709,6 +49785,7 @@ Eritrea (desambiguación)
 Erizo (arma)
 Erkan Petekkaya
 Ermita de Nuestra Señora del Águila (Las Ventas con Peña Aguilera)
+Ermita de San Roque de Canet de Castellón de la Plana
 Ermita de Santa Lucía (Las Ventas con Peña Aguilera)
 Ermoceras
 Ernest Bloch
@@ -50033,6 +50110,7 @@ Estadio Bolivariano
 Estadio Carlos Dittborn
 Estadio Centenario
 Estadio Charrúa
+Estadio Complejo La Cemento
 Estadio Comunal de Andorra la Vieja
 Estadio Daniel Villa Zapata
 Estadio Defensores del Chaco
@@ -50063,6 +50141,7 @@ Estadio Milagro
 Estadio Monumental David Arellano
 Estadio Monumental de la UNSA
 Estadio Municipal Juan Rojas
+Estadio Municipal Raúl Erazo
 Estadio Municipal de Poznań
 Estadio Municipal de Águeda
 Estadio Nacional Julio Martínez Prádanos
@@ -51561,6 +51640,7 @@ Francisco Suárez
 Francisco Sá (Minas Gerais)
 Francisco Valadas
 Francisco Vicente Aguilera
+Francisco Villarroel
 Francisco Zea
 Francisco de Asís
 Francisco de Asís (película de 1961)
@@ -52520,6 +52600,7 @@ Glochidotheca
 Glomerulonefritis
 Gloria Estefan
 Gloria Gaynor
+Gloria Grahame
 Gloria Ramos (actriz)
 Gloria Union
 Glorieta de la Estrella
@@ -52532,6 +52613,7 @@ Gloryhammer: Gloryhammer
 Gloryhammer: Hootsforce
 Gloryhammer: Rise of the Chaos Wizards
 Glosas Emilianenses
+Glosofobia
 Glosopeda
 Glotónimo
 Glow in the Dark Tour
@@ -52694,6 +52776,7 @@ Google Libros
 Google Maps
 Google Now
 Google Play
+Google Play Books
 Google X
 Google+
 Gopi Krishna
@@ -52817,6 +52900,7 @@ Gran Maestro (arte marcial)
 Gran Marruecos
 Gran Migración Negra
 Gran Nube de Magallanes
+Gran Premio 19 Capitales
 Gran Premio de Alemania de Motociclismo de 1995
 Gran Premio de Alemania de Motociclismo de 1996
 Gran Premio de Alemania de Motociclismo de 1998
@@ -53376,6 +53460,7 @@ Gwyneth Paltrow
 Gyirmót SE
 Gylmar dos Santos Neves
 Gymnospermae
+Gyndulus trispinifrons
 Gyula Szilágyi (footballer)
 Gyula Zsengellér
 György Orth
@@ -54886,6 +54971,7 @@ Homosexualidad en el Reino Unido
 Homínido de Denísova
 Homónimo
 Honda
+Honda ATC200
 Honda Motor Co., Ltd.
 Honduras
 Honduras británica
@@ -56205,6 +56291,7 @@ Islas de España
 Islas de Sotavento Británicas
 Islas del Maíz de Nicaragua
 Islington
+Ismail
 Ismail Milushev
 Isobel (single)
 Isoenzima
@@ -56873,6 +56960,7 @@ Jimmy Sturr
 Jimmy Swaggart
 Jimmy Van Heusen
 Jin Mao
+Jin Youzhi
 Jin-mo Joo
 Jinete
 Jinete sin cabeza
@@ -57009,6 +57097,7 @@ John Eskow
 John Everett Millais
 John F. Kennedy
 John F. Kennedy International Airport
+John Fahey
 John Ford
 John Frankenheimer
 John Franklin Enders
@@ -58783,6 +58872,7 @@ Las Tunas (Cuba)
 Las Vegas
 Las Ventas
 Las Ventas con Peña Aguilera
+Las aventuras de Pete y Pete
 Las aventuras de Roderick Random
 Las bodas de Fígaro
 Las cariñosas (película de 1979)
@@ -58846,6 +58936,7 @@ Laura Bush
 Laura Collett
 Laura Dern
 Laura Gallego
+Laura García Hernández
 Laura Graves
 Laura Haddock
 Laura Kraut
@@ -59133,6 +59224,7 @@ Leslie Law
 Leslie Marmon Silko
 Leslie Odom Jr.
 Lesnói (Beloréchensk, Krasnodar)
+Lessertina
 Lester Bird
 Lester Crown
 Lester Johnson
@@ -59773,6 +59865,7 @@ Lost in Time
 Lost in Translation
 Lost in translation
 Lotta Lotass
+Lotto Dstny Ladies
 Lotus (álbum)
 Lotus F1 Team
 Lou Gehrig
@@ -60068,6 +60161,7 @@ Límite vertical
 Límites de los océanos
 Línea 42 (Maldonado)
 Línea 44 (EMT Madrid)
+Línea 5 (TUCARSA)
 Línea 54 (Media Distancia)
 Línea 76A (RTP)
 Línea 87 de Authosa
@@ -61455,6 +61549,7 @@ Memoria no volátil
 Memoria principal
 Memoria racetrack
 Memoria twistor
+Memorial Domingo Bárcenas 2016
 Memorias
 Memorias. Testimonio de un soldado
 Memory Stick
@@ -62286,6 +62381,7 @@ Montana
 Montante (construcción)
 Montastraea cavernosa
 Montauk Building
+Montaut (Dordoña)
 Montaña
 Montaña Stone
 Montañas Catskill
@@ -62294,6 +62390,7 @@ Montañas Rocosas
 Montañismo
 Montcuit
 Monte Athos
+Monte Clara
 Monte Cook
 Monte Elbrús
 Monte Fuji
@@ -62554,6 +62651,7 @@ Municipio de Big Stone (Minnesota)
 Municipio de Bigelow (Kansas)
 Municipio de Brick (Nueva Jersey)
 Municipio de Bristol (Illinois)
+Municipio de Center (condado de Buffalo, Nebraska)
 Municipio de Corby
 Municipio de Croydon (Londres)
 Municipio de Eagleswood (Nueva Jersey)
@@ -62573,6 +62671,7 @@ Municipio de Lacey (Nueva Jersey)
 Municipio de Lafayette (condado de San Luis, Misuri)
 Municipio de Lakewood (Nueva Jersey)
 Municipio de Limestone (condado de Buncombe)
+Municipio de Lindenwood (condado de St. Charles, Misuri)
 Municipio de Little Egg Harbor (Nueva Jersey)
 Municipio de Logan (condado de Auglaize, Ohio)
 Municipio de Long Beach (Nueva Jersey)
@@ -63888,6 +63987,7 @@ Ocean City (Maryland)
 Ocean City (Washington)
 Ocean Gate (Nueva Jersey)
 Ocean Software
+Ocean's Eleven
 Oceana
 Oceanborn
 Oceanites
@@ -64291,6 +64391,7 @@ Origen del hombre
 Origen del lenguaje
 Origen del nombre de Hispania
 Oriol Roca Batalla
+Orisha Land
 Orjan Nilsen
 Orlando (Florida)
 Orlando Letelier
@@ -64851,6 +64952,7 @@ Parralox
 Parroquia (religión)
 Parroquia Jesús María (Ecuador)
 Parroquia Sainte-Famille
+Parroquia San Rafael (Delta Amacuro)
 Parroquia Sucre
 Parroquia de East Baton Rouge
 Parroquia de Iberville
@@ -65364,6 +65466,7 @@ Período de El Obeid
 Período de Uruk
 Período dinástico arcaico
 Período orbital
+Perú en los Juegos Bolivarianos
 Perún
 Pesado (banda)
 Pesca
@@ -65790,6 +65893,7 @@ Plano (Illinois)
 Plano (cartografía)
 Plano (cine)
 Plano recurso
+Planococcus (bacteria)
 Plant
 Planta
 Planta (desambiguación)
@@ -66239,6 +66343,7 @@ Prefectura de Yamanashi
 Prefectura de Ōita
 Prefecturas de Japón
 Prefijo telefónico
+Pregnenolona
 Pregunta de investigación
 Prehistoria
 Prehistoria en la península ibérica
@@ -66563,6 +66668,7 @@ Procesamiento de lenguajes naturales
 Procesión
 Procesión de los Pasos
 Proceso Walloon
+Proceso a un ángel
 Proceso de Kimberley
 Proceso de destitución
 Proceso de paz con ETA del Gobierno socialista de Rodríguez Zapatero
@@ -66817,6 +66923,7 @@ Príncipes de barrio
 Prólogo
 Prórroga
 Próspero
+Psalidodon parahybae
 Pseudidae
 Pseudispella
 Pseudispella petiti
@@ -67248,6 +67355,7 @@ Radio Televisión Española
 Radio Times
 Radio Télévision Libre des Mille Collines
 Radio Universo
+Radio de curvatura
 Radio en España
 Radioaficionado
 Radioafición
@@ -67348,6 +67456,7 @@ Ramón Cilla
 Ramón Gómez de la Serna
 Ramón Hernández
 Ramón J. Sender
+Ramón María de Urbina
 Ramón María del Valle-Inclán
 Ramón Menéndez Pidal
 Ramón Pérez de Ayala
@@ -67780,6 +67889,7 @@ Reino nazarí de Granada
 Reino visigodo
 Reinventing the Steel
 Reitasai
+Reizo Koike
 Rejmanka
 Rejugabilidad
 Relaciones Belice-Costa Rica
@@ -67878,6 +67988,7 @@ Reovirus
 Reparación del ADN
 Repartición de África
 Reparto coral
+Repelente de animales
 Replicación de ADN
 Replicación del ADN
 Repoblación
@@ -68454,6 +68565,7 @@ Roddy McDowall
 Rodentia
 Rodeo Drive
 Roderich Müller-Guttenbrunn
+Rodgers Kola
 Rodilla
 Rodión Románovich Raskólnikov
 Rodney Brooks
@@ -68690,6 +68802,7 @@ Rubéola
 Rude Boy
 Rudiviridae
 Rudniczyn
+Rudolf Demme
 Rudolf Fränkel
 Rudolf Günthardt
 Rudolf Lippert
@@ -69376,6 +69489,7 @@ Saxon (banda)
 Saxon (álbum)
 Say Something (canción)
 Say You Will
+Sayaka Akase
 Saúl Hernández
 Scalesia affinis
 Scaligera Basket Verona
@@ -71229,6 +71343,7 @@ Suela
 Sueldo (moneda)
 Suelo
 Suero fisiológico
+Suerte
 Suevo
 Suffocation
 Sufragio
@@ -73233,6 +73348,7 @@ Torneo Apertura 2007 (Colombia)
 Torneo Apertura 2008 (Colombia)
 Torneo Apertura 2016 (México)
 Torneo Apertura 2019 (Colombia)
+Torneo Clausura 2014 Liga de Ascenso
 Torneo Finalización 2006 (Colombia)
 Torneo Finalización 2007 (Colombia)
 Torneo Finalización 2008 (Colombia)
@@ -75705,6 +75821,7 @@ X Development
 X Games
 X-Men (película)
 X-Men: días del futuro pasado
+X-Ualtez
 X/Open
 X68000
 X86-64

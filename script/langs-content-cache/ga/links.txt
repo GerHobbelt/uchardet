@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Gaeilge Ros Muc
-Christian Jürgensen Thomsen
-Audacht Morainn
-Am Parbh
-Voltmhéadar
-Athmhíleatú ar Dhúiche na Réine
-Lisa the Veterinarian
-Contae Bjelovar-Bilogora
-Dianfheirmeoireacht
-718 RC
-Samuel Cunard
-Eascann choncair
-00612 (Cód ZIP)
-Fenton, Staffordshire
-1368
-1810
-Dara Comhairle Vatacánach
-Omar Gooding
-Westminster, Ellesmere Port
-An tSlí Mhór
-Wykebeck
-Cumhacht tochrais
-Weaver
-Contae Bryan, Georgia
-Jeff Fortenberry
-Cille Bhraonaidh
-Charles Bianconi (fiontraí)
-116
-Arjen Robben
-Batascaife
+Dlíthe Fick
+Fled Dúin na nGéd
+Dermot O'Leary
+1957 sa teilifís
+An Bhoihéim
+Cath na hIútlainn
+Kwame Nkrumah
+Eric Freeman
+Craobh Airgid
+Abhainn Fheartraí
+Justin McNulty
+Paindéim COVID-19 sna Stáit Aontaithe
+Maol Mochéirí mac Ionrachtaigh
+Adolf von Bäyer
+Mártainsít
+Bliain Idirnáisiúnta na Geoifisice
+Rowi
+An Daoil
+Cill Chainnigh Thiar
+Cúlarán
+2014 Bucharest Open
+Carlsruhe, Victoria
+Eocairist
+Glaschu a Tuath (Toghcheantar na Ríochta Aontaithe)
+Dub Dá Leithe mac Tomaltaigh
+An Bealach Beag
+Albany, Nua-Eabhrac
+1270í
+Buirg Londan Barnet
+Port a' Mhadaidh
 "Love, Blactually
 "Peter's Two Dads
 "The Misfits"
@@ -107,11 +107,13 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 (49999) 2000 AW14
 (50001) 2000 AK15
 (523639) 2010 RE64
+(612911) 2004 XR190
 (Sráid Naomh Bríd)
 (Sráid na hEaglaise)
 (What's the Story) Morning Glory?
 (cúige)
 0 (uimhir)
+00612 (Cód ZIP)
 00637 (Cód ZIP)
 00659 (Cód ZIP)
 00674 (Cód ZIP)
@@ -1762,6 +1764,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 716 (uimhir)
 717 (uimhir)
 718 (uimhir)
+718 RC
 719 (uimhir)
 72 (uimhir)
 72 Tauri
@@ -2820,6 +2823,7 @@ Ailcil
 Ailcéin
 Ailcín
 Aileach
+Ailearán
 Ailesbury Road
 Ailf Ó Cadáin
 Ailgéabar
@@ -2886,6 +2890,7 @@ Aimsir na hAstráile
 Aimsitheoir Aonfhoirmeach Acmhainne
 Aimínaigéad
 Ain (réalta)
+Ainbhioth mac Aodha
 Ainchiséas
 Aindiachas
 Aindrias Moynihan
@@ -3401,6 +3406,7 @@ Am Machaire
 Am Monadh
 Am Moscó
 Am Muileann Ùr
+Am Parbh
 Am caighdeánach
 Am samhraidh
 Amadán móinteach
@@ -5429,6 +5435,7 @@ An tSiric
 An tSiuáingis
 An tSiúir
 An tSlavéis
+An tSlí Mhór
 An tSlóivéin
 An tSlóivéin i gComórtas Amhránaíochta na hEoraifíse
 An tSlóivéinis
@@ -5990,6 +5997,7 @@ Arcade (scannán)
 Arcade Hotel
 Arcadia, California
 Archer, Texas
+Archibald Montgomerie
 Archibald Primrose, 5th Earl of Rosebery
 Archie Cassidy
 Archie Heron
@@ -6132,6 +6140,7 @@ Arizona Theas
 Arizona Thoir Thuaidh
 Arizona Thuaidh
 Arizona traidisiúnta
+Arjen Robben
 Ark-La-Tex
 Arkadelphia, Arkansas
 Arkansas
@@ -10869,6 +10878,7 @@ Charles (Manson) in Charge (American Horror Story)
 Charles B. Middleton
 Charles Babbage
 Charles Baudelaire
+Charles Bianconi (fiontraí)
 Charles C. Wilson
 Charles Coote, 1ú Iarla Mhaighean Rátha
 Charles Curtis
@@ -12415,6 +12425,7 @@ Colley Hill
 Collier, Florida
 Collin Altamirano
 Collinsville, Illinois
+Collyhurst
 Collège de France
 Colm & Jim-Jim
 Colm Brophy
@@ -13188,6 +13199,7 @@ Contae Bibb, Alabama
 Contae Bibb, Georgia
 Contae Big Horn, Montana
 Contae Billings, Dakota Thuaidh
+Contae Bjelovar-Bilogora
 Contae Bladen, Carolina Thuaidh
 Contae Blaine, Montana
 Contae Blaine, Nebraska
@@ -16271,6 +16283,7 @@ Críocha na Ríochta Aontaithe Thar Lear
 Críocha na nDuars
 Críochdheighilt na hÉireann
 Críonchoill
+Críonlobhadh
 Críost
 Críost mar Rí
 Críostaithe
@@ -16475,6 +16488,7 @@ Cumene
 Cumhacht
 Cumhacht (fisiciúil)
 Cumhacht hidrileictreach
+Cumhacht tochrais
 Cumhachtaí Láir
 Cumhachtstáisiún an Phoill Bhig
 Cumhdach
@@ -17571,6 +17585,7 @@ Diane Abbott
 Diane Butcher
 Diane Keaton
 Diane von Furstenberg
+Dianfheirmeoireacht
 Dianghlasáil
 Dianne Feinstein
 Diaphir
@@ -18865,6 +18880,7 @@ Eas an Fhamhair
 Easach Toirc
 Easaigh
 Easbhóthair
+Eascann choncair
 Easg Dheas
 Easg Thuath
 Easingwold
@@ -20098,6 +20114,7 @@ Felix Ó Dúnlainge
 Felixstowe
 Femen
 Fenham
+Fenton, Staffordshire
 Feochadán
 Feodachas
 Feoil
@@ -20541,6 +20558,7 @@ Forbes
 Forbhais Droma Dámhgháire
 Forbróir bogearraí
 Forcheartú
+Forchiníochas
 Ford Sterling
 Fordingbridge
 Fore, Father
@@ -21186,6 +21204,7 @@ Gaeilge Bhaile Átha Cliath
 Gaeilge Chianach
 Gaeilge Chonnacht
 Gaeilge Mhanann
+Gaeilge Ros Muc
 Gaeilge Uladh
 Gaeilge na Mumhan
 Gaeilge na hAlban
@@ -22179,6 +22198,7 @@ Glastonbury Tor
 Glastonbury, Connecticut
 Glasán
 Glasán (éan)
+Glasán Mongólach
 Glasán darach
 Glasán gobmhór
 Glaséan Philadelphia
@@ -24560,6 +24580,7 @@ Inis Mac Neasáin
 Inis Meáin
 Inis Mhic Uileáin
 Inis Mhic Uí Chuinn
+Inis Mhic an Doirn
 Inis Muirígh
 Inis Món
 Inis Mór
@@ -25388,6 +25409,7 @@ Jeddito, Arizona
 Jedward
 Jeff Blackburn
 Jeff Daniels
+Jeff Fortenberry
 Jeff Horn
 Jeff Lynne
 Jeff Merkley
@@ -30985,6 +31007,7 @@ Michel de Montaigne
 Michelangelo
 Michele Goodger
 Michele Hicks
+Michele Piccirillo
 Michelle Chamuel
 Michelle Dockery
 Michelle Fowler
@@ -31389,6 +31412,7 @@ Moncaí marmaisíneach ceannbhuí
 Moncaí sceadsrónach Martin
 Moncks Corner, Carolina Theas
 MoneyBart
+Mongach meisce
 Mongfind
 Mongán mac Fiachna
 Mongóilis
@@ -32224,6 +32248,7 @@ Na Stáit Aontaithe
 Na Stát Aontaithe
 Na Sufraigéidí
 Na Séiséil
+Na Sìophortaich
 Na Toronto Raptors
 Na Trioblóidí
 Na Tíortha Aise
@@ -33628,6 +33653,7 @@ Olympiahalle
 Olympique de Marseille
 Omaha, Nebraska
 Omaha–Council Bluffs metropolitan area
+Omar Gooding
 Omar Jasika
 Omar Karami
 Omar Metwally
@@ -33977,6 +34003,7 @@ Pailéagrafaíocht
 Pailéaprótarasóch
 Pailéartach
 Pailéasóch
+Pailéigeografaíocht
 Pailéigéin
 Pailéigéineach
 Paimfléad (leabhar)
@@ -35686,6 +35713,7 @@ Príosúnach cogaidh
 Prócarót
 Próinséas Ní Chatháin
 Próiseas deighilte
+Próiseáil ar líne
 Próiseáil eolais
 Próiseáil sonraí
 Próistéis
@@ -38261,6 +38289,7 @@ Samsung
 Samsung Tocco
 Samuel Beckett
 Samuel Butler
+Samuel Cunard
 Samuel Hahnemann
 Samuel Holt
 Samuel Johnson
@@ -45063,6 +45092,7 @@ Volta
 Voltaire
 Voltas
 Voltes V
+Voltmhéadar
 Volunteer State Community College
 Volunteers (play)
 Voluntown, Connecticut
@@ -45349,6 +45379,7 @@ Wealden (Toghcheantar na Ríochta Aontaithe)
 Wealdstone
 Weather
 Weatherford, Texas
+Weaver
 Weaver, Alabama
 Webb, Alabama
 Webster, Dakota Theas
@@ -45460,6 +45491,7 @@ Westminster
 Westminster, California
 Westminster, Carolina Theas
 Westminster, Colorado
+Westminster, Ellesmere Port
 Westminster, Maryland
 Weston Park
 Weston, Connecticut
@@ -45902,6 +45934,7 @@ Wuwei, Gansu
 Wyandotte
 Wyclef Jean
 Wycombe (Toghcheantar na Ríochta Aontaithe)
+Wykebeck
 Wylde Green
 Wymondham
 Wyoming
@@ -46673,6 +46706,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 (49999) 2000 AW14
 (50001) 2000 AK15
 (523639) 2010 RE64
+(612911) 2004 XR190
 (Sráid Naomh Bríd)
 (Sráid na hEaglaise)
 (What's the Story) Morning Glory?
@@ -46817,6 +46851,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 126 Tauri
 127 (uimhir)
 127 RC
+1270í
 128 (uimhir)
 1280idí RC
 129 (uimhir)
@@ -47132,6 +47167,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 1955 Wimbledon Championships
 1956 Wimbledon Championships
 1957 Wimbledon Championships
+1957 sa teilifís
 1958 Wimbledon Championships
 1959 Wimbledon Championships
 196 (uimhir)
@@ -49388,6 +49424,7 @@ Ailcil
 Ailcéin
 Ailcín
 Aileach
+Ailearán
 Ailesbury Road
 Ailf Ó Cadáin
 Ailgéabar
@@ -49454,6 +49491,7 @@ Aimsir na hAstráile
 Aimsitheoir Aonfhoirmeach Acmhainne
 Aimínaigéad
 Ain (réalta)
+Ainbhioth mac Aodha
 Ainchiséas
 Aindiachas
 Aindrias Moynihan
@@ -50346,6 +50384,7 @@ An Baile Thiar (idirdhealú)
 An Baile Úr
 An Banc Domhanda
 An Barr Cam
+An Bealach Beag
 An Bealach Caoin Theas
 An Bealach Caoin Thuaidh
 An Bearnán
@@ -50905,6 +50944,7 @@ An Danmhairg
 An Danmhairg i gComórtas Amhránaíochta na hEoraifíse
 An Danmhairgis
 An Danóib
+An Daoil
 An Daoil, Contae Mhaigh Eo
 An Dara Cogadh Domhanda
 An Dardainéil
@@ -52560,6 +52600,7 @@ Arcade (scannán)
 Arcade Hotel
 Arcadia, California
 Archer, Texas
+Archibald Montgomerie
 Archibald Primrose, 5th Earl of Rosebery
 Archie Cassidy
 Archie Heron
@@ -54471,6 +54512,7 @@ Bleibín
 Blencathra
 Bleán
 Bliain
+Bliain Idirnáisiúnta na Geoifisice
 Bliain Nua na Síneach
 Bliain an Phrionsa
 Bliain bhisigh
@@ -56509,6 +56551,7 @@ Carlos Murciano
 Carlos Taberner
 Carlsbad, California
 Carlsbad, Nua-Mheicsiceo
+Carlsruhe, Victoria
 Carlton, Rothwell
 Carly Bailey
 Carly Chaikin
@@ -56784,6 +56827,7 @@ Cath na Rig
 Cath na Teamhrach (Éire)
 Cath na gCúig Láma
 Cath na hInse
+Cath na hIútlainn
 Cath Áine
 Cath Árd Ladrann
 Cath Áth Gláraigh
@@ -58987,6 +59031,7 @@ Colley Hill
 Collier, Florida
 Collin Altamirano
 Collinsville, Illinois
+Collyhurst
 Collège de France
 Colm & Jim-Jim
 Colm Brophy
@@ -62437,6 +62482,7 @@ Crannog
 Crannóg
 Cranstal
 Cranston, Oileán Rhode
+Craobh Airgid
 Craobh Cúige Laighean
 Craobh Cúige Mhuman
 Craobh Cúige Mumhan
@@ -62844,6 +62890,7 @@ Críocha na Ríochta Aontaithe Thar Lear
 Críocha na nDuars
 Críochdheighilt na hÉireann
 Críonchoill
+Críonlobhadh
 Críost
 Críost mar Rí
 Críostaithe
@@ -63358,6 +63405,7 @@ Cúl Trá
 Cúl a' Chudainn
 Cúl báire
 Cúl na Fuinse
+Cúlarán
 Cúltarraingt
 Cúlóm
 Cúlú bréagach
@@ -64340,6 +64388,7 @@ Dlí idirnáisiúnta
 Dlí teaghlaigh
 Dlíodóir
 Dlíthe Beneš
+Dlíthe Fick
 Dlítheoir
 Dlúth-theagmhálach leis an Domhan
 Dlúthdhiosca
@@ -66003,6 +66052,7 @@ Enwau lleoedd sy'n tarddu o enwau Cymry yn yr Unol Daleithiau
 Enwau personol Cymraeg
 Enwau'r Cymry
 Eo Teilifís
+Eocairist
 Eocarót
 Eochaid Airem
 Eochaid Apthach
@@ -66103,6 +66153,7 @@ Eric Blore
 Eric Butorac
 Eric Byrne
 Eric Cartman
+Eric Freeman
 Eric Garcia
 Eric Lopez
 Eric Ludvigsen Pontoppidan
@@ -67118,6 +67169,7 @@ Forbes
 Forbhais Droma Dámhgháire
 Forbróir bogearraí
 Forcheartú
+Forchiníochas
 Ford Sterling
 Fordingbridge
 Fore, Father
@@ -68746,6 +68798,7 @@ Glas Maol
 Glas Naíon
 Glas Tuathail
 Glas Tulaichean
+Glaschu a Tuath (Toghcheantar na Ríochta Aontaithe)
 Glaschú
 Glasgow
 Glasra
@@ -68757,6 +68810,7 @@ Glastonbury Tor
 Glastonbury, Connecticut
 Glasán
 Glasán (éan)
+Glasán Mongólach
 Glasán darach
 Glasán gobmhór
 Glaséan Philadelphia
@@ -71138,6 +71192,7 @@ Inis Mac Neasáin
 Inis Meáin
 Inis Mhic Uileáin
 Inis Mhic Uí Chuinn
+Inis Mhic an Doirn
 Inis Muirígh
 Inis Món
 Inis Mór
@@ -73300,6 +73355,7 @@ Kurume
 Kurumi Nara
 Kush Kazemi
 Květa Peschke
+Kwame Nkrumah
 Kwik-E-Mart
 Kwon Soon-woo
 Kye Sones
@@ -76392,6 +76448,7 @@ Maol Cobha mac Aodha
 Maol Dúin
 Maol Dúin mac Aodha
 Maol Dúin mac Aodha Beannáin
+Maol Mochéirí mac Ionrachtaigh
 Maol Ruanaidh Ua Dubhda
 Maol Ruanaidh mac Ruaidhrí Ó Dubhda
 Maol Seachlainn Ó Domhnaill
@@ -77564,6 +77621,7 @@ Michel de Montaigne
 Michelangelo
 Michele Goodger
 Michele Hicks
+Michele Piccirillo
 Michelle Chamuel
 Michelle Dockery
 Michelle Fowler
@@ -77968,6 +78026,7 @@ Moncaí marmaisíneach ceannbhuí
 Moncaí sceadsrónach Martin
 Moncks Corner, Carolina Theas
 MoneyBart
+Mongach meisce
 Mongfind
 Mongán mac Fiachna
 Mongóilis
@@ -78491,6 +78550,7 @@ Márta 12
 Márta 1999
 Márta 20
 Márta 21
+Mártainsít
 Márthain
 Márton Fucsovics
 Mása Ríona Uachtarach
@@ -78803,6 +78863,7 @@ Na Stáit Aontaithe
 Na Stát Aontaithe
 Na Sufraigéidí
 Na Séiséil
+Na Sìophortaich
 Na Toronto Raptors
 Na Trioblóidí
 Na Tíortha Aise
@@ -80557,6 +80618,7 @@ Pailéagrafaíocht
 Pailéaprótarasóch
 Pailéartach
 Pailéasóch
+Pailéigeografaíocht
 Pailéigéin
 Pailéigéineach
 Paimfléad (leabhar)
@@ -82018,6 +82080,7 @@ Port Uairce
 Port Vila
 Port a' Bhogaigh
 Port a' Chluaidh
+Port a' Mhadaidh
 Port a' Mhuilinn
 Port an Chalaidh
 Port an Dúnáin
@@ -82266,6 +82329,7 @@ Príosúnach cogaidh
 Prócarót
 Próinséas Ní Chatháin
 Próiseas deighilte
+Próiseáil ar líne
 Próiseáil eolais
 Próiseáil sonraí
 Próistéis

@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Toys of Fate (film 1918)
-Vanėsa Kaladzinskaja
-Governo Pashinyan II
-Olimpiadi degli scacchi del 1974
-Ida Ferenczy
-Distretto di Çekmeköy
-Barra (Scozia)
-Elezioni parlamentari in Corea del Sud del 2016
-Garrigues (Tarn)
-Taraxacum officinale
-Caratteristiche del romanticismo economico
-Bishr ibn Marwan
-South African Open 1977 - Singolare maschile
-Kaba
-Distretto di Kohistan (Faryab)
-Blank Generation (film)
-Pratovecchio
-Polestar 2
-Nuoto ai Campionati africani di nuoto 2021
-Incubo sull'autostrada
-Suillus
-Sth
-Andrew Wilson (calciatore 1880)
-Năpradea
-Solonópole
-E72
-Lhotka (Moravia-Slesia)
-Střítež nad Bečvou
-Seconda Divisione Puglia 1930-1931
-Clockwork Angels Tour (disambigua)
+Galaxy Angel
+Marco Garcés
+Peleduj
+Distretto di Doem Bang Nang Buat
+Max Adler (filosofo)
+Raul - Diritto di uccidere
+Belvidere (New Jersey)
+Anna Hall
+Warsaw Open 2009 - Doppio
+Björn III di Svezia
+Volo United Airlines 823
+Anders Erikson Sparrman
+Mahr Vehl
+Labinot Mal
+Muscolo lunghissimo
+878 (disambigua)
+Lista di asteroidi (340001-341000)
+Alfred Rawlinson
+Pistole fiammeggianti (film 1961)
+The Harem Skirt
+Artin
+Patriot League
+All About Us
+Palazzo della Panatica
+AEGON Championships 2010 - Qualificazioni singolare
+Distretto di Agago
+Blackburn Rovers Football Club 2019-2020
+Sofija Nalepins'ka-Bojčuk
+Old Wives for New
+European Champions League 2005-2006
 "Weird Al" Yankovic
 "Weird Al" Yankovic (album)
 ''Babbacombe'' Lee
@@ -1267,6 +1267,7 @@ Abdelkader El Brazi
 Abdolkarim Soroush
 Abdul Kalam
 Abdul Shamsid-Deen
+Abdullah bin Khalifa di Zanzibar
 Abdus Salam
 Abe Burrows
 Abe Saperstein
@@ -2167,6 +2168,7 @@ Aleksandr Nikolaevič Afanas'ev
 Aleksandr Sergeevič Puškin
 Aleksandr Tkačëv
 Aleksandr Vinnik
+Aleksandr Zarchi
 Aleksandra Fëdorovna Romanova
 Aleksandra Panova
 Aleksandra Vujović
@@ -2338,6 +2340,7 @@ Alfred Dickens
 Alfred Edward Chalon
 Alfred Flatow
 Alfred Gilman
+Alfred Goldscheider
 Alfred Hershey
 Alfred Hitchcock
 Alfred Jodl
@@ -2477,6 +2480,7 @@ Allan McLeod Cormack
 Allan Nevins
 Allan Pinkerton
 Allan Starski
+Allande
 Allarme rosso (film 1995)
 Allarmont
 Allassac
@@ -3062,6 +3066,7 @@ Andrew Taylor Still
 Andrew V. McLaglen
 Andrew Viktor Schally
 Andrew Wiggins
+Andrew Wilson (calciatore 1880)
 Andrew Zachary Fire
 Andrezieux Challenger 2007
 Andria
@@ -5432,6 +5437,7 @@ Baltagiya
 Baltasar Albéniz
 Baltimora
 Baltimora and Ohio
+Baltimore Bullets 1953-1954
 Baltimore Open 1973
 Baltimore Ravens
 Baltimore Sun
@@ -5626,6 +5632,7 @@ Baron (Gironda)
 Baron Corbin
 Barone Canavese
 Baronville
+Barra (Scozia)
 Barra Bonita (San Paolo)
 Barra delle applicazioni
 Barra di comando
@@ -6211,6 +6218,7 @@ Beaker
 Beaker (web browser)
 Beam splitter
 BeanShell
+Beanibazar
 Bear McCreary
 Bear nella grande casa blu
 Bears
@@ -6919,6 +6927,7 @@ Bisessualità
 Bisessualità nel regno animale
 Bishop Auckland
 Bishopsgate
+Bishr ibn Marwan
 Bislée
 Bismarck (Dakota del Nord)
 Bismuto
@@ -7014,6 +7023,7 @@ Blanche (film 2002)
 Blanche DuBois
 Blanche Ravalec
 Blanche-Église
+Blank Generation (film)
 Blanquefort (Gironda)
 Blanzée
 Blaque
@@ -9890,6 +9900,7 @@ Carato
 Carattere (informatica)
 Caratteri cinesi
 Caratteri cinesi semplificati
+Caratteristiche del romanticismo economico
 Caratteristiche dell'opera di Simenon
 Caratteristiche di albedo lunari
 Caratteristiche meccaniche
@@ -12863,6 +12874,7 @@ Clock Tower
 Clock Tower II: The Struggle Within
 Clock Tower: The First Fear
 Clocks
+Clockwork Angels Tour (disambigua)
 Clodoveo (nome)
 Clojure
 Clonaggio
@@ -13089,6 +13101,7 @@ Colchester United Football Club 2011-2012
 Cold start
 Coldcut
 Coldplay
+Coldwater (film)
 ColecoVision
 Colel Chabad
 Coleman Hawkins
@@ -14852,6 +14865,7 @@ Cratere Gilbert (Luna)
 Cratere Grey
 Cratere Jobim
 Cratere Klaproth
+Cratere Moiseev
 Cratere Sköll
 Cratere Slocum
 Cratere Undara
@@ -17143,6 +17157,7 @@ Distretto di Kitakatsuragi
 Distretto di Kitgum
 Distretto di Klaeng
 Distretto di Koboko
+Distretto di Kohistan (Faryab)
 Distretto di Kole
 Distretto di Kolhapur
 Distretto di Kotido
@@ -17248,6 +17263,7 @@ Distretto di Yavatmal
 Distretto di Yoshino
 Distretto di Yumbe
 Distretto di Zombo
+Distretto di Çekmeköy
 Distretto federale
 Distretto governativo di Darmstadt
 Distretto metropolitano d'Inghilterra
@@ -18757,6 +18773,7 @@ Elezioni parlamentari in Catalogna del 2006
 Elezioni parlamentari in Catalogna del 2010
 Elezioni parlamentari in Catalogna del 2017
 Elezioni parlamentari in Cecoslovacchia del 1920
+Elezioni parlamentari in Corea del Sud del 2016
 Elezioni parlamentari in Finlandia del 1907
 Elezioni parlamentari in Georgia del 1919
 Elezioni parlamentari in Guinea del 1963
@@ -19824,6 +19841,7 @@ Erwin Chargaff
 Erwin Neher
 Erwin Thijs
 Erwin Vandenbergh
+Erwin van den Eshof
 Eryngium foetidum
 Erythraea centaurium
 Eryx (Sicilia)
@@ -22265,6 +22283,7 @@ Fred Ebb
 Fred Friday
 Fred Gerber
 Fred Karno
+Fred Kohler
 Fred McNeill
 Fred Olen Ray
 Fred Peart, barone Peart
@@ -22881,6 +22900,7 @@ Garnerans
 Garofalo Health Care
 Garrafe de Torío
 Garrebourg
+Garrigues (Tarn)
 Garry Meier
 Garson Kanin
 Garth Ennis
@@ -24637,6 +24657,7 @@ Governo Major II
 Governo May I
 Governo May II
 Governo Meloni
+Governo Pashinyan II
 Governo Prodi I
 Governo Renzi
 Governo Thatcher I
@@ -25560,6 +25581,7 @@ H.V. Porter
 H2F Entertainment
 HAL Wrestling
 HD 15558
+HD 168625
 HD 55184
 HGTV (Italia)
 HIStory (serie televisiva)
@@ -27307,6 +27329,7 @@ Icosaedro
 Ictaluridae
 Ictus
 Ictíneo II
+Ida Ferenczy
 Idaho
 Identity map pattern
 Identità di Pohozaev
@@ -27882,6 +27905,7 @@ Incrociatore leggero
 Incrociatore pesante
 Incrudimento
 Incubatore aziendale
+Incubo sull'autostrada
 Incudine e martello
 Incuso
 Indagine di una rapina
@@ -28579,6 +28603,7 @@ Istituto nazionale di statistica
 Istituto per le opere di religione
 Istituto unito per la ricerca nucleare
 Istituto zooprofilattico sperimentale dell'Abruzzo e del Molise
+Istituzionalismo
 Istmo di Corinto
 Istrana
 Istria
@@ -30415,6 +30440,7 @@ Kalispell
 Kaliště (Boemia centrale)
 Kallipolis (Sicilia)
 Kalmar
+Kalol INA (Panchmahal)
 Kam"janec'-Podil's'kyj
 Kamal Issah
 Kamal al-Din ibn al-Adim
@@ -32605,6 +32631,7 @@ Les Jepsen
 Les Lèves-et-Thoumeyragues
 Les Molières
 Les Monthairons
+Les Moutiers-Hubert
 Les Neyrolles
 Les Paroches
 Les Peintures
@@ -32770,6 +32797,7 @@ Leányfalu
 Leïa Ratahiry
 León (Spagna)
 Lhota (Praha-východ)
+Lhotka (Moravia-Slesia)
 Lhuis
 Lhôpital
 Li Chak
@@ -33118,6 +33146,7 @@ Linea Ginza
 Linea Gotica
 Linea Gustav
 Linea Higashiyama
+Linea IND Fulton Street
 Linea IRT Lenox Avenue
 Linea Jōhoku
 Linea Kamiiida
@@ -35071,6 +35100,7 @@ Marc Bienstock
 Marc Bulger
 Marc Chagall
 Marc Cohn
+Marc Cécillon
 Marc Durand
 Marc Iavaroni
 Marc Ruhe
@@ -39472,6 +39502,7 @@ New Seekers
 New South Wales Open 1975
 New South Wales Open 1976
 New Statesman
+New Vienna
 New Weird America
 New World Order (wrestling)
 New Yardbirds
@@ -39592,12 +39623,14 @@ Nicki Micheaux
 Nicki Minaj
 Nicki Nicole
 Nickname
+Nicky Marker
 Nicky Siano
 Nico (cantante)
 Nico Cirasola
 Nico Mattan
 Nicodamidae
 Nicol Williamson
+Nicola Arigliano (secondo album del 1959)
 Nicola I di Russia
 Nicola II di Lorena
 Nicola II di Russia
@@ -39912,6 +39945,7 @@ Norman Foster (architetto)
 Norman Lockyer
 Norman Panama
 Norman Pirie
+Norman Ross
 Norman Steinberg
 Norman Taurog
 Normandia
@@ -40156,6 +40190,7 @@ Nunca más
 Nunzio apostolico
 Nuorese Calcio 1984-1985
 Nuoto
+Nuoto ai Campionati africani di nuoto 2021
 Nuoto ai Giochi asiatici
 Nuoto ai Giochi del Commonwealth
 Nuoto ai Giochi del Mediterraneo
@@ -40213,6 +40248,7 @@ Névache
 Nîmes Olympique
 Nôgami Neuro investigatore demoniaco
 Núria Martínez
+Năpradea
 O Holy Night
 O Sole Mio
 O mio babbino caro
@@ -40477,6 +40513,7 @@ Olimpia Splendid
 Olimpiade
 Olimpiadi 1956
 Olimpiadi 2000
+Olimpiadi degli scacchi del 1974
 Olimpiadi estive
 Olio (album)
 Olio alimentare
@@ -41562,6 +41599,7 @@ Palermo
 Palermo Football Club
 Palestina
 Palestina (San Paolo)
+Palestine (Ohio)
 Palestro
 Paletnologia
 Palinuro (Centola)
@@ -42297,6 +42335,7 @@ Paul Abascal
 Paul Anderson (attore)
 Paul Angelis
 Paul Anka
+Paul Anthony Stewart
 Paul Arizin
 Paul Arthurs
 Paul Auster
@@ -43640,6 +43679,7 @@ Poleis
 Polemica
 Polenta
 Polerady (Boemia centrale)
+Polestar 2
 Poleñino
 Polibio
 Policlinico (metropolitana di Roma)
@@ -43883,6 +43923,7 @@ Porta Nomentana
 Porta PS/2
 Porta Romana (Firenze)
 Porta Scea
+Porta Susa (metropolitana di Torino)
 Porta parallela
 Portabilità
 Portable Document Format
@@ -44126,6 +44167,7 @@ Pratchett
 Pratiglione
 Prato (Italia)
 Pratomagno
+Pratovecchio
 Pratval
 Pratânia
 Prawit Wongsuwan
@@ -45617,6 +45659,7 @@ Raid di Morgan
 Raid di Quantrill
 Raid di Stoneman
 Raid su Dieppe
+Raimondo Franchetti
 Raimondo Luraghi
 Rain (The Beatles)
 Rainbow (Sia)
@@ -49394,6 +49437,7 @@ Second Party System
 Second Summer of Love
 Second Thoughts on James Burnham
 SecondHandSongs
+Seconda Divisione Puglia 1930-1931
 Seconda Guerra Mondiale
 Seconda Guerra dell'Oppio
 Seconda Repubblica (Italia)
@@ -50052,6 +50096,7 @@ Sh2-310
 Sh2-38
 Sh2-54
 Sh2-64
+Sh2-87
 Sh2-9
 Shaanxi
 Shabbat
@@ -51039,6 +51084,7 @@ Solo una volta (o tutta la vita)
 SoloMetro
 Solomiac (Cesana Torinese)
 Solomon Grundy
+Solonópole
 Solstizio
 Solubilità
 Solubilizzazione
@@ -51246,6 +51292,7 @@ South African Indian Council
 South African National Space Agency
 South African Open 1973
 South African Open 1975
+South African Open 1977 - Singolare maschile
 South African Party
 South Australian Open 1975
 South Florida
@@ -52815,6 +52862,7 @@ Ståle Solbakken
 Stéphane Grappelli
 Stéphane Mallarmé
 Stříbrná Skalice
+Střítež nad Bečvou
 Sua Grazia
 Sua Maestà
 Sua maestà
@@ -52878,6 +52926,7 @@ Sugarcubes
 Sugarloaf
 Suggerimenti (Windows)
 Sugo di funghi
+Suicide (1977)
 Suicide King
 Suicide Squad (colonna sonora)
 Suicide Squad (film 2016)
@@ -52885,6 +52934,7 @@ Suicidio
 Suicidio assistito
 Suicidio e religioni
 Suicidio nell'antica Roma
+Suillus
 Suini
 Suisio
 Suisse
@@ -53644,6 +53694,7 @@ Taranto Football Club 1927
 Taranto Football Club 1927 2017-2018
 Taras (Taranto)
 Taras (città antica)
+Taraxacum officinale
 Tarašča
 Tarbes Gespe Bigorre
 Tardienta
@@ -54584,6 +54635,7 @@ The Haçienda
 The Headshrinkers
 The Heart of the Ballad
 The Help (serie televisiva)
+The Heretics
 The Hero (film 1923)
 The Hillside Group
 The Hindu Times
@@ -55129,6 +55181,7 @@ Thunderbird Classic 1975
 Thundercats
 Thures
 Thurii
+Thurnham (Kent)
 Thusis
 Thymelaea hirsuta
 Thyratron
@@ -55789,6 +55842,7 @@ Toyota
 Toyota Classic 1975
 Toyota Stadium (Texas)
 Toyotomi Hideyori
+Toys of Fate (film 1918)
 Tra due mondi (film 2001)
 Trabadelo
 Trabiju
@@ -57666,6 +57720,7 @@ Vannes-le-Châtel
 Vannevar Bush
 Vantoux
 Vanuatu
+Vanėsa Kaladzinskaja
 Vaporwave
 Vaprio d'Adda
 Varambon
@@ -58489,6 +58544,7 @@ Vinhedo
 Vinicio Verza
 Vinovo
 Vintage
+Vintage Yachting Games
 Vinyl (serie televisiva)
 Viocourt
 Viola Davis
@@ -61455,6 +61511,7 @@ transistor
 82 a.C.
 83 (disambigua)
 8544 Sigenori
+878 (disambigua)
 88 a.C.
 9 a.C.
 9 agosto
@@ -61585,6 +61642,7 @@ ACF Fiorentina 2021-2022
 ACF Fiorentina 2022-2023
 ACI Farfisa
 ADM-141 TALD
+AEGON Championships 2010 - Qualificazioni singolare
 AES47
 AFA Senior Male League
 AFI's 100 Years... 100 Laughs
@@ -61729,6 +61787,7 @@ Abdelkader El Brazi
 Abdolkarim Soroush
 Abdul Kalam
 Abdul Shamsid-Deen
+Abdullah bin Khalifa di Zanzibar
 Abdus Salam
 Abe Burrows
 Abe Saperstein
@@ -62629,6 +62688,7 @@ Aleksandr Nikolaevič Afanas'ev
 Aleksandr Sergeevič Puškin
 Aleksandr Tkačëv
 Aleksandr Vinnik
+Aleksandr Zarchi
 Aleksandra Fëdorovna Romanova
 Aleksandra Panova
 Aleksandra Vujović
@@ -62800,6 +62860,7 @@ Alfred Dickens
 Alfred Edward Chalon
 Alfred Flatow
 Alfred Gilman
+Alfred Goldscheider
 Alfred Hershey
 Alfred Hitchcock
 Alfred Jodl
@@ -62808,6 +62869,7 @@ Alfred Manessier
 Alfred Meyer
 Alfred Nobel
 Alfred Pennyworth
+Alfred Rawlinson
 Alfred Reeves
 Alfred Rosenberg
 Alfred Schwarzmann
@@ -62892,6 +62954,7 @@ Aliyah Boston
 Aljaksandra Sasnovič
 Alkemy
 All 'N All
+All About Us
 All Ages
 All American Red Heads
 All Around the World (Oasis)
@@ -62939,6 +63002,7 @@ Allan McLeod Cormack
 Allan Nevins
 Allan Pinkerton
 Allan Starski
+Allande
 Allarme rosso (film 1995)
 Allarmont
 Allassac
@@ -63437,6 +63501,7 @@ Andamane e Nicobare
 Andare a Canossa
 Andernay
 Andernos-les-Bains
+Anders Erikson Sparrman
 Anders Gjermshus
 Anders Hauglund
 Anders Johansen
@@ -63732,6 +63797,7 @@ Anna Del Amico
 Anna Elisabeth Baer
 Anna Elisabeth Baere
 Anna Frank
+Anna Hall
 Anna Jablonowska
 Anna Kiełbasińska
 Anna Korwin
@@ -64750,6 +64816,7 @@ Artiglieria
 Artiglieria controcarri
 Artiglieria da montagna
 Artigues-près-Bordeaux
+Artin
 Artis Gilmore
 Artist First
 Artista
@@ -65895,6 +65962,7 @@ Baltagiya
 Baltasar Albéniz
 Baltimora
 Baltimora and Ohio
+Baltimore Bullets 1953-1954
 Baltimore Open 1973
 Baltimore Ravens
 Baltimore Sun
@@ -66675,6 +66743,7 @@ Beaker
 Beaker (web browser)
 Beam splitter
 BeanShell
+Beanibazar
 Bear McCreary
 Bear nella grande casa blu
 Bears
@@ -66830,6 +66899,7 @@ Belrupt-en-Verdunois
 Belting (musica)
 Belval (Vosgi)
 Belver de Cinca
+Belvidere (New Jersey)
 Belvès-de-Castillon
 Belzec
 Bembibre
@@ -67422,6 +67492,7 @@ Björk Orkestral
 Björk: Archives
 Björk: Biophilia Live
 Björn Borg
+Björn III di Svezia
 Bjørn Helge Riise
 Black Adam
 Black Adam (colonna sonora)
@@ -67455,6 +67526,7 @@ Blackboard design pattern
 Blackburn Ripon
 Blackburn Rovers Football Club 2010-2011
 Blackburn Rovers Football Club 2011-2012
+Blackburn Rovers Football Club 2019-2020
 Blackfire
 Blackground Records
 Blackhawk (serial cinematografico)
@@ -73557,6 +73629,7 @@ Colchester United Football Club 2011-2012
 Cold start
 Coldcut
 Coldplay
+Coldwater (film)
 ColecoVision
 Colel Chabad
 Coleman Hawkins
@@ -75320,6 +75393,7 @@ Cratere Gilbert (Luna)
 Cratere Grey
 Cratere Jobim
 Cratere Klaproth
+Cratere Moiseev
 Cratere Sköll
 Cratere Slocum
 Cratere Undara
@@ -77557,6 +77631,7 @@ Distretto di Buča
 Distretto di Chandrapur
 Distretto di Chechar
 Distretto di Dhule
+Distretto di Doem Bang Nang Buat
 Distretto di Dokolo
 Distretto di El Hamma
 Distretto di Faridkot
@@ -80295,6 +80370,7 @@ Erwin Chargaff
 Erwin Neher
 Erwin Thijs
 Erwin Vandenbergh
+Erwin van den Eshof
 Eryngium foetidum
 Erythraea centaurium
 Eryx (Sicilia)
@@ -80619,6 +80695,7 @@ Europa occidentale
 Europa orientale
 Europa settentrionale
 Europark Idroscalo Milano
+European Champions League 2005-2006
 European Film Awards
 European Film Awards 2006
 European Research Council
@@ -82736,6 +82813,7 @@ Fred Ebb
 Fred Friday
 Fred Gerber
 Fred Karno
+Fred Kohler
 Fred McNeill
 Fred Olen Ray
 Fred Peart, barone Peart
@@ -83243,6 +83321,7 @@ Galateo (costume)
 Galatina
 Galattosio
 Galavant
+Galaxy Angel
 Galba
 Galbiate
 Galena
@@ -86033,6 +86112,7 @@ H.V. Porter
 H2F Entertainment
 HAL Wrestling
 HD 15558
+HD 168625
 HD 55184
 HGTV (Italia)
 HIStory (serie televisiva)
@@ -89054,6 +89134,7 @@ Istituto nazionale di statistica
 Istituto per le opere di religione
 Istituto unito per la ricerca nucleare
 Istituto zooprofilattico sperimentale dell'Abruzzo e del Molise
+Istituzionalismo
 Istmo di Corinto
 Istrana
 Istria
@@ -90890,6 +90971,7 @@ Kalispell
 Kaliště (Boemia centrale)
 Kallipolis (Sicilia)
 Kalmar
+Kalol INA (Panchmahal)
 Kam"janec'-Podil's'kyj
 Kamal Issah
 Kamal al-Din ibn al-Adim
@@ -92139,6 +92221,7 @@ Labaro
 Labelle
 Labescau
 Labeuville
+Labinot Mal
 Labirinto mortale
 Laboratori Elettrotecnici Società Anonima
 Laboratorio
@@ -93080,6 +93163,7 @@ Les Jepsen
 Les Lèves-et-Thoumeyragues
 Les Molières
 Les Monthairons
+Les Moutiers-Hubert
 Les Neyrolles
 Les Paroches
 Les Peintures
@@ -93594,6 +93678,7 @@ Linea Ginza
 Linea Gotica
 Linea Gustav
 Linea Higashiyama
+Linea IND Fulton Street
 Linea IRT Lenox Avenue
 Linea Jōhoku
 Linea Kamiiida
@@ -93937,6 +94022,7 @@ Lista delle famiglie linguistiche
 Lista delle specie virali
 Lista di Schindler
 Lista di asteroidi
+Lista di asteroidi (340001-341000)
 Lista di astronauti e cosmonauti
 Lista di formati di file
 Lista di licenze software approvate da FSF
@@ -95214,6 +95300,7 @@ Mahindra Racing
 Mahlon Dickerson
 Mahmoud Abdul-Rauf
 Mahogany (software)
+Mahr Vehl
 Mahur
 Mai Tsujimoto
 Maia (divinità)
@@ -95547,6 +95634,7 @@ Marc Bienstock
 Marc Bulger
 Marc Chagall
 Marc Cohn
+Marc Cécillon
 Marc Durand
 Marc Iavaroni
 Marc Ruhe
@@ -95642,6 +95730,7 @@ Marco Franzelli
 Marco Frittella
 Marco Fulvio Nobiliore (console 159 a.C.)
 Marco Furio Camillo
+Marco Garcés
 Marco Licinio Crasso
 Marco Livio Druso (tribuno)
 Marco Mete
@@ -96559,6 +96648,7 @@ Maussac
 Mauvages
 Mauvaises fréquentations
 Maverick Capital
+Max Adler (filosofo)
 Max Alessandrini
 Max Delbrück
 Max Gibson
@@ -98795,6 +98885,7 @@ Murvaux
 Musa itinerans
 Musashino
 Muscolo
+Muscolo lunghissimo
 Muscolo quadricipite
 Muse (divinità)
 Muse (gruppo musicale)
@@ -99948,6 +100039,7 @@ New Seekers
 New South Wales Open 1975
 New South Wales Open 1976
 New Statesman
+New Vienna
 New Weird America
 New World Order (wrestling)
 New Yardbirds
@@ -100068,12 +100160,14 @@ Nicki Micheaux
 Nicki Minaj
 Nicki Nicole
 Nickname
+Nicky Marker
 Nicky Siano
 Nico (cantante)
 Nico Cirasola
 Nico Mattan
 Nicodamidae
 Nicol Williamson
+Nicola Arigliano (secondo album del 1959)
 Nicola I di Russia
 Nicola II di Lorena
 Nicola II di Russia
@@ -100388,6 +100482,7 @@ Norman Foster (architetto)
 Norman Lockyer
 Norman Panama
 Norman Pirie
+Norman Ross
 Norman Steinberg
 Norman Taurog
 Normandia
@@ -100929,6 +101024,7 @@ Old New Borrowed Blue
 Old San Juan
 Old Vic
 Old Wild West
+Old Wives for New
 Old school (hip hop)
 Old school hip hop
 Oldham Athletic A.Football Club 2010–2011
@@ -102015,6 +102111,7 @@ Palazzo del Coudenberg
 Palazzo del Podestà (Asti)
 Palazzo del Turismo
 Palazzo dell'Eliseo
+Palazzo della Panatica
 Palazzo delle Tuileries
 Palazzo di Città (Asti)
 Palazzo di Holyrood
@@ -102041,6 +102138,7 @@ Palermo
 Palermo Football Club
 Palestina
 Palestina (San Paolo)
+Palestine (Ohio)
 Palestro
 Paletnologia
 Palinuro (Centola)
@@ -102732,6 +102830,7 @@ Patrimoni dell'umanità della Cambogia
 Patrimonio dell'umanità
 Patrimonio di vigilanza
 Patrimonio netto
+Patriot League
 Patriottico
 Patriottismo
 Patristica
@@ -102776,6 +102875,7 @@ Paul Abascal
 Paul Anderson (attore)
 Paul Angelis
 Paul Anka
+Paul Anthony Stewart
 Paul Arizin
 Paul Arthurs
 Paul Auster
@@ -102970,6 +103070,7 @@ Pekao Open 2007
 Pekao Open 2016
 Pekka Pyykkö
 Pelasgi
+Peleduj
 Pellegrinaggio
 Pellegrinaggio (film)
 Pellegrue
@@ -103889,6 +103990,7 @@ Piste disperate
 Pistoia
 Pistoicos
 Pistola contro gentiluomo
+Pistole fiammeggianti (film 1961)
 Pistone (meccanica)
 Pita Limjaroenrat
 Pitagora
@@ -104363,6 +104465,7 @@ Porta Nomentana
 Porta PS/2
 Porta Romana (Firenze)
 Porta Scea
+Porta Susa (metropolitana di Torino)
 Porta parallela
 Portabilità
 Portable Document Format
@@ -106098,6 +106201,7 @@ Raid di Morgan
 Raid di Quantrill
 Raid di Stoneman
 Raid su Dieppe
+Raimondo Franchetti
 Raimondo Luraghi
 Rain (The Beatles)
 Rainbow (Sia)
@@ -106259,6 +106363,7 @@ Ratliff City
 Ratti (azienda)
 Ratto delle Sabine
 Rattus villosissimus
+Raul - Diritto di uccidere
 Raul Hilberg
 Raunheim
 Rauzan
@@ -110534,6 +110639,7 @@ Sh2-310
 Sh2-38
 Sh2-54
 Sh2-64
+Sh2-87
 Sh2-9
 Shaanxi
 Shabbat
@@ -111441,6 +111547,7 @@ Sofia Scandurra
 Sofia del Palatinato
 Sofia di Borbone-Francia
 Sofia di Borbone-Spagna
+Sofija Nalepins'ka-Bojčuk
 Sofocle
 Sofoklīs Schortsianitīs
 Sofonisba (nome)
@@ -113363,6 +113470,7 @@ Sugarcubes
 Sugarloaf
 Suggerimenti (Windows)
 Sugo di funghi
+Suicide (1977)
 Suicide King
 Suicide Squad (colonna sonora)
 Suicide Squad (film 2016)
@@ -115066,11 +115174,13 @@ The Greatest (Sia)
 The Grey Album
 The Groucho Club
 The Guardian
+The Harem Skirt
 The Haunted Man
 The Haçienda
 The Headshrinkers
 The Heart of the Ballad
 The Help (serie televisiva)
+The Heretics
 The Hero (film 1923)
 The Hillside Group
 The Hindu Times
@@ -115616,6 +115726,7 @@ Thunderbird Classic 1975
 Thundercats
 Thures
 Thurii
+Thurnham (Kent)
 Thusis
 Thymelaea hirsuta
 Thyratron
@@ -118978,6 +119089,7 @@ Vinhedo
 Vinicio Verza
 Vinovo
 Vintage
+Vintage Yachting Games
 Vinyl (serie televisiva)
 Viocourt
 Viola Davis
@@ -119305,6 +119417,7 @@ Volmunster
 Volo Batik Air 7703
 Volo Execuflight 1526
 Volo LIAT 319
+Volo United Airlines 823
 Volo United Express 5925
 Volodymyr Pil'huj
 Volontari delle Nazioni Unite
@@ -119604,6 +119717,7 @@ Warren Beatty
 Warren Earl Burger
 Warren Lipka
 Warren Spector
+Warsaw Open 2009 - Doppio
 Warthegau
 Washington
 Washington (U.S. state)

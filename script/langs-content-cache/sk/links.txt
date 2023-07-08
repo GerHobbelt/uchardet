@@ -1,5 +1,6 @@
 
 Európska_únia
+Dôkaz (matematika)
 Phonetics
 Linguistics
 Alphabet
@@ -57,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Katedrála svätého Petra (Montpellier)
-Majerská ulica
-Pracovný predmet
-Koloman Lux
-Štefan Bednár
-Ugny-sur-Meuse
-Sameľ (priezvisko)
-Eu (kantón)
-Zsch
-Ostrov (rozlišovacia stránka)
-Tvárlivosť
-Erichthonios
-LG X5
-Clodovil Hernandes
-Rudolf II. Habsburský (1232)
-Sad (poľnohospodárstvo)
-Witan
-NGC 3560
-Nasdaq Stock Market
-Menalkes z Opuntu
-Liga majstrov UEFA 2008/2009
-Gmina Węgierska Górka
-Abraham Mendel Theben
-Map of the Problematique
-Komunikológia
-Pod Lipovým
-Kvalifikácia na Majstrovstvá Európy UEFA vo futsale 2018
-Indonézske národné futsalové družstvo žien
-Dubeň (vrch)
-Remeslá v stredovekých a ranonovovekých Košiciach
+Nicodemus Tessin mladší
+Kanto
+Tatra T5C5
+Aristillus (kráter)
+Vřesovice (okres Hodonín)
+Bourdeaux (kantón)
+Magny-le-Freule
+Atlas (mesiac)
+Mousseaux-sur-Seine
+Matej Kristín
+Systém sociálneho kreditu
+Doprava v Košiciach
+2282 Andres Bello
+Rouvres-en-Woëvre
+Turistická značkovaná trasa číslo 2405
+Debet
+Oskovec
+NGC 3524
+Piazzali
+Giżycko
+BTV
+Saint-Georges (Cantal)
+Brandérion
+.om
+Gmina Ułęż
+Muttersholtz
+Agrón (rozlišovacia stránka)
+Calippus
+Zoznam iných liečiv respiračného systému
+Radónové riziko
 "Country" Winston Marshall
 "Heroes" (album)
 "Heroes" (pieseň)
@@ -1984,6 +1985,7 @@ Abovské folklórne slávnosti
 Abraham Browning
 Abraham Harold Maslow
 Abraham Lincoln
+Abraham Mendel Theben
 Abrahám (biblická postava)
 Abrahám bar Dašandád
 Abrahámovské náboženstvo
@@ -7958,6 +7960,7 @@ Bükkábrány
 Bündnerské bridlice
 Bürmoos
 Büsum
+Büttös
 Býkovice
 Bývalá Vyššia hospodárska škola (Košice)
 Bývalá budova psychiatrickej kliniky (Košice)
@@ -8415,6 +8418,7 @@ Cave (skladba)
 Caxias (kráter)
 Cayenne
 Cayuga County
+Cazouls-lès-Béziers
 Cd (Unix)
 CeCe Peniston
 Ceasar Bardas
@@ -9471,6 +9475,7 @@ Cirkevné prikázania
 Cirkevné právo
 Cirkevný hodnostár
 Cirkevný otec (stredovek)
+Cirkulárne vlnenie
 Cirkumskripčná bula
 Cirkus
 Cirkus (zábavný podnik)
@@ -9719,6 +9724,7 @@ Clive Brooks
 Clive Davis
 Clive Sinclair
 Clodia Pulchra
+Clodovil Hernandes
 Cloris Leachman
 Cloris Leachmanová
 Close Watch: An Introduction to John Cale
@@ -12446,6 +12452,7 @@ Dubaj (mesto)
 Dubawnt (jazero)
 Dubawnt (rieka)
 Dubcová
+Dubeň (vrch)
 Dubicko
 Dublin
 Dublinský záliv
@@ -12688,6 +12695,7 @@ Dóm sv. Alžbety
 Dóm sv. Martina
 Dóm svätej Alžbety
 Dórovia
+Dôkaz (matematika)
 Dômyselný rytier Don Quijote de la Mancha
 Dôstojník
 Dúbrava (Prešov)
@@ -13648,6 +13656,7 @@ Erich Przywara
 Erich Salomon
 Erich von Manstein
 Erich von Stroheim
+Erichthonios
 Erie Canal
 Erie County
 Erie County (Pensylvánia)
@@ -13812,6 +13821,7 @@ Etta James
 Etterbeek
 Etylalkohol
 Etymologický slovník
+Eu (kantón)
 Eubacteria
 Eubaktérie
 Eubója
@@ -16528,6 +16538,7 @@ Gmina Ochotnica Dolna
 Gmina Siemkowice
 Gmina Stawiski
 Gmina Turośl
+Gmina Węgierska Górka
 Gmina Zakrzewo (powiat aleksandrowski)
 Gmina Zblewo
 Gmina Łubowo
@@ -16706,6 +16717,7 @@ Gotye
 Gouda
 Gouda (syr)
 Goussainville (kantón)
+Gouy (Aisne)
 Gower Champion
 Goyescas
 Gozdnica
@@ -17242,6 +17254,7 @@ Gábor Grendel
 Gábor Gál
 Gábor Király
 Gábor Szabó
+Gábor Vona
 Gáborovo sedlo
 Gáborská ulica
 Gáborská ulica (Hlohovec)
@@ -18859,6 +18872,7 @@ Hotel Yasmin (Košice)
 Hotel a kaviareň Slávia (Košice)
 Hotelová akadémia
 Hotentoti
+Hotonnes
 Houdain (kantón)
 Houghton Mifflin Harcourt
 Hound Dog (skladba)
@@ -19888,6 +19902,7 @@ Indoeurópske jazyky
 Indoeurópsky prajazyk
 Indonézia
 Indonézia na Letných olympijských hrách 2020
+Indonézske národné futsalové družstvo žien
 Indonézske národné softbalové družstvo mužov
 Indoor trial na Svetových hrách
 Indovia
@@ -23666,6 +23681,7 @@ Katedrála Notre-Dame (Reims)
 Katedrála Panny Márie (Burgos)
 Katedrála svätej Hedvigy v Berlíne
 Katedrála svätého Martina (Bratislava)
+Katedrála svätého Petra (Montpellier)
 Katedrála v Seville
 Katey Sagal
 Kateřinice (okres Nový Jičín)
@@ -24423,6 +24439,7 @@ Kolekcia (seriál)
 Kolekta
 Kolektívny šport
 Kolektómia
+Kolenchým
 Koleso šťastia
 Koleč
 Kolešov
@@ -24438,6 +24455,7 @@ Kolno
 Koloman (Uhorsko)
 Koloman Banšell
 Koloman Leššo
+Koloman Lux
 Kolombo
 Kolonializmus
 Kolonica
@@ -24521,6 +24539,7 @@ Kompúter
 Komsomol
 Komu zvonia do hrobu
 Komunikačné pásmo
+Komunikológia
 Komunikácia
 Komunistická strana Slovenska (1939)
 Komunistická strana Slovenska (1948)
@@ -24913,6 +24932,7 @@ Kotlasy
 Kotlebovci – Ľudová strana Naše Slovensko
 Kotliarka
 Kotlin (programovací jazyk)
+Kotlina Piatich spišských plies
 Kotlový štít
 Kotlový žľab
 Kotranslačná úprava
@@ -24947,6 +24967,7 @@ Kováčová (okres Zvolen)
 Kováčska ulica (Bratislava)
 Kováčska ulica (Košice)
 Kováčske remeslo
+Koza (priezvisko)
 Koza domáca
 Kozan
 Kozia noha hostcová
@@ -25612,6 +25633,7 @@ Kvadrofónny zvuk
 Kvaga
 Kvakeri
 Kvakovce
+Kvalifikácia na Majstrovstvá Európy UEFA vo futsale 2018
 Kvalifikácia na Majstrovstvá Európy v hádzanej mužov 1994
 Kvalifikácia na Majstrovstvá Európy v hádzanej mužov 1996
 Kvalifikácia na Majstrovstvá Európy v hádzanej mužov 1998
@@ -25908,6 +25930,7 @@ LASK Linz
 LCD monitor
 LG X max
 LG X power
+LG X5
 LGBT komunita
 LGM-30 Minuteman
 LL Cool J
@@ -26374,6 +26397,7 @@ Le Perreux-sur-Marne (kantón)
 Le Plessis-Pâté
 Le Pont-de-Montvert (kantón)
 Le Portel (kantón)
+Le Puy-en-Velay
 Le Quesnoy-Est
 Le Quesnoy-Ouest
 Le Retour des Charlots
@@ -27008,6 +27032,7 @@ Liffré
 Liga majstrov EHF mužov
 Liga majstrov EHF žien
 Liga majstrov UEFA
+Liga majstrov UEFA 2008/2009
 Liga majstrov UEFA 2019/2020 – Finále
 Ligand
 Ligatúra (písmo)
@@ -28447,6 +28472,7 @@ Majerníkova ulica (Bratislava)
 Majerova skala
 Majerovce
 Majerská cesta
+Majerská ulica
 Majerská ulica (Bratislava)
 Majerčíkova
 Majetok
@@ -30635,6 +30661,7 @@ Memories (Barbra Streisand album)
 Memory Almost Full
 Memphis (Tennessee)
 Memphis Commercial Appeal
+Menalkes z Opuntu
 Menandros
 Mende-Nord
 Mende-Sud
@@ -31064,6 +31091,7 @@ Michal Milan Harminc
 Michal Miloslav Hodža
 Michal Mudroň
 Michal Murin
+Michal Polák (hudobník)
 Michal Polák (novinár)
 Michal Tillner
 Michal Toporcer
@@ -31578,6 +31606,7 @@ Miroslav Stević
 Miroslav Tyrš
 Miroslav Vanko
 Miroslav Válek
+Miroslav Zounar
 Miroslav Úradník
 Miroslav Číž
 Miroslav Đukić
@@ -32674,6 +32703,7 @@ NGC 2653
 NGC 2722
 NGC 2736
 NGC 2737
+NGC 2743
 NGC 2757
 NGC 2784
 NGC 2899
@@ -32689,6 +32719,7 @@ NGC 3230
 NGC 3293
 NGC 3372
 NGC 3496
+NGC 3560
 NGC 3576
 NGC 3603
 NGC 3768
@@ -33103,6 +33134,7 @@ Narvik
 Nasavrky (okres Chrudim)
 Nasavsko
 Nasbinals (kantón)
+Nasdaq Stock Market
 Nashville
 Nashville (Tennessee)
 Nashville Predators
@@ -35669,6 +35701,7 @@ Ostrov
 Ostrov (okres Chrudim)
 Ostrov (okres Havlíčkův Brod)
 Ostrov (reality show)
+Ostrov (rozlišovacia stránka)
 Ostrov Chiloé
 Ostrov Man
 Ostrov Navassa
@@ -41042,6 +41075,7 @@ Petula Clark
 Petzvalova ulica (Bratislava)
 Petöfiho ulica (Bratislava)
 Petőfiho literárne múzeum
+Petőfiszállás
 Petřvald (okres Nový Jičín)
 Petřín
 Petřínska rozhľadňa
@@ -42363,6 +42397,7 @@ Prachy
 Praclík
 Pracovný pohovor
 Pracovný pohovor (zamestnanie)
+Pracovný predmet
 Praecepta sancti Pachomii
 Pragmatizmus
 Prague
@@ -43864,6 +43899,7 @@ Rapotice
 Rapotín (okres Šumperk)
 Rapošov park
 Rapture of the Deep
+Raquel Kopsová-Jonesová
 Raquel Welch
 Rarities (album The Beatles, 1978)
 Rarities (album The Beatles, 1980)
@@ -44157,6 +44193,7 @@ Remeselnícka ulica (Bratislava)
 Remeselnícke rozprávky
 Remeselnícky dom
 Remeselník
+Remeslá v stredovekých a ranonovovekých Košiciach
 Remeteszőlős
 Remeš
 Remiaška
@@ -45097,6 +45134,7 @@ Rota (vojenská jednotka)
 Rotačná perióda
 Rotenturm an der Pinka
 Rothad zo Soissons
+Rotherens
 Rothov dom
 Rotorua (sopka)
 Rottenacker
@@ -45308,6 +45346,7 @@ Rudolf Franz Lehnert
 Rudolf I. (Svätá rímska ríša)
 Rudolf II.
 Rudolf II. (Svätá rímska ríša)
+Rudolf II. Habsburský (1232)
 Rudolf IV. (Rakúsko)
 Rudolf Jašík
 Rudolf Karel
@@ -47194,6 +47233,7 @@ Sambus
 Same Love
 Samec
 Samer (kantón)
+Sameľ (priezvisko)
 Sami Al-Jaber
 Sami Allagui
 Sami Khedira
@@ -48518,6 +48558,7 @@ Skupenské teplo varu
 Skupenstvo
 Skupina
 Skupina A
+Skupina Alinda
 Skupina Amor
 Skupina Apollo
 Skupina Aten
@@ -51641,6 +51682,7 @@ Tajmuraz Salkazanov
 Tajná služba
 Tajné manželstvo
 Tajomná vražda na Manhattane
+Tajomstvo (informácia)
 Tajomstvo (opera)
 Tajomstvo alchymistu Storitza
 Tajov
@@ -54124,6 +54166,7 @@ Tvrdosť minerálu
 Tvrdé palice
 Tvrdého ulica
 Tvrzice
+Tvárlivosť
 Tvář pod maskou
 Twaron
 Twentieth Century Encyclopedia of Catholicism
@@ -54328,6 +54371,7 @@ Ueno Hikoma
 Uganda
 Uganda na Letných olympijských hrách 2020
 Ugandský šiling
+Ugny-sur-Meuse
 Ugo Foscolo
 Ugo Mulas
 Ugo Tognazzi
@@ -55463,6 +55507,7 @@ Veľká ľadová priepasť
 Veľká Žomboj
 Veľké Biele pleso
 Veľké Borové
+Veľké Držkovce
 Veľké Dvorany
 Veľké Hincovo pleso
 Veľké Kosihy
@@ -55753,6 +55798,7 @@ Villamblard (kantón)
 Villamblard (obec)
 Villanovská kultúra
 Villard-Sallet
+Ville-la-Grand
 Ville-sur-Cousances
 Villebon-sur-Yvette (kantón)
 Villecresnes (kantón)
@@ -57457,6 +57503,7 @@ Wish You Were Here (skladba, Pink Floyd)
 Wish You Were Here Tour
 Wishbone Ash
 Wisin Y Yandel
+Witan
 Witchcraft (1957 song)
 With Arms Wide Open
 With You
@@ -58557,6 +58604,7 @@ Zoznam kultúrnych pamiatok v Rajeckých Tepliciach
 Zoznam kultúrnych pamiatok v Ružomberku
 Zoznam kultúrnych pamiatok v Sobranciach
 Zoznam kultúrnych pamiatok v Starej Ľubovni
+Zoznam kultúrnych pamiatok v obci Bartošova Lehôtka
 Zoznam kultúrnych pamiatok v obci Belá (okres Žilina)
 Zoznam kultúrnych pamiatok v obci Beňatina
 Zoznam kultúrnych pamiatok v obci Beša (okres Levice)
@@ -59120,6 +59168,7 @@ Zoznam po francúzsky píšucich spisovateľov
 Zoznam podchodov a nadchodov v Bratislave
 Zoznam politických článkov/B
 Zoznam politických článkov/O
+Zoznam politických článkov/T
 Zoznam polopravidelných premenných hviezd
 Zoznam poslancov NR SR (1992 – 1994)
 Zoznam poslancov NR SR (1994 – 1998)
@@ -59771,6 +59820,7 @@ záclonová tyč
 Ávila
 Ázijsko-tichomorská hospodárska spolupráca
 Ázijská basketbalová federácia
+Ázijská futsalová konfederácia
 Ázijská hádzanárska federácia
 Ázijská kvalifikácia na Majstrovstvá sveta v hádzanej mužov 1978
 Ázijská kvalifikácia na Majstrovstvá sveta v hádzanej mužov 1982
@@ -60953,6 +61003,7 @@ záclonová tyč
 Štefan (Anglicko)
 Štefan Anián Jedlík
 Štefan Banič
+Štefan Bednár
 Štefan Belohradský
 Štefan Boleslav Roman
 Štefan Bočkaj
@@ -62443,6 +62494,7 @@ záclonová tyč
 22. september
 22. Šachová olympiáda
 222 pred Kr.
+2282 Andres Bello
 2286 Fesenkov
 2287 Kalmykia
 2288 Karolinum
@@ -63864,6 +63916,7 @@ Agrigento
 Agrippa
 Agrippina
 Agrárna strana vidieka
+Agrón (rozlišovacia stránka)
 Aguardiente
 Agudelle
 Aguilera
@@ -65812,6 +65865,7 @@ Arista Nashville
 Arista Records
 Aristandros z Telméssu
 Aristide Boucicaut
+Aristillus (kráter)
 Aristipp
 Aristippos z Kyrény
 Aristokracia
@@ -66191,6 +66245,7 @@ Atlantida (opera)
 Atlantis (raketoplán)
 Atlantis (skladba)
 Atlantída
+Atlas (mesiac)
 Atlas (mytológia)
 Atlas (raketa)
 Atlas V
@@ -68610,6 +68665,7 @@ Bourbon (whisky)
 Bourbon-Orléans
 Bourbonovci
 Bourbourg (kantón)
+Bourdeaux (kantón)
 Bouresse
 Bourg-Achard (kantón)
 Bourg-Beaudouin
@@ -68707,6 +68763,7 @@ Brandon Flowers
 Brandon Kroeger
 Brandtaucher
 Brandy Norwood
+Brandérion
 Brandýsek
 Braniboři v Čechách
 Branický most
@@ -69523,6 +69580,7 @@ Bükkábrány
 Bündnerské bridlice
 Bürmoos
 Büsum
+Büttös
 Býkovice
 Bývalá Vyššia hospodárska škola (Košice)
 Bývalá budova psychiatrickej kliniky (Košice)
@@ -69654,6 +69712,7 @@ Californication (album)
 Californication (skladba)
 Caligula
 Calipoli
+Calippus
 Calista Flockhartová
 Call Me Irresponsible
 Call Me Irresponsible (album)
@@ -69980,6 +70039,7 @@ Cave (skladba)
 Caxias (kráter)
 Cayenne
 Cayuga County
+Cazouls-lès-Béziers
 Cd (Unix)
 CeCe Peniston
 Ceasar Bardas
@@ -71036,6 +71096,7 @@ Cirkevné prikázania
 Cirkevné právo
 Cirkevný hodnostár
 Cirkevný otec (stredovek)
+Cirkulárne vlnenie
 Cirkumskripčná bula
 Cirkus
 Cirkus (zábavný podnik)
@@ -72424,6 +72485,7 @@ Debbie Rowe
 Debbie Roweová
 Debbie Wiseman
 Debby Boone
+Debet
 Debnenie
 Debora (opera)
 Deborah Chow
@@ -74255,6 +74317,7 @@ Dóm sv. Alžbety
 Dóm sv. Martina
 Dóm svätej Alžbety
 Dórovia
+Dôkaz (matematika)
 Dômyselný rytier Don Quijote de la Mancha
 Dôstojník
 Dúbrava (Prešov)
@@ -77999,6 +78062,7 @@ Give Yourself a Try
 Giving You the Best That I Got (song)
 Givrycourt
 Giya Kancheli
+Giżycko
 Gjirokastër
 Glabušovce
 Glacifluviálny kužeľ
@@ -78097,6 +78161,7 @@ Gmina Ochotnica Dolna
 Gmina Siemkowice
 Gmina Stawiski
 Gmina Turośl
+Gmina Ułęż
 Gmina Węgierska Górka
 Gmina Zakrzewo (powiat aleksandrowski)
 Gmina Zblewo
@@ -78276,6 +78341,7 @@ Gotye
 Gouda
 Gouda (syr)
 Goussainville (kantón)
+Gouy (Aisne)
 Gower Champion
 Goyescas
 Gozdnica
@@ -78812,6 +78878,7 @@ Gábor Grendel
 Gábor Gál
 Gábor Király
 Gábor Szabó
+Gábor Vona
 Gáborovo sedlo
 Gáborská ulica
 Gáborská ulica (Hlohovec)
@@ -80429,6 +80496,7 @@ Hotel Yasmin (Košice)
 Hotel a kaviareň Slávia (Košice)
 Hotelová akadémia
 Hotentoti
+Hotonnes
 Houdain (kantón)
 Houghton Mifflin Harcourt
 Hound Dog (skladba)
@@ -84892,6 +84960,7 @@ Kansas (štát USA)
 Kansas City (Missouri)
 Kansas City Blades
 Kansas City Wizards
+Kanto
 Kantón (Francúzsko)
 Kantón (Švajčiarsko)
 Kanye West
@@ -85995,6 +86064,7 @@ Kolekcia (seriál)
 Kolekta
 Kolektívny šport
 Kolektómia
+Kolenchým
 Koleso šťastia
 Koleč
 Kolešov
@@ -86487,6 +86557,7 @@ Kotlasy
 Kotlebovci – Ľudová strana Naše Slovensko
 Kotliarka
 Kotlin (programovací jazyk)
+Kotlina Piatich spišských plies
 Kotlový štít
 Kotlový žľab
 Kotranslačná úprava
@@ -86521,6 +86592,7 @@ Kováčová (okres Zvolen)
 Kováčska ulica (Bratislava)
 Kováčska ulica (Košice)
 Kováčske remeslo
+Koza (priezvisko)
 Koza domáca
 Kozan
 Kozia noha hostcová
@@ -87950,6 +88022,7 @@ Le Perreux-sur-Marne (kantón)
 Le Plessis-Pâté
 Le Pont-de-Montvert (kantón)
 Le Portel (kantón)
+Le Puy-en-Velay
 Le Quesnoy-Est
 Le Quesnoy-Ouest
 Le Retour des Charlots
@@ -89976,6 +90049,7 @@ Magnum Photos
 Magnus Maximus
 Magny
 Magny-en-Vexin (kantón)
+Magny-le-Freule
 Magnólia
 Magnóliová ulica (Bratislava)
 Magog
@@ -91636,6 +91710,7 @@ Matej Josko
 Matej Jurčo
 Matej Kazár
 Matej Korvín
+Matej Kristín
 Matej Landl
 Matej Landl ml.
 Matej Ružička
@@ -92643,6 +92718,7 @@ Michal Milan Harminc
 Michal Miloslav Hodža
 Michal Mudroň
 Michal Murin
+Michal Polák (hudobník)
 Michal Polák (novinár)
 Michal Tillner
 Michal Toporcer
@@ -93157,6 +93233,7 @@ Miroslav Stević
 Miroslav Tyrš
 Miroslav Vanko
 Miroslav Válek
+Miroslav Zounar
 Miroslav Úradník
 Miroslav Číž
 Miroslav Đukić
@@ -93753,6 +93830,7 @@ Mountfield HK
 Mountlake Terrace
 Mourad Melki
 Mouron
+Mousseaux-sur-Seine
 Moussy-Verneuil
 Moustérien
 Mouth to Mouth
@@ -93950,6 +94028,7 @@ Mute Records
 Mutio Vitelleschi
 Mutiu Adepoju
 Mutsu (bojová loď)
+Muttersholtz
 Mutácia
 Mutěnice (okres Strakonice)
 Muzeálna slovenská spoločnosť
@@ -94253,6 +94332,7 @@ NGC 2653
 NGC 2722
 NGC 2736
 NGC 2737
+NGC 2743
 NGC 2757
 NGC 2784
 NGC 2899
@@ -94268,6 +94348,7 @@ NGC 3230
 NGC 3293
 NGC 3372
 NGC 3496
+NGC 3524
 NGC 3560
 NGC 3576
 NGC 3603
@@ -95308,6 +95389,7 @@ Nicky Hopkins
 Nico Lamponi
 Nico Schulz
 Nico Van Kerckhoven
+Nicodemus Tessin mladší
 Nicolaas Bloembergen
 Nicolae Ceauşescu
 Nicolas Anelka
@@ -97184,6 +97266,7 @@ Osiník
 Oskar Nedbal
 Oskava (okres Šumperk)
 Oskorušová ulica (Bratislava)
+Oskovec
 Oslavice
 Oslavička
 Oslip
@@ -102624,6 +102707,7 @@ Petula Clark
 Petzvalova ulica (Bratislava)
 Petöfiho ulica (Bratislava)
 Petőfiho literárne múzeum
+Petőfiszállás
 Petřvald (okres Nový Jičín)
 Petřín
 Petřínska rozhľadňa
@@ -102756,6 +102840,7 @@ Piata križiacka výprava
 Piata ulica (Bratislava)
 Piatok
 Piaty Beatle
+Piazzali
 Picasa
 Piccadilly Line
 Pichne
@@ -105279,6 +105364,7 @@ Radvaň
 Radvaň (Banská Bystrica)
 Radvaň nad Dunajom
 Radón
+Radónové riziko
 Radějovice (okres Strakonice)
 Radňoves
 Radňovice
@@ -105447,6 +105533,7 @@ Rapotice
 Rapotín (okres Šumperk)
 Rapošov park
 Rapture of the Deep
+Raquel Kopsová-Jonesová
 Raquel Welch
 Rarities (album The Beatles, 1978)
 Rarities (album The Beatles, 1980)
@@ -106681,6 +106768,7 @@ Rota (vojenská jednotka)
 Rotačná perióda
 Rotenturm an der Pinka
 Rothad zo Soissons
+Rotherens
 Rothov dom
 Rotorua (sopka)
 Rottenacker
@@ -106704,6 +106792,7 @@ Roussines (Indre)
 Routledge
 Routot (kantón)
 Rouville (Oise)
+Rouvres-en-Woëvre
 Rouvroy (kantón)
 Rovensko (okres Šumperk)
 Rovečné
@@ -108587,6 +108676,7 @@ Saint-Fréjoux
 Saint-Gaudens
 Saint-Gaultier (kantón)
 Saint-Gelven
+Saint-Georges (Cantal)
 Saint-Georges-de-Montclard
 Saint-Georges-du-Vièvre (kantón)
 Saint-Georges-sur-Loire (kantón)
@@ -110104,6 +110194,7 @@ Skupenské teplo varu
 Skupenstvo
 Skupina
 Skupina A
+Skupina Alinda
 Skupina Amor
 Skupina Apollo
 Skupina Aten
@@ -112903,6 +112994,7 @@ Syslia ulica
 Systemizácia
 Systém názvov domén
 Systém relatívnej väčšiny
+Systém sociálneho kreditu
 Systém živých organizmov
 Systémová jednotka
 Systémový lupus erythematodes
@@ -113227,6 +113319,7 @@ Tajmuraz Salkazanov
 Tajná služba
 Tajné manželstvo
 Tajomná vražda na Manhattane
+Tajomstvo (informácia)
 Tajomstvo (opera)
 Tajomstvo alchymistu Storitza
 Tajov
@@ -115642,6 +115735,7 @@ Turingova cena
 Turingova úplnosť
 Turistická ulica (Bratislava)
 Turistická značka
+Turistická značkovaná trasa číslo 2405
 Turistické značenie
 Turistika
 Turkestan
@@ -117051,6 +117145,7 @@ Veľká ľadová priepasť
 Veľká Žomboj
 Veľké Biele pleso
 Veľké Borové
+Veľké Držkovce
 Veľké Dvorany
 Veľké Hincovo pleso
 Veľké Kosihy
@@ -117341,6 +117436,7 @@ Villamblard (kantón)
 Villamblard (obec)
 Villanovská kultúra
 Villard-Sallet
+Ville-la-Grand
 Ville-sur-Cousances
 Villebon-sur-Yvette (kantón)
 Villecresnes (kantón)
@@ -118422,6 +118518,7 @@ Věžovatá Pláně
 Vŕbová ulica (Banská Bystrica)
 Vŕbová ulica (Bratislava)
 Vŕšok (vrch v Slovenskom krase)
+Vřesovice (okres Hodonín)
 Všeobecná deklarácia ľudských práv
 Všeobecná teória relativity
 Všeobecná úverová banka
@@ -120108,6 +120205,7 @@ Zoznam hviezd podľa súhvezdia
 Zoznam hviezd s planétami
 Zoznam internetových domén najvyššej úrovne
 Zoznam inváznych druhov na Slovensku
+Zoznam iných liečiv respiračného systému
 Zoznam jaskýň a priepastí v Slovenskom krase
 Zoznam jazykov
 Zoznam jazykov podľa počtu hovoriacich
@@ -120146,6 +120244,7 @@ Zoznam kultúrnych pamiatok v Rajeckých Tepliciach
 Zoznam kultúrnych pamiatok v Ružomberku
 Zoznam kultúrnych pamiatok v Sobranciach
 Zoznam kultúrnych pamiatok v Starej Ľubovni
+Zoznam kultúrnych pamiatok v obci Bartošova Lehôtka
 Zoznam kultúrnych pamiatok v obci Belá (okres Žilina)
 Zoznam kultúrnych pamiatok v obci Beňatina
 Zoznam kultúrnych pamiatok v obci Beša (okres Levice)
@@ -120709,6 +120808,7 @@ Zoznam po francúzsky píšucich spisovateľov
 Zoznam podchodov a nadchodov v Bratislave
 Zoznam politických článkov/B
 Zoznam politických článkov/O
+Zoznam politických článkov/T
 Zoznam polopravidelných premenných hviezd
 Zoznam poslancov NR SR (1992 – 1994)
 Zoznam poslancov NR SR (1994 – 1998)
@@ -121360,6 +121460,7 @@ záclonová tyč
 Ávila
 Ázijsko-tichomorská hospodárska spolupráca
 Ázijská basketbalová federácia
+Ázijská futsalová konfederácia
 Ázijská hádzanárska federácia
 Ázijská kvalifikácia na Majstrovstvá sveta v hádzanej mužov 1978
 Ázijská kvalifikácia na Majstrovstvá sveta v hádzanej mužov 1982

@@ -58,36 +58,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Regionaltog kollideret frontalt på Holstebro station
-Elo Tostenæs
-Gyvel (flertydig)
-Serekunda
-Gyeongju
-I familie
-Hohenfelde (Kreis Plön)
-Diego Valverde Villena
-Ceciliefeltet
-Michio Yasuda
-Mairis Briedis
-Tau-kors
-Slesvigsk Gest
-Marianne Löfgren
-Arley Dinas
-Mellem venner
-14. etape af Giro d'Italia 2023
-Luga (by)
-Yohann Diniz
-Rust (flertydig)
-Trefemtedelsklausulen
-Ærværdighed
-Kærlighed på film
-Klak
-Regelbau
-Boeing 747
-Bremer Vulkan
-Slættaratindur
-Foldby Kirke
-Ibiza
+Issah Abdoulaye Salou
+Battery Park City
+Missing (film fra 1918)
+Erfurt
+Paletten (Viborg)
+Toshio Shimakawa
+Deget
+Sorin Matei
+Aureole
+Ungdomskultur
+Bride of the Monster
+Johan af Brienne
+Zaki
+Metropol
+Christianeum
+John Barry
+Hans Christian Nielsen
+Løgumkloster Højskole
+Shapley-Shubiks model for forhandlingsvægt
+Witold Gombrowicz
+Benjamin Prentiss
+Tuf
+Legetøjsmuseet (Nykøbing Falster)
+Tønder Kommune
+Nguyễn Tuấn Anh
+Grundfrekvens
+École nationale des ponts et chaussées
+Capriccio
+Vilhelm Helweg-Larsen
+Stubben (Lauenburg)
 "Animal" (Conor Maynard sang)
 "Animal" (Def Leppard sang)
 "Animal" (Fuck Like a Beast)
@@ -333,6 +333,7 @@ Ibiza
 14. arrondissement i Paris
 14. august
 14. december
+14. etape af Giro d'Italia 2023
 14. februar
 14. januar
 14. juli
@@ -3987,6 +3988,7 @@ Apartheid
 Apeldoorn
 Apertura 2015 Copa MX
 Aperture Hand Lab
+Apetina
 Aphelium
 Aphex Twin
 Apley Castle
@@ -4270,6 +4272,7 @@ Arlene Fowler
 Arlene Francis
 Arlene Harris
 Arles
+Arley Dinas
 Arlington (Texas)
 Arlington National Cemetery
 Arlon
@@ -7926,6 +7929,7 @@ Brekstad
 Breland Station
 Bremen
 Bremen-Verden
+Bremer Vulkan
 Brenchley
 Brenda Chapman
 Brenda Walsh
@@ -8189,6 +8193,7 @@ Brooklyn (film)
 Brooklyn College
 Brooklyn Heights
 Brooklyn Museum
+Brooks (skib, 1781)
 Brooks Wackerman
 Brookside (Delaware)
 Brotherhood of Man
@@ -9682,6 +9687,7 @@ Cecil Rhodes
 Cecil Taylor
 Cecilia Bartoli
 Cecilia Grubbström
+Ceciliefeltet
 Cedar Rapids
 Cedric Beullens
 Cedric Hardwicke
@@ -12007,6 +12013,7 @@ DM i håndbold (kvinder)
 DM i håndbold (mænd)
 DM i ishockey
 DM i ishockey for kvinder
+DM i landevejscykling 2001
 DM i landevejscykling 2022 – Linjeløb (herrer)
 DN.se
 DNA-profil
@@ -13934,6 +13941,7 @@ Diego Ramos
 Diego Rosa
 Diego Schwartzman
 Diego Ulissi
+Diego Valverde Villena
 Diemen
 Diemut Theato
 Diencephalon
@@ -15962,6 +15970,7 @@ Elmer Ottis Wooton
 Elmley Castle (borg)
 Elmo Lincoln
 Elmotor
+Elo Tostenæs
 Elodie Keene
 Elongation
 Elsdon Castle
@@ -18333,6 +18342,7 @@ Flødebolle
 Fløjlsrevolutionen
 Fløjspiller
 Fløjte
+Fløjten
 Fløng Sogn
 Fobos. Klub strakha
 Focus Features
@@ -18591,6 +18601,7 @@ Fokker F27
 Fold (afkast)
 Fold (indelukke)
 Fold Zandura
+Foldby Kirke
 Folgore Falciano Calcio
 Folk og røvere i Kardemomme by
 Folk rock
@@ -18796,6 +18807,7 @@ Forløb
 Formand for Repræsentanternes Hus
 Formanden for Repræsentanternes Hus
 Formel 1
+Formel 1 2023
 Formel B
 Formiddag
 Formænd for Knesset
@@ -22068,6 +22080,7 @@ Grundlæggende SI-enheder
 Grundset Station
 Grundsetmoen Station
 Grundskole
+Grundspil
 Grundstensnedlæggelsen ved Gustav Adolphs Kirke
 Grundstof
 Grundtvig
@@ -22417,6 +22430,7 @@ Gwich'in
 Gwilym Lloyd George, 1. Viscount Tenby
 Gwyneth Paltrow
 Gyde Jørgensen
+Gyeongju
 Gyges
 Gyland Station
 Gylden-Aaret
@@ -22437,6 +22451,7 @@ Gyroskop
 Gyserfilm
 Gytha Ogg
 Gyula Bihari
+Gyvel (flertydig)
 Gyömrő
 György Kurtág
 György Ligeti
@@ -24345,6 +24360,7 @@ Hof van Twente
 Hogfather (film)
 Hogs of war
 Hohenems
+Hohenfelde (Kreis Plön)
 Hohmann transfer bane
 Hohokam
 Hoke County
@@ -25136,6 +25152,7 @@ Hæge Follegg Pedersen
 Hæk (maritim)
 Hængning
 Hærhjemmeværnet
+Hærup Sø
 Hærværk
 Hæveautomat
 Hævelse (medicinsk)
@@ -25288,6 +25305,7 @@ I blodet
 I den syvende himmel
 I en Klasse for sig selv
 I faderens navn
+I familie
 I kamp for kvinden
 I kan ikke slå os ihjel
 I kongens klær
@@ -27848,6 +27866,7 @@ JoAnne Sellar
 Joachim Asmussen
 Joachim B. Olsen
 Joachim Björklund
+Joachim Bäse
 Joachim Dalsass
 Joachim Frederik Schouw
 Joachim Löw
@@ -28033,6 +28052,7 @@ Johann Georg Adam Forster
 Johann Georg Gmelin
 Johann Georg Hagen
 Johann Georg Hamann
+Johann Georg Jacobi
 Johann Georg Lehmann
 Johann Gerhard König
 Johann Gottfried Grund
@@ -28770,6 +28790,7 @@ Jordskælv
 Jordskælvet i Det Indiske Ocean 2004
 Jordskælvet i Guayas 2023
 Jordskælvet i Haiti 2010
+Jordskælvet i Taiwan 1935
 Jordskælvet i Tyrkiet og Syrien 2023
 Jordskælvet i det indiske ocean 2004
 Jordstængel
@@ -31354,6 +31375,7 @@ Krautrock
 Kreationisme
 Kreativ industri
 Krebsdyr
+Krebsen (stjernetegn)
 Kredit
 Kreditkort
 Kreditoplysningsbureau
@@ -31616,6 +31638,7 @@ Kunst
 Kunstakademiet
 Kunstakademiet i Dresden
 Kunsten at græde i kor (film)
+Kunstens Tornevej
 Kunstfilm
 Kunstforeningen
 Kunsthal Aarhus
@@ -31846,6 +31869,7 @@ Kær Herred (Slesvig)
 Kære Irene
 Kærlighed
 Kærlighed og Tømmermænd
+Kærlighed på film
 Kærlighedens køtere
 Kærlighedens melodi
 Kærlighedens smerte
@@ -34342,6 +34366,7 @@ Lufttom
 Luftvåben
 Luftwaffe
 Luftwaffe (Wehrmacht)
+Luga (by)
 Luhansk
 Luigi Ciriaco de Mita
 Luigi Dallapiccola
@@ -35043,6 +35068,7 @@ Mainframe
 Mainstream Top 40
 Mainz 05
 Mairead Maguire
+Mairis Briedis
 Maisie Richardson-Sellers
 Maitland (New South Wales)
 Maj-Gøgeurt
@@ -35763,6 +35789,7 @@ Marianne Faithfull
 Marianne Fredriksson
 Marianne Jelved
 Marianne Jørgensen
+Marianne Löfgren
 Marianne Vind
 Mariano Lagasca y Segura
 Mariano del Amo y Mora
@@ -36748,6 +36775,7 @@ Melissa Wu
 Melle Mel
 Mellem de yderste Skær
 Mellem hav og fjord
+Mellem venner
 Mellemamerika
 Mellemistiden
 Mellemkrigstiden
@@ -37321,6 +37349,7 @@ Michigan State University
 Michihiro Ozawa
 Michihiro Tsuruta
 Michio Suzuki
+Michio Yasuda
 Michèle Morgan
 Mick Avory
 Mick Harris
@@ -37548,6 +37577,7 @@ Milan Milutinović
 Milan Nikolić
 Milan Petržela
 Milan Škriniar
+Milana Tasjenova
 Milanković-cykler
 Milano
 Milano-Sanremo 2013
@@ -38800,6 +38830,7 @@ Mågefugle
 Måldrone
 Målebordsblad
 Måleenheder
+Måleglas
 Målmand (fodbold)
 Målmandstræner
 Måløv Boldklub
@@ -38841,6 +38872,7 @@ Mörbyfjärden
 Mötley Crüe
 Møbel
 Møbelringen Cup 2012
+Mød mig i St. Louis
 Mødding
 Møgelø
 Møkkamann
@@ -41404,6 +41436,7 @@ Omroep Flevoland
 Omroep Gelderland
 Omroep West
 Omroep Zeeland
+Omron Corporation Handball Team
 Omrop Fryslân
 Omstigning til Paradis
 Omsætning
@@ -42100,6 +42133,7 @@ Ov Hell
 Ovartaci - Kunstner på psykiatrisk hospital
 Ove Andersen (fodboldspiller)
 Ove Fich
+Ove Rodes Plads
 Ove Rostrup
 Ove Sprogøe
 Ove Verner Hansen
@@ -42702,6 +42736,7 @@ Parson Russell-terrier
 Parsons The New School for Design
 Part Lies, Part Heart, Part Truth, Part Garbage 1982–2011
 Partherriget
+Parti af Østerbro i morgenbelysning
 Partia
 Partick Thistle F.C.
 Partido Comunista de los Trabajadores Portugueses / Movimiento Reorganizativo del Partido del Proletariado
@@ -43375,6 +43410,7 @@ Peleus
 Pelham Aldrich
 Pelle Almqvist
 Pelle Erobreren (film)
+Pelle politibil går i vannet
 Pelleas
 Peloponnes
 Peloponnesiske Krig
@@ -44131,6 +44167,7 @@ Pirol
 Pirton (Hertfordshire)
 Pisces-Cetus superhobkomplekset
 Piscinas
+Piscis
 Pisel
 Pisidia
 Pistol
@@ -46078,6 +46115,7 @@ Refshaleøen
 Refuge UK
 Regan Vest
 Regel nr. 1
+Regelbau
 Regency Enterprises
 Regeneron
 Regenskirken
@@ -46119,6 +46157,7 @@ Region Sjælland
 Region Syddanmark
 Regionale Tv-kanaler i Nederlandene
 Regionaltog
+Regionaltog kollideret frontalt på Holstebro station
 Regioner i Tjekkiet
 Regis Philbin
 Regis Toomey
@@ -46153,6 +46192,7 @@ Reinhold Bocklet
 Reinhold Gliere
 Reinkarnation
 Reinunga Station
+Rejsby
 Rejse
 Rejsen til Jordens Indre
 Rejsen til Saturn (film)
@@ -47775,6 +47815,7 @@ Russiske pokalturnering 2015-16
 Russiske rubler
 Russiske specialstyrker (Spetsnaz)
 Russofobi
+Rust (flertydig)
 Rusty Hamer
 Ruta Lee
 Rutaceae
@@ -49192,6 +49233,7 @@ Serbiske pokalturnering 2014-15
 Serbiske pokalturnering 2015-16
 Serchio
 Serdiana
+Serekunda
 Seremban
 Serena Williams
 Serenade
@@ -50489,6 +50531,7 @@ Slesvig Domkirke
 Slesvig by
 Slesvig-Flensborg
 Slesvig-Holsten
+Slesvigsk Gest
 Slesvigsk Parti
 Slette
 Slice
@@ -50567,6 +50610,7 @@ Slægt (biologi)
 Slægt (genealogi)
 Slægten (film fra 1978)
 Slættagærde
+Slættaratindur
 Sløjd
 Sløret syn
 Smack That (sang)
@@ -51713,6 +51757,7 @@ Staten Island
 Staten Washington
 Statens Arkiver
 Statens Humanistiske Forskningsråd
+Statens Husholdningsråd
 Statens Jordlovsudvalg
 Statens Kunstfond
 Statens Kunstråd
@@ -51856,6 +51901,7 @@ Stemmeskuespiller
 Stempel (præg)
 Sten Kaalø
 Stenbræk-familien
+Stenderup
 Stenderup (Gelting)
 Stenderup (Toftlund Sogn)
 Stenderup Skovene
@@ -52037,6 +52083,7 @@ Stevie Ray Vaughan
 Stevie Wonder
 Stevie Young
 Stevning
+Stevns
 Stewardson Brown
 Stewart Copeland
 Stewart Downing
@@ -53749,6 +53796,7 @@ Tatsuya Yasuda
 Tattershall Castle (Lincolnshire)
 Tatu Vanhanen
 Tatum O'Neal
+Tau-kors
 Tau-paladset
 Taunton Castle
 Taunus
@@ -55151,6 +55199,7 @@ The Return of Chef
 The Return of Swamp Thing
 The Revenant
 The Rhodes Not Taken
+The Rhonda Harris
 The Rhythm Within
 The Ricky Gervais Show (animated series)
 The Rise
@@ -56819,6 +56868,7 @@ Tredje person
 Tredjegenerationsdatamat
 Treehouse of Horror XII
 Treenigheden
+Trefemtedelsklausulen
 Trefork
 Trek-Segafredo
 Trekroner (ø)
@@ -58484,6 +58534,7 @@ Vagn Lundbye
 Vagt- og vogterhunde
 Vahe Tilbian
 Vahid Halilhodžić
+Vahliaceae
 Vaiana
 Vaidas Baumila
 Vaisenhus
@@ -61339,6 +61390,7 @@ Yoga (Janelle Monáe sang)
 Yoghurt
 Yogi Berra
 Yohan Cabaye
+Yohann Diniz
 Yoichiro Nambu
 Yoko Ono
 Yoko Ono/Plastic Ono Band
@@ -61850,6 +61902,7 @@ transistor
 Ærlighed
 Ærteblomstfamilien
 Ærteblomstordenen
+Ærværdighed
 Ærø Friskole
 Ærø Kommune
 Ærøskøbing
@@ -65979,6 +66032,7 @@ Apartheid
 Apeldoorn
 Apertura 2015 Copa MX
 Aperture Hand Lab
+Apetina
 Aphelium
 Aphex Twin
 Apley Castle
@@ -66913,6 +66967,7 @@ Aura (Miles Davis)
 Aurangzeb
 Aurelie Muller
 Aurelio Barrios Y Morales
+Aureole
 Aurillac
 Aurland
 Aurora (Colorado)
@@ -67925,6 +67980,7 @@ Batteri (elektricitet)
 Batteri (flertydig)
 Batteri (militær)
 Battersea
+Battery Park City
 Battle Stations (album)
 Battle of South Mountain
 Battle of the Little Bighorn reenactment
@@ -70010,6 +70066,7 @@ BrickFest
 Brickfilm
 Brickfête
 Brickworld
+Bride of the Monster
 Brides of Destruction
 Bridge Across Forever
 Bridge of Spies (film)
@@ -70183,6 +70240,7 @@ Brooklyn (film)
 Brooklyn College
 Brooklyn Heights
 Brooklyn Museum
+Brooks (skib, 1781)
 Brooks Wackerman
 Brookside (Delaware)
 Brotherhood of Man
@@ -71242,6 +71300,7 @@ Capitol Theatre
 Capitol Theatre, Sydney
 Capote (film)
 Caprica
+Capriccio
 Captain America: Civil War
 Captain America: The Winter Soldier
 Captain Beefheart
@@ -72572,6 +72631,7 @@ Christiane F.
 Christiane Nusslein-Volhard
 Christiane Papon
 Christiane Scrivener
+Christianeum
 Christiani & Nielsen
 Christiania
 Christiania Sports Club
@@ -74002,6 +74062,7 @@ DM i håndbold (kvinder)
 DM i håndbold (mænd)
 DM i ishockey
 DM i ishockey for kvinder
+DM i landevejscykling 2001
 DM i landevejscykling 2022 – Linjeløb (herrer)
 DN.se
 DNA-profil
@@ -75060,6 +75121,7 @@ Defense of the Ancients
 Definitive Dubliners
 Deftones
 Defying Gravity
+Deget
 Degory Priest
 Dehesa
 Dehydrering
@@ -78409,6 +78471,7 @@ Eredivisie
 Eremitagesletten
 Eremitageslottet
 Erfoud
+Erfurt
 Erhard Jakobsen
 Erhard Milch
 Erhverv
@@ -80330,6 +80393,7 @@ Flødebolle
 Fløjlsrevolutionen
 Fløjspiller
 Fløjte
+Fløjten
 Fløng Sogn
 Fobos. Klub strakha
 Focus Features
@@ -80794,6 +80858,7 @@ Forløb
 Formand for Repræsentanternes Hus
 Formanden for Repræsentanternes Hus
 Formel 1
+Formel 1 2023
 Formel B
 Formiddag
 Formænd for Knesset
@@ -84056,6 +84121,7 @@ Grumman XF5F Skyrocket
 Grumman XP-50
 Grumtoft
 Grundfjeld
+Grundfrekvens
 Grundfør
 Grundlinje
 Grundlov
@@ -84066,6 +84132,7 @@ Grundlæggende SI-enheder
 Grundset Station
 Grundsetmoen Station
 Grundskole
+Grundspil
 Grundstensnedlæggelsen ved Gustav Adolphs Kirke
 Grundstof
 Grundtvig
@@ -84937,6 +85004,7 @@ Hans Burgeff
 Hans Christian Andersen
 Hans Christian Jensen (maler)
 Hans Christian Ley
+Hans Christian Nielsen
 Hans Christian Rømeling
 Hans Christian Ørsted
 Hans Conried
@@ -87137,6 +87205,7 @@ Hæge Follegg Pedersen
 Hæk (maritim)
 Hængning
 Hærhjemmeværnet
+Hærup Sø
 Hærværk
 Hæveautomat
 Hævelse (medicinsk)
@@ -88448,6 +88517,7 @@ Israelske arabere
 Israelske bosættelser
 Israelske medier
 Israel–Libanon-krisen 2006
+Issah Abdoulaye Salou
 Issehoved
 Isshelf
 Issy-les-Moulineaux
@@ -89850,6 +89920,7 @@ JoAnne Sellar
 Joachim Asmussen
 Joachim B. Olsen
 Joachim Björklund
+Joachim Bäse
 Joachim Dalsass
 Joachim Frederik Schouw
 Joachim Löw
@@ -90004,6 +90075,7 @@ Johan Sarauw
 Johan Theodor Holmskjold
 Johan Thimm Rasmussen
 Johan Wiland
+Johan af Brienne
 Johan de Witt
 Johan uden Land
 Johan Ångström
@@ -90035,6 +90107,7 @@ Johann Georg Adam Forster
 Johann Georg Gmelin
 Johann Georg Hagen
 Johann Georg Hamann
+Johann Georg Jacobi
 Johann Georg Lehmann
 Johann Gerhard König
 Johann Gottfried Grund
@@ -90137,6 +90210,7 @@ John Ball (Politiker)
 John Bardeen
 John Barrasso
 John Barrow
+John Barry
 John Barry (filmkomponist)
 John Barrymore
 John Barth
@@ -90772,6 +90846,7 @@ Jordskælv
 Jordskælvet i Det Indiske Ocean 2004
 Jordskælvet i Guayas 2023
 Jordskælvet i Haiti 2010
+Jordskælvet i Taiwan 1935
 Jordskælvet i Tyrkiet og Syrien 2023
 Jordskælvet i det indiske ocean 2004
 Jordstængel
@@ -93356,6 +93431,7 @@ Krautrock
 Kreationisme
 Kreativ industri
 Krebsdyr
+Krebsen (stjernetegn)
 Kredit
 Kreditkort
 Kreditoplysningsbureau
@@ -93618,6 +93694,7 @@ Kunst
 Kunstakademiet
 Kunstakademiet i Dresden
 Kunsten at græde i kor (film)
+Kunstens Tornevej
 Kunstfilm
 Kunstforeningen
 Kunsthal Aarhus
@@ -94617,6 +94694,7 @@ Legal Defense Network
 Leganés
 Legendary Pictures
 Legering
+Legetøjsmuseet (Nykøbing Falster)
 Legia Warszawa
 Legion of Honour
 Legitimation
@@ -96632,6 +96710,7 @@ Løgkuppel
 Løgnedetektor
 Løgstør Idrætsforening
 Løgstør Open Air
+Løgumkloster Højskole
 Løgumklosterkredsen
 Løjtnant
 Løjtnant Hubert Gruber
@@ -99048,6 +99127,7 @@ Metro-Goldwyn-Mayer cartoon studio
 MetroLyrics
 Metrolyrics
 Metronom
+Metropol
 Metropolis (Superman)
 Metropolis (film)
 Metropolis: Suite I (The Chase)
@@ -99556,6 +99636,7 @@ Milan Milutinović
 Milan Nikolić
 Milan Petržela
 Milan Škriniar
+Milana Tasjenova
 Milanković-cykler
 Milano
 Milano-Sanremo 2013
@@ -99809,6 +99890,7 @@ Miss Peregrine's Home for Peculiar Children (film)
 Miss Piggy
 Missil
 Missing
+Missing (film fra 1918)
 Missing Persons
 Mission District (San Francisco)
 Mission: Impossible
@@ -100808,6 +100890,7 @@ Mågefugle
 Måldrone
 Målebordsblad
 Måleenheder
+Måleglas
 Målmand (fodbold)
 Målmandstræner
 Måløv Boldklub
@@ -100849,6 +100932,7 @@ Mörbyfjärden
 Mötley Crüe
 Møbel
 Møbelringen Cup 2012
+Mød mig i St. Louis
 Mødding
 Møgelø
 Møkkamann
@@ -101884,6 +101968,7 @@ Nguyen Cao Ky
 Nguyen Hue
 Nguyen Ngoc Tho
 Nguyen Van Thieu
+Nguyễn Tuấn Anh
 Nguyễn Tấn Dũng
 Nguyễn Văn Thiệu
 Nguyễn-dynastiet
@@ -103412,6 +103497,7 @@ Omroep Flevoland
 Omroep Gelderland
 Omroep West
 Omroep Zeeland
+Omron Corporation Handball Team
 Omrop Fryslân
 Omstigning til Paradis
 Omsætning
@@ -104108,6 +104194,7 @@ Ov Hell
 Ovartaci - Kunstner på psykiatrisk hospital
 Ove Andersen (fodboldspiller)
 Ove Fich
+Ove Rodes Plads
 Ove Rostrup
 Ove Sprogøe
 Ove Verner Hansen
@@ -104337,6 +104424,7 @@ Paleocæn
 Palermo
 Palestine Liberation Organization
 Palestinian Motor Sport and Motorcycle Federation
+Paletten (Viborg)
 Paliet
 Palinurus
 Palisades Charter High School
@@ -104710,6 +104798,7 @@ Parson Russell-terrier
 Parsons The New School for Design
 Part Lies, Part Heart, Part Truth, Part Garbage 1982–2011
 Partherriget
+Parti af Østerbro i morgenbelysning
 Partia
 Partick Thistle F.C.
 Partido Comunista de los Trabajadores Portugueses / Movimiento Reorganizativo del Partido del Proletariado
@@ -105383,6 +105472,7 @@ Peleus
 Pelham Aldrich
 Pelle Almqvist
 Pelle Erobreren (film)
+Pelle politibil går i vannet
 Pelleas
 Peloponnes
 Peloponnesiske Krig
@@ -106139,6 +106229,7 @@ Pirol
 Pirton (Hertfordshire)
 Pisces-Cetus superhobkomplekset
 Piscinas
+Piscis
 Pisel
 Pisidia
 Pistol
@@ -108163,6 +108254,7 @@ Reinhold Bocklet
 Reinhold Gliere
 Reinkarnation
 Reinunga Station
+Rejsby
 Rejse
 Rejsen til Jordens Indre
 Rejsen til Saturn (film)
@@ -111384,6 +111476,7 @@ Shao Shun Ying
 Shape of My Heart (sang)
 Shape of You
 Shapefile
+Shapley-Shubiks model for forhandlingsvægt
 Shaquille O'Neal
 Sharabha
 Share Pedersen
@@ -113028,6 +113121,7 @@ Sorbonnes historie
 Sorel (Quebec)
 Sorgenfri Kirkegård
 Sorgenfri Sogn
+Sorin Matei
 Sorradile
 Sorrento
 Sorry to Bother You (film)
@@ -113727,6 +113821,7 @@ Staten Island
 Staten Washington
 Statens Arkiver
 Statens Humanistiske Forskningsråd
+Statens Husholdningsråd
 Statens Jordlovsudvalg
 Statens Kunstfond
 Statens Kunstråd
@@ -113870,6 +113965,7 @@ Stemmeskuespiller
 Stempel (præg)
 Sten Kaalø
 Stenbræk-familien
+Stenderup
 Stenderup (Gelting)
 Stenderup (Toftlund Sogn)
 Stenderup Skovene
@@ -114051,6 +114147,7 @@ Stevie Ray Vaughan
 Stevie Wonder
 Stevie Young
 Stevning
+Stevns
 Stewardson Brown
 Stewart Copeland
 Stewart Downing
@@ -114380,6 +114477,7 @@ Stuart Whitman
 Stuart Wilson
 Stubbekøbing
 Stubbekøbing Boldklub
+Stubben (Lauenburg)
 Stuck Mojo
 Stuckisme
 Studebaker Corporation
@@ -117166,6 +117264,7 @@ The Return of Chef
 The Return of Swamp Thing
 The Revenant
 The Rhodes Not Taken
+The Rhonda Harris
 The Rhythm Within
 The Ricky Gervais Show (animated series)
 The Rise
@@ -118560,6 +118659,7 @@ Toscana
 Tosh Van der Sande
 Toshihide Maskawa
 Toshinori Kondo
+Toshio Shimakawa
 Toshio Suzuki
 Toshiyuki Kosugi
 Tosproget
@@ -119995,6 +120095,7 @@ Ungdoms-VM i håndbold 2018 (kvinder)
 Ungdoms-VM i håndbold 2019 (mænd)
 Ungdoms-VM i håndbold 2020 (kvinder)
 Ungdoms-VM i håndbold 2021 (mænd)
+Ungdomskultur
 Ungdomsolympiske lege
 Ungdomsoprøret i Danmark
 Ungdomstrøjen (Giro d'Italia)
@@ -120500,6 +120601,7 @@ Vagn Lundbye
 Vagt- og vogterhunde
 Vahe Tilbian
 Vahid Halilhodžić
+Vahliaceae
 Vaiana
 Vaidas Baumila
 Vaisenhus
@@ -121288,6 +121390,7 @@ Vilhelm Beck
 Vilhelm Bissen
 Vilhelm Fischer (borgmester)
 Vilhelm Hammershøi
+Vilhelm Helweg-Larsen
 Vilhelm Henrik Harbou
 Vilhelm Henrik, hertug af Gloucester og Edinburgh
 Vilhelm Hvalsøe
@@ -122955,6 +123058,7 @@ Without Love
 Without Me (sang)
 Without Mercy (stumfilm fra 1925)
 Witkowo
+Witold Gombrowicz
 Witold Lutosławski
 Wittgenstein
 Witton Castle

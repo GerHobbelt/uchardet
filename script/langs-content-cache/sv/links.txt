@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Amber (bokserie)
-Chelonus transbaicalicus
-Balitora burmanica
-Orectanthe
-Bollmanella complicata
-Koreocobitis naktongensis
-Torvald Sachs
-Himerta rubiginosa
-Acrossus histrio
-Roquépine
-Ariadna hottentotta
-Eupheme (måne)
-Asplenium boydstoniae
-Platylabus duplificans
-Impatiens dewildeana
-Fastpartner
-Geographe Channel
-Kaito Yamamoto
-Janos (kommun)
-Taktshang
-Pterocactus megliolii
-Dinotrema flaviantenna
-Manohar Parrikar
-Acrocirrus crassifilis
-Tou Zhou
-Svart buskskvätta
-Xylocampa hyerensis
-Lepidagathis javanica
-Heterofragilia major
-Aglossosia deceptans
+Pardosa procurva
+Zapotalito
+Pseudipocragyes fruhstorferi
+Polymerus punctipes
+Barnard 59
+Platypalpus gesticulor
+Brosses
+Auxa dorsata
+Crataegus pomasae
+Syzygium globiflorum
+Sciomyza fulvescens
+New Hartley
+Mitella inami
+Camille Pelletan
+Massimo d'Azeglio
+Neoleria prominens
+Aloe juddii
+Duffyoemida
+Dendryphiopsis atra
+Skogsskötselsystem
+Laguna Cabildo
+Echium pabotii
+Wyoming, Iowa
+Fitzroy Falls Dam
+Charlotte, Michigan
+Western Academy of Beijing
+Atherimorpha villosissima
+Riverside Museum
+Agathosma virgata
+Anomala rubida
 "The Spaghetti Incident?"
 (Can't Get My) Head Around You
 (Everything I Do) I Do It for You
@@ -1395,9 +1395,11 @@ Acridoidea
 Acrisure Arena
 Acritus
 Acritus tuberisternus
+Acrocirrus crassifilis
 Acronicta
 Acronicta theodora
 Across America
+Acrossus histrio
 Act of Uniformity 1559
 Actaea podocarpa
 Actebia flavomaculata
@@ -1689,6 +1691,7 @@ Aggregationstillstånd
 Agincourt
 Agitation
 Aglaia
+Aglossosia deceptans
 Agne Hamrin
 Agnefit
 Agnelli
@@ -2836,6 +2839,7 @@ Ambassad
 Ambassadockupationen i Stockholm 1975
 Ambassador Theatre (New York)
 Ambassadör
+Amber (bokserie)
 Amber Liu
 Amber Neben
 Ambidextri
@@ -3986,6 +3990,7 @@ April, april
 Aprilskämt
 Apsil
 Apsil maculipennis
+Apudessiv
 Apulien
 Apurímac
 Aqtöbe (provins)
@@ -4144,6 +4149,7 @@ Argyrarcha margarita
 Ari Freyr Skúlason
 Ari da Silva Ferreira
 Aria – The Opera Album
+Ariadna hottentotta
 Arian Jagt
 Ariana Grande
 Ariane (raketserie)
@@ -4381,6 +4387,7 @@ Artemistemplet i Efesos
 Artenay
 Arter
 Artgrupp
+Arthrolytus maculipennis
 Arthropycnis
 Arthur (1981 film)
 Arthur - skakad, inte rörd
@@ -4571,6 +4578,7 @@ Asperen
 Asperö
 Aspiration (fonetik)
 Aspl.
+Asplenium boydstoniae
 Asplund, Norrtälje kommun
 Aspskär
 Assar Duregård
@@ -5393,6 +5401,7 @@ Balfourdeklarationen (1917)
 Balgarski barak
 Balgarsko gontje
 Balinplastare
+Balitora burmanica
 Balja (rymdmått)
 Balkan
 Balkan and Black Sea Regional Commission
@@ -7293,6 +7302,7 @@ Bollerups borg
 Bollhuset vid Slottsbacken
 Bollhusgränd
 Bollhusteatern
+Bollmanella complicata
 Bollnäs
 Bollnäs kommun
 Bollnäs socken
@@ -8689,6 +8699,7 @@ Calais-djungeln
 Calakmul
 Calama
 Calamba City
+Calamodes marina
 Calamomyia sexmaculata
 Calamonte (kommun)
 Calapan
@@ -8988,7 +8999,9 @@ Carentino
 Careproctus
 Careproctus credispinulosus
 Carex albonigra
+Carex boottiana
 Carex hultenii
+Carex purpureovaginata
 Carey Mulligan
 Carezzano
 Carhuasanta
@@ -9590,6 +9603,7 @@ Cephalispa fujianensis
 Cephalocarida
 Cephalocroton polygynus
 Cephalops navus
+Cephalops perkinsiellae
 Cephalothorax
 Ceramiche Mazzotti
 Ceratinia
@@ -10085,6 +10099,7 @@ Chelif Oued
 Chelles, Seine-et-Marne
 Chelonaplysilla erecta
 Chelonus flavoneavulus
+Chelonus transbaicalicus
 Chelsea (kommun)
 Chelsea FC
 Chelsea Flower Show
@@ -10564,6 +10579,7 @@ Chrysops sandyi
 Chrysotus
 Chrysotus soleatus
 Chrétien de Troyes
+Chu-chi
 Chuang Chih-yuan
 Chuck Berry
 Chuck D
@@ -10947,6 +10963,7 @@ Cluny
 Cluny – La Sorbonne (Paris metro)
 Clupeiformes
 Clupeomorpha
+Clusia immersa
 Clyde Franklin Reed
 Clyde Tombaugh
 Clyde, New York
@@ -11294,6 +11311,7 @@ Congress of Unions of Employees in the Public and Civil Services
 Coniobrevicolla
 Coniolo
 Coniopteryx plagiotropa
+Conioscinella emmesia
 Coniraya (krater)
 Conmebol
 Conn Iggulden
@@ -13518,6 +13536,7 @@ Dingxi
 Dino Bruni
 Dinosaur Planet
 Dinosaurier
+Dinotrema flaviantenna
 Diogmites esuriens
 Diogo Dalot
 Diogo de Silves
@@ -14525,6 +14544,7 @@ Ecatepec de Morelos
 Ecce Homo (konst)
 Ecce Homo (utställning)
 Ecdysozoa
+Echeveria compressicaulis
 Echichens
 Echidna
 Echininus nodulosus
@@ -14898,6 +14918,7 @@ Ekvatorialguinea i olympiska sommarspelen 2004
 Ekvatorn
 Ekängen, Linköpings kommun
 El Al
+El Alicante
 El Bayadh (provins)
 El Bruc
 El Brull (kommun)
@@ -16165,6 +16186,7 @@ Eupen
 Euphaea
 Euphaea amphicyana
 Euphaeidae
+Eupheme (måne)
 Euphoria (film)
 Euphoria (sång)
 Euphyia definita
@@ -16837,6 +16859,7 @@ Falköping
 Falköpings kommun
 Falköpings stad
 Falköpings tingsrätt
+Falköpings östra socken
 Fall (sång)
 Fall Out Boy
 Fall River, Massachusetts
@@ -16960,6 +16983,7 @@ Fastighetsanställdas Förbund
 Fastighetsmäklare
 Fastighetsregister
 Fastighetsskatt
+Fastpartner
 Fat (mått)
 Fat Joe
 Fate for Breakfast
@@ -20099,6 +20123,7 @@ Geografi
 Geografisk pol
 Geografiska koordinatsystem
 Geografiskt informationssystem
+Geographe Channel
 Geokichla
 Geolog
 Geologi
@@ -20807,6 +20832,7 @@ Goodison Park
 Goodluck Jonathan
 Goodnight, Irene
 Goodreads
+Goodyera colorata
 Google
 Google (sökmotor)
 Google Ads
@@ -23841,6 +23867,7 @@ Heteralonia
 Heteralonia angulata
 Heterodox
 Heterodoxi
+Heterofragilia major
 Heterokonta
 Heteronyx tristis
 Heteroplacidium
@@ -23946,6 +23973,7 @@ Hilton Crowther
 Himalaya
 Himango
 Himerta carinata
+Himerta rubiginosa
 Himlakropp
 Himlen kan vänta (film, 1978)
 Himmel
@@ -24669,6 +24697,7 @@ Hvozd
 Hwasa
 Hyacinthe Rigaud
 Hyaderna
+Hyalinothrix gracilis
 Hyalonema thomsonis
 Hyannis, Massachusetts
 Hyatt Hotels Corporation
@@ -25398,6 +25427,7 @@ Immunologi
 Imola
 Impasse
 Impatiens balansae
+Impatiens dewildeana
 Imperativ
 Imperative Entertainment
 Imperator
@@ -27165,6 +27195,7 @@ Janne Juhl
 Janne Möller
 Jannike Grut
 Janolus mucloc
+Janos (kommun)
 Jans Koerts
 Jansberg, Uppland
 Jansenism
@@ -27753,6 +27784,7 @@ Joan Miró
 Joan Pirkle
 Joan Sutherland
 Joan Vaux
+Joan av England
 Joan of Arc (1948)
 Joan of Arc (1999)
 Joan of Arc (olika betydelser)
@@ -28684,6 +28716,7 @@ Juicy Fruit (sång)
 Jukagir
 Jukebox (åkattraktion)
 Jukka Koskinen
+Jukka Mikkola
 Jukka Nevalainen
 Jukka Vastaranta
 Jul på Liseberg
@@ -29102,6 +29135,7 @@ Kailash Satyarthi
 Kailua-Kona
 Kairo
 Kaiserslautern
+Kaito Yamamoto
 Kaj Eskelinen
 Kaj Feilberg
 Kaj Ikast
@@ -30759,6 +30793,7 @@ Koreaner
 Koreanska
 Koreanska kalendern
 Koreocobitis
+Koreocobitis naktongensis
 Koreograf
 Korfu
 Korgblommiga växter
@@ -32545,6 +32580,7 @@ Laura Ingraham
 Laura Mohr
 Laurasien
 Laureana Wright de Kleinhans
+Lauren Brooke
 Lauren Holly
 Lauren Sánchez
 Laurence Fishburne
@@ -33019,6 +33055,7 @@ Lepanthes
 Lepanthes spruceana
 Lepetellidae
 Lepetelloidea
+Lepidagathis javanica
 Lepidium bidentatum
 Lepidocephalichthys
 Lepidocephalus
@@ -34209,6 +34246,7 @@ Litteraturkritiker
 Litteraturvetenskap
 Litteraturåret 1855
 Litteraturåret 1878
+Litteraturåret 1887
 Litteraturåret 1926
 Litteraturåret 1945
 Litteraturåret 1950
@@ -35207,6 +35245,7 @@ Lynx de Saint-Jean
 Lynyrd Skynyrd
 Lyon Grand Prix
 Lyon Olympique
+Lyrestads landskommun
 Lyrik
 Lyrikvännen
 Lysande blå variabel
@@ -36200,6 +36239,7 @@ Mannie Fresh
 Manningford
 Manny Charlton
 Mano Menezes
+Manohar Parrikar
 Manono flygplats
 Manowar
 Manresa
@@ -37662,6 +37702,7 @@ Messy Little Raindrops
 Mest värdefulla spelare
 Mesta mästarmötet
 Mestiser
+Mestobregma
 Mesut Özil
 Met-galan
 MetLife Stadium
@@ -42565,6 +42606,7 @@ Ore församling
 Ore socken
 Oreader
 Orechovo-Zujevo
+Orectanthe
 Oregon
 Oregonfördraget
 Orel (rymdfarkost)
@@ -43751,6 +43793,7 @@ Paulus
 Paulus brev
 Pavel Královec
 Pavel Nedvěd
+Pavel Petrov (längdskidåkare)
 Pavel Tonkov
 Pavetta axillipara
 Pavia
@@ -44277,6 +44320,7 @@ Pharrell
 Pharrell Williams
 Pharsalia truncatipennis
 Pharynx
+Phase-change memory
 Phasma gigas
 Phasmatidae
 Phelps County, Nebraska
@@ -44706,6 +44750,7 @@ Placocarpus
 Placopyrenium
 Placostegus assimilis
 Plafond
+Plagiodontia araeum
 Plagiognathus mineus
 Plagiognathus suffuscipennis
 Plagioklas
@@ -44763,6 +44808,7 @@ Platycaulos
 Platycaulos anceps
 Platygaster coronata
 Platygrapha
+Platylabus duplificans
 Platyoides
 Platyoides alpha
 Platyprosthiogyne moheliana
@@ -44813,6 +44859,7 @@ Plenario Intersindical de Trabajadores - Convención Nacional de Trabajadores
 Plenum
 Pleocomidae
 Pleonasm
+Plesetsk (kosmodrom)
 Plessisville (socken)
 Plessisville (stad)
 Pleurocyphoniscus
@@ -45953,6 +46000,7 @@ Ptereleotridae
 Ptereleotris
 Ptereleotris evides
 Pteridaceae
+Pterocactus megliolii
 Pterolebias
 Pterolebias phasianus
 Pterolophia secutoides
@@ -47293,6 +47341,7 @@ Rhyacophiloidea
 Rhymbomicrus
 Rhymes & Reasons
 Rhynchomeliola
+Rhynchostegium brachypterum
 Rhynchostoma
 Rhys Ifans
 Rhythm and blues
@@ -48243,6 +48292,7 @@ Roquemaure (kanton)
 Roquemaure, Gard
 Roquemaure, Quebec
 Roquencourt
+Roquépine
 Roraima
 Roraimamassivet
 Rorsman
@@ -52444,6 +52494,7 @@ Slätt
 Slävik
 Slåttermaskin
 Slåttjärnen (Sundsjö socken, Jämtland)
+Small (auktor)
 Small Soldiers
 Smallville
 Smalnarvar
@@ -52572,6 +52623,7 @@ So So Gay
 So Tonight That I Might See
 SoFo Records
 SoGK Charlo
+Sobralia caloglossa
 Sobremunt
 Social Democratic and Labour Party
 Social Distortion
@@ -52663,6 +52715,7 @@ Sol Niger Within
 Sol och vår
 Solana de los Barros (kommun)
 Solange Knowles
+Solanum dianthum
 Solanum lasiopodium
 Solar (sångare)
 Solaris (2002)
@@ -55176,6 +55229,7 @@ Svante Widén
 Svarog
 Svarozjitj
 Svart (hudfärg)
+Svart buskskvätta
 Svart dvärg
 Svart feminism
 Svart hål
@@ -56547,6 +56601,7 @@ Takht-i-Bahi
 Taki's Magazine
 Taklanternin
 Taktart
+Taktshang
 Taktslag per minut
 Taktstreck
 Takvåning
@@ -58928,6 +58983,7 @@ Tortyr
 Toru Kamikawa
 Torup
 Torvald Karlbom
+Torvald Sachs
 Torvald Tollgren
 Torvalla, Norrtälje kommun
 Torvhög
@@ -58951,6 +59007,7 @@ Totra
 Tottenham Hotspur
 Tottenham Hotspur FC
 Tottenham Hotspur Stadium
+Tou Zhou
 Touch (musikalbum av Laura Branigan)
 Touch Detective
 Touch the Sky
@@ -60794,6 +60851,7 @@ Uppehåll i myrlandet
 Uppehållstillstånd
 Uppenbarelseboken
 Uppenbarelsekyrkan, Hägersten
+Upper Basildon
 Upper East Side
 Upper House
 Upper Manhattan
@@ -64147,6 +64205,7 @@ Xixia
 Xochiatipan de Castillo
 Xochicalco
 Xochimilco
+Xylocampa hyerensis
 Xylocopa dimidiata
 Xylofon
 Xylophanes juanita
@@ -64480,6 +64539,7 @@ Zhang Ning
 Zhang Yimou
 Zhangjiagang
 Zhangye
+Zhaodi
 Zhejiang
 Zhichihuo yuanjiao
 Zhongxing
@@ -67184,6 +67244,7 @@ Agaricales
 Agaricomycetes
 Agarista chapadensis
 Agatha Christie
+Agathosma virgata
 Agelasta glabrofasciata
 Agence France-Presse
 Agence métropolitaine de transport
@@ -68171,6 +68232,7 @@ Almstriden
 Alnwick
 Alnön
 Aloe dominella
+Aloe juddii
 Aloha (film)
 Alois Estermann
 Alone in the Dark (film)
@@ -69180,6 +69242,7 @@ Annona (krater)
 Annorstädes vals
 Anolis inderenae
 Anolis singularis
+Anomala rubida
 Anomala tinctiventris
 Anonym
 Anonyma Alkoholister
@@ -69496,6 +69559,7 @@ April, april
 Aprilskämt
 Apsil
 Apsil maculipennis
+Apudessiv
 Apulien
 Apurímac
 Aqtöbe (provins)
@@ -69892,6 +69956,7 @@ Artemistemplet i Efesos
 Artenay
 Arter
 Artgrupp
+Arthrolytus maculipennis
 Arthropycnis
 Arthur (1981 film)
 Arthur - skakad, inte rörd
@@ -70245,6 +70310,7 @@ Athens olympiska stadion
 Athens, Georgia
 Athens, Ohio
 Atherigona huanshanensis
+Atherimorpha villosissima
 Atheriniformes
 Atheta divisa
 Athletic Bilbao
@@ -70484,6 +70550,7 @@ Auvergne
 Auvergne-Rhône-Alpes
 Auvers-le-Hamon
 Aux Deux Magots
+Auxa dorsata
 Auxerre
 Avalanchediod
 Avallon
@@ -71080,6 +71147,7 @@ Barn (musikalbum)
 Barna Hedenhös uppfinner julen
 Barnaba Oriani
 Barnarbete
+Barnard 59
 Barnbidrag
 Barnbåtarna
 Barne härad
@@ -73627,6 +73695,7 @@ Bror Lagercrantz
 Broskganoider
 Brossard
 Brossasco
+Brosses
 Broströmska stiftelsen
 Brother Isle
 Brotherhood of Railroad Signalmen
@@ -74203,6 +74272,7 @@ Calais-djungeln
 Calakmul
 Calama
 Calamba City
+Calamodes marina
 Calamomyia sexmaculata
 Calamonte (kommun)
 Calapan
@@ -74308,6 +74378,7 @@ Camilla Thulin
 Camille Claudel
 Camille Corot
 Camille Erlanger
+Camille Pelletan
 Camille Pissarro
 Camille Saint-Saëns
 Camillien Houde
@@ -74502,7 +74573,9 @@ Carentino
 Careproctus
 Careproctus credispinulosus
 Carex albonigra
+Carex boottiana
 Carex hultenii
+Carex purpureovaginata
 Carey Mulligan
 Carezzano
 Carhuasanta
@@ -75104,6 +75177,7 @@ Cephalispa fujianensis
 Cephalocarida
 Cephalocroton polygynus
 Cephalops navus
+Cephalops perkinsiellae
 Cephalothorax
 Ceramiche Mazzotti
 Ceratinia
@@ -75526,6 +75600,7 @@ Charlotte Luth
 Charlotte M. Taylor
 Charlotte Munck
 Charlotte Perrelli
+Charlotte, Michigan
 Charlotte, North Carolina
 Charlottenlund Travbane
 Charlottesville
@@ -76079,6 +76154,7 @@ Chrysops sandyi
 Chrysotus
 Chrysotus soleatus
 Chrétien de Troyes
+Chu-chi
 Chuang Chih-yuan
 Chuck Berry
 Chuck D
@@ -76462,6 +76538,7 @@ Cluny
 Cluny – La Sorbonne (Paris metro)
 Clupeiformes
 Clupeomorpha
+Clusia immersa
 Clyde Franklin Reed
 Clyde Tombaugh
 Clyde, New York
@@ -76809,6 +76886,7 @@ Congress of Unions of Employees in the Public and Civil Services
 Coniobrevicolla
 Coniolo
 Coniopteryx plagiotropa
+Conioscinella emmesia
 Coniraya (krater)
 Conmebol
 Conn Iggulden
@@ -77265,6 +77343,7 @@ Crash! Boom! Live!
 Crashdïet
 Crass
 Crassulaceae
+Crataegus pomasae
 Cratfield
 Cratyna
 Cratyna nigerrima
@@ -78607,6 +78686,7 @@ Dendrocoelidae
 Dendrocoelopsis
 Dendrocoelopsis americana
 Dendrokronologi
+Dendryphiopsis atra
 Dene-kaukasika språk
 Deng Xiaoping
 Denholm
@@ -79712,6 +79792,7 @@ Duett
 Duff McKagan
 Duffel, Belgien
 Duffy
+Duffyoemida
 Dufva i Västergötland
 Duhamel (Québec)
 Duhamel-Ouest
@@ -80041,11 +80122,13 @@ Ecatepec de Morelos
 Ecce Homo (konst)
 Ecce Homo (utställning)
 Ecdysozoa
+Echeveria compressicaulis
 Echichens
 Echidna
 Echininus nodulosus
 Echinostomida
 Echion
+Echium pabotii
 Echo & the Bunnymen
 Echo (musikalbum)
 Echoes: The Best of Pink Floyd
@@ -80414,6 +80497,7 @@ Ekvatorialguinea i olympiska sommarspelen 2004
 Ekvatorn
 Ekängen, Linköpings kommun
 El Al
+El Alicante
 El Bayadh (provins)
 El Bruc
 El Brull (kommun)
@@ -82354,6 +82438,7 @@ Falköping
 Falköpings kommun
 Falköpings stad
 Falköpings tingsrätt
+Falköpings östra socken
 Fall (sång)
 Fall Out Boy
 Fall River, Massachusetts
@@ -83221,6 +83306,7 @@ Fit as a Fiddle
 Fitchburg, Massachusetts
 Fittleton
 Fitz-James
+Fitzroy Falls Dam
 Fiume Freddo
 Five Flags Center
 Fivelstad
@@ -86326,6 +86412,7 @@ Goodison Park
 Goodluck Jonathan
 Goodnight, Irene
 Goodreads
+Goodyera colorata
 Google
 Google (sökmotor)
 Google Ads
@@ -90190,6 +90277,7 @@ Hvozd
 Hwasa
 Hyacinthe Rigaud
 Hyaderna
+Hyalinothrix gracilis
 Hyalonema thomsonis
 Hyannis, Massachusetts
 Hyatt Hotels Corporation
@@ -93276,6 +93364,7 @@ Joan Miró
 Joan Pirkle
 Joan Sutherland
 Joan Vaux
+Joan av England
 Joan of Arc (1948)
 Joan of Arc (1999)
 Joan of Arc (olika betydelser)
@@ -94207,6 +94296,7 @@ Juicy Fruit (sång)
 Jukagir
 Jukebox (åkattraktion)
 Jukka Koskinen
+Jukka Mikkola
 Jukka Nevalainen
 Jukka Vastaranta
 Jul på Liseberg
@@ -97650,6 +97740,7 @@ Lagtävlingen i fälttävlan i ridsport vid olympiska sommarspelen 2008
 Lagtävlingen i hoppning i ridsport vid olympiska sommarspelen 2000
 Lagtävlingen i hoppning i ridsport vid olympiska sommarspelen 2004
 Laguna (provins)
+Laguna Cabildo
 Laguna Salada (sjö i Mexiko, Baja California)
 Laguna de Bay
 Laguna de la Restinga nationalpark
@@ -98070,6 +98161,7 @@ Laura Ingraham
 Laura Mohr
 Laurasien
 Laureana Wright de Kleinhans
+Lauren Brooke
 Lauren Holly
 Lauren Sánchez
 Laurence Fishburne
@@ -99735,6 +99827,7 @@ Litteraturkritiker
 Litteraturvetenskap
 Litteraturåret 1855
 Litteraturåret 1878
+Litteraturåret 1887
 Litteraturåret 1926
 Litteraturåret 1945
 Litteraturåret 1950
@@ -100733,6 +100826,7 @@ Lynx de Saint-Jean
 Lynyrd Skynyrd
 Lyon Grand Prix
 Lyon Olympique
+Lyrestads landskommun
 Lyrik
 Lyrikvännen
 Lysande blå variabel
@@ -102466,6 +102560,7 @@ Massimeno
 Massimiliano Sforza
 Massimo Busacca
 Massimo Cellino
+Massimo d'Azeglio
 Massive Attack
 Massmedia
 Massmedia i Göteborg
@@ -103189,6 +103284,7 @@ Messy Little Raindrops
 Mest värdefulla spelare
 Mesta mästarmötet
 Mestiser
+Mestobregma
 Mesut Özil
 Met-galan
 MetLife Stadium
@@ -103900,6 +103996,7 @@ Misty Upham
 Mitanni
 Mitch McConnell
 Mitchelton–Scott
+Mitella inami
 Mithridates
 Mitla
 Mitokondrie
@@ -105998,6 +106095,7 @@ Neofuturism
 Neogastropoda
 Neohaemonia minnesotensis
 Neokonservatism
+Neoleria prominens
 Neolitikum
 Neolitiska revolutionen
 Neolitsea minor
@@ -106116,6 +106214,7 @@ New Girl
 New Glenn
 New Gold Dream (81-82-83-84)
 New Hampshire
+New Hartley
 New Haven County
 New Haven Eagles
 New Haven Eagles (1936–1943)
@@ -108873,6 +108972,7 @@ Parc des Princes
 Parc du Mont Royal
 Parc national de la Guadeloupe
 Pardasena punctata
+Pardosa procurva
 Parelasmopus albidus
 Parentes
 Pareto, Piemonte
@@ -109279,6 +109379,7 @@ Paulus
 Paulus brev
 Pavel Královec
 Pavel Nedvěd
+Pavel Petrov (längdskidåkare)
 Pavel Tonkov
 Pavetta axillipara
 Pavia
@@ -109805,6 +109906,7 @@ Pharrell
 Pharrell Williams
 Pharsalia truncatipennis
 Pharynx
+Phase-change memory
 Phasma gigas
 Phasmatidae
 Phelps County, Nebraska
@@ -110234,6 +110336,7 @@ Placocarpus
 Placopyrenium
 Placostegus assimilis
 Plafond
+Plagiodontia araeum
 Plagiognathus mineus
 Plagiognathus suffuscipennis
 Plagioklas
@@ -110294,6 +110397,7 @@ Platygrapha
 Platylabus duplificans
 Platyoides
 Platyoides alpha
+Platypalpus gesticulor
 Platyprosthiogyne moheliana
 Platå
 Platåberg
@@ -110342,6 +110446,7 @@ Plenario Intersindical de Trabajadores - Convención Nacional de Trabajadores
 Plenum
 Pleocomidae
 Pleonasm
+Plesetsk (kosmodrom)
 Plessisville (socken)
 Plessisville (stad)
 Pleurocyphoniscus
@@ -110581,6 +110686,7 @@ Polygonatum cirrhifolium
 Polygrip
 Polyhymnia
 Polyklorerade bifenyler
+Polymerus punctipes
 Polymorft pervers
 Polynesien
 Polyneuropati
@@ -111446,6 +111552,7 @@ Psaltarpsalm
 Psammophis subtaeniatus
 Pseodovetenskap
 Pseudactium arcuatum
+Pseudipocragyes fruhstorferi
 Pseudoaltruism
 Pseudocercospora pseudoeucalyptorum
 Pseudocrossidium granulosum
@@ -112823,6 +112930,7 @@ Rhyacophiloidea
 Rhymbomicrus
 Rhymes & Reasons
 Rhynchomeliola
+Rhynchostegium brachypterum
 Rhynchostoma
 Rhys Ifans
 Rhythm and blues
@@ -113195,6 +113303,7 @@ River Fromme
 Riverbank Arena
 Rivers
 Rivers Cuomo
+Riverside Museum
 Riviera (biograf)
 Riviera di Levante
 Riviera di Ponente
@@ -116345,6 +116454,7 @@ Science fiction-författare
 Scientific Memoirs
 Scientolog
 Scindapsus altissimus
+Sciomyza fulvescens
 Scipione Borghese
 Scissors Cut
 Sclaterkronduva
@@ -117615,6 +117725,7 @@ Skogskyrkogården
 Skogsmil
 Skogsmöss
 Skogsrået
+Skogsskötselsystem
 Skogstak
 Skogstjärnen (Töllsjö socken, Västergötland)
 Skogstundra
@@ -117975,6 +118086,7 @@ Slätt
 Slävik
 Slåttermaskin
 Slåttjärnen (Sundsjö socken, Jämtland)
+Small (auktor)
 Small Soldiers
 Smallville
 Smalnarvar
@@ -118103,6 +118215,7 @@ So So Gay
 So Tonight That I Might See
 SoFo Records
 SoGK Charlo
+Sobralia caloglossa
 Sobremunt
 Social Democratic and Labour Party
 Social Distortion
@@ -118194,6 +118307,7 @@ Sol Niger Within
 Sol och vår
 Solana de los Barros (kommun)
 Solange Knowles
+Solanum dianthum
 Solanum lasiopodium
 Solar (sångare)
 Solaris (2002)
@@ -121643,6 +121757,7 @@ Système universitaire de documentation
 Syzygium
 Syzygium caudatilimbum
 Syzygium finetii
+Syzygium globiflorum
 Syzygium lanceolarium
 Syzygium munronii
 Szabadfalu
@@ -126329,6 +126444,7 @@ Uppehåll i myrlandet
 Uppehållstillstånd
 Uppenbarelseboken
 Uppenbarelsekyrkan, Hägersten
+Upper Basildon
 Upper East Side
 Upper House
 Upper Manhattan
@@ -128969,6 +129085,7 @@ Westdeutscher Rundfunk
 Westerfield
 Westerlo
 Westermalms IF
+Western Academy of Beijing
 Western Australia
 Western Football League
 Western Hockey League
@@ -129620,6 +129737,7 @@ Wycombe Wanderers FC
 Wyoming
 Wyoming County, New York
 Wyoming County, Pennsylvania
+Wyoming, Iowa
 Wyomings guvernör
 Wyomissing
 Wängi
@@ -129978,6 +130096,7 @@ Zapatisterna
 Zaphne implicata
 Zapopan
 Zaporizjzjas kärnkraftverk
+Zapotalito
 Zapoteker
 Zara Larsson
 Zara Larssons diskografi
@@ -130016,6 +130135,7 @@ Zhang Ning
 Zhang Yimou
 Zhangjiagang
 Zhangye
+Zhaodi
 Zhejiang
 Zhichihuo yuanjiao
 Zhongxing

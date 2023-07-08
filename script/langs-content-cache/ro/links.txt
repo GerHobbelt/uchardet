@@ -57,36 +57,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Imaginaerum
-Vocea Basarabiei
-Cibaovți, Sofia
-Alexandru Hanzu
-Schenkenberg (Uckermark)
-Bosco
-Satteldorf
-Phytomyza gelida
-Zile de fior și râs
-Comuna Lișciîn
-Caracladus
-Geometria diferențială a curbelor
-Eastercon
-Raionul Berdeansk, Zaporijjea
-Comitatul Clear Creek, Colorado
-Bazilica San Clemente din Roma
-Cod ATC A02
-Casa Manta
-Arheologie subacvatică
-Attigny, Ardennes
-Comuna Recea-Cristur, Cluj
-Geraldine Page
-Pegomya bina
-Georghi R. Gongadze
-Emi Maeda
-Sfânta Veronica
-Nepenthes thorelii
-Bipiramidă decagonală
-Mădrigești, Arad
-Liriomyza flavocentralis
+Bronivka, Volociîsk
+Applause
+Grup de fântâni cu cumpănă din Tătaru
+Eichhorst (Mecklenburg)
+Patinaj artistic la Jocurile Olimpice de iarnă din 2022 - Perechi
+Urawa Red Diamonds
+Alfred Vail
+Comitatul Iosco, Michigan
+Drotaverină
+I Told You So (preluare de Carrie Underwood)
+Insulele Pakri
+Uedem
+Falga
+Weikersheim
+Oacadi
+Acid arahidic
+John Merivale
+Nemescu
+Anii 100 î.Hr.
+Alef
+Amiota nigrescens
+Lawson (autor)
+Biserica fortificată din Drăușeni
+Motovîlivska Slobidka, Fastiv
+Agricola Filip
+Leucoantocianidină
+Recife
+Les Authieux-du-Puits
+Comuna Șona, Alba
+Raków Częstochowa
 ''Sistemul politic''
 'Twas the Night
 (Academy of Motion Picture Arts and Sciences (AMPAS))
@@ -1412,6 +1412,7 @@ Liriomyza flavocentralis
 64th Academy Awards
 65 î.Hr.
 6539 Nohavica
+6596 Bittner
 65th Academy Awards
 66th Academy Awards
 67 î.Hr.
@@ -1493,6 +1494,7 @@ Liriomyza flavocentralis
 85 î.Hr.
 85179 Meistereckhart
 855 Newcombia
+8553 Bradsmith
 8555 Mirimao
 85th Academy Awards
 86 î.Hr.
@@ -2798,6 +2800,7 @@ Agriocnemis ruberrima ruberrima
 Agriș
 Agro Chirnogi
 Agromyza aristata
+Agromyza buhriella
 Agromyzidae
 Agron Preteni
 Agronomie
@@ -3474,6 +3477,7 @@ Alexandru Florescu
 Alexandru G. Golescu
 Alexandru Ghika
 Alexandru Groapă
+Alexandru Hanzu
 Alexandru Hodoș (ziarist)
 Alexandru I Aldea
 Alexandru I al Iugoslaviei
@@ -8078,6 +8082,7 @@ Babbie, Alabama
 Babe (film)
 Babe: Pig in the City
 Babel (film)
+Babele
 Babele (folclor)
 Babele, Munții Bucegi
 Babes in Arms
@@ -8965,6 +8970,7 @@ Bazenville
 Bazian
 Bazicourt
 Bazil Marian
+Bazilica San Clemente din Roma
 Bazilica Santa Croce din Florența
 Bazilica Sf. Clara (bazilicӑ în Neapole)
 Bazilica Sfântul Petru din Roma
@@ -10084,6 +10090,7 @@ Biotină
 Biotit
 Biotop
 Bioștiințe
+Bipiramidă decagonală
 Biquinhas
 Birac-sur-Trec
 Biran, Gers
@@ -11702,6 +11709,7 @@ Bosaj
 Bosaro
 Bosch
 Bosch (serial TV)
+Bosco
 Boscănată albă
 Boscănată neagră
 Bosdarros
@@ -14027,6 +14035,7 @@ Cantonul Embrun
 Cantonul Ermont
 Cantonul Fontainebleau
 Cantonul Fontenay-Trésigny
+Cantonul Frangy
 Cantonul Fribourg
 Cantonul Gannat
 Cantonul Geneva
@@ -14243,6 +14252,7 @@ Caracas
 Caracatița 3
 Caracatiță
 Caracatiță (ingredient pentru diverse feluri de mâncare)
+Caracladus
 Caracol (Haiti)
 Caracter chinez
 Caracteristicile fizice standard ale asteroizilor
@@ -14290,6 +14300,7 @@ Carbonita
 Carbonne
 Carboxizom
 Carcaboso
+Carcadiești, Vâlcea
 Carcagny
 Carcassonne
 Carceri
@@ -14815,6 +14826,7 @@ Casa Hintz din Cluj-Napoca
 Casa Ianov din Iași
 Casa Joseph Zoller din Iași
 Casa Köpeczi din Târgu Mureș
+Casa Manta
 Casa Matia din Cluj
 Casa Matia din Cluj-Napoca
 Casa Memorială „Constantin Negruzzi” din Trifești
@@ -17292,6 +17304,7 @@ Cianobacterie
 Cianură de sodiu
 Ciarda Roșie
 Ciarán Hinds
+Cibaovți, Sofia
 Cibi condimentum esse fames
 Ciboure
 Cicadellidae
@@ -18682,6 +18695,7 @@ Comitatul Clay, Iowa
 Comitatul Clay, Minnesota
 Comitatul Clay, Mississippi
 Comitatul Clayton, Iowa
+Comitatul Clear Creek, Colorado
 Comitatul Clearwater, Minnesota
 Comitatul Cleveland, Carolina de Nord
 Comitatul Clinton, Iowa
@@ -20001,6 +20015,7 @@ Comuna Litija
 Comuna Livezile, Timiș
 Comuna Lišane Ostrovičke
 Comuna Ližnjan
+Comuna Lișciîn
 Comuna Ljubešćica
 Comuna Ljubno
 Comuna Ljutomer
@@ -23109,6 +23124,7 @@ Cătălin Țîră
 Cătălina Buzoianu
 Cătălina Mihai
 Căutând-o pe Susan
+Cășăria, Neamț
 Cățelul Pat
 D'Urville Martin
 D-Sub
@@ -26812,6 +26828,7 @@ East of Eden (film)
 East of Suez (film)
 Eastbourne International
 Easter Parade (1948 film)
+Eastercon
 Eastern Conference (NHL)
 Eastern Promises
 Eastern Ridges and Lowlands
@@ -27735,6 +27752,7 @@ Emeric Lackfi
 Emeric Pressburger
 Emerson Electric Company
 Emerson Fittipaldi
+Emi Maeda
 Emigrant
 Emigrantul (film)
 Emil Boc
@@ -32708,6 +32726,7 @@ Geologia planetelor solare terestre
 Geologie
 Geolycosa hubbelli
 Geolycosa impudica
+Geometria diferențială a curbelor
 Geometrie
 Geometrie algebrică
 Geometrodinamică
@@ -32903,6 +32922,7 @@ Georgeta Stoica
 Georgeta Știrbu
 Georgetown
 Georgetown, Carolina de Sud
+Georghi R. Gongadze
 Georgi Asparuhov Stadium
 Georgia
 Georgia (stat american)
@@ -37672,6 +37692,7 @@ Ilustrator (profesie)
 Ilva Mică, Bistrița-Năsăud
 Imagenation Abu Dhabi
 Images (film)
+Imaginaerum
 Imaginary Friend (Star Trek: Generația următoare)
 Imagine
 Imagine Entertainment
@@ -39363,6 +39384,7 @@ Ivănești, Rîșcani
 Ixalotriton niger
 Ixodes
 Ixodes jacksoni
+Ixodes luciae
 Ixodes luxuriosus
 Ixodida
 Ixodidae
@@ -41136,6 +41158,7 @@ Juaye-Mondaye
 Jubeu
 Jubileul de Diamant a reginei Elisabeta a II-a
 Juche
+Jucikivți, Hmelnîțkîi
 Jucken
 Jucăriile (Star Trek: Generația următoare)
 Jucătoare de tenis
@@ -45558,6 +45581,7 @@ Liran Liany
 Lirceus usdagalun
 Lirey
 Lirio
+Liriomyza flavocentralis
 Liriomyza heringi
 Liră din Insulele Falkland
 Liră sterlină
@@ -45705,6 +45729,7 @@ Lista conducătorilor Republicii Populare Chineze
 Lista consolelor de jocuri video
 Lista cântecelor înregistrate de Christina Aguilera
 Lista câștigătorilor Australian Open (simplu feminin)
+Lista câștigătorilor French Open (dublu mixt)
 Lista câștigătorilor Marilor Premii de Formula 1
 Lista câștigătorilor Wimbledon (simplu feminin)
 Lista cărților științifico-fantastice publicate în România
@@ -51760,6 +51785,7 @@ Mel Gibson
 Melagatran
 Melanagromyza
 Melanagromyza bidenticola
+Melanagromyza normalis
 Melanagromyza olgae
 Melanagromyza senecionella
 Melanagromyza viridissima
@@ -54994,6 +55020,7 @@ Măcelar
 Măceș
 Măcin
 Măcărești, Alba
+Mădrigești, Arad
 Mădălina Drăghici
 Mădălina Ghițescu
 Măgdăcești, Criuleni
@@ -59998,6 +60025,7 @@ Pardines, Puy-de-Dôme
 Pardners
 Pardo
 Pardosa pusiola
+Pardosa shuangjiangensis
 Pareid
 Parent, Puy-de-Dôme
 Parental Guidance (film)
@@ -60737,6 +60765,7 @@ Peggy Sue Got Married
 Pegli
 Pegmatit
 Pegognaga
+Pegomya bina
 Pehart Tec Petrești
 Peigney
 Peikovți, Veliko Tărnovo
@@ -61622,6 +61651,7 @@ Physophorina livingstonii
 Physophorina miranda
 Phytoliriomyza tearohensis
 Phytomyza
+Phytomyza gelida
 Phytomyza himachali
 Phytomyza manni
 Phytomyza xanthocephala
@@ -61730,6 +61760,7 @@ Picături auriculare
 Picătură
 Picți
 Pidberezzea, Horohiv
+Pidhaiți, Pustomîtî
 Pidlisne, Litîn
 Pidlisți, Kremeneț
 Piedade de Caratinga
@@ -62284,6 +62315,7 @@ Pleiadele
 Pleistocen
 Plemberk
 Plenus venter non studet libenter
+Pleonasm
 Plerneuf
 Pleslin-Trigavou
 Plesnoy
@@ -63754,6 +63786,7 @@ Prima Ligă a Kârgâzstanului
 Prima Ligă a Serbiei și Muntenegrului
 Prima Ligă de Fotbal din Libia
 Prima Ligă de fotbal a Zambiei
+Prima Ligă de fotbal din Burundi
 Prima Ligă de fotbal din Guineea Ecuatorială
 Prima Ligă de fotbal din Lesotho
 Prima Ligă de fotbal din Liberia
@@ -64036,6 +64069,7 @@ Prințesa și bobul de mazăre
 Prințesă
 Prințesă Theresa de Bavaria (b. 1931)
 Prințul Adolphus, Duce de Cambridge
+Prințul Aimone, Duce de Aosta
 Prințul Albert Victor, Duce de Clarence și Avondale
 Prințul Alexander John de Wales
 Prințul Alfred al Marii Britanii
@@ -65411,6 +65445,7 @@ Quistello
 Quiz Show (film)
 Quo Vadis (1951 film)
 Quo vadis (roman)
+Quod erat demonstrandum
 Quod licet Iovi, non licet bovis
 Quod medicina aliis, aliis est acre venenum
 Quod scripsi, scripsi!
@@ -65639,6 +65674,7 @@ Raion
 Raionul Anenii Noi
 Raionul Asparuhovo (Varna)
 Raionul Baștanka, Mîkolaiiv
+Raionul Berdeansk, Zaporijjea
 Raionul Bereg, Transcarpatia
 Raionul Borzna, Cernihiv
 Raionul Briceni
@@ -67863,6 +67899,7 @@ Rodež
 Rodi Garganico
 Rodica Stănoiu
 Rodigo
+Rodik
 Rodion Cămătaru
 Rodion Hodovanschi
 Rodion Markovits
@@ -68728,6 +68765,7 @@ Râul Rudăria
 Râul Rusca, Sucevița
 Râul Răchita, Nera
 Râul Sava
+Râul Scocul Drăcșanului
 Râul Sfântul Laurențiu
 Râul Sibila
 Râul Siret
@@ -71258,6 +71296,7 @@ Satire
 Satiră
 Satmar (școală rabinică)
 Satriano
+Satteldorf
 Satu Mare
 Satu Nou, Brașov
 Satubinha
@@ -71512,6 +71551,7 @@ Scheloribatidae
 Schemmerhofen
 Schemă (matematică)
 Schemă Ponzi
+Schenkenberg (Uckermark)
 Scheuern
 Schi acrobatic
 Schi alpin
@@ -72583,6 +72623,7 @@ Sfânta Muceniță Filofteia de la Argeș
 Sfânta Scriptură
 Sfânta Sâmbătă
 Sfânta Treime
+Sfânta Veronica
 Sfânta Vineri
 Sfântu Gheorghe
 Sfântu Gheorghe, Mureș
@@ -76402,6 +76443,7 @@ São José do Divino, Minas Gerais
 São José do Goiabal
 São José do Mantimento
 São José dos Basílios
+São José dos Pinhais
 São João Batista do Glória
 São João Batista, Maranhão
 São João Evangelista
@@ -76664,6 +76706,7 @@ Tain-l'Hermitage
 Taino, Lombardia
 Tainá 2: A New Amazon Adventure
 Tainá 3: The Origin
+Tainîțea, Tetiiv
 Taiobeiras
 Taipalsaari
 Taipana
@@ -84720,6 +84763,7 @@ Vincenzo Viviani
 Vincențiu Babeș
 Vinchiaturo
 Vinci, Toscana
+Vindecarea slăbănogului din Capernaum
 Vindey
 Vine ghețarul
 Vine, Zagorje ob Savi
@@ -85074,6 +85118,7 @@ Voce (vocea umană ca instrument muzical)
 Voce de cap
 Voce de piept
 Vocea Americii
+Vocea Basarabiei
 Vocea umană
 Vocea umană (film)
 Vodable
@@ -86818,6 +86863,7 @@ Ziegfeld Follies of 1943
 Ziegfeld Girl (film)
 Zielona Góra
 ZigZag (film)
+Zile de fior și râs
 Zile fierbinți
 Zilele Turbinilor
 Zilele Turbinilor (film)
@@ -87498,6 +87544,7 @@ video jocul
 Ždinja vas
 Železne Dveri
 Železno, Žalec
+Želivského (stație de metrou din Praga)
 Željko Filipović
 Željne
 Žihovo selo
@@ -89123,6 +89170,7 @@ video jocul
 64th Academy Awards
 65 î.Hr.
 6539 Nohavica
+6596 Bittner
 65th Academy Awards
 66th Academy Awards
 67 î.Hr.
@@ -89204,6 +89252,7 @@ video jocul
 85 î.Hr.
 85179 Meistereckhart
 855 Newcombia
+8553 Bradsmith
 8555 Mirimao
 85th Academy Awards
 86 î.Hr.
@@ -89921,6 +89970,7 @@ Acid 2,4-diclorofenosiacetic
 Acid Western
 Acid acetic
 Acid alginic
+Acid arahidic
 Acid arahidonic
 Acid benzoic
 Acid butiric
@@ -90499,6 +90549,7 @@ Agrarianism
 Agrarianism românesc
 Agrate Conturbia
 Agrement
+Agricola Filip
 Agricultura Clujului
 Agricultura României
 Agricultura în Roma Antică
@@ -90509,6 +90560,7 @@ Agriocnemis ruberrima ruberrima
 Agriș
 Agro Chirnogi
 Agromyza aristata
+Agromyza buhriella
 Agromyzidae
 Agron Preteni
 Agronomie
@@ -92036,6 +92088,7 @@ Amintiri din copilărie
 Amintiri din viitor
 Amintiri pierdute
 Amions
+Amiota nigrescens
 Amiota onchopyga
 Amir Mokri
 Amir Zeyada
@@ -92605,6 +92658,7 @@ Ani-lumină
 Anibal Teodorescu
 Anicuns
 Anicée Alvina
+Anii 100 î.Hr.
 Anii 1100
 Anii 1300
 Anii 1400
@@ -93359,6 +93413,7 @@ Appenzell Innerrhoden
 Appian Way Productions
 Appiano sulla Strada del Vino
 Appilly
+Applause
 Apple A6
 Apple Cinema Display
 Apple Developer Connection
@@ -95790,6 +95845,7 @@ Babbie, Alabama
 Babe (film)
 Babe: Pig in the City
 Babel (film)
+Babele
 Babele (folclor)
 Babele, Munții Bucegi
 Babes in Arms
@@ -100093,6 +100149,7 @@ Bronhodilatator
 Bronhopneumopatie obstructivă cronică
 Broni
 Bronisław Geremek
+Bronivka, Volociîsk
 Brontë (film)
 Bronz
 Bronze and Sunflower
@@ -101742,6 +101799,7 @@ Cantonul Embrun
 Cantonul Ermont
 Cantonul Fontainebleau
 Cantonul Fontenay-Trésigny
+Cantonul Frangy
 Cantonul Fribourg
 Cantonul Gannat
 Cantonul Geneva
@@ -102006,6 +102064,7 @@ Carbonita
 Carbonne
 Carboxizom
 Carcaboso
+Carcadiești, Vâlcea
 Carcagny
 Carcassonne
 Carceri
@@ -106532,6 +106591,7 @@ Comitatul Humboldt, Iowa
 Comitatul Hunedoara
 Comitatul Hyde, Carolina de Nord
 Comitatul Ida, Iowa
+Comitatul Iosco, Michigan
 Comitatul Iowa, Iowa
 Comitatul Iowa, Wisconsin
 Comitatul Iredell, Carolina de Nord
@@ -108580,6 +108640,7 @@ Comuna Șklîn, Horohiv
 Comuna Șoarș, Brașov
 Comuna Șoimari, Prahova
 Comuna Șoimuș, Hunedoara
+Comuna Șona, Alba
 Comuna Șotrile, Prahova
 Comuna Ștefan cel Mare, Argeș
 Comuna Ștefești, Prahova
@@ -110829,6 +110890,7 @@ Cătălin Țîră
 Cătălina Buzoianu
 Cătălina Mihai
 Căutând-o pe Susan
+Cășăria, Neamț
 Cățelul Pat
 D'Urville Martin
 D-Sub
@@ -114077,6 +114139,7 @@ Drosophila mercatorum
 Drosophila pictifrons
 Drosophila wassermani
 Drosophilidae
+Drotaverină
 Droue-sur-Drouette
 Drouetius azoricus
 Drouetius borgesi
@@ -115008,6 +115071,7 @@ Egyházasrádóc, Vas
 Ehingen
 Ehlenz
 Ehren Kruger
+Eichhorst (Mecklenburg)
 Eichstätt (district)
 Eid ul-Fitr
 Eidgenosse
@@ -122245,6 +122309,7 @@ Grundy Center, Iowa
 Grunge
 Grup Feroviar Român
 Grup d'Elx
+Grup de fântâni cu cumpănă din Tătaru
 Grup de galaxii
 Grup etnic
 Gruparea Contimporanul
@@ -124966,6 +125031,7 @@ I Shot an Arrow into the Air
 I Sing the Body Electric (The Twilight Zone)
 I Spy (film)
 I Think We're Alone Now
+I Told You So (preluare de Carrie Underwood)
 I Turn to You
 I Want My Dinner
 I Want to Go Home (film)
@@ -126011,6 +126077,7 @@ Insulele Hawaii
 Insulele Marchize
 Insulele Mariane de Nord
 Insulele Minore Îndepărtate ale Statelor Unite
+Insulele Pakri
 Insulele Prundu cu păsări
 Insulele Scilly
 Insulele Sub Vânt
@@ -127088,6 +127155,7 @@ Ivănești, Rîșcani
 Ixalotriton niger
 Ixodes
 Ixodes jacksoni
+Ixodes luciae
 Ixodes luxuriosus
 Ixodida
 Ixodidae
@@ -128473,6 +128541,7 @@ John McTiernan
 John Meade Falkner
 John Meehan
 John Melville
+John Merivale
 John Michael Hayes
 John Michael McDonagh
 John Milius
@@ -128861,6 +128930,7 @@ Juaye-Mondaye
 Jubeu
 Jubileul de Diamant a reginei Elisabeta a II-a
 Juche
+Jucikivți, Hmelnîțkîi
 Jucken
 Jucăriile (Star Trek: Generația următoare)
 Jucătoare de tenis
@@ -131709,6 +131779,7 @@ Lawrence of Arabia
 Lawrence of Arabia (film)
 Lawrence, Massachusetts
 Lawrence, Massachusetts)
+Lawson (autor)
 Laxativ
 Lay, Loire
 Lay-Lamidou
@@ -132411,6 +132482,7 @@ Les Assions
 Les Autels-Saint-Bazile
 Les Autels-Villevillon
 Les Authieux-Papion
+Les Authieux-du-Puits
 Les Authieux-sur-Calonne
 Les Automatistes
 Les Avanchers-Valmorel
@@ -132596,6 +132668,7 @@ Leu românesc
 Leucemie
 Leuchey
 Leucip
+Leucoantocianidină
 Leucoraja circularis
 Leucoraja ocellata
 Leucorrhinia intermedia ijimai
@@ -133431,6 +133504,7 @@ Lista conducătorilor Republicii Populare Chineze
 Lista consolelor de jocuri video
 Lista cântecelor înregistrate de Christina Aguilera
 Lista câștigătorilor Australian Open (simplu feminin)
+Lista câștigătorilor French Open (dublu mixt)
 Lista câștigătorilor Marilor Premii de Formula 1
 Lista câștigătorilor Wimbledon (simplu feminin)
 Lista cărților științifico-fantastice publicate în România
@@ -139486,6 +139560,7 @@ Mel Gibson
 Melagatran
 Melanagromyza
 Melanagromyza bidenticola
+Melanagromyza normalis
 Melanagromyza olgae
 Melanagromyza senecionella
 Melanagromyza viridissima
@@ -141904,6 +141979,7 @@ Motor termic
 Motor, Iowa
 Motorul analitic
 Motorul cu distorsiune (Star Trek)
+Motovîlivska Slobidka, Fastiv
 Mott the Hoople
 Motta
 Motta (companie)
@@ -143808,6 +143884,7 @@ Nemci, Nova Gorica
 Nemertina
 Nemesbőd, Vas
 Nemescsó, Vas
+Nemescu
 Nemesdéd, Somogy
 Nemesgulács, Veszprém
 Nemesgörzsöny, Veszprém
@@ -145465,6 +145542,7 @@ ONE Championship: Reign of Valor
 OPENSTEP
 ORCID
 OVirt
+Oacadi
 Oadby and Wigston
 Oaie domestică
 Oak Hills, Oregon
@@ -147725,6 +147803,7 @@ Pardines, Puy-de-Dôme
 Pardners
 Pardo
 Pardosa pusiola
+Pardosa shuangjiangensis
 Pareid
 Parent, Puy-de-Dôme
 Parental Guidance (film)
@@ -148128,6 +148207,7 @@ Path tracing
 Pathé
 Patima de sub ulmi
 Patinaj artistic
+Patinaj artistic la Jocurile Olimpice de iarnă din 2022 - Perechi
 Patinaj viteză
 Patis
 Patiserie
@@ -149459,6 +149539,7 @@ Picături auriculare
 Picătură
 Picți
 Pidberezzea, Horohiv
+Pidhaiți, Pustomîtî
 Pidlisne, Litîn
 Pidlisți, Kremeneț
 Piedade de Caratinga
@@ -150013,6 +150094,7 @@ Pleiadele
 Pleistocen
 Plemberk
 Plenus venter non studet libenter
+Pleonasm
 Plerneuf
 Pleslin-Trigavou
 Plesnoy
@@ -151483,6 +151565,7 @@ Prima Ligă a Kârgâzstanului
 Prima Ligă a Serbiei și Muntenegrului
 Prima Ligă de Fotbal din Libia
 Prima Ligă de fotbal a Zambiei
+Prima Ligă de fotbal din Burundi
 Prima Ligă de fotbal din Guineea Ecuatorială
 Prima Ligă de fotbal din Lesotho
 Prima Ligă de fotbal din Liberia
@@ -151765,6 +151848,7 @@ Prințesa și bobul de mazăre
 Prințesă
 Prințesă Theresa de Bavaria (b. 1931)
 Prințul Adolphus, Duce de Cambridge
+Prințul Aimone, Duce de Aosta
 Prințul Albert Victor, Duce de Clarence și Avondale
 Prințul Alexander John de Wales
 Prințul Alfred al Marii Britanii
@@ -153140,6 +153224,7 @@ Quistello
 Quiz Show (film)
 Quo Vadis (1951 film)
 Quo vadis (roman)
+Quod erat demonstrandum
 Quod licet Iovi, non licet bovis
 Quod medicina aliis, aliis est acre venenum
 Quod scripsi, scripsi!
@@ -153468,6 +153553,7 @@ Rakovice
 Rakovnik pri Birčni vasi
 Rakovski
 Rakuten
+Raków Częstochowa
 Raleigh Hills, Oregon
 Raleigh, Carolina de Nord
 Raleigh, North Carolina
@@ -155593,6 +155679,7 @@ Rodež
 Rodi Garganico
 Rodica Stănoiu
 Rodigo
+Rodik
 Rodion Cămătaru
 Rodion Hodovanschi
 Rodion Markovits
@@ -156458,6 +156545,7 @@ Râul Rudăria
 Râul Rusca, Sucevița
 Râul Răchita, Nera
 Râul Sava
+Râul Scocul Drăcșanului
 Râul Sfântul Laurențiu
 Râul Sibila
 Râul Siret
@@ -164135,6 +164223,7 @@ São José do Divino, Minas Gerais
 São José do Goiabal
 São José do Mantimento
 São José dos Basílios
+São José dos Pinhais
 São João Batista do Glória
 São João Batista, Maranhão
 São João Evangelista
@@ -164397,6 +164486,7 @@ Tain-l'Hermitage
 Taino, Lombardia
 Tainá 2: A New Amazon Adventure
 Tainá 3: The Origin
+Tainîțea, Tetiiv
 Taiobeiras
 Taipalsaari
 Taipana
@@ -169997,6 +170087,7 @@ Udmurtia
 Udo Kier
 Udvar, Baranya
 Udvari, Tolna
+Uedem
 Ueli Maurer
 Uelversheim
 Uffizi
@@ -170609,6 +170700,7 @@ Uraniu
 Uranus
 Uranus (1990 film)
 Uranus (mitologie)
+Urawa Red Diamonds
 Urban al VIII-lea
 Urbana, Veneto
 Urbandale, Iowa
@@ -172453,6 +172545,7 @@ Vincenzo Viviani
 Vincențiu Babeș
 Vinchiaturo
 Vinci, Toscana
+Vindecarea slăbănogului din Capernaum
 Vindey
 Vine ghețarul
 Vine, Zagorje ob Savi
@@ -173428,6 +173521,7 @@ Wehingen
 Wehrmacht
 Weiden in der Oberpfalz
 Weidingen
+Weikersheim
 Weilheim-Schongau
 Weimar
 Weimar Republic
@@ -175233,6 +175327,7 @@ video jocul
 Ždinja vas
 Železne Dveri
 Železno, Žalec
+Želivského (stație de metrou din Praga)
 Željko Filipović
 Željne
 Žihovo selo

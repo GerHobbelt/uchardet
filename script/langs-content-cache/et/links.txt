@@ -59,36 +59,36 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Rebäse
-Otto von Möller
-Lausitz
-Konrad V
-Külm hoovus
-Estelle Getty
-Juhistikusüsteem
-Jõemõisa Särgjärv
-Kuomintangi Revolutsiooniline Komitee
-Hälvati soon
-Onega jõgi
-Vesiroosilised
-Norra (täpsustus)
-Kärdla kalmistu
-Meelste
-Ingrid Veidenberg
-Lutz Dombrowski
-UNESCO
-Hankasalmi vald
-Võlausaldaja
-Tiger Lou
-Kalevi jalaväepataljon
-Mattias (eesnimi)
-Loir-et-Cheri departemang
-Mõniste vald (Hargla kihelkond)
-Liin (transport)
-Eesti kullafond (Silvi Vrait)
-Inturkė
-Coney Islandi tuletorn
-Boys Over Flowers
+Pöör (täpsustus)
+Le Vigan
+Evje og Hornnesi vald
+Kuno Plaan
+Maskoŭskaja metroojaam
+Tuleaed
+Irina-Camelia Begu
+Otto Wilhelm Hermann von Abich
+Saulkalne
+Surnud 5. jaanuaril
+Cube (aadlisuguvõsa)
+Suhharivka
+Ross Edgley
+Rasmus Kangropool
+Õrsava järv
+Veebruar
+Haanja Valla Rahvamajad
+Suremus
+Elutöö Kuldlõvi
+Hermann von Buxhövden
+Edward Hallett Carr
+Itaalia pesapallimeeskond 2004. aasta suveolümpiamängudel
+Aktiivmeetmed
+Vesitükk
+Kurm
+Kukk (perekonnanimi)
+Kaarma mõis (Kaarma)
+Harri Rovanperä
+Xiamen Gaoqi rahvusvaheline lennujaam
+Kõrgessaare kihistu
 "Suurt Eestimaa nimistut"
 "Väikest Eestimaa nimistut"
 ''happening''
@@ -5697,6 +5697,7 @@ Box Office Mojo
 Boyacá departemang
 Boydi maakond (Kentucky)
 Boyle'i maakond
+Boys Over Flowers
 Boëseghem
 Boëthius
 Boğaziçi Ülikool
@@ -5764,6 +5765,7 @@ Bremeni Adam
 Bremeni Nõukogude Vabariik
 Bremeni torn
 Brenda Bolton
+Brendan Perlini
 Brenner
 Brenneri mäekuru
 Brenneri raudtee
@@ -5963,6 +5965,7 @@ Burton Richter
 Burundi
 Busaidi dünastia
 Busan
+Bushmaster
 Bushra Elfadil
 Bushwhackers
 Businessweek
@@ -6969,6 +6972,7 @@ Concord
 Concord Records
 Concorde
 Concordia Klar
+Coney Islandi tuletorn
 Confederación Española de Derechas Autónomas
 Confederación Nacional del Trabajo
 Configni
@@ -8738,6 +8742,7 @@ Eesti koolide loend
 Eesti korvpalliklubide loend
 Eesti kroon
 Eesti kubermangu administratiivse valitsuse ja kohaliku omavalitsuse ajutise korra kohta
+Eesti kullafond (Silvi Vrait)
 Eesti kultuur
 Eesti kultuuriminister
 Eesti kunst
@@ -9914,6 +9919,7 @@ Estat Català
 Estcoy-8
 Esteetika
 Esteetiline nauding
+Estelle Getty
 Ester Mägi
 Ester Peony
 Ester Vaitmaa
@@ -10173,6 +10179,7 @@ Evelin Võigemast
 Evelyn B. Harrison
 Evelyn Fox Keller
 Evelyn Kaldoja
+Evengi autonoomne ringkond
 Evengid
 Everybody
 Everyway That I Can
@@ -10559,6 +10566,7 @@ Filosoofide laev
 Filtreeritud õlu
 Fimbria
 Final Cut Studio
+Final Fantasy
 Finale Ligure
 Financial Times
 Finantsturg
@@ -11357,6 +11365,7 @@ Geffen
 Geffen Records
 Gei- ja lesbifilosoofia
 Geiparaad
+Geir Moen
 Geiser
 Geit Prants
 Geiša
@@ -12611,6 +12620,7 @@ Hanila kirikumõis
 Hanila raudteepeatus
 Hanila vald
 Hank Williams
+Hankasalmi vald
 Hanko
 Hanko poolsaar
 Hankoniemi merelahing
@@ -12779,6 +12789,7 @@ Harilik kurk
 Harilik kuusk
 Harilik laanik
 Harilik lina
+Harilik lumilehik
 Harilik maapähkel
 Harilik mandlipuu
 Harilik mänd
@@ -13878,6 +13889,7 @@ Humphry Davy
 Humphry Marshall
 Hunan
 Hundinurga
+Hundipea sadam
 Hundisilma talu
 Hunnebergi lade
 Hunnid
@@ -13928,6 +13940,7 @@ Hädaolukord
 Häkker
 Hälsinglandi maakond
 Hälvati
+Hälvati soon
 Häme kindlus
 Häme maakond
 Hämeenlinna
@@ -14643,6 +14656,7 @@ Ingrid Alexandra
 Ingrid Bergman
 Ingrid Mesila
 Ingrid Rüütel
+Ingrid Veidenberg
 Ingušid
 Ingvar
 Ingvar (eesnimi)
@@ -14775,6 +14789,7 @@ Intress
 Intuit
 Intuitive Surgical
 Inturist
+Inturkė
 Inuinnaqtun
 Inuitid
 Inuktituti keel
@@ -15430,6 +15445,7 @@ Jalgpalli rahvuskoondiste loend
 Jalgpalliklubi
 Jalgpalliklubide maailma karikavõistlused
 Jalgpalliklubide maailmameistrivõistlused
+Jalgpallikohtunik
 Jalgpallikoondis
 Jalgpallikultuur
 Jalgpallisaapad
@@ -16471,6 +16487,7 @@ Juhani Suomi
 Juhatuse esimees
 Juhi ja Sõidukite Litsentsimisagentuur
 Juhikultus
+Juhistikusüsteem
 Juhitud demokraatia
 Juho Kusti Paasikivi
 Juhtimismoodul
@@ -16616,6 +16633,7 @@ Juta Lember
 Jutaza rajoon
 Jutlus
 Juttkeha
+Jutuleht (ajakiri)
 Jutustus
 Jutustus möödunud aegadest
 Juubal
@@ -16811,6 +16829,7 @@ Jõelähtme vald (1939)
 Jõelähtme–Kemba tee
 Jõelähtme–Kostivere tee
 Jõempa
+Jõemõisa Särgjärv
 Jõeorg
 Jõepere
 Jõepere allikad
@@ -18116,6 +18135,7 @@ Katariina kai
 Katariina kanal
 Katarina Jagiellonca
 Katari–Bahreini tamm
+Katarzyna Figura
 Katarzyna Jagiellonka
 Katase
 Katastroof
@@ -18355,6 +18375,7 @@ Keiserlik Teaduste Akadeemia Botaanikaaed
 Keiserliku Kunstide Akadeemia juures asuv Kõrgem Kunstikool
 Keisririik
 Keit Triisa
+Keith Ellison
 Keith Olbermann
 Keith Thomson
 Keity
@@ -19367,6 +19388,7 @@ Kollad
 Kollageen
 Kollakas juurepähkel
 Kollakas kukeseen
+Kollakasroheline
 Kollane
 Kollane 6
 Kollane kaart
@@ -19534,6 +19556,7 @@ Konrad Mauritz
 Konrad Mägi
 Konrad Repgen
 Konrad Schindler
+Konrad V
 Konrad von Jungingen
 Konrad von Mandern
 Konrad von Vietinghoff
@@ -19765,6 +19788,7 @@ Kornet
 Korni keel
 Koroni
 Koroonapandeemia
+Koroonapandeemia Aserbaidžaanis
 Koroonapandeemia Bosnias ja Hertsegoviinas
 Koroonapandeemia Eestis
 Koroonapandeemia Valgevenes
@@ -20340,6 +20364,7 @@ Kungla (Saaremaa)
 Kungla (mütoloogia)
 Kungla hotell
 Kungla kuningas
+Kungla tee
 Kunigunde von Staufen
 Kunila
 Kuning-fregattlind
@@ -20398,6 +20423,7 @@ Kunstnike loend
 Kunstpärl
 Kunstsiid
 Kuomintang
+Kuomintangi Revolutsiooniline Komitee
 Kuopio
 Kuopio linn
 Kupar (kirjastus)
@@ -20616,6 +20642,7 @@ Kuurne
 Kuurort
 Kuurortlinn
 Kuurvürst
+Kuusalu Keskkool
 Kuusalu kihelkond
 Kuusalu rahvamaja
 Kuusalu vald
@@ -20719,6 +20746,7 @@ Kärbu
 Kärde rahu
 Kärdla
 Kärdla kalevivabrik
+Kärdla kalmistu
 Kärdla komandantuur
 Kärdla piirivalvekordon
 Kärdla tänavate loend
@@ -20946,6 +20974,7 @@ Külli Kressa
 Küllike Kaplinski
 Küllike Realo
 Küllike Rooväli
+Külm hoovus
 Külm sõda
 Külma (Saaremaa)
 Külmarekordid
@@ -21093,6 +21122,7 @@ Ladinaameeriklased
 Ladinakeelsete lühendite loend
 Ladinakeelsete väljendite loend
 Ladislaus Postumus
+Lado Gurgenidze
 Ladon
 Ladurns
 Lady Gaga
@@ -21431,6 +21461,7 @@ Laurimäe
 Lauritsapäev
 Lause
 Lausetüüp
+Lausitz
 Lautna
 Lauto
 Lavakujundus
@@ -21669,6 +21700,7 @@ Lemmjõe keelemetsa õpperada
 Lemmküla
 Lemmu
 Lemmu muinaskihelkond
+Lempäälä vald
 Lemsalu Elementaarkool
 Lemsalu Kreisikool
 Lemsalu ja Roopa lahing
@@ -21910,6 +21942,7 @@ Liberalism
 Liberec
 Liberius
 Liberiuse kataloog
+Libertas
 Liberty Global
 Liberty Interactive
 Liblika tänav
@@ -22022,6 +22055,7 @@ Liilia
 Liimala
 Liimi tänav
 Liimimine
+Liin (transport)
 Liina Gailand
 Liina Lukas
 Liina Reiman
@@ -22432,6 +22466,7 @@ Loi Cadre
 Loide
 Loimaa
 Loimaa linn
+Loir-et-Cheri departemang
 Loire
 Loire'i departemang
 Loitsude, loitsimise ja loitsijate uurimise töörühm
@@ -22843,6 +22878,7 @@ Lutheri vabrik
 Lutsern
 Lutsi ordulinnus
 Lutsu (Põlva)
+Lutz Dombrowski
 Luua mõis
 Luuga
 Luukasõ järv
@@ -24500,6 +24536,7 @@ Matti Varik
 Matti Yrjänä Joensuu
 Mattia Giuseppe Lippi
 Mattia Moresco
+Mattias (eesnimi)
 Mattias Johansson
 Matus
 Matusekombestik
@@ -24647,6 +24684,7 @@ Meeli Truu
 Meelis Härms
 Meelis Süld
 Meelis-Lauri Erikson
+Meelste
 Meelte ja tunnete taimed
 Meelva (Lääneranna)
 Meemaste
@@ -24904,6 +24942,7 @@ Metaboolne atsidoos
 Metaboolsed protsessid
 Metafooriteooria
 Metafüüsika
+Metakivim
 Metal
 Metalcore
 Metall
@@ -26287,6 +26326,7 @@ Mõndavere
 Mõniste
 Mõniste laht
 Mõniste vald
+Mõniste vald (Hargla kihelkond)
 Mõnnuste
 Mõntu
 Mõnuste
@@ -27366,12 +27406,14 @@ Normatiivne eetika
 Norodom Sihanouk
 Noroviirus
 Norra
+Norra (täpsustus)
 Norra 2018. aasta taliolümpiamängudel
 Norra Eurovisiooni lauluvõistlusel
 Norra Nobeli Komitee
 Norra džäss
 Norra fjordihobune
 Norra impeerium
+Norra ja Venemaa piir
 Norra jalgpallikoondis
 Norra keel
 Norra kuningas
@@ -28000,6 +28042,7 @@ One Direction
 One Grand Central Place
 One Piece
 One with the Underdogs
+Onega jõgi
 Oneida maakond (Idaho)
 Ongassaare
 Onilahy
@@ -28417,6 +28460,7 @@ Otto von Blanckenhagen
 Otto von Engelhardt
 Otto von Lutterberg
 Otto von Lüneburg
+Otto von Möller
 Otto von Uexküll (surnud 1601)
 Otto von Vietinghoff
 Ottone di Bonvillano
@@ -30857,6 +30901,7 @@ Pugatšovi ülestõus
 Pugeti väin
 Pugwashi konverentsid
 Puhasruum
+Puhastus (ooper)
 Puhastustuli
 Puhatu
 Puhatu looduskaitseala
@@ -31404,6 +31449,7 @@ Põrgu vanaeit
 Põrgupiigad
 Põrgupõhja uus Wanapagan
 Põripõllu
+Põserihmad
 Põõsad
 Põõsas
 Põõsaspea neem
@@ -32314,6 +32360,7 @@ Rebiya Kadeer
 Rebu küla
 Rebukest
 Rebuväät
+Rebäse
 Recanati
 Reccared
 Rechiarius
@@ -32814,6 +32861,7 @@ Riigivürst
 Riigiõigus
 Riik (bioloogia)
 Riikide sõjajõud Teise maailmasõja alguses
+Riikkond
 Riiklik Arheoloogiamuuseum (Ateena)
 Riiklik Julgeolekuagentuur
 Riiklik Loodusloo Muuseum
@@ -35584,6 +35632,7 @@ Someone Saved My Life Tonight
 Somerset
 Somerset Seedless
 Somerseti saar
+Something New
 Somme
 Somos libres, seámoslo siempre
 Sompa
@@ -37080,6 +37129,7 @@ TUPTI
 TV1000
 TV1000 Action
 TV1000 Russkoje Kino
+TV2 Sport (Taani)
 Taagepera kalmistu
 Taagepera mõis
 Taagepera mõisa kalmistu
@@ -38501,6 +38551,7 @@ Tifinagi kiri
 Tigalda
 Tiger Airways
 Tiger I
+Tiger Lou
 Tigranes Suur
 Tigrinja keel
 Tigris
@@ -39720,6 +39771,7 @@ Tšaad
 Tšaadi järv
 Tšaami keeled
 Tšagatai khaaniriik
+Tšassiv Jar
 Tšeboksarõ rajoon
 Tšehhi
 Tšehhi 2018. aasta taliolümpiamängudel
@@ -41594,6 +41646,7 @@ Vesinikubakterid
 Vesipapi tänav
 Vesipähkel
 Vesiratas
+Vesiroosilised
 Vesiveski
 Veske
 Veske pärn
@@ -42526,6 +42579,7 @@ Väinämöinen
 Väinö Tanner
 Väkra
 Välde
+Välgi-Alajõe
 Väline kõvaketas
 Välis-Eesti (ajaleht)
 Väliseestlaste eesti keel
@@ -42667,6 +42721,7 @@ Võitlusmoraal
 Võitra
 Võivere
 Võlakiri
+Võlausaldaja
 Võlaõigus
 Võlaõigusseadus
 Võle mõis
@@ -45931,6 +45986,7 @@ Aksi laht
 Akste
 Aksum
 Aksumi kuningriik
+Aktiivmeetmed
 Aktiivmuda
 Aktiivmudapuhasti
 Aktiivne jõud
@@ -49700,6 +49756,7 @@ Bremeni Adam
 Bremeni Nõukogude Vabariik
 Bremeni torn
 Brenda Bolton
+Brendan Perlini
 Brenner
 Brenneri mäekuru
 Brenneri raudtee
@@ -49899,6 +49956,7 @@ Burton Richter
 Burundi
 Busaidi dünastia
 Busan
+Bushmaster
 Bushra Elfadil
 Bushwhackers
 Businessweek
@@ -51045,6 +51103,7 @@ Crvena zvezda
 Csaba Szigeti
 Csézy
 Ctrip
+Cube (aadlisuguvõsa)
 Cuenca
 Cueva de las Manos
 Cum laude
@@ -52177,6 +52236,7 @@ Edward Elgar
 Edward Gibbon Wakefield
 Edward Gierek
 Edward Granville Browne
+Edward Hallett Carr
 Edward III
 Edward Kennedy
 Edward Kilmartin
@@ -54112,10 +54172,12 @@ Evelin Võigemast
 Evelyn B. Harrison
 Evelyn Fox Keller
 Evelyn Kaldoja
+Evengi autonoomne ringkond
 Evengid
 Everybody
 Everyway That I Can
 Evi Juhkam
+Evje og Hornnesi vald
 Evno Azef
 Evolutsioon
 Evolutsioonibioloog
@@ -54498,6 +54560,7 @@ Filosoofide laev
 Filtreeritud õlu
 Fimbria
 Final Cut Studio
+Final Fantasy
 Finale Ligure
 Financial Times
 Finantsturg
@@ -55296,6 +55359,7 @@ Geffen
 Geffen Records
 Gei- ja lesbifilosoofia
 Geiparaad
+Geir Moen
 Geiser
 Geit Prants
 Geiša
@@ -56321,6 +56385,7 @@ Haagikohus
 Haagis
 Haakon Magnus
 Haamse
+Haanja Valla Rahvamajad
 Haanja kõrgustik
 Haansalu mõis
 Haansalu vald
@@ -56719,6 +56784,7 @@ Harilik kurk
 Harilik kuusk
 Harilik laanik
 Harilik lina
+Harilik lumilehik
 Harilik maapähkel
 Harilik mandlipuu
 Harilik mänd
@@ -56791,6 +56857,7 @@ Harri Hiiesalu
 Harri Kullas
 Harri Lumi
 Harri Moora
+Harri Rovanperä
 Harriet Taylor-Mill
 Harriette Chick
 Harrisburg
@@ -57286,6 +57353,7 @@ Hermann Wilhelm von Kaulbars
 Hermann Wrangell
 Hermann von Balk
 Hermann von Bruiningk
+Hermann von Buxhövden
 Hermeetiliselt suletud
 Hermeric
 Hermies
@@ -57818,6 +57886,7 @@ Humphry Davy
 Humphry Marshall
 Hunan
 Hundinurga
+Hundipea sadam
 Hundisilma talu
 Hunnebergi lade
 Hunnid
@@ -58771,6 +58840,7 @@ Irgandi sild
 Irigny
 Irina Kruusla
 Irina Sedakova
+Irina-Camelia Begu
 Iris Marzik
 Iris Metsmägi
 Irkutsk
@@ -58963,6 +59033,7 @@ Itaalia muusika
 Itaalia ooper
 Itaalia parlament
 Itaalia peaminister
+Itaalia pesapallimeeskond 2004. aasta suveolümpiamängudel
 Itaalia president
 Itaalia provintsid
 Itaalia rahvastik
@@ -59373,6 +59444,7 @@ Jalgpalli rahvuskoondiste loend
 Jalgpalliklubi
 Jalgpalliklubide maailma karikavõistlused
 Jalgpalliklubide maailmameistrivõistlused
+Jalgpallikohtunik
 Jalgpallikoondis
 Jalgpallikultuur
 Jalgpallisaapad
@@ -60560,6 +60632,7 @@ Juta Lember
 Jutaza rajoon
 Jutlus
 Juttkeha
+Jutuleht (ajakiri)
 Jutustus
 Jutustus möödunud aegadest
 Juubal
@@ -60993,6 +61066,7 @@ Kaarlihas
 Kaarlo Juho Ståhlberg
 Kaarma
 Kaarma karjäär
+Kaarma mõis (Kaarma)
 Kaarma mõis (Väike-Maarja)
 Kaarma vald
 Kaarma vald (Väike-Maarja kihelkond)
@@ -62061,6 +62135,7 @@ Katariina kai
 Katariina kanal
 Katarina Jagiellonca
 Katari–Bahreini tamm
+Katarzyna Figura
 Katarzyna Jagiellonka
 Katase
 Katastroof
@@ -62300,6 +62375,7 @@ Keiserlik Teaduste Akadeemia Botaanikaaed
 Keiserliku Kunstide Akadeemia juures asuv Kõrgem Kunstikool
 Keisririik
 Keit Triisa
+Keith Ellison
 Keith Olbermann
 Keith Thomson
 Keity
@@ -63312,6 +63388,7 @@ Kollad
 Kollageen
 Kollakas juurepähkel
 Kollakas kukeseen
+Kollakasroheline
 Kollane
 Kollane 6
 Kollane kaart
@@ -63711,6 +63788,7 @@ Kornet
 Korni keel
 Koroni
 Koroonapandeemia
+Koroonapandeemia Aserbaidžaanis
 Koroonapandeemia Bosnias ja Hertsegoviinas
 Koroonapandeemia Eestis
 Koroonapandeemia Valgevenes
@@ -64151,6 +64229,7 @@ Kuke (Saaremaa)
 Kukeseen (perekond)
 Kukeseenelaadsed
 Kukeseenelised
+Kukk (perekonnanimi)
 Kukkurtihane
 Kuklapõnt
 Kuklase tänav
@@ -64286,6 +64365,7 @@ Kungla (Saaremaa)
 Kungla (mütoloogia)
 Kungla hotell
 Kungla kuningas
+Kungla tee
 Kunigunde von Staufen
 Kunila
 Kuning-fregattlind
@@ -64320,6 +64400,7 @@ Kuno (eesnimi)
 Kuno Areng
 Kuno Otsus
 Kuno Pajula
+Kuno Plaan
 Kuno Thomasson
 Kunst
 Kunst (kirjastus)
@@ -64563,6 +64644,7 @@ Kuurne
 Kuurort
 Kuurortlinn
 Kuurvürst
+Kuusalu Keskkool
 Kuusalu kihelkond
 Kuusalu rahvamaja
 Kuusalu vald
@@ -64806,6 +64888,7 @@ Kõrgepinge tänav
 Kõrgesaare vald (1939)
 Kõrgesoo
 Kõrgessaare
+Kõrgessaare kihistu
 Kõrgessaare piirivalvekordon
 Kõrgest soost poissmehe mõistatus
 Kõrgharidus
@@ -65042,6 +65125,7 @@ Ladinaameeriklased
 Ladinakeelsete lühendite loend
 Ladinakeelsete väljendite loend
 Ladislaus Postumus
+Lado Gurgenidze
 Ladon
 Ladurns
 Lady Gaga
@@ -65420,6 +65504,7 @@ Le Maisnil
 Le Plateau-Mont-Royal
 Le Puy
 Le Sud-Ouest
+Le Vigan
 LeBron James
 LeHelMus
 Lea Leppik (ajaloolane)
@@ -65619,6 +65704,7 @@ Lemmjõe keelemetsa õpperada
 Lemmküla
 Lemmu
 Lemmu muinaskihelkond
+Lempäälä vald
 Lemsalu Elementaarkool
 Lemsalu Kreisikool
 Lemsalu ja Roopa lahing
@@ -65860,6 +65946,7 @@ Liberalism
 Liberec
 Liberius
 Liberiuse kataloog
+Libertas
 Liberty Global
 Liberty Interactive
 Liblika tänav
@@ -68352,6 +68439,7 @@ Masinatööstus
 Masinpsüühika
 Masis
 Maskeraad (Pratchett)
+Maskoŭskaja metroojaam
 Masmuudad
 Masoni maakond (Kentucky)
 Massachusetts
@@ -68859,6 +68947,7 @@ Metaboolne atsidoos
 Metaboolsed protsessid
 Metafooriteooria
 Metafüüsika
+Metakivim
 Metal
 Metalcore
 Metall
@@ -71329,6 +71418,7 @@ Norra Nobeli Komitee
 Norra džäss
 Norra fjordihobune
 Norra impeerium
+Norra ja Venemaa piir
 Norra jalgpallikoondis
 Norra keel
 Norra kuningas
@@ -72369,6 +72459,7 @@ Otto Vellingk
 Otto Wellingk
 Otto Wilhelm Edler von Rennenkampff
 Otto Wilhelm Etzold
+Otto Wilhelm Hermann von Abich
 Otto Wilhelm Thomé
 Otto Wilhelm von Königsmarck
 Otto von Blanckenhagen
@@ -74816,6 +74907,7 @@ Pugatšovi ülestõus
 Pugeti väin
 Pugwashi konverentsid
 Puhasruum
+Puhastus (ooper)
 Puhastustuli
 Puhatu
 Puhatu looduskaitseala
@@ -75363,6 +75455,7 @@ Põrgu vanaeit
 Põrgupiigad
 Põrgupõhja uus Wanapagan
 Põripõllu
+Põserihmad
 Põõsad
 Põõsas
 Põõsaspea neem
@@ -75378,6 +75471,7 @@ Pöitse
 Pöllau
 Pöllauberg
 Pöögle vald
+Pöör (täpsustus)
 Pööravere
 Pööravere mõis
 Pöördklapp
@@ -76116,6 +76210,7 @@ Raskelastilaev
 Rasketööstus
 Raskuskiirendus
 Rasmus Asplund
+Rasmus Kangropool
 Rasmus Lerdorf
 Rasmus Lippur
 Rasmus Peetson
@@ -76774,6 +76869,7 @@ Riigivürst
 Riigiõigus
 Riik (bioloogia)
 Riikide sõjajõud Teise maailmasõja alguses
+Riikkond
 Riiklik Arheoloogiamuuseum (Ateena)
 Riiklik Julgeolekuagentuur
 Riiklik Loodusloo Muuseum
@@ -77343,6 +77439,7 @@ Roslagen
 Rosma
 Rosmalen
 Ross Barkley
+Ross Edgley
 Ross Stores
 Ross Thomas
 Rossija (Moskva hotell)
@@ -78457,6 +78554,7 @@ Saule lahing
 Saulepa
 Saulepi
 Sauli Niinistö
+Saulkalne
 Saulėtekis
 Saunalaht
 Saunametsa
@@ -79544,6 +79642,7 @@ Someone Saved My Life Tonight
 Somerset
 Somerset Seedless
 Somerseti saar
+Something New
 Somme
 Somos libres, seámoslo siempre
 Sompa
@@ -80267,6 +80366,7 @@ Suguti
 Sugutunnused
 Suguvõsa
 Suhe (filosoofia)
+Suhharivka
 Suhkrud
 Suhkrumänd
 Suhkrupeet
@@ -80476,6 +80576,7 @@ Surnud 24. jaanuaril
 Surnud 28. septembril
 Surnud 31. jaanuaril
 Surnud 4. juunil
+Surnud 5. jaanuaril
 Surnud 5. juunil
 Surnud 7. detsembril
 Surnud 7. jaanuaril
@@ -81040,6 +81141,7 @@ TUPTI
 TV1000
 TV1000 Action
 TV1000 Russkoje Kino
+TV2 Sport (Taani)
 Taagepera kalmistu
 Taagepera mõis
 Taagepera mõisa kalmistu
@@ -83266,6 +83368,7 @@ Tula oblast
 Tulareemia
 Tulbi tänav
 Tulcea
+Tuleaed
 Tulekahju
 Tulekivi
 Tulemüür (informaatika)
@@ -83681,6 +83784,7 @@ Tšaad
 Tšaadi järv
 Tšaami keeled
 Tšagatai khaaniriik
+Tšassiv Jar
 Tšeboksarõ rajoon
 Tšehhi
 Tšehhi 2018. aasta taliolümpiamängudel
@@ -85556,6 +85660,7 @@ Vesipapi tänav
 Vesipähkel
 Vesiratas
 Vesiroosilised
+Vesitükk
 Vesiveski
 Veske
 Veske pärn
@@ -86488,6 +86593,7 @@ Väinämöinen
 Väinö Tanner
 Väkra
 Välde
+Välgi-Alajõe
 Väline kõvaketas
 Välis-Eesti (ajaleht)
 Väliseestlaste eesti keel
@@ -87181,6 +87287,7 @@ Xerox
 Xi'an
 Xiaguani linnarajoon
 Xiamen
+Xiamen Gaoqi rahvusvaheline lennujaam
 Xianbei riik
 Xiangfan Shi
 Xianning Shi
@@ -87628,6 +87735,7 @@ transistor
 Õpetus
 Õppeasutus
 Õppelaev
+Õrsava järv
 Õudus
 Õudusulme
 Õuekohus
