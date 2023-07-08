@@ -58,36 +58,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Galaxy Angel
-Marco Garcés
-Peleduj
-Distretto di Doem Bang Nang Buat
-Max Adler (filosofo)
-Raul - Diritto di uccidere
-Belvidere (New Jersey)
-Anna Hall
-Warsaw Open 2009 - Doppio
-Björn III di Svezia
-Volo United Airlines 823
-Anders Erikson Sparrman
-Mahr Vehl
-Labinot Mal
-Muscolo lunghissimo
-878 (disambigua)
-Lista di asteroidi (340001-341000)
-Alfred Rawlinson
-Pistole fiammeggianti (film 1961)
-The Harem Skirt
-Artin
-Patriot League
-All About Us
-Palazzo della Panatica
-AEGON Championships 2010 - Qualificazioni singolare
-Distretto di Agago
-Blackburn Rovers Football Club 2019-2020
-Sofija Nalepins'ka-Bojčuk
-Old Wives for New
-European Champions League 2005-2006
 "Weird Al" Yankovic
 "Weird Al" Yankovic (album)
 ''Babbacombe'' Lee
@@ -993,6 +963,7 @@ European Champions League 2005-2006
 82 a.C.
 83 (disambigua)
 8544 Sigenori
+878 (disambigua)
 88 a.C.
 9 a.C.
 9 agosto
@@ -1123,6 +1094,7 @@ ACF Fiorentina 2021-2022
 ACF Fiorentina 2022-2023
 ACI Farfisa
 ADM-141 TALD
+AEGON Championships 2010 - Qualificazioni singolare
 AES47
 AFA Senior Male League
 AFI's 100 Years... 100 Laughs
@@ -2349,6 +2321,7 @@ Alfred Manessier
 Alfred Meyer
 Alfred Nobel
 Alfred Pennyworth
+Alfred Rawlinson
 Alfred Reeves
 Alfred Rosenberg
 Alfred Schwarzmann
@@ -2433,6 +2406,7 @@ Aliyah Boston
 Aljaksandra Sasnovič
 Alkemy
 All 'N All
+All About Us
 All Ages
 All American Red Heads
 All Around the World (Oasis)
@@ -2979,6 +2953,7 @@ Andamane e Nicobare
 Andare a Canossa
 Andernay
 Andernos-les-Bains
+Anders Erikson Sparrman
 Anders Gjermshus
 Anders Hauglund
 Anders Johansen
@@ -3274,6 +3249,7 @@ Anna Del Amico
 Anna Elisabeth Baer
 Anna Elisabeth Baere
 Anna Frank
+Anna Hall
 Anna Jablonowska
 Anna Kiełbasińska
 Anna Korwin
@@ -4292,6 +4268,7 @@ Artiglieria
 Artiglieria controcarri
 Artiglieria da montagna
 Artigues-près-Bordeaux
+Artin
 Artis Gilmore
 Artist First
 Artista
@@ -6374,6 +6351,7 @@ Belrupt-en-Verdunois
 Belting (musica)
 Belval (Vosgi)
 Belver de Cinca
+Belvidere (New Jersey)
 Belvès-de-Castillon
 Belzec
 Bembibre
@@ -6966,6 +6944,7 @@ Björk Orkestral
 Björk: Archives
 Björk: Biophilia Live
 Björn Borg
+Björn III di Svezia
 Bjørn Helge Riise
 Black Adam
 Black Adam (colonna sonora)
@@ -6999,6 +6978,7 @@ Blackboard design pattern
 Blackburn Ripon
 Blackburn Rovers Football Club 2010-2011
 Blackburn Rovers Football Club 2011-2012
+Blackburn Rovers Football Club 2019-2020
 Blackfire
 Blackground Records
 Blackhawk (serial cinematografico)
@@ -17103,6 +17083,7 @@ Distretto di Buča
 Distretto di Chandrapur
 Distretto di Chechar
 Distretto di Dhule
+Distretto di Doem Bang Nang Buat
 Distretto di Dokolo
 Distretto di El Hamma
 Distretto di Faridkot
@@ -20166,6 +20147,7 @@ Europa occidentale
 Europa orientale
 Europa settentrionale
 Europark Idroscalo Milano
+European Champions League 2005-2006
 European Film Awards
 European Film Awards 2006
 European Research Council
@@ -22791,6 +22773,7 @@ Galateo (costume)
 Galatina
 Galattosio
 Galavant
+Galaxy Angel
 Galba
 Galbiate
 Galena
@@ -31690,6 +31673,7 @@ Labaro
 Labelle
 Labescau
 Labeuville
+Labinot Mal
 Labirinto mortale
 Laboratori Elettrotecnici Società Anonima
 Laboratorio
@@ -33490,6 +33474,7 @@ Lista delle famiglie linguistiche
 Lista delle specie virali
 Lista di Schindler
 Lista di asteroidi
+Lista di asteroidi (340001-341000)
 Lista di astronauti e cosmonauti
 Lista di formati di file
 Lista di licenze software approvate da FSF
@@ -34767,6 +34752,7 @@ Mahindra Racing
 Mahlon Dickerson
 Mahmoud Abdul-Rauf
 Mahogany (software)
+Mahr Vehl
 Mahur
 Mai Tsujimoto
 Maia (divinità)
@@ -35196,6 +35182,7 @@ Marco Franzelli
 Marco Frittella
 Marco Fulvio Nobiliore (console 159 a.C.)
 Marco Furio Camillo
+Marco Garcés
 Marco Licinio Crasso
 Marco Livio Druso (tribuno)
 Marco Mete
@@ -36113,6 +36100,7 @@ Maussac
 Mauvages
 Mauvaises fréquentations
 Maverick Capital
+Max Adler (filosofo)
 Max Alessandrini
 Max Delbrück
 Max Gibson
@@ -38349,6 +38337,7 @@ Murvaux
 Musa itinerans
 Musashino
 Muscolo
+Muscolo lunghissimo
 Muscolo quadricipite
 Muse (divinità)
 Muse (gruppo musicale)
@@ -40487,6 +40476,7 @@ Old New Borrowed Blue
 Old San Juan
 Old Vic
 Old Wild West
+Old Wives for New
 Old school (hip hop)
 Old school hip hop
 Oldham Athletic A.Football Club 2010–2011
@@ -41573,6 +41563,7 @@ Palazzo del Coudenberg
 Palazzo del Podestà (Asti)
 Palazzo del Turismo
 Palazzo dell'Eliseo
+Palazzo della Panatica
 Palazzo delle Tuileries
 Palazzo di Città (Asti)
 Palazzo di Holyrood
@@ -42291,6 +42282,7 @@ Patrimoni dell'umanità della Cambogia
 Patrimonio dell'umanità
 Patrimonio di vigilanza
 Patrimonio netto
+Patriot League
 Patriottico
 Patriottismo
 Patristica
@@ -42530,6 +42522,7 @@ Pekao Open 2007
 Pekao Open 2016
 Pekka Pyykkö
 Pelasgi
+Peleduj
 Pellegrinaggio
 Pellegrinaggio (film)
 Pellegrue
@@ -43449,6 +43442,7 @@ Piste disperate
 Pistoia
 Pistoicos
 Pistola contro gentiluomo
+Pistole fiammeggianti (film 1961)
 Pistone (meccanica)
 Pita Limjaroenrat
 Pitagora
@@ -45821,6 +45815,7 @@ Ratliff City
 Ratti (azienda)
 Ratto delle Sabine
 Rattus villosissimus
+Raul - Diritto di uccidere
 Raul Hilberg
 Raunheim
 Rauzan
@@ -51004,6 +50999,7 @@ Sofia Scandurra
 Sofia del Palatinato
 Sofia di Borbone-Francia
 Sofia di Borbone-Spagna
+Sofija Nalepins'ka-Bojčuk
 Sofocle
 Sofoklīs Schortsianitīs
 Sofonisba (nome)
@@ -54630,6 +54626,7 @@ The Greatest (Sia)
 The Grey Album
 The Groucho Club
 The Guardian
+The Harem Skirt
 The Haunted Man
 The Haçienda
 The Headshrinkers
@@ -58872,6 +58869,7 @@ Volmunster
 Volo Batik Air 7703
 Volo Execuflight 1526
 Volo LIAT 319
+Volo United Airlines 823
 Volo United Express 5925
 Volodymyr Pil'huj
 Volontari delle Nazioni Unite
@@ -59171,6 +59169,7 @@ Warren Beatty
 Warren Earl Burger
 Warren Lipka
 Warren Spector
+Warsaw Open 2009 - Doppio
 Warthegau
 Washington
 Washington (U.S. state)

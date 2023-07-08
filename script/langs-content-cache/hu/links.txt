@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-2012-es Guangzhou International Women’s Open – páros
-Blanche, avagy a szegény rokon
-Szentmiklóssy Béla (labdarúgó)
-Abesszin bíbic
-Kuhiformák
-Stazione di Como Nord Borghi
-Filatorigát
-351-es busz (Debrecen)
-Mátészalka
-Wolstenholme-számok
-Légnadrág
-Friederich Franzl
-Kutas Tamás
-Planegg
-Xolmis
-Szent Apollonius
-Jászberényi Önkormányzat
-Jordan Henderson
-Arco Felice
-Léon Deladerrière
-Városháza (Csíkszereda)
-Covington (Georgia)
-Savigny-sur-Clairis
-Clash Royale
-Vorbeck
-Madagaszkár 2.
-Raffay Dávid
-Lépron-les-Vallées
-Valpuestai okiratok
-Zárai repülőtér
 "Heroes" (David Bowie song)
 "Kettő plusz Négy" szerződés
 (114992) 2003 QG70
@@ -2910,6 +2880,7 @@ Zárai repülőtér
 2012-es Európa-liga-döntő
 2012-es Fort Lauderdale-i műugró-Grand Prix-verseny
 2012-es Grand Prix de SAR La Princesse Lalla Meryem – páros
+2012-es Guangzhou International Women’s Open – páros
 2012-es MTV Video Music Awards
 2012-es MTV Video Music Awards Japan
 2012-es Moto2-világbajnokság
@@ -4004,6 +3975,7 @@ Zárai repülőtér
 35. Oscar-gála
 350-es busz
 351-es busz
+351-es busz (Debrecen)
 351785 Reguly
 352-es busz
 353-as busz
@@ -7036,6 +7008,7 @@ Abergement-la-Ronce
 Abergement-le-Grand
 Abergement-le-Petit
 Abergement-lès-Thésy
+Abesszin bíbic
 Abesszíniai háború
 Abezames
 Abhidharma
@@ -10687,6 +10660,7 @@ Archon (Aisne)
 Archuleta megye
 Archív Orientální
 Arckoponya
+Arco Felice
 Arconada
 Arconsat
 Arcos de la Llana
@@ -15004,6 +14978,7 @@ Blakely-sziget
 Blake’s 7
 Blame It on Baby
 Blanche Bruce
+Blanche, avagy a szegény rokon
 Blanche-Église
 Blandouet
 Blandy (Essonne)
@@ -20447,6 +20422,7 @@ Clark Gable
 Clark megye (Dél-Dakota)
 Clarkes
 Clary (Nord)
+Clash Royale
 Classic Albums
 Classic Queen
 Classic Yes
@@ -21362,6 +21338,7 @@ Covid19
 Covid19-koronavírus-járvány Magyarországon
 Covid19-pandémia
 Covid19-vakcina
+Covington (Georgia)
 Covington (Louisiana)
 Cowboy Style
 Cowboyháború
@@ -29438,6 +29415,7 @@ Figyelő (egyértelműsítő lap)
 Figyelő (hetilap, 1871–1876)
 Figyelő (hetilap, 1958–2022)
 Filain (Aisne)
+Filatorigát
 Filefalva
 Filep Aladár
 Filiberto Azcuy
@@ -30833,6 +30811,7 @@ Friedberg (Stájerország)
 Friedel Rausch
 Friedenheimer Straße metróállomás
 Frieder W. Lichtenthaler
+Friederich Franzl
 Friedmann Endre (fotóriporter)
 Friedrich August Eckstein
 Friedrich August Weiz
@@ -42535,6 +42514,7 @@ Jordan Bratman
 Jordan Chan
 Jordan Follows
 Jordan Harris
+Jordan Henderson
 Jordan King
 Jordan Knight
 Jordan Knight (album)
@@ -43329,6 +43309,7 @@ Jász-Nagykun-Szolnok vármegye
 Jászai László (színművész, 1967)
 Jászai Mari-díj
 Jászapáti
+Jászberényi Önkormányzat
 Jászivány
 Jászjákóhalma
 Jászkun kerület
@@ -46840,6 +46821,7 @@ Kucsera Gábor (kajakozó)
 Kucsera Tamás Gergely
 Kudzsir
 Kufra
+Kuhiformák
 Kuiper-öv
 Kujcsou
 Kujići
@@ -46989,6 +46971,7 @@ Kustány
 Kuszuhara Csiaki
 Kusínagar
 Kutanja
+Kutas Tamás
 Kutatás és rablás
 Kuti Kis Rita
 Kutlás
@@ -51960,6 +51943,7 @@ Légierő
 Légiharc-rakéta
 Légkör
 Légna
+Légnadrág
 Légny
 Légnyomás
 Légrád
@@ -51985,6 +51969,7 @@ Lénárd Ödön
 Lénárdfalva
 Lénárdfalva község
 Léo Ferré
+Léon Deladerrière
 Léon Foucault
 Léon Ritzen
 Léon-Paul Fargue
@@ -51995,6 +51980,7 @@ Lépcsős Szent János
 Lépes Bálint
 Lépfene
 Léphaft Pál
+Lépron-les-Vallées
 Léran
 Lésigny (Seine-et-Marne)
 Léstyán Ferenc
@@ -52428,6 +52414,7 @@ Mad Men – Reklámőrültek
 Mad TV
 Madagaszkár
 Madagaszkár 2
+Madagaszkár 2.
 Madagaszkár 3
 Madagaszkár a 2000. évi nyári olimpiai játékokon
 Madagaszkár a 2004. évi nyári olimpiai játékokon
@@ -58689,6 +58676,7 @@ Máté Péter (labdarúgó, 1979)
 Máté Péter (énekes)
 Máté Péter-díj
 Máté T. Gyula
+Mátészalka
 Mázandaráni nyelv
 Mázli (film, 2008)
 Mâchecourt
@@ -65876,6 +65864,7 @@ Plajuc
 Plakát
 Plan (Spanyolország)
 Planctomycetes
+Planegg
 Planes (község)
 Planet Caravan
 Planet Rock
@@ -68008,6 +67997,7 @@ Raffaella Imbriani
 Raffaella Reggi-Concato
 Raffaello Ducceschi
 Raffaello Sanzio
+Raffay Dávid
 Raffetot
 Rafi Dahan
 Rafid Topan Sucipto
@@ -73187,6 +73177,7 @@ Savigny (Rhône)
 Savigny-en-Revermont
 Savigny-le-Temple
 Savigny-le-Vieux
+Savigny-sur-Clairis
 Savigny-sur-Grosne
 Savigny-sur-Orge
 Savigny-sur-Seille
@@ -75603,6 +75594,7 @@ Stazione di Canneto sull’Oglio
 Stazione di Casorate Sempione
 Stazione di Castel San Pietro Terme
 Stazione di Cittadella
+Stazione di Como Nord Borghi
 Stazione di Cà di Boschetti
 Stazione di Manfredonia
 Stazione di Marmore
@@ -77059,6 +77051,7 @@ Szent András
 Szent Anna
 Szent Anna-plébániatemplom (Esztergom)
 Szent Anna-templom (esztergomi ferences templom)
+Szent Apollonius
 Szent Barszanuphiosz
 Szent Borbála
 Szent Cirill
@@ -77197,6 +77190,7 @@ Szentmihályi Antal
 Szentmihálykörtvélyes
 Szentmiklós (Munkácsi járás)
 Szentmiklós község
+Szentmiklóssy Béla (labdarúgó)
 Szentmindszent
 Szentmise
 Szentmárton (Románia)
@@ -84072,6 +84066,7 @@ Valognes
 Valon Behrami
 Valperga
 Valprato Soana
+Valpuestai okiratok
 Valpuiseaux
 Valpó
 Vals (Ariège)
@@ -86084,6 +86079,7 @@ Voodoo Lounge Tour
 Voorschoterlaan (Rotterdam Metro)
 Voraphot Phetkhum
 Vorarlberg
+Vorbeck
 Vorca
 Vorca község
 Vorges
@@ -86336,6 +86332,7 @@ Várna (Bulgária)
 Város
 Városfalva
 Városháza
+Városháza (Csíkszereda)
 Városháza (Párizs)
 Városháza (Tallinn)
 Városi jogú nagyközség
@@ -87642,6 +87639,7 @@ Wolfgantzen címere
 Wolfpassing
 Wolfwalkers
 Wolschwiller
+Wolstenholme-számok
 Wolverhampton Wanderers
 Wolverhampton Wanderers FC
 Wolves in the Throne Room
@@ -87850,6 +87848,7 @@ Xisco
 Xivry-Circourt
 Xiōngyálì xīnwén liánbò
 Xocourt
+Xolmis
 Xonville
 Xouaxange
 Xousse
@@ -88680,6 +88679,7 @@ Zápszony
 Zár (település)
 Zár-rés hang
 Zár-réshang
+Zárai repülőtér
 Zárhang
 Zárlati károsító
 Zárnya

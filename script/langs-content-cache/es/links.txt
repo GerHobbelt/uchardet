@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Club Balonmano La Roca
-Jin Youzhi
-Ramón María de Urbina
-Campeonato de Apertura de Chile 1940
-Bubasteion
-Blanca Tapia
-Ocean's Eleven
-Cedella Marley
-Gran Premio 19 Capitales
-Lessertina
-Suerte
-Bam Margera
-Radio de curvatura
-Charilaidae
-Municipio de Center (condado de Buffalo, Nebraska)
-Estadio Municipal Raúl Erazo
-Las aventuras de Pete y Pete
-Campeonato de Francia de Rugby 15 1907-08
-Condado de Crow Wing
-Bargers Springs (Virginia Occidental)
-Montaut (Dordoña)
-Ermita de San Roque de Canet de Castellón de la Plana
-Ekallate
-Francisco Villarroel
-Psalidodon parahybae
-Reizo Koike
-Repelente de animales
-Adriano Pereira da Silva
-Glosofobia
-Rodgers Kola
 $pringfield (or, How I Learned to Stop Worrying and Love Legalized Gambling)
 'Till I Collapse
 (100252) 1994 RY25
@@ -1058,6 +1028,7 @@ Adriane Lenox
 Adrianne Curry
 Adriano
 Adriano Blasco
+Adriano Pereira da Silva
 Adrie Visser
 Adrien Brody
 Adrienne Corri
@@ -3626,6 +3597,7 @@ Baltimore & Annapolis Trail
 Balville
 Balázs Dzsudzsák
 Balón de Oro
+Bam Margera
 Bambalinas
 Bambú
 Ban Ki-moon
@@ -3725,6 +3697,7 @@ Barcos negros
 Barefoot in the Park
 Barefoot to Herat
 Barent Fabritius
+Bargers Springs (Virginia Occidental)
 Bari (ciudad)
 Bariloche
 Barnabás Varga
@@ -4440,6 +4413,7 @@ Blake Edwards
 Blake Jenner
 Blake Shelton
 Blanca Gala
+Blanca Tapia
 Blanche DuBois
 Blanco
 Blanco (persona)
@@ -5029,6 +5003,7 @@ Brócoli de Calabria
 Brøndby IF
 Brütal Legend
 Bu$hleaguer
+Bubasteion
 Bubba Sparxxx
 Bubble Bobble
 Bubblegum pop
@@ -5602,7 +5577,9 @@ Campeonato colombiano 1995
 Campeonato colombiano 1995/96
 Campeonato colombiano 1996/97
 Campeonato colombiano 2020
+Campeonato de Apertura de Chile 1940
 Campeonato de Australia 1964
+Campeonato de Francia de Rugby 15 1907-08
 Campeonato de Fútbol Playa de la AFC 2013
 Campeonato de Primera C 2019-20 (Argentina)
 Campeonato de Wimbledon
@@ -6248,6 +6225,7 @@ Cecilia Santiago
 Cedar Glen Lakes (Nueva Jersey)
 Cedar Glen West (Nueva Jersey)
 Cedar Valley Trail
+Cedella Marley
 Cedric Diggory
 Cedric Yarbrough
 Cedric the Entertainer
@@ -6471,6 +6449,7 @@ Chappell (Nebraska)
 Chapter 18: The Mines of Mandalore
 Charales (orden)
 Chardonnay
+Charilaidae
 Chariots of Fire
 Charisma Records
 Charlayne Woodard
@@ -7283,6 +7262,7 @@ Club Atlético Temperley
 Club Atlético Vélez Sarsfield
 Club Atlético de Madrid
 Club Balonmano Amadeo Tortajada
+Club Balonmano La Roca
 Club Balonmano Nava
 Club Biguá de Villa Biarritz
 Club Blooming
@@ -7744,6 +7724,7 @@ Condado de Castilla
 Condado de Cedar (Nebraska)
 Condado de Cleveland (Oklahoma)
 Condado de Contra Costa
+Condado de Crow Wing
 Condado de DeKalb (Georgia)
 Condado de DeKalb (Misuri)
 Condado de Denton (Texas)
@@ -10807,6 +10788,7 @@ Ejército del Aire de España
 Ejército francés
 Ejército italiano
 Ejército realista en América
+Ekallate
 Ektomorf
 El Astillero
 El Bronx
@@ -11615,6 +11597,7 @@ Eritrea (desambiguación)
 Erizo (arma)
 Erkan Petekkaya
 Ermita de Nuestra Señora del Águila (Las Ventas con Peña Aguilera)
+Ermita de San Roque de Canet de Castellón de la Plana
 Ermita de Santa Lucía (Las Ventas con Peña Aguilera)
 Ermoceras
 Ernest Bloch
@@ -11970,6 +11953,7 @@ Estadio Milagro
 Estadio Monumental David Arellano
 Estadio Monumental de la UNSA
 Estadio Municipal Juan Rojas
+Estadio Municipal Raúl Erazo
 Estadio Municipal de Poznań
 Estadio Municipal de Águeda
 Estadio Nacional Julio Martínez Prádanos
@@ -13468,6 +13452,7 @@ Francisco Suárez
 Francisco Sá (Minas Gerais)
 Francisco Valadas
 Francisco Vicente Aguilera
+Francisco Villarroel
 Francisco Zea
 Francisco de Asís
 Francisco de Asís (película de 1961)
@@ -14440,6 +14425,7 @@ Gloryhammer: Gloryhammer
 Gloryhammer: Hootsforce
 Gloryhammer: Rise of the Chaos Wizards
 Glosas Emilianenses
+Glosofobia
 Glosopeda
 Glotónimo
 Glow in the Dark Tour
@@ -14726,6 +14712,7 @@ Gran Maestro (arte marcial)
 Gran Marruecos
 Gran Migración Negra
 Gran Nube de Magallanes
+Gran Premio 19 Capitales
 Gran Premio de Alemania de Motociclismo de 1995
 Gran Premio de Alemania de Motociclismo de 1996
 Gran Premio de Alemania de Motociclismo de 1998
@@ -18785,6 +18772,7 @@ Jimmy Sturr
 Jimmy Swaggart
 Jimmy Van Heusen
 Jin Mao
+Jin Youzhi
 Jin-mo Joo
 Jinete
 Jinete sin cabeza
@@ -20696,6 +20684,7 @@ Las Tunas (Cuba)
 Las Vegas
 Las Ventas
 Las Ventas con Peña Aguilera
+Las aventuras de Pete y Pete
 Las aventuras de Roderick Random
 Las bodas de Fígaro
 Las cariñosas (película de 1979)
@@ -21047,6 +21036,7 @@ Leslie Law
 Leslie Marmon Silko
 Leslie Odom Jr.
 Lesnói (Beloréchensk, Krasnodar)
+Lessertina
 Lester Bird
 Lester Crown
 Lester Johnson
@@ -24203,6 +24193,7 @@ Montana
 Montante (construcción)
 Montastraea cavernosa
 Montauk Building
+Montaut (Dordoña)
 Montaña
 Montaña Stone
 Montañas Catskill
@@ -24472,6 +24463,7 @@ Municipio de Big Stone (Minnesota)
 Municipio de Bigelow (Kansas)
 Municipio de Brick (Nueva Jersey)
 Municipio de Bristol (Illinois)
+Municipio de Center (condado de Buffalo, Nebraska)
 Municipio de Corby
 Municipio de Croydon (Londres)
 Municipio de Eagleswood (Nueva Jersey)
@@ -25807,6 +25799,7 @@ Ocean City (Maryland)
 Ocean City (Washington)
 Ocean Gate (Nueva Jersey)
 Ocean Software
+Ocean's Eleven
 Oceana
 Oceanborn
 Oceanites
@@ -28742,6 +28735,7 @@ Príncipes de barrio
 Prólogo
 Prórroga
 Próspero
+Psalidodon parahybae
 Pseudidae
 Pseudispella
 Pseudispella petiti
@@ -29173,6 +29167,7 @@ Radio Televisión Española
 Radio Times
 Radio Télévision Libre des Mille Collines
 Radio Universo
+Radio de curvatura
 Radio en España
 Radioaficionado
 Radioafición
@@ -29273,6 +29268,7 @@ Ramón Cilla
 Ramón Gómez de la Serna
 Ramón Hernández
 Ramón J. Sender
+Ramón María de Urbina
 Ramón María del Valle-Inclán
 Ramón Menéndez Pidal
 Ramón Pérez de Ayala
@@ -29705,6 +29701,7 @@ Reino nazarí de Granada
 Reino visigodo
 Reinventing the Steel
 Reitasai
+Reizo Koike
 Rejmanka
 Rejugabilidad
 Relaciones Belice-Costa Rica
@@ -29803,6 +29800,7 @@ Reovirus
 Reparación del ADN
 Repartición de África
 Reparto coral
+Repelente de animales
 Replicación de ADN
 Replicación del ADN
 Repoblación
@@ -30379,6 +30377,7 @@ Roddy McDowall
 Rodentia
 Rodeo Drive
 Roderich Müller-Guttenbrunn
+Rodgers Kola
 Rodilla
 Rodión Románovich Raskólnikov
 Rodney Brooks
@@ -33156,6 +33155,7 @@ Suela
 Sueldo (moneda)
 Suelo
 Suero fisiológico
+Suerte
 Suevo
 Suffocation
 Sufragio

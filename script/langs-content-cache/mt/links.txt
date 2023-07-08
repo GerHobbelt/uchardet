@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Opossum ta' denbu qasir tal-ġnub ħomor ta' Nofsinhar
-Petra
-Tazza tad-Dinja tal-Futbol 2022
-Tuberkulożi
-Jeremy Zucker
-Ronaldo
-Claude Mattocks
-Josie Coppini
-Giacomo Zanella
-Tazza tad-Dinja tal-Futbol 1934
-Espoo
-Zeca Pagodinho
-Orycteropus
-Rivoluzzjoni Industrijali
-Tim nazzjonali tal-futbol tal-Unjoni Sovjetika
-Ġebla tal-ġir
-Enya
-Milan
-Villa ta' Adrijanu
-Kanzunetta Maltija għall-Ewropa
-Kemmun
-Soft law
-Charles Dierkop
-Nikaragwa
-Napuljun III
-Joe Saliba (1957)
-Festival tal-Eurovision 1962
-Jum ta’ Memorja u Impenn b’Tifkira għall-Vittmi tal-Mafja
-Bank Ċentrali ta' Malta
-Kambodja
 'Verschlossene Auster' award
 -Għarab
 -faġija
@@ -4184,6 +4154,7 @@ Charles Clarke
 Charles Clews
 Charles Curtis
 Charles Darwin
+Charles Dierkop
 Charles Edison
 Charles F. Dowd
 Charles Farrugia
@@ -6563,6 +6534,7 @@ Esperanto
 Esperantoloġija
 Esploratur
 Esploraturi Russi
+Espoo
 Esporte Clube Bahia
 Espressjoni tal-ġene
 Espressjoniżmu
@@ -8450,6 +8422,7 @@ Giacomo Draghi
 Giacomo Leopardi
 Giacomo Puccini
 Giacomo Torlon
+Giacomo Zanella
 Gialloparma
 Giambattista Vico
 Gian Carlo Venturini
@@ -10933,6 +10906,7 @@ Jerash
 Jeremy Andrew Stribling
 Jeremy Bentham
 Jeremy Dudziak
+Jeremy Zucker
 Jerevan
 Jerez
 Jerez de la Frontera
@@ -11548,6 +11522,7 @@ Jum ir-Ringrazzjament
 Jum l-Indipendenza
 Jum l-Indipendenza (Malta)
 Jum l-Indipendenza (Ċipru)
+Jum ta’ Memorja u Impenn b’Tifkira għall-Vittmi tal-Mafja
 Juneteenth
 Junggaroperadectes
 Junggaroperadectes burqinensis
@@ -11906,6 +11881,7 @@ Kantant tal-opri
 Kantanta
 Kantawtur
 Kanun
+Kanzunetta Maltija għall-Ewropa
 Kanċer
 Kanċer kolorektali
 Kanċer tal-pulmun
@@ -12163,6 +12139,7 @@ Kelvin Jack
 Kelyan Guessoum
 Kemal Alispahić
 Kemerovo Oblast
+Kemmun
 Kemmuna
 Kemmunett
 Ken Annakin
@@ -16904,6 +16881,7 @@ Opossum ta' denbu qasir sepja ta' Nofs in-nhar
 Opossum ta' denbu qasir ta' Marajó
 Opossum ta' denbu qasir ta' Reig
 Opossum ta' denbu qasir tal-Perù
+Opossum ta' denbu qasir tal-ġnub ħomor ta' Nofsinhar
 Opossum ta' denbu qasir tal-ġnub ħomor tal-kappa
 Opossum ta' denbu qasir tat-tlett strixxi tat-Tramuntana
 Opossum ta' denbu sufi
@@ -21451,6 +21429,7 @@ Sofiżmu
 Sofokle
 Sofonija
 Sofonisba Anguissola
+Soft law
 Softcell
 Softwer
 Sogdohyrax
@@ -23994,6 +23973,7 @@ Tserkva tal-Injam tal-Karpazji fil-Polonja u fl-Ukrajna
 Tskhinvali
 Tsuneyasu Miyamoto
 Tsvetan Georgiev
+Tuberkulożi
 Tubersent
 Tubi katodiċi
 Tubi tat-testjar
@@ -24806,6 +24786,7 @@ Villa Lugano
 Villa Park
 Villa Soldati (Buenos Aires)
 Villa d'Este
+Villa ta' Adrijanu
 Villafranca de Córdoba
 Villareal CF
 Villareal FC
@@ -25580,6 +25561,7 @@ Zdeněk Grygera
 Zdeněk Pospěch
 Zdiby
 Zebulun
+Zeca Pagodinho
 Zehnerliga
 Zeitz
 Zeleneč

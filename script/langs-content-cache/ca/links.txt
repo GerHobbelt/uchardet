@@ -58,36 +58,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Casa al carrer de Pi i Margall, 46 (Palafrugell)
-Marminhac
-Alan Morgan
-Saulon-la-Rue
-Sapor Sacanxa
-Pic de Serra Plana (Lladorre)
-Polysteganus undulosus
-Pau Salvat i Espasa
-Blanchefosse-et-Bay
-Josep Vancells i Marquès
-Nastri d'argento 1953
-Antonio Toledo Munuera
-Xunta Nacionalista Asturiana
-Cryptocentrus malindiensis
-Curdlan
-William Gregor
-Debrecen
-Josip Katalinski
-Sabalòs
-Estadi Municipal d'A Malata
-Centre històric de la Selva del Camp
-Baldaquí de Tavèrnoles
-Elogi d'Unitat Naval
-Radhouane Salhi
-Paul Lemetayer
-Diego Lainez
-Quint Fabi Virgilià
-Costa de Cal Xamal
-Baga de la Païssa
-Llei Volstead
 'Arab al-Rashayida
 'Azza
 'Eina'
@@ -2611,6 +2581,7 @@ Alan Laird
 Alan Menken
 Alan Metter
 Alan Metzger
+Alan Morgan
 Alan P. Cresswell
 Alan Parker
 Alan Paton
@@ -5228,6 +5199,7 @@ Antonio Sanabria
 Antonio Sersale
 Antonio Tajani
 Antonio Tejero Molina
+Antonio Toledo Munuera
 Antonio Trevín Lombán
 Antonio Vallejo-Nájera
 Antonio Velamazán Tejedor
@@ -7775,6 +7747,7 @@ Baffa Babba Danagundi
 Bafodeya
 Bafutia
 Baga de Vall-llosera
+Baga de la Païssa
 Bagassa
 Bagdad
 Bagdis
@@ -7888,6 +7861,7 @@ Balata
 Balaustion
 Balbisia
 Balcans
+Baldaquí de Tavèrnoles
 Baldassare Galuppi
 Baldellia
 Baldersheim
@@ -9823,6 +9797,7 @@ Blanca Casas Brullet
 Blanca Portillo Martínez de Velasco
 Blancafort
 Blancafòrt
+Blanchefosse-et-Bay
 Blanchetia
 Blanchetiastrum
 Blanchetiodendron
@@ -13462,6 +13437,7 @@ Casa Uralita
 Casa Vella de Borrell
 Casa Ventosa i Puig
 Casa a l'avinguda Blondel, 26 (Lleida)
+Casa al carrer de Pi i Margall, 46 (Palafrugell)
 Casa ancestral
 Casa d'Ucraïna
 Casa d'Àustria
@@ -13984,6 +13960,7 @@ Centre de Seguretat de la Informació de Catalunya
 Centre de Suport a la Formació, Hampton Roads
 Centre de rehabilitació de ximpanzés Tchimpounga
 Centre for European Reform
+Centre històric de la Selva del Camp
 Centre per a la Política Europea
 Centre polític
 Centre virtuel de la connaissance sur l'Europe
@@ -18704,6 +18681,7 @@ Costa Oest dels Estats Units
 Costa Panayi
 Costa Rica
 Costa d'Ivori
+Costa de Cal Xamal
 Costa-Gavras
 Costaceae
 Costella
@@ -19406,6 +19384,7 @@ Cryptocentrus caeruleopunctatus
 Cryptocentrus cryptocentrus
 Cryptocentrus fasciatus
 Cryptocentrus lutheri
+Cryptocentrus malindiensis
 Cryptocentrus octofasciatus
 Cryptocentrus strigilliceps
 Cryptochilus
@@ -19671,6 +19650,7 @@ Curbigny
 Curculigo
 Curcuma
 Curdin
+Curdlan
 Curgy
 Curio
 Curitiba
@@ -20906,6 +20886,7 @@ Debra Granik
 Debra Mooney
 Debra Sapenter
 Debra Winger
+Debrecen
 Debreceni VSC
 Debregeasia
 Decachaeta
@@ -21942,6 +21923,7 @@ Diego Flores
 Diego Flores Amaya
 Diego Forlán
 Diego Godín
+Diego Lainez
 Diego Lugano
 Diego Maradona
 Diego Milito
@@ -26892,6 +26874,7 @@ Estadi Giuseppe Meazza
 Estadi Heysel
 Estadi Johan Cruyff
 Estadi Maracanã
+Estadi Municipal d'A Malata
 Estadi Olímpic Lluís Companys
 Estadi Olímpic de Berlín
 Estadi Olímpic de Roma
@@ -41284,6 +41267,7 @@ Josep Sunyol
 Josep Sunyol i Garriga
 Josep Tarradellas
 Josep Torrent
+Josep Vancells i Marquès
 Josep Vendrell i Ferrer
 Josep Vento i Ruiz
 Josep Vicente Romà
@@ -41394,6 +41378,7 @@ Josiane Balasko
 Josiane Bost
 Josina Z. Machel
 Josip Broz Tito
+Josip Katalinski
 Josip Reic
 Joslyn Hoyte-Smith
 Josnes
@@ -46438,6 +46423,7 @@ Llei Naval de 1794
 Llei Naval de 1916
 Llei Pelé
 Llei Prohibitiva
+Llei Volstead
 Llei anglesa
 Llei d'assentaments rurals
 Llei d'igualtat salarial Lilly Ledbetter
@@ -49868,6 +49854,7 @@ Marmagne (Saona i Loira)
 Marmanda
 Marmaroxylon
 Marmessor
+Marminhac
 Marmont
 Marmoritis
 Marmosa andersoni
@@ -54497,6 +54484,7 @@ Nassella
 Nassut
 Nastanthus
 Nastassia Novikava
+Nastri d'argento 1953
 Nastro d'Argento
 Nastro d'argento al millor argument
 Nasturtiopsis
@@ -59796,6 +59784,7 @@ Pau Abad i Piera
 Pau Bertran i Bros
 Pau Durà
 Pau I de Grècia
+Pau Salvat i Espasa
 Pau de Camp David
 Pau de Perpinyà (1473)
 Pau mundial
@@ -59850,6 +59839,7 @@ Paul Laidlaw (desenvolupador de videojocs)
 Paul Lang
 Paul Le Flem
 Paul Le Guen
+Paul Lemetayer
 Paul Lindale
 Paul Lotsij
 Paul Lukas
@@ -61551,6 +61541,7 @@ Piasa
 Piauí
 Piauí (magazine)
 Pic Ismail Samani
+Pic de Serra Plana (Lladorre)
 Pic de l'Orri (Llavorsí)
 Picador de cavalls
 Picardaea
@@ -65696,6 +65687,7 @@ Quini
 Quinnus neilius
 Quinona
 Quinqueremulus
+Quint Fabi Virgilià
 Quint Lutaci Catul (cònsol 102 aC)
 Quint Meni
 Quint Sulpici Llong
@@ -65885,6 +65877,7 @@ Raddiella
 Radenac
 Radermachera
 Radhika Coomaraswamy
+Radhouane Salhi
 Radi (element)
 Radi de Schwarzschild
 Radiació
@@ -69328,6 +69321,7 @@ Sa'ir
 Saavedra Fajardo
 Sabadell
 Sabal
+Sabalòs
 Sabana
 Sabater
 Sabatia
@@ -70528,6 +70522,7 @@ Sapindaceae
 Sapindus
 Sapium
 Saponaria
+Sapor Sacanxa
 Saposhnikovia
 Sapotaceae
 Sapphire
@@ -70755,6 +70750,7 @@ Saules (Saona i Loira)
 Saulius Ritter
 Saulius Skvernelis
 Saulnes
+Saulon-la-Rue
 Saulxerotte
 Saulxures-lès-Nancy
 Saulxures-lès-Vannes
@@ -84304,6 +84300,7 @@ William Goate
 William Goldman
 William Gosling
 William Grant Still
+William Gregor
 William Grey Walter
 William H. Boring
 William H. Bossert
@@ -85025,6 +85022,7 @@ Xun Chen
 Xun Yi
 Xun You
 Xun Yu
+Xunta Nacionalista Asturiana
 Xures
 Xurrasco
 Xuxa Meneghel

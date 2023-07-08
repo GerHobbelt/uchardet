@@ -58,36 +58,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Issah Abdoulaye Salou
-Battery Park City
-Missing (film fra 1918)
-Erfurt
-Paletten (Viborg)
-Toshio Shimakawa
-Deget
-Sorin Matei
-Aureole
-Ungdomskultur
-Bride of the Monster
-Johan af Brienne
-Zaki
-Metropol
-Christianeum
-John Barry
-Hans Christian Nielsen
-Løgumkloster Højskole
-Shapley-Shubiks model for forhandlingsvægt
-Witold Gombrowicz
-Benjamin Prentiss
-Tuf
-Legetøjsmuseet (Nykøbing Falster)
-Tønder Kommune
-Nguyễn Tuấn Anh
-Grundfrekvens
-École nationale des ponts et chaussées
-Capriccio
-Vilhelm Helweg-Larsen
-Stubben (Lauenburg)
 "Animal" (Conor Maynard sang)
 "Animal" (Def Leppard sang)
 "Animal" (Fuck Like a Beast)
@@ -4923,6 +4893,7 @@ Aura (Miles Davis)
 Aurangzeb
 Aurelie Muller
 Aurelio Barrios Y Morales
+Aureole
 Aurillac
 Aurland
 Aurora (Colorado)
@@ -5935,6 +5906,7 @@ Batteri (elektricitet)
 Batteri (flertydig)
 Batteri (militær)
 Battersea
+Battery Park City
 Battle Stations (album)
 Battle of South Mountain
 Battle of the Little Bighorn reenactment
@@ -8020,6 +7992,7 @@ BrickFest
 Brickfilm
 Brickfête
 Brickworld
+Bride of the Monster
 Brides of Destruction
 Bridge Across Forever
 Bridge of Spies (film)
@@ -9253,6 +9226,7 @@ Capitol Theatre
 Capitol Theatre, Sydney
 Capote (film)
 Caprica
+Capriccio
 Captain America: Civil War
 Captain America: The Winter Soldier
 Captain Beefheart
@@ -10583,6 +10557,7 @@ Christiane F.
 Christiane Nusslein-Volhard
 Christiane Papon
 Christiane Scrivener
+Christianeum
 Christiani & Nielsen
 Christiania
 Christiania Sports Club
@@ -13072,6 +13047,7 @@ Defense of the Ancients
 Definitive Dubliners
 Deftones
 Defying Gravity
+Deget
 Degory Priest
 Dehesa
 Dehydrering
@@ -16421,6 +16397,7 @@ Eredivisie
 Eremitagesletten
 Eremitageslottet
 Erfoud
+Erfurt
 Erhard Jakobsen
 Erhard Milch
 Erhverv
@@ -22070,6 +22047,7 @@ Grumman XF5F Skyrocket
 Grumman XP-50
 Grumtoft
 Grundfjeld
+Grundfrekvens
 Grundfør
 Grundlinje
 Grundlov
@@ -22952,6 +22930,7 @@ Hans Burgeff
 Hans Christian Andersen
 Hans Christian Jensen (maler)
 Hans Christian Ley
+Hans Christian Nielsen
 Hans Christian Rømeling
 Hans Christian Ørsted
 Hans Conried
@@ -26464,6 +26443,7 @@ Israelske arabere
 Israelske bosættelser
 Israelske medier
 Israel–Libanon-krisen 2006
+Issah Abdoulaye Salou
 Issehoved
 Isshelf
 Issy-les-Moulineaux
@@ -28021,6 +28001,7 @@ Johan Sarauw
 Johan Theodor Holmskjold
 Johan Thimm Rasmussen
 Johan Wiland
+Johan af Brienne
 Johan de Witt
 Johan uden Land
 Johan Ångström
@@ -28155,6 +28136,7 @@ John Ball (Politiker)
 John Bardeen
 John Barrasso
 John Barrow
+John Barry
 John Barry (filmkomponist)
 John Barrymore
 John Barth
@@ -32638,6 +32620,7 @@ Legal Defense Network
 Leganés
 Legendary Pictures
 Legering
+Legetøjsmuseet (Nykøbing Falster)
 Legia Warszawa
 Legion of Honour
 Legitimation
@@ -34653,6 +34636,7 @@ Løgkuppel
 Løgnedetektor
 Løgstør Idrætsforening
 Løgstør Open Air
+Løgumkloster Højskole
 Løgumklosterkredsen
 Løjtnant
 Løjtnant Hubert Gruber
@@ -37069,6 +37053,7 @@ Metro-Goldwyn-Mayer cartoon studio
 MetroLyrics
 Metrolyrics
 Metronom
+Metropol
 Metropolis (Superman)
 Metropolis (film)
 Metropolis: Suite I (The Chase)
@@ -37831,6 +37816,7 @@ Miss Peregrine's Home for Peculiar Children (film)
 Miss Piggy
 Missil
 Missing
+Missing (film fra 1918)
 Missing Persons
 Mission District (San Francisco)
 Mission: Impossible
@@ -39908,6 +39894,7 @@ Nguyen Cao Ky
 Nguyen Hue
 Nguyen Ngoc Tho
 Nguyen Van Thieu
+Nguyễn Tuấn Anh
 Nguyễn Tấn Dũng
 Nguyễn Văn Thiệu
 Nguyễn-dynastiet
@@ -42363,6 +42350,7 @@ Paleocæn
 Palermo
 Palestine Liberation Organization
 Palestinian Motor Sport and Motorcycle Federation
+Paletten (Viborg)
 Paliet
 Palinurus
 Palisades Charter High School
@@ -49414,6 +49402,7 @@ Shao Shun Ying
 Shape of My Heart (sang)
 Shape of You
 Shapefile
+Shapley-Shubiks model for forhandlingsvægt
 Shaquille O'Neal
 Sharabha
 Share Pedersen
@@ -51058,6 +51047,7 @@ Sorbonnes historie
 Sorel (Quebec)
 Sorgenfri Kirkegård
 Sorgenfri Sogn
+Sorin Matei
 Sorradile
 Sorrento
 Sorry to Bother You (film)
@@ -52413,6 +52403,7 @@ Stuart Whitman
 Stuart Wilson
 Stubbekøbing
 Stubbekøbing Boldklub
+Stubben (Lauenburg)
 Stuck Mojo
 Stuckisme
 Studebaker Corporation
@@ -56594,6 +56585,7 @@ Toscana
 Tosh Van der Sande
 Toshihide Maskawa
 Toshinori Kondo
+Toshio Shimakawa
 Toshio Suzuki
 Toshiyuki Kosugi
 Tosproget
@@ -58029,6 +58021,7 @@ Ungdoms-VM i håndbold 2018 (kvinder)
 Ungdoms-VM i håndbold 2019 (mænd)
 Ungdoms-VM i håndbold 2020 (kvinder)
 Ungdoms-VM i håndbold 2021 (mænd)
+Ungdomskultur
 Ungdomsolympiske lege
 Ungdomsoprøret i Danmark
 Ungdomstrøjen (Giro d'Italia)
@@ -59323,6 +59316,7 @@ Vilhelm Beck
 Vilhelm Bissen
 Vilhelm Fischer (borgmester)
 Vilhelm Hammershøi
+Vilhelm Helweg-Larsen
 Vilhelm Henrik Harbou
 Vilhelm Henrik, hertug af Gloucester og Edinburgh
 Vilhelm Hvalsøe
@@ -60990,6 +60984,7 @@ Without Love
 Without Me (sang)
 Without Mercy (stumfilm fra 1925)
 Witkowo
+Witold Gombrowicz
 Witold Lutosławski
 Wittgenstein
 Witton Castle

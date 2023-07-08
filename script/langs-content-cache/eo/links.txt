@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Attiswil
-Saaltor
-Voor een verloren soldaat
-Takeshi Yonezawa
-Cordovín
-6064 Holašovice
-Kamala Markandaya
-24697 Rastrelli
-Heinrich-Schütz-Arĥivo
-Merketal
-Líšnice (distrikto Ústí nad Orlicí)
-František Rybička
-Steinen (Badeno)
-Amerang
-Bernsbach
-Pokalo Gagarin
-Horst
-Jako
-Etila bromoacetato
-NGC 2472
-NGC 5019
-Benjámin Ceiner
-Morvillars (stacidomo)
-Oszkár Boda
-Preĝejo Ĉieliro de Maria (Dombóvár)
-Listo de senatanoj de Haut-Rhin
-The Jewish Chronicle
-Oh
-Strasburgeriacoj
-Tamás Kásás
 "Weird Al" Yankovic
 '''''Richard Francis Burton'''''
 ''porteños''
@@ -1129,6 +1099,7 @@ Tamás Kásás
 240021 Radzo
 240022 Demitra
 2404 Antarctica
+24697 Rastrelli
 247341 Shaulladany
 247652 Hajossy
 24934 Natecovert
@@ -1616,6 +1587,7 @@ Tamás Kásás
 6-plus-6-instrumentoj
 60-jara ciklo de ĉina kalendaro
 60558 Echeclus
+6064 Holašovice
 6078 Burt
 6084 Bascom
 60P/Tsuchinshan
@@ -3492,6 +3464,7 @@ Amendo
 Amendo Platt
 Amenemhet la 1-a
 Amenhotepo la 4-a
+Amerang
 American Airlines
 American Broadcasting Company
 American Conservative Union
@@ -5411,6 +5384,7 @@ Attila Keresztes
 Attila Nagy (aktoro)
 Attila Szabó T.
 Attilly
+Attiswil
 Aubagnan
 Aubais
 Aubazat
@@ -6949,6 +6923,7 @@ Benjamin Netanjahu
 Benjamin Thompson
 Benjamin Tucker
 Benjeto
+Benjámin Ceiner
 Benozzo di Filipuccio
 Benoît Brisefer
 Benoît Frachon
@@ -7090,6 +7065,7 @@ Bernis
 Berno
 Berno-Lötschberg-Sempiono-Fervojo
 Bernot
+Bernsbach
 Berny-Rivière
 Bernát Munkácsi
 Bernède
@@ -11389,6 +11365,7 @@ Cordelle
 Cordiglottis
 Cordon
 Cordon (Haute-Savoie)
+Cordovín
 Corduente
 Cordéac
 Corenc
@@ -15488,6 +15465,7 @@ Etiko de Nikomaĥo
 Etila 2-etilheksanato
 Etila acetato
 Etila benzoilacetato
+Etila bromoacetato
 Etila fenilacetato
 Etila fluoroacetato
 Etila glutarato
@@ -17407,6 +17385,7 @@ František Ladislav Rieger
 František Ladislav Čelakovský
 František Maxmilián Kaňka
 František Omelka
+František Rybička
 František Vaněk
 František Václav Míča
 František Xaver Svoboda
@@ -20397,6 +20376,7 @@ Heinrich Scheidemann
 Heinrich Welker
 Heinrich Zille
 Heinrich von Kleist
+Heinrich-Schütz-Arĥivo
 Heinz Fischer
 Heinz Kahlau
 Heinzenbach
@@ -21439,6 +21419,7 @@ Horoušany
 Horperath
 Horsarrieu
 Horse Guards Parade
+Horst
 Horst Ludwig Störmer
 Horst Stowasser
 Horst Tappert
@@ -25654,6 +25635,7 @@ Kalvinismo
 Kalvino
 Kamakura-epoko
 Kamala Harris
+Kamala Markandaya
 Kamaridio
 Kamasutro
 Kamberk
@@ -31608,6 +31590,7 @@ Listo de riveroj en Alagoas (Brazilo)
 Listo de riveroj en Germanio
 Listo de romiaj imperiestroj
 Listo de senatanoj de Dordogne
+Listo de senatanoj de Haut-Rhin
 Listo de senatanoj de Seine-Saint-Denis
 Listo de sendependaj ŝtatoj
 Listo de signifaj moskeoj
@@ -32531,6 +32514,7 @@ Lísek
 Líský
 Lívia Rév
 Líšnice (distrikto Prago-okcidento)
+Líšnice (distrikto Ústí nad Orlicí)
 Líšná (distrikto Žďár nad Sázavou)
 Lóðurr
 Löbnitz (Antaŭpomerio)
@@ -34562,6 +34546,7 @@ Merkata ekonomio
 Merkata prezo
 Merkatiko
 Merkato
+Merketal
 Merkosudo
 Merkredo
 Merkuriusz Polski Ordynaryjny
@@ -36422,6 +36407,7 @@ Mortulo
 Moruo
 Moruroa
 Morvillars
+Morvillars (stacidomo)
 Morzine
 Morêtel-de-Mailles
 Morón de la Frontera
@@ -36952,6 +36938,7 @@ NGC 2273
 NGC 2320
 NGC 2338
 NGC 2343
+NGC 2472
 NGC 2498
 NGC 2656
 NGC 2742
@@ -36995,6 +36982,7 @@ NGC 4843
 NGC 4869
 NGC 488
 NGC 4999
+NGC 5019
 NGC 502
 NGC 5128
 NGC 5132
@@ -40097,6 +40085,7 @@ Oswald de Northumbria
 Oswaldo Cruz
 Oswaldo Fumeiro Alvarez
 Oszkár  Kaufmann
+Oszkár Boda
 Oszkár Engelberg
 Oszkár Meszesi
 Oszkár Schwartz
@@ -42517,6 +42506,7 @@ Poisat
 Poissons (Haute-Marne)
 Poisy
 Poitevins
+Pokalo Gagarin
 Pokalo Harabagiu
 Pokojov
 Pokojovice
@@ -43351,6 +43341,7 @@ Preĝejo Stefano la 1-a (Nagyvázsony)
 Preĝejo Triunuo (Novjorko)
 Preĝejo de la Sanktaj Apostoloj (Konstantinopolo)
 Preĝejo de sanktaj Cirilo kaj Metodo (Ostrava)
+Preĝejo Ĉieliro de Maria (Dombóvár)
 Preĝejo Ĉieliro de Maria (Torvaj)
 Preĝejoj surŝtone ĉizitaj de Lalibelo
 Preĝo
@@ -46571,6 +46562,7 @@ Saad Hariri
 Saal (Antaŭpomerio)
 Saalach
 Saale
+Saaltor
 Saanich (Brita Kolumbio)
 Saanichton (Brita Kolumbio)
 Saarland
@@ -51424,6 +51416,7 @@ Stein-Glaĉero
 Steinbach (Hunsrück)
 Steinbach am Attersee
 Steineberg
+Steinen (Badeno)
 Steingaden
 Steingraeber & Söhne
 Steinhagen (Antaŭpomerio)
@@ -51576,6 +51569,7 @@ Stranga milito
 Stranný
 Strančice
 Strasburga Muzeo de Moderna kaj Nuntempa Artoj
+Strasburgeriacoj
 Strasburgo
 Strategia bombardado dum la dua mondmilito
 Strategio
@@ -52588,6 +52582,7 @@ Takayanagi Kenjiro
 Takayoshi Amma
 Takeru Kishimoto
 Takeshi Urata
+Takeshi Yonezawa
 Taksadsistemo
 Taksideo
 Taksio
@@ -52660,6 +52655,7 @@ Tamás Bródy
 Tamás Deutsch
 Tamás Deák
 Tamás Kabdebó
+Tamás Kásás
 Tanado
 Tanajura
 Tanaka Giichi
@@ -53323,6 +53319,7 @@ The Immigrant
 The Immigrant (filmo de 1917)
 The Independent
 The J.B.'s
+The Jewish Chronicle
 The Joy of Sex
 The Kid
 The Kid (filmo de 1921)
@@ -57281,6 +57278,7 @@ Vomaĵo (ornitologio)
 Vombato
 Vonoklasy
 Vonsano
+Voor een verloren soldaat
 Vorab-Glaĉero
 Vorarlbergo
 Voreppe

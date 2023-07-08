@@ -59,36 +59,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Tilbaketrukkethet
-Att angöra en brygga
-The Taker/Tulsa
-ʿAlī Nāṣir Muḥammad
-Volvo V
-Maren Jansson Haverstad
-Raqqada
-John Brandts vei (Oslo)
-FA-cupen 1955/56
-Kungliga Hovstaterna
-Abbasidene
-Nancy Stouffer
-Krigsmaling
-Mame Mbar Diouf
-Kongsten
-Stian Pedersen
-Oʻzbekiston Futbol Federatsiyasi
-Hamelmalo (distrikt)
-Legionella
-Bekkelaget terminal
-Undine (skuespill)
-Murskje
-Frøkenosveien
-Bektasji
-Pilocnema
-Heller bru
-Odd Bye-Nielsen
-Korint-ligaen
-Montivilliers
-Eldridge Cleaver
 '''IGBT'''
 ''Sentralbad''
 'are'are
@@ -1129,6 +1099,7 @@ Abadan
 Abakanfjellene
 Abaris
 Abatiá
+Abbasidene
 Abbed
 Abbediengen holdeplass
 Abbedisse
@@ -3768,6 +3739,7 @@ Atrevs
 Atrium
 Atron
 Atropos
+Att angöra en brygga
 Attaliddynastiet
 Attentat
 Attentatet på Abraham Lincoln
@@ -4700,9 +4672,11 @@ Bekkefaret prestegjeld
 Bekkelaget (Stange)
 Bekkelaget prestegjeld
 Bekkelaget stasjon
+Bekkelaget terminal
 Bekkestua
 Bekkestua stasjon
 Beksømstøvler
+Bektasji
 Bel Canto (band)
 Bela Vista da Caroba
 Bela Vista do Paraíso
@@ -11633,6 +11607,7 @@ Elder Scrolls V: Skyrim
 Eldorado do Sul
 Eldre steinalder
 Eldrid Nordbø
+Eldridge Cleaver
 Eleanor Farjeon
 Eleanor Garatti
 Eleanor Holm
@@ -12749,6 +12724,7 @@ F-18 Hornet
 F.Kr.
 F.L.Æ. Kunzen
 F.P. Jac
+FA-cupen 1955/56
 FACE Stockholm Makeup School
 FAMAS
 FC Augsburg
@@ -14904,6 +14880,7 @@ Frédéric Déhu
 Frédérique Marcelin
 Fréjus
 Frøen stasjon
+Frøkenosveien
 Frølichs vei (Oslo)
 Frøvik gård kraftverk
 Frøy skole
@@ -17597,6 +17574,7 @@ Hamazi
 Hamburg
 Hamburgbibelen
 Hamburger SV
+Hamelmalo (distrikt)
 Hamilton (Ontario)
 Hamilton County (Kansas)
 Hamilton County (New York)
@@ -18264,6 +18242,7 @@ Hellenisme
 Hellenismen
 Hellenistisk sivilisasjon
 Hellenistiske sivilisasjon
+Heller bru
 Helleristning
 Helleristningene i Alta
 Helleristningene på Skavberget
@@ -21728,6 +21707,7 @@ John Bahcall
 John Baptist Wang Zengyi
 John Barry
 John Bell Hood
+John Brandts vei (Oslo)
 John Brungot
 John C. Frémont
 John C. Lilly
@@ -24184,6 +24164,7 @@ Kongsberg videregående skole
 Kongsberglista
 Kongsgård
 Kongsgårder
+Kongsten
 Kongsten fort
 Kongsveien (Oslo)
 Kongsvinger
@@ -24324,6 +24305,7 @@ Korey Stringer
 Korgen
 Korgen kirke
 Korint
+Korint-ligaen
 Korintbukta
 Korinteidet
 Korintkanalen
@@ -24641,6 +24623,7 @@ Krigsguvernørenes konferanse
 Krigsherre
 Krigsherrer
 Krigskunst
+Krigsmaling
 Krigsskueplassen Trans-Mississippi i den amerikanske borgerkrigen
 Krigsturisme
 Kriminalitet
@@ -24883,6 +24866,7 @@ Kumiko Ogura
 Kuna (språk)
 Kuneiform
 Kungliga Biblioteket
+Kungliga Hovstaterna
 Kungliga Vetenskapsakademien
 Kunnskap
 Kunnskapens tre (film)
@@ -25943,6 +25927,7 @@ Legemiddelkjemi
 Legende
 Legendre (krater)
 Legering
+Legionella
 Lego Star Wars II Mobile
 Legokloss
 Lehmann (krater)
@@ -28561,6 +28546,7 @@ Mamadama Bangoura
 Mamadou Camara
 Mamadou Sakho
 Mamborê
+Mame Mbar Diouf
 Mamertinerfengselet
 Mami (gudinne)
 Mamisonpasset
@@ -28792,6 +28778,7 @@ Marduk (band)
 Marechal Cândido Rondon
 Marek Plawgo
 Maren Grøthe
+Maren Jansson Haverstad
 Maren Reisner Falch Sverdrup
 Maren Weigel
 Margalida Crespi
@@ -30719,6 +30706,7 @@ Montgomery
 Montgomery County (Kansas)
 Montgomery County (New York)
 Monthly Notices of the Royal Astronomical Society
+Montivilliers
 Montpellier HSC
 Montrose FC
 Montréal
@@ -30987,6 +30975,7 @@ Murmansk oblast
 Murom
 Murray County (Minnesota)
 Mursili III
+Murskje
 Murstein
 Musa Barrow
 Musa Hajdari
@@ -32385,6 +32374,7 @@ Nanchang
 Nanchangopprøret
 Nancy Hogshead-Makar
 Nancy Owen
+Nancy Stouffer
 Nanhui
 Nanjing
 Nanjing lu
@@ -34395,6 +34385,7 @@ Octavian
 Oda Bjørnholt
 Odalen
 Odalen prestegjeld
+Odd Bye-Nielsen
 Odd Emil Ingebrigtsen
 Odd Fellow logen Kongshaug
 Odd Harald Hovland
@@ -35224,6 +35215,7 @@ Oxynoemacheilus argyrogramma
 Oxynoemacheilus insignis
 Oßling
 Oświęcim
+Oʻzbekiston Futbol Federatsiyasi
 P!tux Linux
 P. Sulpicius Rufus
 P.E. Lange-Müller
@@ -36305,6 +36297,7 @@ Pilespisser
 Pilestredet
 Pilestredet (Oslo)
 Pilibhit (distrikt)
+Pilocnema
 Pilot (Buffy episode)
 Pilsen
 Pimachiowin Aki
@@ -37664,6 +37657,7 @@ Rapping
 Rappringvinge
 Rapssommerfugl
 Raptus tegneseriefestival
+Raqqada
 Raquel Corral
 Raquel Rastenni
 Ras Hafun
@@ -42890,6 +42884,7 @@ Steyerberg
 Stian Grimseth
 Stian Heimlund Skjæveland
 Stian Herøy
+Stian Pedersen
 Stibochiona
 Stibochiona coresia
 Stibochiona nicea
@@ -45844,6 +45839,7 @@ The Surreal Life
 The Surreal Life: Fame Games
 The TV Set
 The TV Specials
+The Taker/Tulsa
 The Tall Ships' Races
 The Times
 The Times of India
@@ -46134,6 +46130,7 @@ Til huttetuenes land
 Tilapia zillii
 Tilbake til fremtiden
 Tilbakekoblingsmekanisme (klima)
+Tilbaketrukkethet
 Tilbud
 Tilbud og etterspørsel
 Tilbury
@@ -47957,6 +47954,7 @@ Underverden
 Underverdenen
 Undervisning
 Undervisningsbygg Oslo
+Undine (skuespill)
 Undredal stavkirke
 Une Bastholm
 Ungarn
@@ -50221,6 +50219,7 @@ Volturnus
 Volum
 Volumprosent
 Volvat
+Volvo V
 Volvo XC
 Voodoo
 Voodoo Linux
@@ -52097,6 +52096,7 @@ transistor
 Žan Rudolf
 Željko Tanasković
 Ștefan Kovács
+ʿAlī Nāṣir Muḥammad
 На берегу неба
 Я ночной хулиган
 

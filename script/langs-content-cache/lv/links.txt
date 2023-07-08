@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Kleiverts
-798. gads
-Freidenfelds
-Lavrinovičs
-Svētais Mārtiņš
-Eiroskeptisms
-Jurijs Vauļins
-Bouygues
-Sardīnijas Karaliste
-Latvijas futbola izlase 1933. gadā
-Ivans Šiškins
-1915. gads Latvijā
-Kutinirpāka
-Kārlis Angerers
-Kārsavas novads
-Kēnigszē
-Hirokitija
-Teniss 1900. gada vasaras olimpiskajās spēlēs — sieviešu vienspēles
-Jānis Cālītis
-Autoceļš P59
-Zvirbulis (uzvārds)
-Sociālā nodrošināšana
-Sauszemes bruņotie spēki
-Apgabals (ASV)
-10. marts
-Seksti
-Kapu kalniņš
-Šveices vēsture
-Sonoko Čiba
-Viesītes iela
 "Baltijas federācija" (pretestības grupa)
 "Brocēnu sporta centra" ledus halle
 "Deizijas kundzes šoferis"
@@ -820,6 +790,7 @@ $50SAT
 1914. gads
 1914. gads Latvijā
 1915. gads
+1915. gads Latvijā
 1916. gada ASV prezidenta vēlēšanas
 1916. gada vasaras olimpiskās spēles
 1916. gads
@@ -4537,6 +4508,7 @@ $50SAT
 79. autobusu maršruts (Ščecina)
 79. gads
 795. gads
+798. gads
 7th Heaven
 8 Head Productions
 8 Million Ways to Die
@@ -8493,6 +8465,7 @@ Apes rajona priekšsēdētāju uzskaitījums
 Apes rajons
 Apes vēsture
 Apes ģerbonis
+Apgabals (ASV)
 Apgabaltiesa (Latvija)
 Apgaismības laikmets
 Apgrieztā matrica
@@ -23797,6 +23770,7 @@ Fredži
 Freehold Borough
 Fregat (dzinējbloks)
 Fregatputns
+Freidenfelds
 Freidisa-Halla Einarsdotira
 Freimane
 Freks Frīmens
@@ -27672,6 +27646,7 @@ Hiro Fainss Tifins
 Hiroe Minagava
 Hirogari
 Hirohito
+Hirokitija
 Hirosima
 Hirosimas prefektūra
 Hirosimas un Nagasaki bombardēšana
@@ -31746,6 +31721,7 @@ Jurijs Patrikejevs
 Jurijs Popkovs
 Jurijs Savičevs
 Jurijs Trofimovs
+Jurijs Vauļins
 Jurijs Vekslers
 Jurijs Ļaļins
 Jurijs Ņikuļins
@@ -33325,6 +33301,7 @@ Kapteinis Āķis
 Kapteiņa Enriko pulkstenis
 Kaptorhinīdi
 Kapu ezers (dabas liegums)
+Kapu kalniņš
 Kapu svētki
 Kapucīnieši
 Kapueira
@@ -34799,6 +34776,7 @@ Kleistu muiža
 Kleitons Andersons
 Kleitons Lorents
 Kleiveringa sala
+Kleiverts
 Klejotāji
 Klejotājskudras
 Klejotāju zeme
@@ -37226,6 +37204,7 @@ Kustība Par!
 Kutaisi
 Kutaisi automobiļu rūpnīca
 Kutammakū
+Kutinirpāka
 Kutno
 Kutuzova prospekts
 Kuvasoja
@@ -37428,6 +37407,7 @@ Kārklupīte (Daugavas pieteka)
 Kārleina Šūtensa
 Kārlija Paipere
 Kārlis Alberts
+Kārlis Angerers
 Kārlis Aperāts
 Kārlis Augusts Līventāls
 Kārlis Auzāns
@@ -37657,6 +37637,7 @@ Kēges līcis
 Kēnigsberga
 Kēnigsbergas Universitāte
 Kēnigsbergas universitāte
+Kēnigszē
 Kēnigszē bobsleja, kamaniņu un skeletona trase
 Kērks Daglass
 Kērlings
@@ -38892,6 +38873,7 @@ Latvijas futbola Virslīga 2013
 Latvijas futbola izlase
 Latvijas futbola izlase 1927. gadā
 Latvijas futbola izlase 1931. gadā
+Latvijas futbola izlase 1933. gadā
 Latvijas futbola izlase 2006. gada Pasaules kausa kvalifikācijā
 Latvijas gada labākais basketbolists
 Latvijas galvenie autoceļi
@@ -39222,6 +39204,7 @@ Lavertonas gaisa bāze
 Lavorišķu seņūnija
 Lavrentijs Berija
 Lavri
+Lavrinovičs
 Lavrovka
 Lawkanat-1
 Lawman
@@ -60712,6 +60695,7 @@ Sociālistu integrācijas kustība
 Sociālistu revolucionāru partija
 Sociālliberālisms
 Sociālā identitāte
+Sociālā nodrošināšana
 Sociālā politika
 Sociālā stigma
 Sociālā vide
@@ -61011,6 +60995,7 @@ Sonja O'Sullivana
 Sonneratia
 Sonny Boy Williamson II
 Sonny Boy Williamson and The Yardbirds
+Sonoko Čiba
 Sons Donvoks
 Sons Hinmins
 Sons Kans Ho
@@ -62718,6 +62703,7 @@ Svētais Kārlis Boromejs
 Svētais Labrencis
 Svētais Ludvigs
 Svētais Miķelis
+Svētais Mārtiņš
 Svētais Pāvils
 Svētais Pēteris
 Svētais aizbildnis
@@ -69330,6 +69316,7 @@ Viesīte (nozīmju atdalīšana)
 Viesīte (upe)
 Viesītes Mūzikas un mākslas skola
 Viesītes ezers
+Viesītes iela
 Viesītes ielu uzskaitījums
 Viesītes karogs
 Viesītes luterāņu baznīca
@@ -72541,6 +72528,7 @@ Zviergzdova
 Zviergža-Varaža
 Zviergža-Varaža (Stabulnieku pagasts)
 Zviergža-Varaža (Sīļukalna pagasts)
+Zvirbulis (uzvārds)
 Zvirbuļveidīgie
 Zvirgzde (upe)
 Zvirgzdenes ezera salas

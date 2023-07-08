@@ -58,36 +58,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Peter Althaus
-Savelberg
-Vin cuit de Provence
-Liste der portugiesischen Botschafter in Afghanistan
-Reise zu Tolstoi
-Giammalva
-Tony Popovic
-Miles Monarch
-Liste von Persönlichkeiten der Stadt Eschweiler
-Mick Franke
-Sven Drühl
-Chantilly-Spitze
-Siødæmningen
-QLS
-Stefan Keune
-Zwangslage
-Niederländisch-Guayana
-David Feherty
-Österreichische Identität
-Baumühle (Hohenfels)
-Beckstraße 8 (Darmstadt)
-Fußball-Bezirksklasse Plauen-Zwickau 1935/36
-Apachentanz (1906)
-Marañón (Begriffsklärung)
-Åstorp (Gemeinde)
-Klaus Weiß (Handballspieler)
-Andreas Burnier
-Pihasoittajat
-Bus del Diaol
-Willibaldsburg
 (1101) Clematis
 (11520) Fromm
 (13132) Ortelius
@@ -3210,6 +3180,7 @@ Andreas Behr (Eisschnellläufer)
 Andreas Bodenstein
 Andreas Brandhorst
 Andreas Bresinsky
+Andreas Burnier
 Andreas Dobberkau
 Andreas Dorschel
 Andreas Dressel
@@ -3899,6 +3870,7 @@ Aotus (Schmetterlingsblütler)
 Apache MyFaces Trinidad
 Apache-Sprachen
 Apachen
+Apachentanz (1906)
 Aparasphenodon
 Apartheid
 Aparupa Poddar
@@ -6117,6 +6089,7 @@ Baumeister und Künstler im Kloster Dobbertin
 Baumgarten (Gemeinde Naarn)
 Baumkängurus
 Baumwolle
+Baumühle (Hohenfels)
 Bauplan (Morphologie)
 Bauquay
 Baur Karosserie- und Fahrzeugbau
@@ -6251,6 +6224,7 @@ Bebop
 Beck (Automarke)
 Becken (Anatomie)
 Beckenhaube
+Beckstraße 8 (Darmstadt)
 Becky G
 Becky Kellar
 Becky Pringle
@@ -8603,6 +8577,7 @@ Burundi
 Burundische Rugby-Union-Nationalmannschaft
 Bus (Datenverarbeitung)
 Bus (Pas-de-Calais)
+Bus del Diaol
 Busan Open Challenger Tennis 2012
 Busanan Ongbumrungpan
 Busboykott von Montgomery
@@ -9701,6 +9676,7 @@ Channel 5 (Großbritannien)
 Channon & Sons
 Chanson (Alte Musik)
 Chantilly
+Chantilly-Spitze
 Chaos City
 Chaosforschung
 Chapare-Virus
@@ -12327,6 +12303,7 @@ David Downes
 David Duke
 David Eckstein
 David F. Cargo
+David Feherty
 David Ferguson (Geologe)
 David Ferrer
 David Funderburk
@@ -18642,6 +18619,7 @@ Fußball-Afrikameisterschaft
 Fußball-Afrikameisterschaft 1968
 Fußball-Afrikameisterschaft 1974
 Fußball-Bayernliga 1995/96
+Fußball-Bezirksklasse Plauen-Zwickau 1935/36
 Fußball-Bundesliga
 Fußball-Bundesliga 1974/75
 Fußball-Bundesliga 2015/16
@@ -19998,6 +19976,7 @@ Giacomo Leopardi
 Giacomo Rizzolatti
 Giambattista Varesco
 Giambattista Vico
+Giammalva
 Giampaolo Crepaldi
 Gian Luigi Rondi
 Gianjin
@@ -29285,6 +29264,7 @@ Klaus Stachelberger
 Klaus Stimeder
 Klaus Tausend
 Klaus Theo Schröder
+Klaus Weiß (Handballspieler)
 Klaus Wesch
 Klaus Wildbolz
 Klaus-Dieter Lehmann
@@ -32012,6 +31992,7 @@ Liste der japanischen Botschafter in der Türkei
 Liste der kanadischen Meister im Eiskunstlauf
 Liste der niederländischen Militärstandorte in Deutschland
 Liste der olympischen Medaillengewinner aus den Vereinigten Staaten
+Liste der portugiesischen Botschafter in Afghanistan
 Liste der römisch-katholischen Titularbistümer
 Liste der schwedisch- und zweisprachigen Gemeinden Finnlands
 Liste der syrischen Botschafter in Deutschland
@@ -32073,6 +32054,7 @@ Liste von Musikern und Interpreten christlicher Musik in Deutschland
 Liste von Nutzfahrzeugherstellern
 Liste von Organisten
 Liste von Parkeisenbahnen
+Liste von Persönlichkeiten der Stadt Eschweiler
 Liste von Persönlichkeiten der Stadt Hartford (Connecticut)
 Liste von Persönlichkeiten der Stadt Lissabon
 Liste von Persönlichkeiten der Stadt Ljubljana
@@ -34105,6 +34087,7 @@ Marauder (Automobilhersteller)
 Marauder Car Company
 Maraveh Tappeh
 Maraveh Tappeh (Verwaltungsbezirk)
+Marañón (Begriffsklärung)
 Marbais & Lasnier
 Marbella
 Marble-Swift Automobile Company
@@ -36163,6 +36146,7 @@ Mick Audsley
 Mick Burisch
 Mick Connell
 Mick Doohan
+Mick Franke
 Mick Jagger
 Mick LaSalle
 Mick Mills
@@ -36394,6 +36378,7 @@ Mile High Stadium
 Milena Dreißig
 Milena Oda
 Miles Davis
+Miles Monarch
 Milford (CDP)
 Milford (Maine)
 Militarismus
@@ -38841,6 +38826,7 @@ Niederhessen
 Niederhof (Bernhardswald)
 Niederlande
 Niederländisch (Name)
+Niederländisch-Guayana
 Niederländische Annexionspläne nach dem Zweiten Weltkrieg
 Niederländische Kolonien
 Niederländische Ostindien-Kompanie
@@ -41530,6 +41516,7 @@ Pete Sampras
 Pete Vandermeer
 Peter & Moritz
 Peter Ahlwardt
+Peter Althaus
 Peter Antony Moran
 Peter Asmussen
 Peter Bamm
@@ -42074,6 +42061,7 @@ Piggotts
 Piglio
 Pignataro Interamna
 Pigs on the Wing
+Pihasoittajat
 Pihla Viitala
 Pihsiang Electric Vehicle Manufacturing
 Piia-Noora Kauppi
@@ -44093,6 +44081,7 @@ Reinhold Sallbach
 Reinhold Schommers
 Reinout Scholten van Aschat
 Reise nach Indien
+Reise zu Tolstoi
 Reisebericht
 Reisefreiheit
 Reiskuchen
@@ -46726,6 +46715,7 @@ Savegame
 Saveh
 Saveh (Verwaltungsbezirk)
 Savel
+Savelberg
 Saverio Costanzo
 Saverne
 Saviano Vehicles
@@ -48399,6 +48389,7 @@ Sizaire Frères
 Sizaire-Naudin
 Size Isn’t Everything
 Siziwang-Banner
+Siødæmningen
 Sjarhej Betau
 Sjarhej Samasejka
 Sjur Røthe
@@ -49714,6 +49705,7 @@ Stefan Ilić (Fußballspieler)
 Stefan Jänke
 Stefan Kainath
 Stefan Kaminski
+Stefan Keune
 Stefan Kjernholm
 Stefan Korte (Jurist)
 Stefan Kroll
@@ -50536,6 +50528,7 @@ Sušice
 Svelte (Automarke)
 Sven Beuchler
 Sven Bremer (Fußballspieler)
+Sven Drühl
 Sven Eggert (Volleyballspieler)
 Sven Henkler
 Sven Kacirek
@@ -52859,6 +52852,7 @@ Tony Jacklin
 Tony Kakko
 Tony Manero
 Tony Osoba
+Tony Popovic
 Tony Readings
 Tony Rogers
 Tony Stewart (Rennfahrer)
@@ -54988,6 +54982,7 @@ Vim Motor Truck Company
 Viminaria
 Viminaria juncea
 Vimy-Kaserne
+Vin cuit de Provence
 Vinaya
 Vinayak Raut
 Vince Clarke
@@ -56818,6 +56813,7 @@ Williams Lake (British Columbia)
 Williams Motor Carriage Company
 Williamson County (Tennessee)
 Williamson Motor Company
+Willibaldsburg
 Willie Anderson (Golfspieler)
 Willie Bain
 Willie Bester
@@ -57983,6 +57979,7 @@ Zuzana Poliačková
 Zuzanna Radecka
 Zwaan
 Zwangsarbeit
+Zwangslage
 Zwangssterilisation
 Zwecksonntag
 Zwei Abhandlungen über die Regierung
@@ -58107,6 +58104,7 @@ transistor
 Årstaviken
 Åsa Dornbusch
 Åsa Svensson
+Åstorp (Gemeinde)
 Åtvidabergs Vagnfabrik
 Ælfric
 Æthelred (Wessex)

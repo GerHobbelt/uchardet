@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Richard Denning
-Wan Marc
-The Upside of Anger
-Igreja Matriz de Nossa Senhora da Graça (São Francisco do Sul)
-KK Napredak Kruševac
-Aborto na Argentina
-Barragem de Otranto
-Nori Bucci
-Aforia moskalevi
-Heaven and Hell
-Poike
-Sea of Sorrow
-Lose Control (EP)
-Edgar Castillo
-Daniel 8
-Relações entre Estados Unidos e Kuwait
-Cão de água português
-Aritzo
-Talk Shows on Mute
-Suite Três Rios
-Holothele rondoni
-Penna San Giovanni
-Impacto cultural de Taylor Swift
-Espaços de Sobolev
-Sidi Ali Benyoub (distrito)
-NGC 4684
-Ovidiu Stîngă
-Prémio Emmy Internacional
-Negomir
-Leomar Quintanilha
 "Still Life" (American Concert 1981)
 '98 Live Meltdown
 'N Sync
@@ -1445,6 +1415,7 @@ Abolicionismo no Brasil
 Abominável homem das neves
 Aboncourt (Meurthe-et-Moselle)
 Aborto
+Aborto na Argentina
 About Time (telenovela)
 About.com
 Above & Beyond
@@ -2018,6 +1989,7 @@ Afonso VI de Leão e Castela
 Afonso XIII da Espanha
 Afonso XIII de Espanha
 Aforamento
+Aforia moskalevi
 Afoxé (instrumento)
 Africano
 Africanos
@@ -4630,6 +4602,7 @@ Aristotle Kristatos
 Aristófanes (desambiguação)
 Aristóteles
 Aritmética modular
+Aritzo
 Arizona
 Arizona State University
 Arjeplog (comuna)
@@ -6749,6 +6722,7 @@ Barrados no Baile
 Barragem
 Barragem Três Irmãos
 Barragem de Bariri
+Barragem de Otranto
 Barragem de aterro
 Barragem de gravidade
 Barramares
@@ -16571,6 +16545,7 @@ Cânone (ficção)
 Cântabros
 Cânula nasal
 Cão de Jennings
+Cão de água português
 Cãozarrão
 Célia Catunda
 Céline Dion
@@ -16895,6 +16870,7 @@ Dangerous Woman (canção)
 Dani Black
 Dani Samuels
 Daniel
+Daniel 8
 Daniel A. Livingstone
 Daniel Agostinho Faraco
 Daniel Arnon
@@ -19972,6 +19948,7 @@ Edgar & Ellen
 Edgar Allan Poe
 Edgar Bergen
 Edgar Bright Wilson
+Edgar Castillo
 Edgar Evans
 Edgar Rice Burroughs
 Edgar S. Woolard Jr.
@@ -21882,6 +21859,7 @@ Espaço sideral
 Espaço-tempo
 Espaço-tempo de Malament-Hogarth
 Espaçonave
+Espaços de Sobolev
 Especialista
 Especialista de carga
 Especificação de programa
@@ -28775,6 +28753,7 @@ Heather Simms
 Heaven & Hell
 Heaven Is a Traffic Jam on the 405
 Heaven Sent
+Heaven and Hell
 Heaven and Hell (banda)
 Heaven and Hell (álbum de Black Sabbath)
 Heaven's Gate (seita)
@@ -29617,6 +29596,7 @@ Holocausto nuclear
 Holocene
 Holoceno
 Holomycota
+Holothele rondoni
 Holozoa
 Holy Ground
 Holy Weapon
@@ -30591,6 +30571,7 @@ Igreja Evangélica Luterana do Brasil
 Igreja Evangélica de Confissão Luterana no Brasil
 Igreja Greco-Católica Romena unida com Roma
 Igreja Internacional da Graça de Deus
+Igreja Matriz de Nossa Senhora da Graça (São Francisco do Sul)
 Igreja Matriz de Nossa Senhora de Fátima
 Igreja Matriz de Vila Praia de Âncora
 Igreja Metodista
@@ -30906,6 +30887,7 @@ Impact Wrestling (programa de televisão)
 Impact X Division Championship
 Impacto cultural de Madonna
 Impacto cultural de Superman
+Impacto cultural de Taylor Swift
 Impactos da pandemia de COVID-19 na televisão brasileira
 Impala
 Impeachment
@@ -34367,6 +34349,7 @@ KDE e.V.
 KDE neon
 KIIS-FM
 KK Astoria Bydgoszcz
+KK Napredak Kruševac
 KLA Corporation
 KMFDM
 KRMG (AM)
@@ -37944,6 +37927,7 @@ Los Gatos
 Los Llanos de Tormes
 Los Masos
 Los Três Amigos
+Lose Control (EP)
 Lose My Mind
 Losing Alice
 Losing Control
@@ -43823,6 +43807,7 @@ NGC 3325
 NGC 3335
 NGC 4288
 NGC 4526
+NGC 4684
 NGC 4833
 NGC 529
 NGC 5616
@@ -44320,6 +44305,7 @@ Negacionismo da ditadura militar brasileira
 Negage
 Negapatão
 Negligência salutar
+Negomir
 Negro brilhante
 Negros
 Negrão de Lima (Goiânia)
@@ -45022,6 +45008,7 @@ Nordmaling (comuna)
 Norfolk (Virgínia)
 Norfolk and Norwich University Hospital
 Norge (dirigível)
+Nori Bucci
 Norken
 Norland
 Norlândia
@@ -48562,6 +48549,7 @@ Penicilina
 Peninha (Disney)
 Peninos
 Penn Badgley
+Penna San Giovanni
 Pennantiaceae
 Pennichaw
 Pennigsehl
@@ -49697,6 +49685,7 @@ Poesia épica
 Poeta
 Pogo (dança)
 Pogány
+Poike
 Poinson-lès-Nogent
 Point Break
 Point of Entry
@@ -51362,6 +51351,7 @@ Préchac-sur-Adour
 Précilhon
 Prédio
 Prémio Critics Choice de melhor atriz em cinema
+Prémio Emmy Internacional
 Prémio Georg Büchner
 Prémio Kirby
 Prémio Landon Donovan MVP
@@ -54194,6 +54184,7 @@ Richard Crashaw
 Richard Curtis
 Richard Dean Anderson
 Richard Dehmel
+Richard Denning
 Richard Donner
 Richard Dreyfuss
 Richard Eliason
@@ -57301,6 +57292,7 @@ Se Eu Fosse Você
 Se Eu Fosse Você 2
 Se Eu Não Te Amasse Tanto Assim
 Sea Life Safari
+Sea of Sorrow
 Seabórgio
 Seaforth (Nova Gales do Sul)
 Seagate Technology
@@ -58307,6 +58299,7 @@ Sideways
 Sidhe
 Sidhe (empresa)
 Sidhe Interactive
+Sidi Ali Benyoub (distrito)
 Sidi Khelifa
 Sidi Merouane
 Sidi Merouane (distrito)
@@ -60132,6 +60125,7 @@ Suicídio
 Suidae
 Suina
 Suinana
+Suite Três Rios
 Suk Hyun-Jun
 Sukhoi Su-30
 Sul (Goiânia)
@@ -61483,6 +61477,7 @@ Taline
 Talisa Soto
 Talismã
 Talita Calixto Simonetti
+Talk Shows on Mute
 Talk Tonight
 Talk show
 TalkOrigins Archive
@@ -63388,6 +63383,7 @@ The Unauthorized Beverly Hills, 90210 Story
 The Uncanny Counter
 The UnderGarden
 The United States Steel Hour
+The Upside of Anger
 The Used
 The Usual Suspects
 The V.I.P.s
@@ -67841,6 +67837,7 @@ Waltham (Minnesota)
 Walther Hermann Nernst
 Walther Negrão
 Walther Nernst
+Wan Marc
 Wanako Games
 Wanda Media
 Wanderers (2014)

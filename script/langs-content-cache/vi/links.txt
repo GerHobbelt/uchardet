@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Yıldırım, Yenişehir
-Cortodera omophloides
-Larinioides cornutus
-Melanoxanthus exitiosus
-Alkanna maleolens
-Pronolagus
-Polygonum alopecuroides
-Sökün, Silifke
-Munden, Kansas
-Alcalá de Moncayo
-Lepturges alboscriptus
-Crenidorsum micheliae
-1952 Hesburgh
-Mimosa catharinensis
-Thiện tần An thị
-Trichorhina bequaerti
-Frullania bullata
-Aegus acutangulus
-Isopeda binnaburra
-Neophoneus flavotibius
-Geodena
-Quận Crawford, Wisconsin
-Chiococca pachyphylla
-Orthotrichum shevockii
-Leioproctus chrysostomus
-Anathallis modesta
-Zdechovice, Pardubice
-Fidonia albosignata
-Telaranea pecten
-Lepanthes mollis
 "Thay đổi" kháng nguyên
 "Trôi" kháng nguyên
 "tế bào nhớ
@@ -317,6 +287,7 @@ Lepanthes mollis
 195 TCN
 1950–51 French Division 1
 1951–52 French Division 1
+1952 Hesburgh
 1952–53 French Division 1
 1953–54 French Division 1
 1954 Soviet Top League
@@ -1516,6 +1487,7 @@ Aectors
 Aegidae
 Aegis BMD
 Aegisthus
+Aegus acutangulus
 Aekansh Vats
 Aelius Gallus
 Aemilianus
@@ -2087,6 +2059,7 @@ Alita: Thiên thần chiến binh
 Alive in Joburg
 Alizay
 Alizé Cornet
+Alkanna maleolens
 Alkere
 Alki Larnaca FC
 Alkyd
@@ -2540,6 +2513,7 @@ Anastasia Pavlyuchenkova
 Anastasios Andreou
 Anastasios II
 Anastasius I
+Anathallis modesta
 Anathi
 Anationalism
 Anatolian rock
@@ -10291,6 +10265,7 @@ Chinnenahalli
 Chinnor F.C.
 Chinpokomon
 Chintalmadivala, Anekal
+Chiococca pachyphylla
 Chip 'n Dale: Rescue Rangers (phim)
 Chiprana
 Chipset
@@ -13009,6 +12984,7 @@ Corticarina coei
 Corticosteroid
 Cortiglione
 Cortisol
+Cortodera omophloides
 Cortona
 Coruscant
 Corveissiat
@@ -13158,6 +13134,7 @@ Creighton Abrams
 Cremeaux
 Cremosperma cotejense
 Creney-près-Troyes
+Crenidorsum micheliae
 Creole ưu tú
 Cresancey
 Crespi d'Adda
@@ -18767,6 +18744,7 @@ Ficus polita
 Fiddler on the Roof (phim)
 Fidel Castro
 Fidelma
+Fidonia albosignata
 Field emission display
 Field of Dreams
 Fieseler Fi 156
@@ -19370,6 +19348,7 @@ Frozen (thương hiệu)
 Fructose
 Fruits Basket
 Frullania
+Frullania bullata
 Frullania cordistipula
 Fräschels
 Fréchendets
@@ -19977,6 +19956,7 @@ Gentleman thief
 Genzano di Roma
 Genève
 GeoNames
+Geodena
 Geoff Johns
 Geoffrey Chaucer
 Geoffrey Parker (historian)
@@ -27524,6 +27504,7 @@ Isoetopsida
 Isokaze (tàu khu trục Nhật)
 Isola d'Asti
 Isometrum farreri
+Isopeda binnaburra
 Isotachis multiceps
 Isotype (immunology)
 Isparta (tỉnh)
@@ -32099,6 +32080,7 @@ Lares
 Lari Gruzia
 Lariano
 Larians-et-Munans
+Larinioides cornutus
 Lariscus
 Lariscus hosei
 Lariscus insignis
@@ -32473,6 +32455,7 @@ Leigh Anne Tuohy
 Leigh Harline
 Leigneux
 Leimbach, Bitburg-Prüm
+Leioproctus chrysostomus
 Leioproctus rubellus
 Leipzig
 Leipzig (tỉnh)
@@ -32535,6 +32518,7 @@ Leopold II của Thánh chế La Mã
 Leopold Ružička
 Leopold Stokowski
 Leordina
+Lepanthes mollis
 Lepanto (Rome Metro)
 Lepidopterology
 Lepidoziaceae
@@ -32553,6 +32537,7 @@ Leptophis diplotropis
 Leptorhynchos waitzia
 Leptospermum semibaccatum
 Leptotarsus tinctorius
+Lepturges alboscriptus
 Lepturges zikani
 Lerche (studio)
 Lerm-et-Musset
@@ -36564,6 +36549,7 @@ Melanophthalma dewittei
 Melanopolia brevicornis
 Melanotus
 Melanotus plurimus
+Melanoxanthus exitiosus
 Melanoxanthus taeniatus
 Melapura
 Melatonin
@@ -37159,6 +37145,7 @@ Mimeure
 Mimivirus
 Mimizan
 Mimoclystia deplanata
+Mimosa catharinensis
 Mimosa leprosa
 Minami Takayama
 Minamoto no Sanetomo
@@ -37955,6 +37942,7 @@ Mundaghatta
 Mundagodu
 Mundanahalli
 Mundane science fiction
+Munden, Kansas
 Mundialito (nữ)
 Munhall, Pennsylvania
 Munhwa Broadcasting Corporation
@@ -39512,6 +39500,7 @@ Neon Genesis Evangelion (TV)
 Neon the Unknown
 Neonatal Fc receptor
 Neoperiboeum villosulum
+Neophoneus flavotibius
 Neoptolemus
 Neorealism (art)
 Neos Aionas Trikomou
@@ -42430,6 +42419,7 @@ Orthomyxovirus
 Orthonectida
 Orthotrichaceae
 Orthotrichum longipes
+Orthotrichum shevockii
 Orthoux-Sérignac-Quilhan
 Orthurethra
 Ortillon
@@ -44869,6 +44859,7 @@ Polygon (website)
 Polygon Pictures
 Polygonum
 Polygonum acerosum
+Polygonum alopecuroides
 Polyme
 Polyme dẫn điện
 Polymer
@@ -45321,6 +45312,7 @@ Prometheus (truyện tranh)
 Promethi
 Promethium
 Prometi
+Pronolagus
 Pronsfeld
 Proofing (kỹ thuật nướng)
 Prophage
@@ -46384,6 +46376,7 @@ Quận Columbia, Pennsylvania
 Quận Cook, Minnesota
 Quận Cornwall, Tỉnh New York
 Quận Crawford, Pennsylvania
+Quận Crawford, Wisconsin
 Quận Cumberland, Pennsylvania
 Quận Dauphin, Pennsylvania
 Quận Delaware, Pennsylvania
@@ -52251,6 +52244,7 @@ Sông Đại Nẫm
 Sông Đồng Nai
 Sông Ấn
 Sôđa khan
+Sökün, Silifke
 Sùng Trinh
 Sùng bái cá nhân Adolf Hitler
 Sùng bái lãnh tụ ở Bắc Triều Tiên
@@ -52959,6 +52953,7 @@ Tekirdağ
 Tel Aviv
 Tel as-Sabi
 Telagarahalli, Anekal
+Telaranea pecten
 Teleamazonas
 Telecom Animation Film
 Telecom Italia
@@ -54197,6 +54192,7 @@ Thiều Chửu
 Thiểm Tây
 Thiểu năng trí tuệ
 Thiện thần
+Thiện tần An thị
 Thiệt hại của Pháp trong Chiến tranh Đông Dương
 Thiệt hại của Việt Nam trong Chiến tranh Đông Dương
 Thiệt mạng
@@ -56889,6 +56885,7 @@ Trichoniscus petrovi
 Trichoon
 Trichoplax adhaerens
 Trichoptya magna
+Trichorhina bequaerti
 Trichostixis orientalis
 Trick film
 Trickster (anime)
@@ -63639,6 +63636,7 @@ Yêu quái
 Yêu sách của nhân dân An Nam
 Yêu tinh
 Yörüklü, Sungurlu
+Yıldırım, Yenişehir
 Yōkai Ningen Bem
 Yōkoso Jitsuryoku Shijō Shugi no Kyōshitsu e
 Yến Lan
@@ -63694,6 +63692,7 @@ Zatara
 Zaventem
 Zayn Malik
 Zbigniew Boniek
+Zdechovice, Pardubice
 Zegerscappel
 Zehlendorf (Berlin)
 Zehlendorf, Berlin

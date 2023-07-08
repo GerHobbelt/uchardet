@@ -59,36 +59,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Pöör (täpsustus)
-Le Vigan
-Evje og Hornnesi vald
-Kuno Plaan
-Maskoŭskaja metroojaam
-Tuleaed
-Irina-Camelia Begu
-Otto Wilhelm Hermann von Abich
-Saulkalne
-Surnud 5. jaanuaril
-Cube (aadlisuguvõsa)
-Suhharivka
-Ross Edgley
-Rasmus Kangropool
-Õrsava järv
-Veebruar
-Haanja Valla Rahvamajad
-Suremus
-Elutöö Kuldlõvi
-Hermann von Buxhövden
-Edward Hallett Carr
-Itaalia pesapallimeeskond 2004. aasta suveolümpiamängudel
-Aktiivmeetmed
-Vesitükk
-Kurm
-Kukk (perekonnanimi)
-Kaarma mõis (Kaarma)
-Harri Rovanperä
-Xiamen Gaoqi rahvusvaheline lennujaam
-Kõrgessaare kihistu
 "Suurt Eestimaa nimistut"
 "Väikest Eestimaa nimistut"
 ''happening''
@@ -1996,6 +1966,7 @@ Aksi laht
 Akste
 Aksum
 Aksumi kuningriik
+Aktiivmeetmed
 Aktiivmuda
 Aktiivmudapuhasti
 Aktiivne jõud
@@ -7112,6 +7083,7 @@ Crvena zvezda
 Csaba Szigeti
 Csézy
 Ctrip
+Cube (aadlisuguvõsa)
 Cuenca
 Cueva de las Manos
 Cum laude
@@ -8244,6 +8216,7 @@ Edward Elgar
 Edward Gibbon Wakefield
 Edward Gierek
 Edward Granville Browne
+Edward Hallett Carr
 Edward III
 Edward Kennedy
 Edward Kilmartin
@@ -10184,6 +10157,7 @@ Evengid
 Everybody
 Everyway That I Can
 Evi Juhkam
+Evje og Hornnesi vald
 Evno Azef
 Evolutsioon
 Evolutsioonibioloog
@@ -12391,6 +12365,7 @@ Haagikohus
 Haagis
 Haakon Magnus
 Haamse
+Haanja Valla Rahvamajad
 Haanja kõrgustik
 Haansalu mõis
 Haansalu vald
@@ -12862,6 +12837,7 @@ Harri Hiiesalu
 Harri Kullas
 Harri Lumi
 Harri Moora
+Harri Rovanperä
 Harriet Taylor-Mill
 Harriette Chick
 Harrisburg
@@ -13357,6 +13333,7 @@ Hermann Wilhelm von Kaulbars
 Hermann Wrangell
 Hermann von Balk
 Hermann von Bruiningk
+Hermann von Buxhövden
 Hermeetiliselt suletud
 Hermeric
 Hermies
@@ -14843,6 +14820,7 @@ Irgandi sild
 Irigny
 Irina Kruusla
 Irina Sedakova
+Irina-Camelia Begu
 Iris Marzik
 Iris Metsmägi
 Irkutsk
@@ -15035,6 +15013,7 @@ Itaalia muusika
 Itaalia ooper
 Itaalia parlament
 Itaalia peaminister
+Itaalia pesapallimeeskond 2004. aasta suveolümpiamängudel
 Itaalia president
 Itaalia provintsid
 Itaalia rahvastik
@@ -17067,6 +17046,7 @@ Kaarlihas
 Kaarlo Juho Ståhlberg
 Kaarma
 Kaarma karjäär
+Kaarma mõis (Kaarma)
 Kaarma mõis (Väike-Maarja)
 Kaarma vald
 Kaarma vald (Väike-Maarja kihelkond)
@@ -20229,6 +20209,7 @@ Kuke (Saaremaa)
 Kukeseen (perekond)
 Kukeseenelaadsed
 Kukeseenelised
+Kukk (perekonnanimi)
 Kukkurtihane
 Kuklapõnt
 Kuklase tänav
@@ -20399,6 +20380,7 @@ Kuno (eesnimi)
 Kuno Areng
 Kuno Otsus
 Kuno Pajula
+Kuno Plaan
 Kuno Thomasson
 Kunst
 Kunst (kirjastus)
@@ -20886,6 +20868,7 @@ Kõrgepinge tänav
 Kõrgesaare vald (1939)
 Kõrgesoo
 Kõrgessaare
+Kõrgessaare kihistu
 Kõrgessaare piirivalvekordon
 Kõrgest soost poissmehe mõistatus
 Kõrgharidus
@@ -21501,6 +21484,7 @@ Le Maisnil
 Le Plateau-Mont-Royal
 Le Puy
 Le Sud-Ouest
+Le Vigan
 LeBron James
 LeHelMus
 Lea Leppik (ajaloolane)
@@ -24435,6 +24419,7 @@ Masinatööstus
 Masinpsüühika
 Masis
 Maskeraad (Pratchett)
+Maskoŭskaja metroojaam
 Masmuudad
 Masoni maakond (Kentucky)
 Massachusetts
@@ -28454,6 +28439,7 @@ Otto Vellingk
 Otto Wellingk
 Otto Wilhelm Edler von Rennenkampff
 Otto Wilhelm Etzold
+Otto Wilhelm Hermann von Abich
 Otto Wilhelm Thomé
 Otto Wilhelm von Königsmarck
 Otto von Blanckenhagen
@@ -31465,6 +31451,7 @@ Pöitse
 Pöllau
 Pöllauberg
 Pöögle vald
+Pöör (täpsustus)
 Pööravere
 Pööravere mõis
 Pöördklapp
@@ -32203,6 +32190,7 @@ Raskelastilaev
 Rasketööstus
 Raskuskiirendus
 Rasmus Asplund
+Rasmus Kangropool
 Rasmus Lerdorf
 Rasmus Lippur
 Rasmus Peetson
@@ -33431,6 +33419,7 @@ Roslagen
 Rosma
 Rosmalen
 Ross Barkley
+Ross Edgley
 Ross Stores
 Ross Thomas
 Rossija (Moskva hotell)
@@ -34545,6 +34534,7 @@ Saule lahing
 Saulepa
 Saulepi
 Sauli Niinistö
+Saulkalne
 Saulėtekis
 Saunalaht
 Saunametsa
@@ -36356,6 +36346,7 @@ Suguti
 Sugutunnused
 Suguvõsa
 Suhe (filosoofia)
+Suhharivka
 Suhkrud
 Suhkrumänd
 Suhkrupeet
@@ -36565,6 +36556,7 @@ Surnud 24. jaanuaril
 Surnud 28. septembril
 Surnud 31. jaanuaril
 Surnud 4. juunil
+Surnud 5. jaanuaril
 Surnud 5. juunil
 Surnud 7. detsembril
 Surnud 7. jaanuaril
@@ -39356,6 +39348,7 @@ Tula oblast
 Tulareemia
 Tulbi tänav
 Tulcea
+Tuleaed
 Tulekahju
 Tulekivi
 Tulemüür (informaatika)
@@ -41647,6 +41640,7 @@ Vesipapi tänav
 Vesipähkel
 Vesiratas
 Vesiroosilised
+Vesitükk
 Vesiveski
 Veske
 Veske pärn
@@ -43273,6 +43267,7 @@ Xerox
 Xi'an
 Xiaguani linnarajoon
 Xiamen
+Xiamen Gaoqi rahvusvaheline lennujaam
 Xianbei riik
 Xiangfan Shi
 Xianning Shi
@@ -43720,6 +43715,7 @@ transistor
 Õpetus
 Õppeasutus
 Õppelaev
+Õrsava järv
 Õudus
 Õudusulme
 Õuekohus

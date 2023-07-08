@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-2018 Dünya Halter Şampiyonası - Kadınlar 81 kg
-Hisarcık Meslek Yüksekokulu
-Disappear
-Quatro Ribeiras
-Merzen
-Sosyalist rejimler altındaki katliamlar
-Khayali
-Eskişehirspor 2008-09 sezonu
-Guangzhou-Foshan-Zhaoqing şehirlerarası demiryolu
-AIAS Hall of Fame
-Fernando Saucedo
-Irak Silahlı Kuvvetleri
-Porto Riko
-Dolni Dıbnik
-Olympique de Marseille
-Thienemanniella
-Karlı, Kapaklı
-Enrique Cirules
-Renault Avantime
-Good Life (Kanye West şarkısı)
-Pucciniosiraceae
-Royal Dutch Shell
-Felipe Silva
-NGC 1315
-Saint-Yrieix-la-Perche
-D'Hoffryn
-Antalya Kültür Sanat Vakfı
-Polatlı-Konya yüksek hızlı demiryolu
-Derrick Luckassen
-Elektrikli tekteker
 "Dr. Death" Steve Williams
 "Halkın Dostları" Kimlerdir ve Sosyal-Demokratlara Karşı Nasıl Savaşırlar?
 "Pistol" Pez Whatley
@@ -6794,6 +6764,7 @@ Elektrikli tekteker
 2018 Dubai Tenis Şampiyonası
 2018 Dubai Tenis Şampiyonası - Tek kadınlar
 2018 Dubai Tenis Şampiyonası - Çift kadınlar
+2018 Dünya Halter Şampiyonası - Kadınlar 81 kg
 2018 Dünya U23 Güreş Şampiyonası
 2018 EFL Cup Finali
 2018 Eastbourne International
@@ -8427,6 +8398,7 @@ AFRAY
 AG2R Citroën Team
 AGATA (organization)
 AH-1 Kobra
+AIAS Hall of Fame
 AIBA Dünya Boks Şampiyonası
 AIK (futbol takımı)
 AIM ittifakı
@@ -12410,6 +12382,7 @@ Antalya Deniz Biyolojisi Müzesi
 Antalya Film Festivali
 Antalya Kent Müzesi
 Antalya Köy Hizmetlerispor
+Antalya Kültür Sanat Vakfı
 Antalya Müzesi
 Antalya Ormanspor
 Antalya Oyuncak Müzesi
@@ -24380,6 +24353,7 @@ D&R 1 Numara Albümler Listesi
 D'Alegria
 D'Angelico Guitars
 D'Angelo Dinero
+D'Hoffryn
 D'Hondt sistemi
 D'Lo Brown
 D'Mile
@@ -25811,6 +25785,7 @@ Dernek
 Derovere
 Deroy Duarte
 Derrick Henry
+Derrick Luckassen
 Derry
 Derry City FC
 Dersim
@@ -26439,6 +26414,7 @@ Dirk Kuyt
 Dirk Verbeuren
 Dirty Dancing
 Dirty Diana
+Disappear
 Discada
 Disclosure (band)
 Disco Inferno
@@ -26745,6 +26721,7 @@ Dolmadeğirmen, Akhisar
 Dolmalık ekmek
 Dolmuş
 Dolmuş (dergi)
+Dolni Dıbnik
 Dolores Gray
 Dolores Ibárruri
 Dolph Lundgren
@@ -28703,6 +28680,7 @@ Elektrikli balık
 Elektrikli gitar tasarımı
 Elektrikli kapı kilitleri
 Elektrikli pencere regülatörü
+Elektrikli tekteker
 Elektrikli yan dikiz aynası
 Elektrikli çoklu birim
 Elektrikli ısıtma
@@ -29415,6 +29393,7 @@ Enrico Gasparotto
 Enrico Macias
 Enrique Alfaro
 Enrique Borja
+Enrique Cirules
 Enrique Collar
 Enrique Cáceres
 Enrique Flores
@@ -30233,6 +30212,7 @@ Eskişehirspor (kadın futbol takımı)
 Eskişehirspor 1991-92 sezonu
 Eskişehirspor 1997-98 sezonu
 Eskişehirspor 1998-99 sezonu
+Eskişehirspor 2008-09 sezonu
 Eskişehirspor 2018-19 sezonu
 Eskort
 Eskrim
@@ -31851,6 +31831,7 @@ Felipe Augusto de Almeida Monteiro
 Felipe Gedoz
 Felipe Gobbi Grazziotin
 Felipe Ruvalcaba
+Felipe Silva
 Felipe Solá
 Felix Brych
 Felix Kroos
@@ -32009,6 +31990,7 @@ Fernando Peres
 Fernando Picun
 Fernando Rey
 Fernando Salazar
+Fernando Saucedo
 Fernando Solanas
 Fernando Teixeira Vitienes
 Fernando Tobio
@@ -34979,6 +34961,7 @@ Gonzalo Higuaín
 Gonzalo Jiménez de Quesada
 Gonzalo Moruno
 Good Day Sunshine
+Good Life (Kanye West şarkısı)
 Good Morning Good Morning
 Good Neighbor Sam
 Good Time
@@ -35448,6 +35431,7 @@ Guangyuan Panlong Havalimanı
 Guangyun
 Guangzhou
 Guangzhou Baiyun Uluslararası Havalimanı
+Guangzhou-Foshan-Zhaoqing şehirlerarası demiryolu
 Guangşi Zhuang Özerk Bölgesi
 Guanin
 Guanozin
@@ -38788,6 +38772,7 @@ Hisaaki Kobayashi
 Hisako Kanemoto
 Hisar
 Hisar Camii
+Hisarcık Meslek Yüksekokulu
 Hisarin Kale
 Hisarköy, Bergama
 Hisarköy, Mut
@@ -44798,6 +44783,7 @@ Karlsruhe sınıfı hafif kruvazör
 Karlstad
 Karluk Devleti
 Karluklar
+Karlı, Kapaklı
 Karlı, Vezirköprü
 Karlıbel, Görele
 Karlıtepe, Gaziosmanpaşa
@@ -45977,6 +45963,7 @@ Kharan District
 Kharosthi rakamları
 Khashtarak
 Khatun
+Khayali
 Khdrants
 Khios
 Khliara
@@ -54398,6 +54385,7 @@ Meryem'in ebedi bekareti
 Meryem'in ebedi bekâreti
 Meryem'in göğe kabulü
 Meryl Streep
+Merzen
 Merzifon
 Merzifon Amerikan Koleji
 Merzifon Muharebesi
@@ -57367,6 +57355,7 @@ NFC Kuzey
 NFL Draft 2016
 NFL Rekorları listesi
 NFPA 704
+NGC 1315
 NGC 1572
 NGC 1657
 NGC 1664
@@ -64825,6 +64814,7 @@ Publius Septimius Geta
 Publius Servilius Vatia Isauricus (Konsül MÖ 48)
 Publius Servilius Vatia Isauricus (konsül MÖ79)
 Pucará de Tilcara
+Pucciniosiraceae
 Puchar Polski
 Puckett Gözlemevi
 Pucobié-gavião
@@ -65043,6 +65033,7 @@ Quartz (grafik katmanı)
 Quasispecies model
 Quater-imaginary base
 Quaternary Science Reviews
+Quatro Ribeiras
 Que Sera Sera (House)
 Que Sera, Sera (Whatever Will Be, Will Be)
 Quebec
@@ -65906,6 +65897,7 @@ Renato Salvatori
 Renato Steffen
 Renaudot Ödülü
 Renault
+Renault Avantime
 Rene Goulet
 Rene Krhin
 Renee Olstead
@@ -68156,6 +68148,7 @@ Saint-Ouen, Seine-Saint-Denis
 Saint-Sauveur-Lendelin
 Saint-Tropez
 Saint-Véran
+Saint-Yrieix-la-Perche
 Saint-Étienne
 Sainte-Chapelle
 Sainte-Mesme
@@ -71918,6 +71911,7 @@ Sosyalist devlet
 Sosyalist ekonomi
 Sosyalist hesaplama tartışması
 Sosyalist hukuk
+Sosyalist rejimler altındaki katliamlar
 Sosyalist revizyonizm
 Sosyalist vatanseverlik
 Sosyalist yurtseverlik
@@ -76620,6 +76614,7 @@ Thiago Silva
 Thiatira
 Thief of Your Heart
 Thiele tüpü
+Thienemanniella
 Thierry Chantha Bin
 Thierry Frémont
 Thierry Henry

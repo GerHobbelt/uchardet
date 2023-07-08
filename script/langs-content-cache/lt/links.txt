@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Anatolinis uolinis driežas
-Manikūnų apylinkė
-Blizgė
-Lietuvos ir Maldyvų santykiai
-Seredžiaus Stasio Šimkaus mokykla-daugiafunkcis centras
-Kiselani Žmichai
-Lietuvos teatras (žurnalas)
-Justinas Bonaventūra Pranaitis
-Radiochirurgija
-KF Prishtina
-Užlieknių valsčius
-Pontiac Solstice
-Chvančkara
-Meškučių apylinkė
-Padurpinyčys
-Kemaisas
-Cadillac CT6
-Jean
-Vokietijos futbolo varžybos 1989–1990 m.
-Saviteismis
-Jonas Banevičius
-UEFA čempionų taurė 1966–1967 m.
-Gina Lollobrigida
-Salinasas
-23 (Central Cee albumas)
-Guyasuta
-Krokialaukio valsčius
-Valetos Šv. Jono katedra
-Surdegio Švč. Mergelės Marijos Ėmimo į dangų bažnyčia
-Nemunas (Skrantonas)
 "BTS Starts a 'Skool Luv Affair' with New MV"
 "BTS' 'Map Of The Soul' Album Title Has A Deeper Meaning That Could Tease More Albums"
 "TSRS kariškių sąmokslas"
@@ -1742,6 +1712,7 @@ Nemunas (Skrantonas)
 216 m. pr. m. e.
 217 m. pr. m. e.
 220 m.
+23 (Central Cee albumas)
 23 m.
 24 m. pr. m. e.
 24 valandų Le Mano lenktynės
@@ -4190,6 +4161,7 @@ Anatolijus Ligeika
 Anatolijus Moskvinovas
 Anatolijus Neverauskas
 Anatolinis leopardas
+Anatolinis uolinis driežas
 Anatolis Fransas
 Anatomija
 Anchelio Sandovalio provincija
@@ -8765,6 +8737,7 @@ Bliuzrokas
 Blizgančioji gražutė
 Blizgančioji strėliukė
 Blizgusis ąžuolas
+Blizgė
 Blizna (ežeras)
 Blizna (upė)
 BlizzCon
@@ -10047,6 +10020,7 @@ Cachkadzoras
 Cachurų kalba
 Cade Cunningham
 Cadillac
+Cadillac CT6
 Caerau (Ely) AFC
 Caernarfon Town FC
 Caesar
@@ -10674,6 +10648,7 @@ Churriguera
 Chursai
 Chutmas
 Chuzestanas
+Chvančkara
 Chvarši kalba
 Chyvos chanatas
 Cianidas
@@ -17988,6 +17963,7 @@ Gimnazija
 Gimpo FC
 Gimtoji kalba
 Gimę nekalti
+Gina Lollobrigida
 Gina Mankutė
 Ginaičių piliakalnis
 Gineikiai
@@ -19089,6 +19065,7 @@ Guvahatis
 Guvinguanų kalbos
 Guy Ecker
 Guy Parmelin
+Guyasuta
 Guzai
 Gučkampis
 Gvachibai
@@ -22758,6 +22735,7 @@ Jonas Babinskas
 Jonas Babonas
 Jonas Baltušis
 Jonas Balčiūnas (1951)
+Jonas Banevičius
 Jonas Baronas (1873)
 Jonas Basanavičius
 Jonas Bendorius
@@ -24147,6 +24125,7 @@ Justin Timberlake
 Justina Kauneckienė
 Justina Vitkauskaitė
 Justinas Ankus
+Justinas Bonaventūra Pranaitis
 Justinas Jasiukaitis
 Justinas Juodaitis
 Justinas Karosas
@@ -24307,6 +24286,7 @@ KF Laçi
 KF Luzi i Vogël 2008
 KF Oriku
 KF Partizani Tiranë
+KF Prishtina
 KF Shkupi
 KF Shkëndija
 KF Teuta Durrës
@@ -26179,6 +26159,7 @@ Kelvinas
 Kelvinas Kūlidžas
 Kelvėtai
 Kelyje 2
+Kemaisas
 Kemalio revoliucija
 Kemanča
 Kemba Walker
@@ -26813,6 +26794,7 @@ Kiršiai
 Kiršinas
 Kiršlys
 Kiršonių akmuo
+Kiselani Žmichai
 Kiselnica
 Kisielius
 Kisieliškiai
@@ -28075,6 +28057,7 @@ Kroatijos vyrų krepšinio rinktinė
 Kroatijos vėliava
 Kroatų kalba
 Kroketas 1900 m. vasaros olimpinėse žaidynėse
+Krokialaukio valsčius
 Krokialaukis
 Krokodilai
 Krokus
@@ -30775,6 +30758,7 @@ Lietuvos herbas
 Lietuvos himnas
 Lietuvos imtynių federacija
 Lietuvos ir Baltarusijos komunistų partija (bolševikai)
+Lietuvos ir Maldyvų santykiai
 Lietuvos ir Namibijos santykiai
 Lietuvos ir Rusijos santykiai
 Lietuvos ir Senegalo santykiai
@@ -31016,6 +31000,7 @@ Lietuvos tautinis olimpinis komitetas
 Lietuvos tautinė aukščiausioji taryba
 Lietuvos tautinės mažumos
 Lietuvos tautodailininkų sąjunga
+Lietuvos teatras (žurnalas)
 Lietuvos teatro sąjunga
 Lietuvos teatro, muzikos ir kino muziejus
 Lietuvos teisininkų draugija
@@ -32829,6 +32814,7 @@ Maniežas
 Maniežas (reikšmės)
 Manijokai
 Manijokas
+Manikūnų apylinkė
 Manila
 Maniokas
 Manipula
@@ -34267,6 +34253,7 @@ Meškuičiai
 Meškuičių seniūnija
 Meškuičių valsčius
 Meškučiai (Alytus)
+Meškučių apylinkė
 Meškų botaninis-zoologinis draustinis
 Mežvice Kolonija
 Mhalamiai
@@ -36501,6 +36488,7 @@ Nemunaičio atodanga
 Nemunaičio mineralinė versmė
 Nemunaičio seniūnija
 Nemunas
+Nemunas (Skrantonas)
 Nemunas (žurnalas)
 Nemunas Alytus
 Nemuno delta
@@ -38293,6 +38281,7 @@ Padubysys (Kelmė)
 Padubysys (reikšmės)
 Paduobio pelkė
 Paduodupė
+Padurpinyčys
 Padurės valsčius
 Padustis
 Padusys
@@ -41018,6 +41007,7 @@ Pontevedros provincija
 Pontiac
 Pontiac Bonneville
 Pontiac Firebird
+Pontiac Solstice
 Pontianakas
 Pontianako regencija
 Pontinis ąžuolas
@@ -42837,6 +42827,7 @@ Radifas
 Radijas
 Radijo stotis
 Radioaktyviosios atliekos
+Radiochirurgija
 Radioelektronika
 Radiohead
 Radioliarijai
@@ -45478,6 +45469,7 @@ Saliamono Salos 2016 m. vasaros olimpinėse žaidynėse
 Saliamono salos
 Saliamono salos olimpinėse žaidynėse
 Salijos dinastija
+Salinasas
 Salininkai
 Salinis (Varėnos r.)
 Saliut-7
@@ -46110,6 +46102,7 @@ Savingė Kaišiadorys
 Savinijus Katauskas (1936)
 Saviour Nwafor
 Savisaugos batalionas
+Saviteismis
 Savivalda
 Savivaldybių reforma
 Savivaldybė
@@ -46562,6 +46555,7 @@ Serbų-kroatų kalba
 Serco Group
 Serdijai
 Seredžiaus I piliakalnis
+Seredžiaus Stasio Šimkaus mokykla-daugiafunkcis centras
 Seredžiaus pagrindinė mokykla
 Seredžiaus seniūnija
 Seredžius
@@ -49203,6 +49197,7 @@ Suražo valsčius
 Surblių piliakalnis
 Surdegio GS
 Surdegio stačiatikių Šv. Dvasios vyrų vienuolynas
+Surdegio Švč. Mergelės Marijos Ėmimo į dangų bažnyčia
 Surdegis
 Suri dinastija
 Suriki
@@ -51864,6 +51859,7 @@ UEFA čempionų taurė 1963-1964 m.
 UEFA čempionų taurė 1964-1965 m.
 UEFA čempionų taurė 1965-1966 m.
 UEFA čempionų taurė 1966-1967 m.
+UEFA čempionų taurė 1966–1967 m.
 UEFA čempionų taurė 1967-1968 m.
 UEFA čempionų taurė 1968-1969 m.
 UEFA čempionų taurė 1969-1970 m.
@@ -52467,6 +52463,7 @@ Užkylininkai
 Užliedžių apylinkė
 Užliedžių seniūnija
 Užlieknis
+Užlieknių valsčius
 Užlieknė
 Užlieknės pagrindinė mokykla
 Užlieknės šv. Marijos Magdalietės bažnyčia
@@ -53085,6 +53082,7 @@ Valerijus Čkalovas
 Valerio Riccardi
 Valerio Scanu
 Valeriy Borchin
+Valetos Šv. Jono katedra
 Valečkai
 Valferdanžas
 Valga

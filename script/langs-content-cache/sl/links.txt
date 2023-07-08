@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Podgorje, Koper
-Požeški Brđani
-Rangsdorf
-Minoan Lines
-Bazzel Baz
-Hudo, Novo mesto
-Little Pig
-Lavardin (grad)
-C/2012 S1 (ISON)
-Trnjani
-Sponson
-Anton Oblak (geograf)
-Poveljstvo specialnih operacij Kopenske vojske Združenih držav Amerike
-Howard Shore
-Nečimrnost (umetnost)
-Kemal Monteno
-Velika nagrada Italije 1993
-Jackson Guitars
-Luksemburg na Pesmi Evrovizije
-Gnomon (oblika)
-Bojan Tratnik
-Bracieux
-Mi, kosovirji
-Mittenpunkt
-Kot (razločitev)
-Papež Adeodat II.
-Geza Bačič
-Generalporočnik (Združeno kraljestvo)
-1540 pr. n. št.
-Pariz-Madrid 1903
 (Restav)Racija za vse generacije
 , Kamčatski kraj
 -1 (število)
@@ -425,6 +395,7 @@ Pariz-Madrid 1903
 153 (število)
 153 pr. n. št.
 154 (število)
+1540 pr. n. št.
 155 (število)
 156 (število)
 157 (število)
@@ -5922,6 +5893,7 @@ Bazni predor Ceneri
 Bazni predor Gotthard
 Bazoques
 Baztan
+Bazzel Baz
 Baâlons
 Baćinska jezera
 Bač pri Materiji
@@ -7217,6 +7189,7 @@ Bojan Starman
 Bojan Stupica
 Bojan Tokič
 Bojan Tomažič
+Bojan Tratnik
 Bojan Udovič
 Bojan Umek
 Bojan Uran
@@ -7768,6 +7741,7 @@ Božo Šprajc
 Božo Štimec
 Brachiopoda
 Brachycera
+Bracieux
 Braco Rotar
 Brad Park
 Bradavičarka
@@ -8567,6 +8541,7 @@ C. R. Rao
 C. Ronald Kahn
 C. Thomas Howell
 C. kr.
+C/2012 S1 (ISON)
 C11 (standardna različica C)
 CAC Sabre
 CAC/PAC JF-17 Thunder
@@ -17335,6 +17310,7 @@ Generalporočnik
 Generalporočnik (Bundeswehr)
 Generalporočnik (Francija)
 Generalporočnik (Wehrmacht)
+Generalporočnik (Združeno kraljestvo)
 Generalštab Slovenske vojske
 Generoso Melilla
 Genesis
@@ -18413,6 +18389,7 @@ Gnej Pompej Veliki
 Gnezdo
 Gniezno
 Gnojna angina
+Gnomon (oblika)
 Gnosticizem
 Go (programski jezik)
 GoJet Airlines
@@ -21375,6 +21352,7 @@ Howard L. Bachrach
 Howard M. Temin
 Howard Percy Robertson
 Howard Redfern Morris
+Howard Shore
 Howard Temin
 Howard Walter Florey
 Howie Morenz
@@ -22864,6 +22842,7 @@ Jackie Mason
 Jackie Parker
 Jackiw-Teitelboimova gravitacija
 Jacko Page
+Jackson Guitars
 Jacmel
 Jacob Bjerknes
 Jacob David Bekenstein
@@ -26643,6 +26622,7 @@ Kelti
 Keltski križ
 Kelvin
 Kema Puconci
+Kemal Monteno
 Kemal Selmanović
 Kemerovska oblast
 Kemija
@@ -27510,6 +27490,7 @@ Kostnica sv. Mihaela, Trebelno
 Kostrivnica
 Kostrivnica, Šentjur
 Kostromska oblast
+Kot (razločitev)
 Kot 2V
 Kot na Pohorju
 Kot ob Kolpi
@@ -28761,6 +28742,7 @@ Laval-sur-Tourbe
 Laval-sur-Vologne
 Lavaldens
 Lavantinska škofija
+Lavardin (grad)
 Lavars
 Lavdara
 Laveyron
@@ -29701,6 +29683,7 @@ Little Fugitive
 Little Miss Marker
 Little Nemo (film, 1911)
 Little Nemo: Adventures in Slumberland
+Little Pig
 Little, Brown & Co.
 Litva
 Liutpert
@@ -30475,6 +30458,7 @@ Lukovec, Sevnica
 Lukovke
 Luksemburg
 Luksemburg (mesto)
+Luksemburg na Pesmi Evrovizije
 Luksemburški vrtovi
 Luksemburžani
 Luleška samijščina
@@ -33050,6 +33034,7 @@ Mežiško-Solčavske Karavanke
 Mi Mladi
 Mi Reflejo
 Mi mladi
+Mi, kosovirji
 MiG-3
 Mia Farrow
 Mia Žnidarič
@@ -33710,6 +33695,7 @@ Minneapolis, Minnesota
 Minnesota
 Minnesota Wild
 Minnie Maddern Fiske
+Minoan Lines
 Minoiskalec
 Minojska doba
 Minolovec
@@ -34000,6 +33986,7 @@ Mitsubishi RP-1
 Mitsubishi Regional Jet
 Mitsubishi T-2
 Mitsuru Yoshida
+Mittenpunkt
 Mittenwald
 Mizar
 Mizni Dol
@@ -35818,6 +35805,7 @@ Nezaupnica
 Nezemeljsko življenje
 Neznani Chaplin
 Nečak
+Nečimrnost (umetnost)
 Nečlenarji
 Neža Maurer
 Neža Naglič
@@ -38720,6 +38708,7 @@ Paris Is Burning (film)
 Paris Maria Salvago
 Pariteta kupne moči
 Pariz
+Pariz-Madrid 1903
 Pariz–Nica
 Pariz–Roubaix
 Paričjak
@@ -41336,6 +41325,7 @@ Poveljniško-štabna šola Slovenske vojske
 Poveljstvo
 Poveljstvo Vojnega letalstva Združenih držav Amerike v Evropi
 Poveljstvo sil Slovenske vojske
+Poveljstvo specialnih operacij Kopenske vojske Združenih držav Amerike
 Poveljstvo za doktrino, razvoj, izobraževanje in usposabljanje Slovenske vojske
 Poveljstvo za podporo Slovenske vojske
 Poveljujoči general
@@ -41428,6 +41418,7 @@ Požeg
 Požega
 Požega, Srbija
 Poženik
+Požeški Brđani
 Požgana zemlja
 Požigalništvo
 Požnica
@@ -49810,6 +49801,7 @@ Spominski park Teharje
 Spominski steber
 Spominski steber Davorinu Jenku, Ljubljana
 Spominski znak Republiška koordinacija 1991
+Sponson
 Spora
 Sporangij
 Sporazum o mednarodnem rečnem prevozu nevarnih snovi
@@ -55107,6 +55099,7 @@ Velika nagrada Italije 1981
 Velika nagrada Italije 1982
 Velika nagrada Italije 1984
 Velika nagrada Italije 1992
+Velika nagrada Italije 1993
 Velika nagrada Japonske
 Velika nagrada Japonske 1992
 Velika nagrada Južne Afrike

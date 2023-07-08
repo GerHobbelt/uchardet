@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Karczma Katowicka
-Szahruch
-Filip Walotka
-Varnhem
-Julien Green
-Ałan Gatagow
-Yūto Nagatomo
-(2961) Katsurahama
-Uwertura do „Tannhäusera”
-Ignacio Ithurralde
-Reprezentacja Barbadosu w rugby 7 mężczyzn
-Łubnice
-Maurice Camara
-Myszka lotnicza nr 2
-Dąbrowa (gmina Korytnica)
-Jan Szlubicz Załęski
-Kozia Góra
-Chris White (saksofonista)
-Zamek Hohenschwangau
-Brewster (miasto w hrabstwie Barnstable)
-Mike Robertson
-Solitude, Dominance, Tragedy
-Krystyna Sawicka
-Goodison Park
-Belgia na Zimowych Igrzyskach Olimpijskich 1976
-Gnilica mózgowata
-Mokronos
-Gerda Hasselfeldt
-Chlorocyphidae
-Jakubiwka (obwód winnicki)
 &Twice
 (1) Ceres
 (10140) Villon
@@ -118,6 +88,7 @@ Jakubiwka (obwód winnicki)
 (229762) Gǃkúnǁʼhòmdímà
 (2713) Luxembourg
 (28978) Iksjon
+(2961) Katsurahama
 (3) Juno
 (307261) 2002 MS4
 (3703) Volkonskaya
@@ -4754,6 +4725,7 @@ Azəri Baku
 Aíto García Reneses
 AŁŻIR
 Aładża
+Ałan Gatagow
 Ałczewsk
 Ałmaty
 Ałtaj
@@ -5700,6 +5672,7 @@ Belfort (województwo pomorskie)
 Belgia
 Belgia na Letnich Igrzyskach Olimpijskich 2012
 Belgia na Olimpiadzie Letniej 1906
+Belgia na Zimowych Igrzyskach Olimpijskich 1976
 Belgian Ladies Open 1988
 Belgian Open
 Belgrad
@@ -7381,6 +7354,7 @@ Bretejovce
 Bretignolles
 Brett Kavanaugh
 Brettenham (Suffolk)
+Brewster (miasto w hrabstwie Barnstable)
 Brewton
 Brexit
 Breze (Bośnia i Hercegowina)
@@ -9541,6 +9515,7 @@ Chlorek tionylu
 Chlorek złota(I)
 Chlorek żelaza(II)
 Chlorobi
+Chlorocyphidae
 Chloroflexi
 Chloroheksydyna
 Chloroplast
@@ -9732,6 +9707,7 @@ Chris Porter (koszykarz)
 Chris Terrio
 Chris Von Erich
 Chris Webber
+Chris White (saksofonista)
 Chris Wyse
 Christ Church Nichola Town
 Christiaan Varenhorst
@@ -15074,6 +15050,7 @@ Dąbrowa (Pogórze Wiśnickie)
 Dąbrowa (Sądrożyce)
 Dąbrowa (gmina Bartoszyce)
 Dąbrowa (gmina Bisztynek)
+Dąbrowa (gmina Korytnica)
 Dąbrowa (gmina Kuślin)
 Dąbrowa (gmina Mrozy)
 Dąbrowa (gmina Zbąszyń)
@@ -17152,6 +17129,7 @@ Filip Kallimach
 Filip Maria Visconti
 Filip Szwabski
 Filip V Hiszpański
+Filip Walotka
 Filip Wilhelm Wittelsbach (kardynał)
 Filip Wolski
 Filip von Rehberg
@@ -19040,6 +19018,7 @@ Gerbécourt
 Gerbépal
 Gerd Müller
 Gerd von Rundstedt
+Gerda Hasselfeldt
 Gerdag (biskup Hildesheim)
 Gerek Meinhardt
 Gerenzano
@@ -19670,6 +19649,7 @@ Gniewskie Pole
 Gniewskie Pole (osada)
 Gniezno
 Gnieźnik leśny
+Gnilica mózgowata
 Go-Daigo
 Go-Toba
 Gobliiins
@@ -23410,6 +23390,7 @@ Iglesiarrubia
 Iglesias (Hiszpania)
 Iglica (Wrocław)
 Ignacio Camacho
+Ignacio Ithurralde
 Ignacio Ramírez
 Ignacio Rodriguez (koszykarz)
 Ignacio Rodríguez (koszykarz)
@@ -24625,6 +24606,7 @@ Jakub z Paradyża
 Jakub ze Żnina
 Jakub Štvrtecký
 Jakubiańce
+Jakubiwka (obwód winnicki)
 Jakubov u Moravských Budějovic
 Jakubowice (gmina)
 Jakubowice (gromada w powiecie kazimierskim)
@@ -24908,6 +24890,7 @@ Jan Such (siatkarz)
 Jan Svoboda
 Jan Szancenbach
 Jan Szczepkowski
+Jan Szlubicz Załęski
 Jan Szwargot
 Jan Szydłowski
 Jan Tarasin
@@ -26545,6 +26528,7 @@ Julie Heldman
 Julie Vlasto
 Julie Walters
 Julie Wilhelmine Hagen-Schwarz
+Julien Green
 Julien Mertine
 Juliet Stevenson
 Julieta
@@ -27522,6 +27506,7 @@ Karczewan
 Karczewo
 Karczewo (powiat golubsko-dobrzyński)
 Karczma
+Karczma Katowicka
 Karczmiska (gmina)
 Karczmiska (gromada)
 Karczmisko
@@ -29814,6 +29799,7 @@ Kozacki Oddział Strzelców Behm
 Kozacy
 Kozak (pociąg pancerny)
 Kozerki (gromada)
+Kozia Góra
 Kozia Góra (województwo pomorskie)
 Kozia Góra (województwo warmińsko-mazurskie)
 Kozica
@@ -30501,6 +30487,7 @@ Krystyna Dwucet
 Krystyna Guzik
 Krystyna Kurdziel
 Krystyna Radzikowska
+Krystyna Sawicka
 Krystyna Sokołowska (modelka)
 Krystyna Tempska-Cyrankiewicz
 Krystyna Wazówna
@@ -36432,6 +36419,7 @@ Maureen Stapleton
 Mauretania
 Mauretania na Letnich Igrzyskach Olimpijskich 2012
 Maurice Béjart
+Maurice Camara
 Maurice Cheeks
 Maurice Couve de Murville
 Maurice Druon
@@ -37724,6 +37712,7 @@ Mike Nichols
 Mike Pence
 Mike Pinkerton
 Mike Pompeo
+Mike Robertson
 Mike Smith (koszykarz)
 Mike Sojourner
 Mike Tyson
@@ -39168,6 +39157,7 @@ Mokre Łany
 Mokre Łąki (Prokowo)
 Mokre-Kolonia
 Mokrica Tomaševečka
+Mokronos
 Mokronos Dolny
 Mokronos Górny
 Mokry Las (województwo kujawsko-pomorskie)
@@ -40013,6 +40003,7 @@ Mystery Jets
 Mysuru
 Mysz domowa
 Myszarka zielna
+Myszka lotnicza nr 2
 Myszkowscy
 Myszków
 Myszków (gmina)
@@ -52272,6 +52263,7 @@ Reprezentacja Azerbejdżanu U-18 w piłce nożnej mężczyzn
 Reprezentacja Azerbejdżanu w piłce siatkowej kobiet
 Reprezentacja Azerbejdżanu w piłce siatkowej mężczyzn
 Reprezentacja Bahrajnu w piłce nożnej mężczyzn
+Reprezentacja Barbadosu w rugby 7 mężczyzn
 Reprezentacja Belgii w hokeju na trawie mężczyzn
 Reprezentacja Belgii w koszykówce kobiet
 Reprezentacja Belgii w piłce nożnej mężczyzn
@@ -56777,6 +56769,7 @@ Solingen
 Solinka (rzeka)
 Solinka (wieś)
 Soliny
+Solitude, Dominance, Tragedy
 Solkatterna Speedway
 Solno (województwo warmińsko-mazurskie)
 Solomon Tside
@@ -59064,6 +59057,7 @@ Szaghat
 Szahba
 Szahba (dystrykt)
 Szahrak-e Parwaz
+Szahruch
 Szajch Abd ar-Rahman
 Szajch Abjad
 Szajch Ahmad
@@ -63392,6 +63386,7 @@ Uwajnat Kabira
 Uwajszijja
 Uwe Bein
 Uwe Nogga
+Uwertura do „Tannhäusera”
 Uwolnić orkę 2
 Uwłaszczenie chłopów
 Uwłaszczenie nomenklatury
@@ -63582,6 +63577,7 @@ Varennes-Changy
 Varese
 Varhaňovce
 Variety
+Varnhem
 Varoš (Bośnia i Hercegowina)
 Varsinais-Suomi
 Varta
@@ -67447,6 +67443,7 @@ Yūhi o miteiru ka?
 Yūki Itō
 Yūki Naitō
 Yūryaku
+Yūto Nagatomo
 Z (symbol wojskowy)
 Z daleka
 Z miłości do gwiazd
@@ -67785,6 +67782,7 @@ Zamek Grodztwo w Kamiennej Górze
 Zamek Gryf
 Zamek Henryka
 Zamek Himeji
+Zamek Hohenschwangau
 Zamek Homole
 Zamek Kapitanowo w Ścinawce Średniej
 Zamek Karpień
@@ -69433,6 +69431,7 @@ zimowe igrzyska olimpijskie
 Łubki (gromada w powiecie płockim)
 Łubniany (gmina)
 Łubniany (gromada)
+Łubnice
 Łubowo (gmina)
 Łubowo (województwo wielkopolskie)
 Łucja z Lammermooru

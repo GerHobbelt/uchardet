@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Dlíthe Fick
-Fled Dúin na nGéd
-Dermot O'Leary
-1957 sa teilifís
-An Bhoihéim
-Cath na hIútlainn
-Kwame Nkrumah
-Eric Freeman
-Craobh Airgid
-Abhainn Fheartraí
-Justin McNulty
-Paindéim COVID-19 sna Stáit Aontaithe
-Maol Mochéirí mac Ionrachtaigh
-Adolf von Bäyer
-Mártainsít
-Bliain Idirnáisiúnta na Geoifisice
-Rowi
-An Daoil
-Cill Chainnigh Thiar
-Cúlarán
-2014 Bucharest Open
-Carlsruhe, Victoria
-Eocairist
-Glaschu a Tuath (Toghcheantar na Ríochta Aontaithe)
-Dub Dá Leithe mac Tomaltaigh
-An Bealach Beag
-Albany, Nua-Eabhrac
-1270í
-Buirg Londan Barnet
-Port a' Mhadaidh
 "Love, Blactually
 "Peter's Two Dads
 "The Misfits"
@@ -252,6 +222,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 126 Tauri
 127 (uimhir)
 127 RC
+1270í
 128 (uimhir)
 1280idí RC
 129 (uimhir)
@@ -567,6 +538,7 @@ $pringfield, Or How I Learned to Stop Worrying and Love Legalized Gambling
 1955 Wimbledon Championships
 1956 Wimbledon Championships
 1957 Wimbledon Championships
+1957 sa teilifís
 1958 Wimbledon Championships
 1959 Wimbledon Championships
 196 (uimhir)
@@ -3783,6 +3755,7 @@ An Baile Thiar (idirdhealú)
 An Baile Úr
 An Banc Domhanda
 An Barr Cam
+An Bealach Beag
 An Bealach Caoin Theas
 An Bealach Caoin Thuaidh
 An Bearnán
@@ -4342,6 +4315,7 @@ An Danmhairg
 An Danmhairg i gComórtas Amhránaíochta na hEoraifíse
 An Danmhairgis
 An Danóib
+An Daoil
 An Daoil, Contae Mhaigh Eo
 An Dara Cogadh Domhanda
 An Dardainéil
@@ -7909,6 +7883,7 @@ Bleibín
 Blencathra
 Bleán
 Bliain
+Bliain Idirnáisiúnta na Geoifisice
 Bliain Nua na Síneach
 Bliain an Phrionsa
 Bliain bhisigh
@@ -9947,6 +9922,7 @@ Carlos Murciano
 Carlos Taberner
 Carlsbad, California
 Carlsbad, Nua-Mheicsiceo
+Carlsruhe, Victoria
 Carlton, Rothwell
 Carly Bailey
 Carly Chaikin
@@ -10222,6 +10198,7 @@ Cath na Rig
 Cath na Teamhrach (Éire)
 Cath na gCúig Láma
 Cath na hInse
+Cath na hIútlainn
 Cath Áine
 Cath Árd Ladrann
 Cath Áth Gláraigh
@@ -15876,6 +15853,7 @@ Crannog
 Crannóg
 Cranstal
 Cranston, Oileán Rhode
+Craobh Airgid
 Craobh Cúige Laighean
 Craobh Cúige Mhuman
 Craobh Cúige Mumhan
@@ -16798,6 +16776,7 @@ Cúl Trá
 Cúl a' Chudainn
 Cúl báire
 Cúl na Fuinse
+Cúlarán
 Cúltarraingt
 Cúlóm
 Cúlú bréagach
@@ -17780,6 +17759,7 @@ Dlí idirnáisiúnta
 Dlí teaghlaigh
 Dlíodóir
 Dlíthe Beneš
+Dlíthe Fick
 Dlítheoir
 Dlúth-theagmhálach leis an Domhan
 Dlúthdhiosca
@@ -19443,6 +19423,7 @@ Enwau lleoedd sy'n tarddu o enwau Cymry yn yr Unol Daleithiau
 Enwau personol Cymraeg
 Enwau'r Cymry
 Eo Teilifís
+Eocairist
 Eocarót
 Eochaid Airem
 Eochaid Apthach
@@ -19543,6 +19524,7 @@ Eric Blore
 Eric Butorac
 Eric Byrne
 Eric Cartman
+Eric Freeman
 Eric Garcia
 Eric Lopez
 Eric Ludvigsen Pontoppidan
@@ -22187,6 +22169,7 @@ Glas Maol
 Glas Naíon
 Glas Tuathail
 Glas Tulaichean
+Glaschu a Tuath (Toghcheantar na Ríochta Aontaithe)
 Glaschú
 Glasgow
 Glasra
@@ -26743,6 +26726,7 @@ Kurume
 Kurumi Nara
 Kush Kazemi
 Květa Peschke
+Kwame Nkrumah
 Kwik-E-Mart
 Kwon Soon-woo
 Kye Sones
@@ -29835,6 +29819,7 @@ Maol Cobha mac Aodha
 Maol Dúin
 Maol Dúin mac Aodha
 Maol Dúin mac Aodha Beannáin
+Maol Mochéirí mac Ionrachtaigh
 Maol Ruanaidh Ua Dubhda
 Maol Ruanaidh mac Ruaidhrí Ó Dubhda
 Maol Seachlainn Ó Domhnaill
@@ -31936,6 +31921,7 @@ Márta 12
 Márta 1999
 Márta 20
 Márta 21
+Mártainsít
 Márthain
 Márton Fucsovics
 Mása Ríona Uachtarach
@@ -35465,6 +35451,7 @@ Port Uairce
 Port Vila
 Port a' Bhogaigh
 Port a' Chluaidh
+Port a' Mhadaidh
 Port a' Mhuilinn
 Port an Chalaidh
 Port an Dúnáin

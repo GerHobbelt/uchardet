@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Kaksinaamaista peliä (vuoden 2009 elokuva)
-Tegyrios
-Freikorps-kirjallisuus
-Julian Speroni
-Vuokko Mattila
-Nokia X1-01
-Energia Islannissa
-Arrows A20
-Loona
-Ossian Rinne
-Pilot-kustannus
-Kristian Biong
-Jevgeni Nurmla
-Nicolás Massú
-Carl Elliot
-Soukanpohjan kartano
-Herľany
-Nitrosyylifluoridi
-Siperian rata
-Murata
-Jakob valehtelija
-Kasvot ampuma-aukossa
-Yves Klein
-Zach Garrett
-BMW 3-sarjan Compact
-Tampereen palvelualan ammattiopisto
-Fatah
-Call of Duty: Finest Hour
-Lauhanvuoren kansallispuisto
-Kolulampi (Mäntyharju)
 !!! (albumi)
 "Controlla"
 "Millionaire" (Beady Eyen kappale)
@@ -6994,6 +6964,7 @@ Arrow'n paradoksi
 Arrowhead Airways
 Arrowhead Stadium
 Arrows
+Arrows A20
 Ars 83
 Ars Amatoria
 Ars Fennica
@@ -8447,6 +8418,7 @@ BK Ventspils
 BKS Air
 BMC Racing Team
 BMI Regional
+BMW 3-sarjan Compact
 BMW M3
 BMW Z3
 BMX Freestyle Simulator
@@ -13005,6 +12977,7 @@ Carl Corazzini
 Carl Dahlstrom
 Carl David Anderson
 Carl Denham
+Carl Elliot
 Carl Emil Schorske
 Carl Eneas Sjöstrand
 Carl Fredrik Hill
@@ -20400,6 +20373,7 @@ Enemmän kuin elämä on lempi, enemmän kuin lempi moinen kuolo
 Enemy Engaged 2
 Enemy of God
 Energia
+Energia Islannissa
 Energiajäte
 Energiakasvit
 Energias de Portugal
@@ -22340,6 +22314,7 @@ Fat Princess
 Fat Princess Adventures
 Fat Worm Blows a Sparky
 Fat Wreck Chords
+Fatah
 Fatal Frame (videopeli)
 Fatal Frame II: Crimson Butterfly
 Fatal Frame III: The Tormented
@@ -23843,6 +23818,7 @@ Freie Universität Berlin
 Freie Wähler
 Freight Runners Express
 Freikorps
+Freikorps-kirjallisuus
 Frelighsburg
 Fremingtonin rautatieasema
 Fremont (Alamedan piirikunta)
@@ -29238,6 +29214,7 @@ Herätetty rakastaja
 Herättäjäjuhlat
 Herätysliike
 Herøy (Nordland)
+Herľany
 Hes Games
 Hesiodos
 Hesket Newmarket
@@ -33913,6 +33890,7 @@ Jakob De la Gardie
 Jakob Ingebrigtsen
 Jakob Lines
 Jakob Michaelsen
+Jakob valehtelija
 Jakobiini
 Jakobstads Tidning
 Jakohihna
@@ -35420,6 +35398,7 @@ Jevgeni Hrunov
 Jevgeni Jevtušenko
 Jevgeni Koroljov
 Jevgeni Muratov
+Jevgeni Nurmla
 Jevgeni Platov
 Jevgeni Pljuštšenko
 Jevgeni Prigožin
@@ -37016,6 +36995,7 @@ Julian Lennon
 Julian Purvis
 Julian Schwinger
 Julian Skelly
+Julian Speroni
 Julian Todd
 Julian Wood
 Julie Berghoff
@@ -39666,6 +39646,7 @@ Kasvissyönti
 Kasvit
 Kasvitiede
 Kasviöljy
+Kasvot ampuma-aukossa
 Kasvot kuvaruudussa
 Kasvot väkijoukossa
 Kasvukipuja (Cheekin albumi)
@@ -42857,6 +42838,7 @@ Kristen Bell
 Krister Niilonpoika Vaasa
 Kristi Yamaguchi
 Kristian Alfonso
+Kristian Biong
 Kristian Blomberg
 Kristian Heinilä
 Kristian I
@@ -47131,6 +47113,7 @@ Looginen atomismi
 Looginen empirismi
 Look (lehti)
 Looking Back to Yesterday
+Loona
 Looney Tunes
 Looney Tunes (Game Boy)
 Looney Tunes Collector: Alert!
@@ -54290,6 +54273,7 @@ Muppet-elokuva
 Muppets Party Cruise
 Murat Kardanov
 Murat Khrachov
+Murata
 Murcia
 Murcia (itsehallintoalue)
 Murder Was the Case (Snoop Doggin albumi)
@@ -56714,6 +56698,7 @@ Nicole Walker
 Nicole Willis
 Nicolet
 Nicolet-Yamaska
+Nicolás Massú
 Nicon Airways
 Nicu Popescu
 Niedersachsenstadion
@@ -57115,6 +57100,7 @@ Nitro Games
 Nitrobentseeni
 Nitrobike
 Nitrospirae
+Nitrosyylifluoridi
 Nitshillin rautatieasema
 Niuafounisojalka
 Niuafoʻou
@@ -57226,6 +57212,7 @@ Nokia (yritys)
 Nokia 1610
 Nokia N9
 Nokia Theatre (Los Angeles)
+Nokia X1-01
 Nokian rautatieasema
 Nokimonninen
 Nokka-akseli
@@ -59288,6 +59275,7 @@ Ossi Ottela
 Ossi Reichert
 Ossi Valo
 Ossi Väänänen
+Ossian Rinne
 Ossie Asmundson
 Ossie Davis
 Ostend Air College
@@ -62682,6 +62670,7 @@ Pilkkurilammi
 Pillin rautatieasema
 Pillowtalk
 Pilningin rautatieasema
+Pilot-kustannus
 Pilote
 Piltolan seisake
 Pilus
@@ -74016,6 +74005,7 @@ Sioux Falls Aviation
 Siouxit
 Siouxsie and the Banshees
 Siperia
+Siperian rata
 Siperianlehtikuusi
 Siperianmurmeli
 Sipilän hallitus
@@ -75069,6 +75059,7 @@ Sotši
 Sotšin olympiastadion
 Soudal-Quick Step
 Soukanjärvi
+Soukanpohjan kartano
 Soukkajärvi (Alavus)
 Soukkio (Jämsä)
 Soukkio (Kangasniemi)
@@ -79065,6 +79056,7 @@ Tampereen keskusta
 Tampereen klassillinen lyseo
 Tampereen kulttuuriyhdistys
 Tampereen lentoasema
+Tampereen palvelualan ammattiopisto
 Tampereen rautatieasema
 Tampereen seudun lähijunaliikenne
 Tampereen stadion
@@ -79635,6 +79627,7 @@ Tegelin lentoasema
 Tegera Arena
 Teggiano
 Tegs SK
+Tegyrios
 Tehaman piirikunta
 Tehanu
 Tehdas
@@ -88081,6 +88074,7 @@ Vuojärvi (Toivakka)
 Vuojärvi (järvi Laukaassa)
 Vuokatti
 Vuokkiniemi
+Vuokko Mattila
 Vuokko Muje
 Vuokkokala
 Vuokkokalat
@@ -91332,6 +91326,7 @@ Yverdon-les-Bains
 Yves Chauvin
 Yves Edwards
 Yves Guillemette
+Yves Klein
 Yves Lampaert
 Yves Preston
 Yves Racine
@@ -91385,6 +91380,7 @@ Zac Bierk
 Zac Brown Band
 Zac Efron
 Zaccone Mina
+Zach Garrett
 Zach Miskovic
 Zach O'Brien
 Zach Pascal

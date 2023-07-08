@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Pardosa procurva
-Zapotalito
-Pseudipocragyes fruhstorferi
-Polymerus punctipes
-Barnard 59
-Platypalpus gesticulor
-Brosses
-Auxa dorsata
-Crataegus pomasae
-Syzygium globiflorum
-Sciomyza fulvescens
-New Hartley
-Mitella inami
-Camille Pelletan
-Massimo d'Azeglio
-Neoleria prominens
-Aloe juddii
-Duffyoemida
-Dendryphiopsis atra
-Skogsskötselsystem
-Laguna Cabildo
-Echium pabotii
-Wyoming, Iowa
-Fitzroy Falls Dam
-Charlotte, Michigan
-Western Academy of Beijing
-Atherimorpha villosissima
-Riverside Museum
-Agathosma virgata
-Anomala rubida
 "The Spaghetti Incident?"
 (Can't Get My) Head Around You
 (Everything I Do) I Do It for You
@@ -1678,6 +1648,7 @@ Agaricales
 Agaricomycetes
 Agarista chapadensis
 Agatha Christie
+Agathosma virgata
 Agelasta glabrofasciata
 Agence France-Presse
 Agence métropolitaine de transport
@@ -2665,6 +2636,7 @@ Almstriden
 Alnwick
 Alnön
 Aloe dominella
+Aloe juddii
 Aloha (film)
 Alois Estermann
 Alone in the Dark (film)
@@ -3674,6 +3646,7 @@ Annona (krater)
 Annorstädes vals
 Anolis inderenae
 Anolis singularis
+Anomala rubida
 Anomala tinctiventris
 Anonym
 Anonyma Alkoholister
@@ -4741,6 +4714,7 @@ Athens olympiska stadion
 Athens, Georgia
 Athens, Ohio
 Atherigona huanshanensis
+Atherimorpha villosissima
 Atheriniformes
 Atheta divisa
 Athletic Bilbao
@@ -4980,6 +4954,7 @@ Auvergne
 Auvergne-Rhône-Alpes
 Auvers-le-Hamon
 Aux Deux Magots
+Auxa dorsata
 Auxerre
 Avalanchediod
 Avallon
@@ -5576,6 +5551,7 @@ Barn (musikalbum)
 Barna Hedenhös uppfinner julen
 Barnaba Oriani
 Barnarbete
+Barnard 59
 Barnbidrag
 Barnbåtarna
 Barne härad
@@ -8123,6 +8099,7 @@ Bror Lagercrantz
 Broskganoider
 Brossard
 Brossasco
+Brosses
 Broströmska stiftelsen
 Brother Isle
 Brotherhood of Railroad Signalmen
@@ -8805,6 +8782,7 @@ Camilla Thulin
 Camille Claudel
 Camille Corot
 Camille Erlanger
+Camille Pelletan
 Camille Pissarro
 Camille Saint-Saëns
 Camillien Houde
@@ -10026,6 +10004,7 @@ Charlotte Luth
 Charlotte M. Taylor
 Charlotte Munck
 Charlotte Perrelli
+Charlotte, Michigan
 Charlotte, North Carolina
 Charlottenlund Travbane
 Charlottesville
@@ -11768,6 +11747,7 @@ Crash! Boom! Live!
 Crashdïet
 Crass
 Crassulaceae
+Crataegus pomasae
 Cratfield
 Cratyna
 Cratyna nigerrima
@@ -13110,6 +13090,7 @@ Dendrocoelidae
 Dendrocoelopsis
 Dendrocoelopsis americana
 Dendrokronologi
+Dendryphiopsis atra
 Dene-kaukasika språk
 Deng Xiaoping
 Denholm
@@ -14215,6 +14196,7 @@ Duett
 Duff McKagan
 Duffel, Belgien
 Duffy
+Duffyoemida
 Dufva i Västergötland
 Duhamel (Québec)
 Duhamel-Ouest
@@ -14550,6 +14532,7 @@ Echidna
 Echininus nodulosus
 Echinostomida
 Echion
+Echium pabotii
 Echo & the Bunnymen
 Echo (musikalbum)
 Echoes: The Best of Pink Floyd
@@ -17727,6 +17710,7 @@ Fit as a Fiddle
 Fitchburg, Massachusetts
 Fittleton
 Fitz-James
+Fitzroy Falls Dam
 Fiume Freddo
 Five Flags Center
 Fivelstad
@@ -32160,6 +32144,7 @@ Lagtävlingen i fälttävlan i ridsport vid olympiska sommarspelen 2008
 Lagtävlingen i hoppning i ridsport vid olympiska sommarspelen 2000
 Lagtävlingen i hoppning i ridsport vid olympiska sommarspelen 2004
 Laguna (provins)
+Laguna Cabildo
 Laguna Salada (sjö i Mexiko, Baja California)
 Laguna de Bay
 Laguna de la Restinga nationalpark
@@ -36979,6 +36964,7 @@ Massimeno
 Massimiliano Sforza
 Massimo Busacca
 Massimo Cellino
+Massimo d'Azeglio
 Massive Attack
 Massmedia
 Massmedia i Göteborg
@@ -38414,6 +38400,7 @@ Misty Upham
 Mitanni
 Mitch McConnell
 Mitchelton–Scott
+Mitella inami
 Mithridates
 Mitla
 Mitokondrie
@@ -40512,6 +40499,7 @@ Neofuturism
 Neogastropoda
 Neohaemonia minnesotensis
 Neokonservatism
+Neoleria prominens
 Neolitikum
 Neolitiska revolutionen
 Neolitsea minor
@@ -40630,6 +40618,7 @@ New Girl
 New Glenn
 New Gold Dream (81-82-83-84)
 New Hampshire
+New Hartley
 New Haven County
 New Haven Eagles
 New Haven Eagles (1936–1943)
@@ -43387,6 +43376,7 @@ Parc des Princes
 Parc du Mont Royal
 Parc national de la Guadeloupe
 Pardasena punctata
+Pardosa procurva
 Parelasmopus albidus
 Parentes
 Pareto, Piemonte
@@ -44811,6 +44801,7 @@ Platygrapha
 Platylabus duplificans
 Platyoides
 Platyoides alpha
+Platypalpus gesticulor
 Platyprosthiogyne moheliana
 Platå
 Platåberg
@@ -45099,6 +45090,7 @@ Polygonatum cirrhifolium
 Polygrip
 Polyhymnia
 Polyklorerade bifenyler
+Polymerus punctipes
 Polymorft pervers
 Polynesien
 Polyneuropati
@@ -45964,6 +45956,7 @@ Psaltarpsalm
 Psammophis subtaeniatus
 Pseodovetenskap
 Pseudactium arcuatum
+Pseudipocragyes fruhstorferi
 Pseudoaltruism
 Pseudocercospora pseudoeucalyptorum
 Pseudocrossidium granulosum
@@ -47714,6 +47707,7 @@ River Fromme
 Riverbank Arena
 Rivers
 Rivers Cuomo
+Riverside Museum
 Riviera (biograf)
 Riviera di Levante
 Riviera di Ponente
@@ -50864,6 +50858,7 @@ Science fiction-författare
 Scientific Memoirs
 Scientolog
 Scindapsus altissimus
+Sciomyza fulvescens
 Scipione Borghese
 Scissors Cut
 Sclaterkronduva
@@ -52134,6 +52129,7 @@ Skogskyrkogården
 Skogsmil
 Skogsmöss
 Skogsrået
+Skogsskötselsystem
 Skogstak
 Skogstjärnen (Töllsjö socken, Västergötland)
 Skogstundra
@@ -56165,6 +56161,7 @@ Système universitaire de documentation
 Syzygium
 Syzygium caudatilimbum
 Syzygium finetii
+Syzygium globiflorum
 Syzygium lanceolarium
 Syzygium munronii
 Szabadfalu
@@ -63492,6 +63489,7 @@ Westdeutscher Rundfunk
 Westerfield
 Westerlo
 Westermalms IF
+Western Academy of Beijing
 Western Australia
 Western Football League
 Western Hockey League
@@ -64143,6 +64141,7 @@ Wycombe Wanderers FC
 Wyoming
 Wyoming County, New York
 Wyoming County, Pennsylvania
+Wyoming, Iowa
 Wyomings guvernör
 Wyomissing
 Wängi
@@ -64501,6 +64500,7 @@ Zapatisterna
 Zaphne implicata
 Zapopan
 Zaporizjzjas kärnkraftverk
+Zapotalito
 Zapoteker
 Zara Larsson
 Zara Larssons diskografi

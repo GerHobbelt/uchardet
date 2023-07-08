@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Bronivka, Volociîsk
-Applause
-Grup de fântâni cu cumpănă din Tătaru
-Eichhorst (Mecklenburg)
-Patinaj artistic la Jocurile Olimpice de iarnă din 2022 - Perechi
-Urawa Red Diamonds
-Alfred Vail
-Comitatul Iosco, Michigan
-Drotaverină
-I Told You So (preluare de Carrie Underwood)
-Insulele Pakri
-Uedem
-Falga
-Weikersheim
-Oacadi
-Acid arahidic
-John Merivale
-Nemescu
-Anii 100 î.Hr.
-Alef
-Amiota nigrescens
-Lawson (autor)
-Biserica fortificată din Drăușeni
-Motovîlivska Slobidka, Fastiv
-Agricola Filip
-Leucoantocianidină
-Recife
-Les Authieux-du-Puits
-Comuna Șona, Alba
-Raków Częstochowa
 ''Sistemul politic''
 'Twas the Night
 (Academy of Motion Picture Arts and Sciences (AMPAS))
@@ -2212,6 +2182,7 @@ Acid 2,4-diclorofenosiacetic
 Acid Western
 Acid acetic
 Acid alginic
+Acid arahidic
 Acid arahidonic
 Acid benzoic
 Acid butiric
@@ -2790,6 +2761,7 @@ Agrarianism
 Agrarianism românesc
 Agrate Conturbia
 Agrement
+Agricola Filip
 Agricultura Clujului
 Agricultura României
 Agricultura în Roma Antică
@@ -4328,6 +4300,7 @@ Amintiri din copilărie
 Amintiri din viitor
 Amintiri pierdute
 Amions
+Amiota nigrescens
 Amiota onchopyga
 Amir Mokri
 Amir Zeyada
@@ -4897,6 +4870,7 @@ Ani-lumină
 Anibal Teodorescu
 Anicuns
 Anicée Alvina
+Anii 100 î.Hr.
 Anii 1100
 Anii 1300
 Anii 1400
@@ -5651,6 +5625,7 @@ Appenzell Innerrhoden
 Appian Way Productions
 Appiano sulla Strada del Vino
 Appilly
+Applause
 Apple A6
 Apple Cinema Display
 Apple Developer Connection
@@ -12386,6 +12361,7 @@ Bronhodilatator
 Bronhopneumopatie obstructivă cronică
 Broni
 Bronisław Geremek
+Bronivka, Volociîsk
 Brontë (film)
 Bronz
 Bronze and Sunflower
@@ -18827,6 +18803,7 @@ Comitatul Humboldt, Iowa
 Comitatul Hunedoara
 Comitatul Hyde, Carolina de Nord
 Comitatul Ida, Iowa
+Comitatul Iosco, Michigan
 Comitatul Iowa, Iowa
 Comitatul Iowa, Wisconsin
 Comitatul Iredell, Carolina de Nord
@@ -20875,6 +20852,7 @@ Comuna Șklîn, Horohiv
 Comuna Șoarș, Brașov
 Comuna Șoimari, Prahova
 Comuna Șoimuș, Hunedoara
+Comuna Șona, Alba
 Comuna Șotrile, Prahova
 Comuna Ștefan cel Mare, Argeș
 Comuna Ștefești, Prahova
@@ -26373,6 +26351,7 @@ Drosophila mercatorum
 Drosophila pictifrons
 Drosophila wassermani
 Drosophilidae
+Drotaverină
 Droue-sur-Drouette
 Drouetius azoricus
 Drouetius borgesi
@@ -27304,6 +27283,7 @@ Egyházasrádóc, Vas
 Ehingen
 Ehlenz
 Ehren Kruger
+Eichhorst (Mecklenburg)
 Eichstätt (district)
 Eid ul-Fitr
 Eidgenosse
@@ -34541,6 +34521,7 @@ Grundy Center, Iowa
 Grunge
 Grup Feroviar Român
 Grup d'Elx
+Grup de fântâni cu cumpănă din Tătaru
 Grup de galaxii
 Grup etnic
 Gruparea Contimporanul
@@ -37262,6 +37243,7 @@ I Shot an Arrow into the Air
 I Sing the Body Electric (The Twilight Zone)
 I Spy (film)
 I Think We're Alone Now
+I Told You So (preluare de Carrie Underwood)
 I Turn to You
 I Want My Dinner
 I Want to Go Home (film)
@@ -38307,6 +38289,7 @@ Insulele Hawaii
 Insulele Marchize
 Insulele Mariane de Nord
 Insulele Minore Îndepărtate ale Statelor Unite
+Insulele Pakri
 Insulele Prundu cu păsări
 Insulele Scilly
 Insulele Sub Vânt
@@ -40770,6 +40753,7 @@ John McTiernan
 John Meade Falkner
 John Meehan
 John Melville
+John Merivale
 John Michael Hayes
 John Michael McDonagh
 John Milius
@@ -44007,6 +43991,7 @@ Lawrence of Arabia
 Lawrence of Arabia (film)
 Lawrence, Massachusetts
 Lawrence, Massachusetts)
+Lawson (autor)
 Laxativ
 Lay, Loire
 Lay-Lamidou
@@ -44709,6 +44694,7 @@ Les Assions
 Les Autels-Saint-Bazile
 Les Autels-Villevillon
 Les Authieux-Papion
+Les Authieux-du-Puits
 Les Authieux-sur-Calonne
 Les Automatistes
 Les Avanchers-Valmorel
@@ -44894,6 +44880,7 @@ Leu românesc
 Leucemie
 Leuchey
 Leucip
+Leucoantocianidină
 Leucoraja circularis
 Leucoraja ocellata
 Leucorrhinia intermedia ijimai
@@ -54204,6 +54191,7 @@ Motor termic
 Motor, Iowa
 Motorul analitic
 Motorul cu distorsiune (Star Trek)
+Motovîlivska Slobidka, Fastiv
 Mott the Hoople
 Motta
 Motta (companie)
@@ -56108,6 +56096,7 @@ Nemci, Nova Gorica
 Nemertina
 Nemesbőd, Vas
 Nemescsó, Vas
+Nemescu
 Nemesdéd, Somogy
 Nemesgulács, Veszprém
 Nemesgörzsöny, Veszprém
@@ -57765,6 +57754,7 @@ ONE Championship: Reign of Valor
 OPENSTEP
 ORCID
 OVirt
+Oacadi
 Oadby and Wigston
 Oaie domestică
 Oak Hills, Oregon
@@ -60429,6 +60419,7 @@ Path tracing
 Pathé
 Patima de sub ulmi
 Patinaj artistic
+Patinaj artistic la Jocurile Olimpice de iarnă din 2022 - Perechi
 Patinaj viteză
 Patis
 Patiserie
@@ -65774,6 +65765,7 @@ Rakovice
 Rakovnik pri Birčni vasi
 Rakovski
 Rakuten
+Raków Częstochowa
 Raleigh Hills, Oregon
 Raleigh, Carolina de Nord
 Raleigh, North Carolina
@@ -82307,6 +82299,7 @@ Udmurtia
 Udo Kier
 Udvar, Baranya
 Udvari, Tolna
+Uedem
 Ueli Maurer
 Uelversheim
 Uffizi
@@ -82919,6 +82912,7 @@ Uraniu
 Uranus
 Uranus (1990 film)
 Uranus (mitologie)
+Urawa Red Diamonds
 Urban al VIII-lea
 Urbana, Veneto
 Urbandale, Iowa
@@ -85739,6 +85733,7 @@ Wehingen
 Wehrmacht
 Weiden in der Oberpfalz
 Weidingen
+Weikersheim
 Weilheim-Schongau
 Weimar
 Weimar Republic

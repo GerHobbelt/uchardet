@@ -57,36 +57,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Skrižanj Mali
-Pritjecanje
-Plazma rasplinjavanje
-Opsada Beograda 1717.
-Izanagi
-Feministički urbanizam
-Not Fair
-Sarangui Bulsichak
-Kostelj
-Glas hrvatske žrtve – Zid boli
-Tsaile, Arizona
-Port Royal
-Oak Grove (Teksas)
-Kraljevina Bohemija
-I'm Goin' Down
-Prvenstvo Hrvatske u boćanju 2004.
-Bastaji
-Ederson
-Antonio Smareglia
-Valley Ford (Kalifornija)
-Jezici Gane
-Grčki alfabet
-NK Sloga Gredelj Zagreb
-Lackland AFB (Teksas)
-NGC 7783A
-Kalama (kraljica)
-Hodočašće Childea Harolda
-Konac
-Domusnovas
-Vildana Selimbegović
 "Glass cockpit" pilotska kabina
 (457175) 2008 GO98
 (Anthony Burgess's) New York
@@ -6653,6 +6623,7 @@ Bassas da India
 Basse-Terre
 Basshunter
 Bastahe
+Bastaji
 Bastasi (Foča, BiH)
 Bastašići
 Bastia
@@ -13730,6 +13701,7 @@ Domovinski most
 Domovinski pokret
 Domovinski rat
 Domus
+Domusnovas
 Don Airey
 Don Ameche
 Don Bernarde Albe
@@ -15120,6 +15092,7 @@ Eddyville (Nebraska)
 Edelweiss (pjesma)
 Eden Arena
 Edera awyu jezik
+Ederson
 Ederson Moraes
 Edessa (Grčka)
 Edgar (Nebraska)
@@ -17106,6 +17079,7 @@ Felix de Silva Avellar Brotero
 Fellin
 Felton Spencer
 Fembe jezik
+Feministički urbanizam
 Feminizam
 Femića Krš
 Femminiello
@@ -19150,6 +19124,7 @@ Glaphyra
 Glas Istre
 Glas Koncila
 Glas Slavonije
+Glas hrvatske žrtve – Zid boli
 Glasgow
 Glasnost
 Glasovir
@@ -20516,6 +20491,7 @@ Grčke Prefekture
 Grčke periferije
 Grčke prefekture
 Grčki
+Grčki alfabet
 Grčki filozofi
 Grčki jezik
 Grčko pismo
@@ -21854,6 +21830,7 @@ Hodod
 Hodočasnik
 Hodočasnička crkva u Wiesu
 Hodočašće
+Hodočašće Childea Harolda
 Hodošan
 Hodžići (Kakanj, BiH)
 Hoegea
@@ -23011,6 +22988,7 @@ I konje ubijaju, zar ne?
 I'll Remember
 I'm Breathless
 I'm Glad
+I'm Goin' Down
 I'm Going to Tell You a Secret
 I'm Gonna Be Alright
 I'm Into You
@@ -24421,6 +24399,7 @@ Izaija (knjiga)
 Izak Aleksandrijski
 Izak I. Komnen
 Izak II. Angel
+Izanagi
 Izaurijska dinastija
 Izbavitelji
 Izbačajnik
@@ -25448,6 +25427,7 @@ Jezgra (računarstvo)
 Jezgreni DNK
 Jezici
 Jezici Europe
+Jezici Gane
 Jezici Papue Nove Gvineje
 Jezici u Europi
 Jezik
@@ -26901,6 +26881,7 @@ Kal-e Šurab
 Kalabarsko Carstvo
 Kalabhra
 Kalajoki
+Kalama (kraljica)
 Kalamata
 Kalambo
 Kalanjevci
@@ -28585,6 +28566,7 @@ Komušina
 Komušina Donja
 Komušina Gornja
 Komšići
+Konac
 Konak (Sarajevo)
 Konavle
 Konavoski rat
@@ -29357,6 +29339,7 @@ Kraljevina (2007)
 Kraljevina Abhazija
 Kraljevina Armenija
 Kraljevina Bahrein
+Kraljevina Bohemija
 Kraljevina Bosna
 Kraljevina Butan
 Kraljevina Crna Gora
@@ -30461,6 +30444,7 @@ Lachnia
 Lachnopterus
 Lacij
 Lacići
+Lackland AFB (Teksas)
 Laconi
 Lacordaire
 Lacordairina
@@ -40242,6 +40226,7 @@ NGC 7719-1
 NGC 7720
 NGC 7720-1
 NGC 7720-2
+NGC 7783A
 NGC 7800
 NGC 787
 NGC 788
@@ -40761,6 +40746,7 @@ NK Sloga (Dol)
 NK Sloga Bjelovar
 NK Sloga Dol
 NK Sloga Ernestinovo
+NK Sloga Gredelj Zagreb
 NK Sloga Guber
 NK Sloga Koritna
 NK Sloga Ljubuški
@@ -42541,6 +42527,7 @@ Noskovci
 Nosna šupljina
 Nosorog
 Nosorozi
+Not Fair
 Not Like the Movies
 Not Myself Tonight
 Not of This Earth
@@ -42922,6 +42909,7 @@ ORP Fala
 ORP Orzeł (1938)
 OTP banka Hrvatska
 Oak Glen (Kalifornija)
+Oak Grove (Teksas)
 Oak Springs, Arizona
 Oakes Ames (botaničar)
 Oakland Seals
@@ -43686,6 +43674,7 @@ Oprtalj
 Opruga
 Opršinac
 Opsada Beograda 1690.
+Opsada Beograda 1717.
 Opsada Beča
 Opsada Beča 1529.
 Opsada Braničeva
@@ -47384,6 +47373,7 @@ PlayStation Vue
 Playboy
 Plazma
 Plazma (fizika)
+Plazma rasplinjavanje
 Plazmodezma
 Plaća
 Plačkovac
@@ -48367,6 +48357,7 @@ Porotherm
 Poroče
 Porsche
 Port Moresby
+Port Royal
 Port Sudan
 Port of Rijeka
 Porta Nigra
@@ -49224,6 +49215,7 @@ Pristupanje Makedonije Europskoj uniji
 Pristupanje Srbije Europskoj uniji
 Pristupanje Turske Europskoj uniji
 Pritam Rani Siwach
+Pritjecanje
 Pritok
 Privala
 Privalj
@@ -49610,6 +49602,7 @@ Prva češka nogometna liga
 Prva španjolska republika
 Prva županijska nogometna liga
 Prvanj
+Prvenstvo Hrvatske u boćanju 2004.
 Prvenstvo Hrvatske u dvoranskom hokeju 2018.
 Prvenstvo Hrvatske u nogometu
 Prvenstvo Hrvatske u nogometu za juniore 2001./02.
@@ -52943,6 +52936,7 @@ Sarajevski nogometni podsavez
 Sarajevsko polje
 Sarajevsko-zenička kotlina
 Sarajlije
+Sarangui Bulsichak
 Saranovići
 Sarapinagh
 Sarathropezus
@@ -54388,6 +54382,7 @@ Skradnik
 Skradno
 Skrbnička država
 Skrewdriver
+Skrižanj Mali
 Skrotum
 Skroze
 Skrte
@@ -60849,6 +60844,7 @@ Valladolid (pokrajina)
 Valle nacional činantek
 Valledoria
 Valletta
+Valley Ford (Kalifornija)
 Valna duljina
 Valna teorija
 Valomet
@@ -61660,6 +61656,7 @@ Vila misterija
 Vila papirusa
 Vilamovski jezik
 Vilchesia
+Vildana Selimbegović
 Vilela jezik
 Vilenica (Travnik, BiH)
 Vilenica (planina u BiH)

@@ -58,36 +58,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Montabert (Aube)
-Vintage Mecanic
-Université de Milan
-Dobrá (district de Frýdek-Místek)
-CNY
-Cesarska Ves
-Lewistown (Pennsylvanie)
-Bad Schwalbach
-Ferme ECA 148
-Caspar Wessel
-Néophobie alimentaire
-Gyltvikmoen
-Désastre d'Aznalcóllar
-Fabien Morel
-Desmond Koch
-Thomas Deruette
-Sepiana sepium
-Shokukokin wakashū
-Nasser Zefzafi
-Tay (Ontario)
-Marcantonio Bobba
-Limage des dents à Bali
-Pantherophis vulpinus
-Signe des cornes
-Edme Aimé Lucotte
-Eupnoi
-Sekirani
-Référendum constitutionnel comorien de 2018
-Orbiter (attraction)
-Coriance
 $uicideboy$
 ''First Aid Kit''
 'Imrān
@@ -7971,6 +7941,7 @@ Bad Religion
 Bad Salzuflen
 Bad Saulgau
 Bad Schandau
+Bad Schwalbach
 Bad Times (film)
 Bad Toys 2
 Bad Toys II
@@ -12324,6 +12295,7 @@ Casimir Perier
 Casino (film)
 Casio
 Caspar David Friedrich
+Caspar Wessel
 Casper (film)
 Casque
 Casque de moto
@@ -12655,6 +12627,7 @@ Cesaria Evora
 Cesaro (catch)
 Cesaro (catcheur)
 Cesaro et Sheamus
+Cesarska Ves
 Cescau (Ariège)
 Cessez-le-feu
 Cessez-le-feu (film)
@@ -17199,6 +17172,7 @@ Corey Taylor
 Corey Yuen
 Corfe Mullen
 Corgi toys
+Coriance
 Corina Morariu
 Corine Land Cover
 Corinne Fortin
@@ -19535,6 +19509,7 @@ Desmaisons
 Desmocladus
 Desmond Chiam
 Desmond Doss
+Desmond Koch
 Desmond Morton (officier)
 Desolation Row
 Desperate Housewives
@@ -20192,6 +20167,7 @@ Dobrohošť (district de Dunajská Streda)
 Dobrohošť (district de Jindřichův Hradec)
 Dobrušte
 Dobrynia Nikititch
+Dobrá (district de Frýdek-Místek)
 Dobšice (district de Nymburk)
 Doc Gallows et Karl Anderson
 Doc Hollywood
@@ -21250,6 +21226,7 @@ Dérive de Stokes
 Dérive des continents
 Dérèglement climatique
 Désarrondissement
+Désastre d'Aznalcóllar
 Désert Rebelle
 Désert d'Arabie
 Désertification
@@ -21518,6 +21495,7 @@ Edition of Contemporary Music
 Edixa
 Edma Morisot
 Edmar
+Edme Aimé Lucotte
 Edme Boursault
 Edme Gaulle
 Edme Quenedey des Riceys
@@ -22693,6 +22671,7 @@ Euphorbe petit-cyprès
 Euphorbia cyparissias
 Euphrate
 Euphémisme
+Eupnoi
 Eupoecilia
 Eurabia
 Eurasia (1984)
@@ -23028,6 +23007,7 @@ Fabiana Claudino
 Fabien Behar
 Fabien Béhar
 Fabien Gorgeart
+Fabien Morel
 Fabienne Babe
 Fabienne Carat
 Fabienne Godet
@@ -23414,6 +23394,7 @@ Fergie (chanteuse)
 Fergus Anderson
 Fergus O'Donnell
 Fermate il mondo... voglio scendere!
+Ferme ECA 148
 Ferme de corps
 Ferme tes jolis yeux
 Ferme verticale
@@ -28015,6 +27996,7 @@ Gwerz (groupe)
 Gwilym Lloyd George
 Gwyneth Paltrow
 Gylippus afghanensis
+Gyltvikmoen
 Gym Class Heroes
 Gymkhana (moto)
 Gymnandrosoma
@@ -39523,6 +39505,7 @@ Lewis Miley
 Lewis R. Freeman
 Lewis Spratlan
 Lewisham
+Lewistown (Pennsylvanie)
 Lewisville (Texas)
 Lewrockwell
 Lex Land
@@ -39793,6 +39776,7 @@ Lily Tomlin
 Lilí Álvarez
 Lima Barreto
 Limace
+Limage des dents à Bali
 Limbiate
 Limeulia
 Limhamn
@@ -42512,6 +42496,7 @@ Marc-André Selosse
 Marc-Antoine Charpentier
 Marc-Gilbert Sauvajon
 Marc-René de Voyer de Paulmy d'Argenson (1771-1842)
+Marcantonio Bobba
 Marcel Achard
 Marcel Alexandre Bertrand
 Marcel Aymar
@@ -45320,6 +45305,7 @@ Mont-Sainte-Gertrude
 Mont-Ventoux
 Mont-de-Marsan
 Monta Ellis
+Montabert (Aube)
 Montage parallèle
 Montagnana
 Montagne Noire (Australie)
@@ -46592,6 +46578,7 @@ Nassau (Bahamas)
 Nassau Coliseum
 Nasser Al-Shamrani
 Nasser Eid
+Nasser Zefzafi
 Nasser al-Shamrani
 Nat Carr
 Nat King Cole
@@ -47930,6 +47917,7 @@ Néolithique précéramique A
 Néolithique précéramique B
 Néologisme
 Néonazisme
+Néophobie alimentaire
 Néoprotérozoïque
 Néoptolème
 Néoptolème Ier
@@ -48664,6 +48652,7 @@ Orateur
 Orbassano
 Orbe (Vaud)
 Orbital (groupe)
+Orbiter (attraction)
 Orbitolina
 Orcades
 Orcha
@@ -49469,6 +49458,7 @@ Panspermie
 Pantages Theatre
 Pantalonnade
 Panthalassa
+Pantherophis vulpinus
 Panthers de Pittsburgh
 Panthers de la Floride
 Panthéon (Paris)
@@ -56055,6 +56045,7 @@ Réfraction
 Réfugié
 Réfutabilité
 Référendum
+Référendum constitutionnel comorien de 2018
 Référendum de 1998 sur l'Autorité du Grand Londres
 Référendum de 2017 sur l'indépendance de la Catalogne
 Référendum de dévolution de l'Écosse de 1979
@@ -57964,6 +57955,7 @@ Seine-et-Marne
 Seinen
 Seinfeld
 Sekai wa Sore Demo Kawari wa Shinai
+Sekirani
 Sekirei (anime)
 Sekret Enigmy
 Sel alimentaire
@@ -58026,6 +58018,7 @@ Seokjojeotaek salinsagun
 Seol Kyeong-gu
 Seonjo
 Separated at Worth
+Sepiana sepium
 Sepiida
 Sepp Ferstl
 Sepphoris
@@ -58487,6 +58480,7 @@ Shocker (film)
 Shoehorn
 Shogun (mini-série)
 Shoichi Funaki
+Shokukokin wakashū
 Shola Ameobi
 Shona Robison
 Shonda Rhimes
@@ -58627,6 +58621,7 @@ Signalisation bilingue
 Signalisation cellulaire
 Signalisation maritime
 Signature en télédétection
+Signe des cornes
 Signe diacritique
 Signe linguistique
 Signe moins
@@ -62063,6 +62058,7 @@ Taxodium mucronatum
 Taxon
 Taxonomie
 Taxonomie de Bloom
+Tay (Ontario)
 Tay (fleuve)
 Tay Garnett
 Taye Diggs
@@ -63566,6 +63562,7 @@ Thomas Crump
 Thomas D. Cook
 Thomas De Koninck
 Thomas Denman
+Thomas Deruette
 Thomas Doisy
 Thomas Dutronc
 Thomas Edison
@@ -66682,6 +66679,7 @@ Université de Liverpool
 Université de Louisville
 Université de Manchester
 Université de Marbourg
+Université de Milan
 Université de Moncton
 Université de Nanterre
 Université de Naples - Frédéric-II
@@ -67565,6 +67563,7 @@ Vinnie Jones
 Vinnytsia
 Vinod Jose
 Vint Cerf
+Vintage Mecanic
 Vintage Trouble
 Vintimille
 Vinyle

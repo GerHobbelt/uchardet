@@ -58,36 +58,6 @@ Clytemnestra
 Baba Yaga
 transistor
 diode
-Nicodemus Tessin mladší
-Kanto
-Tatra T5C5
-Aristillus (kráter)
-Vřesovice (okres Hodonín)
-Bourdeaux (kantón)
-Magny-le-Freule
-Atlas (mesiac)
-Mousseaux-sur-Seine
-Matej Kristín
-Systém sociálneho kreditu
-Doprava v Košiciach
-2282 Andres Bello
-Rouvres-en-Woëvre
-Turistická značkovaná trasa číslo 2405
-Debet
-Oskovec
-NGC 3524
-Piazzali
-Giżycko
-BTV
-Saint-Georges (Cantal)
-Brandérion
-.om
-Gmina Ułęż
-Muttersholtz
-Agrón (rozlišovacia stránka)
-Calippus
-Zoznam iných liečiv respiračného systému
-Radónové riziko
 "Country" Winston Marshall
 "Heroes" (album)
 "Heroes" (pieseň)
@@ -880,6 +850,7 @@ Radónové riziko
 22. september
 22. Šachová olympiáda
 222 pred Kr.
+2282 Andres Bello
 2286 Fesenkov
 2287 Kalmykia
 2288 Karolinum
@@ -2301,6 +2272,7 @@ Agrigento
 Agrippa
 Agrippina
 Agrárna strana vidieka
+Agrón (rozlišovacia stránka)
 Aguardiente
 Agudelle
 Aguilera
@@ -4249,6 +4221,7 @@ Arista Nashville
 Arista Records
 Aristandros z Telméssu
 Aristide Boucicaut
+Aristillus (kráter)
 Aristipp
 Aristippos z Kyrény
 Aristokracia
@@ -4628,6 +4601,7 @@ Atlantida (opera)
 Atlantis (raketoplán)
 Atlantis (skladba)
 Atlantída
+Atlas (mesiac)
 Atlas (mytológia)
 Atlas (raketa)
 Atlas V
@@ -7047,6 +7021,7 @@ Bourbon (whisky)
 Bourbon-Orléans
 Bourbonovci
 Bourbourg (kantón)
+Bourdeaux (kantón)
 Bouresse
 Bourg-Achard (kantón)
 Bourg-Beaudouin
@@ -7144,6 +7119,7 @@ Brandon Flowers
 Brandon Kroeger
 Brandtaucher
 Brandy Norwood
+Brandérion
 Brandýsek
 Braniboři v Čechách
 Branický most
@@ -8092,6 +8068,7 @@ Californication (album)
 Californication (skladba)
 Caligula
 Calipoli
+Calippus
 Calista Flockhartová
 Call Me Irresponsible
 Call Me Irresponsible (album)
@@ -10864,6 +10841,7 @@ Debbie Rowe
 Debbie Roweová
 Debbie Wiseman
 Debby Boone
+Debet
 Debnenie
 Debora (opera)
 Deborah Chow
@@ -16440,6 +16418,7 @@ Give Yourself a Try
 Giving You the Best That I Got (song)
 Givrycourt
 Giya Kancheli
+Giżycko
 Gjirokastër
 Glabušovce
 Glacifluviálny kužeľ
@@ -16538,6 +16517,7 @@ Gmina Ochotnica Dolna
 Gmina Siemkowice
 Gmina Stawiski
 Gmina Turośl
+Gmina Ułęż
 Gmina Węgierska Górka
 Gmina Zakrzewo (powiat aleksandrowski)
 Gmina Zblewo
@@ -23336,6 +23316,7 @@ Kansas (štát USA)
 Kansas City (Missouri)
 Kansas City Blades
 Kansas City Wizards
+Kanto
 Kantón (Francúzsko)
 Kantón (Švajčiarsko)
 Kanye West
@@ -28424,6 +28405,7 @@ Magnum Photos
 Magnus Maximus
 Magny
 Magny-en-Vexin (kantón)
+Magny-le-Freule
 Magnólia
 Magnóliová ulica (Bratislava)
 Magog
@@ -30084,6 +30066,7 @@ Matej Josko
 Matej Jurčo
 Matej Kazár
 Matej Korvín
+Matej Kristín
 Matej Landl
 Matej Landl ml.
 Matej Ružička
@@ -32203,6 +32186,7 @@ Mountfield HK
 Mountlake Terrace
 Mourad Melki
 Mouron
+Mousseaux-sur-Seine
 Moussy-Verneuil
 Moustérien
 Mouth to Mouth
@@ -32400,6 +32384,7 @@ Mute Records
 Mutio Vitelleschi
 Mutiu Adepoju
 Mutsu (bojová loď)
+Muttersholtz
 Mutácia
 Mutěnice (okres Strakonice)
 Muzeálna slovenská spoločnosť
@@ -32719,6 +32704,7 @@ NGC 3230
 NGC 3293
 NGC 3372
 NGC 3496
+NGC 3524
 NGC 3560
 NGC 3576
 NGC 3603
@@ -33759,6 +33745,7 @@ Nicky Hopkins
 Nico Lamponi
 Nico Schulz
 Nico Van Kerckhoven
+Nicodemus Tessin mladší
 Nicolaas Bloembergen
 Nicolae Ceauşescu
 Nicolas Anelka
@@ -35635,6 +35622,7 @@ Osiník
 Oskar Nedbal
 Oskava (okres Šumperk)
 Oskorušová ulica (Bratislava)
+Oskovec
 Oslavice
 Oslavička
 Oslip
@@ -41208,6 +41196,7 @@ Piata križiacka výprava
 Piata ulica (Bratislava)
 Piatok
 Piaty Beatle
+Piazzali
 Picasa
 Piccadilly Line
 Pichne
@@ -43731,6 +43720,7 @@ Radvaň
 Radvaň (Banská Bystrica)
 Radvaň nad Dunajom
 Radón
+Radónové riziko
 Radějovice (okres Strakonice)
 Radňoves
 Radňovice
@@ -45158,6 +45148,7 @@ Roussines (Indre)
 Routledge
 Routot (kantón)
 Rouville (Oise)
+Rouvres-en-Woëvre
 Rouvroy (kantón)
 Rovensko (okres Šumperk)
 Rovečné
@@ -47041,6 +47032,7 @@ Saint-Fréjoux
 Saint-Gaudens
 Saint-Gaultier (kantón)
 Saint-Gelven
+Saint-Georges (Cantal)
 Saint-Georges-de-Montclard
 Saint-Georges-du-Vièvre (kantón)
 Saint-Georges-sur-Loire (kantón)
@@ -51358,6 +51350,7 @@ Syslia ulica
 Systemizácia
 Systém názvov domén
 Systém relatívnej väčšiny
+Systém sociálneho kreditu
 Systém živých organizmov
 Systémová jednotka
 Systémový lupus erythematodes
@@ -54098,6 +54091,7 @@ Turingova cena
 Turingova úplnosť
 Turistická ulica (Bratislava)
 Turistická značka
+Turistická značkovaná trasa číslo 2405
 Turistické značenie
 Turistika
 Turkestan
@@ -56880,6 +56874,7 @@ Věžovatá Pláně
 Vŕbová ulica (Banská Bystrica)
 Vŕbová ulica (Bratislava)
 Vŕšok (vrch v Slovenskom krase)
+Vřesovice (okres Hodonín)
 Všeobecná deklarácia ľudských práv
 Všeobecná teória relativity
 Všeobecná úverová banka
@@ -58566,6 +58561,7 @@ Zoznam hviezd podľa súhvezdia
 Zoznam hviezd s planétami
 Zoznam internetových domén najvyššej úrovne
 Zoznam inváznych druhov na Slovensku
+Zoznam iných liečiv respiračného systému
 Zoznam jaskýň a priepastí v Slovenskom krase
 Zoznam jazykov
 Zoznam jazykov podľa počtu hovoriacich
