@@ -43,6 +43,7 @@
 #include <string.h>
 
 #include "../src/uchardet.h"
+#include "../src/tools/monolithic_examples.h"
 
 #if defined(_MSC_VER)
 #  define strcasecmp(a, b)		stricmp(a, b)
