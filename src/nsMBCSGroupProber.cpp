@@ -295,21 +295,43 @@ nsProbingState nsMBCSGroupProber::HandleData(const char* aBuf, PRUint32 aLen,
       {
         for (PRUint32 i = 0; i < NUM_OF_PROBERS; i++)
         {
+          int sequenceLength;
+
           if (!mIsActive[i])
             continue;
 
-          if (codePointBuffer[i])
-            st = mProbers[i]->HandleData(aBuf + start, pos + 1 - start,
-                                         &(codePointBuffer[i]), &(codePointBufferIdx[i]));
-          else
-            st = mProbers[i]->HandleData(aBuf + start, pos + 1 - start, NULL, NULL);
+          sequenceLength = pos + 1 - start;
 
-          if (codePointBufferIdx[i] > 0 && codePointBuffer[i])
+          if (codePointBuffer[i] && codePointBufferIdx[i] + sequenceLength > codePointBufferSize[i])
           {
             for (PRUint32 j = 0; j < NUM_OF_LANGUAGES; j++)
               langDetectors[i][j]->HandleData(codePointBuffer[i], codePointBufferIdx[i]);
             codePointBufferIdx[i] = 0;
           }
+
+          if (codePointBuffer[i])
+            {
+              while (sequenceLength > 0)
+                {
+                  int subLength = (sequenceLength > codePointBufferSize[i]) ? codePointBufferSize[i] : sequenceLength;
+
+                  st = mProbers[i]->HandleData(aBuf + start, subLength,
+                                               &(codePointBuffer[i]), &(codePointBufferIdx[i]));
+
+                  if (codePointBufferIdx[i] > 0)
+                  {
+                    for (PRUint32 j = 0; j < NUM_OF_LANGUAGES; j++)
+                      langDetectors[i][j]->HandleData(codePointBuffer[i], codePointBufferIdx[i]);
+                    codePointBufferIdx[i] = 0;
+                  }
+
+                  sequenceLength -= subLength;
+                }
+            }
+          else
+            {
+              st = mProbers[i]->HandleData(aBuf + start, sequenceLength, NULL, NULL);
+            }
 
           if (st == eFoundIt)
           {
