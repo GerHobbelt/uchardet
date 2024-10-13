@@ -48,6 +48,7 @@ class CharDistributionAnalysis
 {
 public:
   CharDistributionAnalysis() {Reset(PR_FALSE);}
+	virtual ~CharDistributionAnalysis() = default;
 
   //feed a block of data and do distribution analysis
   void HandleData(const char* aBuf, PRUint32 aLen) {}
@@ -126,6 +127,7 @@ class EUCTWDistributionAnalysis: public CharDistributionAnalysis
 {
 public:
   EUCTWDistributionAnalysis();
+	virtual ~EUCTWDistributionAnalysis() = default;
 protected:
 
   //for EUC-TW encoding, we are interested
@@ -145,6 +147,7 @@ class EUCKRDistributionAnalysis : public CharDistributionAnalysis
 {
 public:
   EUCKRDistributionAnalysis();
+	virtual ~EUCKRDistributionAnalysis() = default;
 protected:
   //for euc-KR encoding, we are interested 
   //  first  byte range: 0xb0 -- 0xfe
@@ -163,6 +166,7 @@ class JohabDistributionAnalysis : public CharDistributionAnalysis
 {
 public:
   JohabDistributionAnalysis();
+	virtual ~JohabDistributionAnalysis() = default;
 protected:
   //for Johab encoding, we are interested
   //  first  byte range: 0x88 -- 0xd3
@@ -183,6 +187,7 @@ class GB2312DistributionAnalysis : public CharDistributionAnalysis
 {
 public:
   GB2312DistributionAnalysis();
+	virtual ~GB2312DistributionAnalysis() = default;
 protected:
   //for GB2312 encoding, we are interested 
   //  first  byte range: 0xb0 -- 0xfe
@@ -201,6 +206,7 @@ class Big5DistributionAnalysis : public CharDistributionAnalysis
 {
 public:
   Big5DistributionAnalysis();
+	virtual ~Big5DistributionAnalysis() = default;
 protected:
   //for big5 encoding, we are interested 
   //  first  byte range: 0xa4 -- 0xfe
@@ -221,6 +227,7 @@ class SJISDistributionAnalysis : public CharDistributionAnalysis
 {
 public:
   SJISDistributionAnalysis();
+	virtual ~SJISDistributionAnalysis() = default;
 protected:
   //for sjis encoding, we are interested 
   //  first  byte range: 0x81 -- 0x9f , 0xe0 -- 0xef
@@ -246,6 +253,7 @@ class EUCJPDistributionAnalysis : public CharDistributionAnalysis
 {
 public:
   EUCJPDistributionAnalysis();
+	virtual ~EUCJPDistributionAnalysis() = default;
 protected:
   //for euc-JP encoding, we are interested 
   //  first  byte range: 0xa0 -- 0xfe
