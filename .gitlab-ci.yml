@@ -67,7 +67,6 @@ win64:
         gcc-mingw-w64-x86-64
         g++-mingw-w64-x86-64
         git
-        python3-distutils
         python3-docutils
         rpm
     - apt-get install -y --reinstall ca-certificates
@@ -98,7 +97,6 @@ win32:
         gcc-mingw-w64-i686
         g++-mingw-w64-i686
         git
-        python3-distutils
         python3-docutils
         rpm
     - apt-get install -y --reinstall ca-certificates
