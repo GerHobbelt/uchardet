@@ -108,7 +108,9 @@ protected:
 
 class SJISContextAnalysis : public JapaneseContextAnalysis
 {
-  //SJISContextAnalysis(){};
+public:
+	SJISContextAnalysis() = default;
+	virtual ~SJISContextAnalysis() = default;
 protected:
   PRInt32 GetOrder(const char* str, PRUint32 *charLen);
 
@@ -125,6 +127,9 @@ protected:
 
 class EUCJPContextAnalysis : public JapaneseContextAnalysis
 {
+public:
+	EUCJPContextAnalysis() = default;
+	virtual ~EUCJPContextAnalysis() = default;
 protected:
   PRInt32 GetOrder(const char* str, PRUint32 *charLen);
   PRInt32 GetOrder(const char* str)

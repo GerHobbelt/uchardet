@@ -271,8 +271,9 @@ int nsLanguageDetector::GetOrderFromCodePoint(int codePoint)
     }
 
   // use O(log(F)) binary search to find this codepoint's slot:
-  // `max` is the first out-of-bounds index, i.e. max=R+1 from the perspective of the published algorithm.
-  int max = mModel->charOrderTableSize;
+  // `max` is the last within-bounds index, i.e. max=R from the perspective of the published algorithm.
+  int min = 0;
+  int max = mModel->charOrderTableSize - 1;
   int i   = max / 2;
   int c;
 
@@ -280,20 +281,18 @@ int nsLanguageDetector::GetOrderFromCodePoint(int codePoint)
   {
     if (c > codePoint)
     {
-      if (i == 0)
+      if (i == min)
         return -1;
-      max = i;
-      i = i / 2;
+      max = i - 1;
     }
     else
     {
-      i += (max + 1 - i) / 2;
-      if (i >= max)
-	  {
+      if (i == max)
         return -1;
-	  }
+      min = i + 1;
     }
+    i = min + (max - min) / 2;
   }
 
-  return mModel->charOrderTable[i * 2 + 1];
+  return (c == codePoint) ? mModel->charOrderTable[i * 2 + 1] : -1;
 }
