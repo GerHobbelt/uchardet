@@ -52,6 +52,8 @@ class JapaneseContextAnalysis
 {
 public:
   JapaneseContextAnalysis() {Reset(PR_FALSE);}
+  // fix warning C5204: class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly
+  virtual ~JapaneseContextAnalysis() = default;
 
   void HandleData(const char* aBuf, PRUint32 aLen);
 

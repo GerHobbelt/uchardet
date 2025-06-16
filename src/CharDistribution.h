@@ -48,6 +48,8 @@ class CharDistributionAnalysis
 {
 public:
   CharDistributionAnalysis() {Reset(PR_FALSE);}
+  // fix warning C5204: class has virtual functions, but its trivial destructor is not virtual; instances of objects derived from this class may not be destructed correctly
+  virtual ~CharDistributionAnalysis() = default;
 
   //feed a block of data and do distribution analysis
   void HandleData(const char* aBuf, PRUint32 aLen) {}
