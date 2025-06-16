@@ -282,6 +282,7 @@ int main(int argc, const char ** argv)
             printf("%s: ", filename);
         }
         detect(handle, f, show_lang, verbose);
+        fclose(f);
     }
 
     uchardet_delete(handle);
