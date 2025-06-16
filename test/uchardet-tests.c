@@ -51,6 +51,10 @@
 
 #define BUFFER_SIZE 65536
 
+#ifdef _MSC_VER
+#define strcasecmp _stricmp
+#endif
+
 #if defined(_WIN32) || defined(__CYGWIN__)
 #define realpath(filename,unused) _fullpath(NULL, filename, 0)
 #define SEP '\\'
