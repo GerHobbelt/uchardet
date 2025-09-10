@@ -140,6 +140,19 @@ UCHARDET_INTERFACE void         uchardet_weigh_language     (uchardet_t  ud,
 UCHARDET_INTERFACE void         uchardet_set_default_weight (uchardet_t  ud,
                                                              float       weight);
 
+/**
+ * Detects the character encoding of the given data and return its
+ * iconv-compatible name.
+ *
+ * @param data [in] pointer to the input data buffer.
+ * @param len  [in] length of the input data in bytes.
+ * @return a null-terminated string representing the detected charset name
+ *         (iconv-compatible) on success, an empty string otherwise.
+ * @note The returned pointer is valid until the next call and must not be
+ *       freed by the caller.
+ */
+const char * uchardet_detect_encoding(const char * data, size_t len);
+
 #ifdef __cplusplus
 }
 #endif
