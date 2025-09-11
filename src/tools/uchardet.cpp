@@ -227,7 +227,16 @@ int main(int argc, const char ** argv)
         (argc - n_options == 2 && strcmp(argv[argc - 1], "--") == 0))
     {
         // No file arg, use stdin by default
+#if 01
         detect(handle, f, show_lang, verbose);
+#else
+        //detect(f);
+        size_t len = fread(buffer, 1, BUFFER_SIZE, f);
+        printf("len = %lu\n", len);
+        printf("%s\n", buffer);
+        int code = uchardet_detect_encoding(buffer, len);
+        printf("%s\n", uchardet_charset_to_string(code));
+#endif		
     }
     for (int i = 1; i < argc; i++)
     {
