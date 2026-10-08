@@ -449,7 +449,24 @@ int uchardet_detect_encoding(const char * data, size_t len)
     }
 
     uchardet_data_end(ud);
-    const char* charset = uchardet_get_charset(ud);
+#if 0
+	const char* charset = uchardet_get_charset(ud);
+#else
+	size_t ncandids = uchardet_get_n_candidates(ud);
+	int selected_candidate = -1;
+	float maxconf = 0.0f;
+	for (int cand = 0; cand < ncandids; cand++) {
+		float conf = uchardet_get_confidence(ud, cand);
+		if (conf > maxconf) {
+			maxconf = conf;
+			selected_candidate = cand;
+		}
+	}
+	const char* charset = nullptr;
+	if (selected_candidate >= 0) {
+		charset = uchardet_get_encoding(ud, selected_candidate);
+	}
+#endif
 
     if (charset && charset[0] != '\0') {
         int code = uchardet_charset_from_string(charset);
