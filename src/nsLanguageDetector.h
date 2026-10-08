@@ -51,6 +51,8 @@
 #define LANG_NEUTRAL_CAT       1
 #define LANG_NEGATIVE_CAT      0
 
+#define LANG_ORDER_CACHE_SIZE 256
+
 typedef struct
 {
   const char*          langName;
@@ -107,7 +109,11 @@ typedef enum {
 
 class nsLanguageDetector {
 public:
-  nsLanguageDetector(const LanguageModel *model) : mModel(model) { Reset(); }
+  nsLanguageDetector(const LanguageModel *model) : mModel(model) {
+    for (PRUint32 i = 0; i < LANG_ORDER_CACHE_SIZE; i++)
+      mOrderCacheCodePoint[i] = -1;
+    Reset();
+  }
   virtual ~nsLanguageDetector() {}
 
   /* Unlike nsSingleByteCharSetProber, it is charset-unaware and only
@@ -140,6 +146,8 @@ protected:
   PRUint32 mOutChar;
 
 private:
+  int mOrderCacheCodePoint[LANG_ORDER_CACHE_SIZE];
+  int mOrderCacheOrder[LANG_ORDER_CACHE_SIZE];
 
   int GetOrderFromCodePoint(int codePoint);
 };

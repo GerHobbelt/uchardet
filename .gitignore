@@ -1,5 +1,6 @@
 __pycache__/
 /build/
+/CMakeUserPresets.json
 /b/
 /.vscode/
 .DS_Store

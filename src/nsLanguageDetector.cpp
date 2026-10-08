@@ -270,6 +270,10 @@ int nsLanguageDetector::GetOrderFromCodePoint(int codePoint)
 		}
     }
 
+  PRUint32 cacheIndex = ((PRUint32) codePoint) & (LANG_ORDER_CACHE_SIZE - 1);
+  if (codePoint >= 0 && mOrderCacheCodePoint[cacheIndex] == codePoint)
+    return mOrderCacheOrder[cacheIndex];
+
   // use O(log(F)) binary search to find this codepoint's slot:
   // `max` is the last within-bounds index, i.e. max=R from the perspective of the published algorithm.
   int min = 0;
@@ -294,5 +298,11 @@ int nsLanguageDetector::GetOrderFromCodePoint(int codePoint)
     i = min + (max - min) / 2;
   }
 
-  return (c == codePoint) ? mModel->charOrderTable[i * 2 + 1] : -1;
+  int order = (c == codePoint) ? mModel->charOrderTable[i * 2 + 1] : -1;
+  if (codePoint >= 0)
+  {
+    mOrderCacheCodePoint[cacheIndex] = codePoint;
+    mOrderCacheOrder[cacheIndex] = order;
+  }
+  return order;
 }

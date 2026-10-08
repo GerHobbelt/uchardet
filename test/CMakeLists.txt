@@ -30,7 +30,7 @@ set_target_properties(
 	uchardet-tests
 	PROPERTIES
 		LINKER_LANGUAGE
-			C
+			CXX
 		OUTPUT_NAME
 			uchardet-tests
 )
@@ -56,6 +56,7 @@ foreach(dir ${dirs})
 			message(STATUS "Skipping test ${lang}:${charset} (known broken)")
 		else()
 			add_test(NAME "${lang}:${testname}" COMMAND uchardet-tests ${file})
+			set_tests_properties("${lang}:${testname}" PROPERTIES TIMEOUT 30)
 		endif()
 	endforeach()
 endforeach()
