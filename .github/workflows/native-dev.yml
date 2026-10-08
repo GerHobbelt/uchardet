@@ -63,6 +63,15 @@ jobs:
         run: ctest --preset cxx20 -R '^cxx20-library-features$' -V
       - name: Install smoke test
         run: cmake --install build/${{ matrix.preset }} --prefix build/install
+      - name: Configure shared-library lifecycle test
+        if: matrix.preset == 'release'
+        run: cmake -S . -B build/shared-lifecycle -DBUILD_SHARED_LIBS=ON -DBUILD_BINARY=OFF -DBUILD_TESTING=ON -DCMAKE_BUILD_TYPE=Release
+      - name: Build shared-library lifecycle test
+        if: matrix.preset == 'release'
+        run: cmake --build build/shared-lifecycle --config Release --target uchardet-lifecycle --parallel 2
+      - name: Test shared-library lifecycle
+        if: matrix.preset == 'release'
+        run: ctest --test-dir build/shared-lifecycle -C Release -R '^native-lifecycle$' --output-on-failure --no-tests=error
 
   diagnostics:
     runs-on: ubuntu-24.04
@@ -77,8 +86,13 @@ jobs:
       - name: Tool tests
         env:
           UCHARDET_TRACE: build/release/benchmark/uchardet-trace
+          UCHARDET_FILTER_PROFILE: build/release/benchmark/uchardet-filter-profile
         run: uv run --no-project --python 3.11 python -m unittest discover -s benchmark -p 'test_*.py'
       - name: Corpus and model tool tests (offline)
+        env:
+          UCHARDET_FILTER_PROFILE: build/release/benchmark/uchardet-filter-profile
+          UCHARDET_STATIC_LIBRARY: build/release/src/libuchardet.a
+          UCHARDET_ENGINE_EXPERIMENT: '1'
         run: |
           uv run --no-project --python 3.11 python -m unittest discover -s corpus -p 'test_*.py'
           uv run --no-project --python 3.11 python -m unittest discover -s corpus/sources -p 'test_*.py'
